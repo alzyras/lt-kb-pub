@@ -33,19 +33,20 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   global_id: t-87501
   teiginys: 'Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Vaikiai; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]] surengė žygį į Vaikiai; [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]] puolė Vaikiai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 157448-158114; hash=55236915d7afb965f14c7881735909456136542109c08bc17491c4bf4719a924; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas fon Vildenbergas" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vaikiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas vedė pajėgas į Vaikius.
 
 <a id="claim-t-87502"></a>
 - t-002
@@ -128,10 +129,15 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   irodymo_stiprumas: 0.00
   saltinio_vieta: 157448-158114; hash=55236915d7afb965f14c7881735909456136542109c08bc17491c4bf4719a924; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas fon Vildenbergas" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vaikiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas vedė pajėgas į Vaikius.
+
+## Ryšiai
+- Fridrichas fon Vildenbergas surenge_zygi_i [[objektai/vietos/Vaikiai]]
+- Fridrichas fon Vildenbergas keliavo_i [[objektai/vietos/Vaikiai]]
+- Fridrichas fon Vildenbergas puole [[objektai/vietos/Vaikiai]]

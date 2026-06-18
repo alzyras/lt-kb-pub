@@ -59,19 +59,20 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   global_id: t-40055
   teiginys: 'B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie B. Kolyškos veiksmą ir Z. Sierakausko sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/B. Kolyška|B. Kolyška]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=058d5ef4d728ab50e114501d855b52f172e689105b34bfb49f69fc76fd613d01; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytis: 0.85
+  ryšio_patikimumas: kariavo_pries -> Rusai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: B. Kolyška: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytis: mention_match, thing, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "B. Kolyška" parinktas kaip owner_note_path. Targetas "Vytis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: B. Kolyška: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kontekstas rodo B. Kolyškos norą vytis besitraukiančius rusus kaip priešą.
 
 <a id="claim-t-40056"></a>
 - t-004
@@ -191,13 +192,13 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=058d5ef4d728ab50e114501d855b52f172e689105b34bfb49f69fc76fd613d01; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytis: 0.85
+  ryšio_patikimumas: kariavo_pries -> Rusai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: B. Kolyška: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytis: mention_match, thing, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "B. Kolyška" parinktas kaip owner_note_path. Targetas "Vytis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: B. Kolyška: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kontekstas rodo B. Kolyškos norą vytis besitraukiančius rusus kaip priešą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0678b329effbb2ea57d044138c100b63598fca6d6c718d5ed6234f6ce79ae15; match=fallback; occurrences=0
@@ -209,3 +210,6 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   ryšio_subjekto_parinkimas: B. Kolyška: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "B. Kolyška" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- B. Kolyška kariavo_pries [[objektai/grupes/Rusai]]

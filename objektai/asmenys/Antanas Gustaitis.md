@@ -194,3 +194,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   ryšio_subjekto_parinkimas: Antanas Gustaitis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=128
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Gustaitis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Antanas Gustaitis pastate [[objektai/daiktai/Lėktuvai]]

@@ -24,19 +24,20 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   global_id: t-99948
   teiginys: 'Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, o citata leidžia suformuluoti savarankišką sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Žemaičių kraštas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Žemaičių kraštas'
+  semantiniai_rysiai: 'Santoko pilis Dobrine priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 919390-919647; hash=05dea30d030d27c40c8672600a2be9d1cf63b4683854e9ea9bdad178725f6b2e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santoko pilis Dobrine: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santoko pilis Dobrine" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Santoko pilis Dobrine: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Santoko pilis Dobrine turėjo priklausyti kryžiuočiams.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +58,13 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   irodymo_stiprumas: 0.00
   saltinio_vieta: 919390-919647; hash=05dea30d030d27c40c8672600a2be9d1cf63b4683854e9ea9bdad178725f6b2e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santoko pilis Dobrine: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santoko pilis Dobrine" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Santoko pilis Dobrine: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Santoko pilis Dobrine turėjo priklausyti kryžiuočiams.
+
+## Ryšiai
+- Santoko pilis Dobrine priklause [[objektai/grupes/Kryžiuočių ordinas]]

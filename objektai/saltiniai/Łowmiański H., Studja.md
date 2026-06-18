@@ -34,7 +34,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   global_id: t-60905
   teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos bibliografine nuoroda.'
-  susije_objektai: 'mentioned_place: Glotava; mentioned_place: Pagudė; mentioned_place: Drevanta; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Pagudė; mentioned_place: Glotava; mentioned_place: Pagudė; mentioned_place: Drevanta; mentioned_place: Kulmas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00

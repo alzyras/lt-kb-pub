@@ -38,7 +38,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182818
   teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai patvirtintas citatoje.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija; llm_object: Malburgas; llm_object: Torunė'
   pagrindžia:
     - c-003
 
@@ -47,7 +47,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182819
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir paremtas citatos informacija apie Baltijos pakrantę.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Baltijos jūra; mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Slavai|Slavai]] užėmė Baltijos jūra'
   pagrindžia:
     - c-004
 
@@ -56,7 +57,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182822
   teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   sudarymo_pagrindimas: 'Teiginys atitinka citatą ir aiškiai nusako Baltijos pakrantės užėmimą.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
+  susije_objektai: 'llm_object: Baltijos jūra; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Baltijos jūra'
   pagrindžia:
     - c-001
 
@@ -272,3 +274,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] uzeme Baltijos jūra
+- [[objektai/grupes/Slavai]] uzeme Baltijos jūra

@@ -174,3 +174,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Drabužiai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drabužiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Drabužiai priklause [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]

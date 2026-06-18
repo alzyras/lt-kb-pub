@@ -167,3 +167,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   ryšio_subjekto_parinkimas: Andrius Polockietis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Polockietis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Andrius Polockietis uzeme [[objektai/vietos/Lukomlis]]

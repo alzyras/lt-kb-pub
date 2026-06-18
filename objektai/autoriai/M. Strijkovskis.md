@@ -46,32 +46,32 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a9c6fca5303c65df304c5e3373dd6762a3ab6f928c872c0f5c49661d840ee397; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Rusai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Gedimino smūgį rusams mūšyje.
 
 <a id="claim-t-172883"></a>
 - t-004
   global_id: t-172883
   teiginys: 'Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi fragmentišką pradžią, bet citata palaiko aiškų šaltinio pozicijos sakinį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Kanevas; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Kanevas; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pergalė prieš totorius tiesiogiai rodo Algirdo karinę priešpriešą totoriams.
 
 <a id="claim-t-172884"></a>
 - t-005
@@ -87,19 +87,19 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4583c9b9971d609440c138da95ae98445674b6a657b7a8a4b31b12b1dbd4f5aa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas sumušė totorius.
 
 <a id="claim-t-172886"></a>
 - t-006
   global_id: t-172886
   teiginys: 'Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
   pagrindžia:
     - c-003
     - c-004
@@ -173,7 +173,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - t-012
   global_id: t-172892
   teiginys: 'Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -251,7 +251,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   global_id: t-172902
   teiginys: 'Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Strijkovskio papildymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Irpenė; mentioned_place: Dniepras; mentioned_place: Kijevas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_place: Irpenė; mentioned_place: Dniepras; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
     - c-002
@@ -528,13 +528,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pergalė prieš totorius tiesiogiai rodo Algirdo karinę priešpriešą totoriams.
     - t-006
 
 - c-005
@@ -740,13 +740,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4583c9b9971d609440c138da95ae98445674b6a657b7a8a4b31b12b1dbd4f5aa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas sumušė totorius.
     - t-029
 
 - c-010
@@ -908,13 +908,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a9c6fca5303c65df304c5e3373dd6762a3ab6f928c872c0f5c49661d840ee397; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Rusai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Gedimino smūgį rusams mūšyje.
     - t-030
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=204e471f538a5a6aba8320dcc4c3904f5c4189e066225bacb80e31833fa2724a; match=fallback; occurrences=0
@@ -941,13 +941,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Strijkovskis (kronikininkas): owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Algirdas sumušė totorius.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 51426-51829; hash=9d163ccb78998ec8c31ae5f117b855bd47163f6e33aa31b62c90c76f30015075; match=exact

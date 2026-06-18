@@ -37,6 +37,7 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
 - susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53892|J. P. Sapiega]]: J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.
@@ -75,3 +76,9 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos bajorija]] buvo_priesas Sapiegos
+- Sapiegos buvo_sajungininkas_su [[objektai/grupes/Švedai]]
+- Sapiegos keliavo_i [[objektai/vietos/Vilnius]]
+- Sapiegos keliavo_i [[objektai/vietos/Viena]]

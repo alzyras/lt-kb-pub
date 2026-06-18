@@ -43,19 +43,19 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   global_id: t-86523
   teiginys: 'Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.'
   sudarymo_pagrindimas: 'Nepaisant įterpto triukšmo, citata palaiko trumpą faktą apie Gniezno dieceziją.'
-  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Klodovas'
+  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Klodovas; llm_object: Gniezno'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 242726-243146; hash=0fc08ca2559190d76a73632e96015d707c77fdb2b96b958f12c2b29b449bada0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.83
+  ryšio_patikimumas: priklause -> Gniezno: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: diecezija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "diecezija" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klodovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Klodovo klebonija buvo Gniezno diecezijos ribose.
 
 ## Reikšmingi paminėjimai
 
@@ -117,10 +117,10 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 242726-243146; hash=0fc08ca2559190d76a73632e96015d707c77fdb2b96b958f12c2b29b449bada0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.83
+  ryšio_patikimumas: priklause -> Gniezno: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: diecezija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "diecezija" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klodovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Klodovo klebonija buvo Gniezno diecezijos ribose.

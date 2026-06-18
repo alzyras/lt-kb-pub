@@ -47,7 +47,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   global_id: t-58607
   teiginys: 'Senieji Norkyčiai buvo Auksinės vingyje, 6–7 km žemiau minimos vietos, o vėliau gyvenvietė perkelta 2 km į šiaurę.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje pateiktą senųjų ir vėlesnių Norkyčių vietą.'
-  susije_objektai: 'mentioned_place: Auksinė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pilaitė'
+  susije_objektai: 'mentioned_place: Auksinė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pilaitė; llm_object: Pilaitė'
   temporaliniai_duomenys: 'įvykio data: 1981 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje pateiktą senųjų ir vėlesnių Norkyčių vietą.'
@@ -56,13 +56,13 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217182-217691; hash=a5297b5394a36e164e9b4972af96798e4fe6c488c2df85bb00791330d4859a80; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumas: pastate -> Pilaitė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Norkyčiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Norkyčiai" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai pastatė pilį; leidžiamas artimiausias pilies kandidatas yra Pilaitė.
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
@@ -111,10 +111,10 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217182-217691; hash=a5297b5394a36e164e9b4972af96798e4fe6c488c2df85bb00791330d4859a80; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumas: pastate -> Pilaitė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Norkyčiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Norkyčiai" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai pastatė pilį; leidžiamas artimiausias pilies kandidatas yra Pilaitė.

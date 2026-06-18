@@ -21,19 +21,22 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   global_id: t-42174
   teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Svėdasai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]] keliavo į Svėdasai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svėdasai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svėdasai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Svėdasai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Svėdasai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi.
+- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
+- susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39119|Šimonių girios apgultis]]: 1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.
 - susijęs iš Svėdasų valsčius: 1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
 - susijęs iš [[objektai/asmenys/Kasperas Maleckis.md#claim-t-40277|Kasperas Maleckis]]: Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.
@@ -74,10 +77,14 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svėdasai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svėdasai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Svėdasai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Svėdasai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi.
+
+## Ryšiai
+- [[objektai/asmenys/P. Genys]] uzeme Svėdasai
+- [[objektai/asmenys/Zigmantas Sierakauskas]] keliavo_i Svėdasai

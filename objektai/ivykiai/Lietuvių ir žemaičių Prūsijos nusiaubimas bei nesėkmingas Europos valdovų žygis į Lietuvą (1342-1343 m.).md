@@ -41,19 +41,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos paremta įvykio esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 401410-402127; hash=15bf4891125cae16fbd3dfb2aef32b5d54914f3d956b890c878b03c84de63ba7; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Prūsija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių įsiveržimą į Prūsiją.
 
 ## Reikšmingi paminėjimai
 
@@ -86,10 +86,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 401410-402127; hash=15bf4891125cae16fbd3dfb2aef32b5d54914f3d956b890c878b03c84de63ba7; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Prūsija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių įsiveržimą į Prūsiją.

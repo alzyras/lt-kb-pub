@@ -82,6 +82,8 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 - susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
 - susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
+- susijęs iš [[objektai/paprociai/Bičiulystė ir bitininkystė.md#claim-t-97126|Bičiulystė ir bitininkystė]]: Šalia žemdirbystės, gyvulininkystės, bitininkystės, medžioklės ir žvejybos Lietuvoje buvo puoselėjamas amatas.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178777|Jotvingiai]]: Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,3 +145,8 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
   ryšio_subjekto_parinkimas: Jotvingija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jotvingija priklause [[objektai/grupes/Lietuviai]]
+- Jotvingija priklause [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Jotvingiai]] gyveno Jotvingija

@@ -34,7 +34,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   global_id: t-68371
   teiginys: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Deimena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ariogala; mentioned_place: Lietuva; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Deimena; llm_object: Deimena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ariogala; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-001
 
@@ -49,13 +49,13 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df31f35f6d73b09751222a809c120befe75e939e03cace9a9ab07a955817d5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Deimena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršių marios: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Deimena: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršių marios" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Deimena: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Deimena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdas minimas kaip vienas žygio dalyvių, o Deimena nurodyta kaip žygio kryptis.
 
 <a id="claim-t-68374"></a>
 - t-003
@@ -241,11 +241,11 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df31f35f6d73b09751222a809c120befe75e939e03cace9a9ab07a955817d5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Deimena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršių marios: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Deimena: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršių marios" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Deimena: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Deimena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdas minimas kaip vienas žygio dalyvių, o Deimena nurodyta kaip žygio kryptis.
     - t-006

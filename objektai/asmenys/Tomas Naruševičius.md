@@ -22,38 +22,40 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
   global_id: t-76026
   teiginys: 'Tomas Naruševičius vadovavo Lietuvos delegacijai Maskvoje, kuri pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, išlaikant citatos pagrįstą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas Naruševičius|Tomas Naruševičius]] keliavo į Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Naruševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Naruševičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Naruševičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tomo Naruševičiaus vadovaujama delegacija atvyko į Maskvą.
 
 <a id="claim-t-76027"></a>
 - t-002
   global_id: t-76027
   teiginys: 'Tomo Naruševičiaus vadovaujama delegacija Maskvoje pirmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Tomo Naruševičiaus delegacijos reikalavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas Naruševičius|Tomas Naruševičius]] keliavo į Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Naruševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Naruševičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Naruševičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Delegacija, vadovaujama Tomo Naruševičiaus, atvyko į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -78,21 +80,24 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Naruševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Naruševičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Naruševičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Delegacija, vadovaujama Tomo Naruševičiaus, atvyko į Maskvą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7bb2a12d508c3e7be4c9ea2bed2d98e61f9a57d5fd2ba7e25e1a9e145338e80; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Naruševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Naruševičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Naruševičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tomo Naruševičiaus vadovaujama delegacija atvyko į Maskvą.
+
+## Ryšiai
+- Tomas Naruševičius keliavo_i [[objektai/vietos/Maskva]]

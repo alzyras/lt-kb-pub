@@ -30,7 +30,8 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   global_id: t-99915
   teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.'
   sudarymo_pagrindimas: 'Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos.'
-  susije_objektai: 'territory: Smolenskas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mstislavlis; mentioned_place: Rževas; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Toropiec; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mstislavlis; mentioned_place: Rževas; mentioned_place: Smolenskas; llm_object: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Toropiec; Toropiec priklausė Smolenskas'
   temporaliniai_duomenys: 'įvykio data: iki 1362 m.; įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos.'
@@ -39,13 +40,13 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 730787-731021; hash=b98ea07613c49422ce2c78b28eceda84efd74ea1c09da4b7728f0c1f5486c2c6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.95
+  ryšio_patikimumas: uzeme -> Toropiec: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Toropiec: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Algirdas užėmė Toropiecą.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +66,14 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 730787-731021; hash=b98ea07613c49422ce2c78b28eceda84efd74ea1c09da4b7728f0c1f5486c2c6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.95
+  ryšio_patikimumas: uzeme -> Toropiec: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Toropiec: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Algirdas užėmė Toropiecą.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Toropiec
+- Toropiec priklause [[objektai/vietos/Smolenskas]]

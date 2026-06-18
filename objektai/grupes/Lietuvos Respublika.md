@@ -135,3 +135,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   ryšio_subjekto_parinkimas: Lietuvos Respublika: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Respublika" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos Respublika kariavo_pries [[objektai/grupes/Bermontininkai]]
+- Lietuvos Respublika kariavo_pries [[objektai/grupes/Lenkai]]

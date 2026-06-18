@@ -30,20 +30,21 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus prekybiniai ryšiai tiesiogiai siejami su Gdansku.
 
 <a id="claim-t-86010"></a>
 - t-002
   global_id: t-86010
   teiginys: 'Vytauto laikais išplitę Vilniaus prekybiniai ryšiai pasiekė Gdanską, Sileziją, Karaliaučių, Rygą ir rusų miestus.'
   sudarymo_pagrindimas: 'Galima sutrumpinti ir pašalinti perteklinę formuluotę nepridedant naujų faktų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas); llm_object: Ryga; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -129,13 +130,13 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus prekybiniai ryšiai tiesiogiai siejami su Gdansku.
     - t-002
 
 - c-003
@@ -183,3 +184,6 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
   ryšio_subjekto_parinkimas: Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Vilnius]] prekiavo_su Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)

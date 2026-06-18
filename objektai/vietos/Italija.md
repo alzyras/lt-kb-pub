@@ -35,7 +35,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114293
   teiginys: 'Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.'
   sudarymo_pagrindimas: 'Teiginys yra apie legendinę versiją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - t-002
   global_id: t-114294
   teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
   pagrindžia:
     - c-001
 
@@ -128,6 +128,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Lenkija; mentioned_place: Maskva'
   pagrindžia:
     - c-006
+- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
+- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
+- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82626|Mykolas Glinskis]]: Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.
 - susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
@@ -148,6 +153,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
 - susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
 - susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
+- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
+- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
+- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173119|Barbora Radvilaitė]]: Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54952|Barbora Radvilaitė]]: Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
@@ -230,6 +238,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš [[objektai/zodynas/supremacija.md#claim-t-36838|supremacija]]: Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.
 - susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
+- susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
+- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
+- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
+- susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
+- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -385,3 +398,18 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+
+## Ryšiai
+- [[objektai/asmenys/Karolis Didysis]] surenge_zygi_i Italija
+- [[objektai/grupes/Gepidai]] puole Italija
+- [[objektai/asmenys/Petras Atsiskyrėlis]] keliavo_i Italija
+- [[objektai/asmenys/Bona]] keliavo_i Italija
+- [[objektai/grupes/Langobardai]] puole Italija
+- [[objektai/grupes/Langobardai]] uzkariavo Italija
+- [[objektai/grupes/Saracėnai]] puole Italija
+- [[objektai/grupes/Vengrai]] puole Italija
+- [[objektai/asmenys/Deziderijus]] puole Italija
+- [[objektai/grupes/Gepidai]] keliavo_i Italija
+- [[objektai/grupes/Langobardai]] keliavo_i Italija
+- [[objektai/asmenys/Vilius]] keliavo_i Italija
+- [[objektai/asmenys/Otonas Didysis]] valde Italija

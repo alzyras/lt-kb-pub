@@ -28,7 +28,7 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   global_id: t-20842
   teiginys: 'Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1812 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'
@@ -37,13 +37,13 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Immanuel Kant: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Iš tikrųjų jokia kita pasaulio kalba...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Immanuel Kant: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Iš tikrųjų jokia kita pasaulio kalba...“" parinktas kaip owner_note_path. Targetas "Immanuel Kant" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Lietuva tuo laikotarpiu priklausė Rusijos imperijai.
 
 ## Reikšmingi paminėjimai
 
@@ -76,10 +76,10 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Immanuel Kant: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Iš tikrųjų jokia kita pasaulio kalba...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Immanuel Kant: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Iš tikrųjų jokia kita pasaulio kalba...“" parinktas kaip owner_note_path. Targetas "Immanuel Kant" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Lietuva tuo laikotarpiu priklausė Rusijos imperijai.

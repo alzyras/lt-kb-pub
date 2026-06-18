@@ -40,20 +40,21 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d73f4fa9ddc04b39ef21a9abab7bf8b65f1f735a9f832e7ff126ed7de54f7bea; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Daugai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žąsliai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Daugai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žąsliai" parinktas kaip owner_note_path. Targetas "Daugai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų kariuomenė puolė ir užėmė Vilnių.
 
 <a id="claim-t-187200"></a>
 - t-003
   global_id: t-187200
   teiginys: 'Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Daugai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Daugai; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Žąsliai; llm_object: Daugai'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Žąsliai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -92,11 +93,14 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d73f4fa9ddc04b39ef21a9abab7bf8b65f1f735a9f832e7ff126ed7de54f7bea; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Daugai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žąsliai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Daugai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žąsliai" parinktas kaip owner_note_path. Targetas "Daugai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų kariuomenė puolė ir užėmė Vilnių.
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] uzeme Žąsliai

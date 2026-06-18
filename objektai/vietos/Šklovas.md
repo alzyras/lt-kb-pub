@@ -50,6 +50,7 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41393|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.
 - susijęs iš Mogiliavas: Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
+- susijęs iš Mogiliavas: Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.
 - susijęs iš [[objektai/asmenys/Aleksejus Michailovičius.md#claim-t-78940|Aleksejus Michailovičius]]: 1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - susijęs iš [[objektai/asmenys/Aleksejus Michailovičius.md#claim-t-78941|Aleksejus Michailovičius]]: Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.
 - susijęs iš [[objektai/asmenys/Jurijus Boratinskis.md#claim-t-40242|Jurijus Boratinskis]]: Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.
@@ -86,3 +87,6 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
   ryšio_subjekto_parinkimas: Šklovas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=37
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šklovas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Rusai]] puole Šklovas

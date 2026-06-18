@@ -21,19 +21,20 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - t-001
   global_id: t-36196
   teiginys: 'Vytautas žygiavo į Okos ir Dono aukštupius suvaldyti jam nepaklusnių kunigaikščių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Donas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Donas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5773cf51e53543cde368f6f699e0ca4611347a4270361015596da1b06fe70d77; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Donas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Donas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Donas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Donas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto žygį į Dono aukštupius.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
@@ -80,10 +81,13 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5773cf51e53543cde368f6f699e0ca4611347a4270361015596da1b06fe70d77; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Donas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Donas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Donas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Donas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto žygį į Dono aukštupius.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Donas

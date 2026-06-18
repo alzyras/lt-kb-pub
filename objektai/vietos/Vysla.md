@@ -47,20 +47,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75e2bfdfdf27390d2cf4c768cebc858c3ccf56b1f9dc454ae745959feadaae88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo Vyslą Lenkijoje, todėl ryšys pažymėtas kaip geografinė priklausomybė.
 
 <a id="claim-t-181212"></a>
 - t-002
   global_id: t-181212
   teiginys: 'Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje įvardis pakeistinas aiškiu asmens vardu.'
-  susije_objektai: 'mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
+  susije_objektai: 'llm_object: Prieglius; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -85,20 +85,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75138f8b1d4aecd415aea149e0f85b5f3fd1b1806298dbff2e8aaef4d69969a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių ir lenkų jėgos įvardytos kaip susijungusios, todėl tai remia sąjunginį karinį ryšį.
 
 <a id="claim-t-181216"></a>
 - t-004
   global_id: t-181216
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai nurodo Vyslą kaip baltų gyvenamos teritorijos ribą.'
-  susije_objektai: 'location: Dauguva; mentioned_place: Dauguva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva; llm_object: Dauguva; llm_object: Maskva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -123,20 +123,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
 
 <a id="claim-t-181219"></a>
 - t-007
   global_id: t-181219
   teiginys: 'Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   sudarymo_pagrindimas: 'Citata palaiko geografinį faktą, bet pradinis teiginys buvo nutrūkęs ir triukšmingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
+  susije_objektai: 'llm_object: Baltija; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-012
 
@@ -145,7 +145,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181220
   teiginys: 'Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir paliktas citatos pagrįstas faktas apie Vyslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Marienburgas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Marienburgas; mentioned_place: Prūsai; llm_object: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] keliavo į Vysla'
   pagrindžia:
     - c-014
 
@@ -154,19 +155,19 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181222
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas faktinis sakinys ir remiasi citata apie Vyslos žiotis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Baltija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75e2bfdfdf27390d2cf4c768cebc858c3ccf56b1f9dc454ae745959feadaae88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo Vyslą Lenkijoje, todėl ryšys pažymėtas kaip geografinė priklausomybė.
 
 <a id="claim-t-181223"></a>
 - t-011
@@ -182,7 +183,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181224
   teiginys: 'Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį; citata leidžia įvardyti veikėją ir veiksmą.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-013
 
@@ -209,7 +210,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181228
   teiginys: 'Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vyslą ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienburgas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Červinskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienburgas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Červinskas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vyslą ir remiasi citata.'
@@ -220,7 +221,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-016
   global_id: t-181229
   teiginys: 'Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Alytus; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Alytus; mentioned_place: Lietuva; llm_object: Lenkija'
+  semantiniai_rysiai: 'Vysla priklausė Lenkija'
   pagrindžia:
     - c-007
 
@@ -229,19 +231,19 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-181230
   teiginys: 'Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir remiasi citata apie Dusburgiečio vartotą Prūsijos ribų sampratą nuo Vyslos iki Nemuno.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsija'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Slavai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad slavų gentis buvo užėmusi Baltijos jūros pakrantę.
 
 <a id="claim-t-181231"></a>
 - t-018
@@ -254,13 +256,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Baltija: 0.87
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=24
-  ryšio_targeto_parinkimas: Baltija: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Baltija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-181233"></a>
 - t-019
@@ -292,19 +294,19 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
 
 <a id="claim-t-181235"></a>
 - t-021
   global_id: t-181235
   teiginys: 'Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
-  susije_objektai: 'territory: Baltija; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -322,19 +324,20 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-022
   global_id: t-181237
   teiginys: 'Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Alytus; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Alytus; mentioned_place: Lietuva; llm_object: Lenkija'
+  semantiniai_rysiai: 'Vysla priklausė Lenkija'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuvių tauta užėmė Baltijos pakrantę.
 
 <a id="claim-t-181239"></a>
 - t-024
@@ -376,8 +379,11 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
+- susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
+- susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
+- susijęs iš Nogatas: Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-183122|Baltai]]: Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
 - susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
@@ -447,6 +453,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale.md#claim-t-86577|Vidivarijai nomen gentile nomen sociale]]: Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
+- susijęs iš Okos baseinai: I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-184054|Ditrichas iš Bernheimo]]: 1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
@@ -593,6 +600,12 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32791|kuopiniai kaimai]]: Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
 - susijęs iš [[objektai/zodynas/skaistykla.md#claim-t-58924|skaistykla]]: Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką.
+- susijęs iš [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale.md#claim-t-86577|Vidivarijai nomen gentile nomen sociale]]: Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.
+- susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54798|Vidivarijai]]: Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
+- susijęs iš [[objektai/autoriai/Bednarczuk L.md#claim-t-60676|Bednarczuk L]]: L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme.
+- susijęs iš Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły we wczesnym średniowieczu Komunikat: G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90032|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -698,13 +711,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
     - t-011
 
 - c-005
@@ -780,13 +793,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuvių tauta užėmė Baltijos pakrantę.
     - t-016
 
 - c-008
@@ -837,13 +850,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75138f8b1d4aecd415aea149e0f85b5f3fd1b1806298dbff2e8aaef4d69969a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių ir lenkų jėgos įvardytos kaip susijungusios, todėl tai remia sąjunginį karinį ryšį.
     - t-005
 
 - c-010
@@ -864,24 +877,24 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dauguva nurodyta kaip viena baltų gyvenamos teritorijos riba.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75e2bfdfdf27390d2cf4c768cebc858c3ccf56b1f9dc454ae745959feadaae88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo Vyslą Lenkijoje, todėl ryšys pažymėtas kaip geografinė priklausomybė.
     - t-009
 
 - c-011
@@ -1021,13 +1034,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Slavai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad slavų gentis buvo užėmusi Baltijos jūros pakrantę.
     - t-002
 
 - c-017
@@ -1093,24 +1106,24 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Baltija: 0.87
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=24
-  ryšio_targeto_parinkimas: Baltija: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Baltija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6466-7158; hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas nurodo, kad Prūsijos vardu vadintas plotas pateko į Ordino valstybę.
     - t-010
 
 - c-019
@@ -1134,13 +1147,13 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75e2bfdfdf27390d2cf4c768cebc858c3ccf56b1f9dc454ae745959feadaae88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vysla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo Vyslą Lenkijoje, todėl ryšys pažymėtas kaip geografinė priklausomybė.
     - t-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167147-167631; hash=dd99dea3b6e1696e5a24fde70b50d7932aad672e150907fa54cc10c859db2942; match=exact
@@ -1154,4 +1167,9 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vysla" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/grupes/Vidivarii]] gyveno Vysla
+- [[objektai/vietos/Nogatas]] priklause Vysla
 - [[objektai/grupes/Baltai]] gyveno Vysla
+- [[objektai/grupes/Žemaičiai]] keliavo_i Vysla
+- [[objektai/asmenys/Sventopelkas]] keliavo_i Vysla
+- Vysla priklause [[objektai/vietos/Lenkija]]

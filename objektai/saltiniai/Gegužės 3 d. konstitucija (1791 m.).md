@@ -67,7 +67,7 @@ amziai:
   global_id: t-78092
   teiginys: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėjus ir veiksmą, remiamą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_place: Lenkija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_place: Lenkija; mentioned_place: Rusija; llm_object: [[objektai/grupes/Gardino seimas|Gardino seimas]]'
   temporaliniai_duomenys: 'įvykio data: 1793 m.; įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėjus ir veiksmą, remiamą citata.'

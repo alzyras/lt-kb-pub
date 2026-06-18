@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-100022
   teiginys: 'Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir suformuotas vienas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas ir suformuotas vienas aiškus faktinis sakinys.'
@@ -58,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Gedimino kovą su kryžiuočiais.
 
 <a id="claim-t-100023"></a>
 - t-002
@@ -80,20 +80,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Aldoną kaip Gedimino dukterį.
 
 <a id="claim-t-100024"></a>
 - t-003
   global_id: t-100024
   teiginys: '1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys neaiškiai įvardija sutarties šalis, todėl sakinys patikslintas pagal citatą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'sutarties data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neaiškiai įvardija sutarties šalis, todėl sakinys patikslintas pagal citatą.'
@@ -115,7 +115,7 @@ Nenurodyta
   global_id: t-100025
   teiginys: 'Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
   sudarymo_pagrindimas: 'Teiginys perteikia autoriaus vertinimą, todėl reikalinga aiški atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Gardinas; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia autoriaus vertinimą, todėl reikalinga aiški atribucija.'
@@ -124,13 +124,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 644891-645334; hash=e9903d83a80b46b8a6b4ff38d03559cfcc1e57ff146413ba433d815016102b88; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Lenkija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lietuviai anksčiau puldinėjo Lenkiją, o po sąjungos to nebedarė.
 
 ## Reikšmingi paminėjimai
 
@@ -180,13 +180,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Gedimino kovą su kryžiuočiais.
     - t-002
 
 - c-003
@@ -207,21 +207,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Aldoną kaip Gedimino dukterį.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 644891-645334; hash=e9903d83a80b46b8a6b4ff38d03559cfcc1e57ff146413ba433d815016102b88; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Lenkija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lietuviai anksčiau puldinėjo Lenkiją, o po sąjungos to nebedarė.

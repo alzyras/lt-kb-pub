@@ -79,3 +79,6 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   ryšio_subjekto_parinkimas: Toledas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Adomas (auksakalys): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Toledas" parinktas kaip owner_note_path. Targetas "Adomas (auksakalys)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Toledas priklause [[objektai/vietos/Ispanija]]

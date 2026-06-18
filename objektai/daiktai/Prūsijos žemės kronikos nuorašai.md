@@ -50,7 +50,8 @@ Nenurodyta
   global_id: t-59704
   teiginys: 'M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Berlynas; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]'
+  susije_objektai: 'mentioned_place: Berlynas; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; llm_object: Berlynas'
+  semantiniai_rysiai: '[[objektai/daiktai/Prūsijos žemės kronikos nuorašai|Prūsijos žemės kronikos nuorašai]] priklausė Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra savarankiškas, faktinis ir paremtas citata.'
@@ -59,13 +60,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos žemės kronikos nuorašai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos žemės kronikos nuorašai" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Berlynas: 0.76
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prūsijos žemės kronikos nuorašai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Berlyno nuorašus kaip dalį kronikos nuorašų.
 
 ## Reikšmingi paminėjimai
 
@@ -90,10 +91,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos žemės kronikos nuorašai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos žemės kronikos nuorašai" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Berlynas: 0.76
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prūsijos žemės kronikos nuorašai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Berlyno nuorašus kaip dalį kronikos nuorašų.
+
+## Ryšiai
+- Prūsijos žemės kronikos nuorašai priklause [[objektai/vietos/Berlynas]]

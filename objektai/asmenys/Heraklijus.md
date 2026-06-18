@@ -31,7 +31,8 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   global_id: t-60320
   teiginys: 'Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Heraklijus|Heraklijus]] kariavo prieš [[objektai/asmenys/Chosrovas|Chosrovas]]'
   temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -40,13 +41,13 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chosrovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heraklijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chosrovas: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heraklijus" parinktas kaip owner_note_path. Targetas "Chosrovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
 
 <a id="claim-t-184086"></a>
 - t-002
@@ -56,7 +57,8 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Heraklijus|Heraklijus]] kariavo prieš [[objektai/asmenys/Chosrovas|Chosrovas]]'
   temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija.'
@@ -65,13 +67,13 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chosrovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heraklijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chosrovas: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heraklijus" parinktas kaip owner_note_path. Targetas "Chosrovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-60257|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš Šventoji žemė: Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.
@@ -100,21 +102,24 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chosrovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heraklijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chosrovas: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heraklijus" parinktas kaip owner_note_path. Targetas "Chosrovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chosrovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heraklijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chosrovas: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heraklijus" parinktas kaip owner_note_path. Targetas "Chosrovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
+
+## Ryšiai
+- Heraklijus kariavo_pries [[objektai/asmenys/Chosrovas]]

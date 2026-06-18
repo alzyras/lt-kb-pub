@@ -36,7 +36,7 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   global_id: t-61234
   teiginys: 'M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie bulės nurodymą Tepeno vertinime.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Dobrynė; mentioned_place: Pamaris; mentioned_place: Revelis; mentioned_place: Varmė; mentioned_place: Vėluva'
+  susije_objektai: 'llm_object: Revelis; mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Dobrynė; mentioned_place: Pamaris; mentioned_place: Revelis; mentioned_place: Varmė; mentioned_place: Vėluva; llm_object: Dobrynė; llm_object: Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1230 m.; įvykio data: 1243 m.; įvykio data: 1282 m.; įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų teiginį apie bulės nurodymą Tepeno vertinime.'
@@ -45,13 +45,13 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popiežiaus 1230 m. sausio 18 d. bulė: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus 1230 m. sausio 18 d. bulė" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Revelis: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini lietuvių žygius į Revelio žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -76,10 +76,10 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popiežiaus 1230 m. sausio 18 d. bulė: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus 1230 m. sausio 18 d. bulė" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Revelis: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini lietuvių žygius į Revelio žemę.

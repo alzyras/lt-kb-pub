@@ -47,6 +47,8 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
 - susijęs iš Gardinas: 1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
 - susijęs iš Gardinas: Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
 - susijęs iš Gardinas: 1392 m. birželio gale prie Nemuno buvo sudegintas Naujasis Gardinas, Metena ir Ritterswerderis.
+- susijęs iš Gardinas: 1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
+- susijęs iš Gardinas: Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,3 +75,6 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
   ryšio_subjekto_parinkimas: Metena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Metena" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Metena

@@ -24,21 +24,20 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
   global_id: t-87755
   teiginys: 'Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.'
   sudarymo_pagrindimas: 'Citata palaiko Kiškos paskyrimą vadovauti kariuomenei konkrečioje grėsmės situacijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas Laskis|Jonas Laskis]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Krymas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kiška|Kiška]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas Laskis|Jonas Laskis]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Krymas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] paskyrė [[objektai/asmenys/Kiška|Kiška]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kiška: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kiška" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79162|Stanislovas Kiška]]: LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.
+  ryšio_patikimumas: paskyre -> Kiška: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kiška: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aleksandras tiesiogiai pavedė Kiškai vadovauti kariuomenei.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82630|Mykolas Glinskis]]: Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
@@ -70,6 +69,7 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113644|Magdeburgo teisės]]: Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113654|Magdeburgo teisės]]: Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.
 - susijęs iš [[objektai/zodynas/litvomanija.md#claim-t-77798|litvomanija]]: Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.
+- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,14 +94,14 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kiška: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kiška" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Kiška: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kiška: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aleksandras tiesiogiai pavedė Kiškai vadovauti kariuomenei.
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras]] paskyre Kiška
-- [[objektai/asmenys/Stanislovas Kiška]] paskyre Kiška
+- [[objektai/asmenys/Mikalojus Radvila]] buvo_priesas Kiška

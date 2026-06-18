@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio antraščių triukšmas ir aiškiai įvardyti veiksmai.'
-  susije_objektai: 'territory: Naugardukas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardukas; mentioned_place: Prūsija; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardukas; mentioned_place: Prūsija; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 560461-561075; hash=cfe5cdc34df9fd3fb8b6358252005b4b156a73c755ad9f6135c99917cc4c1b7d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Naugardukas: 0.87
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=61
-  ryšio_targeto_parinkimas: Naugardukas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Naugardukas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185632"></a>
 - t-002
@@ -141,13 +141,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 560461-561075; hash=cfe5cdc34df9fd3fb8b6358252005b4b156a73c755ad9f6135c99917cc4c1b7d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Naugardukas: 0.87
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=61
-  ryšio_targeto_parinkimas: Naugardukas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Naugardukas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 561076-561795; hash=78c1a32e8a6c17feb4899fe903af85e33975c818b0165ed13be258366fbb7ea5; match=ocr_normalized_gapped

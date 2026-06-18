@@ -21,19 +21,20 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   global_id: t-30384
   teiginys: 'Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Spytko pareigas ir žūtį, kaip paremta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Vorskla; llm_object: Podolė; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Spytkas iš Melsztyno|Spytkas iš Melsztyno]] mirė Vorskla; [[objektai/asmenys/Spytkas iš Melsztyno|Spytkas iš Melsztyno]] valdė teritoriją Podolė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f2feded0d372b9acd5e36e4873e760b01794d37169af4e2db59ce331f814d60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Spytkas iš Melsztyno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Spytkas iš Melsztyno" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vorskla: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Spytkas iš Melsztyno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Spytko žūtį prie Vorsklos.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +57,14 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f2feded0d372b9acd5e36e4873e760b01794d37169af4e2db59ce331f814d60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Spytkas iš Melsztyno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Spytkas iš Melsztyno" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vorskla: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Spytkas iš Melsztyno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Spytko žūtį prie Vorsklos.
+
+## Ryšiai
+- Spytkas iš Melsztyno mire [[objektai/vietos/Vorskla]]
+- Spytkas iš Melsztyno valde_teritorija [[objektai/vietos/Podolė]]

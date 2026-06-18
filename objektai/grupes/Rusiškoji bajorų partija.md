@@ -24,19 +24,20 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   global_id: t-95932
   teiginys: 'Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje neaišku, kam padėjo rusiškoji bajorų partija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas; llm_object: Smolenskas'
+  semantiniai_rysiai: '[[objektai/grupes/Rusiškoji bajorų partija|Rusiškoji bajorų partija]] užėmė Smolenskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178383-178647; hash=e031e938fa30d1b8b9f3076cce2d6a2a3e681b13f73d986011a469ca56114888; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusiškoji bajorų partija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusiškoji bajorų partija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusiškoji bajorų partija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad rusiškoji bajorų partija padėjo užimti Smolenską.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +58,13 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178383-178647; hash=e031e938fa30d1b8b9f3076cce2d6a2a3e681b13f73d986011a469ca56114888; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusiškoji bajorų partija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusiškoji bajorų partija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusiškoji bajorų partija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad rusiškoji bajorų partija padėjo užimti Smolenską.
+
+## Ryšiai
+- Rusiškoji bajorų partija uzeme [[objektai/vietos/Smolenskas]]

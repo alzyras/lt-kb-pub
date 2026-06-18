@@ -54,7 +54,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir perteklinį kontekstą.'
-  susije_objektai: 'mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Tverės sritis; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liublinas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Tverės sritis'
   temporaliniai_duomenys: 'įvykio data: 1285 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo neaiškų įvardį ir perteklinį kontekstą.'
@@ -63,13 +64,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 594687-594957; hash=13d38269a997c14e864ff0e058f32d27dba9d9a36edc5c5b328c37532b01e76e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tverė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tverės sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tverė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverės sritis" parinktas kaip owner_note_path. Targetas "Tverė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tverės sritis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tverės sritis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai yra sakinio subjektas ir tiesiogiai nurodyti plėšę Tverės sritį.
 
 ## Reikšmingi paminėjimai
 
@@ -114,10 +115,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 594687-594957; hash=13d38269a997c14e864ff0e058f32d27dba9d9a36edc5c5b328c37532b01e76e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tverė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tverės sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tverė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverės sritis" parinktas kaip owner_note_path. Targetas "Tverė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tverės sritis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tverės sritis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai yra sakinio subjektas ir tiesiogiai nurodyti plėšę Tverės sritį.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Tverės sritis

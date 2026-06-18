@@ -33,7 +33,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   global_id: t-175267
   teiginys: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Baiga; mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] keliavo į Baiga'
   pagrindžia:
     - c-003
 
@@ -42,8 +43,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   global_id: t-175269
   teiginys: '1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
-  susije_objektai: 'territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1254 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
@@ -52,14 +52,13 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   irodymo_stiprumas: 0.00
   saltinio_vieta: 343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Otokaras II: owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Austrija: candidate; Kulmas: candidate; Reinas: candidate; Varmė: candidate; Vokietija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Otokaras II" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Sembai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otokaras II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaras II" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
@@ -161,14 +160,16 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   irodymo_stiprumas: 0.00
   saltinio_vieta: 343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Otokaras II: owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Austrija: candidate; Kulmas: candidate; Reinas: candidate; Varmė: candidate; Vokietija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Otokaras II" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Sembai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otokaras II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaras II" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Otokaras II buvo_valdovas [[objektai/vietos/Čekija]]
+- Otokaras II dalyvavo_musyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]
+- Otokaras II dalyvavo_musyje [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- Otokaras II keliavo_i [[objektai/vietos/Baiga]]
+- Otokaras II puole [[objektai/vietos/Semba]]

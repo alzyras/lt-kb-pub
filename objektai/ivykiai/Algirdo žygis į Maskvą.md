@@ -104,19 +104,19 @@ Nenurodyta
   global_id: t-187460
   teiginys: 'Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.'
   teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; llm_object: Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9bb766d5029ecf40133e968878d17c123406037dd5b76807ce2fe734addb8c1f; match=fallback; occurrences=0
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdo žygis į Maskvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdo žygis į Maskvą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lietuvių kariuomenė patraukė į Maskvą.
 
 <a id="claim-t-187461"></a>
 - t-005
@@ -322,13 +322,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9bb766d5029ecf40133e968878d17c123406037dd5b76807ce2fe734addb8c1f; match=fallback; occurrences=0
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdo žygis į Maskvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdo žygis į Maskvą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lietuvių kariuomenė patraukė į Maskvą.
     - t-003
 
 - c-003

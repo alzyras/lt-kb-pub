@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas claim nutrūkęs, bet citata palaiko aiškų faktą apie stovyklas ir ketinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Luckas; mentioned_place: Perejeslavlis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Luckas; mentioned_place: Perejeslavlis; llm_object: Kijevas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344925-345711; hash=e2cf2a95a492fdf270bd8317af7605f483e26d60bb4d4995a712c808ad9353a6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Rusų kunigaikščių kariuomenės ketino užpulti lietuvius.
 
 <a id="claim-t-185494"></a>
 - t-002
@@ -62,19 +62,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; llm_object: Kijevas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349483-350010; hash=ce8a898398e23d8309dd834e011c819438279d334cc95ecb75d1d144bdd903d0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: valde -> Kijevas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kijevo luomai prisiekė paklusti Gedimino valdžiai.
 
 <a id="claim-t-185495"></a>
 - t-003
@@ -84,19 +84,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai interpretacinis vertinimas, todėl palikta šaltinio atribucija ir pašalintas perteklinis dubliavimas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Perejeslavlis; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
+  susije_objektai: 'llm_object: Kijevas; llm_object: Brianskas; llm_object: Perejeslavlis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Perejeslavlis; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350011-350507; hash=6c62e3f401917ef0fcb77c78e376f095647a5c91122b6a94f8e57fca71050de5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas užėmė Kijevą.
 
 ## Reikšmingi paminėjimai
 
@@ -163,13 +163,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344925-345711; hash=e2cf2a95a492fdf270bd8317af7605f483e26d60bb4d4995a712c808ad9353a6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Rusų kunigaikščių kariuomenės ketino užpulti lietuvius.
     - t-002
 
 - c-003
@@ -193,21 +193,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349483-350010; hash=ce8a898398e23d8309dd834e011c819438279d334cc95ecb75d1d144bdd903d0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: valde -> Kijevas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kijevo luomai prisiekė paklusti Gedimino valdžiai.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350011-350507; hash=6c62e3f401917ef0fcb77c78e376f095647a5c91122b6a94f8e57fca71050de5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas užėmė Kijevą.

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   global_id: t-60323
   teiginys: '1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir remiasi citatoje pateikta informacija.'
-  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]]; mentioned_place: Reinas; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]]; mentioned_place: Reinas; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)|Hermanas (Petro iš Rozenbergo dėdė)]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas (Petro iš Rozenbergo dėdė) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
@@ -42,13 +42,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.91
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.89
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Hermanas (Petro iš Rozenbergo dėdė): owner_note_path, person, gap=44
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Hermanas (Petro iš Rozenbergo dėdė)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras iš Rozenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Petras iš Rozenbergo įtrauktas tarp atvykusiųjų į Prūsiją.
 
 ## Reikšmingi paminėjimai
 
@@ -73,13 +73,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.91
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.89
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Hermanas (Petro iš Rozenbergo dėdė): owner_note_path, person, gap=44
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Hermanas (Petro iš Rozenbergo dėdė)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras iš Rozenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Petras iš Rozenbergo įtrauktas tarp atvykusiųjų į Prūsiją.
 
 ## Ryšiai
 - Hermanas (Petro iš Rozenbergo dėdė) keliavo_i [[objektai/vietos/Prūsija]]

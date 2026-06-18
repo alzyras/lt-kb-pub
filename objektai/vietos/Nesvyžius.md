@@ -277,6 +277,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/zodynas/barokinė santvarka.md#claim-t-183401|barokinė santvarka]]: Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu.
 - susijęs iš [[objektai/zodynas/barokinė santvarka.md#claim-t-22079|barokinė santvarka]]: Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.
 - susijęs iš [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos.md#claim-t-86628|vyskupijos stalas, personatai ir beneficijos]]: Jurgis Radvila numatė klierikų kolegijai skirti dalį pajamų iš vyskupijos stalo, personatų, abatijų ir kitų beneficijų.
+- susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -464,3 +466,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Ryšiai
 - [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Nesvyžius
+- [[objektai/grupes/Totoriai]] puole Nesvyžius

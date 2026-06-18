@@ -177,3 +177,9 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Kristupas Radvila Perkūnas keliavo_i [[objektai/vietos/Veližas]]
+- Kristupas Radvila Perkūnas kariavo_pries [[objektai/grupes/Rusai]]
+- Kristupas Radvila Perkūnas keliavo_i [[objektai/vietos/Rusija]]
+- Kristupas Radvila Perkūnas gyne [[objektai/vietos/Rusija]]

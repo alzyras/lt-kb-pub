@@ -47,19 +47,19 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 - t-002
   global_id: t-30228
   teiginys: 'Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a70c3492e3fb594f6349abe80eac6dc3dfe524261eb87784a47623ea6905c14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timuras: 0.85
+  ryšio_patikimumas: kariavo_pries -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ediga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Timuras: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ediga" parinktas kaip owner_note_path. Targetas "Timuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys nurodo būsimą kautynių prieš Vytauto pajėgas kontekstą.
 - susijęs iš [[objektai/asmenys/Timur-Kutlugas.md#claim-t-30396|Timur-Kutlugas]]: Timur-Kutlugas derybomis siekė laimėti laiko, kol sulauks savo karo vado Edigos dalinių.
 - susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30398|Timuras]]: Timuras derybomis siekė laimėti laiko, nes laukė savo karo vado Edigos dalinių.
 - susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-182858|Vytauto ženklas]]: Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.
@@ -108,10 +108,10 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a70c3492e3fb594f6349abe80eac6dc3dfe524261eb87784a47623ea6905c14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timuras: 0.85
+  ryšio_patikimumas: kariavo_pries -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ediga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Timuras: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ediga" parinktas kaip owner_note_path. Targetas "Timuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys nurodo būsimą kautynių prieš Vytauto pajėgas kontekstą.

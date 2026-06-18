@@ -30,7 +30,8 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinio subjektas būtų Nestanas, o faktai liktų paremti citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Mazovija; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Podolė; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Mazovija; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Nestanas|Nestanas]] valdė Podolė'
   temporaliniai_duomenys: 'įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinio subjektas būtų Nestanas, o faktai liktų paremti citata.'
@@ -39,13 +40,13 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 399078-399957; hash=5ac19210cd7c6461155e3fce08c277fb74fb566c9119241f5b87efb62f797a16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nestanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nestanas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Podolė: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nestanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Nestanas valdė Podolę Teodoro vardu.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +86,13 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 399078-399957; hash=5ac19210cd7c6461155e3fce08c277fb74fb566c9119241f5b87efb62f797a16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nestanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nestanas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Podolė: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nestanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Nestanas valdė Podolę Teodoro vardu.
+
+## Ryšiai
+- Nestanas valde [[objektai/vietos/Podolė]]

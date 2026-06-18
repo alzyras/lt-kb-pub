@@ -31,7 +31,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   global_id: t-19665
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Zabluduvas; mentioned_place: Nesvyžius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Zabluduvas; mentioned_place: Nesvyžius; llm_object: Zabluduvas'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] rėmė [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Zabluduvas'
   temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
@@ -40,20 +41,20 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ivanas Fiodorovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ivanas Fiodorovas: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Ivanas Fiodorovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Chodkevičiai tiesiogiai priglobė Ivaną Fiodorovą, todėl tai palaikymo santykis.
 
 <a id="claim-t-19666"></a>
 - t-002
   global_id: t-19666
   teiginys: '1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia atkurti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, citata leidžia atkurti pilną faktą.'
@@ -62,13 +63,13 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus.
 
 <a id="claim-t-183124"></a>
 - t-003
@@ -78,7 +79,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį.'
@@ -87,16 +88,13 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   irodymo_stiprumas: 0.00
   saltinio_vieta: 158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Maskva: Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.
-- susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
-- susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad LDK kariuomenė nugalėjo švedus.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-40125|Grigalius Chodkevičius]]: Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23198|Ivanas Fiodorovas]]: Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.
@@ -190,6 +188,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
+- susijęs iš Mlynivas: Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -223,13 +222,13 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ivanas Fiodorovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ivanas Fiodorovas: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Ivanas Fiodorovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Chodkevičiai tiesiogiai priglobė Ivaną Fiodorovą, todėl tai palaikymo santykis.
     - t-002
 
 - c-003
@@ -247,25 +246,27 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chodkevičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chodkevičiai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad LDK kariuomenė nugalėjo švedus.
 
 ## Ryšiai
-- Chodkevičiai keliavo_i [[objektai/vietos/Severskas]]
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Chodkevičiai
+- Chodkevičiai reme [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/vietos/Mlynivas]] priklause Chodkevičiai
+- Chodkevičiai valde [[objektai/vietos/Voluinė]]
+- Chodkevičiai pastate [[objektai/vietos/Zabluduvas]]

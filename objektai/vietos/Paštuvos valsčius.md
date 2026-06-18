@@ -71,7 +71,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   global_id: t-91253
   teiginys: '1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia kariuomenės padalijimą ir veiksmus Paštuvos valsčiuje.'
-  susije_objektai: 'mentioned_place: Gaižuva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ariogala; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Paštuvos valsčius; mentioned_place: Gaižuva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ariogala; mentioned_place: Ragainė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė Paštuvos valsčius'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia kariuomenės padalijimą ir veiksmus Paštuvos valsčiuje.'
@@ -80,13 +81,13 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579647-580139; hash=74e9ff3abe0c932460c8120df884b9e08cccde0b6abfd26bd4045aa923059e62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paštuvos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčius" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Paštuvos valsčius: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Paštuvos valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembai nurodyti kaip į Paštuvos valsčių įsiveržusios grupės dalis.
 
 <a id="claim-t-91254"></a>
 - t-004
@@ -112,7 +113,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   global_id: t-91255
   teiginys: '1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie 1294 m. žygį.'
-  susije_objektai: 'mentioned_place: Gaižuva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Ariogala; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: Paštuvos valsčius; mentioned_place: Gaižuva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Ariogala; mentioned_place: Ragainė'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė Paštuvos valsčius'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie 1294 m. žygį.'
@@ -121,19 +123,20 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579647-580139; hash=74e9ff3abe0c932460c8120df884b9e08cccde0b6abfd26bd4045aa923059e62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paštuvos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčius" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Paštuvos valsčius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Paštuvos valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sembai tiesiogiai įvardyti kaip į Paštuvos valsčių įsibrovusios grupės dalis.
 - susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66822|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 - susijęs iš Gaižuvos valsčius: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -184,13 +187,13 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579647-580139; hash=74e9ff3abe0c932460c8120df884b9e08cccde0b6abfd26bd4045aa923059e62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paštuvos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčius" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Paštuvos valsčius: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Paštuvos valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembai nurodyti kaip į Paštuvos valsčių įsiveržusios grupės dalis.
     - t-005
 
 - c-003
@@ -214,13 +217,13 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579647-580139; hash=74e9ff3abe0c932460c8120df884b9e08cccde0b6abfd26bd4045aa923059e62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paštuvos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčius" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Paštuvos valsčius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Paštuvos valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sembai tiesiogiai įvardyti kaip į Paštuvos valsčių įsibrovusios grupės dalis.
     - t-001
 
 - c-004
@@ -260,3 +263,8 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   ryšio_subjekto_parinkimas: Paštuvos valsčius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaimas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčius" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] puole Paštuvos valsčius
+- [[objektai/vietos/Vilkija]] priklause Paštuvos valsčius
+- Paštuvos valsčius priklause [[objektai/vietos/Nemunas]]

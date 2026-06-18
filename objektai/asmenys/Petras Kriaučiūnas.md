@@ -31,7 +31,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   global_id: t-75995
   teiginys: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkusi nuotraukos antraštė su pertekliniais vardais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Kriaučiūnas|Petras Kriaučiūnas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkusi nuotraukos antraštė su pertekliniais vardais.'
@@ -62,19 +63,20 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   global_id: t-75997
   teiginys: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
   sudarymo_pagrindimas: 'Išplėstas nutrūkęs sąrašas ir pašalintas dangling inicialas.'
-  susije_objektai: 'mentioned_place: Marijampolė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_place: Marijampolė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Marijampolė'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Kriaučiūnas|Petras Kriaučiūnas]] gyveno Marijampolė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da700de48967375b7e45dbd6bc3e863ea9e1f47c443e4796bfdc1381871ca737; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Kriaučiūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Kriaučiūnas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Kriaučiūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras Kriaučiūnas nurodytas tarp suvažiavimo dalyvių Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -110,13 +112,13 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da700de48967375b7e45dbd6bc3e863ea9e1f47c443e4796bfdc1381871ca737; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Kriaučiūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Kriaučiūnas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Kriaučiūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras Kriaučiūnas nurodytas tarp suvažiavimo dalyvių Vilniuje.
     - t-002
 
 - c-003
@@ -153,3 +155,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Kriaučiūnas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+
+## Ryšiai
+- Petras Kriaučiūnas keliavo_i [[objektai/vietos/Vilnius]]
+- Petras Kriaučiūnas gyveno [[objektai/vietos/Marijampolė]]

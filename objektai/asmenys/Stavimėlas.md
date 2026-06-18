@@ -23,20 +23,20 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   global_id: t-60439
   teiginys: 'Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Stavimėlo paskyrimą į Pelužio žygio būrį.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Stavimėlas|Stavimėlas]] paskyrė [[objektai/asmenys/Pelužis|Pelužis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena; llm_object: [[objektai/asmenys/Pelužis|Pelužis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Stavimėlas|Stavimėlas]] buvo sąjungininkas su [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Pelužis: 0.89
+  ryšio_patikimumas: buvo_sajungininkas_su -> Pelužis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Stavimėlas: owner_note_path, person, gap=8
-  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Stavimėlas" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stavimėlas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Stavimėlas priskirtas prie Pelužio bendrų ir kartu su juo išvyko keršyti ginklu.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90003|Pelužis]]: Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.
 ## Reikšmingi paminėjimai
 
@@ -63,13 +63,13 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Pelužis: 0.89
+  ryšio_patikimumas: buvo_sajungininkas_su -> Pelužis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Stavimėlas: owner_note_path, person, gap=8
-  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Stavimėlas" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stavimėlas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Stavimėlas priskirtas prie Pelužio bendrų ir kartu su juo išvyko keršyti ginklu.
 
 ## Ryšiai
-- Stavimėlas paskyre [[objektai/asmenys/Pelužis]]
+- Stavimėlas buvo_sajungininkas_su [[objektai/asmenys/Pelužis]]

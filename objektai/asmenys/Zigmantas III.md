@@ -22,19 +22,20 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   global_id: t-87594
   teiginys: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius; llm_object: Rūdninkai'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas III|Zigmantas III]] gyveno Rūdninkai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumas: gyveno -> Rūdninkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas III: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas III" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas III: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Zigmantas III leisdavo laiką Rūdninkuose; tai pakankama buvimo ar laikino gyvenimo vietos nuoroda.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
@@ -64,10 +65,14 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumas: gyveno -> Rūdninkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas III: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas III" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas III: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Zigmantas III leisdavo laiką Rūdninkuose; tai pakankama buvimo ar laikino gyvenimo vietos nuoroda.
+
+## Ryšiai
+- Zigmantas III buvo_valdovas [[objektai/grupes/Abiejų Tautų Respublika]]
+- Zigmantas III gyveno [[objektai/vietos/Rūdninkai]]

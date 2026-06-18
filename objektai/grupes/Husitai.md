@@ -42,13 +42,13 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eafbec2a9d9e1c4da56600e0708dffe7e2ee845368215d5332be76f9986d6560; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varėna: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Varėna: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Varėna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Varėna: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Husitai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varėna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad husitų pasiuntiniai atvyko į Varėną.
 
 <a id="claim-t-172097"></a>
 - t-002
@@ -98,13 +98,13 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305168-305542; hash=9d4ba8852c11c862f6f7998899c6904a7055356297e67d1b5f19ed2e374bcf6e; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Husitai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Husitai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kaributo siuntimą padėti husitams.
 
 <a id="claim-t-172101"></a>
 - t-005
@@ -132,7 +132,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - t-006
   global_id: t-172102
   teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Varėna; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Varėna; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Varėna; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Husitai|Husitai]] keliavo į Varėna'
   temporaliniai_duomenys: 'įvykio data: 1421 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -165,7 +166,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   global_id: t-172104
   teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškus veiksnys ir neliktų dviprasmio įvardžio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] rėmė [[objektai/grupes/Husitai|Husitai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -211,6 +213,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Čekija: Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71511|B. Dundulis]]: B. Dundulis parašė Lietuvos sąjunga su husitais.
@@ -248,6 +252,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
 - susijęs iš [[objektai/zodynas/ekskomunika.md#claim-t-36780|ekskomunika]]: Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.
+- susijęs iš Vilnius: Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -330,13 +335,13 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305168-305542; hash=9d4ba8852c11c862f6f7998899c6904a7055356297e67d1b5f19ed2e374bcf6e; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Husitai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Husitai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kaributo siuntimą padėti husitams.
     - t-002
 
 - c-005
@@ -378,13 +383,13 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eafbec2a9d9e1c4da56600e0708dffe7e2ee845368215d5332be76f9986d6560; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varėna: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Varėna: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Varėna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Varėna: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Husitai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varėna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad husitų pasiuntiniai atvyko į Varėną.
     - t-006
 
 - c-007
@@ -522,3 +527,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   ryšio_subjekto_parinkimas: Husitai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husitai" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Kaributas]] reme Husitai
+- Husitai keliavo_i [[objektai/vietos/Varėna]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Husitai

@@ -72,19 +72,20 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   global_id: t-74194
   teiginys: 'Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra publicistinis, todėl reikia neutralaus enciklopedinio sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]'
+  semantiniai_rysiai: '[[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]] buvo sąjungininkas su [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7155a90ca536be5d181cbef07cecc1704ce11e70d02b6b76d54c2161925688a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Katalikų veikimo centras: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Katalikų veikimo centras: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krikščionių demokratų blokas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Katalikų veikimo centras: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionių demokratų blokas" parinktas kaip owner_note_path. Targetas "Katalikų veikimo centras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionių demokratų blokas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Katalikų veikimo centras: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Abi grupės citatoje veikia toje pačioje politinėje pozicijoje prieš tautininkų monopolį.
 
 <a id="claim-t-74195"></a>
 - t-005
@@ -210,13 +211,13 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7155a90ca536be5d181cbef07cecc1704ce11e70d02b6b76d54c2161925688a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Katalikų veikimo centras: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Katalikų veikimo centras: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krikščionių demokratų blokas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Katalikų veikimo centras: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionių demokratų blokas" parinktas kaip owner_note_path. Targetas "Katalikų veikimo centras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionių demokratų blokas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Katalikų veikimo centras: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Abi grupės citatoje veikia toje pačioje politinėje pozicijoje prieš tautininkų monopolį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9306b853fd0388920029cd59fc5c49f1b3c7d290a7a3655af81210879cac2e9c; match=fallback; occurrences=0
@@ -258,3 +259,6 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 315549-315959; hash=8475bcb9c9b61609fdd41889b3e0c752940910dfa67352a388d5b10e3b692efe; match=whitespace_regex
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Krikščionių demokratų blokas buvo_sajungininkas_su [[objektai/grupes/Katalikų veikimo centras]]

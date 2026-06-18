@@ -24,59 +24,60 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   global_id: t-60055
   teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   sudarymo_pagrindimas: 'Citata pagrindžia Matos kilmę ir tarnybą Ordinui.'
-  susije_objektai: 'family: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]; [[objektai/asmenys/Mata|Mata]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e2b29f1ed5274f0a16b3cd567d1bd3132344fbc5037d0233e55deee252ff852; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.90
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Pipinas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
 
 <a id="claim-t-60056"></a>
 - t-002
   global_id: t-60056
   teiginys: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinį kontekstą, bet citata patvirtina Matos patarimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kuršas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kuršas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b3b379b4c88d074e4c6bcd25cce5615989b4510d451e8a89176f1c0d4647f7f8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Pipinas: 0.95
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=28
-  ryšio_targeto_parinkimas: Pipinas: nearest_person_after_predicate, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
 
 <a id="claim-t-60057"></a>
 - t-003
   global_id: t-60057
   teiginys: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir teologiškai vertinamą palyginimą galima sutraukti į paremtą faktą.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Pamedė; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] vedė [[objektai/asmenys/Pipinas|Pipinas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Pamedė; mentioned_place: Torunė'
+  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2d04531845cd32f6383b9cf7ecfeb66dcbfbc501b2b077cad21a990d57c51067; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pipinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pipinas: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mata buvo Pipino sūnus.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
 - susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
@@ -122,13 +123,13 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2d04531845cd32f6383b9cf7ecfeb66dcbfbc501b2b077cad21a990d57c51067; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pipinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pipinas: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mata buvo Pipino sūnus.
     - t-001
 
 - c-003
@@ -152,25 +153,25 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e2b29f1ed5274f0a16b3cd567d1bd3132344fbc5037d0233e55deee252ff852; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.90
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Pipinas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b3b379b4c88d074e4c6bcd25cce5615989b4510d451e8a89176f1c0d4647f7f8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Pipinas: 0.95
+  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Mata: owner_note_path, person, gap=28
-  ryšio_targeto_parinkimas: Pipinas: nearest_person_after_predicate, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Mata" parinktas kaip owner_note_path. Targetas "Pipinas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
 
 ## Ryšiai
-- Mata vede [[objektai/asmenys/Pipinas]]
 - Mata buvo_sunus [[objektai/asmenys/Pipinas]]
+- Mata reme [[objektai/grupes/Kryžiuočių ordinas]]

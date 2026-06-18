@@ -27,7 +27,7 @@ Dusburgietis teigia, kad stabo — dab.
   global_id: t-61192
   teiginys: 'J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Stabo ir Kamienne vietovardžių tapatinimą.'
-  susije_objektai: 'mentioned_place: Stabo ežeras; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]'
+  susije_objektai: 'mentioned_place: Stabo ežeras; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; llm_object: Suvalkai'
   temporaliniai_duomenys: 'įvykio data: po 1283 m.; įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie Stabo ir Kamienne vietovardžių tapatinimą.'
@@ -36,13 +36,13 @@ Dusburgietis teigia, kad stabo — dab.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 540808-541083; hash=bac7a1cf8fac9bf9852da8d9d4c4e59cd498d49d56b7c12294c91777917449e4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stabo ežeras: 0.85
+  ryšio_patikimumas: gyveno -> Suvalkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nalepa J., Stabo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Stabo ežeras: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalepa J., Stabo" parinktas kaip owner_note_path. Targetas "Stabo ežeras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo jotvingių išlikimą regione prie Suvalkų, todėl palaiko gyvenimo vietos ryšį tik apytikriai.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +62,10 @@ Dusburgietis teigia, kad stabo — dab.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 540808-541083; hash=bac7a1cf8fac9bf9852da8d9d4c4e59cd498d49d56b7c12294c91777917449e4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stabo ežeras: 0.85
+  ryšio_patikimumas: gyveno -> Suvalkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nalepa J., Stabo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Stabo ežeras: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalepa J., Stabo" parinktas kaip owner_note_path. Targetas "Stabo ežeras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo jotvingių išlikimą regione prie Suvalkų, todėl palaiko gyvenimo vietos ryšį tik apytikriai.

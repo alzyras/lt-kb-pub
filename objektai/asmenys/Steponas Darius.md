@@ -30,7 +30,8 @@ periodo_grupes:
   global_id: t-78013
   teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, datą, lėktuvą ir skrydžio kryptį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Darius|Steponas Darius]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėjus, datą, lėktuvą ir skrydžio kryptį.'
@@ -39,13 +40,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350855-351179; hash=73f71ce0ac44d4707fc191f56d44e74897923a5e8fbc762cc816209cb975271d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steponas Darius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Darius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Darius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skrydis tiesiogiai nurodo kelionės kryptį į Lietuvą.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183273|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183274|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-66866|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
@@ -83,10 +84,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350855-351179; hash=73f71ce0ac44d4707fc191f56d44e74897923a5e8fbc762cc816209cb975271d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steponas Darius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Darius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Darius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skrydis tiesiogiai nurodo kelionės kryptį į Lietuvą.
+
+## Ryšiai
+- Steponas Darius keliavo_i [[objektai/vietos/Lietuva]]

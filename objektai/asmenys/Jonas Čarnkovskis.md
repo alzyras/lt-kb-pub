@@ -70,3 +70,6 @@ Jonas Čarnkovskis vadovavo Lenkijos pasienio kelių apsaugai ir suėmė Cigalą
   ryšio_subjekto_parinkimas: Jonas Čarnkovskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Čarnkovskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas Čarnkovskis buvo_priesas [[objektai/asmenys/Cigala iš Vienos]]

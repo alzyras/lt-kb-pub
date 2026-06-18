@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-35923
   teiginys: '1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.'
-  susije_objektai: 'mentioned_place: Konstancija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Konstancija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; llm_object: Konstancija'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -51,13 +51,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cfb81f8f6e32b8a9a55be39022fe6a9846a301077cccf042d30c057c0aafd136; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumas: siunte_i -> Konstancija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste „jis“ reiškia Vytautą, kuris nusiuntė žemaičių bajorus į sinodą Konstancijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -82,10 +82,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cfb81f8f6e32b8a9a55be39022fe6a9846a301077cccf042d30c057c0aafd136; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumas: siunte_i -> Konstancija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste „jis“ reiškia Vytautą, kuris nusiuntė žemaičių bajorus į sinodą Konstancijoje.

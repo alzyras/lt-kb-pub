@@ -53,7 +53,8 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   global_id: t-91448
   teiginys: '1683 m. hetmonas Sapiega, vykdamas vaduoti Vienos, delsė su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
   sudarymo_pagrindimas: 'Reikia patikslinti Sapiegos pareigas ir suformuluoti glaudžiau.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; llm_object: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sapiegos|Sapiegos]] keliavo į Viena'
   temporaliniai_duomenys: 'kelionės data: 1683 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti Sapiegos pareigas ir suformuluoti glaudžiau.'
@@ -93,7 +94,6 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   ryšio_subjekto_parinkimas: Viena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viena" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75437|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
@@ -2008,6 +2008,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/šturmovcai.md#claim-t-42530|šturmovcai]]: Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.
 - susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -2107,3 +2108,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   ryšio_subjekto_parinkimas: Viena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viena" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila]] keliavo_i Viena
+- [[objektai/grupes/Sapiegos]] keliavo_i Viena

@@ -22,7 +22,8 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas retorinis intarpas ir puslapio triukšmas.'
-  susije_objektai: 'mentioned_place: Italija'
+  susije_objektai: 'mentioned_place: Italija; llm_object: Italija'
+  semantiniai_rysiai: '[[objektai/asmenys/Deziderijus|Deziderijus]] puolė Italija'
   temporaliniai_duomenys: 'įvykio data: 754 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas retorinis intarpas ir puslapio triukšmas.'
@@ -31,13 +32,13 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89527-89876; hash=81c33185e69d9df88205e7baa1b804b0ee687ff61915a7732fb3db358f2676af; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumas: puole -> Italija: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Deziderijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deziderijus" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Deziderijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Deziderijaus veiksmus su Italijos niokojimu; tikslesni Romos ar popiežiaus valdų objektai nepateikti.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +65,13 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89527-89876; hash=81c33185e69d9df88205e7baa1b804b0ee687ff61915a7732fb3db358f2676af; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumas: puole -> Italija: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Deziderijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deziderijus" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Deziderijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Deziderijaus veiksmus su Italijos niokojimu; tikslesni Romos ar popiežiaus valdų objektai nepateikti.
+
+## Ryšiai
+- Deziderijus puole [[objektai/vietos/Italija]]

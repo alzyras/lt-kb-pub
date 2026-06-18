@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-92939
   teiginys: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Racionžas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Racionžas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1401 m.; įvykio data: 1401 m.; įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'

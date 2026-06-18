@@ -52,6 +52,7 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 - susijęs iš [[objektai/zodynas/Įšleitė.md#claim-t-70421|įšleitė]]: `Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.
+- susijęs iš [[objektai/grupes/Herulai.md#claim-t-184476|Herulai]]: Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,3 +68,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Herulai]] gyveno Isteris

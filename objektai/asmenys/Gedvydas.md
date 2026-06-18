@@ -31,7 +31,8 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 - t-001
   global_id: t-40121
   teiginys: '1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Gedvydas|Gedvydas]] kariavo prieš [[objektai/asmenys/Mindaugas|Mindaugas]]'
   temporaliniai_duomenys: 'įvykio data: 1249 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,13 +40,13 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4954bf12b2317b799d60ebf06a882a46bb9abca41c45748a29b90d2628a4d3b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedvydas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Mindaugas (valdovas, XIII a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Gedvydas priklauso prieš Mindaugą karą pradėjusiai asmenų grupei.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121176|Tautvilas]]: 1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
 ## Reikšmingi paminėjimai
@@ -65,10 +66,13 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4954bf12b2317b799d60ebf06a882a46bb9abca41c45748a29b90d2628a4d3b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedvydas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Mindaugas (valdovas, XIII a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Gedvydas priklauso prieš Mindaugą karą pradėjusiai asmenų grupei.
+
+## Ryšiai
+- Gedvydas kariavo_pries [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

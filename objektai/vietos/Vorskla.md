@@ -57,13 +57,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b68a5e6b3ff46b1b7012a93dd178ccdd754050c5adfea94234f897512527f208; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timur-Kutlugas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Timur-Kutlugas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Timur-Kutlugas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vorskla: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vytauto priartėjimą prie Vorsklos.
 
 <a id="claim-t-178745"></a>
 - t-003
@@ -89,26 +89,27 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   global_id: t-178746
   teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timur-Kutlugas|Timur-Kutlugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Vorskla; mentioned_person: [[objektai/asmenys/Timur-Kutlugas|Timur-Kutlugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Vorskla'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d485293df060b67ebf350cefeda8847925322f0f3d99202eff0bc9bff565c9a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Vorskla: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas organizavo kryžiaus žygį, kuris baigėsi prie Vorsklos; vieta remia žygio kryptį, nors sakinys ją pateikia kaip pralaimėjimo vietą.
 
 <a id="claim-t-178747"></a>
 - t-005
   global_id: t-178747
   teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; llm_object: Smolenskas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1399 m.; įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -117,13 +118,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=234a142e8dcf5003837046e3e669fc2f5d493ad5ce526c0798b2739d02958b5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Vytautas prijungė Smolenską prie Lietuvos valstybės plėtros.
 
 <a id="claim-t-178748"></a>
 - t-006
@@ -149,7 +150,8 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   global_id: t-178749
   teiginys: 'Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpesnį ir aiškesnį faktą apie Vorsklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Europa; mentioned_place: Kosovas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Europa; mentioned_place: Kosovas; mentioned_place: Lietuva; mentioned_place: Luckas; llm_object: Vorskla'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Vorskla'
   temporaliniai_duomenys: 'mūšio data: 1399 m.; mūšio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti trumpesnį ir aiškesnį faktą apie Vorsklą.'
@@ -179,13 +181,16 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=234a142e8dcf5003837046e3e669fc2f5d493ad5ce526c0798b2739d02958b5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Vytautas prijungė Smolenską prie Lietuvos valstybės plėtros.
+- susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54946|Andrius Algirdaitis]]: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.
+- susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30264|Hlebas]]: Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54946|Andrius Algirdaitis]]: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.
 - susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30264|Hlebas]]: Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176427|Jadvyga Jogailienė]]: Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo.
@@ -274,6 +279,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 - susijęs iš Podolė: Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.
 - susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš Psiolas: Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63377|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -365,13 +371,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b68a5e6b3ff46b1b7012a93dd178ccdd754050c5adfea94234f897512527f208; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timur-Kutlugas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Timur-Kutlugas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Timur-Kutlugas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vorskla: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vytauto priartėjimą prie Vorsklos.
     - t-004
 
 - c-005
@@ -399,13 +405,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d485293df060b67ebf350cefeda8847925322f0f3d99202eff0bc9bff565c9a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Vorskla: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas organizavo kryžiaus žygį, kuris baigėsi prie Vorsklos; vieta remia žygio kryptį, nors sakinys ją pateikia kaip pralaimėjimo vietą.
     - t-003
 
 - c-006
@@ -436,13 +442,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=234a142e8dcf5003837046e3e669fc2f5d493ad5ce526c0798b2739d02958b5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Vytautas prijungė Smolenską prie Lietuvos valstybės plėtros.
     - t-009
 
 - c-007
@@ -522,10 +528,18 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=234a142e8dcf5003837046e3e669fc2f5d493ad5ce526c0798b2739d02958b5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorskla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorskla" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Vytautas prijungė Smolenską prie Lietuvos valstybės plėtros.
+
+## Ryšiai
+- [[objektai/asmenys/Spytkas iš Melsztyno]] mire Vorskla
+- [[objektai/asmenys/Andrius Algirdaitis]] mire Vorskla
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vorskla
+- [[objektai/asmenys/Hlebas]] mire Vorskla
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Vorskla
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Vorskla

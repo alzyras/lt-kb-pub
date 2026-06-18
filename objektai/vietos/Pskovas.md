@@ -45,7 +45,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - t-001
   global_id: t-178100
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.'
-  susije_objektai: 'location: Naugardas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -101,7 +101,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178105
   teiginys: '1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.'
   sudarymo_pagrindimas: 'Pašalintas įvadinis žodis, sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_place: Polockas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Pskovas; mentioned_place: Polockas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas įvadinis žodis, sakinys sutrumpintas.'
@@ -129,13 +130,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytauto žygius į Pskovą.
 
 <a id="claim-t-178107"></a>
 - t-006
@@ -166,13 +167,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de7d09abc8037d73d731daba1fb06a8e577e7f0a72155659789c42cb4bba6277; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių reidą į Pskovo žemes.
 
 <a id="claim-t-178109"></a>
 - t-008
@@ -201,7 +202,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178110
   teiginys: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   sudarymo_pagrindimas: 'Pridėta iš konteksto paremta data.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Kremlius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Kremlius; llm_object: Pskovas'
+  semantiniai_rysiai: 'Kremlius priklausė Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėta iš konteksto paremta data.'
@@ -242,7 +244,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178112
   teiginys: 'Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus kontekstinis pradžios fragmentas.'
-  susije_objektai: 'mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; llm_object: Pskovas; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; llm_object: Didysis Naugardas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užkariavo Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus kontekstinis pradžios fragmentas.'
@@ -251,13 +254,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 378464-378777; hash=cfea386b59b2d1d32902d34f4eb56b31c3b433e43dd35d5bca35afb12ffc079c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumas: priklause -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kremlius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Daumanto kremlius lokalizuojamas Pskovo miesto viduje.
 
 <a id="claim-t-178113"></a>
 - t-012
@@ -299,7 +302,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178116
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia teiginį, tik reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'territory: Vitebskas; object: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Pskovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] gynė Pskovas'
   pagrindžia:
     - c-033
 
@@ -320,7 +324,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178118
   teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis ir trūksta veikėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Naugardas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Naugardas; llm_object: Pskovas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Pskovas'
   pagrindžia:
     - c-035
 
@@ -337,7 +342,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178120
   teiginys: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Pskovo žemes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Pskovas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Pskovo žemes.'
@@ -346,13 +352,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d81b1bf0503a49752b9f0664c7f30a83fca1db36581bc5251beb17316483b74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Livonija: 0.91
+  ryšio_patikimumas: gyne -> Pskovas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=19
-  ryšio_targeto_parinkimas: Livonija: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Livonija" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą.
 
 <a id="claim-t-178121"></a>
 - t-020
@@ -454,12 +460,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Naugardas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Naugardas: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Naugardas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Bizantija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bizantija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Bizantija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-178128"></a>
 - t-027
@@ -497,7 +504,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178132
   teiginys: 'Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra sulipęs iš kelių fragmentų, o citata palaiko siauresnį faktą apie Pskovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra sulipęs iš kelių fragmentų, o citata palaiko siauresnį faktą apie Pskovą.'
@@ -678,7 +685,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178143
   teiginys: 'Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Pskovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] gynė Pskovas'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -697,7 +705,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178144
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai papildo laiką Algirdo laikais ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Maskva; llm_object: Pskovas; llm_object: Ryga; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Pskovas'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
@@ -716,7 +725,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178145
   teiginys: 'Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Pskovas prekiavo su Vilnius'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -741,13 +751,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 378277-378656; hash=b07968bdc44ba28e78e234158fd52db5f776672d315317d046858059e43fe127; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumas: priklause -> Pskovas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bokštai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bokštai minimi kaip Pskovą juosusios sienos dalis.
 
 <a id="claim-t-178148"></a>
 - t-047
@@ -760,13 +770,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos pirkliai tiesiogiai minimi Vilniuje vykusių prekių mainų kontekste.
 
 <a id="claim-t-178149"></a>
 - t-048
@@ -820,20 +830,21 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 457872-458326; hash=085cfdddc680adc8e645038920820d58f743d7dc81fbd8464bc20148b0285440; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pskovo prekybiniai santykiai tiesiogiai siejami su Lietuvos sostine, t. y. Vilniumi.
 
 <a id="claim-t-178152"></a>
 - t-051
   global_id: t-178152
   teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto žygius į Pskovą ir Naugardą.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Pskovas; llm_object: Naugardas; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Pskovas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -923,19 +934,20 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą atribuciją ir OCR klaidų; citata palaiko aiškų faktą apie Pskovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; llm_object: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] keliavo į Pskovas'
   pagrindžia:
     - c-040
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kariniai būriai nurodyti pasiekdavę Pskovo respublikos plotus.
 
 <a id="claim-t-187643"></a>
 - t-059
@@ -945,24 +957,36 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas perteklinis žodis „miestą“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Pernu'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Pernu; llm_object: Pskovas; llm_object: Pernu'
+  semantiniai_rysiai: '[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] keliavo į Pskovas'
   pagrindžia:
     - c-041
   irodymo_stiprumas: 0.00
   saltinio_vieta: 161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.99
+  ryšio_patikimumas: gyne -> Pskovas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Vitebskas: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor_after_title. Targetas "Vitebskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 48, "match_index": 68, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
+- susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
+- susijęs iš [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes.md#claim-t-09528|Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]: 1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.
+- susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
+- susijęs iš Naugardas: 1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.
+- susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.
+- susijęs iš Kijevo Rusia: 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.
+- susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
-- susijęs iš Vilnius: 1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
+- susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
+- susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
+- susijęs iš Naugardas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
+- susijęs iš Pernu: Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.
+- susijęs iš Vilnius: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
+- susijęs iš Voronačas: 1426 m. rugpjūtį Vytautas puolė Pskovo miestus Opočką ir Voronačą, bet jų paimti negalėjo.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05163|Daumantas (kunigaikštis, XV a.)]]: Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05164|Daumantas (kunigaikštis, XV a.)]]: 1266 m. Daumantas su pskoviečiais puolė Nalšėnus.
@@ -1034,6 +1058,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš Voronačas: 1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187534|viečė]]: Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103735|Didžiojo Naugardo respublika]]: Nuo XII a. antros pusės lietuvių ginkluoti būriai rengė plėšiamuosius puolimus iki Pskovo ir Novgorodo respublikų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Danielius Aleksandraitis.md#claim-t-100070|Danielius Aleksandraitis]]: 1402 m. Maskva Pskove pasodino kunigaikštį Danielių Aleksandraitį.
@@ -1222,6 +1247,21 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176259|vietininkas]]: Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš Maskva: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.
+- susijęs iš Opočka: Opočka citatoje minima kaip vienas iš Pskovo miestų, kuriuos 1426 m. rugpjūtį puolė Vytautas.
+- susijęs iš Opočka: 1426 m. rugpjūčio 1 d. Vytautas puolė Pskovo miestą Opočką, bet jo nepaėmė.
+- susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82286|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
+- susijęs iš [[objektai/ivykiai/Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.).md#claim-t-86943|Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.)]]: Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.
+- susijęs iš 1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu: 1323 m. Gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės apėmė Aukštaičių ir Žemaičių kraštus.
+- susijęs iš Naugardas: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113997|Steponas Batoras]]: 1581 m. Steponas Batoras nutraukė išpuolį prieš reformatų maldos namus ir Danieliaus Lenčickio spaustuvę.
+- susijęs iš [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus.md#claim-t-87204|Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]: Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1304,13 +1344,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos pirkliai tiesiogiai minimi Vilniuje vykusių prekių mainų kontekste.
     - t-020
 
 - c-004
@@ -1445,13 +1485,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 457872-458326; hash=085cfdddc680adc8e645038920820d58f743d7dc81fbd8464bc20148b0285440; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pskovo prekybiniai santykiai tiesiogiai siejami su Lietuvos sostine, t. y. Vilniumi.
     - t-007
 
 - c-008
@@ -1471,13 +1511,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de7d09abc8037d73d731daba1fb06a8e577e7f0a72155659789c42cb4bba6277; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių reidą į Pskovo žemes.
     - t-051
 
 - c-009
@@ -1648,13 +1688,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 378464-378777; hash=cfea386b59b2d1d32902d34f4eb56b31c3b433e43dd35d5bca35afb12ffc079c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumas: priklause -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kremlius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Daumanto kremlius lokalizuojamas Pskovo miesto viduje.
     - t-044
   irodymo_stiprumas: 0.00
   saltinio_vieta: 593151-593507; hash=f6168ad30764d4ee83792fa42b937b717cccff7bcdffcccb7f3d2c43dab250c2; match=exact
@@ -1766,13 +1806,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 378277-378656; hash=b07968bdc44ba28e78e234158fd52db5f776672d315317d046858059e43fe127; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumas: priklause -> Pskovas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bokštai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bokštai minimi kaip Pskovą juosusios sienos dalis.
     - t-043
 
 - c-019
@@ -2014,12 +2054,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Naugardas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Naugardas: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Naugardas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Bizantija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bizantija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Bizantija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-033
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=17426cfc8db7cdd6caca414e57a5f9ecc65342abd34bda59f717441fbee090ee; match=fallback; occurrences=0
@@ -2367,13 +2408,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d81b1bf0503a49752b9f0664c7f30a83fca1db36581bc5251beb17316483b74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Livonija: 0.91
+  ryšio_patikimumas: gyne -> Pskovas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=19
-  ryšio_targeto_parinkimas: Livonija: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Livonija" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą.
     - t-005
 
 - c-038
@@ -2395,13 +2436,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytauto žygius į Pskovą.
     - t-056
 
 - c-039
@@ -2483,27 +2524,46 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovas" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kariniai būriai nurodyti pasiekdavę Pskovo respublikos plotus.
     - t-059
   irodymo_stiprumas: 0.00
   saltinio_vieta: 161311-161924; hash=fab7c42513e5d59490e6ce201e347b343fced54c0f2a2e4ab0df057e65863232; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.99
+  ryšio_patikimumas: gyne -> Pskovas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Vitebskas: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor_after_title. Targetas "Vitebskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 48, "match_index": 68, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas gynė Pskovą.
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_teritorija Pskovas
-- [[objektai/asmenys/Joachimas Pavlovičius]] keliavo_i Pskovas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Pskovas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Pskovas
+- [[objektai/grupes/Lietuviai]] puole Pskovas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Pskovas
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Pskovas
+- [[objektai/asmenys/Dovydas Gardiniškis]] gyne Pskovas
+- [[objektai/vietos/Koloža]] priklause Pskovas
+- [[objektai/vietos/Vilnius]] prekiavo_su Pskovas
+- Pskovas prekiavo_su [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] keliavo_i Pskovas
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde Pskovas
+- [[objektai/vietos/Opočka]] priklause Pskovas
+- [[objektai/asmenys/Sofija]] keliavo_i Pskovas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Pskovas
+- [[objektai/vietos/Kremlius]] priklause Pskovas
+- [[objektai/grupes/Lietuviai]] gyne Pskovas
+- [[objektai/asmenys/Sofija (Vytauto duktė)]] keliavo_i Pskovas
+- [[objektai/vietos/Bokštai]] priklause Pskovas
+- [[objektai/asmenys/Jurgis Vytautaitis]] valde_miesta Pskovas
+- [[objektai/asmenys/Gediminas]] valde Pskovas
+- [[objektai/asmenys/Steponas Batoras]] apgule Pskovas
+- Pskovas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pskoviečiai]] keliavo_i Pskovas

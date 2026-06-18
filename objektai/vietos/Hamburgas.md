@@ -47,10 +47,6 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 - susijęs iš Krokuva: Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.
-- susijęs iš Krokuva: Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis).md#claim-t-60189|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]: Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176836|Vytenis]]: Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116687|Hanza]]: XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.
@@ -87,8 +83,3 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   ryšio_subjekto_parinkimas: Hamburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Liubekas: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hamburgas" parinktas kaip owner_note_path. Targetas "Liubekas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/vietos/Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)]] priklause Hamburgas
-- [[objektai/vietos/Krokuva]] priklause Hamburgas
-- [[objektai/vietos/Naugardas]] priklause Hamburgas

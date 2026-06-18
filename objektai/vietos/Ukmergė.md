@@ -89,13 +89,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42378b276d2d1333876b43a4e0c0084c5cbc0dece407aaeee8b75afb3d78e46f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukmergės rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ukmergės rinktinės judėjimo kryptis tiesiogiai prasideda Ukmerge.
 
 <a id="claim-t-180708"></a>
 - t-004
@@ -107,19 +107,20 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2464fe00310a2deb985afe80a18ee799aff7221f2ecbff972b5108acf2bbc8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Daugpilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Utena: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Silvestras Žukauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žukauskas įsakė rinktinei žygiuoti ir užimti Uteną.
 
 <a id="claim-t-180709"></a>
 - t-005
   global_id: t-180709
   teiginys: 'Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja; llm_object: [[objektai/asmenys/Jaunutis|Jaunutis]]'
+  semantiniai_rysiai: 'Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -155,7 +156,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180712
   teiginys: 'Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_place: Breslauja; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Gotlandas; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Salos; mentioned_place: Sanas; mentioned_place: Vilnius; mentioned_place: Štetinas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Gotlandas; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Salos; mentioned_place: Sanas; mentioned_place: Vilnius; mentioned_place: Štetinas'
+  semantiniai_rysiai: 'Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -174,7 +176,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180713
   teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, trumpas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_group: [[objektai/grupes/Ukmergės rinktinė|Ukmergės rinktinė]]; mentioned_place: Utena; mentioned_place: Zarasai; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_group: [[objektai/grupes/Ukmergės rinktinė|Ukmergės rinktinė]]; mentioned_place: Utena; mentioned_place: Zarasai; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Ukmergė; llm_object: Utena; llm_object: Zarasai'
+  semantiniai_rysiai: '[[objektai/grupes/Ukmergės rinktinė|Ukmergės rinktinė]] keliavo į Ukmergė'
   temporaliniai_duomenys: 'įvykio data: 1881 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, trumpas ir tiesiogiai paremtas citata.'
@@ -183,19 +186,19 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jaunutis (valdovas, XIV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Breslauja išvardyta tarp Jaunučiui paskirto žemių dalinio sričių.
 
 <a id="claim-t-180714"></a>
 - t-010
   global_id: t-180714
   teiginys: 'Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Livonija; mentioned_place: Pabaiskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Livonija; mentioned_place: Pabaiskas'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -206,7 +209,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180715
   teiginys: 'Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys susietas su Ukmerge.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Ukmergė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] surengė žygį į Ukmergė'
   pagrindžia:
     - c-015
 
@@ -223,7 +227,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180717
   teiginys: '1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
   sudarymo_pagrindimas: 'Išplėstos inicialais pateiktos pavardės ir pataisyta santrumpinė formuluotė.'
-  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Utena; mentioned_person: [[objektai/asmenys/Silvestras Žukauskas|Silvestras Žukauskas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Utena; mentioned_person: [[objektai/asmenys/Silvestras Žukauskas|Silvestras Žukauskas]]; mentioned_place: Lietuva; llm_object: Utena'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstos inicialais pateiktos pavardės ir pataisyta santrumpinė formuluotė.'
@@ -232,20 +236,20 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42378b276d2d1333876b43a4e0c0084c5cbc0dece407aaeee8b75afb3d78e46f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukmergės rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ukmergė nurodyta kaip Ukmergės rinktinės judėjimo krypties punktas.
 
 <a id="claim-t-180719"></a>
 - t-015
   global_id: t-180719
   teiginys: 'Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -257,7 +261,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180722
   teiginys: 'Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti, dėl ko vyko varžybos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Ukmergė'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] surengė žygį į Ukmergė'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti, dėl ko vyko varžybos.'
@@ -266,20 +271,21 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd0313547e5b15d16abee193143df16d861327ef9fda76b1e894e5b10ad9b8f7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jaunutis (valdovas, XIV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Breslauja nurodyta tarp Jaunučio paveldėtų valdų.
 
 <a id="claim-t-180724"></a>
 - t-019
   global_id: t-180724
   teiginys: 'Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: Ukmergė'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Ukmergė'
   pagrindžia:
     - c-014
 
@@ -288,7 +294,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180726
   teiginys: 'Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Ukmergės priklausymą Jaunučio daliai.'
-  susije_objektai: 'mentioned_place: Breslauja; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]'
+  susije_objektai: 'mentioned_place: Breslauja; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; llm_object: [[objektai/asmenys/Jaunutis|Jaunutis]]'
+  semantiniai_rysiai: 'Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -307,7 +314,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   global_id: t-180727
   teiginys: 'Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu „Jos“, kurį reikia išplėsti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-006
 
@@ -331,13 +338,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344179-344514; hash=30a61f3b98f083a8bfd8f7f30e14087959ab1e1140c41d7cb5ebc5d908ac6f74; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jutrzenka: 0.83
+  ryšio_patikimumas: reme -> Lenkai: 0.50
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jutrzenka: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Jutrzenka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jutrzenka: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jutrzenka yra viena iš organizacijų, kurios rėmė lenkų mokyklas; tikslaus mokyklų objekto nėra.
 
 <a id="claim-t-180731"></a>
 - t-025
@@ -349,13 +356,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 276300-276615; hash=1865ac0186db579bb1624782a11d41580fef9b45a8aa352fe9ab31909c068804; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Ukmergė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Švitrigailos pajėgos žygiavo į Vilkmergę, t. y. Ukmergę.
 
 <a id="claim-t-180732"></a>
 - t-026
@@ -386,15 +393,15 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cba4268aef39ad8adfbb7b3e0fc500e2f59223433e063e23bbe0bdf9d39c78a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Trakų apskritis: J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
-- susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
+  ryšio_patikimumas: kariavo_pries -> Švitrigaila: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lietuvių kariuomenė minima kaip jėga, užkirtusi kelią Švitrigailai mūšio kontekste.
+- susijęs iš [[objektai/grupes/8-asis pėstininkų pulkas.md#claim-t-40830|8-asis pėstininkų pulkas]]: Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.
+- susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
 - susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
@@ -430,6 +437,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš Ukmergės pilis: Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį.
 - susijęs iš Žirnajos upelis: Mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.
 - susijęs iš Žirnajų ežeras: Mūšio vieta buvo tarp Žirnajų ežero ir Pabaisko, prie Žirnajos upelio, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.
+- susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54972|Gabrielius Bekešas]]: Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.
 - susijęs iš [[objektai/asmenys/Grigalius Astikas.md#claim-t-87510|Grigalius Astikas]]: Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.
@@ -499,6 +507,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš [[objektai/zodynas/demobilizacija.md#claim-t-42443|demobilizacija]]: Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
+- susijęs iš [[objektai/grupes/13-asis ulonų pulkas.md#claim-t-38926|13-asis ulonų pulkas]]: Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.
+- susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
+- susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -543,13 +554,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 276300-276615; hash=1865ac0186db579bb1624782a11d41580fef9b45a8aa352fe9ab31909c068804; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Ukmergė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Švitrigailos pajėgos žygiavo į Vilkmergę, t. y. Ukmergę.
     - t-006
 
 - c-003
@@ -594,35 +605,35 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2464fe00310a2deb985afe80a18ee799aff7221f2ecbff972b5108acf2bbc8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Daugpilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Utena: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Silvestras Žukauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žukauskas davė įsakymą rinktinei žygiuoti ir užimti Uteną.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jaunutis (valdovas, XIV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Breslauja išvardyta tarp Jaunučiui paskirto žemių dalinio sričių.
     - t-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cba4268aef39ad8adfbb7b3e0fc500e2f59223433e063e23bbe0bdf9d39c78a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkų kariuomenė buvo prieš Švitrigailą stojusios pajėgos dalis.
     - t-003
 
 - c-005
@@ -643,13 +654,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42378b276d2d1333876b43a4e0c0084c5cbc0dece407aaeee8b75afb3d78e46f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukmergės rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ukmergės rinktinės judėjimo kryptis tiesiogiai prasideda Ukmerge.
     - t-020
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=62282ea20ff31aadfa718fd17bde6b206b3ebc3e437e1f464254c65ab922705c; match=fallback; occurrences=0
@@ -665,13 +676,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42378b276d2d1333876b43a4e0c0084c5cbc0dece407aaeee8b75afb3d78e46f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukmergės rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ukmergė nurodyta kaip Ukmergės rinktinės judėjimo krypties punktas.
     - t-016
 
 - c-006
@@ -690,13 +701,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0f3f43198b3c24eccc4d99310d90d12ef899cb3c1854b03b0c196fd9d863d92; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas veikė Ukmergės srityje, tačiau tikslus veiksmo tipas nėra kelionė ar puolimas.
     - t-022
     - t-002
 
@@ -903,13 +914,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd0313547e5b15d16abee193143df16d861327ef9fda76b1e894e5b10ad9b8f7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jaunutis (valdovas, XIV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Breslauja nurodyta tarp Jaunučio paveldėtų valdų.
     - t-015
 
 - c-013
@@ -932,13 +943,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cba4268aef39ad8adfbb7b3e0fc500e2f59223433e063e23bbe0bdf9d39c78a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švitrigaila: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lietuvių kariuomenė minima kaip jėga, užkirtusi kelią Švitrigailai mūšio kontekste.
     - t-023
 
 - c-014
@@ -979,13 +990,13 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344179-344514; hash=30a61f3b98f083a8bfd8f7f30e14087959ab1e1140c41d7cb5ebc5d908ac6f74; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jutrzenka: 0.83
+  ryšio_patikimumas: reme -> Lenkai: 0.50
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jutrzenka: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Jutrzenka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jutrzenka: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jutrzenka yra viena iš organizacijų, kurios rėmė lenkų mokyklas; tikslaus mokyklų objekto nėra.
     - t-011
 
 - c-016
@@ -1025,11 +1036,23 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2464fe00310a2deb985afe80a18ee799aff7221f2ecbff972b5108acf2bbc8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Daugpilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergė" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Utena: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Silvestras Žukauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žukauskas įsakė rinktinei žygiuoti ir užimti Uteną.
     - t-007
+
+## Ryšiai
+- Ukmergė priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- [[objektai/grupes/8-asis pėstininkų pulkas]] keliavo_i Ukmergė
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] valde Ukmergė
+- [[objektai/asmenys/Švitrigaila]] surenge_zygi_i Ukmergė
+- [[objektai/asmenys/V. Nazimovas]] siunte_i Ukmergė
+- [[objektai/grupes/13-asis ulonų pulkas]] surenge_zygi_i Ukmergė
+- [[objektai/asmenys/Boleslovas Švitrigaila]] surenge_zygi_i Ukmergė
+- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Ukmergė
+- [[objektai/asmenys/Kinsgaila]] valde Ukmergė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Ukmergė

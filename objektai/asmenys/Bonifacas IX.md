@@ -33,7 +33,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-001
   global_id: t-35040
   teiginys: 'Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Malburgas; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]'
+  susije_objektai: 'llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Malburgas; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Bonifacas IX|Bonifacas IX]] siuntė į Malburgas'
   temporaliniai_duomenys: 'įvykio data: 1388-1404; įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,32 +42,33 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269267-269604; hash=6fee01aa677103754d4f388f803c9eb66a542b6d3288f3e68027bf10e4d893bc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Malburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Malburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Bonifacas IX su kitais popiežiais siuntė bules į Malburgą.
 
 <a id="claim-t-35042"></a>
 - t-002
   global_id: t-35042
   teiginys: 'Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Šventoji'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Šventoji'
+  semantiniai_rysiai: '[[objektai/asmenys/Bonifacas IX|Bonifacas IX]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stačiatikiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Stačiatikiai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Stačiatikiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Bonifacas IX parėmė Vytauto pastangas.
 
 <a id="claim-t-184254"></a>
 - t-003
@@ -76,7 +78,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir citata jį pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Lietuva; mentioned_place: Malburgas'
+  susije_objektai: 'llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Lietuva; mentioned_place: Malburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Bonifacas IX|Bonifacas IX]] siuntė į Malburgas'
   temporaliniai_duomenys: 'įvykio data: 1388-1404; įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir citata jį pagrindžia.'
@@ -85,14 +88,13 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269162-269439; hash=6b9379aaa819837d7ad4ec50d9291864c28e7b1bad6204cbf15cf6f7641d72b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Inocentas VII: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Inocentas VII: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Inocentas VII" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
+  ryšio_patikimumas: siunte_i -> Malburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Malburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad popiežiai, tarp jų Bonifacas IX, siuntė bules į Malburgą.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112511|Domininkonų ordinas]]: Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
 - susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
@@ -142,13 +144,13 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269267-269604; hash=6fee01aa677103754d4f388f803c9eb66a542b6d3288f3e68027bf10e4d893bc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Malburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Malburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Bonifacas IX su kitais popiežiais siuntė bules į Malburgą.
     - t-002
 
 - c-003
@@ -167,24 +169,26 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stačiatikiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Stačiatikiai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Stačiatikiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Bonifacas IX parėmė Vytauto pastangas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269162-269439; hash=6b9379aaa819837d7ad4ec50d9291864c28e7b1bad6204cbf15cf6f7641d72b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Inocentas VII: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bonifacas IX: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Inocentas VII: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas IX" parinktas kaip owner_note_path. Targetas "Inocentas VII" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Malburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Malburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad popiežiai, tarp jų Bonifacas IX, siuntė bules į Malburgą.
 
 ## Ryšiai
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]] paskyre Bonifacas IX
+- Bonifacas IX paskyre [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
+- Bonifacas IX reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Bonifacas IX siunte_i [[objektai/vietos/Malburgas]]

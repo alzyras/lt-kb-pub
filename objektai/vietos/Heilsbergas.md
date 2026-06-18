@@ -26,19 +26,20 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   global_id: t-179914
   teiginys: 'Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Galinda; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Marienburgas; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Galinda; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Marienburgas; mentioned_place: Varmė; llm_object: Varmė'
+  semantiniai_rysiai: 'Heilsbergas priklausė Varmė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 933738-933870; hash=b9f1797759f94ab604c3d7a19966e7a8592bc479268b1adfef3b88c2b17b48d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumas: priklause -> Varmė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Varmė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Heilsbergo pilį lokalizuoja Varmės žemėje, bet formuluotė yra netiesioginė.
 
 <a id="claim-t-184156"></a>
 - t-002
@@ -48,19 +49,20 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas perteklinis įvadas ir palikta citatos paremta faktinė informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Heilsbergas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] valdė Heilsbergas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471030; hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Heilsbergas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakymas, kad pilis buvo pagudėnų rankose, tiesiogiai rodo jų valdymą.
 
 <a id="claim-t-184960"></a>
 - t-003
@@ -92,19 +94,20 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pataisyta linksnių dermė ir išlaikyta citatos paremta faktinė mintis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija'
+  semantiniai_rysiai: 'Heilsbergas priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177462-177968; hash=24ff136506cd98d8ebc55c3c2abd3096137addfc53ea39a28c953712ab835917; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jeigu Heilsbergas buvo atimtas iš kryžiuočių, tekstas remia ankstesnę priklausomybę kryžiuočiams.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
 - susijęs iš [[objektai/ivykiai/Heilsbergo pilies apsiaustis ir įgulos pasitraukimas.md#claim-t-62799|Heilsbergo pilies apsiaustis ir įgulos pasitraukimas (pilis)]]: Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.
@@ -133,6 +136,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
+- susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -171,13 +175,13 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 933738-933870; hash=b9f1797759f94ab604c3d7a19966e7a8592bc479268b1adfef3b88c2b17b48d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumas: priklause -> Varmė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Varmė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Heilsbergo pilį lokalizuoja Varmės žemėje, bet formuluotė yra netiesioginė.
     - t-002
 
 - c-003
@@ -204,13 +208,13 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471030; hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Heilsbergas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakymas, kad pilis buvo pagudėnų rankose, tiesiogiai rodo jų valdymą.
     - t-003
 
 - c-004
@@ -247,13 +251,18 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177462-177968; hash=24ff136506cd98d8ebc55c3c2abd3096137addfc53ea39a28c953712ab835917; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heilsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heilsbergas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jeigu Heilsbergas buvo atimtas iš kryžiuočių, tekstas remia ankstesnę priklausomybę kryžiuočiams.
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] uzkariavo Heilsbergas
+- [[objektai/grupes/Pagudėnai]] valde Heilsbergas
+- Heilsbergas priklause [[objektai/grupes/Pagudėnai]]
+- Heilsbergas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Heilsbergas priklause [[objektai/vietos/Kuršas]]
+- Heilsbergas priklause [[objektai/vietos/Varmė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Heilsbergas

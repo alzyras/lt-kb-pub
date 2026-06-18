@@ -67,6 +67,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
 - susijęs iš Pskovas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,3 +99,10 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   ryšio_subjekto_parinkimas: Linkas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Linkas" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Linkas puole [[objektai/vietos/Kulmas]]
+- Linkas puole [[objektai/vietos/Kulmo žemė]]
+- Linkas surenge_zygi_i [[objektai/vietos/Kulmas]]
+- [[objektai/asmenys/Divanas]] buvo_sajungininkas_su Linkas
+- Linkas buvo_sajungininkas_su [[objektai/asmenys/Divanas]]

@@ -40,19 +40,19 @@ Nenurodyta
   teiginys: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir negramatiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Torunė; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Torunė; mentioned_place: Lietuva; llm_object: Torunė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63dde8f9b69c7cb776090809af26a168aa828e42fdef06907503897ed6dbea24; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumas: keliavo_i -> Torunė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martyno iš Golino laivo užgrobimas Bugo upėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Golino laivo užgrobimas Bugo upėje" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Torunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Martynas laivą atplukdė į Torunę, todėl palaikoma krypties sąsaja su Torune.
 
 ## Reikšmingi paminėjimai
 
@@ -82,10 +82,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63dde8f9b69c7cb776090809af26a168aa828e42fdef06907503897ed6dbea24; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumas: keliavo_i -> Torunė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martyno iš Golino laivo užgrobimas Bugo upėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Golino laivo užgrobimas Bugo upėje" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Torunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Martynas laivą atplukdė į Torunę, todėl palaikoma krypties sąsaja su Torune.

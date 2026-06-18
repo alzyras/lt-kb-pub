@@ -22,19 +22,20 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   global_id: t-38824
   teiginys: 'Lietuvos jungtines pajėgas sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai ir moldavai.'
   sudarymo_pagrindimas: 'Sąrašas paverstas pilnu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; llm_object: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] priklausė [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos jungtinės pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=132
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos jungtinės pajėgos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Tochtamyšo totoriai buvo Lietuvos jungtinių pajėgų sudėtyje.
 
 <a id="claim-t-183660"></a>
 - t-002
@@ -44,19 +45,20 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sąrašą reikia paversti pilnu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_place: Lietuva; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_place: Lietuva; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; llm_object: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] priklausė [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos jungtinės pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=140
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos jungtinės pajėgos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įtraukia Tochtamyšo totorius į Lietuvos jungtinių pajėgų sudėtį.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171389|Tochtamišo totoriai]]: Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-183668|Tochtamišo totoriai]]: Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos.
@@ -103,21 +105,24 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos jungtinės pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=140
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos jungtinės pajėgos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įtraukia Tochtamyšo totorius į Lietuvos jungtinių pajėgų sudėtį.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Lietuvos jungtinės pajėgos: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos jungtinės pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=132
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos jungtinės pajėgos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Tochtamyšo totoriai buvo Lietuvos jungtinių pajėgų sudėtyje.
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] priklause Lietuvos jungtinės pajėgos

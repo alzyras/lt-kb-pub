@@ -33,7 +33,8 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   global_id: t-89815
   teiginys: '1237 m. didysis magistras Hermanas pasiuntė Prūsijos magistrą Hermaną Balką su broliais ir ginklanešiais į Livoniją.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]; llm_object: Livonija; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] paskyrė [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]'
   temporaliniai_duomenys: 'įvykio data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko konkretų faktą.'
@@ -42,20 +43,21 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6c70ac73ea4a918edc8a84554f2700a2d0a1012d2c9c8888a93e35938ccb2bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Hermanas Balkas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hermanas Balkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad Hermanas iš Zalcos pasiuntė Hermaną Balką eiti pareigų.
 
 <a id="claim-t-89816"></a>
 - t-002
   global_id: t-89816
   teiginys: '1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko aiškų faktą apie Hermaną Balką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] paskyrė [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]'
   temporaliniai_duomenys: 'įvykio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko aiškų faktą apie Hermaną Balką.'
@@ -83,13 +85,13 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2db6a97243ce10cf0adc728ecefdc07761d653e0ff473a3c05799af0dcfa54fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Hermanas Balkas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hermanas Balkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad didysis magistras pasiuntė Hermaną Balką.
 
 <a id="claim-t-89818"></a>
 - t-004
@@ -109,6 +111,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=82
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62815|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: 1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60506|Powierski J]]: J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.
 - susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62815|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: 1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją.
 - susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62814|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.
@@ -188,13 +191,13 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6c70ac73ea4a918edc8a84554f2700a2d0a1012d2c9c8888a93e35938ccb2bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Hermanas Balkas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hermanas Balkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad Hermanas iš Zalcos pasiuntė Hermaną Balką eiti pareigų.
     - t-003
 
 - c-004
@@ -219,13 +222,13 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2db6a97243ce10cf0adc728ecefdc07761d653e0ff473a3c05799af0dcfa54fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Hermanas Balkas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hermanas Balkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad didysis magistras pasiuntė Hermaną Balką.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ffb93ea5c7b16a0fb220d455b4d7275d8c60572ecd891c720e6e374743953c3; match=fallback; occurrences=0
@@ -237,3 +240,6 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   ryšio_subjekto_parinkimas: Hermanas Balkas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=55
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas Balkas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] paskyre Hermanas Balkas

@@ -57,6 +57,8 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
 - susijęs iš Vilnius: Per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai, o lenkų Vilniuje liko 20 procentų.
 - susijęs iš Šenenzė: Šenenzė rodyklėje siejama su formomis Schonense ir Schönsee bei dabartiniu Kowalewo Pomorskie.
 - susijęs iš [[objektai/zodynas/Teritorinė autonomija.md#claim-t-22028|Teritorinė autonomija]]: Nepriklausomybės pradžioje Vilniaus krašto lenkų komunistiniai funkcionieriai planavo teritorinę autonomiją su Vilniaus apskritimi.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
+- susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,3 +77,7 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Šalčininkai
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Šalčininkai

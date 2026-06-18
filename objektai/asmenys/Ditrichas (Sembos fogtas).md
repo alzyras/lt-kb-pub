@@ -40,13 +40,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9af1ce0d2d4fcf5dfa2ee2cfcf6f698a1a18855f2d8083fafee6f328c92b2117; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: reme -> Dargis: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dargis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Ditrichas veikė Dargio atžvilgiu siekdamas pakeisti jo prietarą; tai pagal leistinus ryšius artimiausia rėmimui, bet nėra politinis rėmimas.
 
 <a id="claim-t-59834"></a>
 - t-002
@@ -81,39 +81,41 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Nadruva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas su kariuomene buvo pasiųstas į Nadruvą, tai yra karinis žygis į šią vietą.
 
 <a id="claim-t-59836"></a>
 - t-004
   global_id: t-59836
   teiginys: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį ir neaiškų žodį „sumanyto“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; llm_object: [[objektai/grupes/Sembai|Sembai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] rėmė [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragainė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ragainė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Ditrichas užpuolė pilį vietoje, kur dabar yra Ragainės pilis.
 
 <a id="claim-t-59837"></a>
 - t-005
   global_id: t-59837
   teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; llm_object: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] surengė žygį į Nadruva'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
@@ -135,26 +137,28 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   global_id: t-59838
   teiginys: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkęs sakinio fragmentas.'
-  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Ragainė; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] puolė Ragainė; [[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] surengė žygį į Ragainė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=09dd22c115b71408279ba7f8e7ebde13d9807aeb04fc8fb63bf25f7868958dae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notangai: 0.83
+  ryšio_patikimumas: reme -> Sembai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notangai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Notangai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ditrichas paveikė sembus atsisakyti paklydimo; pagal leistinus ryšius tai artimiausia paramai jų atžvilgiu.
 
 <a id="claim-t-59839"></a>
 - t-007
   global_id: t-59839
   teiginys: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Viena; llm_object: [[objektai/asmenys/Dargis|Dargis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] rėmė [[objektai/asmenys/Dargis|Dargis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -252,13 +256,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9af1ce0d2d4fcf5dfa2ee2cfcf6f698a1a18855f2d8083fafee6f328c92b2117; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: reme -> Dargis: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dargis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Ditrichas veikė Dargio atžvilgiu siekdamas pakeisti jo prietarą; tai pagal leistinus ryšius artimiausia rėmimui, bet nėra politinis rėmimas.
     - t-006
 
 - c-004
@@ -275,13 +279,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=09dd22c115b71408279ba7f8e7ebde13d9807aeb04fc8fb63bf25f7868958dae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notangai: 0.83
+  ryšio_patikimumas: reme -> Sembai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notangai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Notangai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ditrichas paveikė sembus atsisakyti paklydimo; pagal leistinus ryšius tai artimiausia paramai jų atžvilgiu.
     - t-002
 
 - c-005
@@ -358,13 +362,13 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragainė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ragainė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Ditrichas užpuolė pilį vietoje, kur dabar yra Ragainės pilis.
     - t-008
 
 - c-008
@@ -413,10 +417,17 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Nadruva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas su kariuomene buvo pasiųstas į Nadruvą, tai yra karinis žygis į šią vietą.
+
+## Ryšiai
+- Ditrichas (Sembos fogtas) puole [[objektai/vietos/Ragainė]]
+- Ditrichas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Nadruva]]
+- Ditrichas (Sembos fogtas) surenge_zygi_i [[objektai/vietos/Ragainė]]
+- Ditrichas (Sembos fogtas) reme [[objektai/grupes/Sembai]]
+- Ditrichas (Sembos fogtas) reme [[objektai/asmenys/Dargis]]

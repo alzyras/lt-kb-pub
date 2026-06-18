@@ -42,7 +42,8 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   global_id: t-42377
   teiginys: 'Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; llm_object: Šimonių giria'
+  semantiniai_rysiai: '[[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]] priklausė Šimonių giria'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -72,13 +73,13 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2949460711aa4f49304997acef0f4c378a21156f492cf61f47380a61d48a376e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Partizanų bunkeriai: 0.85
+  ryšio_patikimumas: priklause -> Šimonių giria: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šimonių giria: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Partizanų bunkeriai: mention_match, thing, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šimonių giria" parinktas kaip owner_note_path. Targetas "Partizanų bunkeriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Partizanų bunkeriai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Šimonių giria: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai lokalizuoja partizanų bunkerius Šimonių girioje.
 
 <a id="claim-t-183819"></a>
 - t-004
@@ -176,14 +177,17 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2949460711aa4f49304997acef0f4c378a21156f492cf61f47380a61d48a376e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Partizanų bunkeriai: 0.85
+  ryšio_patikimumas: priklause -> Šimonių giria: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šimonių giria: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Partizanų bunkeriai: mention_match, thing, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šimonių giria" parinktas kaip owner_note_path. Targetas "Partizanų bunkeriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Partizanų bunkeriai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Šimonių giria: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai lokalizuoja partizanų bunkerius Šimonių girioje.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1002117-1002353; hash=41273f8def966566ed026c9192483b68f395c248f1e8ccf55226eb2fd9f78e08; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/daiktai/Partizanų bunkeriai]] priklause Šimonių giria

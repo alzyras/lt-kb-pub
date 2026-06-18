@@ -29,9 +29,11 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   global_id: t-176930
   teiginys: 'Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį, neperžengiant citatos turinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Jotvingija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Jotvingija'
+  semantiniai_rysiai: 'Aukštaitija priklausė Lietuva'
   pagrindžia:
     - c-001
+- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178882|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178932|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179104|Kryžiuočių ordinas]]: XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
@@ -62,3 +64,7 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Aukštaitija priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Burundajus]] puole Aukštaitija

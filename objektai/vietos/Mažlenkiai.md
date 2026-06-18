@@ -22,19 +22,20 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   global_id: t-02589
   teiginys: 'Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.'
   sudarymo_pagrindimas: 'Pataisyta rašyba ir sutrumpinta, paliekant citatos palaikomą faktą apie Mažlenkius.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Didlenkiai; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Didlenkiai; mentioned_place: Liublinas'
+  semantiniai_rysiai: 'Mažlenkiai priklausė Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=50080702be6ae965f505e8735176e5edbd9ea9c8b1b0e019eb6b5ada07235613; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mažlenkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mažlenkiai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mažlenkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mažlenkiai tiesiogiai apibūdinti kaip Lenkijos provincija.
 
 <a id="claim-t-183051"></a>
 - t-002
@@ -43,19 +44,20 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas'
+  semantiniai_rysiai: 'Mažlenkiai priklausė Lenkija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 551274-551621; hash=b6111c9fe0817970dfd6d4a360ac4c478fe16739813a881352e0f9db5aa6268c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didlenkiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mažlenkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didlenkiai: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mažlenkiai" parinktas kaip owner_note_path. Targetas "Didlenkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mažlenkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mažlenkiai nurodyti kaip viena iš Lenkijos provincijų.
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
 - susijęs iš Didlenkiai: Sudarant Liublino uniją, Didlenkiai ir Mažlenkiai turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.
 - susijęs iš Didlenkiai: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
@@ -117,21 +119,24 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=50080702be6ae965f505e8735176e5edbd9ea9c8b1b0e019eb6b5ada07235613; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mažlenkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mažlenkiai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mažlenkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mažlenkiai tiesiogiai apibūdinti kaip Lenkijos provincija.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 551274-551621; hash=b6111c9fe0817970dfd6d4a360ac4c478fe16739813a881352e0f9db5aa6268c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didlenkiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mažlenkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didlenkiai: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mažlenkiai" parinktas kaip owner_note_path. Targetas "Didlenkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mažlenkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mažlenkiai nurodyti kaip viena iš Lenkijos provincijų.
+
+## Ryšiai
+- Mažlenkiai priklause [[objektai/vietos/Lenkija]]

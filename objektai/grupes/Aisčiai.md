@@ -43,6 +43,7 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   ryšio_subjekto_parinkimas: Aisčiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčiai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-78071|Tacitas]]: Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.
 - susijęs iš [[objektai/autoriai/K. Būga.md#claim-t-00043|K. Būga]]: Būga kartu su Jauniumi vadino aisčių gimines aisčiais.
 - susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
@@ -142,3 +143,7 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   ryšio_subjekto_parinkimas: Aisčiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčiai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Vokiečių pirkliai]] prekiavo_su Aisčiai
+- Aisčiai gyveno [[objektai/vietos/Baltija]]

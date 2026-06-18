@@ -36,6 +36,8 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukštadvaris" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
+- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
+- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
 - susijęs iš Trakai: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
 - susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
@@ -47,6 +49,7 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
 - susijęs iš Lietuvos Didžiųjų Kunigaikščių metraštis: „Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ citatoje apibūdinta kaip vienašališkai poleminė ir datuota 1948 m.
 - susijęs iš Popiežiai lietuvių tautos priešai: Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.
+- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40827|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,3 +75,7 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
   ryšio_subjekto_parinkimas: Aukštadvaris: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jieznas: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukštadvaris" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] uzeme Aukštadvaris
+- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] keliavo_i Aukštadvaris

@@ -38,20 +38,21 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   irodymo_stiprumas: 0.00
   saltinio_vieta: 90537-91126; hash=facd02716fa375a21dea19d7d77201448e02c180b9e504d566dc348b05d14a15; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotfridas Lindenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotfridas Lindenas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Lindenas su pajėgomis veržėsi iki Vilniaus tvirtovių ir mėgino užimti miestą.
 
 <a id="claim-t-87509"></a>
 - t-002
   global_id: t-87509
   teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.'
   sudarymo_pagrindimas: 'Patikslinta vieta ir rezultatas, pašalinant neaiškią formuluotę apie nesėkmingą veržimąsi.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baiga; mentioned_place: Prancūzija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baiga; mentioned_place: Prancūzija; mentioned_place: Prūsija; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]] puolė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -122,10 +123,14 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   irodymo_stiprumas: 0.00
   saltinio_vieta: 90537-91126; hash=facd02716fa375a21dea19d7d77201448e02c180b9e504d566dc348b05d14a15; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotfridas Lindenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotfridas Lindenas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Lindenas su pajėgomis veržėsi iki Vilniaus tvirtovių ir mėgino užimti miestą.
+
+## Ryšiai
+- Gotfridas Lindenas puole [[objektai/vietos/Vilnius]]
+- Gotfridas Lindenas surenge_zygi_i [[objektai/vietos/Vilnius]]

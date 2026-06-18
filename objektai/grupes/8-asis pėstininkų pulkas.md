@@ -20,19 +20,20 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 - t-001
   global_id: t-40830
   teiginys: 'Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.'
-  susije_objektai: 'mentioned_place: Ukmergė'
+  susije_objektai: 'llm_object: Ukmergė; mentioned_place: Ukmergė'
+  semantiniai_rysiai: '[[objektai/grupes/8-asis pėstininkų pulkas|8-asis pėstininkų pulkas]] keliavo į Ukmergė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c84496216857d4abf248c8253367c5640fe08a2d5dc4ac46686c049045d8f47b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukmergė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 8-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "8-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 8-asis pėstininkų pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo 8-ojo pulko dalių atvykimą į Ukmergę.
 
 ## Reikšmingi paminėjimai
 
@@ -54,10 +55,13 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c84496216857d4abf248c8253367c5640fe08a2d5dc4ac46686c049045d8f47b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukmergė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 8-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "8-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 8-asis pėstininkų pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo 8-ojo pulko dalių atvykimą į Ukmergę.
+
+## Ryšiai
+- 8-asis pėstininkų pulkas keliavo_i [[objektai/vietos/Ukmergė]]

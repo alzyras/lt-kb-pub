@@ -39,19 +39,19 @@ Nenurodyta
   teiginys: 'Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia Pakimos nusiaubimą, bet pradinė formuluotė yra fragmentiška ir prasideda nereikalinga atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis|Konradas iš Tirbergo Jaunesnysis]]; mentioned_place: Prūsija; mentioned_place: Sūduva'
+  susije_objektai: 'llm_object: Sūduva; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis|Konradas iš Tirbergo Jaunesnysis]]; mentioned_place: Prūsija; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pakimos valsčiaus nusiaubimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakimos valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Tirbergo Jaunesnysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas iš Tirbergo Jaunesnysis tiesiogiai įsiveržė į Sūduvos žemės Pakimos valsčių.
 
 <a id="claim-t-183952"></a>
 - t-002
@@ -61,19 +61,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia papildomą įvykio detalę, o pradinė formuluotė dubliuoja nutrūkusį teiginį.'
-  susije_objektai: 'mentioned_place: Nagutinas; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis|Konradas iš Tirbergo Jaunesnysis]]; mentioned_place: Prūsija; mentioned_place: Sūduva'
+  susije_objektai: 'llm_object: Nagutinas; mentioned_place: Nagutinas; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis|Konradas iš Tirbergo Jaunesnysis]]; mentioned_place: Prūsija; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nagutinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pakimos valsčiaus nusiaubimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Nagutinas: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakimos valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Nagutinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Nagutinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Tirbergo Jaunesnysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nagutinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Konrado kariuomenės judėjimą per Nagutino ežerą.
 
 ## Reikšmingi paminėjimai
 
@@ -101,21 +101,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pakimos valsčiaus nusiaubimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakimos valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Tirbergo Jaunesnysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas iš Tirbergo Jaunesnysis tiesiogiai įsiveržė į Sūduvos žemės Pakimos valsčių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nagutinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pakimos valsčiaus nusiaubimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Nagutinas: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakimos valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Nagutinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Nagutinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Tirbergo Jaunesnysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nagutinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Konrado kariuomenės judėjimą per Nagutino ežerą.

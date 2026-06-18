@@ -31,6 +31,7 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
 - susijęs iš [[objektai/grupes/Kafos gyventojai.md#claim-t-185450|Kafos gyventojai]]: Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.
 - susijęs iš [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai.md#claim-t-185924|Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]: Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.
 - susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185363|algininkai]]: Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai.
+- susijęs iš [[objektai/grupes/Kafos gyventojai.md#claim-t-185450|Kafos gyventojai]]: Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,3 +59,6 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Kafos gyventojai]] gyveno Teodosija (Kafa)

@@ -38,13 +38,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Plikoji Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Plikoji Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Plikoji Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tekstas nurodo, kad Barta buvo viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-58338"></a>
 - t-002
@@ -57,20 +57,21 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Barta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Bartą kaip kryžiuočių užgrobtą žemę.
 
 <a id="claim-t-58339"></a>
 - t-003
   global_id: t-58339
   teiginys: 'Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir su OCR triukšmu; citata pagrindžia aiškų faktą apie Bartos priskyrimą Prūsijos dalims.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Plikoji Barta; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Plikoji Barta; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  semantiniai_rysiai: 'Barta priklausė Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -89,7 +90,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58340
   teiginys: '1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Bartą su 1358 m. Lietuvos reikalavimais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Vokietija; mentioned_place: Žiemgala'
+  susije_objektai: 'llm_object: Barta; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Vokietija; mentioned_place: Žiemgala'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Barta'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Bartą su 1358 m. Lietuvos reikalavimais.'
@@ -98,20 +100,21 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204560-204793; hash=3fab81eb00e2119f50d3c152a5a5def23a585b34e156ac5b576abc0834073baa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Bartoje gyveno bartai.
 
 <a id="claim-t-58341"></a>
 - t-005
   global_id: t-58341
   teiginys: '1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai.'
   sudarymo_pagrindimas: 'Citata remia faktą apie Bartos pavadinimus ir gyventojus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]'
+  susije_objektai: 'llm_object: Barta; mentioned_group: [[objektai/grupes/Bartai|Bartai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Barta'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia faktą apie Bartos pavadinimus ir gyventojus.'
@@ -120,6 +123,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: 206776-207102; hash=b8cc9b89d087159f71cf4c26d4fbbd89b06e395abfc83e697b6180a3e402c9d1; match=exact
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88527|Bartai]]: 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.
+- susijęs iš Plikoji Barta: Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88528|Bartai]]: Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
 - susijęs iš [[objektai/asmenys/Henrikas iš Izenbergo.md#claim-t-60313|Henrikas iš Izenbergo]]: 1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.
@@ -188,6 +194,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/kovojanti bažnyčia.md#claim-t-58937|kovojanti bažnyčia]]: Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
+- susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
+- susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
+- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89412|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu.
+- susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
+- susijęs iš Vaistotpilis: Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.
+- susijęs iš Girdavai: Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.
+- susijęs iš Prieglius: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -247,13 +260,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Plikoji Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Plikoji Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Plikoji Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tekstas nurodo, kad Barta buvo viena iš Prūsijos žemės dalių.
     - t-005
 
 - c-004
@@ -287,21 +300,30 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Barta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Bartą kaip kryžiuočių užgrobtą žemę.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204560-204793; hash=3fab81eb00e2119f50d3c152a5a5def23a585b34e156ac5b576abc0834073baa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barta" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Bartoje gyveno bartai.
+
+## Ryšiai
+- [[objektai/grupes/Bartai]] gyveno Barta
+- [[objektai/vietos/Plikoji Barta]] priklause Barta
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Barta
+- Barta priklause [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Lunenburgas]] priklause Barta
+- [[objektai/vietos/Girdavai]] priklause Barta
+- [[objektai/vietos/Vaistotpilis]] priklause Barta

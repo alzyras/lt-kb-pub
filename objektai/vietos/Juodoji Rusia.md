@@ -115,3 +115,6 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   ryšio_subjekto_parinkimas: Juodoji Rusia: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Minskas: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juodoji Rusia" parinktas kaip owner_note_path. Targetas "Minskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Juodoji Rusia priklause [[objektai/vietos/Lietuva]]

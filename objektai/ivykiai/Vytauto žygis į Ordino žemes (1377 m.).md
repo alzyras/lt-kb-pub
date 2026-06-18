@@ -56,7 +56,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-002
   global_id: t-66999
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Tamova; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Užnemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Tamova; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 

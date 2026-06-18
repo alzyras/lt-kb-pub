@@ -38,7 +38,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176814
   teiginys: '1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.'
   sudarymo_pagrindimas: 'Sutvarkyta data ir pašalinta antraštės bei OCR triukšmo dalis.'
-  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: Kristmemelis; mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] apgulė Kristmemelis; [[objektai/asmenys/Vytenis|Vytenis]] puolė Kristmemelis'
   temporaliniai_duomenys: 'įvykio data: 1315 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkyta data ir pašalinta antraštės bei OCR triukšmo dalis.'
@@ -50,7 +51,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176816
   teiginys: 'Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Baiga'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Baiga'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] keliavo į Livonija'
   pagrindžia:
     - c-007
 
@@ -59,7 +61,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176817
   teiginys: 'Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir paversti fragmentą sakiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Traidenis|Traidenis]]; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] buvo sūnus [[objektai/asmenys/Traidenis|Traidenis]]; [[objektai/asmenys/Vytenis|Vytenis]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1283 m.; įvykio data: 1315 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR triukšmą ir paversti fragmentą sakiniu.'
@@ -80,7 +83,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - t-005
   global_id: t-176822
   teiginys: 'Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.'
-  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Kristmemelis; mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] apgulė Kristmemelis; [[objektai/asmenys/Vytenis|Vytenis]] puolė Kristmemelis'
   pagrindžia:
     - c-004
 
@@ -89,45 +93,47 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176825
   teiginys: 'Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; llm_object: Lenčica'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] keliavo į Lenkija; [[objektai/asmenys/Vytenis|Vytenis]] puolė Lenčica'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b1ad505bf0934085816bbca2d6279e4b2964a1dc7e2c999d70fdbb98eaafa42c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytenis puldinėjo Lenkiją.
 
 <a id="claim-t-176828"></a>
 - t-011
   global_id: t-176828
   teiginys: 'Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į sakinį apie Vytenį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] buvo valdovas Lietuva'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 28863-29419; hash=beec5b5721457f2f375f75b017f7103de4a92e2331cdcaf326a09e53812e91dd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176830"></a>
 - t-013
   global_id: t-176830
   teiginys: 'Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų prašymą ir paskyrimą.'
-  susije_objektai: 'appointee: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] paskyrė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-013
@@ -143,21 +149,20 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 652268-652837; hash=1ccfb7e66db0dce413ebc7b805fa0954401e62fbe875d3c8b063e14b51b158d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytenis apsupo Kristmemelio pilį.
 
 <a id="claim-t-176835"></a>
 - t-016
   global_id: t-176835
   teiginys: 'XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Žiemgala'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'mūšio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytenis kariavo prieš Kryžiuočių ordinas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -188,13 +193,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c46faa1cf5d894dfb02d15494d58b7c8317884fba5c670f386a9cc623487e364; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytenis įtrauktas tarp Lietuvos valdovų, vadintų karaliais.
 
 <a id="claim-t-176838"></a>
 - t-018
@@ -210,13 +215,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 572056-573595; hash=0ea52fa044b9af06746c963483c05ec37b7a0b7c494d212fe5b55bab642ea691; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nors Vytenį pasiuntė Pukuveras, citata tiesiogiai nurodo Vytenio judėjimo kryptį į Lenkiją.
 
 <a id="claim-t-176839"></a>
 - t-019
@@ -229,20 +234,21 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=739e61e882fab3b0b65924216844e236deb47a0a6be661a369306c6c49069ec6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytenis įsibrovė į Lenkijos žemę.
 
 <a id="claim-t-176840"></a>
 - t-020
   global_id: t-176840
   teiginys: 'Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata apie Vytenio politiką.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] puolė Lenkija'
   temporaliniai_duomenys: 'įvykio data: iki 1307 m.; įvykio data: 1307 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata apie Vytenio politiką.'
@@ -251,13 +257,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=96a16322b44493b6f9da8fca5fb0bf8535bd50cbf0e9a3e169393f58135a0ebe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytenio įsibrovimą į Livonijos žemę.
 
 <a id="claim-t-176841"></a>
 - t-021
@@ -273,21 +279,21 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b19e005aa903398ee6e70103a4a7cfa18b154c2824a4998b4ed5b0253bf16105; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytenis apsupo Kristmemelio pilį.
 
 <a id="claim-t-176843"></a>
 - t-022
   global_id: t-176843
   teiginys: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
   sudarymo_pagrindimas: 'Teiginį geriau suformuluoti apie Vytenio ryšį su Gediminu.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baiga; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] buvo brolis [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baiga; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo brolis [[objektai/asmenys/Vytenis|Vytenis]]'
   temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį geriau suformuluoti apie Vytenio ryšį su Gediminu.'
@@ -299,7 +305,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176846
   teiginys: 'Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys aiškiau būtų apie Vytenį ir remtųsi citatos duomenimis.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] keliavo į Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinys aiškiau būtų apie Vytenį ir remtųsi citatos duomenimis.'
@@ -308,13 +315,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenį kaip Traidenio sūnų.
 
 <a id="claim-t-184884"></a>
 - t-026
@@ -324,7 +331,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nutrūkęs teiginys perrašytas į užbaigtą faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras'
+  susije_objektai: 'llm_object: Lukovas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: Sandomiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] puolė Lukovas; [[objektai/asmenys/Vytenis|Vytenis]] puolė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Vytenis|Vytenis]] puolė Sandomiras'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
@@ -368,19 +376,20 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardintas tikslas pagal citatos tęsinį, pašalintas neaiškus „ten“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Vytenis|Vytenis]] puolė Prūsija'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: 193781-194689; hash=389761b2bf32064570db8523d5c5943f1787dc2b586facf0caa435cec7f2ef6c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Pranciškonų ordinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=42
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: nearest_after_predicate, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Pranciškonų ordinas: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytenis paskyrė vietą pranciškonų ordino broliams.
 
 <a id="claim-t-184888"></a>
 - t-029
@@ -399,13 +408,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b19e005aa903398ee6e70103a4a7cfa18b154c2824a4998b4ed5b0253bf16105; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytenis apsupo Kristmemelio pilį.
 
 <a id="claim-t-184889"></a>
 - t-030
@@ -415,7 +424,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata remia aiškų Vytenio veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Semba; llm_object: [[objektai/asmenys/Pilypas|Pilypas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/asmenys/Pilypas|Pilypas]]'
   temporaliniai_duomenys: 'įvykio data: 1305 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs; citata remia aiškų Vytenio veiksmą.'
@@ -430,7 +440,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vytenio žygį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Mazovija; llm_object: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] puolė Lenkija; [[objektai/asmenys/Vytenis|Vytenis]] keliavo į Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1306 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vytenio žygį.'
@@ -439,13 +450,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenio tėvą Traidenį.
 
 <a id="claim-t-184891"></a>
 - t-032
@@ -461,13 +472,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenį kaip Traidenio sūnų.
 
 <a id="claim-t-184892"></a>
 - t-033
@@ -477,19 +488,20 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais veiksmais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai pateikia Vytenį kaip Traidenio sūnų.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
 - susijęs iš [[objektai/autoriai/Barzdaitis J.md#claim-t-60675|Barzdaitis J]]: Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102852|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.
@@ -612,13 +624,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=96a16322b44493b6f9da8fca5fb0bf8535bd50cbf0e9a3e169393f58135a0ebe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytenio įsibrovimą į Livonijos žemę.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 28863-29419; hash=beec5b5721457f2f375f75b017f7103de4a92e2331cdcaf326a09e53812e91dd; match=exact
@@ -649,13 +661,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 572056-573595; hash=0ea52fa044b9af06746c963483c05ec37b7a0b7c494d212fe5b55bab642ea691; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nors Vytenį pasiuntė Pukuveras, citata tiesiogiai nurodo Vytenio judėjimo kryptį į Lenkiją.
     - t-005
 
 - c-005
@@ -728,13 +740,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=edc04bb03d271878d707709c2e4660f09fdd437725d1284fc1d53cd33dc06c23; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Gediminas: 0.95
+  ryšio_patikimumas: buvo_brolis -> Vytenis: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=8
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai įvardija Gediminą kaip Vytenio brolį.
     - t-012
     - t-001
 
@@ -818,13 +830,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenį kaip Traidenio sūnų.
     - t-019
 
 - c-010
@@ -856,13 +868,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=739e61e882fab3b0b65924216844e236deb47a0a6be661a369306c6c49069ec6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytenis įsibrovė į Lenkijos žemę.
     - t-015
 
 - c-011
@@ -899,13 +911,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 652268-652837; hash=1ccfb7e66db0dce413ebc7b805fa0954401e62fbe875d3c8b063e14b51b158d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytenis apsupo Kristmemelio pilį.
     - t-021
 
 - c-012
@@ -925,13 +937,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b19e005aa903398ee6e70103a4a7cfa18b154c2824a4998b4ed5b0253bf16105; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytenis apsupo Kristmemelio pilį.
     - t-022
 
 - c-013
@@ -999,13 +1011,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c46faa1cf5d894dfb02d15494d58b7c8317884fba5c670f386a9cc623487e364; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytenis įtrauktas tarp Lietuvos valdovų, vadintų karaliais.
     - t-011
 
 - c-016
@@ -1032,13 +1044,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 28863-29419; hash=beec5b5721457f2f375f75b017f7103de4a92e2331cdcaf326a09e53812e91dd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-017
@@ -1071,13 +1083,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b1ad505bf0934085816bbca2d6279e4b2964a1dc7e2c999d70fdbb98eaafa42c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytenis puldinėjo Lenkiją.
     - t-026
 
 - c-018
@@ -1177,13 +1189,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: 193781-194689; hash=389761b2bf32064570db8523d5c5943f1787dc2b586facf0caa435cec7f2ef6c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Pranciškonų ordinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=42
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: nearest_after_predicate, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Pranciškonų ordinas: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytenis paskyrė vietą pranciškonų ordino broliams.
     - t-029
 
 - c-021
@@ -1218,13 +1230,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b19e005aa903398ee6e70103a4a7cfa18b154c2824a4998b4ed5b0253bf16105; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristmemelis: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristmemelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytenis apsupo Kristmemelio pilį.
     - t-030
 
 - c-022
@@ -1276,13 +1288,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenio tėvą Traidenį.
     - t-032
 
 - c-024
@@ -1304,27 +1316,57 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Vytenį kaip Traidenio sūnų.
     - t-033
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=55b5d64c231274b398a01c52d07dca0a2c22ceb37516fc35fa9595435a869f8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Traidenis (valdovas, XIII a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai pateikia Vytenį kaip Traidenio sūnų.
 
 ## Ryšiai
-- Vytenis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Gediminas]] buvo_brolis Vytenis
+- Vytenis apgule [[objektai/vietos/Kristmemelis]]
+- Vytenis buvo_sunus [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- Vytenis surenge_zygi_i [[objektai/vietos/Livonija]]
+- Vytenis puole [[objektai/vietos/Kristmemelis]]
+- Vytenis puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Vytenis puole [[objektai/vietos/Lenkija]]
+- Vytenis puole [[objektai/grupes/Lenkai]]
 - Vytenis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vytenis puole [[objektai/vietos/Varmė]]
+- Vytenis surenge_zygi_i [[objektai/vietos/Sandomiras]]
+- Vytenis keliavo_i [[objektai/vietos/Livonija]]
+- Vytenis puole [[objektai/vietos/Lukovas]]
+- Vytenis dalyvavo_musyje [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
+- Vytenis puole [[objektai/vietos/Prūsija]]
+- Vytenis puole [[objektai/vietos/Semba]]
+- Vytenis valde_miesta [[objektai/vietos/Polockas]]
+- Vytenis puole [[objektai/vietos/Natanga]]
+- Vytenis keliavo_i [[objektai/vietos/Lenkija]]
+- Vytenis puole [[objektai/vietos/Kujavija]]
+- Vytenis uzeme [[objektai/vietos/Lenčica]]
+- Vytenis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Vytenis puole [[objektai/vietos/Lenčica]]
+- Vytenis surenge_zygi_i [[objektai/vietos/Lenčica]]
+- Vytenis buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
+- Vytenis keliavo_i [[objektai/vietos/Mazovija]]
+- Vytenis paskyre [[objektai/asmenys/Surminas]]
+- Vytenis puole [[objektai/vietos/Sandomiras]]
+- Vytenis surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Vytenis uzeme [[objektai/vietos/Drohičinas]]
+- Vytenis kariavo_pries [[objektai/grupes/Lenkai]]
+- Vytenis kariavo_pries [[objektai/asmenys/Pilypas]]
 - Vytenis paskyre [[objektai/grupes/Pranciškonų ordinas]]
-- Vytenis buvo_brolis [[objektai/asmenys/Gediminas]]
+- Vytenis uzeme [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]

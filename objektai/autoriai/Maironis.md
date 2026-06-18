@@ -62,7 +62,7 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
   global_id: t-125059
   teiginys: 'Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia faktą apie Maironį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; llm_object: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63724|Jonas Mačiulis-Maironis]]: Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.

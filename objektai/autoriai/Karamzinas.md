@@ -20,7 +20,7 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 - t-001
   global_id: t-55009
   teiginys: 'Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
   pagrindžia:
     - c-001
 
@@ -35,13 +35,13 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 280359-280731; hash=c4b5758e99e6a65b8fdf8716391cf953d710d2a7417eb715af509ebd9d2705e3; match=whitespace_regex
   sprendimo_priezastis: gap::authors
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karamzinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karamzinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Narimantą pateikia tarp Algirdo sūnų.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
 ## Reikšmingi paminėjimai
 
@@ -93,10 +93,10 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 280359-280731; hash=c4b5758e99e6a65b8fdf8716391cf953d710d2a7417eb715af509ebd9d2705e3; match=whitespace_regex
   sprendimo_priezastis: gap::authors
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karamzinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karamzinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Narimantą pateikia tarp Algirdo sūnų.

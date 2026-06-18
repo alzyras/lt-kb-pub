@@ -92,3 +92,6 @@ tags:
   ryšio_subjekto_parinkimas: Ghillebert de Lannoy: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=85
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ghillebert de Lannoy" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ghillebert de Lannoy keliavo_i [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]

@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-77955
   teiginys: 'Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie patį note objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Konstanca; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Konstanca; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Konstanca; mentioned_place: Vengrija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia teiginį apie patį note objektą.'
@@ -60,13 +60,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91200-92638; hash=1013169b9f6c998aa17ac1b1ce34c8abffadbca449128abc410dbda016433037; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstanca: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas siuntė delegaciją į Konstancą.
 
 ## Reikšmingi paminėjimai
 
@@ -102,10 +102,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91200-92638; hash=1013169b9f6c998aa17ac1b1ce34c8abffadbca449128abc410dbda016433037; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstanca: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas siuntė delegaciją į Konstancą.

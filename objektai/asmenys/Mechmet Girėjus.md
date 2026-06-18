@@ -22,19 +22,20 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas konkretus citatos palaikomas veiksmas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Neris; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Polockas; llm_object: Vitebskas; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Neris; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Lietuva; [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Polockas; [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Vitebskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034313-1034927; hash=3b15be558b65f0087f7eaa6a3507436ac3077aefe2a7ae6e2e6af93a63d81818; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mechmet Girėjus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mechmet Girėjus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mechmet Girėjus tiesiogiai įvardytas kaip nusiaubęs Lietuvą.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
 - susijęs iš [[objektai/asmenys/Jonas Trizna.md#claim-t-186115|Jonas Trizna]]: Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
@@ -64,10 +65,16 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034313-1034927; hash=3b15be558b65f0087f7eaa6a3507436ac3077aefe2a7ae6e2e6af93a63d81818; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mechmet Girėjus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mechmet Girėjus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mechmet Girėjus tiesiogiai įvardytas kaip nusiaubęs Lietuvą.
+
+## Ryšiai
+- Mechmet Girėjus puole [[objektai/vietos/Lietuva]]
+- Mechmet Girėjus puole [[objektai/vietos/Polockas]]
+- Mechmet Girėjus puole [[objektai/vietos/Vitebskas]]
+- Mechmet Girėjus puole [[objektai/vietos/Minskas]]

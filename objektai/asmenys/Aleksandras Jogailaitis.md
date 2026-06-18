@@ -105,7 +105,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - t-003
   global_id: t-54937
   teiginys: 'Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] buvo priešas [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -113,13 +114,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini audringus vaidus tarp Aleksandro ir Ivano Vasiljevičiaus.
 
 <a id="claim-t-54938"></a>
 - t-004
@@ -178,7 +179,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-54941
   teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
   sudarymo_pagrindimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Vilnius'
   temporaliniai_duomenys: 'mirties data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
@@ -200,7 +202,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-54942
   teiginys: 'Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai užbaigtas ir paremtas citata apie Aleksandro veiksmus Vilniuje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] gyveno Vilnius; [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] vedė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-005
 
@@ -215,13 +218,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f776f8fe8b6e94798fb017ab359af6c8151176aa66469066128da0587b6ab08d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje.
 
 <a id="claim-t-82171"></a>
 - t-010
@@ -234,13 +237,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478111-478508; hash=da4a581055a4e7f576bc9d193ec57eb525527425de4ab63d9427d8049c7e4f4b; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Aleksandras pasirinko Vilnių nuolatiniam gyvenimui.
 
 <a id="claim-t-82172"></a>
 - t-011
@@ -266,7 +269,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-82173
   teiginys: 'Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] buvo priešas [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų.'
@@ -275,20 +279,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vasiljevičius (Maskvos valdovas): 0.85
+  ryšio_patikimumas: buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vasiljevičius (Maskvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo konfliktinius vaidus tarp Aleksandro ir Ivano Vasiljevičiaus.
 
 <a id="claim-t-82174"></a>
 - t-013
   global_id: t-82174
   teiginys: 'Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.'
   sudarymo_pagrindimas: 'Dokumento titulavimas perrašytas į faktą apie asmens veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] buvo valdovas Lenkija'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
@@ -313,20 +318,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473474-475349; hash=8195ec767f99cd6df96e52e8a3e1fa66e06ea2865e794d30664d954f0725530d; match=ocr_normalized_gapped
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aleksandras buvo nugabentas į Vilnių.
 
 <a id="claim-t-82176"></a>
 - t-015
   global_id: t-82176
   teiginys: 'Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.'
   sudarymo_pagrindimas: 'Citata palaiko konkrečią dovanojimo informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Elena|Elena]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] buvo žmona [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -345,19 +351,20 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-82177
   teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas tik palaikomas faktas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Vilnius'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f776f8fe8b6e94798fb017ab359af6c8151176aa66469066128da0587b6ab08d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje.
 
 <a id="claim-t-82178"></a>
 - t-017
@@ -370,20 +377,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478204-478688; hash=3af5de45bff085919a80828bee8975401d665903dd3659876c36a65c5f0b918d; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras pasirinko Vilnių gyvenimui.
 
 <a id="claim-t-82179"></a>
 - t-018
   global_id: t-82179
   teiginys: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo dokumento formulės fragmentas su OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Mstislavlis'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Mstislavlis; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] buvo valdovas Kijevas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -402,7 +410,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-82180
   teiginys: 'Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.'
   sudarymo_pagrindimas: 'Teiginys perrašytas be OCR triukšmo ir vertinamojo pertekliaus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] gyveno Vilnius; [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] vedė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -421,7 +430,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-82181
   teiginys: 'Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.'
   sudarymo_pagrindimas: 'Įvesties teiginys apie kitą asmenį, bet citata palaiko faktą apie Aleksandrą Jogailaitį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Krymas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Krymas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Vilnius'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -449,13 +459,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696321-697033; hash=733df66f3952a30b2f4d93e5f146c7aad5ffe30835ce26ed25dcadf949e5ee10; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumas: buvo_valdovas -> Kijevas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rašte Aleksandras tituluojamas Kijevo kunigaikščiu, todėl ryšys su Kijevu yra tiesiogiai pagrįstas.
 
 <a id="claim-t-82183"></a>
 - t-022
@@ -471,13 +481,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 705047-706849; hash=4115670aac640bfbe64b95dcfd646526b81d423850ba9d7ca24eccd59f42fc5f; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Dniepras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Aleksandras Jogailaitis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai vadina Eleną Aleksandro žmona.
 
 <a id="claim-t-184657"></a>
 - t-023
@@ -493,13 +503,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 710527-711544; hash=17032c70c9260dadbba365d7a85dc4fc4f61a2366e2bc1f224d108a2da4583ba; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Kūnas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Aleksandras tiesiogiai tituluojamas Lenkijos karaliumi.
 
 <a id="claim-t-184658"></a>
 - t-024
@@ -566,7 +576,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi daug OCR triukšmo ir nutrūkusių vardų.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Polockas; llm_object: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] buvo priešas [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -594,6 +605,8 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 991494-991966; hash=58f04ae1376fc65d41429396e422058e63e7faf4ed0923c2c6822ef7cb26dee2; match=exact
   sprendimo_priezastis: auto
+- susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
+- susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
@@ -849,24 +862,24 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478111-478508; hash=da4a581055a4e7f576bc9d193ec57eb525527425de4ab63d9427d8049c7e4f4b; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Aleksandras pasirinko Vilnių nuolatiniam gyvenimui.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vasiljevičius (Maskvos valdovas): 0.85
+  ryšio_patikimumas: buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vasiljevičius (Maskvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo konfliktinius vaidus tarp Aleksandro ir Ivano Vasiljevičiaus.
     - t-003
 
 - c-008
@@ -893,13 +906,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vasiljevičius (Maskvos valdovas): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini audringus vaidus tarp Aleksandro ir Ivano Vasiljevičiaus.
     - t-022
 
 - c-009
@@ -948,13 +961,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 705047-706849; hash=4115670aac640bfbe64b95dcfd646526b81d423850ba9d7ca24eccd59f42fc5f; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Dniepras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Aleksandras Jogailaitis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai vadina Eleną Aleksandro žmona.
     - t-015
 
 - c-010
@@ -1055,13 +1068,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f776f8fe8b6e94798fb017ab359af6c8151176aa66469066128da0587b6ab08d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje.
     - t-020
 
 - c-012
@@ -1123,13 +1136,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473474-475349; hash=8195ec767f99cd6df96e52e8a3e1fa66e06ea2865e794d30664d954f0725530d; match=ocr_normalized_gapped
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aleksandras buvo nugabentas į Vilnių.
     - t-018
 
 - c-014
@@ -1196,13 +1209,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696321-697033; hash=733df66f3952a30b2f4d93e5f146c7aad5ffe30835ce26ed25dcadf949e5ee10; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumas: buvo_valdovas -> Kijevas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rašte Aleksandras tituluojamas Kijevo kunigaikščiu, todėl ryšys su Kijevu yra tiesiogiai pagrįstas.
     - t-019
 
 - c-016
@@ -1241,13 +1254,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f776f8fe8b6e94798fb017ab359af6c8151176aa66469066128da0587b6ab08d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Aleksandro mirties vietą Vilniuje.
     - t-007
 
 - c-017
@@ -1349,13 +1362,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478204-478688; hash=3af5de45bff085919a80828bee8975401d665903dd3659876c36a65c5f0b918d; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras pasirinko Vilnių gyvenimui.
     - t-013
 
 - c-020
@@ -1411,13 +1424,13 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   irodymo_stiprumas: 0.00
   saltinio_vieta: 710527-711544; hash=17032c70c9260dadbba365d7a85dc4fc4f61a2366e2bc1f224d108a2da4583ba; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Kūnas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Jogailaitis" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Aleksandras tiesiogiai tituluojamas Lenkijos karaliumi.
     - t-024
 
 - c-022
@@ -1554,4 +1567,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   sprendimo_priezastis: auto
 
 ## Ryšiai
+- Aleksandras Jogailaitis mire [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lenkija]]
 - Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Aleksandras Jogailaitis gyveno [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis siunte_i [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_zmona Aleksandras Jogailaitis
+- [[objektai/daiktai/Malūnas]] priklause Aleksandras Jogailaitis
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Rusų žemė]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Polockas]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Vitebskas]]
+- Aleksandras Jogailaitis vede [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Parčevas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Kijevas]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Braclavas]]
+- Aleksandras Jogailaitis buvo_priesas [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Soroka]]
+- Aleksandras Jogailaitis buvo_priesas [[objektai/asmenys/Zaberezinskis]]

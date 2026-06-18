@@ -55,7 +55,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   ryšio_subjekto_parinkimas: Suomija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suomija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jonas (Suomijos kunigaikštis).md#claim-t-87712|Jonas (Suomijos kunigaikštis)]]: Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87399|Kotryna Jogailaitė]]: Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114007|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183847|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.
@@ -103,6 +102,9 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 - susijęs iš [[objektai/zodynas/Laisvoji rinka.md#claim-t-75565|Laisvoji rinka]]: Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų.
 - susijęs iš [[objektai/zodynas/Laisvoji rinka.md#claim-t-75566|Laisvoji rinka]]: Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS.
 - susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
+- susijęs iš [[objektai/grupes/Lietuvių Suomių Draugija.md#claim-t-72517|Lietuvių Suomių Draugija]]: Suomijoje veikė Lietuvių Suomių Draugija.
+- susijęs iš [[objektai/grupes/Lietuvių Suomių Draugija.md#claim-t-72515|Lietuvių Suomių Draugija]]: Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti.
+- susijęs iš [[objektai/grupes/Lietuvių Suomių Draugija.md#claim-t-72516|Lietuvių Suomių Draugija]]: Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -169,4 +171,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suomija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]] buvo_valdovas Suomija
+- Suomija prekiavo_su [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Lietuvių Suomių Draugija]] gyveno Suomija
+- [[objektai/grupes/Lietuviai]] gyveno Suomija

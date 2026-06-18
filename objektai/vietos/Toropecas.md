@@ -41,13 +41,13 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee413979e76c5037192cfda72e83db071cbea52b04b115faa6cc272157d94efe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Biala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Toropecas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Biala: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Toropecas" parinktas kaip owner_note_path. Targetas "Biala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Veližas: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristupas Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo planuotą Radvilos žygį Veližo link.
 
 <a id="claim-t-42190"></a>
 - t-002
@@ -72,7 +72,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - t-003
   global_id: t-42191
   teiginys: 'K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.'
-  susije_objektai: 'mentioned_place: Biala; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Veližas'
+  susije_objektai: 'mentioned_place: Biala; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Veližas; llm_object: Veližas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -138,13 +138,13 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee413979e76c5037192cfda72e83db071cbea52b04b115faa6cc272157d94efe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Biala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Toropecas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Biala: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Toropecas" parinktas kaip owner_note_path. Targetas "Biala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Veližas: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristupas Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo planuotą Radvilos žygį Veližo link.
     - t-003
 
 - c-003

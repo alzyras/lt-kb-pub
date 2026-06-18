@@ -55,7 +55,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   global_id: t-05440
   teiginys: '1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą kryžiaus karo skelbimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: apie 1253 m.; įvykio data: 1254 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą kryžiaus karo skelbimą.'
@@ -64,13 +64,13 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93a1109649f06250d5334ba8e2d8c213e02c4ec14c691a580b7dbaf9c3e9f567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kryžiaus karas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kryžiaus karas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Totoriai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiaus karas buvo skelbiamas ordinui ginti prieš totorius.
 
 <a id="claim-t-05441"></a>
 - t-002
@@ -166,13 +166,13 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93a1109649f06250d5334ba8e2d8c213e02c4ec14c691a580b7dbaf9c3e9f567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kryžiaus karas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kryžiaus karas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Totoriai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiaus karas buvo skelbiamas ordinui ginti prieš totorius.
     - t-002
 
 - c-003

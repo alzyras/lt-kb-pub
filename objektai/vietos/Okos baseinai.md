@@ -21,19 +21,20 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
   global_id: t-21664
   teiginys: 'I tūkstantmetyje po Kr. baltų genčių apgyvendintas arealas driekėsi iki Dniepro ir Okos baseinų rytuose.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Okos baseinai; llm_object: Dniepras; llm_object: Vysla; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Baltai|Baltai]] gyveno Okos baseinai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b68d61fea0bc747a938a77f16506bdd9ef53b7f50b8f2280fd93fdc0fa8bcfc9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Okos baseinai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Okos baseinai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Okos baseinai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Okos baseinai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo baltų genčių apgyvendintą arealą iki Okos baseinų.
 
 ## Reikšmingi paminėjimai
 
@@ -52,10 +53,13 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b68d61fea0bc747a938a77f16506bdd9ef53b7f50b8f2280fd93fdc0fa8bcfc9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Okos baseinai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Okos baseinai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Okos baseinai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Okos baseinai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo baltų genčių apgyvendintą arealą iki Okos baseinų.
+
+## Ryšiai
+- [[objektai/grupes/Baltai]] gyveno Okos baseinai

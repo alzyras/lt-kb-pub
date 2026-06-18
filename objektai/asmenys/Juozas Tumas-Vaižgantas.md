@@ -31,7 +31,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   global_id: t-63766
   teiginys: 'Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentas; citata palaiko Vaižganto įvardijimą literatūros klasiku.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Tumas-Vaižgantas|Juozas Tumas-Vaižgantas]] gyveno Kaunas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -59,13 +60,13 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: gyveno -> Kaunas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Tumas-Vaižgantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas-Vaižgantas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Tumas-Vaižgantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Vaižgantą tarp klasikų, kurie dar vaikščiojo Kauno gatvėmis, todėl atsargiai palaiko buvimo/gyvenimo Kaune ryšį.
 - susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
 - susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
 ## Reikšmingi paminėjimai
@@ -112,13 +113,13 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: gyveno -> Kaunas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Tumas-Vaižgantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas-Vaižgantas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Tumas-Vaižgantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Vaižgantą tarp klasikų, kurie dar vaikščiojo Kauno gatvėmis, todėl atsargiai palaiko buvimo/gyvenimo Kaune ryšį.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7b6cbac005ce8d10beb8b51ee9761dd31c03c4983e5707b82916db5e497c4daf; match=fallback; occurrences=0
@@ -130,3 +131,6 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   ryšio_subjekto_parinkimas: Juozas Tumas-Vaižgantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Juozas Tumas (Vaižgantas): mention_match, author, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas-Vaižgantas" parinktas kaip owner_note_path. Targetas "Juozas Tumas (Vaižgantas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Juozas Tumas-Vaižgantas gyveno [[objektai/vietos/Kaunas]]

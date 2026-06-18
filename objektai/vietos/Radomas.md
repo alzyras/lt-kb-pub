@@ -106,6 +106,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   ryšio_subjekto_parinkimas: Radomas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radomas" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Radomo konfederacija (1767 m.).md#claim-t-01784|Radomo konfederacija (1767 m.)]]: Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
 - susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
 - susijęs iš [[objektai/ivykiai/Radomo konfederacija (1767 m.).md#claim-t-01784|Radomo konfederacija (1767 m.)]]: Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
@@ -131,6 +132,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 - susijęs iš Trakai: Karalius iš Zaberezinskio atėmė Trakų vaivadiją.
 - susijęs iš Vidugiriai: Vidugirių kaime rasta ką tik iš Eglainės atvykusių 6-ojo pėstininkų pulko batalionų.
 - susijęs iš [[objektai/zodynas/perdėtinis.md#claim-t-36823|perdėtinis]]: Vytauto santykiai su Lenkija buvo apibrėžti kaip valdomojo su aukštesniu perdėtiniu.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -261,3 +263,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   ryšio_subjekto_parinkimas: Radomas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radomas" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Rusai]] apgule Radomas
+- [[objektai/asmenys/Šich Achmetas]] keliavo_i Radomas

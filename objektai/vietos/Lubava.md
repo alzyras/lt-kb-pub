@@ -37,20 +37,21 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubavas: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lubavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Lubavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lubavo sritis nurodyta kaip viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-58348"></a>
 - t-002
   global_id: t-58348
   teiginys: '1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę ir apiplėšė daug kaimų.'
   sudarymo_pagrindimas: 'Teiginys pilnas, konkretus ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Lubava'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Lubava'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, konkretus ir paremtas citatos duomenimis.'
@@ -59,39 +60,41 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: gyveno -> Kulmas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo srityje gyventojai buvo mišrūs, įskaitant lenkus.
 
 <a id="claim-t-58349"></a>
 - t-003
   global_id: t-58349
   teiginys: 'Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas; citata palaiko aiškų faktą apie Lubavą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Prūsija'
+  semantiniai_rysiai: 'Lubava priklausė Prūsija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2570a56cec275f2f23a6a111a2d0dc576b0e56cdc4ddd6ed5e0b690ad0332132; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sūduviai įsiveržė į Lubavos žemę.
 
 <a id="claim-t-58350"></a>
 - t-004
   global_id: t-58350
   teiginys: '1302 m. plėšikautojai iš Lietuvos užpuolė penkis Lubavos žemės kaimus ir nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą 1302 m. įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; llm_object: Lubava'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Lubava'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą 1302 m. įvykį.'
@@ -113,38 +116,51 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58351
   teiginys: 'Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lubavo sritį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Kulmas; llm_object: Lubava'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Lubava'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3997fa70b9ff2c6aab69e4ed2eaa1c88f6caf478cb0ff7f2a94e16fe5acdddf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
+  ryšio_patikimumas: puole -> Lubava: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užpuolikai siejami su lietuviais, o veiksmas nukreiptas į Lubavos žemės kaimus.
 
 <a id="claim-t-58352"></a>
 - t-006
   global_id: t-58352
   teiginys: 'Sūduviai įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.'
   sudarymo_pagrindimas: 'Pradinis teiginys apima antraštę ir nutrūkusį fragmentą; citata palaiko aiškų įvykio sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Štraisbergas'
+  susije_objektai: 'llm_object: Lubava; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Štraisbergas'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Lubava'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f178f98be340a8de65b6ec3bc5173bfdd2004d2d9fdaefb1fc33d280efbaa40c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
+  ryšio_patikimumas: puole -> Lubava: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini iš Lietuvos atėjusius užpuolikus, įsibrovusius į Lubavos žemę.
+- susijęs iš [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.).md#claim-t-62383|Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]: 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
+- susijęs iš [[objektai/ivykiai/Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.).md#claim-t-62386|Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)]]: 1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179243|Lietuviai]]: 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179296|Lietuviai]]: 1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.
+- susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89796|Helmerichas]]: Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175137|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183902|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183899|Sūduviai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89247|Sūduviai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179296|Lietuviai]]: 1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
@@ -199,6 +215,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89544|dykra]]: Priėję dykras, Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai pasiskirstė į du būrius.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89554|dykra]]: Dykrose Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai toliau traukė dviem būriais.
 - susijęs iš [[objektai/zodynas/kovojanti bažnyčia.md#claim-t-58937|kovojanti bažnyčia]]: Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89795|Helmerichas]]: Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.
+- susijęs iš Kristburgas: Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.
+- susijęs iš Kristburgas: Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.
+- susijęs iš [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas.md#claim-t-59559|Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]: Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
+- susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -238,13 +259,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: gyveno -> Kulmas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo srityje gyventojai buvo mišrūs, įskaitant lenkus.
     - t-003
 
 - c-003
@@ -267,13 +288,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2570a56cec275f2f23a6a111a2d0dc576b0e56cdc4ddd6ed5e0b690ad0332132; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sūduviai įsiveržė į Lubavos žemę.
     - t-005
 
 - c-004
@@ -292,13 +313,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3997fa70b9ff2c6aab69e4ed2eaa1c88f6caf478cb0ff7f2a94e16fe5acdddf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
+  ryšio_patikimumas: puole -> Lubava: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užpuolikai siejami su lietuviais, o veiksmas nukreiptas į Lubavos žemės kaimus.
     - t-004
 
 - c-005
@@ -341,13 +362,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f178f98be340a8de65b6ec3bc5173bfdd2004d2d9fdaefb1fc33d280efbaa40c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
+  ryšio_patikimumas: puole -> Lubava: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini iš Lietuvos atėjusius užpuolikus, įsibrovusius į Lubavos žemę.
     - t-001
 
 - c-007
@@ -371,21 +392,34 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubavas: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lubavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Lubavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lubavo sritis nurodyta kaip viena iš Prūsijos žemės dalių.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lubavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubava" parinktas kaip owner_note_path. Targetas "Lubavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lubavo sritis įvardyta kaip Prūsijos žemės dalis.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Lubava
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Lubava
+- [[objektai/grupes/Sūduviai]] puole Lubava
+- [[objektai/asmenys/Helmerichas]] mire Lubava
+- Lubava priklause [[objektai/grupes/Teutonai]]
+- Lubava priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Helmerichas]] surenge_zygi_i Lubava
+- [[objektai/asmenys/Kristijonas]] valde Lubava
+- Lubava priklause [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Lenkai]] gyveno Lubava
+- [[objektai/daiktai/Pilys]] priklause Lubava

@@ -41,7 +41,8 @@ amziai:
 - t-001
   global_id: t-119084
   teiginys: '1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polockas; mentioned_place: Slanimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polockas; mentioned_place: Slanimas; llm_object: Naugardukas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] pastatė Naugardukas'
   temporaliniai_duomenys: 'įkūrimo data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -49,32 +50,33 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 335042-335247; hash=0fd2854d6ffc246e88c7827f7c38c31b92c69ace5e71cdf8f818593b760775f1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> na Litvu: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: na Litvu: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "na Litvu" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis.
 
 <a id="claim-t-119085"></a>
 - t-002
   global_id: t-119085
   teiginys: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia totorių būrio pasiuntimą į Naugarduką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Kłeckas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardukas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Kłeckas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] siuntė į Naugardukas'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cc1e48bd0aa8e9c6b26dd29d9aa5574e4457fe63d6ae2b0c81af03ca7e6c5e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis.
 
 <a id="claim-t-119087"></a>
 - t-003
@@ -126,19 +128,20 @@ amziai:
 - t-006
   global_id: t-119091
   teiginys: 'Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardukas; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] pastatė Naugardukas'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vaišelgą Mindaugo sūnumi.
 
 <a id="claim-t-119092"></a>
 - t-007
@@ -163,7 +166,8 @@ amziai:
   global_id: t-119093
   teiginys: 'Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas faktas apie Naugarduką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: Naugardukas'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] prekiavo su Naugardukas'
   pagrindžia:
     - c-008
 
@@ -181,13 +185,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91335ed8ecfdc4a3258f80c404a216daccfef050d777c6ca9129ea3754d5df5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Konstantino Ostrogiškio perstatytas Naugarduko cerkves.
 
 <a id="claim-t-119095"></a>
 - t-010
@@ -216,7 +220,8 @@ amziai:
   global_id: t-119096
   teiginys: 'Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   sudarymo_pagrindimas: 'Pradžia su „Prieš metus“ yra kontekstinė, todėl reikia savarankiško sakinio.'
-  susije_objektai: 'mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas; llm_object: Naugardukas; llm_object: Sluckas; llm_object: Vilnius; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradžia su „Prieš metus“ yra kontekstinė, todėl reikia savarankiško sakinio.'
@@ -249,7 +254,8 @@ amziai:
 - t-013
   global_id: t-119098
   teiginys: '1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; llm_object: Naugardukas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] pastatė Naugardukas'
   temporaliniai_duomenys: 'įkūrimo data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -257,13 +263,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sluckas: 0.85
+  ryšio_patikimumas: puole -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sluckas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Sluckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis siejamas su Naugarduko apylinkių siaubimu.
 
 <a id="claim-t-119100"></a>
 - t-014
@@ -298,7 +304,8 @@ amziai:
   global_id: t-119104
   teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Naugarduko cerkvių perstatymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Ukraina; mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Ukraina; mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Vilnius; llm_object: Naugardukas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] pastatė Naugardukas'
   pagrindžia:
     - c-019
 
@@ -312,13 +319,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=746483d231397319a2ab5c8aa20dccdf1a45fbd91cb08db8524123fa8ba2bfd9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Naugardukas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Gedimino pastatytą pranciškonų bažnyčią Naugarduke.
 
 <a id="claim-t-119107"></a>
 - t-019
@@ -331,19 +338,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Naugardukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apie Gedimino prašymą mini jau pastatytas bažnyčias Naugarduke.
 
 <a id="claim-t-119108"></a>
 - t-020
   global_id: t-119108
   teiginys: 'Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.'
-  susije_objektai: 'mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas; llm_object: Naugardukas; llm_object: Sluckas; llm_object: Vilnius; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Naugardukas'
   temporaliniai_duomenys: 'mūšio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -363,7 +371,8 @@ amziai:
 - t-021
   global_id: t-119109
   teiginys: 'Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva; llm_object: Naugardukas'
+  semantiniai_rysiai: 'Naugardukas priklausė Lietuva; [[objektai/asmenys/Vaišelga|Vaišelga]] gyveno Naugardukas'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -388,13 +397,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Zabžezinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jonas Zabžezinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Jonas Zabžezinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Naugardukas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai pasiuntė būrį į Naugarduką.
 
 <a id="claim-t-119111"></a>
 - t-023
@@ -409,19 +418,20 @@ amziai:
 - t-024
   global_id: t-119112
   teiginys: 'Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardukas; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] pastatė Naugardukas'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.90
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vaišelga (kunigaikštis)" parinktas kaip nearest_actor. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Vaišelgą Mindaugo sūnumi.
 
 <a id="claim-t-119113"></a>
 - t-025
@@ -437,20 +447,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sluckas: 0.85
+  ryšio_patikimumas: puole -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sluckas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Sluckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Naugarduko apylinkes tiesiogiai sieja su totorių siaubimu.
 
 <a id="claim-t-119114"></a>
 - t-026
   global_id: t-119114
   teiginys: 'Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu ir per ilgas.'
-  susije_objektai: 'family: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; llm_object: Naugardukas'
+  semantiniai_rysiai: 'Naugardukas priklausė Lietuva; [[objektai/asmenys/Vaišelga|Vaišelga]] gyveno Naugardukas'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -525,13 +536,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Naugardukas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vilniaus miestiečių prekybos privilegiją, apimančią Naugarduką.
 
 <a id="claim-t-185064"></a>
 - t-030
@@ -575,19 +586,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui apie valdžią reikia atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Karačevas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Karačevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Liubartas sėdo valdyti Karačevą.
 
 <a id="claim-t-187622"></a>
 - t-033
@@ -619,19 +630,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui apie valdovo sūnaus grįžimą reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas; llm_object: Lietuva'
   pagrindžia:
     - c-027
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukiečiai: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukiečiai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Naugardukiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardukiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys leidžia suprasti, kad naugardukiečiai kartu buvo nuvesti atgal į Lietuvą.
 
 <a id="claim-t-187624"></a>
 - t-035
@@ -641,22 +652,32 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos valdovų titulams ir karo pasakojimui reikia atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Naugardukas; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] keliavo į Naugardukas'
   pagrindžia:
     - c-028
   irodymo_stiprumas: 0.00
   saltinio_vieta: 165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Krivičių žemė: 1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.
+  ryšio_patikimumas: keliavo_i -> Naugardukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pabėgimas į Naugarduką tiesiogiai palaiko judėjimo į vietą ryšį.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/ivykiai/Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.).md#claim-t-185631|Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)]]: Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę.
+- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
+- susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
+- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
+- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
+- susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
+- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
+- susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
+- susijęs iš Гуревич Ф. Д. Древности белорусского Понеманья: Tūkstantmečio 2-oje pusėje (Гуревич Ф.
+- susijęs iš [[objektai/autoriai/Zinkevičius Z.md#claim-t-60829|Zinkevičius Z]]: Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
+- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
+- susijęs iš Povest vremennych let: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
@@ -840,6 +861,13 @@ amziai:
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22101|daugiakonfesiškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
+- susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184876|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -872,13 +900,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sluckas: 0.85
+  ryšio_patikimumas: puole -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sluckas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Sluckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis siejamas su Naugarduko apylinkių siaubimu.
     - t-015
     - t-001
 
@@ -899,13 +927,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 335042-335247; hash=0fd2854d6ffc246e88c7827f7c38c31b92c69ace5e71cdf8f818593b760775f1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> na Litvu: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: na Litvu: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "na Litvu" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis.
     - t-023
 
 - c-004
@@ -949,13 +977,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91335ed8ecfdc4a3258f80c404a216daccfef050d777c6ca9129ea3754d5df5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Konstantino Ostrogiškio perstatytas Naugarduko cerkves.
     - t-018
 
 - c-006
@@ -976,13 +1004,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=746483d231397319a2ab5c8aa20dccdf1a45fbd91cb08db8524123fa8ba2bfd9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Naugardukas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Gedimino pastatytą pranciškonų bažnyčią Naugarduke.
     - t-020
   irodymo_stiprumas: 0.00
   saltinio_vieta: 165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex
@@ -1100,13 +1128,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vaišelgą Mindaugo sūnumi.
     - t-019
 
 - c-010
@@ -1138,13 +1166,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Naugardukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apie Gedimino prašymą mini jau pastatytas bažnyčias Naugarduke.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9718d397df5addfcc20674b3b525c690cd797d6825790eb922dcf584e2f5e1e8; match=fallback; occurrences=0
@@ -1237,13 +1265,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.90
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vaišelga (kunigaikštis)" parinktas kaip nearest_actor. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Vaišelgą Mindaugo sūnumi.
     - t-005
 
 - c-014
@@ -1281,13 +1309,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sluckas: 0.85
+  ryšio_patikimumas: puole -> Naugardukas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sluckas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Sluckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Naugarduko apylinkes tiesiogiai sieja su totorių siaubimu.
     - t-002
 
 - c-016
@@ -1307,13 +1335,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cc1e48bd0aa8e9c6b26dd29d9aa5574e4457fe63d6ae2b0c81af03ca7e6c5e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: pastate -> Naugardukas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Jaroslavo Naugarduko įkūrimą; panaudotas artimiausias leidžiamas kūrimo santykis.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
@@ -1407,13 +1435,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Zabžezinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jonas Zabžezinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Jonas Zabžezinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Naugardukas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai pasiuntė būrį į Naugarduką.
     - t-016
 
 - c-020
@@ -1535,13 +1563,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Naugardukas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vilniaus miestiečių prekybos privilegiją, apimančią Naugarduką.
     - t-030
 
 - c-024
@@ -1605,13 +1633,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Karačevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Liubartas sėdo valdyti Karačevą.
     - t-033
 
 - c-027
@@ -1663,26 +1691,40 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukiečiai: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukiečiai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Naugardukiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardukiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys leidžia suprasti, kad naugardukiečiai kartu buvo nuvesti atgal į Lietuvą.
     - t-035
   irodymo_stiprumas: 0.00
   saltinio_vieta: 165776-166168; hash=0ed7c6eeefa374321b25b93fffc463e1e950ed17917f0f6bd6986c699a1907c3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukas" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Naugardukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pabėgimas į Naugarduką tiesiogiai palaiko judėjimo į vietą ryšį.
 
 ## Ryšiai
-- [[objektai/grupes/Krivičiai]] uzeme Naugardukas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Naugardukas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Naugardukas
+- [[objektai/grupes/Totoriai]] siunte_i Naugardukas
+- [[objektai/asmenys/Karijotas]] valde_miesta Naugardukas
+- [[objektai/grupes/Krivičiai]] gyveno Naugardukas
+- [[objektai/asmenys/Skirmantas]] valde_miesta Naugardukas
+- [[objektai/asmenys/Jaroslavas]] pastate Naugardukas
+- [[objektai/asmenys/Kukovaitis]] buvo_valdovas Naugardukas
+- [[objektai/asmenys/Gediminas]] pastate Naugardukas
+- [[objektai/grupes/Totoriai]] gyveno Naugardukas
+- [[objektai/asmenys/Kaributas]] keliavo_i Naugardukas
+- Naugardukas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Naugardukas
+- [[objektai/grupes/Totoriai]] puole Naugardukas
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] gyveno Naugardukas
+- [[objektai/grupes/Krymo totoriai]] puole Naugardukas
+- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Naugardukas
+- [[objektai/grupes/Vilniaus miestiečių luomas]] prekiavo_su Naugardukas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Naugardukas

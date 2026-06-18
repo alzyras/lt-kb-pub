@@ -22,19 +22,19 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinio konflikto ir pagonių vaizdavimą reikia priskirti kronikos pasakojimui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 132185-132784; hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pagonys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pagonys" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje Vilniaus miestiečiai pagonys tiesiogiai siejami su pranciškonų vienuolių nužudymu.
 
 <a id="claim-t-187543"></a>
 - t-002
@@ -150,13 +150,13 @@ Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuoj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 132185-132784; hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pagonys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pagonys" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje Vilniaus miestiečiai pagonys tiesiogiai siejami su pranciškonų vienuolių nužudymu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 132785-133206; hash=ac4c8fe0df4f97e1ded8b818675708cfdd0143bc5bf59b99301d48f39e805903; match=whitespace_regex

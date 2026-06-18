@@ -23,19 +23,20 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   global_id: t-41728
   teiginys: 'Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie žygio kryptį Gelvonų link.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis; llm_object: Pašilė; llm_object: Gelvonai'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Gelvonai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pašilė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gelvonai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pašilė: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gelvonai" parinktas kaip owner_note_path. Targetas "Pašilė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Pašilė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pašilė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę.
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -46,6 +47,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66810|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.
 - susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
+- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,10 +71,13 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pašilė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gelvonai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pašilė: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gelvonai" parinktas kaip owner_note_path. Targetas "Pašilė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Pašilė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pašilė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę.
+
+## Ryšiai
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Gelvonai

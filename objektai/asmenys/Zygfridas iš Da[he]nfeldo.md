@@ -98,3 +98,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Zygfridas iš Da[he]nfeldo: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zygfridas iš Da[he]nfeldo" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Zygfridas iš Da[he]nfeldo dalyvavo_musyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

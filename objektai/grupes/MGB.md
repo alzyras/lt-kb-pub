@@ -34,7 +34,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   global_id: t-65908
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   sudarymo_pagrindimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
-  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis; llm_object: Gulbiniškiai'
+  semantiniai_rysiai: '[[objektai/grupes/MGB|MGB]] apgulė Gulbiniškiai'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
@@ -102,3 +103,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   ryšio_targeto_parinkimas: Dainava: mention_match, place, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "MGB" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+
+## Ryšiai
+- MGB apgule [[objektai/vietos/Gulbiniškiai]]

@@ -27,7 +27,8 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   global_id: t-41635
   teiginys: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Albinas Kubilius-Rūgštymas|Albinas Kubilius-Rūgštymas]]; mentioned_person: [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis|Alfonsas Vildžiūnas-Vijoklis]]'
+  susije_objektai: 'llm_object: Butkiškio vienkiemis; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Albinas Kubilius-Rūgštymas|Albinas Kubilius-Rūgštymas]]; mentioned_person: [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis|Alfonsas Vildžiūnas-Vijoklis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albinas Kubilius-Rūgštymas|Albinas Kubilius-Rūgštymas]] keliavo į Butkiškio vienkiemis; [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis|Alfonsas Vildžiūnas-Vijoklis]] keliavo į Butkiškio vienkiemis'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
@@ -36,13 +37,13 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe57a9b5e785bc242da79ea043e2977fe1f95aaa52dd43d324ea5dfac981ecf9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albinas Kubilius-Rūgštymas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Butkiškio vienkiemis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Albinas Kubilius-Rūgštymas: mention_match, person, gap=126
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butkiškio vienkiemis" parinktas kaip owner_note_path. Targetas "Albinas Kubilius-Rūgštymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Butkiškio vienkiemis: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alfonsas Vildžiūnas-Vijoklis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Butkiškio vienkiemis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Alfonsas Vildžiūnas-Vijoklis kartu atvedė čekistus į vietą prie bunkerio Butkiškio vienkiemyje.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,14 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe57a9b5e785bc242da79ea043e2977fe1f95aaa52dd43d324ea5dfac981ecf9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albinas Kubilius-Rūgštymas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Butkiškio vienkiemis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Albinas Kubilius-Rūgštymas: mention_match, person, gap=126
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butkiškio vienkiemis" parinktas kaip owner_note_path. Targetas "Albinas Kubilius-Rūgštymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Butkiškio vienkiemis: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alfonsas Vildžiūnas-Vijoklis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Butkiškio vienkiemis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Alfonsas Vildžiūnas-Vijoklis kartu atvedė čekistus į vietą prie bunkerio Butkiškio vienkiemyje.
+
+## Ryšiai
+- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]] keliavo_i Butkiškio vienkiemis
+- [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]] keliavo_i Butkiškio vienkiemis

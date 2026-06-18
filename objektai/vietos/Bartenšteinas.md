@@ -30,7 +30,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   global_id: t-58298
   teiginys: 'Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys perkrautas ir prasideda boilerplate; citata tiesiogiai pagrindžia statybos faktą.'
-  susije_objektai: 'mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė; llm_object: Bartenšteinas; llm_object: Rezlis; llm_object: Vizenburgas'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] pastatė Bartenšteinas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -68,19 +69,20 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   global_id: t-58300
   teiginys: 'Sūduviai apsiautė Bartenšteino pilį, ją sugriovė, gyventojus išžudė arba išsivarė į nelaisvę ir pilį sudegino.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia pilną sakinį apie Bartenšteino sugriovimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Bartenšteinas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rezlis: 0.85
+  ryšio_patikimumas: pastate -> Bartenšteinas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rezlis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Rezlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Vokiečių ordino broliai pastatė Bartenšteino pilį; kandidatas normalizuotas į Vokiečių grupę.
 
 <a id="claim-t-58301"></a>
 - t-004
@@ -132,13 +134,20 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bartenšteinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad sūduviai apsiautė Bartenšteino pilį.
+- susijęs iš [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas.md#claim-t-62195|Antrasis Bartenšteino pilies sugriovimas (pilis)]]: Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.
+- susijęs iš [[objektai/asmenys/Miligedas.md#claim-t-60173|Miligedas]]: Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89237|Sūduviai]]: Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88523|Bartai]]: Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.
+- susijęs iš [[objektai/asmenys/Misinas.md#claim-t-60176|Misinas]]: Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį.
+- susijęs iš [[objektai/asmenys/Stanta.md#claim-t-60207|Stanta]]: Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175128|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.
 - susijęs iš [[objektai/asmenys/Miligedas.md#claim-t-60173|Miligedas]]: Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.
 - susijęs iš [[objektai/asmenys/Miligedas.md#claim-t-60174|Miligedas]]: Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.
@@ -199,6 +208,10 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58787|kuoras propugnaculum pilaitė]]: Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58788|kuoras propugnaculum pilaitė]]: Prūsai aplink Bartenšteino pilį įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58790|kuoras propugnaculum pilaitė]]: Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88523|Bartai]]: Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.
+- susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184491|Kryžiuočių ordinas]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
+- susijęs iš [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių.md#claim-t-185569|Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -243,13 +256,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bartenšteinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad sūduviai apsiautė Bartenšteino pilį.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 272650-272811; hash=e8237704de4bbc424f897cc89ef2fd50171eebe0bdd241e025718b3fb7a1d6c9; match=exact
@@ -278,13 +291,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   irodymo_stiprumas: 0.00
   saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rezlis: 0.85
+  ryšio_patikimumas: pastate -> Bartenšteinas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rezlis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Rezlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Vokiečių ordino broliai pastatė Bartenšteino pilį; kandidatas normalizuotas į Vokiečių grupę.
     - t-003
 
 - c-005
@@ -307,13 +320,13 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   irodymo_stiprumas: 0.00
   saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rezlis: 0.85
+  ryšio_patikimumas: pastate -> Bartenšteinas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rezlis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Rezlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Vokiečių ordino broliai pastatė Bartenšteino pilį; kandidatas normalizuotas į Vokiečių grupę.
     - t-005
 
 - c-006
@@ -418,3 +431,15 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
   ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=93
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sūduviai]] apgule Bartenšteinas
+- [[objektai/asmenys/Miligedas]] keliavo_i Bartenšteinas
+- [[objektai/grupes/Bartai]] gyveno Bartenšteinas
+- [[objektai/asmenys/Misinas]] surenge_zygi_i Bartenšteinas
+- [[objektai/grupes/Notangai]] surenge_zygi_i Bartenšteinas
+- [[objektai/asmenys/Stanta]] puole Bartenšteinas
+- [[objektai/grupes/Notangai]] puole Bartenšteinas
+- [[objektai/grupes/Sūduviai]] puole Bartenšteinas
+- [[objektai/grupes/Vokiečiai]] pastate Bartenšteinas
+- [[objektai/grupes/Kryžiuočių ordinas]] priklause Bartenšteinas

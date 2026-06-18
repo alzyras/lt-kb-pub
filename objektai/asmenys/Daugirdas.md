@@ -22,19 +22,20 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR triukšmas; teiginys tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Leliušas|Leliušas]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Leliušas|Leliušas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Daugirdas|Daugirdas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 814111-814580; hash=0a8d3cf999236d177d696d93e9850583a0b1e1c8345a5a2b93239927f45e0ca1; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugirdas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugirdas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Daugirdas vyko į Vilnių.
 
 <a id="claim-t-186103"></a>
 - t-002
@@ -128,13 +129,13 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 814111-814580; hash=0a8d3cf999236d177d696d93e9850583a0b1e1c8345a5a2b93239927f45e0ca1; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugirdas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugirdas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Daugirdas vyko į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 842822-843318; hash=c524735a025d70d07bb7b3d0bf76b10daf4839d26a824d9e30b56262258108cb; match=exact
@@ -146,3 +147,8 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
   ryšio_subjekto_parinkimas: Daugirdas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugirdas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Daugirdas keliavo_i [[objektai/vietos/Vilnius]]
+- Daugirdas uzeme [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]]
+- Daugirdas uzeme [[objektai/vietos/Vilniaus pilys]]

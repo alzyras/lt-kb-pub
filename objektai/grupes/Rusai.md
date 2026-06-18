@@ -190,7 +190,35 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   ryšio_subjekto_parinkimas: Rusai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Maskvėnai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusai" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
+- susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
+- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179333|Lietuviai]]: Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
+- susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
+- susijęs iš Klušinas: 1610 m. lenkų kariuomenė sumušė rusus prie Klušino ir užėmė Maskvą.
+- susijęs iš Maskva: 1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą.
+- susijęs iš Minskas: Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.
+- susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44061|Kerzono linija]]: Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.
+- susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
+- susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
+- susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78166|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/grupes/Dono kazokų pulkas.md#claim-t-78167|Dono kazokų pulkas]]: 1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.
+- susijęs iš [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.).md#claim-t-185709|Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]: Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
+- susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86842|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
+- susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
+- susijęs iš [[objektai/zodynas/neutralitetas.md#claim-t-106804|neutralitetas]]: Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108309|Pranciškonų ordinas]]: Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79227|Vladislovas Vaza]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172093|Dominikonų ordinas]]: Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.
+- susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78388|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
+- susijęs iš [[objektai/grupes/Narvos muškietininkų pulkas.md#claim-t-78390|Narvos muškietininkų pulkas]]: Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
+- susijęs iš Maskva: Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą.
+- susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
 - susijęs iš [[objektai/asmenys/Aleksandras III.md#claim-t-18775|Aleksandras III]]: Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
@@ -514,6 +542,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42510|stabmeldys]]: Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
+- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
+- susijęs iš Jaselda: Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką.
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39466|A. Chlapovskis]]: Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
@@ -1432,6 +1463,38 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-183488|„lenkų pradai“ „rusų pradai“]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22360|„lenkų pradai“ „rusų pradai“]]: Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184788|Mindaugas (valdovas, XIII a.)]]: Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.
+- susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66897|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
+- susijęs iš Liublinas: Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78708|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
+- susijęs iš Laurentijaus ir Ipatijaus sąvadai: Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.
+- susijęs iš [[objektai/daiktai/Kapsuliniai šautuvai.md#claim-t-40722|Kapsuliniai šautuvai]]: Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.
+- susijęs iš [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-40822|2-oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.
+- susijęs iš [[objektai/ivykiai/Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.).md#claim-t-185737|Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)]]: Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
+- susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš Kuršas: 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
+- susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
+- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186015|Skirmantas]]: Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą.
+- susijęs iš [[objektai/grupes/Ukmergės batalionas.md#claim-t-39008|Ukmergės batalionas]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų, užėmė kelis kaimus ir vėliau išstūmė rusus iš giluminių pozicijų.
+- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.
+- susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
+- susijęs iš Kopysė: Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.
+- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
+- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184640|tėvonija]]: Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto.
+- susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
+- susijęs iš [[objektai/grupes/Dembinskio rinktinė.md#claim-t-72057|Dembinskio rinktinė]]: Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti.
+- susijęs iš [[objektai/grupes/asis šaulių pulko batalionas.md#claim-t-80645|asis šaulių pulko batalionas]]: 2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.
+- susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184550|Lietuviai]]: Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.
+- susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.
+- susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
+- susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78713|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.
+- susijęs iš [[objektai/asmenys/Mantvila Gimbutaitis.md#claim-t-186236|Mantvila Gimbutaitis]]: Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.
+- susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1654,10 +1717,87 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusai" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Poloviečiai]] kariavo_pries Rusai
-- Rusai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- Rusai uzeme [[objektai/vietos/Maskva]]
+- Rusai uzeme [[objektai/vietos/Vilnius]]
+- Rusai buvo_sajungininkas_su [[objektai/grupes/Kazokai]]
+- Rusai uzeme [[objektai/vietos/Alūksnė]]
+- Rusai uzeme [[objektai/vietos/Vilijandis]]
+- [[objektai/grupes/Vytauto būrys]] puole Rusai
+- Rusai uzeme [[objektai/vietos/Paupys]]
 - Rusai uzeme [[objektai/vietos/Užupis]]
 - Rusai uzeme [[objektai/vietos/Viljandis]]
-- Rusai valde_teritorija [[objektai/vietos/Europa]]
-- Rusai keliavo_i [[objektai/vietos/Podolė]]
+- [[objektai/asmenys/Gediminas]] buvo_valdovas Rusai
+- Rusai puole [[objektai/vietos/Vilnius]]
+- Rusai siunte_i [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Dono kazokų pulkas]] priklause Rusai
+- [[objektai/asmenys/Gediminas]] puole Rusai
+- [[objektai/grupes/Kazokai]] buvo_sajungininkas_su Rusai
+- [[objektai/grupes/Lenkai]] kariavo_pries Rusai
+- Rusai apgule [[objektai/vietos/Radomas]]
+- Rusai apgule [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- Rusai gyveno [[objektai/vietos/Polockas]]
+- Rusai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Rusai reme [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Rusai reme [[objektai/asmenys/Tautvila]]
+- [[objektai/grupes/Ukmergės batalionas]] kariavo_pries Rusai
+- [[objektai/asmenys/Gediminas]] kariavo_pries Rusai
+- [[objektai/grupes/Jotvingiai]] kariavo_pries Rusai
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rusai
+- [[objektai/grupes/Lietuviai]] puole Rusai
+- Rusai dalyvavo_musyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- Rusai puole [[objektai/vietos/Mogiliavas]]
+- Rusai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Rusai dalyvavo_musyje [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
+- Rusai puole [[objektai/vietos/Kulmas]]
+- [[objektai/asmenys/Vladislovas Vaza]] kariavo_pries Rusai
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]] kariavo_pries Rusai
+- [[objektai/grupes/Lietuviai]] kariavo_pries Rusai
+- Rusai puole [[objektai/grupes/Lietuviai]]
+- Rusai puole [[objektai/vietos/Šklovas]]
+- Rusai valde_miesta [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Skirmantas]] kariavo_pries Rusai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_sajungininkas_su Rusai
+- Rusai apgule [[objektai/grupes/Gardino seimas]]
+- Rusai gyveno [[objektai/vietos/Klaipėda]]
+- Rusai gyveno [[objektai/vietos/Vilnius]]
+- Rusai puole [[objektai/vietos/Kališo sritis]]
+- Rusai puole [[objektai/vietos/Kulmo žemė]]
+- Rusai uzkariavo [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Sūduviai]] buvo_sajungininkas_su Rusai
+- Rusai gyveno [[objektai/vietos/Sniečkus]]
+- Rusai prekiavo_su [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]] kariavo_pries Rusai
+- [[objektai/daiktai/Kapsuliniai šautuvai]] priklause Rusai
+- Rusai keliavo_i [[objektai/vietos/Maskva]]
+- Rusai keliavo_i [[objektai/vietos/Vilnius]]
+- Rusai uzeme [[objektai/vietos/Kaunas]]
+- Rusai uzeme [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]] prekiavo_su Rusai
+- [[objektai/grupes/Švedai]] kariavo_pries Rusai
+- Rusai keliavo_i [[objektai/vietos/Rusija]]
+- Rusai priklause [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Polockas]] priklause Rusai
+- Rusai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Rusai prekiavo_su [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Ukmergės batalionas]] puole Rusai
+- [[objektai/grupes/2-asis šaulių pulko batalionas]] kariavo_pries Rusai
+- [[objektai/asmenys/Radvila]] kariavo_pries Rusai
+- [[objektai/grupes/Vokiečių pirkliai]] prekiavo_su Rusai
+- Rusai uzeme [[objektai/vietos/Brianskas]]
+- [[objektai/asmenys/Ivanas]] gyne Rusai
+- [[objektai/asmenys/B. Kolyška]] kariavo_pries Rusai
+- [[objektai/grupes/Dembinskio rinktinė]] kariavo_pries Rusai
+- Rusai kariavo_pries [[objektai/grupes/Lenkai]]
+- Rusai puole [[objektai/vietos/Lietuva]]
+- Rusai valde_miesta [[objektai/vietos/Liublinas]]
+- [[objektai/grupes/asis šaulių pulko batalionas]] puole Rusai
+- [[objektai/asmenys/Pavelas Bermontas-Avalovas]] buvo_sajungininkas_su Rusai
+- Rusai surenge_zygi_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/J. Šarauskas]] kariavo_pries Rusai
+- [[objektai/asmenys/K. Ladyga]] puole Rusai
+- Rusai priklause [[objektai/vietos/Lietuva]]
+- Rusai puole [[objektai/asmenys/P. Vivulskis]]
+- Rusai gyveno [[objektai/vietos/Lietuva]]
+- Rusai siunte_i [[objektai/vietos/Merkinė]]
+- Rusai siunte_i [[objektai/vietos/Sluckas]]
+- [[objektai/grupes/Lietuviai]] prekiavo_su Rusai
+- [[objektai/asmenys/Mantvila Gimbutaitis]] puole Rusai

@@ -147,7 +147,7 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 699796-700048; hash=2fde76827256c747b8535fbb316cab146be23dac99da40f87df30fdf7f373342; match=exact
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 - susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
@@ -472,4 +472,5 @@ amziai:
   sprendimo_priezastis: auto
 
 ## Ryšiai
-- [[objektai/asmenys/Prokopas]] kariavo_pries Čekai
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]] kariavo_pries Čekai
+- Čekai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

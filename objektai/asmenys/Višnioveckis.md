@@ -22,19 +22,20 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Višnioveckio paėmimą ir išvežimą.'
-  susije_objektai: 'mentioned_place: Skitija; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Skitija; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Skitija'
+  semantiniai_rysiai: '[[objektai/asmenys/Višnioveckis|Višnioveckis]] keliavo į Skitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1210590-1211322; hash=efcfb9a2fd33db534fd159b93cfb9b0e65a26f91c528f237048b0b927e59c2f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Višnioveckis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Višnioveckis" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Višnioveckis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikštis Višnioveckis buvo išvežtas į Skitiją.
 
 ## Reikšmingi paminėjimai
 
@@ -74,10 +75,13 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1210590-1211322; hash=efcfb9a2fd33db534fd159b93cfb9b0e65a26f91c528f237048b0b927e59c2f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Višnioveckis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Višnioveckis" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Višnioveckis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikštis Višnioveckis buvo išvežtas į Skitiją.
+
+## Ryšiai
+- Višnioveckis keliavo_i [[objektai/vietos/Skitija]]

@@ -30,7 +30,7 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
   global_id: t-86576
   teiginys: '1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams.'
   sudarymo_pagrindimas: 'Sakinys pataisytas į užbaigtą faktą apie tėvoniją ir paveldėjimo teises.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į užbaigtą faktą apie tėvoniją ir paveldėjimo teises.'
@@ -39,13 +39,13 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114835-115462; hash=ec1f77149e852b08e3a1c313981979056bf457ecaca8afe757ff6f9bd4376ef5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tėvonija paveldas paveldėjimo teisės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tėvonija paveldas paveldėjimo teisės" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo 1384 m. sutartį tarp Ordino ir Vytauto.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114835-115462; hash=ec1f77149e852b08e3a1c313981979056bf457ecaca8afe757ff6f9bd4376ef5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tėvonija paveldas paveldėjimo teisės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tėvonija paveldas paveldėjimo teisės" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo 1384 m. sutartį tarp Ordino ir Vytauto.

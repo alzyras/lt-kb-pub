@@ -35,7 +35,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   global_id: t-58810
   teiginys: 'Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia fogto Ditricho vaidmenį ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
+  susije_objektai: 'llm_object: Nadruva; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia fogto Ditricho vaidmenį ir veiksmą.'
@@ -44,13 +44,13 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: fogtas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "fogtas" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Konradas aiškiai yra siuntimo veiksmo subjektas, o Nadruva - kryptis.
 
 <a id="claim-t-58811"></a>
 - t-002
@@ -251,13 +251,13 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: fogtas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "fogtas" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Konradas aiškiai yra siuntimo veiksmo subjektas, o Nadruva - kryptis.
     - t-004
 
 - c-004

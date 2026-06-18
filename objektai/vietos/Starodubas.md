@@ -93,20 +93,25 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Titulas ir legendinis pasakojimas turi likti priskirti šaltiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Starodubas; llm_object: Mozyrius; llm_object: Karačevas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Starodubas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaidanovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Starodubas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaidanovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Starodubas" parinktas kaip owner_note_path. Targetas "Kaidanovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Starodubas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Starodubas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirmantas paėmė Starodubo miestą.
+- susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
+- susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
+- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
+- susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182803|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184798|Mykolas (Žygimanto sūnus)]]: 1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173237|Vladislovas Jogaila]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
@@ -143,6 +148,9 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 - susijęs iš Kaunas: Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo.
 - susijęs iš Perejeslavlis: Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.
 - susijęs iš Trubčevskas: 1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.
+- susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102835|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102838|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -257,13 +265,16 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaidanovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Starodubas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaidanovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Starodubas" parinktas kaip owner_note_path. Targetas "Kaidanovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Starodubas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Starodubas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirmantas paėmė Starodubo miestą.
 
 ## Ryšiai
 - [[objektai/asmenys/Skirmantas]] uzeme Starodubas
+- [[objektai/asmenys/Mykolas]] uzeme Starodubas
+- [[objektai/grupes/Kazokai]] surenge_zygi_i Starodubas
+- [[objektai/grupes/Kazokai]] puole Starodubas

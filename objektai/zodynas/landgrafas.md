@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   global_id: t-58822
   teiginys: 'Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Konradą.'
-  susije_objektai: 'location: Markburgas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Markburgas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Markburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -73,12 +73,13 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   irodymo_stiprumas: 0.00
   saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Markburgas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Markburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: landgrafas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "landgrafas" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185721|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
@@ -173,12 +174,13 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   irodymo_stiprumas: 0.00
   saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Markburgas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Markburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: landgrafas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "landgrafas" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=781ef8aa4fa30bd39a5d6898dea26fa47aae7608b461fa92db4e0935d65c3c2f; match=fallback; occurrences=0

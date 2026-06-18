@@ -30,7 +30,8 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
   global_id: t-60236
   teiginys: '1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra antraštės ir nutrūkusio sakinio junginys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius (račius)|Andrius (račius)]] keliavo į Kristburgas'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštės ir nutrūkusio sakinio junginys.'
@@ -39,13 +40,13 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9dbd054e39994eea831d5b96cb4a2d0ba8e046d5dad58df6a2874f6fead9d310; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Duona: 0.85
+  ryšio_patikimumas: keliavo_i -> Kristburgas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius (račius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Duona: mention_match, thing, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius (račius)" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius (račius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Andrių esant Kristburgo pilyje; tai artimiausias leidžiamas vietos santykis.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,13 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9dbd054e39994eea831d5b96cb4a2d0ba8e046d5dad58df6a2874f6fead9d310; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Duona: 0.85
+  ryšio_patikimumas: keliavo_i -> Kristburgas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius (račius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Duona: mention_match, thing, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius (račius)" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius (račius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Andrių esant Kristburgo pilyje; tai artimiausias leidžiamas vietos santykis.
+
+## Ryšiai
+- Andrius (račius) keliavo_i [[objektai/vietos/Kristburgas]]

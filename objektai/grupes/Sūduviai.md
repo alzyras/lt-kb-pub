@@ -36,27 +36,28 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   global_id: t-89233
   teiginys: 'Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vartenbergas'
+  susije_objektai: 'llm_object: Vartenbergas; mentioned_place: Vartenbergas'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Vartenbergas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84608a8debaba35dafaa659bedfc9c773e532a1f82cc6fa69b17e4c3a8472e56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumas: apgule -> Vėluva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=56
-  ryšio_targeto_parinkimas: Vėluva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Vėluva" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti jungtinėje kariuomenėje, apgulusioje Vėluvos pilį.
 
 <a id="claim-t-89234"></a>
 - t-002
   global_id: t-89234
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'object: Vėluva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Vėluva'
+  susije_objektai: 'llm_object: Vėluva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Vėluva; [[objektai/grupes/Sūduviai|Sūduviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Vėluva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
@@ -65,20 +66,21 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 23171-23793; hash=2aab996d2553c5c25150842733496a6edb16d3b0f4e1a7eeca0c3cb321d3d465; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuviai minimi toje pačioje kariuomenėje, siaubusioje Ordino valdas.
 
 <a id="claim-t-89235"></a>
 - t-003
   global_id: t-89235
   teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Bysleida; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Bysleida'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -103,70 +105,71 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 456519-456819; hash=bbd0779d499e162c460ab194d17e1b37874051d9169d49a8670f88898f89e488; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vartenbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vartenbergas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Vartenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vartenbergas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vartenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip atžygiavę prie Vartenbergo pilies ir ją sunaikinę.
 
 <a id="claim-t-89237"></a>
 - t-005
   global_id: t-89237
   teiginys: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Bartenšteinas'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 458997-459564; hash=cefd2494dc5d0f126f98dcd618b06bdaa015d158fba99b7de39458b96f766761; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Lubavos žemę.
 
 <a id="claim-t-89238"></a>
 - t-006
   global_id: t-89238
   teiginys: 'Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Kimenava; mentioned_place: Sūduva; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
+  susije_objektai: 'llm_object: Sūduva; llm_object: Kimenava; mentioned_place: Kimenava; mentioned_place: Sūduva; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460607-461634; hash=1ba249a38c1e9c6e52ae83dab8e4e70cc0951baf86124ca311b36676e58a7cd4; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Būga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: K. Būga: mention_match, author, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "K. Būga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas tiesiogiai įvardytas kaip su sūduviais įsibrovęs į Kulmo žemę.
 
 <a id="claim-t-89239"></a>
 - t-007
   global_id: t-89239
   teiginys: 'Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_place: Sūduva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Ulrichas Bajeris|Ulrichas Bajeris]]; mentioned_place: Semba; mentioned_place: Tepliava'
+  susije_objektai: 'llm_object: Sūduva; mentioned_place: Sūduva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Ulrichas Bajeris|Ulrichas Bajeris]]; mentioned_place: Semba; mentioned_place: Tepliava'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9ab0cedb845b2903c5779b0c387465af1c60f2cf7f54057c93f2b876d928428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įvardyti kariuomenėje, siaubusioje Kulmo žemę.
 
 <a id="claim-t-89240"></a>
 - t-008
@@ -179,39 +182,40 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bartenšteinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad sūduviai apsiautė Bartenšteino pilį.
 
 <a id="claim-t-89241"></a>
 - t-009
   global_id: t-89241
   teiginys: 'Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti vietą ir sutrumpinti veiksmą.'
-  susije_objektai: 'mentioned_place: Sūduva; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimenava'
+  susije_objektai: 'mentioned_place: Sūduva; llm_object: Sūduva; llm_object: Kimenava; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimenava'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skalviai tiesiogiai minimi tarp Bysleidos pilį apsiautusių grupių.
 
 <a id="claim-t-89242"></a>
 - t-010
   global_id: t-89242
   teiginys: 'Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie sūduvių karinį įsiveržimą, o pradinis teiginys turi OCR triukšmo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Brodnica; mentioned_place: Drevanta; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Brodnica; mentioned_place: Drevanta; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Viena; llm_object: Torunė'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Kulmas; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Torunė'
   temporaliniai_duomenys: 'įvykio data: 1263 m.; įvykio data: 1264 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie sūduvių karinį įsiveržimą, o pradinis teiginys turi OCR triukšmo.'
@@ -220,20 +224,21 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas tiesiogiai įvardytas kaip įsiveržęs į Kulmo žemę.
 
 <a id="claim-t-89243"></a>
 - t-011
   global_id: t-89243
   teiginys: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kulmas; mentioned_place: Eimsutis; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kulmas; mentioned_place: Eimsutis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Kulmas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -261,20 +266,21 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado įsiveržimą į Sūduvos žemę.
 
 <a id="claim-t-89245"></a>
 - t-013
   global_id: t-89245
   teiginys: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Prūsai; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Prūsai; mentioned_place: Semba; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata.'
@@ -283,51 +289,53 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Notangos žemę.
 
 <a id="claim-t-89246"></a>
 - t-014
   global_id: t-89246
   teiginys: 'Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo ir nereikalingą autorystę.'
-  susije_objektai: 'mentioned_place: Notanga'
+  susije_objektai: 'llm_object: Notanga; mentioned_place: Notanga'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Notanga'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519417-520078; hash=ae24a465c86717efb5543f10f4448c518541ab77ae7d8c47d2c14b7f64efeb6f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sūduviai užpuolė Sembos žemę.
 
 <a id="claim-t-89247"></a>
 - t-015
   global_id: t-89247
   teiginys: 'Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_place: Lubava; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Štraisbergas'
+  susije_objektai: 'llm_object: Lubava; mentioned_place: Lubava; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Štraisbergas'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Lubava'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c02488427037760fa0a20d9a7d5bae5bbce3ed150a389b9470eed4172888d18; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrichas Bajeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ulrichas Bajeris tiesiogiai įvardytas kaip įsiveržęs į Sūduvą.
 
 <a id="claim-t-89248"></a>
 - t-016
@@ -353,7 +361,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   global_id: t-89249
   teiginys: 'Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Semba; [[objektai/grupes/Sūduviai|Sūduviai]] buvo sąjungininkas su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -391,19 +400,23 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   global_id: t-89251
   teiginys: 'Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Kulmas'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kimenava: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kimenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas tiesiogiai įvardytas kaip įsiveržęs į Sūduvos žemę.
+- susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62874|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.
+- susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
+- susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175240|Konradas iš Tirbergo Jaunesnysis]]: Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.
@@ -482,6 +495,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-184003|ginklanešiai]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175175|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-184004|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
+- susijęs iš Sūduva: Dabartinės Suvalkų apylinkės, įskaitant Vygrių ežeryną, buvo centrinė jotvingių arba sūduvių teritorijos dalis.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
@@ -564,6 +578,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - susijęs iš Zilija: Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89551|dykra]]: Sūduvos dykra 1422 m. buvo padalinta.
 - susijęs iš [[objektai/zodynas/kunic.md#claim-t-32786|kunic]]: Eiliuotinėje Livonijos kronikoje Traidenis, kaip ir Mindaugas, vadinamas kunic.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90025|Sventopelkas]]: Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 ## Reikšmingi paminėjimai
 
@@ -683,13 +701,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519417-520078; hash=ae24a465c86717efb5543f10f4448c518541ab77ae7d8c47d2c14b7f64efeb6f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sūduviai užpuolė Sembos žemę.
     - t-021
 
 - c-005
@@ -710,13 +728,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Notangos žemę.
     - t-004
 
 - c-006
@@ -736,13 +754,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 456519-456819; hash=bbd0779d499e162c460ab194d17e1b37874051d9169d49a8670f88898f89e488; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vartenbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vartenbergas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Vartenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vartenbergas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vartenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip atžygiavę prie Vartenbergo pilies ir ją sunaikinę.
     - t-011
 
 - c-007
@@ -795,24 +813,24 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9ab0cedb845b2903c5779b0c387465af1c60f2cf7f54057c93f2b876d928428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įvardyti kariuomenėje, siaubusioje Kulmo žemę.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c02488427037760fa0a20d9a7d5bae5bbce3ed150a389b9470eed4172888d18; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrichas Bajeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ulrichas Bajeris tiesiogiai įvardytas kaip įsiveržęs į Sūduvą.
     - t-020
 
 - c-009
@@ -834,13 +852,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 458997-459564; hash=cefd2494dc5d0f126f98dcd618b06bdaa015d158fba99b7de39458b96f766761; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Lubavos žemę.
     - t-013
 
 - c-010
@@ -865,13 +883,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Notangos žemę.
     - t-005
 
 - c-011
@@ -894,13 +912,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 458997-459564; hash=cefd2494dc5d0f126f98dcd618b06bdaa015d158fba99b7de39458b96f766761; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai tiesiogiai įvardyti kaip įsibrovę į Lubavos žemę.
     - t-008
 
 - c-012
@@ -923,13 +941,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bartenšteinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad sūduviai apsiautė Bartenšteino pilį.
     - t-019
 
 - c-013
@@ -952,13 +970,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kimenava: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kimenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas tiesiogiai įvardytas kaip įsiveržęs į Sūduvos žemę.
     - t-001
 
 - c-014
@@ -980,13 +998,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84608a8debaba35dafaa659bedfc9c773e532a1f82cc6fa69b17e4c3a8472e56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumas: apgule -> Vėluva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=56
-  ryšio_targeto_parinkimas: Vėluva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Vėluva" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti jungtinėje kariuomenėje, apgulusioje Vėluvos pilį.
     - t-002
 
 - c-015
@@ -1009,24 +1027,24 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 23171-23793; hash=2aab996d2553c5c25150842733496a6edb16d3b0f4e1a7eeca0c3cb321d3d465; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuviai minimi toje pačioje kariuomenėje, siaubusioje Ordino valdas.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460607-461634; hash=1ba249a38c1e9c6e52ae83dab8e4e70cc0951baf86124ca311b36676e58a7cd4; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Būga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: K. Būga: mention_match, author, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "K. Būga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas tiesiogiai įvardytas kaip su sūduviais įsibrovęs į Kulmo žemę.
     - t-009
 
 - c-016
@@ -1049,13 +1067,13 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skalviai tiesiogiai minimi tarp Bysleidos pilį apsiautusių grupių.
     - t-017
 
 - c-017
@@ -1113,24 +1131,57 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas tiesiogiai įvardytas kaip įsiveržęs į Kulmo žemę.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510260-510970; hash=943201c6f266e43ff08f621345ef51d434b359dac1201b8f8025909799aee934; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduviai" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sūduva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado įsiveržimą į Sūduvos žemę.
 
 ## Ryšiai
+- Sūduviai apgule [[objektai/vietos/Bartenšteinas]]
+- Sūduviai puole [[objektai/vietos/Semba]]
 - Sūduviai apgule [[objektai/vietos/Vėluva]]
+- [[objektai/asmenys/Martynas iš Golino]] puole Sūduviai
+- Sūduviai puole [[objektai/vietos/Kulmas]]
+- Sūduviai apgule [[objektai/vietos/Bysleida]]
+- Sūduviai puole [[objektai/vietos/Lubava]]
+- Sūduviai puole [[objektai/vietos/Notanga]]
+- Sūduviai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Sūduviai puole [[objektai/vietos/Galinda]]
+- Sūduviai puole [[objektai/vietos/Vartenbergas]]
+- Sūduviai surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Sūduviai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Sūduviai pastate [[objektai/vietos/Vėluva]]
+- Sūduviai puole [[objektai/vietos/Kulmo žemė]]
+- Sūduviai puole [[objektai/vietos/Vėluva]]
+- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]] kariavo_pries Sūduviai
+- Sūduviai surenge_zygi_i [[objektai/vietos/Semba]]
+- [[objektai/asmenys/Ulrichas Bajeris]] puole Sūduviai
+- [[objektai/vietos/Suvalkai]] priklause Sūduviai
+- [[objektai/grupes/Pagudėnai]] buvo_sajungininkas_su Sūduviai
+- Sūduviai buvo_sajungininkas_su [[objektai/grupes/Rusai]]
+- Sūduviai gyveno [[objektai/vietos/Lietuva]]
+- Sūduviai puole [[objektai/vietos/Bartenšteinas]]
+- Sūduviai surenge_zygi_i [[objektai/vietos/Lenkija]]
+- Sūduviai puole [[objektai/vietos/Pilaitė]]
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Sūduviai
+- Sūduviai kariavo_pries [[objektai/grupes/Auksinė Orda]]
+- Sūduviai keliavo_i [[objektai/vietos/Lietuva]]
+- Sūduviai puole [[objektai/vietos/Elbingas]]
+- Sūduviai puole [[objektai/vietos/Torunė]]
+- [[objektai/asmenys/Sventopelkas]] buvo_sajungininkas_su Sūduviai
+- Sūduviai keliavo_i [[objektai/vietos/Birgelava]]
+- Sūduviai puole [[objektai/vietos/Kristburgas]]

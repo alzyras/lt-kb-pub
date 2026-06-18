@@ -47,19 +47,19 @@ Nenurodyta
   global_id: t-59407
   teiginys: 'Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'location: Baiga; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Baiga; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ruseinis tiesiogiai aprašomas kaip atvykęs pas Baigos komtūrą.
 
 <a id="claim-t-59408"></a>
 - t-002
@@ -140,21 +140,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ruseinis tiesiogiai aprašomas kaip atvykęs pas Baigos komtūrą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ruseinio atvykimas į Baigą tiesiogiai pasakytas claime.

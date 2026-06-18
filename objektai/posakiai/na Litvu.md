@@ -31,7 +31,7 @@ amziai:
 - t-001
   global_id: t-31562
   teiginys: '„Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Naugardukas; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1040 m.; įvykio data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,19 +39,19 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334875-335113; hash=dfde932b1df39ace3c218ac37901243dced59ad538bc1ef4651284223256e0b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: na Litvu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "na Litvu" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jaroslavas 1040 m. darė žygį į Lietuvą.
 
 <a id="claim-t-31563"></a>
 - t-002
   global_id: t-31563
   teiginys: '1131-1132 m. Kijevo Mstislavas esą dvejus metus iš eilės rengė žygius į Lietuvą („na Litvu“).'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1131 m.; įvykio data: 1131-1132; įvykio data: 1132 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -59,13 +59,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0787c38d1f1870849bcb673121b630737d654d40f10112f7158091289f3dcde; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: na Litvu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "na Litvu" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Jaroslavo žygį į Lietuvą, nors claimas daugiausia apie Mstislavą, kurio nėra kandidatuose.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -105,21 +105,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334875-335113; hash=dfde932b1df39ace3c218ac37901243dced59ad538bc1ef4651284223256e0b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: na Litvu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "na Litvu" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jaroslavas 1040 m. darė žygį į Lietuvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0787c38d1f1870849bcb673121b630737d654d40f10112f7158091289f3dcde; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: na Litvu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "na Litvu" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Jaroslavo žygį į Lietuvą, nors claimas daugiausia apie Mstislavą, kurio nėra kandidatuose.

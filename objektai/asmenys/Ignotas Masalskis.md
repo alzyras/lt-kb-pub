@@ -86,13 +86,13 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf1e4f92b62912f61da5ae2ffdf0654413b468f26e752e416c1a9c15eb7bd676; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Targovica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ignotas Masalskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Targovica: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignotas Masalskis" parinktas kaip owner_note_path. Targetas "Targovica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Varšuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ignotas Masalskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad I. Masalskis buvo pakartas Varšuvoje, todėl tai pagrindžia mirties vietą.
 
 <a id="claim-t-75848"></a>
 - t-004
@@ -121,7 +121,8 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   global_id: t-75849
   teiginys: 'Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Varšuva; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis]] mirė Varšuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -207,13 +208,13 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf1e4f92b62912f61da5ae2ffdf0654413b468f26e752e416c1a9c15eb7bd676; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Targovica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ignotas Masalskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Targovica: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignotas Masalskis" parinktas kaip owner_note_path. Targetas "Targovica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Varšuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ignotas Masalskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad I. Masalskis buvo pakartas Varšuvoje, todėl tai pagrindžia mirties vietą.
     - t-005
 
 - c-004
@@ -282,3 +283,6 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   ryšio_subjekto_parinkimas: Ignotas Masalskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignotas Masalskis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ignotas Masalskis mire [[objektai/vietos/Varšuva]]

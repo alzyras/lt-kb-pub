@@ -28,7 +28,8 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie langobardų žygį.'
-  susije_objektai: 'mentioned_place: Italija; mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]'
+  susije_objektai: 'mentioned_place: Italija; mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; llm_object: Italija'
+  semantiniai_rysiai: '[[objektai/grupes/Langobardai|Langobardai]] keliavo į Italija'
   temporaliniai_duomenys: 'įvykio data: 559 m; įvykio data: apie 559 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie langobardų žygį.'
@@ -37,13 +38,13 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
+  ryšio_patikimumas: keliavo_i -> Italija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Langobardai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Langobardai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aprašo langobardų judėjimą, kuris baigiasi įsiveržimu į Italiją.
 
 <a id="claim-t-185425"></a>
 - t-002
@@ -53,7 +54,8 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškus, trumpas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Langobardai|Langobardai]] sudarė sutartį su [[objektai/grupes/Romėnai|Romėnai]]'
   temporaliniai_duomenys: 'įvykio data: 703 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, trumpas ir tiesiogiai paremtas citata.'
@@ -62,13 +64,13 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89308-89628; hash=60b7eeb663d739248562ccac2091b96469b87cf913ed83f726967c45476014af; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Langobardai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Romėnai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Langobardai" parinktas kaip owner_note_path. Targetas "Romėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Romėnai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Romėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Taikos sudarymas su romėnais yra tiesioginis sutarties santykis.
 - susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
@@ -81,6 +83,7 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 - susijęs iš [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.).md#claim-t-185831|Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]: 475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.
 - susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185889|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 - susijęs iš Romanova: Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
+- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,21 +140,28 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
+  ryšio_patikimumas: keliavo_i -> Italija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Langobardai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Langobardai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aprašo langobardų judėjimą, kuris baigiasi įsiveržimu į Italiją.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89308-89628; hash=60b7eeb663d739248562ccac2091b96469b87cf913ed83f726967c45476014af; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Langobardai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Romėnai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Langobardai" parinktas kaip owner_note_path. Targetas "Romėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Romėnai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Romėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Taikos sudarymas su romėnais yra tiesioginis sutarties santykis.
+
+## Ryšiai
+- Langobardai sudare_sutarti_su [[objektai/grupes/Romėnai]]
+- Langobardai puole [[objektai/vietos/Italija]]
+- Langobardai uzkariavo [[objektai/vietos/Italija]]
+- [[objektai/grupes/Gepidai]] buvo_sajungininkas_su Langobardai
+- Langobardai keliavo_i [[objektai/vietos/Italija]]

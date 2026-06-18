@@ -49,20 +49,21 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   irodymo_stiprumas: 0.00
   saltinio_vieta: 340731-340873; hash=2387f4ed816ff2f6a616d94cc433f1bbe6975e97321a9bd908b27bce52e1e17e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.83
+  ryšio_patikimumas: priklause -> Sembai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girmava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girmava" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Girmava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Girmava apibūdinta kaip sembų valsčiaus centras, todėl siejama su sembais.
 
 <a id="claim-t-90455"></a>
 - t-003
   global_id: t-90455
   teiginys: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; llm_object: [[objektai/grupes/Sembai|Sembai]]'
+  semantiniai_rysiai: 'Girmava priklausė [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -84,6 +85,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
 - susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
 - susijęs iš Lochštetė: Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.
+- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
+- susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -107,13 +110,13 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   irodymo_stiprumas: 0.00
   saltinio_vieta: 340731-340873; hash=2387f4ed816ff2f6a616d94cc433f1bbe6975e97321a9bd908b27bce52e1e17e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.83
+  ryšio_patikimumas: priklause -> Sembai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girmava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girmava" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Girmava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Girmava apibūdinta kaip sembų valsčiaus centras, todėl siejama su sembais.
     - t-001
 
 - c-002
@@ -147,3 +150,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   ryšio_subjekto_parinkimas: Girmava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girmava" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Girmava priklause [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Henrikas Stange]] keliavo_i Girmava
+- [[objektai/vietos/Lochštetė]] priklause Girmava

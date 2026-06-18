@@ -21,7 +21,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   global_id: t-72057
   teiginys: 'Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti faktą su Dembinskio rinktine.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Varšuva; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Dembinskio rinktinė|Dembinskio rinktinė]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -49,13 +50,13 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ebcac6c9985e737cacec74ecebaf105a63ec0f8473fd8a2511451afc37effca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dembinskio rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dembinskio rinktinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusai atgabeno daugiau kariuomenės į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -100,10 +101,13 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ebcac6c9985e737cacec74ecebaf105a63ec0f8473fd8a2511451afc37effca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dembinskio rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dembinskio rinktinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusai atgabeno daugiau kariuomenės į Lietuvą.
+
+## Ryšiai
+- Dembinskio rinktinė kariavo_pries [[objektai/grupes/Rusai]]

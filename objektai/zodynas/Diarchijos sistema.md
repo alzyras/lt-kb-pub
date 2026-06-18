@@ -21,19 +21,19 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   global_id: t-28579
   teiginys: 'Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.'
   sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas pagrindas, kad teiginys būtų savarankiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 685793-686039; hash=c436079535874c86bebf582e3953398ee90686724af1cfeaa26eb5dd4c62c44d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: buvo_sajungininkas_su -> Algirdas (Lietuvos valdovas): 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diarchijos sistema: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diarchijos sistema" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Susitarimas dėl bendromis jėgomis įgytų žemių leidžia atsargiai fiksuoti politinį sąjungininkų ryšį.
 - susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
 ## Reikšmingi paminėjimai
 
@@ -52,10 +52,10 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 685793-686039; hash=c436079535874c86bebf582e3953398ee90686724af1cfeaa26eb5dd4c62c44d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: buvo_sajungininkas_su -> Algirdas (Lietuvos valdovas): 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diarchijos sistema: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diarchijos sistema" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Susitarimas dėl bendromis jėgomis įgytų žemių leidžia atsargiai fiksuoti politinį sąjungininkų ryšį.

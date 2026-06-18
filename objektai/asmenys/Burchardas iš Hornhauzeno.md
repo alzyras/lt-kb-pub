@@ -33,7 +33,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   global_id: t-60094
   teiginys: 'Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'llm_object: Durbė; llm_object: Kuršas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  semantiniai_rysiai: '[[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]] mirė Durbė; [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]] mirė Kuršas'
   temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1238 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį.'
@@ -42,20 +43,21 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: pastate -> Karšuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Hornhauzeno" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sako, kad jo patvarkymu Karšuvoje buvo pastatyta pilis; konkretaus pilies objekto nėra, todėl naudojama vieta.
 
 <a id="claim-t-60095"></a>
 - t-002
   global_id: t-60095
   teiginys: 'Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]] pastatė Karšuva'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį.'
@@ -64,13 +66,13 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367822-369026; hash=68a59d75051aba50972e7fbe5805543ac0be2878283c2740c0b81c4531a87689; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Hornhauzeno" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Durbė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Durbė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Burchardas žuvo kautynėse lauke prie Durbės.
 - susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-62896|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: 1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.
 - susijęs iš Karšuvos žemė: Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.
 ## Reikšmingi paminėjimai
@@ -129,32 +131,38 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: pastate -> Karšuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Hornhauzeno" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sako, kad jo patvarkymu Karšuvoje buvo pastatyta pilis; konkretaus pilies objekto nėra, todėl naudojama vieta.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367822-369026; hash=68a59d75051aba50972e7fbe5805543ac0be2878283c2740c0b81c4531a87689; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Hornhauzeno" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Durbė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Durbė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Burchardas žuvo kautynėse lauke prie Durbės.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: pastate -> Karšuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Hornhauzeno" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Burchardo patvarkymu Karšuvoje buvo pastatyta pilis; konkretaus pilies objekto nėra tarp kandidatų.
+
+## Ryšiai
+- Burchardas iš Hornhauzeno mire [[objektai/vietos/Durbė]]
+- Burchardas iš Hornhauzeno mire [[objektai/vietos/Kuršas]]
+- Burchardas iš Hornhauzeno pastate [[objektai/vietos/Karšuva]]
+- Burchardas iš Hornhauzeno pastate [[objektai/vietos/Karšuvos žemė]]

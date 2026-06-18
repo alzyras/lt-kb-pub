@@ -130,13 +130,13 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a244ec1d6fa2ad5ccee56ab325006ece8446ec3daed87a929269c1e433c5d0c0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: gyveno -> Vilija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuviai kaimiečiai gyveno Vilijos pakrantėse.
 
 <a id="claim-t-85745"></a>
 - t-006
@@ -168,13 +168,13 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilija: 0.88
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Šventaragis: nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Vilija: nearest_after_predicate, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Šventaragis" parinktas kaip nearest_actor. Targetas "Vilija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85747"></a>
 - t-008
@@ -225,7 +225,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   global_id: t-85749
   teiginys: 'Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.'
   sudarymo_pagrindimas: 'Sutrumpintas ilgas sakinys, išlaikant citatos patvirtintą esmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_place: Paneriai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_place: Paneriai; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vilija'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -263,7 +263,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   global_id: t-85751
   teiginys: 'Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.'
   sudarymo_pagrindimas: 'Teiginys yra rišlus ir paremtas pasakojimo citata.'
-  susije_objektai: 'location: Vilija; mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-020
   irodymo_stiprumas: 0.00
@@ -405,13 +405,13 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje „ja“ tiesiogiai nurodo prieš tai minimą Barborą, todėl sakinys patvirtina Augusto santuoką su Barbora.
 
 <a id="claim-t-85759"></a>
 - t-020
@@ -475,7 +475,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   global_id: t-85762
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -876,13 +876,13 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje „ja“ tiesiogiai nurodo prieš tai minimą Barborą, todėl sakinys patvirtina Augusto santuoką su Barbora.
     - t-011
 
 - c-011
@@ -1165,13 +1165,13 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilija: 0.88
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Šventaragis: nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Vilija: nearest_after_predicate, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Šventaragis" parinktas kaip nearest_actor. Targetas "Vilija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-019
@@ -1363,10 +1363,10 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a244ec1d6fa2ad5ccee56ab325006ece8446ec3daed87a929269c1e433c5d0c0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: gyveno -> Vilija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuviai kaimiečiai gyveno Vilijos pakrantėse.

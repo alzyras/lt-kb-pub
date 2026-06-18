@@ -53,20 +53,21 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Turčinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Turčinas: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Turčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Turčinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Leipcigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Turčinas tiesiogiai minimas kaip nuvežęs pinigus į Leipcigą.
 
 <a id="claim-t-83729"></a>
 - t-003
   global_id: t-83729
   teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.'
   sudarymo_pagrindimas: 'Perrašyta į pilną faktinį sakinį su citatoje nurodytu veiksmu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]'
+  susije_objektai: 'llm_object: Leipcigas; mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Turčinas|Turčinas]] keliavo į Leipcigas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -158,13 +159,13 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Turčinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Turčinas: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Turčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Turčinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Leipcigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Turčinas tiesiogiai minimas kaip nuvežęs pinigus į Leipcigą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bbc96ee6e62bee734214199f58f7198537d85ea2c699ad142be9ea55c7bb389; match=fallback; occurrences=0
@@ -211,3 +212,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Liublinas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Turčinas]] keliavo_i Leipcigas

@@ -54,7 +54,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   global_id: t-93933
   teiginys: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Panemunė; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  susije_objektai: 'llm_object: Drohičinas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Panemunė; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė Drohičinas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Drohičinas'
   temporaliniai_duomenys: 'įvykio data: 1394 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą įvykį.'
@@ -103,26 +104,28 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - t-006
   global_id: t-93936
   teiginys: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Drohičinas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Drohičinas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Drohičinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drohičinas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Drohičinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Drohičino sudeginimas tiesiogiai siejamas su Švitrigailos žygiu.
 
 <a id="claim-t-93937"></a>
 - t-007
   global_id: t-93937
   teiginys: 'Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima platesnį kontekstą; citata leidžia glaustai formuluoti faktą apie Drohičiną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingų kraštas; mentioned_place: Juodoji Rusija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingų kraštas; mentioned_place: Juodoji Rusija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Voluinė; llm_object: Drohičinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] užėmė Drohičinas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -176,7 +179,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Mazovija; territory: Belskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Belskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Belskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1444 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -201,20 +204,20 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Legendinis kronikos pasakojimas paliktas su šaltinio atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingų kraštas; mentioned_place: Juodoji Rusija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingų kraštas; mentioned_place: Juodoji Rusija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Voluinė; llm_object: Drohičinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] užėmė Drohičinas'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
+  ryšio_patikimumas: keliavo_i -> Drohičinas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Belskas: candidate; Lenkija: candidate; Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas" parinktas kaip nearest_actor_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 39, "match_index": 68, "path": "objektai/vietos/Belskas.md", "selected": false, "strategy": "candidate", "title": "Belskas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo Vytauto išvykimą į Drohičiną.
 
 <a id="claim-t-187573"></a>
 - t-012
@@ -237,9 +240,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   ryšio_subjekto_parinkimas: Drohičinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jurgis Nosuta: mention_match, person, gap=58
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drohičinas" parinktas kaip owner_note_path. Targetas "Jurgis Nosuta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
+- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
+- susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
@@ -254,6 +257,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - susijęs iš Mazovija: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš Melnikas: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš Palenkė: Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.
+- susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liudvikas Bavaras.md#claim-t-60052|Liudvikas Bavaras]]: 1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste.
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
@@ -268,6 +272,8 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - susijęs iš Vladimiras: Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.
 - susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -416,13 +422,13 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Drohičinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drohičinas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Drohičinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Drohičino sudeginimas tiesiogiai siejamas su Švitrigailos žygiu.
     - t-008
 
 - c-007
@@ -558,14 +564,13 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
+  ryšio_patikimumas: keliavo_i -> Drohičinas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Belskas: candidate; Lenkija: candidate; Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas" parinktas kaip nearest_actor_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 39, "match_index": 68, "path": "objektai/vietos/Belskas.md", "selected": false, "strategy": "candidate", "title": "Belskas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Drohičinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo Vytauto išvykimą į Drohičiną.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219609-220220; hash=5c8ef74770f3cce06a62fc841f9b6788c8c5621ef46c2bd31e7a2370ac2ce884; match=whitespace_regex
@@ -579,5 +584,13 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drohičinas" parinktas kaip owner_note_path. Targetas "Jurgis Nosuta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] uzeme Drohičinas
-- [[objektai/grupes/Mazovijos kunigaikščiai]] uzeme Drohičinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Drohičinas
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] uzeme Drohičinas
+- [[objektai/asmenys/Gediminas]] uzeme Drohičinas
+- Drohičinas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Jurgis Nosuta]] valde_miesta Drohičinas
+- [[objektai/asmenys/Švitrigaila]] puole Drohičinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Drohičinas
+- [[objektai/asmenys/Vytenis]] uzeme Drohičinas
+- Drohičinas priklause [[objektai/vietos/Mazovija]]
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Drohičinas

@@ -54,25 +54,27 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-001
   global_id: t-54947
   teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.'
-  susije_objektai: 'mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Augustas|Augustas]]; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; llm_object: Barboros rūmai Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] buvo žmona [[objektai/asmenys/Augustas|Augustas]]; [[objektai/asmenys/Augustas|Augustas]] vedė [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] gyveno Barboros rūmai Vilniuje'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Augustas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad Augustas susituokė su Barbora.
 
 <a id="claim-t-54948"></a>
 - t-002
   global_id: t-54948
   teiginys: 'Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_place: Auksinė; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Augustas|Augustas]]; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_place: Auksinė; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] buvo žmona [[objektai/asmenys/Augustas|Augustas]]; [[objektai/asmenys/Augustas|Augustas]] vedė [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   temporaliniai_duomenys: 'įvykio data: 1547 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -81,32 +83,33 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 548618-549175; hash=1f75fd115adfdef087fd13cb6b76adbee86a51c6b0082a0538e6500927150707; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: vede -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.90
+  ryšio_patikimumas: buvo_zmona -> Augustas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): nearest_person_after_predicate, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Santuoka tiesiogiai pagrindžia Barboros žmonos ryšį su Augustu.
 
 <a id="claim-t-54949"></a>
 - t-003
   global_id: t-54949
   teiginys: 'Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad faktas būtų tiesiogiai apie Barborą Radvilaitę.'
-  susije_objektai: 'mentioned_place: Barboros rūmai Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Barboros rūmai Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Barboros rūmai Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] gyveno Barboros rūmai Vilniuje'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
+  ryšio_patikimumas: gyveno -> Barboros rūmai Vilniuje: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Barbora gyveno rūmuose, o citata identifikuoja Barboros rūmus.
 
 <a id="claim-t-54950"></a>
 - t-004
@@ -172,19 +175,20 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-007
   global_id: t-54953
   teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] buvo žmona [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 554870-555273; hash=83d5fefe7868a6c50051bff93d4929d9ec675037484d0e2245b9d92c8d1a4fb6; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Barborą vadina Augusto mylima žmona.
 
 <a id="claim-t-54954"></a>
 - t-008
@@ -236,19 +240,20 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   global_id: t-173121
   teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Barboros kilmę ir našlės statusą.'
-  susije_objektai: 'mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] vedė [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Augustas susituokė su Barbora.
 
 <a id="claim-t-173122"></a>
 - t-012
@@ -292,7 +297,8 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tiesioginė kalba perrašyta į aiškų faktą su kalbėtoju.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] buvo žmona [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -305,7 +311,11 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gzovskis: mention_match, person, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Gzovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
+- susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183848|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.
+- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
+- susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
+- susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185538|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
 - susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
@@ -381,6 +391,12 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
 - susijęs iš [[objektai/zodynas/lėnininkai.md#claim-t-36808|lėnininkai]]: Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86537|mansionieriai]]: Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.
+- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+- susijęs iš Vilija: Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+- susijęs iš [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos.md#claim-t-87019|Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]: Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+- susijęs iš [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos.md#claim-t-87018|Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]: Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.
+- susijęs iš [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai.md#claim-t-87042|Žygimanto Augusto pilies bažnyčių pastatai]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui.
+- susijęs iš Šv. Barboros bažnyčia Žemutinėje pilyje: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -410,13 +426,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 548618-549175; hash=1f75fd115adfdef087fd13cb6b76adbee86a51c6b0082a0538e6500927150707; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: vede -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.90
+  ryšio_patikimumas: buvo_zmona -> Augustas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): nearest_person_after_predicate, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Santuoka tiesiogiai pagrindžia Barboros žmonos ryšį su Augustu.
     - t-004
 
 - c-002
@@ -506,13 +522,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 554870-555273; hash=83d5fefe7868a6c50051bff93d4929d9ec675037484d0e2245b9d92c8d1a4fb6; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Barborą vadina Augusto mylima žmona.
     - t-008
 
 - c-005
@@ -598,35 +614,35 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Augustas susituokė su Barbora.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Augustas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad Augustas susituokė su Barbora.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 548618-549175; hash=1f75fd115adfdef087fd13cb6b76adbee86a51c6b0082a0538e6500927150707; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: vede -> Žygimantas Augustas (arkivyskupas, XVI a.): 0.90
+  ryšio_patikimumas: buvo_zmona -> Augustas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): nearest_person_after_predicate, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Santuoka tiesiogiai pagrindžia Barboros žmonos ryšį su Augustu.
     - t-003
 
 - c-007
@@ -653,13 +669,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barboros rūmai Vilniuje: 0.85
+  ryšio_patikimumas: gyveno -> Barboros rūmai Vilniuje: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barbora Radvilaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Barboros rūmai Vilniuje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barboros rūmai Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Barbora gyveno rūmuose, o citata identifikuoja Barboros rūmus.
     - t-010
     - t-006
 
@@ -755,5 +771,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barbora Radvilaitė" parinktas kaip owner_note_path. Targetas "Gzovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Fridrichas]] buvo_brolis Barbora Radvilaitė
-- Barbora Radvilaitė vede [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]] buvo_vyras Barbora Radvilaitė
+- Barbora Radvilaitė buvo_zmona [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] vede Barbora Radvilaitė
+- [[objektai/asmenys/Augustas]] buvo_vyras Barbora Radvilaitė
+- [[objektai/asmenys/Augustas]] vede Barbora Radvilaitė
+- Barbora Radvilaitė buvo_zmona [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/vietos/Barboros rūmai Vilniuje]] priklause Barbora Radvilaitė
+- Barbora Radvilaitė gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
+- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]] priklause Barbora Radvilaitė
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] buvo_vyras Barbora Radvilaitė

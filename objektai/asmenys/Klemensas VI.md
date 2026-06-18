@@ -78,3 +78,6 @@ Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus 
   ryšio_subjekto_parinkimas: Klemensas VI: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemensas VI" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Klemensas VI kariavo_pries [[objektai/grupes/Lietuviai]]

@@ -36,26 +36,27 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - t-002
   global_id: t-68378
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  susije_objektai: 'mentioned_place: Šiauliai; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]'
+  susije_objektai: 'llm_object: Šiauliai; mentioned_place: Šiauliai; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=068f82b1e322effe6293c72a083c93391fafc7eddf11dad230da494f2a0c72a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršėnai" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kuršėnai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bermontininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bermontininkai tiesiogiai minimi kaip įžengę į Kuršėnus.
 
 <a id="claim-t-68379"></a>
 - t-003
   global_id: t-68379
   teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai aprašo bermontininkų įžengimą į Kuršėnus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]'
+  susije_objektai: 'llm_object: Kuršėnai; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]'
+  semantiniai_rysiai: '[[objektai/grupes/Bermontininkai|Bermontininkai]] keliavo į Kuršėnai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai aprašo bermontininkų įžengimą į Kuršėnus.'
@@ -64,13 +65,13 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=929395a760dfafdd3317a60c912ec338b5f23f3fcdec0d0838a03055cf735b37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šiauliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šiauliai: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršėnai" parinktas kaip owner_note_path. Targetas "Šiauliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Šiauliai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Virgoličiaus rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rinktinės persikėlimą į Šiaulius.
 
 <a id="claim-t-183039"></a>
 - t-004
@@ -93,6 +94,9 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - susijęs iš Dauguva: Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.
 - susijęs iš Kuršo pasienis: Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.
 - susijęs iš Šiauliai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
+- susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40509|Virgoličius]]: 1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.
+- susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66496|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
+- susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -131,13 +135,13 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=929395a760dfafdd3317a60c912ec338b5f23f3fcdec0d0838a03055cf735b37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šiauliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šiauliai: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršėnai" parinktas kaip owner_note_path. Targetas "Šiauliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Šiauliai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Virgoličiaus rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rinktinės persikėlimą į Šiaulius.
     - t-002
 
 - c-003
@@ -162,13 +166,13 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=068f82b1e322effe6293c72a083c93391fafc7eddf11dad230da494f2a0c72a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršėnai" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kuršėnai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bermontininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bermontininkai tiesiogiai minimi kaip įžengę į Kuršėnus.
     - t-001
 
 - c-004
@@ -194,3 +198,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=929395a760dfafdd3317a60c912ec338b5f23f3fcdec0d0838a03055cf735b37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Bermontininkai]] keliavo_i Kuršėnai
+- [[objektai/grupes/Bermontininkai]] uzeme Kuršėnai
+- [[objektai/grupes/Virgoličiaus rinktinė]] keliavo_i Kuršėnai

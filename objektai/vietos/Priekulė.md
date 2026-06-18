@@ -27,7 +27,8 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   global_id: t-42043
   teiginys: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir pašalina sąrašo numeravimo triukšmą.'
-  susije_objektai: 'location: Kretinga; mentioned_place: Kretinga; mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_place: Kretinga; llm_object: Latvija; mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Šiauliai'
+  semantiniai_rysiai: 'Priekulė priklausė Latvija'
   temporaliniai_duomenys: 'kelionės data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir pašalina sąrašo numeravimo triukšmą.'
@@ -36,12 +37,13 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da12eaf3d86c095f6c3042929ddc56757cf6d82a059be73b0e284e8ff95cf83f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kretinga: 0.96
+  ryšio_patikimumas: priklause -> Latvija: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Kretinga: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Kretinga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Priekulė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Priekulė tekste įvardyta kaip Latvijos vieta.
 - susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 ## Reikšmingi paminėjimai
@@ -63,9 +65,13 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da12eaf3d86c095f6c3042929ddc56757cf6d82a059be73b0e284e8ff95cf83f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kretinga: 0.96
+  ryšio_patikimumas: priklause -> Latvija: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Kretinga: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Kretinga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Priekulė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Priekulė tekste įvardyta kaip Latvijos vieta.
+
+## Ryšiai
+- Priekulė priklause [[objektai/vietos/Latvija]]

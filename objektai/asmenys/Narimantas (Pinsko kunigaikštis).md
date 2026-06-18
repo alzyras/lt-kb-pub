@@ -22,20 +22,19 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai apibendrina citatos informaciją apie Narimantą.'
-  susije_objektai: 'territory: Pinskas; mentioned_place: Pinskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]] buvo valdovas Pinskas'
+  susije_objektai: 'mentioned_place: Pinskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552911-553461; hash=dffd62ed68c048df73f7b13b264d2e7e3e05871313b00de9ffe2abb184673052; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pinskas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Pinskas: exact_title_context, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_after_title. Targetas "Pinskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Pinskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pinskas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Pinskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186074"></a>
 - t-002
@@ -45,19 +44,22 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Narimanto žūties aplinkybes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; llm_object: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo priešas [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 553752-554404; hash=40e89b1a2d7ef4a999929eb1dfeda890a8a7e52e644e08ba29d17e015a6763e5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
+  ryšio_patikimumas: buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
+- susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184687|Daumantas (kunigaikštis, XV a.)]]: Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.
 - susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
@@ -75,6 +77,7 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Utena: Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184687|Daumantas (kunigaikštis, XV a.)]]: Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -125,26 +128,33 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552911-553461; hash=dffd62ed68c048df73f7b13b264d2e7e3e05871313b00de9ffe2abb184673052; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pinskas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Pinskas: exact_title_context, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_after_title. Targetas "Pinskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-    - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 553752-554404; hash=40e89b1a2d7ef4a999929eb1dfeda890a8a7e52e644e08ba29d17e015a6763e5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
+  ryšio_patikimumas: susije_su -> Pinskas: 0.83
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_targeto_parinkimas: Pinskas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas (Pinsko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Pinskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+    - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 553752-554404; hash=40e89b1a2d7ef4a999929eb1dfeda890a8a7e52e644e08ba29d17e015a6763e5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį.
 
 ## Ryšiai
-- Narimantas (Pinsko kunigaikštis) buvo_valdovas [[objektai/vietos/Pinskas]]
-- Narimantas (Pinsko kunigaikštis) valde_teritorija [[objektai/vietos/Turovas]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] buvo_sunus Narimantas (Pinsko kunigaikštis)
+- Narimantas (Pinsko kunigaikštis) valde [[objektai/vietos/Pinskas]]
+- Narimantas (Pinsko kunigaikštis) valde [[objektai/vietos/Turovas]]
+- Narimantas (Pinsko kunigaikštis) apgule [[objektai/vietos/Utena]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]] buvo_sunus Narimantas (Pinsko kunigaikštis)
+- Narimantas (Pinsko kunigaikštis) buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Narimantas (Pinsko kunigaikštis) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Narimantas (Pinsko kunigaikštis) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_priesas Narimantas (Pinsko kunigaikštis)
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_priesas Narimantas (Pinsko kunigaikštis)

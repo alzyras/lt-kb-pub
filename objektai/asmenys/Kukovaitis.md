@@ -91,3 +91,11 @@ atnaujinta: ''
   ryšio_subjekto_parinkimas: Kukovaitis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kukovaitis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Kukovaitis pastate [[objektai/daiktai/Pajautos stabas]]
+- Kukovaitis buvo_sunus [[objektai/asmenys/Pajauta]]
+- Kukovaitis buvo_valdovas [[objektai/vietos/Naugardukas]]
+- Kukovaitis reme [[objektai/asmenys/Skirmantas]]
+- Kukovaitis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Kukovaitis siunte_i [[objektai/vietos/Kijevo Rusia]]

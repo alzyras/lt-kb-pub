@@ -59,7 +59,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   global_id: t-97213
   teiginys: 'Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.'
   sudarymo_pagrindimas: 'Reikia sugramatinti darbų apibūdinimą ir aiškiau susieti antrą temą su autoriumi.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/B. Dundulis|B. Dundulis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_author: [[objektai/autoriai/B. Dundulis|B. Dundulis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1966 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sugramatinti darbų apibūdinimą ir aiškiau susieti antrą temą su autoriumi.'
@@ -68,20 +68,20 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 275763-276249; hash=20c93caac410938ffee4f3dd32d060582f5bae9917113c3983095e6c6d773a39; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romas Batūra: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romas Batūra" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė apie kalavijuočių sutriuškinimą tiesiogiai rodo karinį konfliktą.
 
 <a id="claim-t-97214"></a>
 - t-005
   global_id: t-97214
   teiginys: 'Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su Saulės mūšio aiškinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus ryšį su Saulės mūšio aiškinimu.'
@@ -138,13 +138,13 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 275763-276249; hash=20c93caac410938ffee4f3dd32d060582f5bae9917113c3983095e6c6d773a39; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romas Batūra: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romas Batūra" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė apie kalavijuočių sutriuškinimą tiesiogiai rodo karinį konfliktą.
     - t-001
 
 - c-003

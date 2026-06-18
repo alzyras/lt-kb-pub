@@ -57,20 +57,21 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Sierakauskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Sierakauskas netrukus buvo viešai pakartas Vilniuje.
 
 <a id="claim-t-64422"></a>
 - t-003
   global_id: t-64422
   teiginys: 'Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_place: Kaunas; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]] mirė Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -297,13 +298,13 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Sierakauskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Sierakauskas netrukus buvo viešai pakartas Vilniuje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ee95f690341d8a59a138f5444213828176cdd3ab3dec63761b0d4a0b232cb64; match=fallback; occurrences=0
@@ -315,3 +316,9 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
   ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Sierakauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Zigmantas Sierakauskas mire [[objektai/vietos/Vilnius]]
+- Zigmantas Sierakauskas paskyre [[objektai/asmenys/Antanas Mackevičius]]
+- Zigmantas Sierakauskas keliavo_i [[objektai/vietos/Svėdasai]]
+- Zigmantas Sierakauskas keliavo_i [[objektai/vietos/Kaunas]]

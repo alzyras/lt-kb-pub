@@ -24,7 +24,14 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   pagrindžia:
     - c-001
     - c-002
-- susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90033|Sventopelkas]]: Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.
+- susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
+- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87519|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupas Isamas, kaip Bonifacijaus atstovas, sudarė taiką ir paliaubas tarp lietuvių ir Teutonų ordino brolių.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
+- susijęs iš [[objektai/asmenys/Kazimieras (Konrado sūnus).md#claim-t-60355|Kazimieras (Konrado sūnus)]]: Kazimieras pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
+- susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66830|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-184046|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60082|Anonas (didysis magistras)]]: Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną.
@@ -116,6 +123,11 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
 - susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/zodynas/pasaulietis.md#claim-t-58863|pasaulietis]]: Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.
+- susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97214|Romas Batūra]]: Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
+- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Aleksandras IV.md#claim-t-60233|Aleksandras IV]]: 1253 m. popiežius Aleksandras IV sėdėjo apaštališkajame soste, o imperatoriaus sostas buvo neužimtas.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
@@ -379,6 +391,30 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58798|pilėnas pilėnai]]: Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
+- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62796|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.
+- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62797|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.
+- susijęs iš Diunamiundė: 1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
+- susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
+- susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
+- susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
+- susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
+- susijęs iš [[objektai/asmenys/Giunteris (Mazovijos vyskupas).md#claim-t-60292|Giunteris (Mazovijos vyskupas)]]: Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
+- susijęs iš [[objektai/asmenys/Grigalius IX.md#claim-t-184074|Grigalius IX]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių.
+- susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
+- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
+- susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
+- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62797|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.
+- susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
+- susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89879|Jėzus Kristus]]: Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78401|Notangai]]: Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.
+- susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62796|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.
+- susijęs iš [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai.md#claim-t-59068|Prisirenkite ir būkite drąsūs vyrai]]: Popiežius Grigalius IX ragino brolius į kovą žodžiais „Prisirenkite ir būkite drąsūs vyrai“.
+- susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.
+- susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
+- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66553|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -406,6 +442,40 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     - t-001
 
 ## Ryšiai
+- [[objektai/vietos/Kulmas]] priklause Teutonai
+- [[objektai/vietos/Lubava]] priklause Teutonai
+- [[objektai/asmenys/Sventopelkas]] kariavo_pries Teutonai
+- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Teutonai
+- Teutonai pastate [[objektai/vietos/Mevė]]
+- [[objektai/asmenys/Jordanas iš Pelplino]] gyne Teutonai
+- [[objektai/vietos/Lubavos žemė]] priklause Teutonai
+- [[objektai/asmenys/Paulius iš Olivos]] gyne Teutonai
+- Teutonai pastate [[objektai/daiktai/Kuoras aukštai ąžuole]]
+- Teutonai puole [[objektai/vietos/Dramenava]]
 - Teutonai uzeme [[objektai/vietos/Partigala]]
+- Teutonai uzkariavo [[objektai/vietos/Prūsai]]
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]] reme Teutonai
+- [[objektai/grupes/Lietuvos luomai]] gyne Teutonai
+- [[objektai/vietos/Diunamiundė]] priklause Teutonai
+- [[objektai/asmenys/Grigalius IX]] sudare_sutarti_su Teutonai
+- [[objektai/vietos/Vancka]] priklause Teutonai
+- Teutonai gyveno [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Konradas iš Foichtvangeno]] reme Teutonai
+- [[objektai/daiktai/Namas]] priklause Teutonai
+- [[objektai/asmenys/Popiežius Celestinas III]] paskyre Teutonai
+- Teutonai pastate [[objektai/vietos/Štarkenbergas]]
+- [[objektai/asmenys/Grigalius IX]] paskyre Teutonai
+- [[objektai/vietos/Prūsija]] priklause Teutonai
 - Teutonai keliavo_i [[objektai/vietos/Prūsija]]
-- [[objektai/asmenys/Celestinas III]] paskyre Teutonai
+- Teutonai pastate [[objektai/vietos/Malburgas]]
+- Teutonai pastate [[objektai/vietos/Poterbergas]]
+- Teutonai pastate [[objektai/vietos/Torunė]]
+- Teutonai uzeme [[objektai/vietos/Diunamiundė]]
+- [[objektai/asmenys/Grigalius IX]] reme Teutonai
+- [[objektai/asmenys/Jėzus Kristus]] reme Teutonai
+- [[objektai/grupes/Notangai]] kariavo_pries Teutonai
+- Teutonai gyne [[objektai/vietos/Lenkija]]
+- Teutonai buvo_priesas [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Notangai]] priklause Teutonai
+- [[objektai/grupes/Varmiai]] priklause Teutonai
+- Teutonai puole [[objektai/vietos/Treiderės upė]]

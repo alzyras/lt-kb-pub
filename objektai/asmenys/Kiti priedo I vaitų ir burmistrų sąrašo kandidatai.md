@@ -71,7 +71,7 @@ periodo_grupes: []
   global_id: t-87351
   teiginys: 'Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją.'
-  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Petras Pliuščius|Petras Pliuščius]]'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Petras Pliuščius|Petras Pliuščius]]; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka cituojamą sąrašo informaciją.'
@@ -80,13 +80,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Motiejus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Motiejus Božiminskis paskirtas Vilniaus vaitu; kandidatuose yra tik bendras Motiejaus asmens puslapis.
 
 <a id="claim-t-87352"></a>
 - t-004
@@ -363,10 +363,10 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kiti priedo I vaitų ir burmistrų sąrašo kandidatai: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kiti priedo I vaitų ir burmistrų sąrašo kandidatai" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Motiejus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Motiejus Božiminskis paskirtas Vilniaus vaitu; kandidatuose yra tik bendras Motiejaus asmens puslapis.

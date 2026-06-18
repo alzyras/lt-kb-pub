@@ -56,19 +56,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta OCR ir įvardis išplėstas į aiškų veikėją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Brianskas; llm_object: Perejeslavlis; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kanevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kanevas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brianskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai įvardytas kaip užėmęs Brianską.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
@@ -78,6 +78,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Kutlubugas.md#claim-t-186230|Kutlubugas]]: Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dalis padalytą kariuomenę prie Mėlynųjų Vandenų.
 - susijęs iš Cerkasai: XVI a. vidurio Kanevo pilies padavime sakoma, kad Gediminas įkūrė Kanevą ir Cerkasus.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -135,10 +136,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kanevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kanevas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brianskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai įvardytas kaip užėmęs Brianską.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Kanevas

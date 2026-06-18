@@ -84,19 +84,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas OCR ir puslapio triukšmas; sakinys tapo išsamus ir faktinis.'
-  susije_objektai: 'territory: Mstislavlis; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Mstislavlis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 789750-790227; hash=863ba6e88a07747ae8d639e81686e18857e9692274259f48ec8c9bb0cea429ff; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Mstislavlis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=44
-  ryšio_targeto_parinkimas: Mstislavlis: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Mstislavlis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Mstislavlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -203,10 +203,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 789750-790227; hash=863ba6e88a07747ae8d639e81686e18857e9692274259f48ec8c9bb0cea429ff; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Mstislavlis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=44
-  ryšio_targeto_parinkimas: Mstislavlis: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Mstislavlis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Mstislavlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

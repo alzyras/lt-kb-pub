@@ -44,19 +44,20 @@ Nenurodyta
   global_id: t-87088
   teiginys: 'Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir suformuluoti sklandų sakinį.'
-  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; llm_object: Pilaitė; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Pilaitė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135534-136200; hash=e3f946930062c8428641162dd0f40d11a4614d1502fcd5d81733ab1aec888904; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilaitė: 0.85
+  ryšio_patikimumas: priklause -> Pilaitė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės kunigaikščių pilis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pilaitė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės kunigaikščių pilis" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilaitės kunigaikščių pilis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pilis tiesiogiai lokalizuojama Pilaitėje; daikto priklausymo vietai ryšys yra tinkamiausias iš leistinų.
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
 ## Reikšmingi paminėjimai
 
@@ -88,10 +89,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135534-136200; hash=e3f946930062c8428641162dd0f40d11a4614d1502fcd5d81733ab1aec888904; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilaitė: 0.85
+  ryšio_patikimumas: priklause -> Pilaitė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės kunigaikščių pilis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pilaitė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės kunigaikščių pilis" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilaitės kunigaikščių pilis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pilis tiesiogiai lokalizuojama Pilaitėje; daikto priklausymo vietai ryšys yra tinkamiausias iš leistinų.
+
+## Ryšiai
+- Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Pilaitė]]

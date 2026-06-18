@@ -21,19 +21,19 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - t-001
   global_id: t-36596
   teiginys: 'Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Užnemunė; mentioned_place: Vilnius; llm_object: Užnemunė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34c35244f268dd4575e662bfcbc00a77f93d7fa8ebb45feb91945b0b2bd0e5bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tamova: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tamova" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Užnemunė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nurodomas pasiųstas į Užnemunę.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
 - susijęs iš Nemunas: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.
 - susijęs iš Insterburgas: Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
@@ -62,10 +62,10 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34c35244f268dd4575e662bfcbc00a77f93d7fa8ebb45feb91945b0b2bd0e5bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tamova: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tamova" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Užnemunė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nurodomas pasiųstas į Užnemunę.

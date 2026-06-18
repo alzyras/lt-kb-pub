@@ -54,7 +54,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90672
   teiginys: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/A. Hitleris|A. Hitleris]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/A. Hitleris|A. Hitleris]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: Vokietija'
+  semantiniai_rysiai: 'Klaipėda priklausė Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, aiškus ir tiesiogiai pagrįstas citata.'
@@ -66,7 +67,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90673
   teiginys: 'Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir išlaikytas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_place: Sniečkus; mentioned_place: Vilnius; mentioned_place: Visaginas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_place: Sniečkus; mentioned_place: Vilnius; mentioned_place: Visaginas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Klaipėda; llm_object: Vilnius; llm_object: Sniečkus'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] gyveno Klaipėda'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir išlaikytas citata pagrįstas faktas.'
@@ -96,7 +98,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90677
   teiginys: 'Žemaičiai puolė Klaipėdą, o Ordinas nepajėgė priešintis ir rugsėjį sudarė paliaubas su Žygimantu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Klaipėda; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Klaipėda'
   pagrindžia:
     - c-016
 
@@ -124,7 +127,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90679
   teiginys: 'Vokiečių nacių organizacijoms stiprėjant, Klaipėda slydo iš Lietuvos kontrolės.'
   sudarymo_pagrindimas: 'Citata leidžia teiginį papildyti aiškesniu kontekstu ir veiksniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: Lietuva'
+  semantiniai_rysiai: 'Klaipėda priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį papildyti aiškesniu kontekstu ir veiksniu.'
@@ -155,13 +159,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.85
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių siekis išsaugoti blokuojamą Georgenburgą rodo gynybinį santykį.
 
 <a id="claim-t-90681"></a>
 - t-009
@@ -177,13 +181,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių siekis išsaugoti blokuojamą Georgenburgą rodo gynybinį santykį.
 
 <a id="claim-t-90682"></a>
 - t-010
@@ -196,20 +200,21 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0875a3483d9a062c18b759d64853631eb350af99c6647624e0aa766ab779fdfb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Husitai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Husitai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad žemaičiai puolė Klaipėdą.
 
 <a id="claim-t-90683"></a>
 - t-011
   global_id: t-90683
   teiginys: '1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Klaipėdos sunaikinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Klaipėda; llm_object: Semba; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba; llm_object: Dobrynė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Klaipėda'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Klaipėdos sunaikinimą.'
@@ -221,7 +226,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90685
   teiginys: 'Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Klaipėdos apylinkes ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas; llm_object: Klaipėda'
+  semantiniai_rysiai: '[[objektai/grupes/Kuršiai|Kuršiai]] gyveno Klaipėda'
   pagrindžia:
     - c-019
 
@@ -242,7 +248,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90687
   teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Klaipėdos valdymą pagal Versalio sutartį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Klaipėda priklausė [[objektai/grupes/Prancūzai|Prancūzai]]'
   pagrindžia:
     - c-015
 
@@ -288,13 +295,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e1748d8f9df1918817f8d90b9d433eac2d81153d450627dc626a4d90ef6b0258; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klaipėdos uostas apibūdinamas kaip vienintelis Lietuvos išėjimas į jūrą, nors tai nėra tiesioginis valdymo teiginys.
 
 <a id="claim-t-90692"></a>
 - t-019
@@ -307,20 +314,20 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129212-129416; hash=28dfda667e8a032c931574d2c60beee764e41f21116314492f86ccf43b2c897e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prancūzai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Klaipėdą valdė prancūzų administracija.
 
 <a id="claim-t-90693"></a>
 - t-020
   global_id: t-90693
   teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Klaipėdoje telktas pajėgas.'
-  susije_objektai: 'mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija; llm_object: Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Klaipėdoje telktas pajėgas.'
@@ -354,7 +361,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90695
   teiginys: 'Žoržo B. Klemanso rašte Prancūzija aiškino, kad Klaipėdos uostas yra vienintelis Lietuvos išėjimas į jūrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir citata pagrindžia Prancūzijos poziciją dėl Klaipėdos uosto.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prancūzija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prancūzija; mentioned_place: Vokietija; llm_object: Lietuva'
+  semantiniai_rysiai: 'Klaipėda priklausė Lietuva'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -373,7 +381,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90696
   teiginys: 'Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, pašalintas OCR triukšmas ir išlaikyta šaltinio paremta mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prieglius'
+  susije_objektai: 'llm_object: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prieglius'
   temporaliniai_duomenys: 'įvykio data: 1253-1254; įvykio data: 1254 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas, pašalintas OCR triukšmas ir išlaikyta šaltinio paremta mintis.'
@@ -395,7 +403,8 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90697
   teiginys: 'Jogailos ir Vytauto atstovai teigė, kad kryžiuočiai buvo užėmę Žemaičių žemėje pastatytą Klaipėdos pilį.'
   sudarymo_pagrindimas: 'Sutrumpinta ir pašalintos citavimo žymės bei išnaša.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: Klaipėda; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Klaipėda'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -442,13 +451,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ee43a9795d1c7a2d93ab50d875e8d55f29ba8b65b69ace2fe24bf65f711941c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė rodo, kad Klaipėda buvo Lietuvos kontrolėje, nors ši kontrolė silpo.
 
 <a id="claim-t-90702"></a>
 - t-027
@@ -461,13 +470,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e07c8fade826a3bc91334ab6c2e4b588556610a629e615571d470b82a8e174c8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Hitleris: 0.83
+  ryšio_patikimumas: priklause -> Vokietija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: A. Hitleris: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "A. Hitleris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klaipėdos teritorijos perdavimo sutartis nurodo Klaipėdos perėjimą Vokietijai.
 
 <a id="claim-t-90703"></a>
 - t-028
@@ -504,20 +513,20 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ddd1e159e42f231ab78433b4e90f59ba32fce05d6fecb858c4136ce6065deda; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Nemunas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Prūsų ordinas užvaldė Nemuno deltą; kandidatas atitinka Kryžiuočių ordiną.
 
 <a id="claim-t-90706"></a>
 - t-031
   global_id: t-90706
   teiginys: 'Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Georgenburgas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Durbė; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Georgenburgas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Durbė; mentioned_place: Livonija; llm_object: Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -539,26 +548,28 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90707
   teiginys: 'Prūsijoje kai kurie uostai, tarp jų Klaipėda, šešeriems metams buvo palikti švedams.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir turi skliaustinį kontekstą, nebūtiną teiginiui apie Klaipėdą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Ryga'
+  semantiniai_rysiai: 'Klaipėda priklausė [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5c16c0ec4aa06cdaa6eccf8a3b9fe3ffa64cf26e05167835262525145911060; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad žemaičiai sudegino Klaipėdą.
 
 <a id="claim-t-90708"></a>
 - t-033
   global_id: t-90708
   teiginys: '1402 m. gegužę žemaičiai sudegino Klaipėdą, o Vytautas Nevėžio žiotyse sugriovė Gotteswerderį.'
   sudarymo_pagrindimas: 'Pašalintas išnašos triukšmas ir pataisyta rašyba.'
-  susije_objektai: 'mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  susije_objektai: 'llm_object: Klaipėda; mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Klaipėda'
   temporaliniai_duomenys: 'įvykio data: 1402 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos triukšmas ir pataisyta rašyba.'
@@ -650,6 +661,9 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 - susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš Širvintos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš Prūsija: 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.
+- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
+- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -733,13 +747,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ee43a9795d1c7a2d93ab50d875e8d55f29ba8b65b69ace2fe24bf65f711941c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė rodo, kad Klaipėda buvo Lietuvos kontrolėje, nors ši kontrolė silpo.
     - t-033
 
 - c-005
@@ -784,13 +798,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129212-129416; hash=28dfda667e8a032c931574d2c60beee764e41f21116314492f86ccf43b2c897e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prancūzai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Klaipėdą valdė prancūzų administracija.
     - t-025
 
 - c-007
@@ -868,35 +882,35 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e07c8fade826a3bc91334ab6c2e4b588556610a629e615571d470b82a8e174c8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Hitleris: 0.83
+  ryšio_patikimumas: priklause -> Vokietija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: A. Hitleris: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "A. Hitleris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klaipėdos teritorijos perdavimo sutartis nurodo Klaipėdos perėjimą Vokietijai.
     - t-035
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=256d4101f5a9ea63c0a548a2a05d50ff9cbe6eec10878f50a20b372a7164fd33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Klaipėda: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad kryžiuočiai buvo užėmę Klaipėdos pilį.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių siekis išsaugoti blokuojamą Georgenburgą rodo gynybinį santykį.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c503c29cc2f55a073aca806cdeccb9b503eef931ea1414f69ba3560b9c6b3e2; match=fallback; occurrences=0
@@ -953,13 +967,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5c16c0ec4aa06cdaa6eccf8a3b9fe3ffa64cf26e05167835262525145911060; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad žemaičiai sudegino Klaipėdą.
     - t-018
 
 - c-012
@@ -981,13 +995,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e1748d8f9df1918817f8d90b9d433eac2d81153d450627dc626a4d90ef6b0258; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klaipėdos uostas apibūdinamas kaip vienintelis Lietuvos išėjimas į jūrą, nors tai nėra tiesioginis valdymo teiginys.
     - t-022
 
 - c-013
@@ -1064,13 +1078,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0875a3483d9a062c18b759d64853631eb350af99c6647624e0aa766ab779fdfb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Husitai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Husitai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad žemaičiai puolė Klaipėdą.
     - t-014
 
 - c-016
@@ -1218,13 +1232,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ddd1e159e42f231ab78433b4e90f59ba32fce05d6fecb858c4136ce6065deda; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Nemunas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Prūsų ordinas užvaldė Nemuno deltą; kandidatas atitinka Kryžiuočių ordiną.
     - t-007
 
 - c-024
@@ -1339,13 +1353,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.85
+  ryšio_patikimumas: gyne -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių siekis išsaugoti blokuojamą Georgenburgą rodo gynybinį santykį.
     - t-001
 
 - c-029
@@ -1443,3 +1457,18 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   ryšio_subjekto_parinkimas: Klaipėda: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=90
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Žemaičiai]] puole Klaipėda
+- Klaipėda priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]] puole Klaipėda
+- Klaipėda priklause [[objektai/grupes/Prancūzai]]
+- Klaipėda priklause [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Klaipėda
+- Klaipėda priklause [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Rusai]] gyveno Klaipėda
+- Klaipėda priklause [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Švedai]] valde_miesta Klaipėda
+- Klaipėda priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Kuršiai]] gyveno Klaipėda
+- [[objektai/grupes/Prancūzai]] valde_miesta Klaipėda

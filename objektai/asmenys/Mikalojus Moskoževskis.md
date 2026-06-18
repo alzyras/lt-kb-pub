@@ -30,13 +30,13 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 274151-274837; hash=0d35f990bd37ec7406342c6296dbf8c670466cc83ebda35297c6abea9c7d412b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Moskoževskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Moskoževskis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lenkai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Moskoževskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Moskoževskis vadovavo lenkų gynybai.
 
 <a id="claim-t-87409"></a>
 - t-002
@@ -62,7 +62,8 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   global_id: t-87410
   teiginys: 'Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.'
   sudarymo_pagrindimas: 'Citata pagrindžia asmens vaidmenį ginant pilį, o pradinis teiginys turi OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]] gynė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -165,13 +166,13 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 274151-274837; hash=0d35f990bd37ec7406342c6296dbf8c670466cc83ebda35297c6abea9c7d412b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Moskoževskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Moskoževskis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lenkai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Moskoževskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Moskoževskis vadovavo lenkų gynybai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 274610-275519; hash=14680c7968e7263ad757d6de0ad8af6c498f00b841d5d3fd3d7ee35c480f9709; match=whitespace_regex
@@ -183,3 +184,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   ryšio_subjekto_parinkimas: Mikalojus Moskoževskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Moskoževskis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Mikalojus Moskoževskis gyne [[objektai/grupes/Lenkai]]
+- Mikalojus Moskoževskis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

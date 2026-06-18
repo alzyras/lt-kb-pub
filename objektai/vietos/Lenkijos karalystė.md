@@ -32,44 +32,45 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   global_id: t-114450
   teiginys: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.'
   sudarymo_pagrindimas: 'Ilgas testamento fragmentas sutrumpintas iki paremto fakto.'
-  susije_objektai: 'location: Krokuva; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f924f8d5a78012672de6720314a4cd4362772dbffa26f5802e5672c8ff6e24b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Suvalkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Užnemunė, arba Suvalkija, priklausė Lenkijos karalystei.
 
 <a id="claim-t-114451"></a>
 - t-002
   global_id: t-114451
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo kontekstinis ir nutrūkęs, bet citata palaiko faktą.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; llm_object: Lenkija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5d9c89a6582e62d4d9d4e9a35cc7eab795cbbcfd1304f1d65a56c223f9c76682; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Užnemunę kaip Lenkijos karalystės lietuviškąją dalį, kurią siūlyta atskirti.
 
 <a id="claim-t-114452"></a>
 - t-003
   global_id: t-114452
   teiginys: 'Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Suvalkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkijos karalystė; mentioned_place: Lenkija; mentioned_place: Suvalkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Suvalkija priklausė Lenkijos karalystė'
   pagrindžia:
     - c-001
 
@@ -77,7 +78,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-004
   global_id: t-114453
   teiginys: 'Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Tikocinas'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Tikocinas; llm_object: Lenkijos karalystė; llm_object: Tikocinas'
+  semantiniai_rysiai: '[[objektai/daiktai/Ginklai|Ginklai]] priklausė Lenkijos karalystė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -96,19 +98,20 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   global_id: t-114454
   teiginys: 'Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.'
   sudarymo_pagrindimas: 'Atrinktas aiškus citatos faktas apie Lenkijos Karalystę.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Tikocinas'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Tikocinas; llm_object: Lenkijos karalystė; llm_object: Tikocinas'
+  semantiniai_rysiai: '[[objektai/daiktai/Ginklai|Ginklai]] priklausė Lenkijos karalystė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3eebb5ddbcaedd189cf0c2ea659fd4efb084dc958bd117ede7b9ee4c6c690acf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila atsisakė Kameneco Lenkijos labui, todėl Kamenecas perėjo Lenkijos naudai.
 
 <a id="claim-t-114455"></a>
 - t-006
@@ -144,7 +147,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-008
   global_id: t-114457
   teiginys: 'Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Užnemunė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Suvalkija'
+  susije_objektai: 'llm_object: Lenkijos karalystė; mentioned_place: Lenkija; mentioned_place: Užnemunė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Suvalkija; llm_object: Suvalkai'
+  semantiniai_rysiai: 'Užnemunė priklausė Lenkijos karalystė'
   temporaliniai_duomenys: 'įvykio data: po 1864 m.; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -152,31 +156,31 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esantys ginklai ir amunicija atiduodami Karalystei.
 
 <a id="claim-t-114458"></a>
 - t-009
   global_id: t-114458
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; llm_object: Lenkija'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kameneco atsisakyta Lenkijos labui.
 
 <a id="claim-t-114459"></a>
 - t-010
@@ -189,13 +193,13 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esanti karo amunicija atiduodama Karalystei.
 - susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96096|Didžioji Lietuvos kunigaikštystė]]: Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74514|Lenkijos valstybės taryba (institucija)]]: Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.
@@ -280,24 +284,24 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esantys ginklai ir amunicija atiduodami Karalystei.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3eebb5ddbcaedd189cf0c2ea659fd4efb084dc958bd117ede7b9ee4c6c690acf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila atsisakė Kameneco Lenkijos labui, todėl Kamenecas perėjo Lenkijos naudai.
     - t-004
 
 - c-004
@@ -352,13 +356,13 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f924f8d5a78012672de6720314a4cd4362772dbffa26f5802e5672c8ff6e24b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Suvalkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Užnemunė, arba Suvalkija, priklausė Lenkijos karalystei.
     - t-009
 
 - c-006
@@ -394,13 +398,13 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kameneco atsisakyta Lenkijos labui.
     - t-006
 
 - c-007
@@ -455,13 +459,13 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esanti karo amunicija atiduodama Karalystei.
     - t-007
 
 - c-009
@@ -495,10 +499,15 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5d9c89a6582e62d4d9d4e9a35cc7eab795cbbcfd1304f1d65a56c223f9c76682; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos karalystė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos karalystė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkijos karalystė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkijos karalystė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Užnemunę kaip Lenkijos karalystės lietuviškąją dalį, kurią siūlyta atskirti.
+
+## Ryšiai
+- [[objektai/vietos/Suvalkija]] priklause Lenkijos karalystė
+- [[objektai/vietos/Užnemunė]] priklause Lenkijos karalystė
+- [[objektai/daiktai/Ginklai]] priklause Lenkijos karalystė

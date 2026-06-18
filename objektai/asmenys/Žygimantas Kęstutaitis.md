@@ -42,13 +42,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=150e214a79d0568bd8f63609c7f000e41ed8404d5672f7de8482d01969d769e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: valde_miesta -> Trakai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Didžiojo kunigaikščio pasodinimas Trakuose sieja valdžią su Trakais, nors tai labiau intronizavimo vieta.
 
 <a id="claim-t-114100"></a>
 - t-002
@@ -60,13 +60,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7d4e98b402726dbb596090cdb47e018ba0106c74d75d47df84e228b00bc1e776; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Kęstutaitis ėjo į Trakus.
 
 <a id="claim-t-114101"></a>
 - t-003
@@ -82,19 +82,20 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc1c9a8871d5fb916b5d51cb20ed21cca9aff9b7dc84edfff772930e4993e5a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pabaiskas: 0.85
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pabaiskas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Pabaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bažnyčia nurodyta esanti Pabaiske, bet atskiro bažnyčios objekto nėra, todėl ryšys nukreiptas į vietą.
 
 <a id="claim-t-114102"></a>
 - t-004
   global_id: t-114102
   teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; llm_object: Trakai; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] buvo sūnus [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] mirė Trakai'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -104,7 +105,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - t-005
   global_id: t-114103
   teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“|„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Suomija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“|„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Suomija; llm_object: Trakai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] valdė miestą Vilnius; [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] valdė miestą Trakai'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -115,7 +117,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   global_id: t-114105
   teiginys: 'Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus.'
   sudarymo_pagrindimas: 'Perrašyta trumpiau ir pašalintos citatinės formuluotės, paliekant citatos pagrįstus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] keliavo į Trakai'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta trumpiau ir pašalintos citatinės formuluotės, paliekant citatos pagrįstus faktus.'
@@ -124,13 +127,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pabaiskas: 0.85
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pabaiskas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Pabaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo parapijos bažnyčios pastatymą toje vietoje, kuri pavadinta Pabaisku; atskiro bažnyčios objekto nėra.
 
 <a id="claim-t-114106"></a>
 - t-008
@@ -155,26 +158,28 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 - t-009
   global_id: t-114107
   teiginys: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
-  susije_objektai: 'mentioned_place: Pabaiskas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Pabaiskas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Pabaiskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] pastatė Pabaiskas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=78b3c463fd1ebfeacc06b69c0a45af5a6f8ff67a335e0a6f9a0c2cbbf8d46872; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Mykolą kaip Žygimanto sūnų.
 
 <a id="claim-t-114108"></a>
 - t-010
   global_id: t-114108
   teiginys: 'Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Žygimanto Kęstutaičio veiksmą Pabaiske.'
-  susije_objektai: 'mentioned_place: Pabaiskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Pabaiskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: Pabaiskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] pastatė Pabaiskas'
   temporaliniai_duomenys: 'pastatymo data: 1436-1440; pastatymo data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Žygimanto Kęstutaičio veiksmą Pabaiske.'
@@ -186,7 +191,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   global_id: t-114110
   teiginys: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; llm_object: Trakai; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] buvo sūnus [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] mirė Trakai; [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] buvo palaidotas Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atitinka citatoje pateiktą informaciją.'
@@ -211,7 +217,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia atvykimą ir didikų bei bajorų telkimąsi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Tverė; llm_object: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] keliavo į Severskas'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -239,13 +246,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mykolas buvo Žygimanto sūnus.
 
 <a id="claim-t-184917"></a>
 - t-014
@@ -280,19 +287,20 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia popiežiaus rašto paskelbimą ir priesaikos panaikinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] buvo valdovas Lietuva'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 771344-771974; hash=f49af5dc5bba40a5d6ba8e1e4f291be57cb54fb782b059416a188e2cab9d7ca4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: keliavo_i -> Severskas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo Žygimanto judėjimą iš Seversko, bet predikatas leidžia tik kryptį į objektą, todėl ryšys nėra idealus.
 
 <a id="claim-t-184919"></a>
 - t-016
@@ -324,7 +332,8 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia nužudymo aplinkybes, pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] puolė [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -445,13 +454,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=78b3c463fd1ebfeacc06b69c0a45af5a6f8ff67a335e0a6f9a0c2cbbf8d46872; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Mykolą kaip Žygimanto sūnų.
     - t-004
 
 - c-005
@@ -516,13 +525,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7d4e98b402726dbb596090cdb47e018ba0106c74d75d47df84e228b00bc1e776; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Kęstutaitis ėjo į Trakus.
     - t-007
 
 - c-008
@@ -572,13 +581,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pabaiskas: 0.85
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pabaiskas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Pabaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo parapijos bažnyčios pastatymą toje vietoje, kuri pavadinta Pabaisku; atskiro bažnyčios objekto nėra.
     - t-003
 
 - c-009
@@ -602,13 +611,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc1c9a8871d5fb916b5d51cb20ed21cca9aff9b7dc84edfff772930e4993e5a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pabaiskas: 0.85
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pabaiskas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Pabaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bažnyčia nurodyta esanti Pabaiske, bet atskiro bažnyčios objekto nėra, todėl ryšys nukreiptas į vietą.
     - t-001
 
 - c-010
@@ -634,13 +643,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=150e214a79d0568bd8f63609c7f000e41ed8404d5672f7de8482d01969d769e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: valde_miesta -> Trakai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Didžiojo kunigaikščio pasodinimas Trakuose sieja valdžią su Trakais, nors tai labiau intronizavimo vieta.
     - t-010
 
 - c-011
@@ -750,13 +759,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mykolas buvo Žygimanto sūnus.
     - t-014
 
 - c-014
@@ -823,13 +832,13 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 771344-771974; hash=f49af5dc5bba40a5d6ba8e1e4f291be57cb54fb782b059416a188e2cab9d7ca4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: keliavo_i -> Severskas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo Žygimanto judėjimą iš Seversko, bet predikatas leidžia tik kryptį į objektą, todėl ryšys nėra idealus.
     - t-016
 
 - c-016
@@ -877,3 +886,18 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mykolas]] buvo_sunus Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) mire [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Jonas]] puole Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Gardinas]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) pastate [[objektai/vietos/Pabaiskas]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valde_miesta [[objektai/vietos/Trakai]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) valde_miesta [[objektai/vietos/Vilnius]]
+- Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Severskas]]

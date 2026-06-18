@@ -30,7 +30,7 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko ir karo kurstymą, ir valdžios užgrobimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   temporaliniai_duomenys: 'įvykio data: po 1534 m.; įvykio data: 1534 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko ir karo kurstymą, ir valdžios užgrobimą.'
@@ -39,13 +39,13 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1180193-1180835; hash=c3dc49127604b19ec4203b1f93e5e71f664d4f654e59dacb9c12c0eb56d2bb5e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras Ovčina: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ovčina" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo maskvėnų pradėtą karą prieš Lietuvą.
 
 <a id="claim-t-186040"></a>
 - t-002
@@ -55,19 +55,19 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Fiodorą Ovčiną ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1180427-1181092; hash=5686e30e37c72cc1cea6113a175866274ee0cd0ea62b31bd77d8bb609640298f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras Ovčina: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ovčina" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -126,21 +126,21 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1180193-1180835; hash=c3dc49127604b19ec4203b1f93e5e71f664d4f654e59dacb9c12c0eb56d2bb5e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras Ovčina: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ovčina" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo maskvėnų pradėtą karą prieš Lietuvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1180427-1181092; hash=5686e30e37c72cc1cea6113a175866274ee0cd0ea62b31bd77d8bb609640298f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras Ovčina: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ovčina" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą.

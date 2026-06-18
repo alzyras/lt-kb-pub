@@ -25,19 +25,20 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   global_id: t-87923
   teiginys: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Trakai; mentioned_place: Viena; llm_object: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Ona (Vytauto žmona)|Ona (Vytauto žmona)]] gyveno Trakai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a07fdc24cfdfa165c74fff150d8058e6a910942a9912ecf658c1051d7900bfc1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Trakai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ona minima kaip turėjusi koplyčią Trakų pilyje, kas tiesiogiai sieja ją su Trakais kaip buvimo vieta.
 
 <a id="claim-t-184810"></a>
 - t-002
@@ -69,19 +70,20 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Onos mirtį ir po jos priimtą Vytauto sprendimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; llm_object: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Ona (Vytauto žmona)|Ona (Vytauto žmona)]] mirė Trakai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 691123-691400; hash=4201cc37bc46932468fb2f04be939b0165a693678549e21d659e6d55718b03f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
+  ryšio_patikimumas: mire -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): owner_note_path, person
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Ona miršta Vytautui esant Trakuose; vieta palaikoma kontekstu „čia“.
 
 ## Reikšmingi paminėjimai
 
@@ -143,13 +145,13 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a07fdc24cfdfa165c74fff150d8058e6a910942a9912ecf658c1051d7900bfc1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Trakai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ona minima kaip turėjusi koplyčią Trakų pilyje, kas tiesiogiai sieja ją su Trakais kaip buvimo vieta.
     - t-002
 
 - c-003
@@ -180,10 +182,14 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 691123-691400; hash=4201cc37bc46932468fb2f04be939b0165a693678549e21d659e6d55718b03f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
+  ryšio_patikimumas: mire -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): owner_note_path, person
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona (Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Ona miršta Vytautui esant Trakuose; vieta palaikoma kontekstu „čia“.
+
+## Ryšiai
+- Ona (Vytauto žmona) mire [[objektai/vietos/Trakai]]
+- Ona (Vytauto žmona) gyveno [[objektai/vietos/Trakai]]

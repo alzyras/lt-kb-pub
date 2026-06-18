@@ -35,7 +35,8 @@ amziai:
   global_id: t-74109
   teiginys: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Briuselis; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]; mentioned_place: Europa; mentioned_place: Briuselis; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -73,7 +74,8 @@ amziai:
   global_id: t-74111
   teiginys: '2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.'
   sudarymo_pagrindimas: 'Paliktas šaltinio paremtas faktas, išlaikant aiškią formą apie ES.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Baltija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]; mentioned_place: Europa; mentioned_place: Baltija; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Paliktas šaltinio paremtas faktas, išlaikant aiškią formą apie ES.'
@@ -82,13 +84,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91d4e8f01ef719506599215f356a39be3877b7c9e7799bbee24544cad7f33ee4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos priėmimą į Europos Sąjungą.
 
 <a id="claim-t-74112"></a>
 - t-004
@@ -145,32 +147,33 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ab5844d8d908f96faaed67795bc285fcd5dcf0fa715270919108390963bd91e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sako, kad Lietuva tapo ES nare.
 
 <a id="claim-t-74115"></a>
 - t-007
   global_id: t-74115
   teiginys: 'Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, išskleidžiant santrumpą ir pašalinant dviprasmę įvardžio nuorodą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf0525d99a29b175ab9b20741de232e0c81e1440529c89cd32c1754d56ea693; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva įstojo į ES.
 
 <a id="claim-t-74116"></a>
 - t-008
@@ -186,20 +189,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva tapo ES nare.
 
 <a id="claim-t-74117"></a>
 - t-009
   global_id: t-74117
   teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   sudarymo_pagrindimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]; llm_object: [[objektai/grupes/NATO|NATO]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
@@ -224,7 +228,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]; mentioned_place: Europa; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Europos Sąjunga|Europos Sąjunga]]'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
@@ -268,13 +273,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ab5844d8d908f96faaed67795bc285fcd5dcf0fa715270919108390963bd91e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sako, kad Lietuva tapo ES nare.
     - t-004
 
 - c-003
@@ -329,13 +334,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91d4e8f01ef719506599215f356a39be3877b7c9e7799bbee24544cad7f33ee4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos priėmimą į Europos Sąjungą.
     - t-005
 
 - c-005
@@ -407,13 +412,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf0525d99a29b175ab9b20741de232e0c81e1440529c89cd32c1754d56ea693; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva įstojo į ES.
     - t-001
 
 - c-008
@@ -489,11 +494,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Europos Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos Sąjunga" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Europos Sąjunga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Europos Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva tapo ES nare.
     - t-010
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] priklause Europos Sąjunga

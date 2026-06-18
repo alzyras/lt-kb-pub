@@ -39,6 +39,8 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molėtai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
+- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
+- susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,3 +75,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   ryšio_subjekto_parinkimas: Molėtai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molėtai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] uzeme Molėtai

@@ -36,6 +36,8 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vartislavas (Sventopelko sūnus)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
+- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60063|Samboras (Sventopelko sūnus)]]: Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.
@@ -67,3 +69,7 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   ryšio_subjekto_parinkimas: Vartislavas (Sventopelko sūnus): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vartislavas (Sventopelko sūnus)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Sventopelkas]] buvo_sunus Vartislavas (Sventopelko sūnus)
+- [[objektai/asmenys/Samboras (Sventopelko sūnus)]] buvo_brolis Vartislavas (Sventopelko sūnus)

@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-91914
   teiginys: 'Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė turi OCR triukšmo, o citata remia aiškų įvykio aprašymą.'
-  susije_objektai: 'mentioned_place: Kapsteta; mentioned_place: Vonsdorfas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vėluva'
+  susije_objektai: 'llm_object: Kapsteta; mentioned_place: Kapsteta; mentioned_place: Vonsdorfas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vėluva; llm_object: Vonsdorfas'
   temporaliniai_duomenys: 'įvykio data: 1257 m.; įvykio data: 1258 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė turi OCR triukšmo, o citata remia aiškų įvykio aprašymą.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kapsteta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kapstetos pilies paėmimas Vonsdorfo žemėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kapsteta: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kapstetos pilies paėmimas Vonsdorfo žemėje" parinktas kaip owner_note_path. Targetas "Kapsteta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kapsteta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kapsteta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sembų kariuomenė dalyvavo Kapstetos pilies užėmime.
 
 ## Reikšmingi paminėjimai
 
@@ -106,10 +106,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kapsteta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kapstetos pilies paėmimas Vonsdorfo žemėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kapsteta: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kapstetos pilies paėmimas Vonsdorfo žemėje" parinktas kaip owner_note_path. Targetas "Kapsteta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kapsteta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kapsteta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sembų kariuomenė dalyvavo Kapstetos pilies užėmime.

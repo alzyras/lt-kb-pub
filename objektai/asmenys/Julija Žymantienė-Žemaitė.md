@@ -34,7 +34,8 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   global_id: t-75891
   teiginys: '1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o nuotraukos antraštė patvirtina dalyvavimą suvažiavime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Julija Žymantienė-Žemaitė|Julija Žymantienė-Žemaitė]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o nuotraukos antraštė patvirtina dalyvavimą suvažiavime.'
@@ -65,13 +66,13 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julija Žymantienė-Žemaitė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Julija Žymantienė-Žemaitė buvo suvažiavimo dalyvė Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -101,13 +102,13 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julija Žymantienė-Žemaitė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Julija Žymantienė-Žemaitė buvo suvažiavimo dalyvė Vilniuje.
     - t-001
 
 - c-002
@@ -142,10 +143,13 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julija Žymantienė-Žemaitė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Julija Žymantienė-Žemaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Julija Žymantienė-Žemaitė buvo suvažiavimo dalyvė Vilniuje.
+
+## Ryšiai
+- Julija Žymantienė-Žemaitė keliavo_i [[objektai/vietos/Vilnius]]

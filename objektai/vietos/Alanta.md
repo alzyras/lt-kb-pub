@@ -164,3 +164,7 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   ryšio_subjekto_parinkimas: Alanta: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Astikas: mention_match, person, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alanta" parinktas kaip owner_note_path. Targetas "Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Alanta priklause [[objektai/asmenys/Gabrielius Bekešas]]
+- Alanta priklause [[objektai/asmenys/Astikas]]

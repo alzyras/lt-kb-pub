@@ -83,3 +83,6 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
   ryšio_subjekto_parinkimas: Popiežius Honorijus III: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Fridrichas II: mention_match, person, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežius Honorijus III" parinktas kaip owner_note_path. Targetas "Fridrichas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Popiežius Honorijus III paskyre [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

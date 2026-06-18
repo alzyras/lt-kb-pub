@@ -32,19 +32,20 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   global_id: t-87419
   teiginys: 'Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį; citata leidžia aiškiai įvardyti lydėtą asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kłeckas; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kłeckas; mentioned_place: Naugardukas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]] keliavo į Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475138-475562; hash=9c8a162056336f560d6de80e5746197e32ba48304b8cd4c06975fb007c390801; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Zabžezinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Zabžezinskis" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Zabžezinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lydėdamas karalių, nugabentą į Vilnių, Jonas Zabžezinskis vyko į Vilnių.
 
 <a id="claim-t-87420"></a>
 - t-002
@@ -122,10 +123,13 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475138-475562; hash=9c8a162056336f560d6de80e5746197e32ba48304b8cd4c06975fb007c390801; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Zabžezinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Zabžezinskis" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Zabžezinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lydėdamas karalių, nugabentą į Vilnių, Jonas Zabžezinskis vyko į Vilnių.
+
+## Ryšiai
+- Jonas Zabžezinskis keliavo_i [[objektai/vietos/Vilnius]]

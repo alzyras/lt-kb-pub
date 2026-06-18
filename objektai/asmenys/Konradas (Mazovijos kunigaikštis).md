@@ -39,13 +39,13 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d08894c03d95e3993d8454cbff4e6b8bee117afb1763f270ba864eb63ff39e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Kujavija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Konradas (Mazovijos kunigaikštis): owner_note_path, person, gap=9
-  ryšio_targeto_parinkimas: Kujavija: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Konradas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mazovijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59931"></a>
 - t-002
@@ -112,8 +112,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59934
   teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, išlaikant citatoje pagrįstą valdų ir konteksto faktą.'
-  susije_objektai: 'territory: Kujavija; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Kulmas'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Kujavija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Kulmas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -167,13 +166,13 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d08894c03d95e3993d8454cbff4e6b8bee117afb1763f270ba864eb63ff39e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Kujavija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Konradas (Mazovijos kunigaikštis): owner_note_path, person, gap=9
-  ryšio_targeto_parinkimas: Kujavija: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Konradas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mazovijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -281,6 +280,3 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   ryšio_subjekto_parinkimas: Konradas (Mazovijos kunigaikštis): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Kujavija]]

@@ -57,7 +57,8 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-001
   global_id: t-65923
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/NKVD|NKVD]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKGB|NKGB]] buvo sąjungininkas su [[objektai/grupes/NKVD|NKVD]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -68,7 +69,8 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   global_id: t-65924
   teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.'
   sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; llm_object: [[objektai/grupes/NKGB|NKGB]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Tigras|Tigras]] puolė [[objektai/grupes/NKGB|NKGB]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
@@ -167,3 +169,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Tigras]] puole NKGB
+- NKGB buvo_sajungininkas_su [[objektai/grupes/NKVD]]

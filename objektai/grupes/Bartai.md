@@ -34,7 +34,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88523
   teiginys: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata apie Bartenšteino pilies sugriovimą.'
-  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Bartenšteinas'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai paremtas citata apie Bartenšteino pilies sugriovimą.'
@@ -47,20 +48,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
 
 <a id="claim-t-88524"></a>
 - t-002
   global_id: t-88524
   teiginys: 'Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija veikėjus, veiksmą ir vietą, kaip nurodyta citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Kristburgas; mentioned_place: Pilaitė'
+  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Kristburgas; mentioned_place: Pilaitė'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija veikėjus, veiksmą ir vietą, kaip nurodyta citatoje.'
@@ -91,20 +92,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Bartoje gyveno bartai.
 
 <a id="claim-t-88526"></a>
 - t-004
   global_id: t-88526
   teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje aprašytą Divano veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė'
+  susije_objektai: 'llm_object: Senenzė; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -123,7 +124,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88527
   teiginys: '1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Barta'
+  susije_objektai: 'llm_object: Barta; mentioned_place: Barta'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Barta'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
@@ -132,20 +134,21 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Divanas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje bartai nurodomi kaip išsirinkę Divaną savo vadu.
 
 <a id="claim-t-88528"></a>
 - t-006
   global_id: t-88528
   teiginys: 'Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie Bartą ir bartus.'
-  susije_objektai: 'mentioned_place: Barta'
+  susije_objektai: 'llm_object: Barta; mentioned_place: Barta'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Barta'
   pagrindžia:
     - c-004
     - c-008
@@ -165,39 +168,39 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88529
   teiginys: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
   sudarymo_pagrindimas: 'Citata remia aiškų teiginį apie Divano veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Kristburgas; llm_object: Marienburgas; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
     - c-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Linko įsiveržimą į Kulmo žemę.
 
 <a id="claim-t-88530"></a>
 - t-008
   global_id: t-88530
   teiginys: 'Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.'
   sudarymo_pagrindimas: 'Citata remia Divano sužeidimą ir puolimo baigtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_place: Viena'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4136096bc044e09aad737f32fe6d53bb599190b08f18210a9fd5c8e4cebd176; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kristburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Divanas apiplėšė Kristburgo apylinkes.
 
 <a id="claim-t-88531"></a>
 - t-009
@@ -213,13 +216,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Senenzė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Divanas apsiautė Senenzės pilį.
 
 <a id="claim-t-88532"></a>
 - t-010
@@ -235,31 +238,32 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 462550-463132; hash=32e4fa402305aa2fe8109a4a3ac26a0b898942f5509cc1d381fa9c4224d51e1e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Divanas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Arnoldas Krofas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Arnoldo Krofo smūgį Divanui.
 
 <a id="claim-t-88533"></a>
 - t-011
   global_id: t-88533
   teiginys: 'Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rytprūsiai; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Šiauliai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rytprūsiai; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Šiauliai'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] priklausė [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Bartenšteinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad bartai buvo įsikūrę Bartenšteino pilyje.
 
 <a id="claim-t-88534"></a>
 - t-012
@@ -288,19 +292,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88535
   teiginys: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo bartų vado išrinkimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] paskyrė [[objektai/asmenys/Divanas|Divanas]]'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Bartoje gyveno bartai.
 
 <a id="claim-t-184473"></a>
 - t-014
@@ -400,6 +405,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš Vizenburgas: Vizenburgo pilis beveik trejus metus buvo prūsų apsupta ir kasdien puolama trimis apgulos mašinomis.
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -451,13 +457,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
     - t-004
 
 - c-003
@@ -507,13 +513,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41805736afbafee5ed2298f5db71f69fec9703f1af5d77814f2544a56d460b00; match=fallback; occurrences=0
@@ -544,13 +550,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Divanas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje bartai nurodomi kaip išsirinkę Divaną savo vadu.
     - t-007
 
 - c-006
@@ -574,13 +580,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Linko įsiveržimą į Kulmo žemę.
     - t-001
 
 - c-007
@@ -602,13 +608,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
     - t-001
 
 - c-008
@@ -623,13 +629,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=59ae49fc8df63793e58690ed42c1e745c531dd4dceccaa7766cdf4fe865b7438; match=fallback; occurrences=0
@@ -694,13 +700,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Senenzė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Divanas apsiautė Senenzės pilį.
     - t-011
 
 - c-011
@@ -720,13 +726,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Bartenšteinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad bartai buvo įsikūrę Bartenšteino pilyje.
     - t-007
 
 - c-012
@@ -751,13 +757,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Linko įsiveržimą į Kulmo žemę.
     - t-003
 
 - c-013
@@ -779,13 +785,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Bartoje gyveno bartai.
     - t-010
 
 - c-014
@@ -810,24 +816,24 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 462550-463132; hash=32e4fa402305aa2fe8109a4a3ac26a0b898942f5509cc1d381fa9c4224d51e1e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Divanas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Arnoldas Krofas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Arnoldo Krofo smūgį Divanui.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204694-205059; hash=c6c275a49a180bce2994f4d3e81b356c3e6d6cf72be37dd98a2b37734c668ddb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Barta: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Bartoje gyveno bartai.
     - t-001
 
 - c-015
@@ -849,13 +855,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria bartus vakariniams baltams.
     - t-008
 
 - c-016
@@ -879,13 +885,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4136096bc044e09aad737f32fe6d53bb599190b08f18210a9fd5c8e4cebd176; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kristburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Divanas apiplėšė Kristburgo apylinkes.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 267638-268137; hash=d7e99f28fd8df7282b460fc03d25bd39cf6825bdd8206eefe3c57da936bcdf73; match=exact
@@ -897,3 +903,17 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   ryšio_subjekto_parinkimas: Bartai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=89
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Bartai gyveno [[objektai/vietos/Barta]]
+- Bartai gyveno [[objektai/vietos/Bartenšteinas]]
+- Bartai paskyre [[objektai/asmenys/Divanas]]
+- Bartai priklause [[objektai/grupes/Baltai]]
+- Bartai puole [[objektai/vietos/Baiga]]
+- Bartai puole [[objektai/vietos/Senenzė]]
+- Bartai apgule [[objektai/vietos/Senenzė]]
+- Bartai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Bartai kariavo_pries [[objektai/grupes/Auksinė Orda]]
+- Bartai keliavo_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Derska]] reme Bartai
+- [[objektai/asmenys/Numa]] reme Bartai

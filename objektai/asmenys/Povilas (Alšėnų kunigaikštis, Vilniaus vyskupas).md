@@ -80,7 +80,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   global_id: t-173216
   teiginys: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie Povilą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie Povilą.'
@@ -89,13 +89,13 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 565454-566244; hash=10e25ad458c4ccad9e1e43c7fcb1c7ab8e872704f5ef25a3eeefd4669bb07ce5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abraomas Kulvietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Abraomas Kulvietis atvyko į Vilnių.
 
 <a id="claim-t-173217"></a>
 - t-005
@@ -256,13 +256,13 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 565454-566244; hash=10e25ad458c4ccad9e1e43c7fcb1c7ab8e872704f5ef25a3eeefd4669bb07ce5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abraomas Kulvietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Abraomas Kulvietis atvyko į Vilnių.
     - t-007
 
 - c-004

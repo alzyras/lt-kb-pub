@@ -118,3 +118,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Noliubas buvo_sunus [[objektai/asmenys/Sklodas iš Kvedenavos]]

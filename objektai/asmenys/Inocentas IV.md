@@ -33,7 +33,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   global_id: t-60333
   teiginys: '1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.'
   sudarymo_pagrindimas: 'Teiginys buvo su OCR triukšmu; citata aiškiai pagrindžia konkrečią Inocento IV veiklą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Inocentas IV|Inocentas IV]] siuntė į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo su OCR triukšmu; citata aiškiai pagrindžia konkrečią Inocento IV veiklą.'
@@ -42,13 +43,13 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   irodymo_stiprumas: 0.00
   saltinio_vieta: 279240-280020; hash=c3cd5a98f9792fdbc4f3888ba0c64fe432bd152bdd7be34a11126b9208850b21; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Inocentas IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Inocentas IV" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Prūsija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Inocentas IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Inocentas IV pasiuntė Vilhelmą į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28779|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89834|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: 1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60078|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: 1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą.
@@ -81,10 +82,13 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   irodymo_stiprumas: 0.00
   saltinio_vieta: 279240-280020; hash=c3cd5a98f9792fdbc4f3888ba0c64fe432bd152bdd7be34a11126b9208850b21; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Inocentas IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Inocentas IV" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Prūsija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Inocentas IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Inocentas IV pasiuntė Vilhelmą į Prūsiją.
+
+## Ryšiai
+- Inocentas IV siunte_i [[objektai/vietos/Prūsija]]

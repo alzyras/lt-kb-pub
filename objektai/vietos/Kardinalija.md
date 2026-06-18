@@ -57,20 +57,21 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 598651-599068; hash=84527005db5714f5baaf0b8d7c1644ac5773bc012695e7e068354e4b59f2d085; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radvilos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kardinalija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Kardinaliją kaip Vilniaus namus.
 
 <a id="claim-t-85934"></a>
 - t-003
   global_id: t-85934
   teiginys: 'Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai nusako Kardinalijos statybą bei fundatorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  semantiniai_rysiai: 'Kardinalija priklausė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -102,6 +103,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=77
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103046|Jurgis Radvila (vyskupas, XVI a.)]]: Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103047|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.
@@ -259,10 +262,14 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 598651-599068; hash=84527005db5714f5baaf0b8d7c1644ac5773bc012695e7e068354e4b59f2d085; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radvilos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kardinalija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Kardinaliją kaip Vilniaus namus.
+
+## Ryšiai
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] gyveno Kardinalija
+- Kardinalija priklause [[objektai/vietos/Vilnius]]

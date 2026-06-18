@@ -150,7 +150,8 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78360
   teiginys: 'Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų kiekybinį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos komunistų partija|Lietuvos komunistų partija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] priklausė [[objektai/grupes/Lietuvos komunistų partija|Lietuvos komunistų partija]]'
   temporaliniai_duomenys: 'įvykio data: 1953 m.; įvykio data: 1965 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų kiekybinį faktą.'
@@ -270,13 +271,13 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426067-426709; hash=c3df89ed80283c7faa66664b6860ffc293822854398a2cba5c2ae427e038f848; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos komunistų partija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos komunistų partija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos komunistų partija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos komunistų partija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie lietuvių buvimą Lietuvos komunistų partijoje.
 
 <a id="claim-t-78374"></a>
 - t-015
@@ -685,10 +686,13 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426067-426709; hash=c3df89ed80283c7faa66664b6860ffc293822854398a2cba5c2ae427e038f848; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos komunistų partija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos komunistų partija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos komunistų partija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos komunistų partija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie lietuvių buvimą Lietuvos komunistų partijoje.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] priklause Lietuvos komunistų partija

@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatos informacija.'
-  susije_objektai: 'location: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901172-901582; hash=abd998b4b2ea76707ccc59a1bf6d469c47085c8ffe2fb41fbfed558ca13f62e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=15
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Ostrorogas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Stanislovas Ostrorogas atvyko į Vilnių.
 
 <a id="claim-t-185636"></a>
 - t-002
@@ -117,13 +117,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901172-901582; hash=abd998b4b2ea76707ccc59a1bf6d469c47085c8ffe2fb41fbfed558ca13f62e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=15
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Ostrorogas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Stanislovas Ostrorogas atvyko į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901426-901981; hash=e9de4281e6865f46fd9cd0a9cf487a5d5510ea43e083003e53d807d33e30bd8c; match=exact

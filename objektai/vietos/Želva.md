@@ -41,19 +41,20 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   global_id: t-172063
   teiginys: 'Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti veiksmą su Želva ir pašalinti ne tokį enciklopedinį formulavimą.'
-  susije_objektai: 'territory: Dubingiai; mentioned_place: Dubingiai; mentioned_place: Vidiškis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Želva; llm_object: Dubingiai; llm_object: Vidiškis; mentioned_place: Dubingiai; mentioned_place: Vidiškis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Želva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aaron Klug: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Želva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želva" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Želva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aaron Klug: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Želva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Aaron Klug gimė Želvoje.
 
 <a id="claim-t-172064"></a>
 - t-002
@@ -81,20 +82,21 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dubingiai: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=17
-  ryšio_targeto_parinkimas: Dubingiai: nearest_after_predicate, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Dubingiai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Želva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Želva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodoma, kad lenkų pajėgos užėmė Želvą.
 
 <a id="claim-t-172066"></a>
 - t-004
   global_id: t-172066
   teiginys: 'Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena'
+  susije_objektai: 'llm_object: Želva; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena'
+  semantiniai_rysiai: '[[objektai/asmenys/Aaron Klug|Aaron Klug]] gimė Želva'
   temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m.; įvykio data: 1975 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
@@ -110,6 +112,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   ryšio_subjekto_parinkimas: Želva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Giedraičiai: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želva" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš Želvos ežerai: Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.
 - susijęs iš Želvos ežerai: Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
@@ -122,6 +125,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 - susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
 - susijęs iš Gursčiai: 1946 m. sausio 22 d. Gursčių kaimo apylinkėse apie 50 Plieno būrio partizanų kovėsi su NKVD kariuomene.
 - susijęs iš Videniškis: 9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -164,13 +168,13 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dubingiai: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=17
-  ryšio_targeto_parinkimas: Dubingiai: nearest_after_predicate, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Dubingiai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Želva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Želva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodoma, kad lenkų pajėgos užėmė Želvą.
     - t-004
 
 - c-003
@@ -224,11 +228,17 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aaron Klug: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Želva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želva" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Želva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aaron Klug: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Želva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Aaron Klug gimė Želvoje.
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Aaron Klug]] gime Želva
+- [[objektai/grupes/Lenkai]] uzeme Želva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Želva
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Želva

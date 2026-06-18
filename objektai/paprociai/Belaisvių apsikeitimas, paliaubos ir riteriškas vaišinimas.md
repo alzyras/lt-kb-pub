@@ -48,7 +48,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   global_id: t-176226
   teiginys: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 - t-002
   global_id: t-176227
   teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 

@@ -22,19 +22,20 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys neteisingai priskyrė puolimą; citata rodo Moskožovskio gynybinį vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pilėnai; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus iš Moskožovo|Mikalojus iš Moskožovo]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552502-553116; hash=d924eb51a78d27658bbda7c72fba169123e6400cb1a8402f0bfff49b8b67bf49; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: kariavo_pries -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus iš Moskožovo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus iš Moskožovo" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus iš Moskožovo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys sako, kad Moskožovas gynė pilį ir niekais vertė Vytauto puolimą, todėl santykis yra karinė priešprieša Vytautui.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +63,13 @@ Mikalojus iš Moskožovo ryžtingai gynė Aukštutinę pilį ir vertė niekais V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552502-553116; hash=d924eb51a78d27658bbda7c72fba169123e6400cb1a8402f0bfff49b8b67bf49; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: kariavo_pries -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus iš Moskožovo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus iš Moskožovo" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus iš Moskožovo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys sako, kad Moskožovas gynė pilį ir niekais vertė Vytauto puolimą, todėl santykis yra karinė priešprieša Vytautui.
+
+## Ryšiai
+- Mikalojus iš Moskožovo kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

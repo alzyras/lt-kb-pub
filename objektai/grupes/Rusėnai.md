@@ -216,6 +216,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   ryšio_subjekto_parinkimas: Rusėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusėnai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Chotynas: LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.
+- susijęs iš Salaspilis: Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais.
+- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186373|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais.
+- susijęs iš Kleckas: LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
 - susijęs iš [[objektai/autoriai/B. Włodarski.md#claim-t-30572|B. Włodarski]]: B. Włodarskis paskelbė darbus apie jotvingių problemą lenkų ir rusėnų santykiuose.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172963|Mykolas Lietuvis]]: Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.
@@ -301,6 +305,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa.md#claim-t-77802|oficialusis kultūros modelis lietuviakalbė programa]]: Daukšos lietuviakalbė programa nebuvo įgyvendinta.
 - susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22264|reformacija protestantizmas kalvinizmas]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
 - susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
+- susijęs iš [[objektai/grupes/Tiškevičiai.md#claim-t-20050|Tiškevičiai]]: XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -542,4 +547,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusėnai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Rusėnai dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rusėnai
+- Rusėnai gyveno [[objektai/vietos/Lenkija]]
+- Rusėnai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/grupes/Tiškevičiai]] priklause Rusėnai

@@ -75,7 +75,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir aiškiai susijęs su Mozyriumi.'
-  susije_objektai: 'mentioned_place: Karačevas; mentioned_place: Severskas; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas'
+  susije_objektai: 'llm_object: Mozyrius; llm_object: Karačevas; mentioned_place: Karačevas; mentioned_place: Severskas; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas; llm_object: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Mozyrius'
   temporaliniai_duomenys: 'įvykio data: 1535 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir aiškiai susijęs su Mozyriumi.'
@@ -84,13 +85,13 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozyrius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozyrius" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Mozyrius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Skirmantas atėmė Mozyrių iš priešo rankų.
 
 <a id="claim-t-187617"></a>
 - t-005
@@ -100,7 +101,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos.'
-  susije_objektai: 'mentioned_place: Karačevas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas'
+  susije_objektai: 'llm_object: Mozyrius; llm_object: Karačevas; llm_object: Starodubas; mentioned_place: Karačevas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Mozyrius'
   temporaliniai_duomenys: 'įvykio data: 1535 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos.'
@@ -109,13 +111,17 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozyrius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozyrius" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Mozyrius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirmantas paėmė Mozyrių.
+- susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
+- susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
+- susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
+- susijęs iš Starodubas: Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą.
 - susijęs iš [[objektai/asmenys/Kurdas.md#claim-t-186059|Kurdas]]: Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiuntė kelis pulkus plėšikauti.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
@@ -148,6 +154,11 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - susijęs iš Starodubas: Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
+- susijęs iš Dniepras: Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.
+- susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39099|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: 1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102835|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102838|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
+- susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -251,21 +262,28 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozyrius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozyrius" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Mozyrius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Skirmantas atėmė Mozyrių iš priešo rankų.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozyrius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozyrius" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Mozyrius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirmantas paėmė Mozyrių.
+
+## Ryšiai
+- [[objektai/asmenys/Skirmantas]] uzeme Mozyrius
+- [[objektai/grupes/Totoriai]] keliavo_i Mozyrius
+- [[objektai/grupes/Kazokai]] surenge_zygi_i Mozyrius
+- [[objektai/grupes/Kazokai]] puole Mozyrius
+- Mozyrius priklause [[objektai/vietos/Lietuva]]

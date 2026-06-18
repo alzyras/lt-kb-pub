@@ -124,7 +124,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - t-009
   global_id: t-172875
   teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -480,13 +480,13 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ba1fd7d48bb03f842104b48a3df73e4c47a6ad087f7499c8aefbcdd306de0d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Kęstutis slapta atėjo į Vilnių.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bd432e102fc52deb5e3d9fe57b1782dfb4c2879d5c015f08023483cee2a8f25; match=fallback; occurrences=0

@@ -20,19 +20,20 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36639
   teiginys: 'Vartenburgo apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Trakai'
+  semantiniai_rysiai: 'Vartenburgas priklausė Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4b0a75c6293282e15e042923f03e5c63b6cfaa9b8678adb965094bb600ee0b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vartenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vartenburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vartenburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria Vartenburgo apskritį pietinei Prūsijos daliai.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,13 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4b0a75c6293282e15e042923f03e5c63b6cfaa9b8678adb965094bb600ee0b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vartenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vartenburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vartenburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria Vartenburgo apskritį pietinei Prūsijos daliai.
+
+## Ryšiai
+- Vartenburgas priklause [[objektai/vietos/Prūsija]]

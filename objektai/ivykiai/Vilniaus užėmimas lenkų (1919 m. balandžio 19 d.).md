@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01849
   teiginys: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   sudarymo_pagrindimas: 'Perrašyta enciklopediškiau ir aiškiau susieta su Vilniaus užėmimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Povilas Lukšys|Povilas Lukšys]]; mentioned_place: Butrimonys'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Povilas Lukšys|Povilas Lukšys]]; mentioned_place: Butrimonys; llm_object: [[objektai/grupes/Rusai|Rusai]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta enciklopediškiau ir aiškiau susieta su Vilniaus užėmimu.'
@@ -48,13 +48,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf6fdf75db6d14058b0857b6c3bd426030f85fc00891b15d69423316b41986f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai paėmė Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +77,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf6fdf75db6d14058b0857b6c3bd426030f85fc00891b15d69423316b41986f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai paėmė Vilnių.

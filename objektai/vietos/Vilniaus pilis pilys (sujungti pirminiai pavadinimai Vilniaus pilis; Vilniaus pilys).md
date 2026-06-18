@@ -80,13 +80,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=82c875819de190261137cf0df0edeb8177d8e4d31c7018225182717f1c1880cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus pilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilniaus pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užpuolė Vilniaus pilis.
 
 <a id="claim-t-174228"></a>
 - t-004
@@ -99,20 +99,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Trakai: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Kęstutį su Trakų pilių gynyba, nors objektas kandidatuose pateiktas kaip Trakai.
 
 <a id="claim-t-174229"></a>
 - t-005
   global_id: t-174229
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai remiasi citatos turiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -137,13 +137,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Daugirdas laikinai užėmė Žemutinę Vilniaus pilį.
 
 <a id="claim-t-174232"></a>
 - t-007
@@ -187,20 +187,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473298-474103; hash=3d058cd0189aabae89e9b9419d80c49cdbcb1cc860e21448ccd0755de8376a88; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Elena pastatydino namą.
 
 <a id="claim-t-174235"></a>
 - t-010
   global_id: t-174235
   teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilniaus pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys); mentioned_place: Vilniaus pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] puolė Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)'
   temporaliniai_duomenys: 'įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
@@ -260,7 +261,8 @@ amziai:
   global_id: t-174238
   teiginys: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, užbaigtas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys); mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Daugirdas|Daugirdas]] užėmė Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, užbaigtas ir pagrįstas citata.'
@@ -282,7 +284,7 @@ amziai:
   global_id: t-174239
   teiginys: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1377 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas.'
@@ -484,13 +486,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Daugirdas laikinai užėmė Žemutinę Vilniaus pilį.
     - t-012
 
 - c-006
@@ -591,13 +593,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Trakai: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Kęstutį su Trakų pilių gynyba, nors objektas kandidatuose pateiktas kaip Trakai.
     - t-007
 
 - c-009
@@ -645,13 +647,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=82c875819de190261137cf0df0edeb8177d8e4d31c7018225182717f1c1880cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus pilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Vilniaus pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užpuolė Vilniaus pilis.
     - t-002
 
 - c-011
@@ -853,10 +855,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473298-474103; hash=3d058cd0189aabae89e9b9419d80c49cdbcb1cc860e21448ccd0755de8376a88; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Elena pastatydino namą.
+
+## Ryšiai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)
+- [[objektai/asmenys/Daugirdas]] uzeme Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)

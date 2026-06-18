@@ -21,56 +21,57 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   global_id: t-72515
   teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti.'
   sudarymo_pagrindimas: 'Pradinis teiginys nėra apie draugiją, bet citata leidžia suformuluoti faktą apie jos veiklos sąlygas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija; llm_object: Suomija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46d006d3d6a2473df2f96c4405c28960c790890c66963f65b140a7f2b110572f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lietuvių Suomių Draugija yra Suomijoje.
 
 <a id="claim-t-72516"></a>
 - t-002
   global_id: t-72516
   teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija; llm_object: Suomija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ad645c3ec2550ad99ff34af37da99cf102325ce34c24c040a30fe301198f585; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Suomijoje buvo apie šimtą lietuvių.
 
 <a id="claim-t-72517"></a>
 - t-003
   global_id: t-72517
   teiginys: 'Suomijoje veikė Lietuvių Suomių Draugija.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių Draugija Estijoje|Lietuvių Draugija Estijoje]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija; mentioned_place: Tartai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių Draugija Estijoje|Lietuvių Draugija Estijoje]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Suomija; mentioned_place: Tartai; llm_object: Suomija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių Suomių Draugija|Lietuvių Suomių Draugija]] gyveno Suomija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1321864-1322181; hash=9f36fa554f0e1dbfd1f337962ab1b9b44eb182ba55ecca5112b640f3cfe119d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Suomijoje buvo apie šimtą lietuvių.
 
 ## Reikšmingi paminėjimai
 
@@ -105,13 +106,13 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46d006d3d6a2473df2f96c4405c28960c790890c66963f65b140a7f2b110572f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lietuvių Suomių Draugija yra Suomijoje.
     - t-002
 
 - c-003
@@ -129,21 +130,24 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ad645c3ec2550ad99ff34af37da99cf102325ce34c24c040a30fe301198f585; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Suomijoje buvo apie šimtą lietuvių.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1321864-1322181; hash=9f36fa554f0e1dbfd1f337962ab1b9b44eb182ba55ecca5112b640f3cfe119d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Suomių Draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Suomių Draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Suomija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Suomija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Suomijoje buvo apie šimtą lietuvių.
+
+## Ryšiai
+- Lietuvių Suomių Draugija gyveno [[objektai/vietos/Suomija]]

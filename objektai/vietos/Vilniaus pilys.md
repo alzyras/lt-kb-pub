@@ -38,20 +38,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Trakai: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Kęstutį su Trakų pilių gynyba.
 
 <a id="claim-t-85966"></a>
 - t-002
   global_id: t-85966
   teiginys: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1377 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas.'
@@ -73,7 +73,8 @@ amziai:
   global_id: t-85967
   teiginys: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, užbaigtas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Vilniaus pilys; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Daugirdas|Daugirdas]] užėmė Vilniaus pilys'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, užbaigtas ir pagrįstas citata.'
@@ -82,13 +83,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilniaus pilys: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Daugirdas laikinai užėmė Žemutinę Vilniaus pilį.
 
 <a id="claim-t-85968"></a>
 - t-004
@@ -205,13 +206,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilniaus pilys: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Daugirdas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Daugirdas laikinai užėmė Žemutinę Vilniaus pilį.
     - t-004
 
 - c-004
@@ -268,13 +269,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Trakai: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pilys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilys" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja Kęstutį su Trakų pilių gynyba.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eef6b6da4cc41a0b6bde47ae19bda4893764d3cdb8972eae225979ea85e435fe; match=fallback; occurrences=0
@@ -286,3 +287,6 @@ amziai:
   ryšio_subjekto_parinkimas: Vilniaus pilys: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pilininkas: mention_match, thing, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pilys" parinktas kaip owner_note_path. Targetas "Pilininkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Daugirdas]] uzeme Vilniaus pilys

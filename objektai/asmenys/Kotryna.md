@@ -79,6 +79,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
   ryšio_subjekto_parinkimas: Kotryna: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Augustas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kotryna" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
+- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
 - susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185552|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.
@@ -182,3 +184,7 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
   ryšio_subjekto_parinkimas: Kotryna: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Augustas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kotryna" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] vede Kotryna
+- [[objektai/asmenys/Pranciškus Gonzaga]] buvo_vyras Kotryna

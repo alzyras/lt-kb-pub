@@ -48,7 +48,8 @@ Nenurodyta
   global_id: t-78675
   teiginys: 'Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie antsiuvą ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Užpelkiai; llm_object: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas|Prisikėlimo apygardos partizanų antsiuvas]] priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
   temporaliniai_duomenys: 'įvykio data: po 1949 m.; įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie antsiuvą ir remiasi citata.'
@@ -57,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f16da609d7bf61b7e2d65b3b29e70291d4e65be2661e068b58002bb4e414b56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos laisvės kovos sąjūdis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisikėlimo apygardos partizanų antsiuvas" parinktas kaip owner_note_path. Targetas "Lietuvos laisvės kovos sąjūdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Antsiuvas tiesiogiai įvardytas kaip patvirtintas bendru LLKS antsiuvu, todėl siejamas su LLKS.
 
 ## Reikšmingi paminėjimai
 
@@ -95,21 +96,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f16da609d7bf61b7e2d65b3b29e70291d4e65be2661e068b58002bb4e414b56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos laisvės kovos sąjūdis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisikėlimo apygardos partizanų antsiuvas" parinktas kaip owner_note_path. Targetas "Lietuvos laisvės kovos sąjūdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Antsiuvas tiesiogiai įvardytas kaip patvirtintas bendru LLKS antsiuvu, todėl siejamas su LLKS.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f16da609d7bf61b7e2d65b3b29e70291d4e65be2661e068b58002bb4e414b56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos laisvės kovos sąjūdis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisikėlimo apygardos partizanų antsiuvas" parinktas kaip owner_note_path. Targetas "Lietuvos laisvės kovos sąjūdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prisikėlimo apygardos partizanų antsiuvas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Antsiuvas tiesiogiai įvardytas kaip patvirtintas bendru LLKS antsiuvu, todėl siejamas su LLKS.
+
+## Ryšiai
+- Prisikėlimo apygardos partizanų antsiuvas priklause [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

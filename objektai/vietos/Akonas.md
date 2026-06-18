@@ -69,7 +69,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   global_id: t-179737
   teiginys: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų faktą apie palaidojimą Akone.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] buvo palaidotas Akonas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -88,19 +89,20 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   global_id: t-179739
   teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai atitinka citatos sakinį apie statybas prie Akono sienų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija; llm_object: Akonas'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] pastatė Akonas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Valpotas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas Valpotas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Henrikas Valpotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone.
 
 <a id="claim-t-179740"></a>
 - t-004
@@ -162,19 +164,20 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   global_id: t-179743
   teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Henriko Valpoto veiksmą Akone ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Akonas; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] buvo palaidotas Akonas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] pastatė Akonas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bremenas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bremenas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Bremenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Henrikas Valpotas buvo palaidotas Akone.
 
 <a id="claim-t-179744"></a>
 - t-008
@@ -188,13 +191,13 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Valpotas: 0.85
+  ryšio_patikimumas: pastate -> Akonas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas Valpotas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Henrikas Valpotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Valpotas pastatydino statinius prie Akono miesto sienų; leistinas objektas yra tik Akonas.
 
 <a id="claim-t-179745"></a>
 - t-009
@@ -208,12 +211,9 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=65eb746fa3c823c768e18b0bf146ab9be0cb2aebaa1aa6af9b88a3a8d9910347; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
+- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Hermanas Bartas.md#claim-t-60325|Hermanas Bartas]]: Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.
-- susijęs iš [[objektai/asmenys/Hermanas Bartas.md#claim-t-60325|Hermanas Bartas]]: Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.
-- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
-- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Hermanas Bartas.md#claim-t-60325|Hermanas Bartas]]: Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
@@ -226,6 +226,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 - susijęs iš Akmena (Mituvos intakas): Ašeradė) Akmena (Jūros intakas), u.
 - susijęs iš Jeruzalė: Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš Marienburgas: Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.
+- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-60400|Otonas]]: Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -355,24 +356,24 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Valpotas: 0.85
+  ryšio_patikimumas: pastate -> Akonas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas Valpotas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Henrikas Valpotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Valpotas pastatydino statinius prie Akono miesto sienų; leistinas objektas yra tik Akonas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a8a64a4985f8865496f22290036bb92f4458c773cccd03fb56dc7c00f9882e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Valpotas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas Valpotas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Henrikas Valpotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone.
     - t-007
 
 - c-006
@@ -391,13 +392,13 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bremenas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bremenas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Bremenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Henrikas Valpotas buvo palaidotas Akone.
     - t-006
 
 - c-007
@@ -432,9 +433,8 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akonas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas Valpotas]] buvo_palaidotas Akonas
-- [[objektai/asmenys/Henrikas Valpotas]] mire Akonas
-- [[objektai/asmenys/Hermanas Bartas]] buvo_palaidotas Akonas
-- [[objektai/asmenys/Hermanas Bartas]] mire Akonas
 - [[objektai/asmenys/Otonas]] buvo_palaidotas Akonas
+- [[objektai/asmenys/Henrikas Valpotas]] buvo_palaidotas Akonas
+- [[objektai/asmenys/Hermanas Bartas]] buvo_palaidotas Akonas
+- [[objektai/asmenys/Henrikas Valpotas]] pastate Akonas
 - [[objektai/asmenys/Otonas]] mire Akonas

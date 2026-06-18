@@ -57,19 +57,20 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   global_id: t-78202
   teiginys: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs inicialas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lenkija; mentioned_place: Jasai; mentioned_place: Turkija; mentioned_place: Valakija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lenkija; mentioned_place: Jasai; mentioned_place: Turkija; mentioned_place: Valakija; llm_object: Valakija'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]] keliavo į Valakija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83290cf7eb18c9d90be5628b2b2dc515258a699d94cc4ea0258a73e474d43dfd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lenkija: 0.90
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lenkijos kariuomenė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilnius atiteko Lenkijai.
 
 <a id="claim-t-78204"></a>
 - t-003
@@ -85,8 +86,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   global_id: t-78205
   teiginys: 'Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.'
   sudarymo_pagrindimas: 'Išskleisti inicialais žymėti asmenvardžiai.'
-  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Vilnija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]] užėmė Lenkija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Vilnija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleisti inicialais žymėti asmenvardžiai.'
@@ -95,13 +95,13 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0d298fbde80859e11fb0814f86f39bdcb2143ea9d9f311ce178f5ac2aaf458a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: keliavo_i -> Valakija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos kariuomenė" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Valakija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Lenkijos kariuomenė įžengė į Valakiją; tai pagrindžia judėjimą į šią vietą.
 - susijęs iš [[objektai/asmenys/Juzefas Poniatovskis.md#claim-t-19045|Juzefas Poniatovskis]]: Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102835|A. Vijūkas Kojelavičius]]: Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102838|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
@@ -196,13 +196,13 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0d298fbde80859e11fb0814f86f39bdcb2143ea9d9f311ce178f5ac2aaf458a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: keliavo_i -> Valakija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos kariuomenė" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Valakija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Lenkijos kariuomenė įžengė į Valakiją; tai pagrindžia judėjimą į šią vietą.
     - t-002
 
 - c-004
@@ -228,14 +228,16 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83290cf7eb18c9d90be5628b2b2dc515258a699d94cc4ea0258a73e474d43dfd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lenkija: 0.90
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lenkijos kariuomenė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilnius atiteko Lenkijai.
     - t-003
 
 ## Ryšiai
-- Lenkijos kariuomenė uzeme [[objektai/vietos/Lenkija]]
+- Lenkijos kariuomenė keliavo_i [[objektai/vietos/Valakija]]
+- Lenkijos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
+- Lenkijos kariuomenė keliavo_i [[objektai/vietos/Volbožas]]

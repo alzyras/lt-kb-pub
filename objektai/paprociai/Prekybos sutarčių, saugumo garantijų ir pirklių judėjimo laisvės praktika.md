@@ -50,26 +50,26 @@ Nenurodyta
   global_id: t-87146
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Vroclavas; llm_object: Kistrinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Švitrigaila: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo bojarinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila.
 
 <a id="claim-t-87147"></a>
 - t-002
   global_id: t-87147
   teiginys: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
   sudarymo_pagrindimas: 'Teiginys buvo per ilgas ir su OCR triukšmu, bet citata palaiko sutarties faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Naugardas; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Naugardas; mentioned_place: Ryga; llm_object: [[objektai/grupes/Rusai|Rusai]]; llm_object: Ryga'
   pagrindžia:
     - c-002
 
@@ -140,11 +140,11 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Švitrigaila: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo bojarinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila.
     - t-002

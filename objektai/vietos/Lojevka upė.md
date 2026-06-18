@@ -23,19 +23,20 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
   global_id: t-41884
   teiginys: 'Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai susieja Lojevkos upę su ginama užtvanka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; llm_object: Lojevka upė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Lojevka upė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d4f82c523419c81dfc7d274f1ff46adbfcdd04bfbe44f219b9766f1a484d175; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevka upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevka upė" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lojevka upė: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lojevka upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d4f82c523419c81dfc7d274f1ff46adbfcdd04bfbe44f219b9766f1a484d175; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevka upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevka upė" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lojevka upė: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lojevka upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyne Lojevka upė

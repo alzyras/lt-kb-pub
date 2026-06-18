@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis Didysis|Karolis Didysis]]; mentioned_place: Italija'
+  susije_objektai: 'llm_object: Italija; mentioned_person: [[objektai/asmenys/Karolis Didysis|Karolis Didysis]]; mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 754 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
@@ -43,13 +43,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89629-90157; hash=2ac54b8953706f31ef925dc17ff6745d2b1ddfa3f7786dcca3fe946701bb6bc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karolio Didžiojo žygis prieš langobardus (776 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolio Didžiojo žygis prieš langobardus (776 m.)" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Italija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karolis Didysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Karolis Didysis tiesiogiai įsiveržė į Italiją su kariuomene.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89629-90157; hash=2ac54b8953706f31ef925dc17ff6745d2b1ddfa3f7786dcca3fe946701bb6bc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karolio Didžiojo žygis prieš langobardus (776 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolio Didžiojo žygis prieš langobardus (776 m.)" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Italija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karolis Didysis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Karolis Didysis tiesiogiai įsiveržė į Italiją su kariuomene.

@@ -72,7 +72,8 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   global_id: t-56967
   teiginys: 'Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas išnašos numeriu; citata palaiko Agotos pritarimą sprendimui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Agota|Agota]] rėmė [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir užterštas išnašos numeriu; citata palaiko Agotos pritarimą sprendimui.'
@@ -81,13 +82,13 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   irodymo_stiprumas: 0.00
   saltinio_vieta: 141821-143066; hash=61d35884a445e2172105b8dcc3b3434a098eaaa3bd8e45e834924b9d3226a9ec; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Agota (kunigaikščio žmona, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Agota (kunigaikščio žmona, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Teutonai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Agota (kunigaikščio žmona, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Agota pritarė sprendimui dėl Teutonų ordino brolių.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59933|Konradas (Mazovijos kunigaikštis)]]: Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes.
 - susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-60471|Zemovitas]]: Zemovitas kartu su Boleslovu, Kazimieru ir Agota pritarė Konrado sprendimui Teutonų ordinui atiduoti Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
@@ -150,13 +151,13 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   irodymo_stiprumas: 0.00
   saltinio_vieta: 141821-143066; hash=61d35884a445e2172105b8dcc3b3434a098eaaa3bd8e45e834924b9d3226a9ec; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Agota (kunigaikščio žmona, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Agota (kunigaikščio žmona, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Teutonai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Agota (kunigaikščio žmona, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Agota pritarė sprendimui dėl Teutonų ordino brolių.
     - t-001
 
 - c-003
@@ -195,3 +196,6 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   ryšio_subjekto_parinkimas: Agota (kunigaikščio žmona, XIII a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Agota (kunigaikščio žmona, XIII a.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Agota (kunigaikščio žmona, XIII a.) reme [[objektai/grupes/Teutonai]]

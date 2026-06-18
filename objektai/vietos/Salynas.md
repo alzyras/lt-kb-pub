@@ -136,19 +136,20 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paverstas aiškiu enciklopediniu sakiniu apie Salyną.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salyne; mentioned_place: Suvalkai; mentioned_place: Šešupė'
+  susije_objektai: 'llm_object: Nemunas; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salyne; mentioned_place: Suvalkai; mentioned_place: Šešupė'
+  semantiniai_rysiai: 'Salynas priklausė Nemunas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 248221-248566; hash=ded160d9b920230005c4975da99a90cab482452852f4bb88c5731eff9b940c20; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salynas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nemunas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Salynas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai apibūdina Salyną kaip salą Nemune.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178862|Kryžiuočių ordinas]]: Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179360|Livonijos ordinas]]: Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.
 - susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95957|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.
@@ -200,6 +201,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-72004|unija]]: Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-72005|unija]]: Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.
 - susijęs iš [[objektai/zodynas/Činšas činšininkas.md#claim-t-99977|Činšas činšininkas]]: Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.
+- susijęs iš Salyno sala: Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -322,10 +324,14 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 248221-248566; hash=ded160d9b920230005c4975da99a90cab482452852f4bb88c5731eff9b940c20; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salynas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nemunas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Salynas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai apibūdina Salyną kaip salą Nemune.
+
+## Ryšiai
+- Salynas priklause [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Salyno sala]] priklause Salynas

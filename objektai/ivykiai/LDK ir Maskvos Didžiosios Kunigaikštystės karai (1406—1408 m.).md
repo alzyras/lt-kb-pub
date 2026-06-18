@@ -54,7 +54,7 @@ Nenurodyta
   teiginys: 'Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Subjektas išskleistas kaip Bychovco kronikos epizodas, o interpretacija palikta su komentaro atribucija. Nepridėta karų priežasčių ar veiksmų detalių.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Naugardas; mentioned_place: Pskovas; llm_object: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]'
   temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Subjektas išskleistas kaip Bychovco kronikos epizodas, o interpretacija palikta su komentaro atribucija. Nepridėta karų priežasčių ar veiksmų detalių.'
@@ -63,13 +63,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuvos kariuomenė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Komentaras mini LDK ir Maskvos karus bei maskvėnų kariuomenės puolimus.
 
 <a id="claim-t-186732"></a>
 - t-002
@@ -165,13 +165,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuvos kariuomenė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Komentaras mini LDK ir Maskvos karus bei maskvėnų kariuomenės puolimus.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=fallback; occurrences=0

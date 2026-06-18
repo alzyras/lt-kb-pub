@@ -31,7 +31,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   global_id: t-18861
   teiginys: 'Eidintas ir bendraautoriai rašo, kad Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   sudarymo_pagrindimas: '„Atrado Lietuvą“ yra autorių formuluotė, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]] keliavo į Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -81,13 +82,13 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunonas Bonifacijus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atradimo formuluotė tiesiogiai sieja Brunoną su atvykimu ar pasiekimu Lietuvoje, nors tai nėra įprastas kelionės veiksmažodis.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19170|Netimeras]]: Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75093|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus rado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir pasikrikštijo.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
@@ -131,13 +132,13 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunonas Bonifacijus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atradimo formuluotė tiesiogiai sieja Brunoną su atvykimu ar pasiekimu Lietuvoje, nors tai nėra įprastas kelionės veiksmažodis.
     - t-002
 
 - c-003
@@ -176,3 +177,6 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
   ryšio_subjekto_parinkimas: Brunonas Bonifacijus: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunonas Bonifacijus" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Brunonas Bonifacijus keliavo_i [[objektai/vietos/Lietuva]]

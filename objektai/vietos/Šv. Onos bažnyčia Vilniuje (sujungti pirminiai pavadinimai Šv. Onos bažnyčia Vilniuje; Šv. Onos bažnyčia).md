@@ -30,19 +30,20 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   global_id: t-174598
   teiginys: 'Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie statybos pradžią ir paskirtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  susije_objektai: 'llm_object: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia); mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 555274-555738; hash=8a28a92b4195b8480f500f17f99e19908eaf4fbc515093ce148c69754e7e1971; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad karalius Žygimantas Augustas pradėjo statyti Šv. Onos bažnyčią.
 
 <a id="claim-t-174600"></a>
 - t-002
@@ -55,20 +56,21 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cdb9ae4b28cad7d0acbdecf8ed2f1bd28699e6c182cb08dfff0504eda1f4a540; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote sieja Šv. Onos bažnyčią su Vilniaus pilimi.
 
 <a id="claim-t-174601"></a>
 - t-003
   global_id: t-174601
   teiginys: 'Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.'
   sudarymo_pagrindimas: 'Citata pagrindžia fundacijos ir aprūpinimo turinį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; llm_object: Vilnius'
+  semantiniai_rysiai: 'Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia) priklausė Vilnius'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -115,26 +117,28 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   global_id: t-174604
   teiginys: 'Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva; llm_object: Krokuva; llm_object: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)'
+  semantiniai_rysiai: '[[objektai/daiktai/Drabužiai|Drabužiai]] priklausė Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 659317-659818; hash=f82b17e03a8d80cca50a7a267216e9ff92719875fae7d95dee48fd7dc3a18359; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šv. Onos bažnyčios klebonija siejama su didžiąja Vilniaus pilimi.
 
 <a id="claim-t-174605"></a>
 - t-007
   global_id: t-174605
   teiginys: 'Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Šv. Onos bažnyčia; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Šv. Onos bažnyčia; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia) priklausė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'
@@ -194,13 +198,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 555274-555738; hash=8a28a92b4195b8480f500f17f99e19908eaf4fbc515093ce148c69754e7e1971; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad karalius Žygimantas Augustas pradėjo statyti Šv. Onos bažnyčią.
     - t-007
 
 - c-003
@@ -260,13 +264,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 659317-659818; hash=f82b17e03a8d80cca50a7a267216e9ff92719875fae7d95dee48fd7dc3a18359; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šv. Onos bažnyčios klebonija siejama su didžiąja Vilniaus pilimi.
     - t-005
 
 - c-005
@@ -314,13 +318,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cdb9ae4b28cad7d0acbdecf8ed2f1bd28699e6c182cb08dfff0504eda1f4a540; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote sieja Šv. Onos bažnyčią su Vilniaus pilimi.
     - t-004
 
 - c-007
@@ -362,3 +366,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)
+- Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia) priklause [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Drabužiai]] priklause Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)

@@ -23,19 +23,20 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkytas ilgas sakinys ir paliktas aiškus faktas apie persikėlimą per Dneprą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Pripetė'
+  susije_objektai: 'llm_object: Dnepras; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Pripetė'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaidanas|Kaidanas]] keliavo į Dnepras'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131540-131889; hash=e4f8757a88e93f5fd587876f740fcf7341498d16a1c50815a25a08f32cda545b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaidanas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dnepras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dnepras" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dnepras: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaidanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dnepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kaidano judėjimas per Dneprą tiesiogiai aprašytas tekste.
 
 <a id="claim-t-185235"></a>
 - t-002
@@ -118,6 +119,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Pripetė: Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-185382|duoklė]]: Erdvilas atsisakė skitams mokėti duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.
+- susijęs iš Lojevas: Lojevas buvo BTSR miestas vakariniame Dnepro krante ties Sožo ir Dnepro santaka, apie 160 km į šiaurę nuo Kijevo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -161,13 +163,13 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131540-131889; hash=e4f8757a88e93f5fd587876f740fcf7341498d16a1c50815a25a08f32cda545b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaidanas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dnepras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dnepras" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dnepras: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaidanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dnepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kaidano judėjimas per Dneprą tiesiogiai aprašytas tekste.
     - t-002
 
 - c-003
@@ -231,3 +233,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   ryšio_subjekto_parinkimas: Dnepras: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brianskas: mention_match, place, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dnepras" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Kaidanas]] keliavo_i Dnepras
+- [[objektai/vietos/Lojevas]] priklause Dnepras

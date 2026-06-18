@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-66992
   teiginys: '1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -71,13 +71,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 303758-304126; hash=42839fad0cea47967e30ea02fb5b81b9ca60b91ff8ff1f206940861689f5c29e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto mirtis (1430 m. spalio 27 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto mirtis (1430 m. spalio 27 d.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas išjojo į Trakus.
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
 ## Reikšmingi paminėjimai
 
@@ -125,10 +125,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 303758-304126; hash=42839fad0cea47967e30ea02fb5b81b9ca60b91ff8ff1f206940861689f5c29e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto mirtis (1430 m. spalio 27 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto mirtis (1430 m. spalio 27 d.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas išjojo į Trakus.

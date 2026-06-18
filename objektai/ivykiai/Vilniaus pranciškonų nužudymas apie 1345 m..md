@@ -52,7 +52,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - t-001
   global_id: t-55145
   teiginys: 'Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1345 m.; įvykio data: apie 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -60,19 +60,19 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   irodymo_stiprumas: 0.00
   saltinio_vieta: 82826-83480; hash=b55d5bf3c6125ae5f2bef244ed869b15c11be7358fbcd4bcb1db121d42d0590a; match=whitespace_regex
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pranciškonų nužudymas apie 1345 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pranciškonų nužudymas apie 1345 m." parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo prastuomenės smurtą prieš pranciškonų vienuolyną ir vienuolius.
 
 <a id="claim-t-55146"></a>
 - t-002
   global_id: t-55146
   teiginys: 'Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   temporaliniai_duomenys: 'įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -83,7 +83,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   global_id: t-81828
   teiginys: '1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR triukšmingas ir ne apie patį nužudymo įvykį; citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   temporaliniai_duomenys: 'įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR triukšmingas ir ne apie patį nužudymo įvykį; citata leidžia suformuluoti aiškų faktą.'
@@ -92,13 +92,13 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   irodymo_stiprumas: 0.00
   saltinio_vieta: 84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=whitespace_regex
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pranciškonų nužudymas apie 1345 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pranciškonų nužudymas apie 1345 m." parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai dalyvavo pranciškonų vienuolyno užpuolime.
 
 ## Reikšmingi paminėjimai
 
@@ -150,22 +150,22 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   irodymo_stiprumas: 0.00
   saltinio_vieta: 82826-83480; hash=b55d5bf3c6125ae5f2bef244ed869b15c11be7358fbcd4bcb1db121d42d0590a; match=whitespace_regex
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pranciškonų nužudymas apie 1345 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pranciškonų nužudymas apie 1345 m." parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo prastuomenės smurtą prieš pranciškonų vienuolyną ir vienuolius.
     - t-002
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=whitespace_regex
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pranciškonų nužudymas apie 1345 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pranciškonų nužudymas apie 1345 m." parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai dalyvavo pranciškonų vienuolyno užpuolime.

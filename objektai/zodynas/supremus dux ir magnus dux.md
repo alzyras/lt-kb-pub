@@ -28,7 +28,7 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   global_id: t-11684
   teiginys: 'Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Vytauto titulą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų sakinį apie Vytauto titulą.'

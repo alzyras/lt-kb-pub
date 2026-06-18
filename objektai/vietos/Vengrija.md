@@ -40,7 +40,8 @@ amziai:
   global_id: t-180762
   teiginys: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie įsiveržimą ir padarinius, pašalinus antraštės bei OCR triukšmą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vroclavas'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vengrija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vroclavas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija'
   pagrindžia:
     - c-001
 
@@ -70,7 +71,8 @@ amziai:
   global_id: t-180765
   teiginys: '1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio įvardijimas ir antraštės triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: Vengrija'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija'
   pagrindžia:
     - c-002
 
@@ -118,13 +120,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae6fdb6f39f8e9f67abae75ff5b7e677938b3936bd31a617d553f99e00e6485; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių judėjimas iš Vengrijos galutiniam supirkimui į Vilnių remia prekybinį ryšį, nors tarpininkė Krokuva nėra kandidatuose.
 
 <a id="claim-t-180770"></a>
 - t-009
@@ -150,19 +152,20 @@ amziai:
 - t-010
   global_id: t-180772
   teiginys: 'Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; llm_object: Vilnius'
+  semantiniai_rysiai: 'Vengrija prekiavo su Vilnius'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae6fdb6f39f8e9f67abae75ff5b7e677938b3936bd31a617d553f99e00e6485; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių maršrutas iš Vengrijos per Krokuvą į Vilnių rodo prekybinį ryšį.
 
 <a id="claim-t-180773"></a>
 - t-011
@@ -181,7 +184,8 @@ amziai:
   global_id: t-180774
   teiginys: 'Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra gramatikos klaida ir pašalinis išnašos numeris.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; llm_object: Vilnius'
+  semantiniai_rysiai: 'Vengrija prekiavo su Vilnius'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -231,13 +235,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkija kartu su Vengrija nurodyta kaip totorių įsiveržimo objektas.
 
 <a id="claim-t-185174"></a>
 - t-015
@@ -253,13 +257,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 744238-744444; hash=01de3f7b006b37d96f4001d7f7e9b4614932d8b39b0cd7989030f7ad0c730e6e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumas: puole -> Vengrija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių kariuomenė siaubė Vengrijos karalystę; objektas apibendrintas kaip Vengrija.
 
 <a id="claim-t-185175"></a>
 - t-016
@@ -282,15 +286,24 @@ amziai:
   ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
+- susijęs iš [[objektai/asmenys/Kolomanas.md#claim-t-60357|Kolomanas]]: Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.
+- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
+- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
+- susijęs iš Lenkija: Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-59436|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.
+- susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
+- susijęs iš Lenkija: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-183572|Steponas (Vengrijos valdovas)]]: Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
-- susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19264|Steponas (Vengrijos valdovas)]]: Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171443|Totoriai]]: 1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171407|Totoriai]]: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
-- susijęs iš Kezmarkas: Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171439|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183905|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-183971|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-59435|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai nuniokojo Vengriją ir Lenkiją.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-184257|Elžbieta]]: Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82294|Elžbieta]]: Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.
 - susijęs iš [[objektai/asmenys/Izabelė Jogailaitė.md#claim-t-87696|Izabelė Jogailaitė]]: Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.
@@ -309,6 +322,7 @@ amziai:
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92957|Du pliki kardai]]: Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.
 - susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-182891|Habsburgai]]: Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187744|Pranciškonų ordinas]]: Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171407|Totoriai]]: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171439|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
@@ -414,6 +428,7 @@ amziai:
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179390|Livonijos ordinas]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108317|Pranciškonų ordinas]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108324|Pranciškonų ordinas]]: Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171443|Totoriai]]: 1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
 - susijęs iš [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra.md#claim-t-75040|Vilniaus universiteto Lietuvių literatūros katedra]]: Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
@@ -534,6 +549,11 @@ amziai:
 - susijęs iš [[objektai/zodynas/prelatai ir kanauninkai.md#claim-t-86544|prelatai ir kanauninkai]]: Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.
 - susijęs iš [[objektai/zodynas/specfondai.md#claim-t-70328|specfondai]]: Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.
 - susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
+- susijęs iš [[objektai/grupes/Habsburgų dinastija.md#claim-t-19699|Habsburgų dinastija]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171443|Totoriai]]: 1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.
+- susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -587,13 +607,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae6fdb6f39f8e9f67abae75ff5b7e677938b3936bd31a617d553f99e00e6485; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių judėjimas iš Vengrijos galutiniam supirkimui į Vilnių remia prekybinį ryšį, nors tarpininkė Krokuva nėra kandidatuose.
     - t-005
 
 - c-004
@@ -691,13 +711,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae6fdb6f39f8e9f67abae75ff5b7e677938b3936bd31a617d553f99e00e6485; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių maršrutas iš Vengrijos per Krokuvą į Vilnių rodo prekybinį ryšį.
     - t-012
 
 - c-008
@@ -774,13 +794,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkija kartu su Vengrija nurodyta kaip totorių įsiveržimo objektas.
     - t-015
 
 - c-011
@@ -803,13 +823,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 744238-744444; hash=01de3f7b006b37d96f4001d7f7e9b4614932d8b39b0cd7989030f7ad0c730e6e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumas: puole -> Vengrija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių kariuomenė siaubė Vengrijos karalystę; objektas apibendrintas kaip Vengrija.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57d5864f66c40ef7fd92048954a71ae49b14d547598ae93ddac54f7892fa3d54; match=fallback; occurrences=0
@@ -823,10 +843,12 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Vengrija
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] buvo_valdovas Vengrija
+- [[objektai/grupes/Totoriai]] puole Vengrija
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vengrija
+- [[objektai/grupes/Jogailaičių dinastija]] valde Vengrija
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Vengrija
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Vengrija
 - [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Steponas (Vengrijos valdovas)]] buvo_valdovas Vengrija
-- [[objektai/grupes/Totoriai]] susije_su Vengrija
-- [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]] buvo_valdovas Vengrija
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]] buvo_valdovas Vengrija
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] valde Vengrija
+- Vengrija prekiavo_su [[objektai/vietos/Vilnius]]

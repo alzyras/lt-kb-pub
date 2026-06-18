@@ -34,7 +34,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   global_id: t-59957
   teiginys: '1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra per ilgas ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Bisenė; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Bisenė; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Bisenė'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]] surengė žygį į Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra per ilgas ir turi antraštės triukšmo.'
@@ -43,20 +44,21 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68d31121c351a5387582d984f40ec3e415c0ebe60a8502c0931e18db784947fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Fridricho Kvico žygį link Bisenės pilies.
 
 <a id="claim-t-59958"></a>
 - t-002
   global_id: t-59958
   teiginys: '1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi neaiškių įvardžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Ulrichas iš Drinlevės|Ulrichas iš Drinlevės]]; mentioned_place: Prūsija; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Ulrichas iš Drinlevės|Ulrichas iš Drinlevės]]; mentioned_place: Prūsija; mentioned_place: Tepliava; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1319 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi neaiškių įvardžių.'
@@ -78,7 +80,8 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   global_id: t-59959
   teiginys: '1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.'
   sudarymo_pagrindimas: 'Citata remia Fridricho Kvico žūtį ir apibūdinimą; pašalintas išnašų triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_place: Šiauliai; llm_object: Vėluva; llm_object: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia Fridricho Kvico žūtį ir apibūdinimą; pašalintas išnašų triukšmas.'
@@ -87,13 +90,13 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridrichas Kvicas kartu su Ulrichu persekiojo lietuvius ir nukovė jų vyrus.
 
 <a id="claim-t-59960"></a>
 - t-004
@@ -106,13 +109,13 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: 669831-672231; hash=d99b5f3c5ff1750a17a5f523c0bf7220c670ac827079f79d6063df1de47c460b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių veiksmus Vėluvos valsčiuje.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59950|Ditrichas iš Altenburgo]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Hartmanas.md#claim-t-60299|Hartmanas]]: 1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
@@ -194,13 +197,13 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68d31121c351a5387582d984f40ec3e415c0ebe60a8502c0931e18db784947fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Fridricho Kvico žygį link Bisenės pilies.
     - t-003
 
 - c-003
@@ -223,13 +226,13 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridrichas Kvicas kartu su Ulrichu persekiojo lietuvius ir nukovė jų vyrus.
     - t-004
 
 - c-004
@@ -254,24 +257,24 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   irodymo_stiprumas: 0.00
   saltinio_vieta: 669831-672231; hash=d99b5f3c5ff1750a17a5f523c0bf7220c670ac827079f79d6063df1de47c460b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių veiksmus Vėluvos valsčiuje.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridrichas Kvicas kartu su Ulrichu persekiojo lietuvius ir nukovė jų vyrus.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45088ca7186321129bfa4c3c70dce2615336e85535ca4ced53319cac3720676c; match=fallback; occurrences=0
@@ -283,3 +286,12 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
   ryšio_subjekto_parinkimas: Fridrichas Kvicas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas Kvicas" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Fridrichas Kvicas surenge_zygi_i [[objektai/vietos/Bisenė]]
+- Fridrichas Kvicas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Fridrichas Kvicas uzeme [[objektai/vietos/Bisenė]]
+- Fridrichas Kvicas puole [[objektai/vietos/Bisenė]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Fridrichas Kvicas
+- Fridrichas Kvicas puole [[objektai/grupes/Lietuviai]]
+- Fridrichas Kvicas puole [[objektai/vietos/Pagraudė]]

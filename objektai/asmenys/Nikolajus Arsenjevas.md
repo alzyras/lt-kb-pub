@@ -21,38 +21,40 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - t-001
   global_id: t-40372
   teiginys: 'Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/A. Nelepcos|A. Nelepcos]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/A. Nelepcos|A. Nelepcos]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Nikolajus Arsenjevas|Nikolajus Arsenjevas]] gynė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4be57b3e3827ed9535ad9ff4dd5a0ce6ec556c9467340e222d08a8c33c6d6cb4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bogdanas Knorringas: 0.83
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bogdanas Knorringas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nikolajus Arsenjevas" parinktas kaip owner_note_path. Targetas "Bogdanas Knorringas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sukilėliams puolant miestą, Arsenjevas vadovavo Vilniaus įgulai, taigi gynė Vilnių.
 
 <a id="claim-t-40373"></a>
 - t-002
   global_id: t-40373
   teiginys: 'Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Knorringas|Bogdanas Knorringas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Knorringas|Bogdanas Knorringas]]; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Nikolajus Arsenjevas|Nikolajus Arsenjevas]] gynė Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 614590-614858; hash=709993e215ab00ec179bebe5b46df95687610eb29806fb14dc54c7d68ad7197e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Nelepcos: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Nelepcos: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nikolajus Arsenjevas" parinktas kaip owner_note_path. Targetas "A. Nelepcos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Arsenjevas įvardytas Vilniaus įgulos vadu, o kontekstas aprašo sukilėlių puolimą.
 - susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-183758|Nikolajus Repinas]]: Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.
 ## Reikšmingi paminėjimai
 
@@ -95,21 +97,24 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4be57b3e3827ed9535ad9ff4dd5a0ce6ec556c9467340e222d08a8c33c6d6cb4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bogdanas Knorringas: 0.83
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bogdanas Knorringas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nikolajus Arsenjevas" parinktas kaip owner_note_path. Targetas "Bogdanas Knorringas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sukilėliams puolant miestą, Arsenjevas vadovavo Vilniaus įgulai, taigi gynė Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 614590-614858; hash=709993e215ab00ec179bebe5b46df95687610eb29806fb14dc54c7d68ad7197e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Nelepcos: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Nelepcos: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nikolajus Arsenjevas" parinktas kaip owner_note_path. Targetas "A. Nelepcos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nikolajus Arsenjevas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Arsenjevas įvardytas Vilniaus įgulos vadu, o kontekstas aprašo sukilėlių puolimą.
+
+## Ryšiai
+- Nikolajus Arsenjevas gyne [[objektai/vietos/Vilnius]]

@@ -68,6 +68,12 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   ryšio_subjekto_parinkimas: Perejeslavlis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perejeslavlis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
+- susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
+- susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
+- susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
+- susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
@@ -140,3 +146,6 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   ryšio_subjekto_parinkimas: Perejeslavlis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perejeslavlis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Gediminas]] uzeme Perejeslavlis

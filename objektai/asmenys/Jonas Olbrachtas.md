@@ -81,19 +81,20 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Joną Olbrachtą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]] kariavo prieš [[objektai/grupes/Vengrai|Vengrai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 947582-947819; hash=5e033165d3f88db27da336e768ec874105f228437cb8d749c4851b385065b5e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vengrai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olbrachtas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olbrachtas" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Vengrai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mūšis su vengrų kariuomene tiesiogiai rodo karinį konfliktą.
 
 <a id="claim-t-185966"></a>
 - t-004
@@ -103,19 +104,20 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys konkrečiai nusako Jono Olbrachto veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Maskva; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Maskva; mentioned_place: Poznanė; llm_object: [[objektai/asmenys/Vladislovas|Vladislovas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]] buvo brolis [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 993411-993867; hash=eb8512085c929547e2810712e6f2c0dd733bfa95c007d19bda6bc9252a33c0c9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumas: buvo_brolis -> Vladislovas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olbrachtas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olbrachtas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Vladislovas ir Jonas apibendrinami kaip broliai karaliai.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.).md#claim-t-185576|Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]: Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186770|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
@@ -237,24 +239,26 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 947582-947819; hash=5e033165d3f88db27da336e768ec874105f228437cb8d749c4851b385065b5e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vengrai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olbrachtas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olbrachtas" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Vengrai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mūšis su vengrų kariuomene tiesiogiai rodo karinį konfliktą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 993411-993867; hash=eb8512085c929547e2810712e6f2c0dd733bfa95c007d19bda6bc9252a33c0c9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumas: buvo_brolis -> Vladislovas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olbrachtas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olbrachtas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Vladislovas ir Jonas apibendrinami kaip broliai karaliai.
 
 ## Ryšiai
-- Jonas Olbrachtas dalyvavo_musyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
+- Jonas Olbrachtas kariavo_pries [[objektai/grupes/Vengrai]]
+- Jonas Olbrachtas buvo_brolis [[objektai/asmenys/Vladislovas]]
+- Jonas Olbrachtas keliavo_i [[objektai/vietos/Krokuva]]

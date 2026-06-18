@@ -23,19 +23,20 @@ tags:
   global_id: t-80639
   teiginys: 'Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje yra neaiški įvardžio nuoroda, todėl sakinys perrašytas aiškiau.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Vidugiriai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Vidugiriai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas|asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 825596-825931; hash=a02376a102101b6abf8e000707a10b5c323267b8700a7f203a1174ccbaae59ee; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "asis pėstininkų Pilėnų Kunigaikščio Margio pulkas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje pulko I bataliono dalyvavimas kovose su lenkais siejamas su tuo pačiu pulku.
 
 <a id="claim-t-80640"></a>
 - t-002
@@ -89,13 +90,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 825596-825931; hash=a02376a102101b6abf8e000707a10b5c323267b8700a7f203a1174ccbaae59ee; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "asis pėstininkų Pilėnų Kunigaikščio Margio pulkas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje pulko I bataliono dalyvavimas kovose su lenkais siejamas su tuo pačiu pulku.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 846729-846868; hash=5e240f491ce1f318d3f51d23fd6c4afa931faaa975ab9cc2d26cceb59e2e25bd; match=exact
@@ -107,3 +108,6 @@ tags:
   ryšio_subjekto_parinkimas: asis pėstininkų Pilėnų Kunigaikščio Margio pulkas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Pilėnai: mention_match, place, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "asis pėstininkų Pilėnų Kunigaikščio Margio pulkas" parinktas kaip owner_note_path. Targetas "Pilėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- asis pėstininkų Pilėnų Kunigaikščio Margio pulkas kariavo_pries [[objektai/grupes/Lenkai]]

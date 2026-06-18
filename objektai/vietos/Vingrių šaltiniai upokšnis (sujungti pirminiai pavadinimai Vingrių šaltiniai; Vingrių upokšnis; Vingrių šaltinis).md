@@ -34,7 +34,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   global_id: t-174583
   teiginys: 'Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje aprašyta mūšio vieta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'mūšio data: 1383 m.; mūšio data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje aprašyta mūšio vieta.'
@@ -43,20 +43,20 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 110455-111605; hash=3d917a2e244a0e7e6a4026a42666248b1ad80b2ab19af8332a39b2a3b22abc18; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Didysis magistras siuntė komtūrus į Vilnių sunaikinimo tikslu, o tai rodo Ordino puolimą, nors subjektas tekste įvardytas per magistrą.
 
 <a id="claim-t-174584"></a>
 - t-002
   global_id: t-174584
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą nuosavybės kaitą.'
-  susije_objektai: 'owner: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; llm_object: Vilnius'
   semantiniai_rysiai: 'Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklausė Vilnius'
   pagrindžia:
     - c-002
@@ -123,13 +123,13 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 524230-524519; hash=40215726673754249abb1c9953f3750e856fc40f9630f967ba8de89593dab23d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.99
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): owner_note_path, place, gap=34
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vingrių šaltinių vandenys kadaise priklausė miestui, t. y. Vilniui.
 
 ## Reikšmingi paminėjimai
 
@@ -174,13 +174,13 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 524230-524519; hash=40215726673754249abb1c9953f3750e856fc40f9630f967ba8de89593dab23d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.99
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): owner_note_path, place, gap=34
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vingrių šaltinių vandenys kadaise priklausė miestui, t. y. Vilniui.
     - t-002
 
 - c-003
@@ -303,13 +303,13 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 110455-111605; hash=3d917a2e244a0e7e6a4026a42666248b1ad80b2ab19af8332a39b2a3b22abc18; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Didysis magistras siuntė komtūrus į Vilnių sunaikinimo tikslu, o tai rodo Ordino puolimą, nors subjektas tekste įvardytas per magistrą.
 
 ## Ryšiai
 - Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklause [[objektai/vietos/Vilnius]]

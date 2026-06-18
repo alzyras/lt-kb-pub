@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785852-786353; hash=e06f7c83f5acce06774fd8c8f9c14b095827599d990a3b67d5d49c0b71d5b2c6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Boleslovas Švitrigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Boleslovas Švitrigaila: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis" parinktas kaip owner_note_path. Targetas "Boleslovas Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Boleslovo Švitrigailos įsiveržimą į Lietuvos žemes.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +88,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785852-786353; hash=e06f7c83f5acce06774fd8c8f9c14b095827599d990a3b67d5d49c0b71d5b2c6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Boleslovas Švitrigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Boleslovas Švitrigaila: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis" parinktas kaip owner_note_path. Targetas "Boleslovas Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Boleslovo Švitrigailos įsiveržimą į Lietuvos žemes.

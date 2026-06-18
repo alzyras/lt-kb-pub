@@ -53,7 +53,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   global_id: t-74631
   teiginys: 'Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų.'
   sudarymo_pagrindimas: 'Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių Mokslo Draugija|Lietuvių Mokslo Draugija]] gyveno Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1905 m.; įvykio data: 1905 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą.'
@@ -203,3 +204,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Mokslo Draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+
+## Ryšiai
+- Lietuvių Mokslo Draugija gyveno [[objektai/vietos/Lietuva]]

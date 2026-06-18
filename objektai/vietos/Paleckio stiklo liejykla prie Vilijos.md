@@ -36,20 +36,21 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   irodymo_stiprumas: 0.00
   saltinio_vieta: 551621-552148; hash=6ba813c6c696062d9adf50a9b0421d60fde9fe98c42153450ee0dcc9b70d0bf1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleckio stiklo liejykla prie Vilijos" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Paleckio stiklo liejykla prie Vilijos: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas Paleckis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paleckio stiklo liejykla prie Vilijos: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Paleckis gavo leidimą steigti stiklo liejyklą, atitinkančią leidžiamą objektą.
 
 <a id="claim-t-86027"></a>
 - t-002
   global_id: t-86027
   teiginys: '1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, vietą ir sklypo ribas, kurias patvirtina citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_place: Vilija; mentioned_place: Belvederis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_place: Vilija; mentioned_place: Belvederis; mentioned_place: Vilnius; llm_object: Vilija'
+  semantiniai_rysiai: 'Paleckio stiklo liejykla prie Vilijos priklausė Vilija'
   temporaliniai_duomenys: 'įvykio data: 1547 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, vietą ir sklypo ribas, kurias patvirtina citata.'
@@ -58,20 +59,21 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   irodymo_stiprumas: 0.00
   saltinio_vieta: 553255-553746; hash=17305debe7d054013de224f3b2907b8c7060effca6262cdc9c4dbbf835b28466; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): 0.85
+  ryšio_patikimumas: priklause -> Vilija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleckio stiklo liejykla prie Vilijos" parinktas kaip owner_note_path. Targetas "Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liejyklos sklypas lokalizuotas už Vilijos upės, todėl ryšys su Vilija yra vietinis, bet ne nuosavybinis.
 
 <a id="claim-t-86028"></a>
 - t-003
   global_id: t-86028
   teiginys: 'Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; llm_object: Paleckio stiklo liejykla prie Vilijos'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]] pastatė Paleckio stiklo liejykla prie Vilijos'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -137,13 +139,13 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   irodymo_stiprumas: 0.00
   saltinio_vieta: 553255-553746; hash=17305debe7d054013de224f3b2907b8c7060effca6262cdc9c4dbbf835b28466; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): 0.85
+  ryšio_patikimumas: priklause -> Vilija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hlebavičius (Vilniaus vaivada ir karaliaus kancleris): mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleckio stiklo liejykla prie Vilijos" parinktas kaip owner_note_path. Targetas "Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liejyklos sklypas lokalizuotas už Vilijos upės, todėl ryšys su Vilija yra vietinis, bet ne nuosavybinis.
     - t-003
 
 - c-003
@@ -178,10 +180,14 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   irodymo_stiprumas: 0.00
   saltinio_vieta: 551621-552148; hash=6ba813c6c696062d9adf50a9b0421d60fde9fe98c42153450ee0dcc9b70d0bf1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleckio stiklo liejykla prie Vilijos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleckio stiklo liejykla prie Vilijos" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Paleckio stiklo liejykla prie Vilijos: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas Paleckis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paleckio stiklo liejykla prie Vilijos: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Paleckis gavo leidimą steigti stiklo liejyklą, atitinkančią leidžiamą objektą.
+
+## Ryšiai
+- [[objektai/asmenys/Martynas Paleckis]] pastate Paleckio stiklo liejykla prie Vilijos
+- Paleckio stiklo liejykla prie Vilijos priklause [[objektai/vietos/Vilija]]

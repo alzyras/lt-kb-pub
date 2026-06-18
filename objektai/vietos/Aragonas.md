@@ -30,19 +30,22 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   global_id: t-86168
   teiginys: 'Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra nesusijusio teksto ir OCR triukšmo, bet citata pagrindžia faktą apie Aragoną.'
-  susije_objektai: 'mentioned_place: Alkanisas; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Aragonas; mentioned_place: Alkanisas; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Alkanisas priklausė Aragonas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b17850dd9682c4105e8364c31b628dd10e147b997edb9215ae5211bbb383228f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alkanisas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aragonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alkanisas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aragonas" parinktas kaip owner_note_path. Targetas "Alkanisas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aragonas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alkanisas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Aragonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Alkaniso miestas aiškiai lokalizuotas Aragone.
+- susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
+- susijęs iš Alkanisas: Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.
 - susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
 - susijęs iš Alkanisas: Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
@@ -81,10 +84,14 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b17850dd9682c4105e8364c31b628dd10e147b997edb9215ae5211bbb383228f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alkanisas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aragonas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alkanisas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aragonas" parinktas kaip owner_note_path. Targetas "Alkanisas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aragonas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alkanisas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Aragonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Alkaniso miestas aiškiai lokalizuotas Aragone.
+
+## Ryšiai
+- [[objektai/asmenys/Petras Roizijus]] gime Aragonas
+- [[objektai/vietos/Alkanisas]] priklause Aragonas

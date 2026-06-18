@@ -125,3 +125,6 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   ryšio_subjekto_parinkimas: Bomannas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bomannas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Bomannas gyveno [[objektai/vietos/Vilnius]]

@@ -203,3 +203,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=63
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas XXII (arkivyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+
+## Ryšiai
+- Jonas XXII (arkivyskupas, XIV a.) siunte_i [[objektai/vietos/Livonija]]

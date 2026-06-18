@@ -80,13 +80,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elžbieta: owner_note_path, person, gap=53
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elžbieta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elžbieta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių.
 
 <a id="claim-t-82294"></a>
 - t-004
@@ -119,7 +119,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   global_id: t-82296
   teiginys: 'Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Elžbietą ir atitinka citatą.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Elžbieta|Elžbieta]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elžbieta keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
@@ -179,7 +179,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   global_id: t-82299
   teiginys: 'Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Elžbieta|Elžbieta]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elžbieta keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
@@ -189,13 +189,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elžbieta: owner_note_path, person, gap=63
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elžbieta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elžbieta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių.
 
 <a id="claim-t-184257"></a>
 - t-010
@@ -360,13 +360,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elžbieta: owner_note_path, person, gap=53
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elžbieta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elžbieta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių.
     - t-008
 
 - c-005
@@ -402,13 +402,13 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elžbieta: owner_note_path, person, gap=63
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elžbieta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elžbieta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad karalienė Elžbieta atvyko į Vilnių.
     - t-006
 
 - c-006
@@ -553,5 +553,5 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elžbieta" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Elžbieta keliavo_i [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Elžbieta
+- Elžbieta keliavo_i [[objektai/vietos/Vilnius]]

@@ -30,7 +30,7 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   global_id: t-31554
   teiginys: 'Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Baltija; mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Baltija; mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; llm_object: Baltija'
   temporaliniai_duomenys: 'įvykio data: 890 m; įvykio data: apie 830 m.; įvykio data: 880-890'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį.'
@@ -39,13 +39,13 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08fd7ddb7415ef924d139f7c5399c7c1c3ba2f75cc1969a8ebe284adf8a754a2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumas: gyveno -> Baltija: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: at litus australe Slavi et Aisti et aliae diversae incolunt nationes: owner_note_path, thing
-  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "at litus australe Slavi et Aisti et aliae diversae incolunt nationes" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aisčiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad aisčiai minimi gyvenę pietiniame Baltijos krante; kandidatuose vieta pateikta kaip Baltija.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +67,10 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08fd7ddb7415ef924d139f7c5399c7c1c3ba2f75cc1969a8ebe284adf8a754a2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumas: gyveno -> Baltija: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: at litus australe Slavi et Aisti et aliae diversae incolunt nationes: owner_note_path, thing
-  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "at litus australe Slavi et Aisti et aliae diversae incolunt nationes" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aisčiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad aisčiai minimi gyvenę pietiniame Baltijos krante; kandidatuose vieta pateikta kaip Baltija.

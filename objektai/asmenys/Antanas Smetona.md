@@ -47,7 +47,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75710
   teiginys: 'Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo nebaigtas fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] valdė Lietuva'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -65,7 +66,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-003
   global_id: t-75711
   teiginys: 'Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] valdė Lietuva'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -239,13 +241,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie A. Smetonos valdomą Lietuvos valstybę.
 
 <a id="claim-t-75720"></a>
 - t-012
@@ -299,7 +301,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75723
   teiginys: '1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.'
   sudarymo_pagrindimas: 'Sutrumpintas sakinys ir išlaikytas pagrindinis faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Portugalija; mentioned_place: Šveicarija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Klivlandas; llm_object: Portugalija; llm_object: Šveicarija; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Portugalija; mentioned_place: Šveicarija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] mirė Klivlandas; [[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Šveicarija; [[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Portugalija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpintas sakinys ir išlaikytas pagrindinis faktas.'
@@ -436,13 +439,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Antanas Smetona išvyko į Berlyną.
 
 <a id="claim-t-75730"></a>
 - t-022
@@ -584,7 +587,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75737
   teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Berlynas; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -959,13 +963,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Lietuvos valstybę kaip Antano Smetonos valdomą.
 
 <a id="claim-t-75756"></a>
 - t-048
@@ -1121,8 +1125,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir prasideda neaiškiu kontekstu.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -1135,7 +1138,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
 - susijęs iš [[objektai/autoriai/Eidintas A.md#claim-t-19391|Eidintas A]]: A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.
@@ -1148,6 +1150,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
 - susijęs iš Antanas Smetona ir jo laikai: Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.
 - susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
+- susijęs iš [[objektai/grupes/Lietuvos Taryba.md#claim-t-182708|Lietuvos Taryba (institucija)]]: Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
 - susijęs iš [[objektai/daiktai/Kino kronikos kameros.md#claim-t-19541|Kino kronikos kameros]]: Prezidentas Antanas Smetona 1927 m. vasarą ir rudenį keliavo po miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/grupes/Geležinis vilkas.md#claim-t-19696|Geležinis vilkas]]: Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.
@@ -1156,6 +1159,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - susijęs iš Klivlandas: 1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.
 - susijęs iš Portugalija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV.
 - susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
+- susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44994|Lietuvių tautininkų sąjunga]]: LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1749,13 +1753,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Lietuvos valstybę kaip Antano Smetonos valdomą.
     - t-052
 
 - c-022
@@ -1808,13 +1812,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Antanas Smetona išvyko į Berlyną.
     - t-030
 
 - c-024
@@ -1871,13 +1875,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie A. Smetonos valdomą Lietuvos valstybę.
     - t-054
 
 - c-026
@@ -2055,5 +2059,12 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Antanas Smetona (Lietuvos prezidentas, XX a.) kariavo_pries [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Juozas Tūbelis]] paskyre Antanas Smetona (Lietuvos prezidentas, XX a.)
+- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Berlynas]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) mire [[objektai/vietos/Klivlandas]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) paskyre [[objektai/asmenys/Juozas Tūbelis]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) valde [[objektai/vietos/Lietuva]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Portugalija]]
+- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Šveicarija]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]] paskyre Antanas Smetona (Lietuvos prezidentas, XX a.)
+- [[objektai/grupes/Lietuvių tautininkų sąjunga]] buvo_sajungininkas_su Antanas Smetona (Lietuvos prezidentas, XX a.)
+- Antanas Smetona (Lietuvos prezidentas, XX a.) gyne [[objektai/grupes/Žydai]]

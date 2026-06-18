@@ -53,6 +53,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   ryšio_subjekto_parinkimas: Olyka: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olyka" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Vaitiekus II Radvila.md#claim-t-87873|Vaitiekus II Radvila]]: Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d., vyskupo pareigas ėjęs 11 metų.
@@ -150,3 +151,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   ryšio_subjekto_parinkimas: Olyka: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olyka" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Olyka priklause [[objektai/vietos/Voluinė]]
+- [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Olyka

@@ -32,26 +32,28 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   global_id: t-113785
   teiginys: 'Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į užbaigtą faktinį sakinį apie Goštauto vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; llm_object: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Ašmena'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] buvo sąjungininkas su [[objektai/asmenys/Žygimantas|Žygimantas]]; [[objektai/asmenys/Goštautas|Goštautas]] keliavo į Ašmena'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=756d9fd91713d38bef7442bfd68407f809efcc3de0be4dd796ed284239a5aad3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Pranciškonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Goštautas apgyvendino pranciškonus Vilniuje ir įkūrė jiems vienuolyną.
 
 <a id="claim-t-113786"></a>
 - t-002
   global_id: t-113786
   teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus fakto apie Goštautą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -70,19 +72,20 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   global_id: t-113787
   teiginys: 'Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] rėmė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; [[objektai/asmenys/Goštautas|Goštautas]] pastatė Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila išlaisvintus didikus atsiuntė Švitrigailai į Vilnių.
 
 <a id="claim-t-113788"></a>
 - t-004
@@ -97,19 +100,20 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-005
   global_id: t-113789
   teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila išlaisvintą Goštautą atsiuntė Švitrigailai į Vilnių.
 
 <a id="claim-t-184707"></a>
 - t-006
@@ -125,13 +129,13 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žygimanto vadovaujamos pajėgos įsiveržė į Švitrigailos dvarą.
 
 <a id="claim-t-184708"></a>
 - t-007
@@ -141,7 +145,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta glaustesniu sakiniu, kuriame Goštautas yra aiškus teiginio objektas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Korčinas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Korčinas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -163,19 +168,20 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia išskleisti įvardžius ir pašalinti OCR klaidas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Mazovija; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Goštautas|Goštautas]]; llm_object: Podolė; llm_object: Lietuva; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Mazovija; mentioned_place: Podolė'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] paskyrė [[objektai/asmenys/Goštautas|Goštautas]]; [[objektai/asmenys/Goštautas|Goštautas]] valdė teritoriją Podolė'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Korčinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Korčinas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Korčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nusiuntė pasiuntinius į Korčino seimą.
 - susijęs iš [[objektai/asmenys/H. Goštautas.md#claim-t-39734|H. Goštautas]]: Karininkas H. Goštautas vadovavo husarų eskadrono būriui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
@@ -261,6 +267,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - susijęs iš [[objektai/zodynas/seniūnas.md#claim-t-187529|seniūnas]]: Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.
 - susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185395|stabmeldžių apeigos]]: Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-187532|vaivada]]: Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -319,13 +326,13 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila išlaisvintą Goštautą atsiuntė Švitrigailai į Vilnių.
     - t-003
 
 - c-003
@@ -383,13 +390,13 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila išlaisvintus didikus atsiuntė Švitrigailai į Vilnių.
     - t-001
 
 - c-004
@@ -419,13 +426,13 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=756d9fd91713d38bef7442bfd68407f809efcc3de0be4dd796ed284239a5aad3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Pranciškonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Goštautas apgyvendino pranciškonus Vilniuje ir įkūrė jiems vienuolyną.
     - t-004
 
 - c-005
@@ -474,13 +481,13 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žygimanto vadovaujamos pajėgos įsiveržė į Švitrigailos dvarą.
     - t-007
 
 - c-007
@@ -521,10 +528,27 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Korčinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Korčinas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Goštautas (vyskupas, XV a.)" parinktas kaip owner_note_path. Targetas "Korčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nusiuntė pasiuntinius į Korčino seimą.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] paskyre Goštautas (vyskupas, XV a.)
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Alšėnai]]
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Tikocinas]]
+- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Vilnius]]
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Korčinas]]
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Voložinas]]
+- Goštautas (vyskupas, XV a.) buvo_sajungininkas_su [[objektai/asmenys/Žygimantas]]
+- Goštautas (vyskupas, XV a.) reme [[objektai/grupes/Pranciškonų ordinas]]
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Goštautas (vyskupas, XV a.) valde_teritorija [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] paskyre Goštautas (vyskupas, XV a.)
+- Goštautas (vyskupas, XV a.) keliavo_i [[objektai/vietos/Ašmena]]
+- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Smolenskas]]
+- Goštautas (vyskupas, XV a.) pastate [[objektai/vietos/Vilnius]]
+- Goštautas (vyskupas, XV a.) uzeme [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]

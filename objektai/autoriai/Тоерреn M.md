@@ -55,19 +55,19 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   global_id: t-60666
   teiginys: 'M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: claim_missing_note_object'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Baiga; mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė; llm_object: [[objektai/daiktai/Malūnas|Malūnas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baiga: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad kryžiuočiai paėmė Baigos pilį.
 
 <a id="claim-t-60667"></a>
 - t-003
@@ -122,13 +122,13 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baiga: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad kryžiuočiai paėmė Baigos pilį.
     - t-003
 
 - c-003

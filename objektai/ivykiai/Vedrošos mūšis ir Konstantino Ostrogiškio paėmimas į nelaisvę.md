@@ -78,19 +78,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje išvardytus po mūšio išsigelbėjusius asmenis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; llm_object: [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]] dalyvavo mūšyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę]]; [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]] dalyvavo mūšyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 991230-991854; hash=a1c29f7acab991158f3f181cb64bb81f2423854280cc025bdc0240f0cfcc265d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bogdanas Maskevičius: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bogdanas Maskevičius: mention_match, person, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Bogdanas Maskevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bogdanas Maskevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Bogdanas Maskevičius minimas tarp pulkų vadų, išvengusių nelaisvės ar mirties po Vedrošos mūšio.
 
 ## Reikšmingi paminėjimai
 
@@ -200,10 +201,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 991230-991854; hash=a1c29f7acab991158f3f181cb64bb81f2423854280cc025bdc0240f0cfcc265d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bogdanas Maskevičius: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bogdanas Maskevičius: mention_match, person, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Bogdanas Maskevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bogdanas Maskevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Bogdanas Maskevičius minimas tarp pulkų vadų, išvengusių nelaisvės ar mirties po Vedrošos mūšio.
+
+## Ryšiai
+- [[objektai/asmenys/Bogdanas Maskevičius]] dalyvavo_musyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)
+- [[objektai/asmenys/Teodoras Nemyra]] dalyvavo_musyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)

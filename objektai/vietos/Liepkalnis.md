@@ -28,7 +28,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   global_id: t-41863
   teiginys: 'Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]; llm_object: Liepkalnis'
+  semantiniai_rysiai: '[[objektai/asmenys/Zubovas|Zubovas]] puolė Liepkalnis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -52,13 +53,13 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   irodymo_stiprumas: 0.00
   saltinio_vieta: 618294-618398; hash=1dbf9fba2f5a38e73025096855a800bda6ad9a1f6a2e68a9712be9985f452fb3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zubovas: 0.83
+  ryšio_patikimumas: puole -> Liepkalnis: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liepkalnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zubovas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liepkalnis" parinktas kaip owner_note_path. Targetas "Zubovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zubovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liepkalnis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zubovo divizija atakavo įtvirtinimus Liepkalnyje; leistinas subjektas yra Zubovas.
 
 ## Reikšmingi paminėjimai
 
@@ -104,10 +105,13 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   irodymo_stiprumas: 0.00
   saltinio_vieta: 618294-618398; hash=1dbf9fba2f5a38e73025096855a800bda6ad9a1f6a2e68a9712be9985f452fb3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zubovas: 0.83
+  ryšio_patikimumas: puole -> Liepkalnis: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liepkalnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zubovas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liepkalnis" parinktas kaip owner_note_path. Targetas "Zubovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zubovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liepkalnis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zubovo divizija atakavo įtvirtinimus Liepkalnyje; leistinas subjektas yra Zubovas.
+
+## Ryšiai
+- [[objektai/asmenys/Zubovas]] puole Liepkalnis

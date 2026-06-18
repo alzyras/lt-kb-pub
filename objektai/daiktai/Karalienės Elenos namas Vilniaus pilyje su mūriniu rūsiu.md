@@ -44,19 +44,19 @@ Nenurodyta
   global_id: t-87081
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473298-474103; hash=3d058cd0189aabae89e9b9419d80c49cdbcb1cc860e21448ccd0755de8376a88; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad karalienė Elena pastatydino namą.
 
 ## Reikšmingi paminėjimai
 
@@ -94,10 +94,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473298-474103; hash=3d058cd0189aabae89e9b9419d80c49cdbcb1cc860e21448ccd0755de8376a88; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad karalienė Elena pastatydino namą.

@@ -35,7 +35,7 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   global_id: t-114280
   teiginys: 'Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su Gdansku ir citatos chronologija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Amsterdamas; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Amsterdamas; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Amsterdamas'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su Gdansku ir citatos chronologija.'
@@ -75,7 +75,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   global_id: t-114283
   teiginys: 'Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus fakto apie Gdanską, išlaikant citatos prasmę.'
-  susije_objektai: 'mentioned_place: Silezija; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gdanskas; llm_object: Silezija; mentioned_place: Silezija; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Gdanskas'
   pagrindžia:
     - c-005
 
@@ -102,13 +103,13 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gdanskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gdanskas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javų gabenimas į Amsterdamą rodo ATR prekybinį ryšį su šiuo miestu.
 
 <a id="claim-t-183591"></a>
 - t-007
@@ -178,13 +179,13 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gdanskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gdanskas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javų gabenimas į Amsterdamą rodo ATR prekybinį ryšį su šiuo miestu.
     - t-008
 
 - c-003
@@ -217,24 +218,24 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Silezija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gdanskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Silezija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gdanskas" parinktas kaip owner_note_path. Targetas "Silezija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Gdanskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gdanskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekybiniai Vilniaus ryšiai tiesiogiai siejami su Gdansku.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gdanskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gdanskas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javų gabenimas į Amsterdamą rodo ATR prekybinį ryšį su šiuo miestu.
     - t-001
 
 - c-004
@@ -309,3 +310,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   ryšio_subjekto_parinkimas: Gdanskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbingas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gdanskas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Vilnius]] prekiavo_su Gdanskas

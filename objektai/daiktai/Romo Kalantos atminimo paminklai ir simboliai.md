@@ -41,7 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-45538
   teiginys: 'Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai|Romo Kalantos atminimo paminklai ir simboliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] pastatė [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai|Romo Kalantos atminimo paminklai ir simboliai]]'
   pagrindžia:
     - c-001
 
@@ -86,3 +87,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] pastate Romo Kalantos atminimo paminklai ir simboliai

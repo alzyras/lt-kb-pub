@@ -151,3 +151,10 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
   ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eberhardas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+
+## Ryšiai
+- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Pagraudė]]
+- Eberhardas (Varmės vyskupas) surenge_zygi_i [[objektai/vietos/Pagraudė]]
+- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Lietuva]]
+- Eberhardas (Varmės vyskupas) puole [[objektai/vietos/Pagraudenė]]
+- Eberhardas (Varmės vyskupas) surenge_zygi_i [[objektai/vietos/Pagraudenė]]

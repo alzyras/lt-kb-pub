@@ -59,7 +59,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-112065
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie savanorius iš Prancūzijos.'
-  susije_objektai: 'location: Anglija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -180,12 +180,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=affc0aa3af5822b0cbbd8092d12f3a00e88c6a7b9d7620736dde7fd093a3bf11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prancūzija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-112072"></a>
 - t-010
@@ -210,7 +211,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-011
   global_id: t-112073
   teiginys: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Anglija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -327,10 +328,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   ryšio_subjekto_parinkimas: Prancūzija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzija" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59900|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.
@@ -390,6 +387,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54794|Municipalinė teisėtvarka]]: Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.
 - susijęs iš [[objektai/zodynas/bulė.md#claim-t-58897|bulė]]: Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
+- susijęs iš Grenoblis: Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos.
 - susijęs iš [[objektai/asmenys/A. Suvorovas.md#claim-t-18745|A. Suvorovas]]: A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
@@ -556,6 +556,9 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101612|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101615|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.
 - susijęs iš [[objektai/zodynas/šiuolaikinė tautos (nacijos) samprata.md#claim-t-22349|šiuolaikinė tautos (nacijos) samprata]]: Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90008|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-184118|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
+- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62934|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -796,12 +799,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=affc0aa3af5822b0cbbd8092d12f3a00e88c6a7b9d7620736dde7fd093a3bf11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prancūzija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
 
 - c-009
@@ -826,12 +830,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=affc0aa3af5822b0cbbd8092d12f3a00e88c6a7b9d7620736dde7fd093a3bf11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prancūzija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-008
 
 - c-010
@@ -909,4 +914,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzija" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]] buvo_valdovas Prancūzija
+- [[objektai/asmenys/Albrechtas (Romos karalius)]] valde Prancūzija
+- [[objektai/vietos/Grenoblis]] priklause Prancūzija
+- [[objektai/asmenys/Petras Atsiskyrėlis]] gyveno Prancūzija
+- [[objektai/grupes/Tamplierių ordinas]] gyveno Prancūzija

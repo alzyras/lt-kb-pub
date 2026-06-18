@@ -29,7 +29,8 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   global_id: t-32452
   teiginys: 'Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Pilėnų įgulos vadovą ir veiksmą, citata tai patvirtina.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Austrija; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Austrija; mentioned_place: Prancūzija; llm_object: Pilėnai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Pilėnai'
   temporaliniai_duomenys: 'įvykio data: 1336 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Pilėnų įgulos vadovą ir veiksmą, citata tai patvirtina.'
@@ -38,13 +39,15 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6d9dea4237449cc7f08ae6b0f19f390c83768fd996ec390254f7635c0e208b33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> įgula: 0.85
+  ryšio_patikimumas: apgule -> Pilėnai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: įgula: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilėnai" parinktas kaip owner_note_path. Targetas "įgula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apgultos Pilėnų pilies kontekste puolamoji jėga yra kryžiuočiai.
+- susijęs iš [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams.md#claim-t-06869|Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]: 1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184496|Kryžiuočių ordinas]]: Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59891|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną.
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
@@ -201,10 +204,14 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6d9dea4237449cc7f08ae6b0f19f390c83768fd996ec390254f7635c0e208b33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> įgula: 0.85
+  ryšio_patikimumas: apgule -> Pilėnai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: įgula: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilėnai" parinktas kaip owner_note_path. Targetas "įgula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apgultos Pilėnų pilies kontekste puolamoji jėga yra kryžiuočiai.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyne Pilėnai
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Pilėnai

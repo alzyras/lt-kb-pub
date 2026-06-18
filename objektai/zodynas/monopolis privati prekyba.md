@@ -57,7 +57,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   global_id: t-86488
   teiginys: 'Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.'
   sudarymo_pagrindimas: 'Citata palaiko konkrečią enciklopedinę formuluotę apie monopolio ir privačios prekybos aptarimą.'
-  susije_objektai: 'mentioned_place: Vilniaus ginklų liejykla; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilniaus ginklų liejykla; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
   temporaliniai_duomenys: 'įvykio data: 1619 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią enciklopedinę formuluotę apie monopolio ir privačios prekybos aptarimą.'
@@ -66,13 +66,13 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579621-581555; hash=796411076c645df5acce364977af93afeaf9d7d4f774a5d624dcbf9622c32e3e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus ginklų liejykla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilniaus ginklų liejykla: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Vilniaus ginklų liejykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
 
 <a id="claim-t-86489"></a>
 - t-003
@@ -256,10 +256,10 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   irodymo_stiprumas: 0.00
   saltinio_vieta: 579621-581555; hash=796411076c645df5acce364977af93afeaf9d7d4f774a5d624dcbf9622c32e3e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus ginklų liejykla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilniaus ginklų liejykla: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Vilniaus ginklų liejykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.

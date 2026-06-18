@@ -28,33 +28,11 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   global_id: t-58578
   teiginys: 'Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria Dusburgiečiui citatoje nurodytą Krivičių žemės vartoseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: Naugardukas; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a6393ce9387ef4eb00d0bb5c5cd753e02ff6ca2f2107a42aadb8411b378fe28; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Naugardukas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Krivičiai: nearest_actor, group, gap=17
-  ryšio_targeto_parinkimas: Naugardukas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Krivičiai" parinktas kaip nearest_actor. Targetas "Naugardukas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
-
-<a id="claim-t-58579"></a>
-- t-002
-  global_id: t-58579
-  teiginys: '1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.'
-  sudarymo_pagrindimas: 'Citata palaiko žygį į Krivičių žemę ir Naugarduko užėmimą.'
-  susije_objektai: 'territory: Naugardukas; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Naugardukas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai'
-  temporaliniai_duomenys: 'įvykio data: 1314 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko žygį į Krivičių žemę ir Naugarduko užėmimą.'
-  pagrindžia:
-    - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 650067-650403; hash=736a2f8af771c11db680060b7e3290ddd6e91815435703d5f54dc120b55d2326; match=exact
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Krivičiai: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -63,6 +41,28 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   ryšio_subjekto_parinkimas: Krivičių žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krivičiai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krivičių žemė" parinktas kaip owner_note_path. Targetas "Krivičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-58579"></a>
+- t-002
+  global_id: t-58579
+  teiginys: '1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.'
+  sudarymo_pagrindimas: 'Citata palaiko žygį į Krivičių žemę ir Naugarduko užėmimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Naugardukas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko žygį į Krivičių žemę ir Naugarduko užėmimą.'
+  pagrindžia:
+    - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 650067-650403; hash=736a2f8af771c11db680060b7e3290ddd6e91815435703d5f54dc120b55d2326; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Naugardukas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krivičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad krivičiai apgyvendino Naugarduko regioną.
 
 ## Reikšmingi paminėjimai
 
@@ -97,6 +97,17 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   irodymo_stiprumas: 0.00
   saltinio_vieta: 650067-650403; hash=736a2f8af771c11db680060b7e3290ddd6e91815435703d5f54dc120b55d2326; match=exact
   sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Naugardukas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krivičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad krivičiai apgyvendino Naugarduko regioną.
+    - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9a6393ce9387ef4eb00d0bb5c5cd753e02ff6ca2f2107a42aadb8411b378fe28; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Krivičiai: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
@@ -104,14 +115,3 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
   ryšio_subjekto_parinkimas: Krivičių žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krivičiai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krivičių žemė" parinktas kaip owner_note_path. Targetas "Krivičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-    - t-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9a6393ce9387ef4eb00d0bb5c5cd753e02ff6ca2f2107a42aadb8411b378fe28; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Naugardukas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Krivičiai: nearest_actor, group, gap=17
-  ryšio_targeto_parinkimas: Naugardukas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Krivičiai" parinktas kaip nearest_actor. Targetas "Naugardukas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.

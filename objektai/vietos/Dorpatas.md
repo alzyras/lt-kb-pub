@@ -28,7 +28,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - t-001
   global_id: t-36197
   teiginys: 'Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.'
-  susije_objektai: 'owner: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   semantiniai_rysiai: 'Dorpatas priklausė [[objektai/grupes/Hanza|Hanza]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui.'
@@ -55,13 +55,13 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623174d05448b5d9ca2504985cea032b3d9ce8cd1277eb5c5a84586016ddbe05; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hanza: 0.99
+  ryšio_patikimumas: priklause -> Hanza: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Dorpatas: owner_note_path, place, gap=9
-  ryšio_targeto_parinkimas: Hanza: nearest_after_predicate, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Dorpatas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dorpatas priklausė Hanzai.
 
 <a id="claim-t-184942"></a>
 - t-003
@@ -71,19 +71,20 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Viljandis; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Dorpatas; llm_object: Viljandis; llm_object: Livonija; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Dorpatas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247290-1247644; hash=ae7acc0e39221420511596dc45a1b984a04d646e667172b81106a34130c91769; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Viljandis: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Maskvėnai: nearest_actor, group, gap=19
-  ryšio_targeto_parinkimas: Viljandis: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Maskvėnai" parinktas kaip nearest_actor. Targetas "Viljandis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Dorpatas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dorpatas tiesiogiai išvardytas tarp maskvėnų užimtų vietų.
 
 <a id="claim-t-184943"></a>
 - t-004
@@ -93,19 +94,26 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį valdytojo ir vyskupo junginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Viljandis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Viljandis; llm_object: Dorpatas'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] puolė Dorpatas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247527-1247913; hash=1a3df0a13a5c68741c0eacf3109dae4520671fdc5121b759453523094b7d4a4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dorpatas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dorpatas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dorpatas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim_text įvardija maskvėnus kaip Dorpato apiplėšėjus, todėl tai tiesioginis puolimo pobūdžio veiksmas.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste.md#claim-t-87020|Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]: 1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais.
+- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184574|Maskvėnai]]: Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
+- susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste.md#claim-t-87020|Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]: 1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116684|Hanza]]: 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
@@ -123,6 +131,8 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - susijęs iš Viljandis: Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173139|Dovydas (Gardino pilininkas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
@@ -173,6 +183,13 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.
 - susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.).md#claim-t-62865|Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]: Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.
+- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš Revelio žemė: 1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -242,13 +259,13 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623174d05448b5d9ca2504985cea032b3d9ce8cd1277eb5c5a84586016ddbe05; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hanza: 0.99
+  ryšio_patikimumas: priklause -> Hanza: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Dorpatas: owner_note_path, place, gap=9
-  ryšio_targeto_parinkimas: Hanza: nearest_after_predicate, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Dorpatas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dorpatas priklausė Hanzai.
     - t-003
 
 - c-004
@@ -269,24 +286,29 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247290-1247644; hash=ae7acc0e39221420511596dc45a1b984a04d646e667172b81106a34130c91769; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Viljandis: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Maskvėnai: nearest_actor, group, gap=19
-  ryšio_targeto_parinkimas: Viljandis: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Maskvėnai" parinktas kaip nearest_actor. Targetas "Viljandis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Dorpatas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dorpatas tiesiogiai išvardytas tarp maskvėnų užimtų vietų.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247527-1247913; hash=1a3df0a13a5c68741c0eacf3109dae4520671fdc5121b759453523094b7d4a4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dorpatas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dorpatas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dorpatas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim_text įvardija maskvėnus kaip Dorpato apiplėšėjus, todėl tai tiesioginis puolimo pobūdžio veiksmas.
 
 ## Ryšiai
 - Dorpatas priklause [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Maskvėnai]] uzeme Dorpatas
+- [[objektai/grupes/Lietuviai]] puole Dorpatas
+- Dorpatas priklause [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Dorpatas
+- [[objektai/grupes/Maskvėnai]] puole Dorpatas

@@ -30,7 +30,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   global_id: t-86191
   teiginys: '1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentas, todėl perrašyta į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilniaus miesto vartai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilniaus miesto vartai; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo fragmentas, todėl perrašyta į pilną sakinį.'
@@ -39,13 +39,13 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471124-471761; hash=0e856132f4167f3dd61e89c33892708f6896e31e6f65a6b8f037411e8c5cb6e2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miesto vartai: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Išganytojo (Spaso) bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miesto vartai: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Išganytojo (Spaso) bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilniaus miesto vartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto vartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Vilniaus miesto vartai, tad ryšys su Vilniumi pagrįstas, nors nėra pagrindinis teiginio veiksmas.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87064|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.
@@ -80,10 +80,10 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471124-471761; hash=0e856132f4167f3dd61e89c33892708f6896e31e6f65a6b8f037411e8c5cb6e2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miesto vartai: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Išganytojo (Spaso) bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miesto vartai: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Išganytojo (Spaso) bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilniaus miesto vartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto vartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Vilniaus miesto vartai, tad ryšys su Vilniumi pagrįstas, nors nėra pagrindinis teiginio veiksmas.

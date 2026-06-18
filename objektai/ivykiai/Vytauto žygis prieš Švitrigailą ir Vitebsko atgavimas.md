@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė pretenzija sugadinta OCR; citata leidžia aiškiai nusakyti įvykį.'
-  susije_objektai: 'territory: Druckas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Druckas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Druckas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Druckas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Druckas: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Druckas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Druckas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Druckas: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185667"></a>
 - t-002
@@ -130,13 +130,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Druckas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Druckas: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Druckas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Druckas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Druckas: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 605474-606127; hash=4d9e3760f42bec985f5987a6d3012bcea91e9a285ea66c0a38bd78d098fc2a2f; match=exact

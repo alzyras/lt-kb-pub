@@ -72,3 +72,6 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
   ryšio_subjekto_parinkimas: Simeonas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Prancūzija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simeonas" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Simeonas gyveno [[objektai/vietos/Jeruzalė]]

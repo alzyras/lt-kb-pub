@@ -30,8 +30,7 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 - t-001
   global_id: t-30263
   teiginys: 'Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_place: Viazma; territory: Smolenskas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Hlebas|Hlebas]] užėmė Smolenskas'
+  susije_objektai: 'llm_object: Smolenskas; llm_object: Viazma; mentioned_place: Smolenskas; mentioned_place: Viazma; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,31 +38,32 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Hlebas: owner_note_path, person, gap=25
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Hlebas" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską.
 
 <a id="claim-t-30264"></a>
 - t-002
   global_id: t-30264
   teiginys: 'Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.'
-  susije_objektai: 'mentioned_place: Vorskla; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Vorskla; mentioned_place: Vorskla; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hlebas|Hlebas]] mirė Vorskla'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6844230f7b627c27ca566d83af5f3a1ecf517ca620c2f8fb17193f5ad3bb8b81; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vorskla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hlebas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vorskla: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hlebas" parinktas kaip owner_note_path. Targetas "Vorskla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vorskla: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hlebas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Hlebas žuvo prie Vorsklos.
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.).md#claim-t-34497|Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]: 1395 m. rugsėjo 28 d. lietuviai įėjo į Smolenską po to, kai Vytautas suėmė Hlebą ir išsiuntė jį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jomantas.md#claim-t-63714|Jomantas]]: Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.
 - susijęs iš [[objektai/asmenys/Jurgis Sviatoslavaitis.md#claim-t-30320|Jurgis Sviatoslavaitis]]: Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.
@@ -106,24 +106,24 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6844230f7b627c27ca566d83af5f3a1ecf517ca620c2f8fb17193f5ad3bb8b81; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vorskla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hlebas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vorskla: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hlebas" parinktas kaip owner_note_path. Targetas "Vorskla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vorskla: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hlebas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Hlebas žuvo prie Vorsklos.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Hlebas: owner_note_path, person, gap=25
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Hlebas" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską.
 
 ## Ryšiai
-- Hlebas uzeme [[objektai/vietos/Smolenskas]]
+- Hlebas mire [[objektai/vietos/Vorskla]]

@@ -98,7 +98,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta motyvo interpretacija apie baimę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; llm_object: Naugardas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -124,13 +124,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=efb024bae5dcda44207de2c80d6f0a64ff3de1515a679b66991cb02ddedcefa1; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero žygis atsiimti Smolenską: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero žygis atsiimti Smolenską" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Naugardas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Lengvenaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jurgio Lengvenaičio pabėgimo kryptį į Naugardą.
 
 <a id="claim-t-186638"></a>
 - t-006
@@ -253,10 +253,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=efb024bae5dcda44207de2c80d6f0a64ff3de1515a679b66991cb02ddedcefa1; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero žygis atsiimti Smolenską: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero žygis atsiimti Smolenską" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Naugardas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Lengvenaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jurgio Lengvenaičio pabėgimo kryptį į Naugardą.

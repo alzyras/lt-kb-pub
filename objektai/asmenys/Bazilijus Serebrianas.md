@@ -30,7 +30,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - t-001
   global_id: t-40066
   teiginys: 'Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Smolenskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Bazilijus Serebrianas|Bazilijus Serebrianas]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,13 +39,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilijus Serebrianas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilijus Serebrianas" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bazilijus Serebrianas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jo vadovaujama kariuomenė buvo viena iš į Lietuvą įsiveržusių kariuomenių.
 
 ## Reikšmingi paminėjimai
 
@@ -73,10 +74,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilijus Serebrianas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilijus Serebrianas" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bazilijus Serebrianas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jo vadovaujama kariuomenė buvo viena iš į Lietuvą įsiveržusių kariuomenių.
+
+## Ryšiai
+- Bazilijus Serebrianas keliavo_i [[objektai/vietos/Lietuva]]

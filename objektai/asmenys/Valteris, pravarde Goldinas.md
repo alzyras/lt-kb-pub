@@ -31,7 +31,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   global_id: t-60218
   teiginys: '1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.'
   sudarymo_pagrindimas: 'Teiginys perrašytas su aiškiais veikėjais ir pašalintais įvardžiais.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Valteris Goldinas|Valteris Goldinas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Valteris Goldinas|Valteris Goldinas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Notanga; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Valteris, pravarde Goldinas|Valteris, pravarde Goldinas]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas su aiškiais veikėjais ir pašalintais įvardžiais.'
@@ -40,20 +41,21 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f287c194e95dcc8a7f720067039676fbb697ebbd7f295a45666f8378e82877b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valteris, pravarde Goldinas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Valteris dalyvauja žygyje, kuris patraukė link Lietuvos.
 
 <a id="claim-t-60219"></a>
 - t-002
   global_id: t-60219
   teiginys: 'Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.'
   sudarymo_pagrindimas: 'Teiginys susietas su Valteriu ir išvalytas nuo antraštės triukšmo.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baiga; mentioned_place: Lietuva; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baiga; mentioned_place: Lietuva; mentioned_place: Notanga; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Valteris, pravarde Goldinas|Valteris, pravarde Goldinas]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su Valteriu ir išvalytas nuo antraštės triukšmo.'
@@ -62,13 +64,13 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e9d421d2747a90cc600905b8f1408097ec5df4c8a2483a288557c348f3d6637; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valteris, pravarde Goldinas" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje žygis, kuriame veikia broliai ir Valteris, nukreiptas link Lietuvos.
 
 ## Reikšmingi paminėjimai
 
@@ -111,21 +113,24 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e9d421d2747a90cc600905b8f1408097ec5df4c8a2483a288557c348f3d6637; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valteris, pravarde Goldinas" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje žygis, kuriame veikia broliai ir Valteris, nukreiptas link Lietuvos.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f287c194e95dcc8a7f720067039676fbb697ebbd7f295a45666f8378e82877b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valteris, pravarde Goldinas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valteris, pravarde Goldinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Valteris dalyvauja žygyje, kuris patraukė link Lietuvos.
+
+## Ryšiai
+- Valteris, pravarde Goldinas surenge_zygi_i [[objektai/vietos/Lietuva]]

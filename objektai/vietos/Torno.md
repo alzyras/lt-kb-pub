@@ -137,6 +137,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - susijęs iš Tanenbergas: Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
 - susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
 - susijęs iš Veliuona: Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.
+- susijęs iš Loebau: Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -207,3 +208,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 935655-935756; hash=a55ca1b9920b1a37a7fdfe36891d816bd3c9d1ab81e6b5b37b91936760094d68; match=whitespace_regex
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/asmenys/Ulrichas von Jungingenas]] keliavo_i Torno

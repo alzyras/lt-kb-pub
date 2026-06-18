@@ -52,20 +52,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 591453-593098; hash=943f4d3c3031cd502199973df4e868f938f44acb18bd7681a862c00ae09c2b0b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bartenšteinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja notangų atskalūnybės dalyvius su įsibrovimu į Bartenšteino pilį.
 
 <a id="claim-t-66801"></a>
 - t-002
   global_id: t-66801
   teiginys: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   sudarymo_pagrindimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Sklunija; mentioned_place: Vizna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Sklunija; mentioned_place: Vizna; llm_object: Bartenšteinas'
   temporaliniai_duomenys: 'įvykio data: 1295 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
@@ -142,13 +142,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 591453-593098; hash=943f4d3c3031cd502199973df4e868f938f44acb18bd7681a862c00ae09c2b0b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bartenšteinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja notangų atskalūnybės dalyvius su įsibrovimu į Bartenšteino pilį.
     - t-003
 
 - c-003

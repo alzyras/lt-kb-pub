@@ -93,26 +93,28 @@ Nenurodyta
   global_id: t-109761
   teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Medininkų pilies vietą ir Kazimiero viešėjimą.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Vengrija; llm_object: Medininkų pilis'
+  semantiniai_rysiai: '[[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]] gyveno Medininkų pilis'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Medininkų pilis (pilis): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventasis Kazimieras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medininkų pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dažnas viešėjimas Medininkų pilyje tiesiogiai sieja Kazimierą su šia vieta.
 
 <a id="claim-t-109762"></a>
 - t-005
   global_id: t-109762
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; llm_object: Medininkų pilis'
+  semantiniai_rysiai: '[[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]] gyveno Medininkų pilis'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -244,11 +246,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Medininkų pilis (pilis): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventasis Kazimieras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medininkų pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dažnas viešėjimas Medininkų pilyje tiesiogiai sieja Kazimierą su šia vieta.
     - t-003
+
+## Ryšiai
+- [[objektai/asmenys/Šventasis Kazimieras]] gyveno Medininkų pilis (pilis)

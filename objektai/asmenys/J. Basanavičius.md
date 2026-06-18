@@ -127,3 +127,6 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   ryšio_subjekto_parinkimas: J. Basanavičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=3
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- J. Basanavičius gyveno [[objektai/vietos/Bulgarija]]

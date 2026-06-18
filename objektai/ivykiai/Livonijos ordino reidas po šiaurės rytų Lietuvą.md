@@ -58,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Livonijos ordino magistrą Švitrigailos sąjungininku.
 
 <a id="claim-t-186744"></a>
 - t-002
@@ -72,7 +72,7 @@ Nenurodyta
   teiginys: 'Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kurenecas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kurenecas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Vitebskas; llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citata.'
@@ -81,13 +81,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kurenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kurenecas: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Kurenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina Livonijos ordino ir Švitrigailos sąjungą.
 
 <a id="claim-t-186745"></a>
 - t-003
@@ -104,13 +104,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kurenecas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Livonijos ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kurenecas: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Kurenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys kalba apie Švitrigailos ir Livonijos ordino magistro susitarimą, nors jis nebuvo įgyvendintas.
 
 <a id="claim-t-186746"></a>
 - t-004
@@ -118,7 +118,7 @@ Nenurodyta
   teiginys: '1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas redakcinis įvadas ir aiškiai įvardyti veikėjai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_place: Daugpilis'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_place: Daugpilis'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas redakcinis įvadas ir aiškiai įvardyti veikėjai.'
@@ -141,7 +141,7 @@ Nenurodyta
   teiginys: '1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kurenecas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kurenecas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -210,13 +210,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Livonijos ordino magistrą Švitrigailos sąjungininku.
     - t-003
 
 - c-002
@@ -236,13 +236,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kurenecas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Livonijos ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kurenecas: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Kurenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys kalba apie Švitrigailos ir Livonijos ordino magistro susitarimą, nors jis nebuvo įgyvendintas.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f56e6037bb71a88be9bd41f58a5e52ead6990a711773af00db97286e3aefaebd; match=fallback; occurrences=0
@@ -269,10 +269,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b57d62b9ce4cec8a81b1f7449f68ddc64c64f2d6c3ae4ea0d7e20767955d9e22; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kurenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino reidas po šiaurės rytų Lietuvą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kurenecas: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino reidas po šiaurės rytų Lietuvą" parinktas kaip owner_note_path. Targetas "Kurenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina Livonijos ordino ir Švitrigailos sąjungą.

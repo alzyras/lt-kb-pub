@@ -36,7 +36,6 @@ Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į D
   ryšio_targeto_parinkimas: Bajorai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dakija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
-- susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
 - susijęs iš Luckas: Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185934|Boleslovas Švitrigaila]]: Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
 ## Reikšmingi paminėjimai
@@ -73,6 +72,3 @@ Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į D
   ryšio_subjekto_parinkimas: Dakija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dakija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/asmenys/Bajazitas]] uzeme Dakija

@@ -23,20 +23,20 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   global_id: t-86788
   teiginys: 'Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.'
   sudarymo_pagrindimas: 'Palikta tvirta citatos dalis, o spėjimai apie bombardas ir Gedimino žūtį atmesti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Anglų riteriai|Anglų riteriai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Anglų riteriai|Anglų riteriai]] buvo sąjungininkas su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b1c8c48d4edf9c24205b03ceec5556917f5b481f58dcce992e78e16f40bbb092; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglų riteriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglų riteriai" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglų riteriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo anglų riterių kovą su lietuviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 ## Reikšmingi paminėjimai
 
@@ -68,13 +68,14 @@ Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b1c8c48d4edf9c24205b03ceec5556917f5b481f58dcce992e78e16f40bbb092; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglų riteriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglų riteriai" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglų riteriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo anglų riterių kovą su lietuviais.
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Anglų riteriai
+- Anglų riteriai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Anglų riteriai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]

@@ -72,7 +72,8 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   global_id: t-172109
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
@@ -81,13 +82,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119416-119923; hash=f46bf2b458fb633977b703e158f9429608715bd173dea53faf7793ba2f5e8ecb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jėzuitų ordino pasirodymas Lietuvoje tiesiogiai rodo atvykimą į Lietuvą.
 
 <a id="claim-t-172110"></a>
 - t-004
@@ -103,13 +104,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129180-129569; hash=ced454032cdd5253900fd9c1ff24d343efae8f8c497e7fc8945cb1e3e5882bb9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad jėzuitai atvyko į Lietuvą.
 
 <a id="claim-t-172112"></a>
 - t-005
@@ -125,20 +126,21 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 146048-146481; hash=dcc17b320d89f6a636c02305aefffb77150eb5b77a2f29b8aad3f81d5e6d3360; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo jėzuitų pasirodymą Vilniuje.
 
 <a id="claim-t-172113"></a>
 - t-006
   global_id: t-172113
   teiginys: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi neaiškų epochos pradžios kontekstą.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įkūrimo data: 1579 m.; įkūrimo data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi neaiškų epochos pradžios kontekstą.'
@@ -268,13 +270,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=932275ead010a63146413178ceb262c9925e5b2f5acade8fdb2958d743a7b2d0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jėzuitų ordinas buvo pakviestas į Vilnių, todėl tiesiogiai paremtas judėjimo į vietą ryšys.
 
 <a id="claim-t-172127"></a>
 - t-017
@@ -288,13 +290,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f6a2aaadd3d36e11d28e6521dd93a299a18a2e31412cfc4ea6e66d9fb00fce8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braunsbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place, gap=4
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Braunsbergas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Braunsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad jėzuitai buvo atvykėliai iš Braunsbergo.
 
 <a id="claim-t-172128"></a>
 - t-018
@@ -323,7 +325,8 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   global_id: t-172129
   teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -344,7 +347,8 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - t-020
   global_id: t-172130
   teiginys: 'Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.'
-  susije_objektai: 'mentioned_place: Braunsbergas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]'
+  susije_objektai: 'mentioned_place: Braunsbergas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]; llm_object: Braunsbergas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Braunsbergas; [[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] gyveno Vilnius'
   pagrindžia:
     - c-011
 
@@ -352,7 +356,8 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - t-021
   global_id: t-172131
   teiginys: '1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Kinija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_place: Kinija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -475,13 +480,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129180-129569; hash=ced454032cdd5253900fd9c1ff24d343efae8f8c497e7fc8945cb1e3e5882bb9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad jėzuitai atvyko į Lietuvą.
     - t-006
 
 - c-004
@@ -549,13 +554,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f6a2aaadd3d36e11d28e6521dd93a299a18a2e31412cfc4ea6e66d9fb00fce8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braunsbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place, gap=4
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Braunsbergas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Braunsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad jėzuitai buvo atvykėliai iš Braunsbergo.
     - t-016
 
 - c-007
@@ -577,13 +582,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=932275ead010a63146413178ceb262c9925e5b2f5acade8fdb2958d743a7b2d0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jėzuitų ordinas buvo pakviestas į Vilnių, todėl tiesiogiai paremtas judėjimo į vietą ryšys.
     - t-019
 
 - c-008
@@ -677,13 +682,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 146048-146481; hash=dcc17b320d89f6a636c02305aefffb77150eb5b77a2f29b8aad3f81d5e6d3360; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo jėzuitų pasirodymą Vilniuje.
     - t-003
 
 - c-011
@@ -705,13 +710,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119416-119923; hash=f46bf2b458fb633977b703e158f9429608715bd173dea53faf7793ba2f5e8ecb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jėzuitų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jėzuitų ordino pasirodymas Lietuvoje tiesiogiai rodo atvykimą į Lietuvą.
     - t-020
 
 - c-012
@@ -985,3 +990,9 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   ryšio_subjekto_parinkimas: Jėzuitų ordinas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Valerijonas Protasevičius (vyskupas): mention_match, person, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jėzuitų ordinas" parinktas kaip owner_note_path. Targetas "Valerijonas Protasevičius (vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Jėzuitų ordinas keliavo_i [[objektai/vietos/Lietuva]]
+- Jėzuitų ordinas keliavo_i [[objektai/vietos/Vilnius]]
+- Jėzuitų ordinas keliavo_i [[objektai/vietos/Braunsbergas]]
+- Jėzuitų ordinas gyveno [[objektai/vietos/Vilnius]]

@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Rygiečiai|Rygiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301127-301941; hash=9394dff68522feb62ad07779395d5066d955f99ebe774968dc6b13b60f9dd7af; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytenis: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Rygiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytenis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Vytenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo Vytenio ir rygiečių karinę sandraugą.
 
 <a id="claim-t-185673"></a>
 - t-002
@@ -65,19 +65,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, faktinis ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302073-302531; hash=f8cc583be0ee2ec4b0a5f6fa4ee299e396338fedb278f284af6e1bc196ff1763; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Brunono puolimą prieš Vytenio lietuvių karius.
 
 <a id="claim-t-185674"></a>
 - t-003
@@ -87,19 +87,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį įvykio rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302608-303096; hash=ea34321bd51455e8a84a45dd0373f0151db1975e90ce069d73322363499d8112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo lietuvių kovą ir kryžiuočių kariuomenės sutriuškinimą.
 
 ## Reikšmingi paminėjimai
 
@@ -162,13 +162,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301127-301941; hash=9394dff68522feb62ad07779395d5066d955f99ebe774968dc6b13b60f9dd7af; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytenis: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Rygiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytenis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Vytenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo Vytenio ir rygiečių karinę sandraugą.
     - t-002
 
 - c-003
@@ -192,21 +192,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302073-302531; hash=f8cc583be0ee2ec4b0a5f6fa4ee299e396338fedb278f284af6e1bc196ff1763; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Brunono puolimą prieš Vytenio lietuvių karius.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302608-303096; hash=ea34321bd51455e8a84a45dd0373f0151db1975e90ce069d73322363499d8112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo lietuvių kovą ir kryžiuočių kariuomenės sutriuškinimą.

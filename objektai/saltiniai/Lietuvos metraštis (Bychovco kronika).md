@@ -40,7 +40,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   global_id: t-117482
   teiginys: 'Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia aiškų perrašymą.'
-  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1368 m.; valdymo laikotarpis: 1370 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia aiškų perrašymą.'
@@ -59,7 +59,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 - t-003
   global_id: t-117484
   teiginys: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; llm_object: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1368 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -94,13 +94,13 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 186680-187403; hash=4a23bf2faa3fedf1cfcb3f5cf4b67a855a005104346f0a85a2ad8e9801447a63; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos metraštis (Bychovco kronika): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis (Bychovco kronika)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo Algirdo atėjimą su kariuomene prie Maskvos, tai atitinka žygį į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -219,11 +219,11 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 186680-187403; hash=4a23bf2faa3fedf1cfcb3f5cf4b67a855a005104346f0a85a2ad8e9801447a63; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos metraštis (Bychovco kronika): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis (Bychovco kronika)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo Algirdo atėjimą su kariuomene prie Maskvos, tai atitinka žygį į Maskvą.
     - t-004

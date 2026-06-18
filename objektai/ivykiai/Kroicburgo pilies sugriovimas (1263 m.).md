@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Kroicburgas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Kroicburgas; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Kroicburgas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai apsupo Kroicburgo pilį.
 
 <a id="claim-t-183936"></a>
 - t-002
@@ -109,13 +109,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai apsupo Kroicburgo pilį.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact

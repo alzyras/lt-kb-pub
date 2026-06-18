@@ -260,6 +260,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169931|rusėnų kalba LDK raštų kalba]]: Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22295|rusėnų kalba LDK slavų kanceliarinė kalba]]: Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.
+- susijęs iš Lohajskas: Lohajskas buvo viena iš paskutinių rytinių slavų pilių į šiaurę nuo Nemuno.
+- susijęs iš Gorodecas: Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos.
+- susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -382,3 +385,16 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   ryšio_subjekto_parinkimas: Slavai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Baltai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slavai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Slavai gyveno [[objektai/vietos/Pamaris]]
+- Slavai uzeme [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]]
+- Slavai keliavo_i [[objektai/vietos/Gardino sritis]]
+- Slavai uzeme [[objektai/vietos/Baltija]]
+- Slavai uzeme [[objektai/vietos/Baltijos jūra]]
+- Slavai keliavo_i [[objektai/vietos/Dniepro žemupys]]
+- Slavai keliavo_i [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Lohajskas]] priklause Slavai
+- [[objektai/vietos/Gorodecas]] priklause Slavai
+- [[objektai/vietos/Minskas]] priklause Slavai
+- Slavai gyveno [[objektai/vietos/Lietuva]]

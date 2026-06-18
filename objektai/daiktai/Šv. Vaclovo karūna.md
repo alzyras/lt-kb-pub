@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-35569
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Praga; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Praga; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Praga; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 

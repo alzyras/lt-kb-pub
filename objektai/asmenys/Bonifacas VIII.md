@@ -269,3 +269,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyre [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
+- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyre [[objektai/asmenys/Albrechtas (Romos karalius)]]

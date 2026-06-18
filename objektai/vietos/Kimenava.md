@@ -26,6 +26,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   susije_objektai: 'mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89238|Sūduviai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89916|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175117|Sūduviai-jotvingiai]]: Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
@@ -33,6 +35,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89238|Sūduviai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas.md#claim-t-89368|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]: Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta.
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175120|Sūduviai-jotvingiai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89241|Sūduviai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175240|Konradas iš Tirbergo Jaunesnysis]]: Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.
@@ -53,6 +57,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59738|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš Semba: Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.
 - susijęs iš Semba: Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.
+- susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
+- susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +77,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Konradas]] puole Kimenava
+- [[objektai/asmenys/Gedetas]] valde Kimenava

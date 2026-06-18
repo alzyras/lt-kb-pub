@@ -33,6 +33,18 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59865|Henrikas iš Plockės]]: 1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.).md#claim-t-34568|Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]: Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78410|Notangai]]: 1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185598|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Apie rugpjūčio pradžią didelė kryžiuočių kariuomenė įsiveržė į Medininkų valsčių ir buvo visiškai sutriuškinta pasalose.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
+- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59868|Henrikas iš Plockės]]: 1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
+- susijęs iš Pagraudė: Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
+- susijęs iš [[objektai/asmenys/Hugonas (Sembos fogtas).md#claim-t-60331|Hugonas (Sembos fogtas)]]: 1316 m. vasarą Sembos fogtas Hugonas maršalo įsakymu su aštuoniais šimtais vyrų išjojo link Medininkų valsčiaus.
 - susijęs iš [[objektai/asmenys/Arnoldas iš Elnerio.md#claim-t-60239|Arnoldas iš Elnerio]]: 1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
@@ -162,6 +174,12 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47944|tautinė sąmonė]]: Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47946|tautinė sąmonė]]: Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.
+- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59867|Henrikas iš Plockės]]: 1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.
+- susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175090|Sembai]]: 1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178764|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -176,3 +194,18 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Henrikas iš Plockės]] surenge_zygi_i Medininkai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Medininkai
+- [[objektai/grupes/Notangai]] surenge_zygi_i Medininkai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Medininkai
+- [[objektai/grupes/Vokietijos maldininkai]] surenge_zygi_i Medininkai
+- [[objektai/asmenys/Henrikas iš Plockės]] puole Medininkai
+- [[objektai/asmenys/Hugonas (Sembos fogtas)]] surenge_zygi_i Medininkai
+- [[objektai/asmenys/Henrikas fon Plockė]] puole Medininkai
+- [[objektai/asmenys/Henrikas iš Plockės]] mire Medininkai
+- [[objektai/asmenys/Henrikas Rutėnas]] mire Medininkai
+- [[objektai/grupes/Sembai]] surenge_zygi_i Medininkai
+- [[objektai/grupes/Lietuviai]] gyne Medininkai
+- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Medininkai

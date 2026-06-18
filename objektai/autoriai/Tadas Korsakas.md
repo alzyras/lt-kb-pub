@@ -58,38 +58,38 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   global_id: t-23259
   teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie Tadą Korsaką ir abi jo dalys paremtos citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Varšuva; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinys nurodo, kad T. Korsakas žuvo ginant Varšuvą, taigi jis siejamas su Varšuvos gynimu.
 
 <a id="claim-t-23260"></a>
 - t-003
   global_id: t-23260
   teiginys: 'Tadas Korsakas žuvo ginant Varšuvą.'
   sudarymo_pagrindimas: 'Teiginys trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Varšuva; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu.
 
 <a id="claim-t-26732"></a>
 - t-005
@@ -108,13 +108,13 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja T. Korsaką su Varšuvos gynimu.
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
 ## Reikšmingi paminėjimai
 
@@ -136,13 +136,13 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinys nurodo, kad T. Korsakas žuvo ginant Varšuvą, taigi jis siejamas su Varšuvos gynimu.
     - t-003
 
 - c-002
@@ -166,24 +166,24 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Korsakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tadas Korsakas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: T. Korsakas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Korsakas" parinktas kaip owner_note_path. Targetas "T. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Varšuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: T. Korsakas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja T. Korsaką su Varšuvos gynimu.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 168224-168960; hash=c2d49596407491cbcadc5f4d2ade48fdd0bafcaaae4ea85c001dd06060764be7; match=whitespace_regex

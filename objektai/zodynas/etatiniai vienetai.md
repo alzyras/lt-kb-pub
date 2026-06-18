@@ -22,19 +22,19 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   global_id: t-42450
   teiginys: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Valkininkai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Valkininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=614235052bf20c9ba0229b940d5adba9ea2b0ffd82c62ee0ff1164007c20345f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: etatiniai vienetai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "etatiniai vienetai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Respublikonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo respublikonų kariuomenės nužygiavimą į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +64,10 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=614235052bf20c9ba0229b940d5adba9ea2b0ffd82c62ee0ff1164007c20345f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: etatiniai vienetai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "etatiniai vienetai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Respublikonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo respublikonų kariuomenės nužygiavimą į Vilnių.

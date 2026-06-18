@@ -30,19 +30,19 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 - t-001
   global_id: t-05243
   teiginys: 'Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Pskovas; llm_object: Pskovas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių kariniai būriai pasiekdavo ir Pskovo respublikos plotus.
 
 <a id="claim-t-05244"></a>
 - t-002
@@ -89,19 +89,20 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   global_id: t-12357
   teiginys: 'Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti subjektą ir faktinį veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Didysis Naugardas; mentioned_place: Kolomna; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Didysis Naugardas; mentioned_place: Kolomna; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] sudarė sutartį su [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5583f6131ffc55d41e8a7ca6df4e7b925ed3039f9f5f7fee75a225abbcac2a19; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje naugardiečiai tiesiogiai sako turėję atskirą taikos sutartį su vokiečiais.
 
 <a id="claim-t-12358"></a>
 - t-005
@@ -126,38 +127,38 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   global_id: t-103735
   teiginys: 'Nuo XII a. antros pusės lietuvių ginkluoti būriai rengė plėšiamuosius puolimus iki Pskovo ir Novgorodo respublikų.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir sukonkretintas agentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių kariniai būriai pasiekdavo ir Pskovo respublikos plotus.
 
 <a id="claim-t-103736"></a>
 - t-007
   global_id: t-103736
   teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, todėl agentas perrašytas aiškiai.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; llm_object: Pskovas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48cd80f835f36c7704a62f347845b6ff8e507854960b41b31cf740d75359f781; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini lietuvių ginkluotus plėšiamuosius puolimus iki Pskovo.
 
 <a id="claim-t-103737"></a>
 - t-008
@@ -186,19 +187,20 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir palikta aiški faktinė mintis apie Naugardą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181577-182399; hash=bff27cec143d9f3ca4ba6357a0f83ad94ca4774b3e51eb0f1bda641e1d56af83; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Didžiojo Naugardo respublika: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Naugardiečiai pasižadėjo Vytautą laikyti savo valdovu.
 
 <a id="claim-t-187733"></a>
 - t-010
@@ -208,21 +210,22 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš sąrašo suformuotas glaustas enciklopedinis sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182273-182905; hash=5e744dc1d3b2d650a409cdeca99015d260266e5e88f3e41d94c409753b6c6a89; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47954|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.
-- susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47955|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Naugardiečiai kasmet davė Vytautui duoklę, todėl tai palaikymo ar duoklinio rėmimo santykis.
+- susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179718|Švitrigaila]]: Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/Ivanas Jermoliničius.md#claim-t-87694|Ivanas Jermoliničius]]: Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47954|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47955|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.
@@ -293,6 +296,8 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187519|duoklė]]: Naugardiečiai pasižadėjo Vytautui tarnauti, duoti duoklę ir laikyti jį savo valdovu kaip pskoviečiai.
 - susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187520|duoklė]]: Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.
 - susijęs iš [[objektai/zodynas/fryzai.md#claim-t-187555|fryzai]]: Naugardiečiai Vytautui kasmet duodavo keturiasdešimt sunkiųjų žirgų, kurie kronikoje vadinami fryzais.
+- susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186602|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis pasakoja, kad naugardiečiai pasižadėjo tarnauti Vytautui, duoti duoklę ir laikyti jį savo valdovu.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179718|Švitrigaila]]: Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -339,13 +344,13 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių kariniai būriai pasiekdavo ir Pskovo respublikos plotus.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=240316d7ccdf88ae3c50982efa98071ddf180e5d6d572f1f129f076a92208c04; match=fallback; occurrences=0
@@ -406,13 +411,13 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5583f6131ffc55d41e8a7ca6df4e7b925ed3039f9f5f7fee75a225abbcac2a19; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje naugardiečiai tiesiogiai sako turėję atskirą taikos sutartį su vokiečiais.
     - t-005
 
 - c-005
@@ -444,13 +449,13 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48cd80f835f36c7704a62f347845b6ff8e507854960b41b31cf740d75359f781; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini lietuvių ginkluotus plėšiamuosius puolimus iki Pskovo.
     - t-001
 
 - c-006
@@ -484,13 +489,13 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342095-342375; hash=ce5f98c2af95d6d75b895e7d494f72e7590beb87a6739f75439b6a65c1bd4cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Pskovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių kariniai būriai pasiekdavo ir Pskovo respublikos plotus.
     - t-009
 
 - c-007
@@ -517,24 +522,30 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181577-182399; hash=bff27cec143d9f3ca4ba6357a0f83ad94ca4774b3e51eb0f1bda641e1d56af83; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Didžiojo Naugardo respublika: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Naugardiečiai pasižadėjo Vytautą laikyti savo valdovu.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182273-182905; hash=5e744dc1d3b2d650a409cdeca99015d260266e5e88f3e41d94c409753b6c6a89; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiojo Naugardo respublika" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Naugardiečiai kasmet davė Vytautui duoklę, todėl tai palaikymo ar duoklinio rėmimo santykis.
 
 ## Ryšiai
-- [[objektai/asmenys/Lengvenis]] paskyre Didžiojo Naugardo respublika
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Didžiojo Naugardo respublika
+- Didžiojo Naugardo respublika sudare_sutarti_su [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]] priklause Didžiojo Naugardo respublika
+- Didžiojo Naugardo respublika reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Švitrigaila]] sudare_sutarti_su Didžiojo Naugardo respublika
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Didžiojo Naugardo respublika
+- [[objektai/asmenys/Švitrigaila]] prekiavo_su Didžiojo Naugardo respublika

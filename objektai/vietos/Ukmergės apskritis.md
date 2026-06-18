@@ -35,19 +35,20 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   irodymo_stiprumas: 0.00
   saltinio_vieta: 971371-971707; hash=c3a528760d5e9021cc02e6909a12ea4ce2b3d03c4c4e9f4ac181c7b31be556ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Ukmergė: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Ukmergė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukmergės apskritis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergės apskritis" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-42223"></a>
 - t-002
   global_id: t-42223
   teiginys: '1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'
-  susije_objektai: 'location: Ukmergė; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'kelionės data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'
@@ -108,9 +109,10 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   irodymo_stiprumas: 0.00
   saltinio_vieta: 971371-971707; hash=c3a528760d5e9021cc02e6909a12ea4ce2b3d03c4c4e9f4ac181c7b31be556ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Ukmergė: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Ukmergė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukmergės apskritis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergės apskritis" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -23,7 +23,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-31369
   teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
-  susije_objektai: 'mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
+  susije_objektai: 'llm_object: Vysla; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vidivarii|Vidivarii]] gyveno Vysla'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 375 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -31,13 +32,13 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8811967fb925a1dd9418da9d240f2618cb79fa608204c27200d3cb9e77156d0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vysla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarii: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarii" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vysla: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Vidivarii gyveno prie Vyslos.
 - susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
@@ -68,10 +69,13 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8811967fb925a1dd9418da9d240f2618cb79fa608204c27200d3cb9e77156d0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vysla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarii: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarii" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vysla: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Vidivarii gyveno prie Vyslos.
+
+## Ryšiai
+- Vidivarii gyveno [[objektai/vietos/Vysla]]

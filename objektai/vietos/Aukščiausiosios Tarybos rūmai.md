@@ -67,6 +67,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=58
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Vytautas Žukas.md#claim-t-40530|Vytautas Žukas]]: AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.
+- susijęs iš [[objektai/grupes/ATAS.md#claim-t-40833|ATAS]]: Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40046|Audrius Butkevičius]]: 1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.
 - susijęs iš [[objektai/asmenys/Bronislovas Kuzmickas.md#claim-t-18859|Bronislovas Kuzmickas]]: 1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
@@ -141,6 +143,9 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104206|suverenitetas suverenumas]]: LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 - susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70347|suverenumas suverenitetas]]: LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 - susijęs iš [[objektai/zodynas/žvalgybos rūšys pagal šaltinį.md#claim-t-42534|žvalgybos rūšys pagal šaltinį]]: Žvalgyba apėmė atvirų šaltinių žvalgybą, taktinę žvalgybą ir iš gyventojų suplaukiančios informacijos apdorojimą.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45535|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45536|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45537|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -236,3 +241,9 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   saltinio_vieta: hash=6a8e3a86530b0413753d37046bd4c1775a2dd04443a53bf86cb46fed1fc32209; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-004
+
+## Ryšiai
+- Aukščiausiosios Tarybos rūmai (institucija) priklause [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/ATAS]] gyne Aukščiausiosios Tarybos rūmai (institucija)
+- [[objektai/asmenys/Vytautas Žukas]] gyne Aukščiausiosios Tarybos rūmai (institucija)
+- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]] priklause Aukščiausiosios Tarybos rūmai (institucija)

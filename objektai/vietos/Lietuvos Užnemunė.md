@@ -328,5 +328,5 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Užnemunė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Lietuvos Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
 - Lietuvos Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]
+- Lietuvos Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]

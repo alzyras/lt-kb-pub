@@ -158,13 +158,13 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7062d71ccfb1144e9ceb3abd0e0cbf014539d82dfc755ec72c26dcbd6411d88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: dykra: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "dykra" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Niešava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai sakoma, kad Niešavos kraštą gavo Lenkija.
 
 <a id="claim-t-89547"></a>
 - t-007
@@ -239,7 +239,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   global_id: t-89552
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Niešava; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Niešava; mentioned_place: Lietuva; mentioned_place: Sūduva'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -395,13 +395,13 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7062d71ccfb1144e9ceb3abd0e0cbf014539d82dfc755ec72c26dcbd6411d88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: dykra: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "dykra" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Niešava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai sakoma, kad Niešavos kraštą gavo Lenkija.
     - t-007
 
 - c-005

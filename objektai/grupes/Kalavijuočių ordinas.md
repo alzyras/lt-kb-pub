@@ -41,7 +41,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - t-001
   global_id: t-175530
   teiginys: '1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Latvija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Latvija'
   temporaliniai_duomenys: 'įvykio data: 1202 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -52,7 +53,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175531
   teiginys: 'Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordino likimą po Saulės mūšio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-016
 
@@ -98,7 +100,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175537
   teiginys: 'Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą.'
   sudarymo_pagrindimas: 'Pradinė pretenzija buvo apie kitą ordiną, bet citata palaiko faktą apie kalavijuočius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] puolė Lietuva'
   pagrindžia:
     - c-014
 
@@ -147,7 +150,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175542
   teiginys: 'Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos.'
   sudarymo_pagrindimas: 'Iš dokumento fragmento suformuotas užbaigtas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Maskva; llm_object: Livonija'
   pagrindžia:
     - c-008
 
@@ -156,7 +159,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175543
   teiginys: 'Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Bremenas; mentioned_place: Liubekas; mentioned_place: Padauguvis; mentioned_place: Salos'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Bremenas; mentioned_place: Liubekas; mentioned_place: Padauguvis; mentioned_place: Salos; llm_object: Dauguva'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Dauguva'
   temporaliniai_duomenys: 'įvykio data: po 1180 m.; įvykio data: 1180 m.; įvykio data: 1186 m.; įvykio data: 1198 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata.'
@@ -167,7 +171,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - t-013
   global_id: t-175544
   teiginys: '1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Latvija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Latvija'
   temporaliniai_duomenys: 'įvykio data: 1202 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -175,20 +180,21 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3817fe2af7dac72e20b00068ebf6fe11a5b4c2e91a37ce1119fefc85e8352d65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Latvija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietos ryšį.
 
 <a id="claim-t-175546"></a>
 - t-014
   global_id: t-175546
   teiginys: '1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.'
   sudarymo_pagrindimas: 'Pradžia buvo kontekstinė, todėl faktas suformuluotas kaip savarankiškas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Latvija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Latvija'
   temporaliniai_duomenys: 'įvykio data: 1202 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradžia buvo kontekstinė, todėl faktas suformuluotas kaip savarankiškas sakinys.'
@@ -210,7 +216,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175547
   teiginys: '1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškiai citatos pagrįstas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas aiškiai citatos pagrįstas faktas.'
@@ -219,13 +226,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7cbde2363d4b618a707e430e5a89b1aec199f2eb5a254adae053acb474328ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kalavijuočių likučiai prijungti prie Kryžiuočių ordino.
 
 <a id="claim-t-175548"></a>
 - t-016
@@ -252,8 +259,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175551
   teiginys: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną.'
-  susije_objektai: 'territory: Dauguva; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Dauguva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla; llm_object: Dauguva; llm_object: [[objektai/grupes/Estai|Estai]]; llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Dauguva; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo [[objektai/grupes/Estai|Estai]]; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo [[objektai/grupes/Kuršiai|Kuršiai]]'
   temporaliniai_duomenys: 'mūšio data: 1202 m.; mūšio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Dauguva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną.'
@@ -304,8 +311,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Livonijos metraščio pasakojimą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] kariavo prieš [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; [[objektai/grupes/Žemaičiai|Žemaičiai]] kariavo prieš [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   pagrindžia:
     - c-018
 
@@ -317,19 +324,19 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nepakankamai konkretus dėl mūšio šalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: 461353-461699; hash=256a081b9a2cbed845da3a02ac84786d25815eabe394ec1e1f4d937b5d72a12c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.79
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo ordino stiprinimosi vietą prie Dauguvos krantų.
 
 <a id="claim-t-184564"></a>
 - t-024
@@ -361,19 +368,20 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas vertinamojo atspalvio neturintis, bet išlaikytas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vilhelmas Fiurstenbergas|Vilhelmas Fiurstenbergas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vilhelmas Fiurstenbergas|Vilhelmas Fiurstenbergas]]; mentioned_place: Livonija; llm_object: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] gyveno Livonija'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3817fe2af7dac72e20b00068ebf6fe11a5b4c2e91a37ce1119fefc85e8352d65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Latvija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą.
 
 <a id="claim-t-187730"></a>
 - t-026
@@ -399,6 +407,15 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
+- susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97214|Romas Batūra]]: Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89358|Žiemgaliai]]: 1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89376|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89377|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
+- susijęs iš [[objektai/autoriai/R. Jasas.md#claim-t-64832|R. Jasas]]: R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59968|Hartmanas iš Heldrungeno]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
 - susijęs iš [[objektai/autoriai/Fr. Benninghoven.md#claim-t-30615|Fr. Benninghoven]]: Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną.
@@ -470,6 +487,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - susijęs iš Žemaitija: Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę, kai kardininkai ir kryžiuočiai smarkiai puldinėjo Lietuvą.
 - susijęs iš Žemaitija: Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių.
 - susijęs iš [[objektai/zodynas/militarinė valstybė.md#claim-t-11668|militarinė valstybė]]: Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.
+- susijęs iš [[objektai/autoriai/Henrikas.md#claim-t-10128|Henrikas]]: Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.
+- susijęs iš [[objektai/autoriai/Henrikas.md#claim-t-10129|Henrikas]]: Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -540,13 +559,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3817fe2af7dac72e20b00068ebf6fe11a5b4c2e91a37ce1119fefc85e8352d65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Latvija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietos ryšį.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e840f5c2814176079fc3dfaebc0fdee2dda3123d95bc466923f548fec9d9295b; match=fallback; occurrences=0
@@ -687,13 +706,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7cbde2363d4b618a707e430e5a89b1aec199f2eb5a254adae053acb474328ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kalavijuočių likučiai prijungti prie Kryžiuočių ordino.
     - t-016
 
 - c-012
@@ -885,13 +904,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 461353-461699; hash=256a081b9a2cbed845da3a02ac84786d25815eabe394ec1e1f4d937b5d72a12c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.79
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo ordino stiprinimosi vietą prie Dauguvos krantų.
     - t-024
 
 - c-021
@@ -949,13 +968,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3817fe2af7dac72e20b00068ebf6fe11a5b4c2e91a37ce1119fefc85e8352d65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Latvija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalavijuočių ordino įsikūrimas dabartinėje Latvijos teritorijoje tiesiogiai nurodo vietą.
     - t-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440612-441226; hash=d8f5e473d87eab6d38f37051c6a9ba822dabf51446a36366a0b47f0ce7ec3713; match=whitespace_regex
@@ -969,7 +988,18 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijuočių ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Kalavijuočių ordinas uzkariavo [[objektai/vietos/Dauguva]]
-- Kalavijuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- Kalavijuočių ordinas kariavo_pries [[objektai/grupes/Lietuviai]]
-- Kalavijuočių ordinas kariavo_pries [[objektai/grupes/Žemaičiai]]
+- Kalavijuočių ordinas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] sudare_sutarti_su Kalavijuočių ordinas
+- Kalavijuočių ordinas puole [[objektai/vietos/Lietuva]]
+- Kalavijuočių ordinas puole [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Kalavijuočių ordinas
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Kalavijuočių ordinas
+- [[objektai/grupes/Žiemgaliai]] puole Kalavijuočių ordinas
+- Kalavijuočių ordinas gyveno [[objektai/vietos/Latvija]]
+- Kalavijuočių ordinas sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Kalavijuočių ordinas gyveno [[objektai/vietos/Dauguva]]
+- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Baltai]]
+- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Estai]]
+- Kalavijuočių ordinas uzkariavo [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Žemaičiai]] kariavo_pries Kalavijuočių ordinas
+- Kalavijuočių ordinas gyveno [[objektai/vietos/Livonija]]

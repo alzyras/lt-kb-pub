@@ -31,7 +31,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   global_id: t-182877
   teiginys: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Gardinas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Pamaris; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Gardinas; mentioned_place: Polockas; llm_object: Gardinas'
   pagrindžia:
     - c-001
 

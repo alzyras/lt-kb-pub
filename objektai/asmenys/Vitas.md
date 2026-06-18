@@ -29,7 +29,8 @@ periodo_grupes: []
   global_id: t-87602
   teiginys: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vitas|Vitas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Pelka|Pelka]] paskyrė [[objektai/asmenys/Vitas|Vitas]]'
   temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
@@ -38,13 +39,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumas: paskyre -> Vitas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pelkos įšventinimas Vito vyskupu atitinka paskyrimo į pareigas semantiką.
 - susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
 - susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
 - susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
@@ -56,6 +57,7 @@ periodo_grupes: []
 - susijęs iš Podolė: Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.
 - susijęs iš Vilnius: Balińskis teigė, kad Vitas negalėjo būti Vilniaus vyskupas, nes jo laikais apie Vilnių dar nebuvo girdėti.
 - susijęs iš [[objektai/zodynas/in partibus infidelium.md#claim-t-86589|in partibus infidelium]]: Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.
+- susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,10 +87,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumas: paskyre -> Vitas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pelkos įšventinimas Vito vyskupu atitinka paskyrimo į pareigas semantiką.
+
+## Ryšiai
+- [[objektai/asmenys/Pelka]] paskyre Vitas

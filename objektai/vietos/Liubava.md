@@ -22,19 +22,21 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Liubava; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Liubava'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 308509-309006; hash=edf38f24c1a03d5f9c1305aa2381f8ad4b3289b52a0a181f2587457e9192af50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Liubava: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Liubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą.
+- susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
 - susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
@@ -46,6 +48,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 - susijęs iš [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos.md#claim-t-91919|Skomanto naktinis puolimas prie Birgelavos]]: Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 - susijęs iš Lubava: Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184613|gurguolė]]: Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/grupes/Sūduvos prūsai.md#claim-t-185461|Sūduvos prūsai]]: Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,10 +77,15 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 308509-309006; hash=edf38f24c1a03d5f9c1305aa2381f8ad4b3289b52a0a181f2587457e9192af50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liubava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Liubava: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Liubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą.
+
+## Ryšiai
+- [[objektai/asmenys/Skomantas]] puole Liubava
+- [[objektai/grupes/Lietuviai]] puole Liubava
+- [[objektai/grupes/Sūduvos prūsai]] keliavo_i Liubava

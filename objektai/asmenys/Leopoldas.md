@@ -22,21 +22,19 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Leopoldą ir kryžiuočių žygį.'
-  susije_objektai: 'territory: Austrija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Leopoldas|Leopoldas]] buvo valdovas Austrija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439609-440270; hash=cf0e7d27bba211289802091b36dfe7e01511cedfcca08ae44976daee1477f55c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Austrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Leopoldas: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Austrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Leopoldas" parinktas kaip owner_after_title. Targetas "Austrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 32, "match_index": 43, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leopoldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leopoldas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis.md#claim-t-185728|Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]: Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184769|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.
@@ -77,14 +75,13 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439609-440270; hash=cf0e7d27bba211289802091b36dfe7e01511cedfcca08ae44976daee1477f55c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Austrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Leopoldas: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Austrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Leopoldas" parinktas kaip owner_after_title. Targetas "Austrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 32, "match_index": 43, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leopoldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leopoldas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Leopoldas buvo_valdovas [[objektai/vietos/Austrija]]
+- Leopoldas reme [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,7 +31,8 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   global_id: t-79112
   teiginys: 'Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
   sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Volga'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Michailas Jaroslavičius|Michailas Jaroslavičius]]; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Volga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/asmenys/Michailas Jaroslavičius|Michailas Jaroslavičius]]'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
@@ -40,20 +41,21 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Jaroslavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Jaroslavičius" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michailas Jaroslavičius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Michailas Jaroslavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių.
 
 <a id="claim-t-79113"></a>
 - t-002
   global_id: t-79113
   teiginys: 'Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
   sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Volga'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Michailas Jaroslavičius|Michailas Jaroslavičius]]; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Volga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/asmenys/Michailas Jaroslavičius|Michailas Jaroslavičius]]'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata.'
@@ -62,13 +64,13 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Jaroslavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Jaroslavičius" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michailas Jaroslavičius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Michailas Jaroslavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių.
 
 ## Reikšmingi paminėjimai
 
@@ -97,21 +99,24 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Jaroslavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Jaroslavičius" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michailas Jaroslavičius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Michailas Jaroslavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Jaroslavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Jaroslavičius" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michailas Jaroslavičius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Michailas Jaroslavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Michailas Jaroslavičius

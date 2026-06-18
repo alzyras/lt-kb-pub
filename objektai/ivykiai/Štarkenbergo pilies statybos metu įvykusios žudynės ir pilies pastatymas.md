@@ -46,39 +46,39 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Štarkenbergas: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Štarkenbergas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "Štarkenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teutonų ordino broliai ir magistras citatoje siejami su Štarkenbergo pilies statyba.
 
 <a id="claim-t-89424"></a>
 - t-002
   global_id: t-89424
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.'
   sudarymo_pagrindimas: 'Pirminis teiginys neįvardijo Štarkenbergo pilies, nors citata leidžia ją aiškiai susieti su įsakymu.'
-  susije_objektai: 'mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Štarkenbergas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> magistras: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad ordino magistras su žmonėmis užbaigė statyti Štarkenbergo pilį.
 
 <a id="claim-t-89425"></a>
 - t-003
   global_id: t-89425
   teiginys: 'Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai perteikia citatoje aprašytą pilies užbaigimą po žudynių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Štarkenbergas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -114,35 +114,35 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> magistras: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad ordino magistras su žmonėmis užbaigė statyti Štarkenbergo pilį.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Štarkenbergas: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Štarkenbergas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "Štarkenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teutonų ordino broliai ir magistras citatoje siejami su Štarkenbergo pilies statyba.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Štarkenbergas: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Štarkenbergas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "Štarkenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teutonų ordino broliai ir magistras citatoje siejami su Štarkenbergo pilies statyba.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact

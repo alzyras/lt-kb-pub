@@ -38,20 +38,20 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   irodymo_stiprumas: 0.00
   saltinio_vieta: 87763-88551; hash=d624f45c9dda536940b371512c8ef3f9d1c9b0563dcf365bafdd1bb7a05ac07f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusia" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Rusia: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdo ekspedicijos į Rusią tiesiogiai žymi jo žygius į šį regioną.
 
 <a id="claim-t-85943"></a>
 - t-002
   global_id: t-85943
   teiginys: '1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Rusios atstovų atvykimą.'
-  susije_objektai: 'location: Riazanė; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius; llm_object: Trakai; llm_object: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną sakinį apie Rusios atstovų atvykimą.'
@@ -73,18 +73,20 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   global_id: t-85945
   teiginys: 'Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Rusią ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Rusia; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Rusia'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Riazanė: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.83
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Riazanė: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Riazanė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Tverės ir Riazanės kunigaikščiai atvyko į Trakus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
@@ -151,6 +153,7 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
 - susijęs iš Vitebskas: Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.
 - susijęs iš Vitebskas: Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje.
 - susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
+- susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -251,20 +254,25 @@ Vis dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio eksp
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Riazanė: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.83
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Riazanė: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Riazanė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Tverės ir Riazanės kunigaikščiai atvyko į Trakus.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 87763-88551; hash=d624f45c9dda536940b371512c8ef3f9d1c9b0563dcf365bafdd1bb7a05ac07f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusia" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Rusia: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdo ekspedicijos į Rusią tiesiogiai žymi jo žygius į šį regioną.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Rusia
+- [[objektai/grupes/Lenkai]] puole Rusia

@@ -22,20 +22,20 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   global_id: t-60273
   teiginys: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
   sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę ir citatą, todėl reikia gramatiško sakinio.'
-  susije_objektai: 'location: Kristburgas; mentioned_place: Kristburgas; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'llm_object: Kristburgas; mentioned_place: Kristburgas; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Engelkė|Engelkė]] gyveno Kristburgas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dac1c3c4639c3dff1c1d271f6a0404a897c307efddd6f47c65cc8467a8bb9bbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kristburgas: 1.00
+  ryšio_patikimumas: gyveno -> Kristburgas: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Engelkė: owner_note_path, person, gap=8
-  ryšio_targeto_parinkimas: Kristburgas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Engelkė" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Engelkė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Engelkė gyveno Kristburgo pilyje.
 
 ## Reikšmingi paminėjimai
 
@@ -63,13 +63,13 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dac1c3c4639c3dff1c1d271f6a0404a897c307efddd6f47c65cc8467a8bb9bbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kristburgas: 1.00
+  ryšio_patikimumas: gyveno -> Kristburgas: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Engelkė: owner_note_path, person, gap=8
-  ryšio_targeto_parinkimas: Kristburgas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Engelkė" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Engelkė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Engelkė gyveno Kristburgo pilyje.
 
 ## Ryšiai
 - Engelkė gyveno [[objektai/vietos/Kristburgas]]

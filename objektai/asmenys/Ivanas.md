@@ -110,3 +110,7 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   ryšio_subjekto_parinkimas: Ivanas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ivanas puole [[objektai/vietos/Livonija]]
+- Ivanas gyne [[objektai/grupes/Rusai]]

@@ -32,26 +32,28 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   global_id: t-69238
   teiginys: 'Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą.'
   sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas su daugtaškiu; citata patvirtina aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Sibiras'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Sibiras'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d1aa42045cf596bba4b2204d5fed11f4a51c8a17c74664f5da1ff748f698a2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sibiras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sibiras" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Sibiras: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Deportacijos į Sibirą buvo vykdytos Sovietų Sąjungos, todėl tai tiesioginis siuntimo į vietą ryšys.
 
 <a id="claim-t-69239"></a>
 - t-002
   global_id: t-69239
   teiginys: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
   sudarymo_pagrindimas: 'Teiginys glaustai nusako citatoje minimą deportacijų į Sibirą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'llm_object: Sibiras; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] siuntė į Sibiras'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai nusako citatoje minimą deportacijų į Sibirą faktą.'
@@ -91,13 +93,14 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460851-460931; hash=2d1dabb04d6f5dbacd3c3ed3da42214c1a6cf8153b19019a056c99e4225fc30e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: keliavo_i -> Sibiras: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sibiras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sibiras" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim kalba apie lietuvių inteligentijos iškeliavimą į Sibirą; leistinas artimiausias subjektas yra lietuviai.
+- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26385|Sovietų Sąjungos masinės deportacijos į Sibirą]]: Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.
 - susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
@@ -158,13 +161,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460851-460931; hash=2d1dabb04d6f5dbacd3c3ed3da42214c1a6cf8153b19019a056c99e4225fc30e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: keliavo_i -> Sibiras: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sibiras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sibiras" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim kalba apie lietuvių inteligentijos iškeliavimą į Sibirą; leistinas artimiausias subjektas yra lietuviai.
     - t-003
 
 - c-003
@@ -200,13 +203,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d1aa42045cf596bba4b2204d5fed11f4a51c8a17c74664f5da1ff748f698a2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sibiras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sibiras" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Sibiras: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Deportacijos į Sibirą buvo vykdytos Sovietų Sąjungos, todėl tai tiesioginis siuntimo į vietą ryšys.
     - t-002
 
 - c-005
@@ -252,3 +255,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   ryšio_subjekto_parinkimas: Sibiras: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: MGB-KGB agentai smogikai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sibiras" parinktas kaip owner_note_path. Targetas "MGB-KGB agentai smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sovietų Sąjunga]] siunte_i Sibiras
+- [[objektai/grupes/Lietuviai]] keliavo_i Sibiras

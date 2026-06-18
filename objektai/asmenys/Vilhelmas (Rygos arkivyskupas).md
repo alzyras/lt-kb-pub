@@ -44,19 +44,20 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų veikėją; citata leidžia formuluoti faktą apie Vilhelmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kuoknesė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kuoknesė; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kuoknesė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)|Vilhelmas (Rygos arkivyskupas)]] keliavo į Kuoknesė; [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)|Vilhelmas (Rygos arkivyskupas)]] gynė Kuoknesė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1240541-1241011; hash=8e26a7585f3e31c1951c2a7648ee78edd65673e1958afed48c25dfd360a18d50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuoknesė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilhelmas (Rygos arkivyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kuoknesė: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas (Rygos arkivyskupas)" parinktas kaip owner_note_path. Targetas "Kuoknesė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kuoknesė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilhelmas (Rygos arkivyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad arkivyskupas patraukė į Kuoknesę.
 
 ## Reikšmingi paminėjimai
 
@@ -118,10 +119,14 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1240541-1241011; hash=8e26a7585f3e31c1951c2a7648ee78edd65673e1958afed48c25dfd360a18d50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuoknesė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilhelmas (Rygos arkivyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kuoknesė: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas (Rygos arkivyskupas)" parinktas kaip owner_note_path. Targetas "Kuoknesė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kuoknesė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilhelmas (Rygos arkivyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad arkivyskupas patraukė į Kuoknesę.
+
+## Ryšiai
+- Vilhelmas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Kuoknesė]]
+- Vilhelmas (Rygos arkivyskupas) gyne [[objektai/vietos/Kuoknesė]]

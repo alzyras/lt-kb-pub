@@ -116,20 +116,21 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą.
 
 <a id="claim-t-177708"></a>
 - t-006
   global_id: t-177708
   teiginys: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Maskva; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, faktinis ir paremtas citata.'
@@ -151,7 +152,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177709
   teiginys: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius; llm_object: Maskva; llm_object: Pskovas; llm_object: Tverė'
+  semantiniai_rysiai: 'Vilnius prekiavo su Maskva'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiksliai remiasi citata.'
@@ -162,7 +164,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-008
   global_id: t-177710
   teiginys: 'Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Maskva; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Maskva'
   pagrindžia:
     - c-002
 
@@ -190,7 +193,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-011
   global_id: t-177713
   teiginys: '1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] surengė žygį į Maskva; [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]] surengė žygį į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -254,7 +258,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177720
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie prekybos ryšius su Maskvos pirkliais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius; llm_object: Maskva; llm_object: Ryga'
+  semantiniai_rysiai: 'Vilnius prekiavo su Maskva'
   pagrindžia:
     - c-059
 
@@ -269,13 +274,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja Algirdą su žygiais į Maskvą.
 
 <a id="claim-t-177723"></a>
 - t-020
@@ -287,20 +292,21 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd31a39a314825c93b1b568d329ad727ac65aacad8be401147d1e879016805eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą.
 
 <a id="claim-t-177724"></a>
 - t-021
   global_id: t-177724
   teiginys: 'Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Maskvos kunigaikštiją, o pradinis teiginys buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vosylius I|Vosylius I]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vosylius I|Vosylius I]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas; llm_object: [[objektai/asmenys/Vosylius I|Vosylius I]]; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Maskva'
   pagrindžia:
     - c-005
 
@@ -309,7 +315,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177725
   teiginys: 'Georgijaus Čičerino nota patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-027
   irodymo_stiprumas: 0.00
@@ -337,13 +343,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8ab2e8e39c87cea97b33bfce064b3174f65164d1a11066bb73e0c9c5a83120d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didysis Naugardas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didysis Naugardas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Didysis Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai aprašytas kaip žygiavęs į Maskvą.
 
 <a id="claim-t-177727"></a>
 - t-024
@@ -367,7 +373,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-025
   global_id: t-177732
   teiginys: '1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -400,7 +406,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177734
   teiginys: 'Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Maskva.'
-  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: SSRS; llm_object: Lietuva'
+  semantiniai_rysiai: 'Maskva prekiavo su Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1959 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Maskva.'
@@ -505,19 +512,19 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177739
   teiginys: 'Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir turi OCR fragmentą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Birutės kalnas; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Birutės kalnas; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282680-282947; hash=5d4b74c146a46461a205c4b0a757789c9eb1d54451109fd5ce0c53289c3ce1a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai aprašyta kaip įžengusi į Vilnių.
 
 <a id="claim-t-177740"></a>
 - t-033
@@ -627,7 +634,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177746
   teiginys: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
   sudarymo_pagrindimas: 'Reikia išplėsti įvardį ir pašalinti išnašos bei citatos triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] apgulė Maskva'
   pagrindžia:
     - c-063
   irodymo_stiprumas: 0.00
@@ -672,13 +680,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43f987cd31500e67a6b695d969d79182e5f6feb2ecd2e8054877ebd6b72f1cd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumas: priklause -> SSRS: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo Lietuvos įtraukimą į SSRS sudėtį, nors formuluotė pateikta okupacinės procedūros kontekste.
 
 <a id="claim-t-177749"></a>
 - t-042
@@ -748,7 +756,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177753
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
@@ -757,13 +765,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e73da3d46d9778647da847ad3e2afb4848e1e1227df1211e4873eb710a0aec45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leningradas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Leningradas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Leningradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maisto produktų išvežimas iš Lietuvos į Maskvą rodo ekonominį prekių srautą tarp šių vietų.
 
 <a id="claim-t-177754"></a>
 - t-046
@@ -788,19 +796,19 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Juozas Zdebskis dalyvavo Maskvoje vykusioje spaudos konferencijoje, todėl pagrįstas buvimo ar kelionės į Maskvą ryšys.
 
 <a id="claim-t-177756"></a>
 - t-048
   global_id: t-177756
   teiginys: 'Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-060
   irodymo_stiprumas: 0.00
@@ -837,20 +845,21 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 732455-732744; hash=219ce53a7caab62b9ff0b03ba90462fddf12f20fe9416e751073eb6184eb9d43; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: apgule -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Stovėjimas prie Maskvos mūrų po žygio rodo Maskvos apgulimą ar blokavimą, nors citata sako, kad ilgam apgulimui jis nebuvo pasiruošęs.
 
 <a id="claim-t-177760"></a>
 - t-052
   global_id: t-177760
   teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai susijęs su Maskva.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai susijęs su Maskva.'
@@ -859,20 +868,21 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 733840-733991; hash=aeed791c5d8ad8672ef0b84c343fcb1d9aeab72fe704df3f5447eaad2e6c1223; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis tiesiogiai įvardytas kaip pradėjęs trečiąjį Maskvos žygį.
 
 <a id="claim-t-177761"></a>
 - t-053
   global_id: t-177761
   teiginys: '1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus kontekstinis žodis „šios“ ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Maskva; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Maskva'
   temporaliniai_duomenys: 'įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus kontekstinis žodis „šios“ ir paliktas citatos paremtas faktas.'
@@ -911,7 +921,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-055
   global_id: t-177764
   teiginys: 'Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.'
-  susije_objektai: 'location: Naugardas; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-039
 
@@ -920,7 +930,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177765
   teiginys: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, kurį citata leidžia pakeisti vardu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] mirė Maskva'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -938,19 +949,19 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-057
   global_id: t-177766
   teiginys: 'Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.'
-  susije_objektai: 'location: Tverė; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkų kariuomenė tiesiogiai įvardyta kaip užėmusi Maskvą.
 
 <a id="claim-t-177767"></a>
 - t-058
@@ -1011,13 +1022,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pronskas: 0.83
+  ryšio_patikimumas: keliavo_i -> Pronskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pronskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Pronskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pronskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo tolimiausią Vytauto žygio kryptį prie Pronsko.
 
 <a id="claim-t-177774"></a>
 - t-064
@@ -1039,12 +1050,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Naugardas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Naugardas: nearest_after_predicate, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Naugardas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-177776"></a>
 - t-066
@@ -1070,7 +1082,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177777
   teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiau atskirti pranešimo vietą ir komiteto įkūrimo vietą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Sigitas Tamkevičius|Sigitas Tamkevičius]]; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Sigitas Tamkevičius|Sigitas Tamkevičius]]; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]] keliavo į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau atskirti pranešimo vietą ir komiteto įkūrimo vietą.'
@@ -1081,7 +1094,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-068
   global_id: t-177779
   teiginys: 'J. Paleckio vadovaujama delegacija Maskvoje rugpjūčio 3 d. pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
-  susije_objektai: 'mentioned_place: SSRS; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: SSRS; mentioned_place: Lietuva; llm_object: SSRS'
   pagrindžia:
     - c-014
 
@@ -1108,19 +1121,20 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-070
   global_id: t-177783
   teiginys: 'Algirdas tris dienas ir tris naktis stovėjo prie Maskvos mūrų, nusiaubė apylinkę ir grįžo atgal.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Tverė; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] apgulė Maskva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniuje vykę mainai apėmė Maskvos pirklius, todėl tai rodo prekybinį ryšį.
 
 <a id="claim-t-177784"></a>
 - t-071
@@ -1152,20 +1166,20 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vasilijus Vasiljevičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vasilijus Vasiljevičius: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Vasilijus Vasiljevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus Vasiljevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus.
 
 <a id="claim-t-177787"></a>
 - t-074
   global_id: t-177787
   teiginys: 'Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
   sudarymo_pagrindimas: 'Išplėstas asmens vardas ir išlaikytas citatos paremtas faktas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Chotinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Chotinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1617-1618; mūšio data: 1618 m.; mūšio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas asmens vardas ir išlaikytas citatos paremtas faktas.'
@@ -1224,13 +1238,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): nearest_actor, person, gap=13
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-177791"></a>
 - t-078
@@ -1243,20 +1257,20 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus prekybiniai santykiai apėmė pirklius iš Maskvos.
 
 <a id="claim-t-177792"></a>
 - t-079
   global_id: t-177792
   teiginys: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   pagrindžia:
     - c-023
   irodymo_stiprumas: 0.00
@@ -1313,7 +1327,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-086
   global_id: t-177802
   teiginys: 'Lenkų kariuomenė 1610 m., sumušusi rusus prie Klušino, užėmė Maskvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Maskva; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Maskva'
   temporaliniai_duomenys: 'įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -1323,7 +1338,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-087
   global_id: t-177804
   teiginys: 'Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vosylius I|Vosylius I]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vosylius I|Vosylius I]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas; llm_object: Pronskas'
   pagrindžia:
     - c-005
 
@@ -1337,13 +1352,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Algirdo žygiai į Maskvą: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Algirdą su jo žygiais į Maskvą kaip įvykiu.
 
 <a id="claim-t-177808"></a>
 - t-089
@@ -1357,13 +1372,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26e8f904c2932a79e68accf8b34d099a358876ab99c6fb26ac0d426852914bf6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nurodytas kaip žygiavęs į Maskvą.
 
 <a id="claim-t-177809"></a>
 - t-090
@@ -1477,13 +1492,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310762-311203; hash=50a19477c97c91a12556f17d17cb875e0f14daf2c96e3cb31ba4953b2a619d2b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos suvereniteto Vilniuje pripažinimas tiesiogiai rodo Vilniaus priklausymą Lietuvos suverenitetui.
 
 <a id="claim-t-183050"></a>
 - t-097
@@ -1587,13 +1602,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 40279-40615; hash=492c7be990da27398d5c56933e9d428687ae977f487c990a4db96b1735bd3680; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leningradas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Leningradas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Leningradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Leningradas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Leningradas nurodytas kaip Lietuvos maisto produktų vartotojas, todėl ryšys yra ekonominis.
 
 <a id="claim-t-187608"></a>
 - t-102
@@ -1619,39 +1634,56 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
-- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
+- susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-10183|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.
+- susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05286|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
+- susijęs iš Kremlius: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
+- susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82300|Fotijus]]: Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą.
+- susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82303|Fotijus]]: Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą.
+- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185977|Vasilijus]]: Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.
+- susijęs iš [[objektai/ivykiai/Algirdo žygiai į Maskvą.md#claim-t-20161|Algirdo žygiai į Maskvą]]: Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.
+- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
+- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19027|Juozas Urbšys]]: Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai.md#claim-t-77912|Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą.
+- susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
+- susijęs iš [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`.md#claim-t-186395|„lietuvių imperatoriumi“ `vasilea Letvon`]]: 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“).
+- susijęs iš [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`.md#claim-t-186396|„lietuvių imperatoriumi“ `vasilea Letvon`]]: 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.
+- susijęs iš [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“.md#claim-t-20938|„savaime visa Rusia turi priklausyti lietuviams“]]: Algirdo pretenzija, kad „savaime visa Rusia turi priklausyti lietuviams“, liko neįgyvendinta po nesėkmingų žygių į Maskvą.
+- susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.
+- susijęs iš Klušinas: 1610 m. lenkų kariuomenė sumušė rusus prie Klušino ir užėmė Maskvą.
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19029|Juozas Urbšys]]: Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.
+- susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35919|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.
+- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
+- susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78781|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Algirdo žygius į Maskvą ir Maskvos valstybės augimą.
+- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
+- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
+- susijęs iš [[objektai/asmenys/Vasilijus Berezuiskis.md#claim-t-39663|Vasilijus Berezuiskis]]: Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.
+- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
+- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
+- susijęs iš [[objektai/autoriai/Karamzin.md#claim-t-88071|Karamzin]]: Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui.
+- susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05287|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunasis Vytautas, lietuvių kunigaikščiai ir Smolensko pajėgos.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186646|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.
+- susijęs iš [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje.md#claim-t-185881|Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]: Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
+- susijęs iš Naugardas: Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.
+- susijęs iš Pskovas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79223|Vladislovas Vaza]]: Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos.md#claim-t-187468|1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]: Pagrindinis Lietuvos metraščių tekstas baigiasi pasakojimu apie 1444-1445 m. žiemos karą ir paliaubas tarp Kazimiero Jogailaičio ir Vasilijaus II Vasiljevičiaus.
+- susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš Prūsija: Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
+- susijęs iš Pasveikinimo kalva: Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
+- susijęs iš [[objektai/asmenys/Bazilius (Vasilius) II.md#claim-t-18849|Bazilius (Vasilius) II]]: 1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.
 - susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82288|Elena (vyskupas, XV–XVI a.)]]: 1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
-- susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Simonas (Maskvos kunigaikštis).md#claim-t-87851|Simonas (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.
-- susijęs iš [[objektai/asmenys/Simonas Rapolovskis.md#claim-t-87852|Simonas Rapolovskis]]: Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
-- susijęs iš [[objektai/asmenys/Vosylius (Maskvos kunigaikštis).md#claim-t-35328|Vosylius (Maskvos kunigaikštis)]]: 1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
-- susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64267|Vosylius I]]: 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
-- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
-- susijęs iš [[objektai/posakiai/daugiau nebelieti krikščionių kraujo.md#claim-t-185476|daugiau nebelieti krikščionių kraujo]]: Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
-- susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
-- susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
-- susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
-- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
-- susijęs iš Klušinas: 1610 m. lenkų kariuomenė sumušė rusus prie Klušino ir užėmė Maskvą.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185529|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
+- susijęs iš [[objektai/asmenys/Tomas Naruševičius.md#claim-t-76026|Tomas Naruševičius]]: Tomas Naruševičius vadovavo Lietuvos delegacijai Maskvoje, kuri pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.
+- susijęs iš [[objektai/asmenys/Tomas Naruševičius.md#claim-t-76027|Tomas Naruševičius]]: Tomo Naruševičiaus vadovaujama delegacija Maskvoje pirmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK.
+- susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
+- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Aleksandras Štromas.md#claim-t-18780|Aleksandras Štromas]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.
 - susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
@@ -1801,9 +1833,11 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštija.md#claim-t-92732|Maskvos kunigaikštija]]: Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92733|Maskvos kunigaikštystė]]: Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92734|Maskvos kunigaikštystė]]: Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.
+- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92736|Maskvos kunigaikštystė]]: Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92737|Maskvos kunigaikštystė]]: Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92738|Maskvos kunigaikštystė]]: Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.
+- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92740|Maskvos kunigaikštystė]]: Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.
 - susijęs iš [[objektai/grupes/Maskvos metropolitai.md#claim-t-86762|Maskvos metropolitai]]: Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.
 - susijęs iš [[objektai/grupes/Maskvos metropolitai.md#claim-t-86763|Maskvos metropolitai]]: Michał Balińskis Maskvos metropolitų religinę viršenybę Lietuvos rusiškojo tikėjimo vyskupams laikė dideliu Vytauto nepatogumu.
@@ -2038,6 +2072,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/zodynas/talkos sutartis.md#claim-t-187560|talkos sutartis (sutartis, XV a.)]]: Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.
 - susijęs iš [[objektai/zodynas/vakarietiškumas.md#claim-t-22337|vakarietiškumas]]: Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai.
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
+- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77967|A. Smetona]]: Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
 - susijęs iš [[objektai/asmenys/Adolfas Jofė.md#claim-t-18755|Adolfas Jofė]]: Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.
@@ -2287,6 +2325,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/grupes/Katalikų veikimo centras.md#claim-t-19747|Katalikų veikimo centras]]: Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.
 - susijęs iš [[objektai/grupes/Klaipėdos krašto lietuviai.md#claim-t-74189|Klaipėdos krašto lietuviai (kraštas)]]: Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184485|Krymo totoriai]]: Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178986|Kryžiuočių ordinas]]: Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų.
@@ -2814,6 +2853,52 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/zodynas/valymo operacijos.md#claim-t-22338|valymo operacijos]]: Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-182991|vietininkas]]: Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
+- susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
+- susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
+- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184831|Stanislovas Kiška]]: Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
+- susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
+- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
+- susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05288|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Pirmojo žygio metu lietuviai pasiekė Maskvos vartus, tačiau Algirdas nebuvo pasirengęs ilgam apgulimui.
+- susijęs iš Įstatymas, leidžiantis krikščionims skelbti tikėjimo tiesas: Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.
+- susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
+- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
+- susijęs iš Zaslavlis: Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
+- susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
+- susijęs iš Vilnius: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš Livonija: Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
+- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
+- susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+- susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
+- susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
+- susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
+- susijęs iš [[objektai/paprociai/Padėkos pamaldos už karinę pergalę.md#claim-t-185880|Padėkos pamaldos už karinę pergalę]]: Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.
+- susijęs iš [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“.md#claim-t-41484|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]: Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): „Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
+- susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183839|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
+- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187743|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė.md#claim-t-87189|Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185978|Vasilijus]]: Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
+- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.).md#claim-t-35920|Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]: Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.
+- susijęs iš [[objektai/ivykiai/Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę.md#claim-t-185822|Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę]]: Karvedžiai nutarė, kad Firlėjus su lenkais ir Ostrogiškis su lietuviais įžengs į Maskvos kunigaikštystę.
+- susijęs iš [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj....md#claim-t-67257|Aš tave pasodinsiu Auksinėj Ordoj...]]: Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.
+- susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
+- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101653|Josifas Stalinas]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
+- susijęs iš Vilnius: 1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
+- susijęs iš [[objektai/grupes/Livonijos valstybė.md#claim-t-72598|Livonijos valstybė]]: Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.
+- susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
+- susijęs iš Helsinkio Baigiamasis aktas: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
+- susijęs iš Švedija: Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -2876,13 +2961,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282680-282947; hash=5d4b74c146a46461a205c4b0a757789c9eb1d54451109fd5ce0c53289c3ce1a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai aprašyta kaip įžengusi į Vilnių.
     - t-070
 
 - c-004
@@ -2898,13 +2983,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniuje vykę mainai apėmė Maskvos pirklius, todėl tai rodo prekybinį ryšį.
     - t-011
 
 - c-005
@@ -2952,13 +3037,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd31a39a314825c93b1b568d329ad727ac65aacad8be401147d1e879016805eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą.
     - t-001
 
 - c-007
@@ -3081,13 +3166,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43f987cd31500e67a6b695d969d79182e5f6feb2ecd2e8054877ebd6b72f1cd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumas: priklause -> SSRS: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo Lietuvos įtraukimą į SSRS sudėtį, nors formuluotė pateikta okupacinės procedūros kontekste.
     - t-053
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=535c6b81a6fd04959a0d3cb50e0d3e7e7fdb9c4fa1301eac9668b33b7368deb5; match=fallback; occurrences=0
@@ -3137,13 +3222,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Algirdo žygiai į Maskvą: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Algirdą su jo žygiais į Maskvą kaip įvykiu.
     - t-057
 
 - c-013
@@ -3163,13 +3248,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkų kariuomenė tiesiogiai įvardyta kaip užėmusi Maskvą.
     - t-019
 
 - c-014
@@ -3187,13 +3272,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cf892ef976e30290a3a846de607b77946be7f676ace4fc26b9d07f4761998a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja Algirdą su žygiais į Maskvą.
     - t-068
 
 - c-015
@@ -3240,13 +3325,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pronskas: 0.83
+  ryšio_patikimumas: keliavo_i -> Pronskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pronskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Pronskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pronskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo tolimiausią Vytauto žygio kryptį prie Pronsko.
     - t-080
     - t-066
 
@@ -3360,13 +3445,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą.
     - t-051
 
 - c-021
@@ -3395,24 +3480,24 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 732455-732744; hash=219ce53a7caab62b9ff0b03ba90462fddf12f20fe9416e751073eb6184eb9d43; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: apgule -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Stovėjimas prie Maskvos mūrų po žygio rodo Maskvos apgulimą ar blokavimą, nors citata sako, kad ilgam apgulimui jis nebuvo pasiruošęs.
     - t-073
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vasilijus Vasiljevičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vasilijus Vasiljevičius: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Vasilijus Vasiljevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus Vasiljevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vasilijus Vasiljevičius nurodytas tarp asmenų, atvykusių į Trakus.
     - t-064
 
 - c-022
@@ -3494,13 +3579,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e73da3d46d9778647da847ad3e2afb4848e1e1227df1211e4873eb710a0aec45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leningradas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Leningradas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Leningradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maisto produktų išvežimas iš Lietuvos į Maskvą rodo ekonominį prekių srautą tarp šių vietų.
     - t-056
 
 - c-025
@@ -4004,23 +4089,24 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8ab2e8e39c87cea97b33bfce064b3174f65164d1a11066bb73e0c9c5a83120d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didysis Naugardas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didysis Naugardas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Didysis Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai aprašytas kaip žygiavęs į Maskvą.
     - t-065
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Naugardas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Naugardas: nearest_after_predicate, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Naugardas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-030
 
 - c-046
@@ -4079,13 +4165,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310762-311203; hash=50a19477c97c91a12556f17d17cb875e0f14daf2c96e3cb31ba4953b2a619d2b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos suvereniteto Vilniuje pripažinimas tiesiogiai rodo Vilniaus priklausymą Lietuvos suverenitetui.
     - t-027
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1598d422d3aabad070e58258cd86e098a0de60987b6101f2f96bd10333421847; match=fallback; occurrences=0
@@ -4286,13 +4372,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Juozas Zdebskis dalyvavo Maskvoje vykusioje spaudos konferencijoje, todėl pagrįstas buvimo ar kelionės į Maskvą ryšys.
     - t-013
     - t-089
 
@@ -4316,13 +4402,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26e8f904c2932a79e68accf8b34d099a358876ab99c6fb26ac0d426852914bf6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai nurodytas kaip žygiavęs į Maskvą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5d8613fc60971bb346aed3ade135a7aa0010f22411e0f0e849452f27b19d6e65; match=fallback; occurrences=0
@@ -4383,13 +4469,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 733840-733991; hash=aeed791c5d8ad8672ef0b84c343fcb1d9aeab72fe704df3f5447eaad2e6c1223; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis tiesiogiai įvardytas kaip pradėjęs trečiąjį Maskvos žygį.
     - t-050
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237cceed8fc6462acb6edde5be37739aab1efbf37fe8819e11ad9a1c11cec4d4; match=fallback; occurrences=0
@@ -4510,13 +4596,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): nearest_actor, person, gap=13
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-069
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c0f11518bc9b24cb49c0a7191578f85a2e0d4919eba31169876c52d1cb0b365; match=fallback; occurrences=0
@@ -4763,13 +4849,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus prekybiniai santykiai apėmė pirklius iš Maskvos.
     - t-097
 
 - c-072
@@ -4921,13 +5007,13 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 40279-40615; hash=492c7be990da27398d5c56933e9d428687ae977f487c990a4db96b1735bd3680; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leningradas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Leningradas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Leningradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Leningradas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Leningradas nurodytas kaip Lietuvos maisto produktų vartotojas, todėl ryšys yra ekonominis.
     - t-102
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439909-440108; hash=002a8c92d824d2eaad5762cf172c1874495beae74f7417c366302a86cae9270b; match=whitespace_regex
@@ -4941,25 +5027,64 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Vosylius]] valde_teritorija Maskva
-- [[objektai/asmenys/Vosylius II]] valde_teritorija Maskva
-- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Maskva
-- [[objektai/asmenys/Dmitrijus]] buvo_valdovas Maskva
-- [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Maskva
-- [[objektai/asmenys/Ivanas Vasiljevičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Maskva
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/grupes/Krymo chanatas]] susije_su Maskva
-- [[objektai/asmenys/Mykolas Rusalka]] keliavo_i Maskva
-- [[objektai/asmenys/Simonas (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Simonas Rapolovskis]] keliavo_i Maskva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Maskva
+- [[objektai/grupes/Lenkai]] uzeme Maskva
+- [[objektai/asmenys/Fotijus]] keliavo_i Maskva
+- [[objektai/asmenys/Vasilijus]] keliavo_i Maskva
+- [[objektai/asmenys/Juozas Urbšys]] siunte_i Maskva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Maskva
+- [[objektai/asmenys/Augustas]] siunte_i Maskva
+- [[objektai/asmenys/Juozas Urbšys]] keliavo_i Maskva
 - [[objektai/asmenys/Vasilijus]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vosylius I]] buvo_valdovas Maskva
-- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Maskva
-- [[objektai/grupes/Rusai]] uzeme Maskva
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Maskva
+- [[objektai/vietos/Vilnius]] prekiavo_su Maskva
+- [[objektai/asmenys/Aleksandras Jogailaitis]] siunte_i Maskva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] apgule Maskva
+- [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Maskva
+- [[objektai/grupes/Maskvos pasiuntiniai]] priklause Maskva
+- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] mire Maskva
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]] buvo_valdovas Maskva
+- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] keliavo_i Maskva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] keliavo_i Maskva
+- [[objektai/asmenys/Andrius Algirdaitis]] surenge_zygi_i Maskva
+- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Maskva
+- [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Maskva
+- [[objektai/asmenys/Gerasimas]] gime Maskva
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Maskva
+- [[objektai/asmenys/Mykolas]] mire Maskva
+- [[objektai/vietos/Smolenskas]] priklause Maskva
+- [[objektai/asmenys/Tomas Naruševičius]] keliavo_i Maskva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Maskva
+- [[objektai/asmenys/Petras Białas]] keliavo_i Maskva
+- [[objektai/asmenys/Ciprijonas]] gyveno Maskva
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] keliavo_i Maskva
+- [[objektai/grupes/Lietuviai]] keliavo_i Maskva
+- [[objektai/asmenys/Stanislovas Kiška]] puole Maskva
+- [[objektai/vietos/Tartai]] priklause Maskva
+- [[objektai/asmenys/Vosylius]] valde Maskva
+- [[objektai/asmenys/Vosylius II]] valde Maskva
+- [[objektai/asmenys/Motiejus Kločka]] keliavo_i Maskva
+- [[objektai/grupes/Baltai]] gyveno Maskva
+- [[objektai/asmenys/Jonas Gornostajus]] keliavo_i Maskva
+- [[objektai/grupes/Maskvėnai]] keliavo_i Maskva
+- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] keliavo_i Maskva
+- [[objektai/grupes/Rusai]] keliavo_i Maskva
+- [[objektai/asmenys/Stanislovas Goštautas]] keliavo_i Maskva
+- [[objektai/asmenys/Stanislovas Jendžejevskis]] keliavo_i Maskva
+- [[objektai/asmenys/Stanislovas Pacas]] puole Maskva
+- Maskva prekiavo_su [[objektai/grupes/Vokiečiai]]
+- [[objektai/vietos/Naugardas]] prekiavo_su Maskva
+- [[objektai/asmenys/Andrius Mackevičius]] keliavo_i Maskva
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]] keliavo_i Maskva
+- [[objektai/vietos/Lietuva]] prekiavo_su Maskva
+- [[objektai/asmenys/Vasilijus]] siunte_i Maskva
+- Maskva priklause [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Maskva
+- [[objektai/grupes/Lenkai]] surenge_zygi_i Maskva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Maskva
+- [[objektai/asmenys/Josifas Stalinas]] gyveno Maskva
+- [[objektai/grupes/Maskvos Helsinkio grupė]] priklause Maskva
+- [[objektai/grupes/Maskvos pasiuntiniai]] keliavo_i Maskva
+- [[objektai/grupes/Livonijos valstybė]] gyne Maskva
+- Maskva prekiavo_su [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Maskvos Helsinkio grupė]] gyveno Maskva
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Maskva

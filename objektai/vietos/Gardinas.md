@@ -93,7 +93,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179831
   teiginys: 'Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų kontekstinį pradžios fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Panemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Panemunė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1410 m.; įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų kontekstinį pradžios fragmentą.'
@@ -170,7 +170,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - t-010
   global_id: t-179837
   teiginys: 'Kęstučio valdos, apėmusios Gardino žemę ir Palenkę, dėl artimos kaimynystės su kryžiuočių valstybe nebuvo saugios.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Gardino žemė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-022
 
@@ -185,19 +185,19 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardino žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardino žemė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Gardino žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Gardino žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardino žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Gardino žemę aiškiai įvardija kaip Kęstučio valdų dalį.
 
 <a id="claim-t-179841"></a>
 - t-012
   global_id: t-179841
   teiginys: '1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.'
-  susije_objektai: 'mentioned_place: Metena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ritterswerderis'
+  susije_objektai: 'llm_object: Ritterswerderis; mentioned_place: Metena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ritterswerderis; llm_object: Metena'
   temporaliniai_duomenys: 'įvykio data: iki 1398 m.; įvykio data: 1392 m.; įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -218,7 +218,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179842
   teiginys: '1376 m. Vytautas, jau būdamas Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą 1376 m. žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gardinas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.; įvykio data: 1368 m.; įvykio data: 1376 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą 1376 m. žygį.'
@@ -227,13 +228,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be845951821e4e6384b6a7d81c44ed1ab18b0c466a284c51fa975d6b856613e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: valde -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kalba apie Vytautui numatytą Gardino valdymą, bet formuluotė yra sąlyginė sutartinė.
 
 <a id="claim-t-179843"></a>
 - t-014
@@ -264,13 +265,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Metena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Metena: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Metena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ritterswerderis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ritterswerderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sudeginimas karinėje situacijoje tiesiogiai rodo Vytauto puolimą prieš Ritterswerderį.
 
 <a id="claim-t-179845"></a>
 - t-016
@@ -298,7 +299,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - t-017
   global_id: t-179846
   teiginys: 'Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.'
-  susije_objektai: 'mentioned_place: Metena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ritterswerderis'
+  susije_objektai: 'llm_object: Ritterswerderis; mentioned_place: Metena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ritterswerderis; llm_object: Metena'
   temporaliniai_duomenys: 'įvykio data: iki 1398 m.; įvykio data: 1392 m.; įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -306,13 +307,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cce06cc2eba2569ead1fa315740d03407cb2bc64ac4915f3cd9e373a78f93608; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Gardinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas „Gardino kunigaikštis“ tiesiogiai sieja Vytautą su Gardino valdymu.
 
 <a id="claim-t-179847"></a>
 - t-018
@@ -333,20 +334,20 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų.
 
 <a id="claim-t-179849"></a>
 - t-020
   global_id: t-179849
   teiginys: '1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.'
   sudarymo_pagrindimas: 'Teiginys per ilgas; citata leidžia aiškiau išskirti Gardiną ir veikėją.'
-  susije_objektai: 'mentioned_place: Skalva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Skalva; mentioned_place: Skalva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1365 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys per ilgas; citata leidžia aiškiau išskirti Gardiną ir veikėją.'
@@ -380,7 +381,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179851
   teiginys: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, vietą ir veiksmą, citata tai patvirtina.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lietuva; mentioned_place: Pagraudė'
+  susije_objektai: 'llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lietuva; mentioned_place: Pagraudė'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] puolė Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1305 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako veikėją, vietą ir veiksmą, citata tai patvirtina.'
@@ -407,13 +409,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 548584-548650; hash=92f0b4c29f6046c0345f6989816141a4a8005cd4e3f1b74eb52f2384d5481ed8; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: gyveno -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytauto dvaras Gardine rodo jo rezidavimą ar gyvenamąją buveinę ten.
 
 <a id="claim-t-179853"></a>
 - t-024
@@ -452,7 +454,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179855
   teiginys: 'Vytautas turėjo valdyti atgaunamus Trakus, Gardiną ir kitas žemes kaip Ordino vasalas.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie Gardino valdymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Livonija; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Gardinas'
   pagrindžia:
     - c-027
   irodymo_stiprumas: 0.00
@@ -471,7 +474,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179856
   teiginys: 'Prie Trakų Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Vytauto kariuomenės būrį iš Gardino.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė; mentioned_place: Trakai; llm_object: Trakai'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
@@ -489,7 +492,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - t-028
   global_id: t-179857
   teiginys: 'Kęstučio valdos, apėmusios Gardino žemę, dėl artimos kaimynystės su kryžiuočių valstybe niekada nebuvo saugios.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Gardino žemė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardino žemė; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Winrichas von Kniprodė|Winrichas von Kniprodė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-022
 
@@ -498,7 +501,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179858
   teiginys: '1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu.'
-  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vakarų Prūsija; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vakarų Prūsija; mentioned_place: Varmė'
   temporaliniai_duomenys: 'valdymo laikotarpis: po 1466 m.; valdymo laikotarpis: 1466 m.; valdymo laikotarpis: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu.'
@@ -546,7 +549,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - t-032
   global_id: t-179862
   teiginys: 'Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  susije_objektai: 'llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] mirė Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -672,7 +676,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179870
   teiginys: 'Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Panemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_place: Panemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai; llm_object: Panemunė'
   temporaliniai_duomenys: 'įvykio data: 1394 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
@@ -699,20 +703,20 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardino žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardino žemė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Gardino žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Gardino žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardino žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gardino žemė tiesiogiai išvardyta kaip Kęstučio valdų dalis.
 
 <a id="claim-t-179874"></a>
 - t-042
   global_id: t-179874
   teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Antano Tyzenhauzo veiklą su Gardine įkurtomis mokyklomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Anglija; mentioned_place: Panemunė'
+  susije_objektai: 'llm_object: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Anglija; mentioned_place: Panemunė'
   temporaliniai_duomenys: 'įkūrimo data: iki 1410 m.; įkūrimo data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Antano Tyzenhauzo veiklą su Gardine įkurtomis mokyklomis.'
@@ -749,20 +753,21 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Metena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Metena: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Metena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ritterswerderis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ritterswerderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sudeginimas karinėje situacijoje tiesiogiai rodo puolimą prieš Ritterswerderį.
 
 <a id="claim-t-179877"></a>
 - t-045
   global_id: t-179877
   teiginys: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį vardu ir pašalinti perteklinę atribuciją.'
-  susije_objektai: 'mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Kulmas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Gardinas; mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Kulmas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]] puolė Gardinas'
   pagrindžia:
     - c-029
   irodymo_stiprumas: 0.00
@@ -781,7 +786,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179878
   teiginys: '1586 m. gruodžio 12 d. Gardine netikėtai mirė Steponas Batoras, ir ši mirtis nuliūdino Vilnių bei visą šalį.'
   sudarymo_pagrindimas: 'Pašalinti laužyti žodžiai, sakinys išlaiko citatos faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] mirė Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinti laužyti žodžiai, sakinys išlaiko citatos faktą.'
@@ -790,13 +796,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e6efd701213fb716ffe8212441d0a496cdab98030a9f7748ca7c2290fae6b02e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skalva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Skalva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Patrikas aiškiai įvardytas tarp Skalvos žemę puolusių asmenų.
 
 <a id="claim-t-179879"></a>
 - t-047
@@ -808,14 +814,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Krymas: candidate; Lenkija: candidate; Prūsija: candidate; Vakarų Prūsija: candidate; Varmė: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras Jogailaitis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179880"></a>
 - t-048
@@ -851,7 +856,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179882
   teiginys: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Prūsija; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai paremtas citata.'
@@ -863,7 +869,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179883
   teiginys: 'Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs sąrašo fragmentas; citata leidžia aiškų faktą.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Naugardėlis; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Drahočynas; mentioned_place: Kaunas; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_place: Luckas; mentioned_place: Naugardėlis; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Drahočynas; mentioned_place: Kaunas; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vorskla'
   pagrindžia:
     - c-018
 
@@ -889,7 +895,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179887
   teiginys: 'Prie Trakų Kęstutis rado Vytautą, kuris buvo atsivedęs kariuomenės būrį iš Gardino.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto atvykimą su kariuomenės būriu iš Gardino.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė; mentioned_place: Trakai; llm_object: Trakai'
   pagrindžia:
     - c-026
 
@@ -963,13 +969,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panemunė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panemunė: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Panemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Panemunė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Panemunės pavietų nusiaubimas tiesiogiai rodo Švitrigailos dalyvavimą puolime.
 
 <a id="claim-t-179894"></a>
 - t-059
@@ -988,7 +994,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179896
   teiginys: '1429 m. rugsėjo 29 d. Vytautas svečius priėmė savo dvare Gardine.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citata apie Vytauto dvarą Gardine.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citata apie Vytauto dvarą Gardine.'
@@ -1007,13 +1014,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1191da8c8733cb165bbd8d3e404a7994ff3fb1f71e47137b94ed3f6e07cee9e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Batoras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas Batoras: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Steponas Batoras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Gardinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Stepono Batoro mirtį Gardine.
 
 <a id="claim-t-179900"></a>
 - t-063
@@ -1073,13 +1080,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 260567-260832; hash=e373d1877088cb26dbcb92cffed5b6d89c6517c55c07761f15619f1d7f2f2037; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Anglija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Anglija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Antanas Tyzenhauzas siuntė jaunimą į Angliją.
 
 <a id="claim-t-184950"></a>
 - t-069
@@ -1089,7 +1096,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] užėmė Gardinas'
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
@@ -1111,7 +1119,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje nurodytą faktą apie Gardino krašto nuniokojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Aukaimis; mentioned_place: Lietuva; mentioned_place: Reinas'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Aukaimis; mentioned_place: Lietuva; mentioned_place: Reinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] puolė Gardinas'
   temporaliniai_duomenys: 'įvykio data: po 1304 m.; įvykio data: 1304 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai perteikia citatoje nurodytą faktą apie Gardino krašto nuniokojimą.'
@@ -1142,14 +1151,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Krymas: candidate; Lenkija: candidate; Prūsija: candidate; Vakarų Prūsija: candidate; Varmė: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras Jogailaitis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184953"></a>
 - t-072
@@ -1197,7 +1205,29 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pagraudenė: mention_match, place, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Pagraudenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113991|Steponas Batoras]]: Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d., o jo mirtis nuliūdino Vilnių ir visą šalį.
+- susijęs iš [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną.md#claim-t-185827|Skomanto antpuolis prieš Gardiną]]: Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+- susijęs iš [[objektai/zodynas/įgula.md#claim-t-185371|įgula]]: Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184676|Birutė]]: Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62886|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.
+- susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
 - susijęs iš Brasta: Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.
+- susijęs iš [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną.md#claim-t-185827|Skomanto antpuolis prieš Gardiną]]: Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
+- susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173130|Dovydas (Gardino pilininkas)]]: 1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184862|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
+- susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
+- susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178872|Kryžiuočių ordinas]]: Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.
+- susijęs iš Vilnius: Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.
+- susijęs iš Brasta: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
+- susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
+- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.).md#claim-t-185845|Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]: Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186501|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika.
@@ -1316,6 +1346,11 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš Vilniaus gubernija: Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
 - susijęs iš Vilnius: 1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
 - susijęs iš Vilnius: Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.
+- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186769|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną.
+- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+- susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
+- susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
@@ -1612,6 +1647,27 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45859|tuteišiai]]: Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais.
 - susijęs iš [[objektai/zodynas/vora.md#claim-t-184651|vora]]: Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185371|įgula]]: Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.
+- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59916|Henrikas Cutsvertas]]: Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.
+- susijęs iš Gorodnica: Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.
+- susijęs iš Gorodnica: Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176766|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis nuo pirmos krikšto dienos aktyviai dalyvavo krikštijime, aiškino tikėjimą ir ragino žmones krikštytis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179216|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
+- susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
+- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
+- susijęs iš Palenkė: Kęstutis paveldėjo Trakus ir Gardiną su Palenke.
+- susijęs iš Pamarys: Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179088|Kryžiuočių ordinas]]: 1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183887|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
+- susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184012|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į didelį ir gausiai gyvenamą Gardino papilį ir jį sudegino.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58784|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.
+- susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186768|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine.
+- susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59824|Skomantas]]: 1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
+- susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
+- susijęs iš Palenkė: Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179677|Skirgaila]]: Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1677,14 +1733,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Krymas: candidate; Lenkija: candidate; Prūsija: candidate; Vakarų Prūsija: candidate; Varmė: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras Jogailaitis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-064
 
 - c-005
@@ -1767,13 +1822,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 548584-548650; hash=92f0b4c29f6046c0345f6989816141a4a8005cd4e3f1b74eb52f2384d5481ed8; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: gyveno -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytauto dvaras Gardine rodo jo rezidavimą ar gyvenamąją buveinę ten.
     - t-034
 
 - c-008
@@ -1829,13 +1884,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be845951821e4e6384b6a7d81c44ed1ab18b0c466a284c51fa975d6b856613e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: valde -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kalba apie Vytautui numatytą Gardino valdymą, bet formuluotė yra sąlyginė sutartinė.
     - t-035
     - t-002
 
@@ -1880,13 +1935,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1191da8c8733cb165bbd8d3e404a7994ff3fb1f71e47137b94ed3f6e07cee9e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Batoras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas Batoras: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Steponas Batoras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Gardinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Stepono Batoro mirtį Gardine.
     - t-059
 
 - c-012
@@ -1923,13 +1978,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cce06cc2eba2569ead1fa315740d03407cb2bc64ac4915f3cd9e373a78f93608; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Gardinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas „Gardino kunigaikštis“ tiesiogiai sieja Vytautą su Gardino valdymu.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=af272f6eccdff5c5d8f8a015a6035557ffedb1ebf38859442b0bb55e0f1b002e; match=fallback; occurrences=0
@@ -2001,13 +2056,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 260567-260832; hash=e373d1877088cb26dbcb92cffed5b6d89c6517c55c07761f15619f1d7f2f2037; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Anglija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Anglija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Antanas Tyzenhauzas siuntė jaunimą į Angliją.
     - t-007
 
 - c-016
@@ -2153,13 +2208,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panemunė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Panemunė: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Panemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Panemunė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Panemunės pavietų nusiaubimas tiesiogiai rodo Švitrigailos dalyvavimą puolime.
     - t-032
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4663e7ce2d9cc3e5859632b78331207539e42b2ad2b21e75cf22166abdba12cd; match=fallback; occurrences=0
@@ -2193,13 +2248,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e6efd701213fb716ffe8212441d0a496cdab98030a9f7748ca7c2290fae6b02e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skalva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Skalva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Patrikas aiškiai įvardytas tarp Skalvos žemę puolusių asmenų.
     - t-010
     - t-028
 
@@ -2236,13 +2291,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e23bdb17c392778483ceea6628f11bb1db8a019579e51914f17753bc8c0aaf74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Metena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Metena: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Metena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ritterswerderis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ritterswerderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sudeginimas karinėje situacijoje tiesiogiai rodo Vytauto puolimą prieš Ritterswerderį.
     - t-030
 
 - c-025
@@ -2288,13 +2343,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardino žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardino žemė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Gardino žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Gardino žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardino žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gardino žemė tiesiogiai išvardyta kaip Kęstučio valdų dalis.
     - t-054
     - t-027
 
@@ -2404,13 +2459,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7285c58f07e7f0c706db489a60ed088b81cd79718b4352734de930f32739655; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardino žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardino žemė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Gardino žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Gardino žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardino žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Gardino žemę aiškiai įvardija kaip Kęstučio valdų dalį.
     - t-053
 
 - c-031
@@ -2472,13 +2527,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=449c10a2ffab5c1616eebf6304f2b411eab371fdc4d4b3fce56e01697494eb45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kęstučio atvykimą prie Trakų.
     - t-033
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7af6bf970db490a83019b224559cdb6390f0174125efc93415330abb166544a; match=fallback; occurrences=0
@@ -3107,14 +3162,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77d4639e81329b1f9b97024f5cfaf1a260b636a8bd030adcee1158017d28cdf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Krymas: candidate; Lenkija: candidate; Prūsija: candidate; Vakarų Prūsija: candidate; Varmė: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras Jogailaitis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-072
 
 - c-054
@@ -3171,4 +3225,38 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardinas" parinktas kaip owner_note_path. Targetas "Pagraudenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Skomantas]] puole Gardinas
+- [[objektai/asmenys/Skomantas]] uzeme Gardinas
+- [[objektai/asmenys/Steponas Batoras]] mire Gardinas
+- [[objektai/asmenys/Birutė]] keliavo_i Gardinas
+- [[objektai/asmenys/Henrikas Cutsvertas]] puole Gardinas
+- [[objektai/asmenys/Albertas fon Hagenas]] puole Gardinas
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Gardinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Gardinas
+- [[objektai/asmenys/Dovydas Gardiniškis]] gyne Gardinas
+- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] uzeme Gardinas
+- [[objektai/asmenys/Konradas]] puole Gardinas
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Gardinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Gardinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Gardinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Gardinas
+- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Gardinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Gardinas
+- [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]] keliavo_i Gardinas
+- [[objektai/asmenys/Zigfridas iš Rechbergo]] keliavo_i Gardinas
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] uzeme Gardinas
+- [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Gardinas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Gardinas
+- [[objektai/vietos/Gorodnica]] priklause Gardinas
+- [[objektai/asmenys/Ditrichas iš Ezbeko]] surenge_zygi_i Gardinas
+- [[objektai/vietos/Koložas]] priklause Gardinas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde Gardinas
+- [[objektai/grupes/Lietuviai]] gyne Gardinas
+- [[objektai/grupes/Slavai]] keliavo_i Gardinas
+- [[objektai/asmenys/Albrechtas iš Hageno]] puole Gardinas
+- [[objektai/grupes/Kryžiuočių ordinas]] siunte_i Gardinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Gardinas
+- [[objektai/asmenys/Kazimieras Jogailaitis]] gyveno Gardinas
+- [[objektai/asmenys/Albertas fon Hagenas]] uzeme Gardinas
+- [[objektai/asmenys/Skomantas]] keliavo_i Gardinas
+- [[objektai/asmenys/Švitrigaila]] puole Gardinas

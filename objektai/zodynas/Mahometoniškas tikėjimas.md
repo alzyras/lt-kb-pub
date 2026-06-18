@@ -29,19 +29,19 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   global_id: t-32754
   teiginys: 'Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Trakai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb1684487d79241a1855288579f863abdd23306a816157c71668e39b0afe2bdf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniepras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mahometoniškas tikėjimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mahometoniškas tikėjimas" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje totoriai aprašomi kaip Vytauto įkurdinti Trakų kunigaikštijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +64,10 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb1684487d79241a1855288579f863abdd23306a816157c71668e39b0afe2bdf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniepras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mahometoniškas tikėjimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mahometoniškas tikėjimas" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje totoriai aprašomi kaip Vytauto įkurdinti Trakų kunigaikštijoje.

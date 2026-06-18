@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-54214
   teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.'
   sudarymo_pagrindimas: 'Teiginys aiškiau susiejamas su note objektu ir pašalinamas perteklinis formuluotės neapibrėžtumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija; llm_object: Rusija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -80,13 +80,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusai mokytojai nurodyti kaip atvykę iš Rusijos gilumos; kryptis tekste neįvardyta, bet kilmės vieta aiški.
 
 <a id="claim-t-54216"></a>
 - t-003
@@ -111,19 +111,19 @@ Nenurodyta
   global_id: t-54217
   teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai.'
   sudarymo_pagrindimas: 'Perrašymas tiksliau perteikia citatos informaciją apie mokytojų kilmę ir vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; llm_object: Rusija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusai mokytojai apibūdinami kaip atvykę iš Rusijos gilumos; objektas Rusija yra tiesiogiai paminėtas.
 
 <a id="claim-t-54218"></a>
 - t-005
@@ -227,10 +227,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusai mokytojai nurodyti kaip atvykę iš Rusijos gilumos; kryptis tekste neįvardyta, bet kilmės vieta aiški.

@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-75395
   teiginys: 'Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas Sierakauskas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatoje pateiktus įvykius.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00

@@ -27,7 +27,8 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
   global_id: t-15329
   teiginys: 'Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio antraštės triukšmas.'
-  susije_objektai: 'mentioned_place: Visaginas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_place: Visaginas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Sniečkus'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] gyveno Sniečkus'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio antraštės triukšmas.'
@@ -36,13 +37,13 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0090e8d350f1f120d0646e1f6e9a44e3b5e36800e30f89441614e8a00d951c8d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Visaginas: 0.85
+  ryšio_patikimumas: gyveno -> Sniečkus: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sniečkus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Visaginas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sniečkus" parinktas kaip owner_note_path. Targetas "Visaginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sniečkus: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusakalbiai apsigyveno Sniečkuje; kandidatas „Rusai“ yra artimiausias grupės objektas.
 - susijęs iš [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.).md#claim-t-26383|Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]: 1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.
 - susijęs iš A. Sniečkaus 1940 m. liepos 6 d. įsakymas dėl suėmimų: 1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.
 - susijęs iš Klaipėda: Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.
@@ -63,6 +64,8 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 - susijęs iš Visaginas: Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.
 - susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
 - susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
+- susijęs iš Klaipėda: Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.
+- susijęs iš Visaginas: Sovietmečiu daug rusakalbių apsigyveno Sniečkuje, kuris dabar vadinamas Visaginu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,10 +90,13 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0090e8d350f1f120d0646e1f6e9a44e3b5e36800e30f89441614e8a00d951c8d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Visaginas: 0.85
+  ryšio_patikimumas: gyveno -> Sniečkus: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sniečkus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Visaginas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sniečkus" parinktas kaip owner_note_path. Targetas "Visaginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sniečkus: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusakalbiai apsigyveno Sniečkuje; kandidatas „Rusai“ yra artimiausias grupės objektas.
+
+## Ryšiai
+- [[objektai/grupes/Rusai]] gyveno Sniečkus

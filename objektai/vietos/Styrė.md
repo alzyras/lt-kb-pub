@@ -22,19 +22,20 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškai apibūdina Styrės upę ir lenkų veiksmą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas; llm_object: Styrė'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Styrė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Styrė: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Styrė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Styrė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Styrė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lenkų judėjimą per Styrės upę prie Lucko, nors santykis „keliavo_i“ tik apytikriai perteikia persikėlimą.
 - susijęs iš Luckas: Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   irodymo_stiprumas: 0.00
   saltinio_vieta: 760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Styrė: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Styrė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Styrė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Styrė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lenkų judėjimą per Styrės upę prie Lucko, nors santykis „keliavo_i“ tik apytikriai perteikia persikėlimą.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] keliavo_i Styrė

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-10287
   teiginys: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
   sudarymo_pagrindimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
@@ -68,8 +68,7 @@ Nenurodyta
 - t-003
   global_id: t-10289
   teiginys: 'Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.'
-  susije_objektai: 'event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Dauguva'
-  semantiniai_rysiai: '[[objektai/grupes/Kuršiai|Kuršiai]] dalyvavo mūšyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Dauguva'
   pagrindžia:
     - c-003
 
@@ -111,7 +110,7 @@ Nenurodyta
   global_id: t-66880
   teiginys: 'Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų aiškiai susietas su pastabos objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžiaus karas|kryžiaus karas]]; mentioned_place: Europa; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžiaus karas|kryžiaus karas]]; mentioned_place: Europa; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys būtų aiškiai susietas su pastabos objektu.'
@@ -133,7 +132,7 @@ Nenurodyta
   global_id: t-66881
   teiginys: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „šitą mūšį“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   temporaliniai_duomenys: 'įvykio data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškią nuorodą „šitą mūšį“.'
@@ -142,13 +141,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08b3063b18a187588f470fc8385988aec329023e558940d7c566f94b0cbbdef2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kalavijuočių ordino brolių pajėgos įžengė į Lietuvą ir ėmė plėšti.
 
 <a id="claim-t-66882"></a>
 - t-008
@@ -171,7 +170,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
 - susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
@@ -365,16 +363,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08b3063b18a187588f470fc8385988aec329023e558940d7c566f94b0cbbdef2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/grupes/Kalavijuočių ordinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
-- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
-- [[objektai/grupes/Kuršiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kalavijuočių ordino brolių pajėgos įžengė į Lietuvą ir ėmė plėšti.

@@ -51,7 +51,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   global_id: t-111945
   teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie namus prie Merkio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; llm_object: Merkys'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] gyveno Merkys'
   pagrindžia:
     - c-002
 
@@ -78,19 +79,20 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   global_id: t-111947
   teiginys: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; llm_object: Merkys'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] gyveno Merkys; [[objektai/asmenys/Bona|Bona]] gyveno Merkys'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumas: gyveno -> Merkys: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Merkys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad namai, kuriuose gyvendavo Žygimantas Senasis, buvo prie Merkio.
 
 <a id="claim-t-111948"></a>
 - t-005
@@ -114,13 +116,13 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bona: 0.83
+  ryšio_patikimumas: gyveno -> Merkys: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Bona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Merkys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad namai, kuriuose gyvendavo Bona, buvo prie Merkio.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
 - susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
@@ -195,13 +197,13 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumas: gyveno -> Merkys: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Merkys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad namai, kuriuose gyvendavo Žygimantas Senasis, buvo prie Merkio.
     - t-002
 
 - c-003
@@ -268,10 +270,14 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bona: 0.83
+  ryšio_patikimumas: gyveno -> Merkys: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Bona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Merkys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad namai, kuriuose gyvendavo Bona, buvo prie Merkio.
+
+## Ryšiai
+- [[objektai/asmenys/Bona]] gyveno Merkys
+- [[objektai/asmenys/Žygimantas Senasis]] gyveno Merkys

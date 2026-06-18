@@ -52,6 +52,7 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - susijęs iš 1323 m. Vilniaus sutartis: Vilniaus sutartyje buvo punktų apie keliauninkų saugumą, ginčų sprendimą, turtų ir tarnų grąžinimą.
 - susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. Vilniaus taikos sutartyje buvo numatyta keliauninkų sauga, ginčų sprendimas ir pagrobtų turtų bei pabėgusių tarnų grąžinimas.
 - susijęs iš Saremas: Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.
+- susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40381|P. Bermontas-Avalovas]]: P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,3 +88,6 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   ryšio_subjekto_parinkimas: Mintauja: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bauskė: mention_match, place, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mintauja" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/P. Bermontas-Avalovas]] keliavo_i Mintauja

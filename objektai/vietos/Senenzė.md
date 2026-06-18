@@ -24,19 +24,24 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   teiginys: 'Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nukirstas ir su antraštės triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]'
+  susije_objektai: 'llm_object: Senenzė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Divanas|Divanas]] apgulė Senenzė; [[objektai/grupes/Bartai|Bartai]] apgulė Senenzė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senenzė" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Senenzė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Divanas tiesiogiai nurodytas kaip apsiautęs Senenzės pilį.
+- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88526|Bartai]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59913|Divanas]]: Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.
+- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66895|Senenzės pilies apgula ir Divano žūtis]]: Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59913|Divanas]]: Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88526|Bartai]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
@@ -72,10 +77,15 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senenzė" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Senenzė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Divanas tiesiogiai nurodytas kaip apsiautęs Senenzės pilį.
+
+## Ryšiai
+- [[objektai/asmenys/Divanas]] apgule Senenzė
+- [[objektai/grupes/Bartai]] puole Senenzė
+- [[objektai/grupes/Bartai]] apgule Senenzė

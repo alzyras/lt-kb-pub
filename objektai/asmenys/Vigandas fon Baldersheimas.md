@@ -22,19 +22,20 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta autorinė įžanga ir OCR triukšmas, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lenkija; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lenkija; mentioned_place: Volynė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vigandas fon Baldersheimas|Vigandas fon Baldersheimas]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440371-440934; hash=8f143d9daa7c17e6a231b0354af7695b8b41b30e58e27f9662df656a3fb3e891; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vigandas fon Baldersheimas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vigandas fon Baldersheimas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vigandas fon Baldersheimas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vigandas vijosi iš Prūsijos traukiančius lietuvius, bet konkreti jo padaryta žala nukreipta į kaimus.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +63,13 @@ atnaujinta: ''
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440371-440934; hash=8f143d9daa7c17e6a231b0354af7695b8b41b30e58e27f9662df656a3fb3e891; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vigandas fon Baldersheimas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vigandas fon Baldersheimas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vigandas fon Baldersheimas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vigandas vijosi iš Prūsijos traukiančius lietuvius, bet konkreti jo padaryta žala nukreipta į kaimus.
+
+## Ryšiai
+- Vigandas fon Baldersheimas puole [[objektai/grupes/Lietuviai]]

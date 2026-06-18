@@ -44,19 +44,20 @@ Nenurodyta
   global_id: t-59692
   teiginys: 'Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: [[objektai/daiktai/Kuoras aukštai ąžuole|Kuoras aukštai ąžuole]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/grupes/Teutonai|Teutonai]] pastatė [[objektai/daiktai/Kuoras aukštai ąžuole|Kuoras aukštai ąžuole]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83cbc8ceab2bd2e29d52b1b1688218edefacee2146bc221ad85ff1fb29d7ef79; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuoras aukštai ąžuole: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuoras aukštai ąžuole" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kuoras aukštai ąžuole: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuoras aukštai ąžuole: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole.
 
 ## Reikšmingi paminėjimai
 
@@ -84,10 +85,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83cbc8ceab2bd2e29d52b1b1688218edefacee2146bc221ad85ff1fb29d7ef79; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuoras aukštai ąžuole: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuoras aukštai ąžuole" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kuoras aukštai ąžuole: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuoras aukštai ąžuole: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole.
+
+## Ryšiai
+- [[objektai/grupes/Teutonai]] pastate Kuoras aukštai ąžuole

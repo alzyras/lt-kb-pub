@@ -38,20 +38,21 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255345-256113; hash=56c5e5ad4901ed0efb7a136ef086c13809eed1637a3b23e74cccdd5eeb4398fa; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudimantas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sudimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sudimantas sutrukdė užimti Vilnių, todėl tiesiogiai veikė kaip Vilniaus gynėjas.
 
 <a id="claim-t-87583"></a>
 - t-002
   global_id: t-87583
   teiginys: 'Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.'
   sudarymo_pagrindimas: 'Citata remia Sudimanto vaidmenį atrėmus bandymą užimti Vilnių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Poznanė'
+  semantiniai_rysiai: '[[objektai/asmenys/Sudimantas|Sudimantas]] gynė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -131,10 +132,13 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255345-256113; hash=56c5e5ad4901ed0efb7a136ef086c13809eed1637a3b23e74cccdd5eeb4398fa; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudimantas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sudimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sudimantas sutrukdė užimti Vilnių, todėl tiesiogiai veikė kaip Vilniaus gynėjas.
+
+## Ryšiai
+- Sudimantas gyne [[objektai/vietos/Vilnius]]

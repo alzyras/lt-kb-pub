@@ -53,7 +53,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   global_id: t-114098
   teiginys: '1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet teiginyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Praha; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Valakija; mentioned_place: Vilnius; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Praha; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Valakija; mentioned_place: Vilnius; mentioned_place: Volga; llm_object: Praha'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kaributaitis|Žygimantas Kaributaitis]] keliavo į Praha'
   temporaliniai_duomenys: 'įvykio data: 1420 m.; įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko faktą, bet teiginyje yra OCR triukšmo.'
@@ -62,13 +63,13 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Praha: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kaributaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Praha: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kaributaitis" parinktas kaip owner_note_path. Targetas "Praha" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Praha: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kaributaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žygimantas Kaributaitis buvo pasiųstas į Prahą, todėl tiesiogiai pagrįstas keliavimo į Prahą ryšys.
 
 <a id="claim-t-184914"></a>
 - t-004
@@ -140,13 +141,13 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Praha: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Kaributaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Praha: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kaributaitis" parinktas kaip owner_note_path. Targetas "Praha" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Praha: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kaributaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žygimantas Kaributaitis buvo pasiųstas į Prahą, todėl tiesiogiai pagrįstas keliavimo į Prahą ryšys.
     - t-001
 
 - c-003
@@ -226,3 +227,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   ryšio_subjekto_parinkimas: Žygimantas Kaributaitis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Kaributaitis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Žygimantas Kaributaitis keliavo_i [[objektai/vietos/Praha]]

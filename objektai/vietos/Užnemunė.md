@@ -50,7 +50,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   global_id: t-182736
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
   sudarymo_pagrindimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė'
+  susije_objektai: 'llm_object: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
@@ -64,7 +64,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai; mentioned_place: Balstogė; mentioned_place: Plockas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai; mentioned_place: Balstogė; mentioned_place: Plockas; mentioned_place: Prūsija; llm_object: Prūsija'
+  semantiniai_rysiai: 'Užnemunė priklausė Prūsija'
   pagrindžia:
     - c-002
 
@@ -85,13 +86,14 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   irodymo_stiprumas: 0.00
   saltinio_vieta: 904786-905066; hash=b8cdfca602c516a2f71c685261fdeada066b7bfa90441073f9df70eda5ae9ab1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užnemunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užnemunė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Antraštė tiesiogiai apibūdina Užnemunę kaip esančią Prūsų valdžioje.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
 - susijęs iš Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje: P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m.
@@ -161,6 +163,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - susijęs iš [[objektai/zodynas/rekrutų prievolė.md#claim-t-183460|rekrutų prievolė]]: Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.
 - susijęs iš [[objektai/zodynas/rekrutų prievolė.md#claim-t-75580|rekrutų prievolė]]: Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
+- susijęs iš Tamova: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
+- susijęs iš Insterburgas: Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
+- susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -196,13 +201,13 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   irodymo_stiprumas: 0.00
   saltinio_vieta: 904786-905066; hash=b8cdfca602c516a2f71c685261fdeada066b7bfa90441073f9df70eda5ae9ab1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užnemunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užnemunė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Antraštė tiesiogiai apibūdina Užnemunę kaip esančią Prūsų valdžioje.
     - t-004
 
 - c-003
@@ -257,5 +262,10 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-003
 
 ## Ryšiai
+- Užnemunė priklause [[objektai/vietos/Prūsija]]
 - Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
-- Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]
+- Užnemunė priklause [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Užnemunė
+- Užnemunė priklause [[objektai/vietos/Lenkijos karalystė]]
+- Užnemunė priklause [[objektai/vietos/Varšuvos kunigaikštystė]]
+- [[objektai/asmenys/Jonas Basanavičius]] gime Užnemunė

@@ -28,7 +28,8 @@ amziai:
   global_id: t-86833
   teiginys: 'Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje pateiktą informaciją apie Vilniaus auksakalius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Štagelis|Štagelis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Štagelis|Štagelis]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečių amatininkai Vilniuje|Vokiečių amatininkai Vilniuje]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibendrina citatoje pateiktą informaciją apie Vilniaus auksakalius.'
@@ -37,13 +38,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 542460-542691; hash=5b8283602db421caa2b33c058b233912788bb385dd9d0f1d2178e42b89dab525; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečių amatininkai Vilniuje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių amatininkai Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių amatininkai Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad vokiečių kilmės auksakaliai buvo Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +68,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 542460-542691; hash=5b8283602db421caa2b33c058b233912788bb385dd9d0f1d2178e42b89dab525; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečių amatininkai Vilniuje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių amatininkai Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių amatininkai Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad vokiečių kilmės auksakaliai buvo Vilniuje.
+
+## Ryšiai
+- Vokiečių amatininkai Vilniuje gyveno [[objektai/vietos/Vilnius]]

@@ -92,3 +92,7 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   ryšio_subjekto_parinkimas: Klodovas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klodovas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Klodovas priklause [[objektai/vietos/Gniezno diecezija]]
+- Klodovas priklause [[objektai/vietos/Gniezno]]

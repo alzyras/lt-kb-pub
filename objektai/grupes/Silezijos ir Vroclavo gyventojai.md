@@ -29,7 +29,8 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
   global_id: t-86825
   teiginys: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vroclavas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Vilnius; mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vroclavas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Silezijos ir Vroclavo gyventojai|Silezijos ir Vroclavo gyventojai]] keliavo į Lietuva; [[objektai/grupes/Silezijos ir Vroclavo gyventojai|Silezijos ir Vroclavo gyventojai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
@@ -38,13 +39,13 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Silezijos ir Vroclavo gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Silezijos ir Vroclavo gyventojai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Silezijos ir Vroclavo gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Silezijos ir Vroclavo gyventojai atvykdavo į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -68,10 +69,14 @@ Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Silezijos ir Vroclavo gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Silezijos ir Vroclavo gyventojai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Silezijos ir Vroclavo gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Silezijos ir Vroclavo gyventojai atvykdavo į Lietuvą.
+
+## Ryšiai
+- Silezijos ir Vroclavo gyventojai keliavo_i [[objektai/vietos/Lietuva]]
+- Silezijos ir Vroclavo gyventojai keliavo_i [[objektai/vietos/Vilnius]]

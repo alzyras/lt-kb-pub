@@ -47,7 +47,8 @@ periodo_grupes:
 - t-002
   global_id: t-49400
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
+  susije_objektai: 'llm_object: Suvalkai; mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Škirpa|K. Škirpa]] puolė Suvalkai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -66,19 +67,20 @@ periodo_grupes:
   global_id: t-49401
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi gramatikos klaidų ir perima šaltinio fragmentiškumą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
+  susije_objektai: 'llm_object: Suvalkai; mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Škirpa|K. Škirpa]] puolė Suvalkai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813827-814095; hash=06a1914369f2ed7be5033342c53ff3443e35e4b85a421a4401ab4e3b90c7b608; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių ir lenkų karinio susidūrimo situaciją.
 
 <a id="claim-t-49402"></a>
 - t-004
@@ -92,31 +94,32 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec81696ad7f0bde7855e005ea084491ce1b0ffa8fdf21812dcf9148313248c84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Ladyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Suvalkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Škirpa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Škirpos vadovaujamos pajėgos tęsė Suvalkų puolimą.
 
 <a id="claim-t-49403"></a>
 - t-005
   global_id: t-49403
   teiginys: 'K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Suvalkai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Suvalkai; llm_object: Suvalkai'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Škirpa|K. Škirpa]] puolė Suvalkai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec81696ad7f0bde7855e005ea084491ce1b0ffa8fdf21812dcf9148313248c84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Ladyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Suvalkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Škirpa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Škirpos vadovaujamos pajėgos tęsė Suvalkų puolimą.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
 - susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74878|Nacių Vokietija]]: Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.
@@ -158,24 +161,24 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec81696ad7f0bde7855e005ea084491ce1b0ffa8fdf21812dcf9148313248c84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Ladyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Suvalkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Škirpa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Škirpos vadovaujamos pajėgos tęsė Suvalkų puolimą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813827-814095; hash=06a1914369f2ed7be5033342c53ff3443e35e4b85a421a4401ab4e3b90c7b608; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių ir lenkų karinio susidūrimo situaciją.
     - t-002
 
 - c-003
@@ -225,13 +228,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec81696ad7f0bde7855e005ea084491ce1b0ffa8fdf21812dcf9148313248c84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Ladyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Suvalkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Škirpa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Škirpos vadovaujamos pajėgos tęsė Suvalkų puolimą.
     - t-001
 
 - c-005
@@ -262,10 +265,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 814390-814634; hash=44772e6013bfb7e232ab9596739d2fb2d5c1732e2cbe446c734d438ec7c2dcee; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Suvalkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Škirpa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Suvalkai: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Škirpa" parinktas kaip owner_note_path. Targetas "Suvalkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Suvalkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Škirpa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Suvalkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Škirpos vadovaujamos pajėgos tęsė Suvalkų puolimą.
+
+## Ryšiai
+- K. Škirpa puole [[objektai/vietos/Suvalkai]]

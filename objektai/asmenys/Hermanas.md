@@ -43,20 +43,20 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi kontekstinę nuorodą „minėtą meistrą“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Hermanas|Hermanas]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/asmenys/Hermanas|Hermanas]]; [[objektai/asmenys/Hermanas|Hermanas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204833-205288; hash=dc5c5536dd6b11f5c834278eec266289455ae13993ec37f123b867e607e79486; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66560|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.
+  ryšio_patikimumas: puole -> Hermanas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai pabūklu nukovė meistrą Hermaną.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
@@ -99,6 +99,8 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - susijęs iš Kulmo žemė: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.
 - susijęs iš Lenkija: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.
 - susijęs iš Salernas: Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113454|Bombardos]]: Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.
+- susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -154,13 +156,18 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204833-205288; hash=dc5c5536dd6b11f5c834278eec266289455ae13993ec37f123b867e607e79486; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Hermanas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai pabūklu nukovė meistrą Hermaną.
 
 ## Ryšiai
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] buvo_brolis Hermanas
+- Hermanas siunte_i [[objektai/vietos/Elbingas]]
+- [[objektai/grupes/Lietuviai]] puole Hermanas
+- Hermanas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Hermanas dalyvavo_musyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Hermanas
+- [[objektai/daiktai/Kryžius]] priklause Hermanas

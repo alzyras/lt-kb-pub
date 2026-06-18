@@ -43,6 +43,7 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Fabijonas (Varmės vyskupas): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabijonas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.
@@ -91,3 +92,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Fabijonas (Varmės vyskupas): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabijonas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Varmės kapitula]] paskyre Fabijonas (Varmės vyskupas)

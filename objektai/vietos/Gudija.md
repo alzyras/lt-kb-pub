@@ -49,6 +49,7 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 - susijęs iš Rytų kraštas (Ostlandas): 1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
 - susijęs iš Vokietija: Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.
 - susijęs iš [[objektai/zodynas/variagų (normanų) laikotarpis.md#claim-t-32815|variagų (normanų) laikotarpis]]: Variagų laikotarpiu Dniepro baseine lietuviai plėtojo prekybinius santykius rytų kryptimi.
+- susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74876|Nacių Vokietija]]: 1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,3 +68,7 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Gudija priklause [[objektai/vietos/Rytų kraštas (Ostlandas)]]
+- [[objektai/grupes/Nacių Vokietija]] valde_teritorija Gudija

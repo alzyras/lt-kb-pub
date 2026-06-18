@@ -66,19 +66,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginį verta perrašyti į vientisą enciklopedinį sakinį be dvitaškio konstrukcijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; llm_object: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
+  ryšio_patikimumas: priklause -> Auksinė Orda: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Totorių pajėgos citatoje siejamos su Aukso ordos chanu.
 
 ## Reikšmingi paminėjimai
 
@@ -137,10 +137,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
+  ryšio_patikimumas: priklause -> Auksinė Orda: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Totorių pajėgos citatoje siejamos su Aukso ordos chanu.

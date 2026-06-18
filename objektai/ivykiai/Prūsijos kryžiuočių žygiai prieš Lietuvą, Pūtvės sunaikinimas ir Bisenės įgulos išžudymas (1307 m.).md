@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie žygio pajėgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; llm_object: Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1307 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie žygio pajėgas.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 317929-318629; hash=7aba622c0ef35979d10ab4a2fab78ccc4936c7c1ce5efc1ff1abf3d7848f47ae; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo vokiečių riterių kariuomenės atvykimą į Prūsiją.
 
 <a id="claim-t-185497"></a>
 - t-002
@@ -65,19 +65,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Ragainė; llm_object: Bisenė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 318463-318969; hash=358a9df2aeb877ce998865f92b6e20d0f7878a05db5fa1e791da709d87ad3947; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.83
+  ryšio_patikimumas: puole -> Bisenė: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Ragainės kryžiuočių smurtinį veiksmą prieš Bisenės įgulą, nors pats claim akcentuoja Pūtvę, kurios kandidato nėra.
 
 <a id="claim-t-185498"></a>
 - t-003
@@ -200,13 +200,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 317929-318629; hash=7aba622c0ef35979d10ab4a2fab78ccc4936c7c1ce5efc1ff1abf3d7848f47ae; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo vokiečių riterių kariuomenės atvykimą į Prūsiją.
     - t-002
 
 - c-003
@@ -232,13 +232,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 318463-318969; hash=358a9df2aeb877ce998865f92b6e20d0f7878a05db5fa1e791da709d87ad3947; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.83
+  ryšio_patikimumas: puole -> Bisenė: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Ragainės kryžiuočių smurtinį veiksmą prieš Bisenės įgulą, nors pats claim akcentuoja Pūtvę, kurios kandidato nėra.
     - t-003
 
 - c-004

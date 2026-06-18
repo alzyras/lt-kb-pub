@@ -30,7 +30,8 @@ amziai:
   global_id: t-19949
   teiginys: '2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį enciklopedinį teiginį be perteklinės formuluotės.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/NATO|NATO]]'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko trumpesnį enciklopedinį teiginį be perteklinės formuluotės.'
@@ -39,20 +40,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: NATO: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "NATO" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo Lietuvos tapimą NATO valstybių šeimos nare; tai leidžia fiksuoti priklausymą NATO.
 
 <a id="claim-t-19950"></a>
 - t-002
   global_id: t-19950
   teiginys: '2004 m. Lietuva tapo ES ir NATO nare.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/NATO|NATO]]'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -61,13 +63,16 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: NATO: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "NATO" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare.
+- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74117|Europos Sąjunga]]: 2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.
+- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75219|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.
+- susijęs iš [[objektai/autoriai/Audronius Ažubalis.md#claim-t-63303|Audronius Ažubalis]]: Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75681|Algirdas Brazauskas]]: 1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare.
 - susijęs iš [[objektai/asmenys/Džordžas Robertsonas.md#claim-t-26439|Džordžas Robertsonas]]: Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
 - susijęs iš [[objektai/asmenys/Manfredas Verneris.md#claim-t-17579|Manfredas Verneris]]: 1994 m. sausį Manfredas Verneris gavo A. Brazausko laišką dėl Lietuvos pageidavimo tapti NATO nare.
@@ -153,32 +158,36 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: NATO: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "NATO" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo Lietuvos tapimą NATO valstybių šeimos nare; tai leidžia fiksuoti priklausymą NATO.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: NATO: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "NATO" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: NATO: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "NATO" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare.
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] priklause NATO
+- NATO gyne [[objektai/vietos/Lietuva]]

@@ -76,3 +76,6 @@ Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose 
   ryšio_subjekto_parinkimas: LDK 1-oji Tautinė brigada: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK 1-oji Tautinė brigada" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- LDK 1-oji Tautinė brigada dalyvavo_musyje [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]

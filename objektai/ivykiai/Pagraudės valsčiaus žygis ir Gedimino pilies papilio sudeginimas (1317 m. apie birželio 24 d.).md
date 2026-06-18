@@ -65,26 +65,26 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 - t-002
   global_id: t-56682
   teiginys: 'To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4dd531fbbc1c00352bdf1330961f44e247acdedab38e435fba2c5360ff9eb11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sudargas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Sudargas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)" parinktas kaip owner_note_path. Targetas "Sudargas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas iš Hageno tiesiogiai įvardytas kaip užpuolęs Sudargo kiemą.
 
 <a id="claim-t-56683"></a>
 - t-003
   global_id: t-56683
   teiginys: '1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.'
   sudarymo_pagrindimas: 'Citata tiksliau remia užduotį paimti pilį ir jos nesėkmę, o ne vien slaptą priėjimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Ragainė; mentioned_place: Semba; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiksliau remia užduotį paimti pilį ir jos nesėkmę, o ne vien slaptą priėjimą.'
@@ -93,13 +93,13 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 658658-659637; hash=d5f50b45d0f6bd28df10b9d3a5a20d3f2c72d1577ca9d32f9abc3ac91da8cdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Puolimo objektas yra Gedimino pilis, bet atskiro pilies objekto nėra; naudojamas Gediminas kaip pilies savininko vardu pažymėtas objektas.
 
 <a id="claim-t-183951"></a>
 - t-004
@@ -152,13 +152,13 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 658658-659637; hash=d5f50b45d0f6bd28df10b9d3a5a20d3f2c72d1577ca9d32f9abc3ac91da8cdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Puolimo objektas yra Gedimino pilis, bet atskiro pilies objekto nėra; naudojamas Gediminas kaip pilies savininko vardu pažymėtas objektas.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 658658-659637; hash=d5f50b45d0f6bd28df10b9d3a5a20d3f2c72d1577ca9d32f9abc3ac91da8cdf4; match=exact
@@ -199,10 +199,10 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4dd531fbbc1c00352bdf1330961f44e247acdedab38e435fba2c5360ff9eb11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sudargas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Sudargas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)" parinktas kaip owner_note_path. Targetas "Sudargas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas iš Hageno tiesiogiai įvardytas kaip užpuolęs Sudargo kiemą.

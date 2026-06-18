@@ -119,6 +119,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - susijęs iš Gardinas: 1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
 - susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
 - susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86486|miesto magistrato pareigybės]]: 1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.
+- susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -196,3 +197,6 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   ryšio_subjekto_parinkimas: Gardino seimas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=94
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino seimas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Rusai]] apgule Gardino seimas

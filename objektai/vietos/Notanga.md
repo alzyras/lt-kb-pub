@@ -25,19 +25,20 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-91217
   teiginys: 'Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Notangos statusą kronikoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  semantiniai_rysiai: 'Notanga priklausė Prūsija'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notanga" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Notanga išvardijama kaip viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-91218"></a>
 - t-002
@@ -155,6 +156,18 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   ryšio_subjekto_parinkimas: Notanga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notanga" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175112|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183903|Sūduviai-jotvingiai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183900|Sūduviai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89246|Sūduviai]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
+- susijęs iš [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas.md#claim-t-62495|Sūduvių žygis į Notangą ir jų išblaškymas]]: Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.
+- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175172|ginklanešiai]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
+- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-184003|ginklanešiai]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
+- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175175|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
+- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-184004|ginklanešys]]: Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.
+- susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179265|Lietuviai]]: 1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
 - susijęs iš [[objektai/asmenys/Gadikas.md#claim-t-184066|Gadikas]]: Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių.
@@ -257,6 +270,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58773|papilys]]: 1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58776|papilys]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58784|papilys]]: 1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.
+- susijęs iš [[objektai/grupes/Unzatrapio žemės gyventojai.md#claim-t-63281|Unzatrapio žemės gyventojai]]: Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
+- susijęs iš Kroicburgas: Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.
+- susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -404,13 +421,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notanga" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Notanga išvardijama kaip viena iš Prūsijos žemės dalių.
     - t-004
 
 - c-007
@@ -471,3 +488,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   ryšio_subjekto_parinkimas: Notanga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notanga" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Notanga
+- [[objektai/grupes/Sūduviai]] puole Notanga
+- Notanga priklause [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]] puole Notanga
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Notanga
+- [[objektai/grupes/Unzatrapio žemės gyventojai]] puole Notanga
+- [[objektai/asmenys/Fridrichas iš Holdenštetės]] puole Notanga
+- [[objektai/vietos/Kroicburgas]] priklause Notanga
+- [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]] surenge_zygi_i Notanga

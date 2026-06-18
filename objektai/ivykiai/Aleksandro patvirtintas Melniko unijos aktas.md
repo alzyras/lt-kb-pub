@@ -55,12 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Melnikas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Melnikas: nearest_after_predicate, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Melnikas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186787"></a>
 - t-002
@@ -88,7 +89,7 @@ Nenurodyta
   teiginys: 'Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas delegacijos veiksmas ir kontekstas, o sąlygos formulavimas paliktas kaip redakcinės pastabos informacija. Nepridėta vėlesnio ratifikavimo atmetimo ar Aleksandro motyvų.'
-  susije_objektai: 'location: Melnikas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Melnikas; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Melnikas; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -139,12 +140,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Melnikas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Melnikas: nearest_after_predicate, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Melnikas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=fallback; occurrences=0

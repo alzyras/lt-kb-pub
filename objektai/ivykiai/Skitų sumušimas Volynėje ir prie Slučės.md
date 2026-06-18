@@ -56,19 +56,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys su veikėju, veiksmu, vieta ir rezultatu.'
-  susije_objektai: 'mentioned_place: Slučė; mentioned_person: [[objektai/asmenys/Lukošius Moravecas|Lukošius Moravecas]]; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Slučė; llm_object: [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės|Skitų sumušimas Volynėje ir prie Slučės]]; mentioned_person: [[objektai/asmenys/Lukošius Moravecas|Lukošius Moravecas]]; mentioned_place: Sluckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Lukošius Moravecas|Lukošius Moravecas]] dalyvavo mūšyje [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės|Skitų sumušimas Volynėje ir prie Slučės]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1078524-1079094; hash=b55f3c9b319261f631f750d641110e2caf27bbc5d96fc7309fcaf8dfd953f65b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Slučė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Slučė: mention_match, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų sumušimas Volynėje ir prie Slučės" parinktas kaip owner_note_path. Targetas "Slučė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Skitų sumušimas Volynėje ir prie Slučės: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lukošius Moravecas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata nurodo, kad Lukošius Moravecas užpuolė priešą ir jį sumušė šiame įvykyje.
 
 ## Reikšmingi paminėjimai
 
@@ -130,10 +131,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1078524-1079094; hash=b55f3c9b319261f631f750d641110e2caf27bbc5d96fc7309fcaf8dfd953f65b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Slučė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Slučė: mention_match, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų sumušimas Volynėje ir prie Slučės" parinktas kaip owner_note_path. Targetas "Slučė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Skitų sumušimas Volynėje ir prie Slučės: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lukošius Moravecas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitų sumušimas Volynėje ir prie Slučės: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata nurodo, kad Lukošius Moravecas užpuolė priešą ir jį sumušė šiame įvykyje.
+
+## Ryšiai
+- [[objektai/asmenys/Lukošius Moravecas]] dalyvavo_musyje Skitų sumušimas Volynėje ir prie Slučės

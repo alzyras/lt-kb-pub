@@ -290,3 +290,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Antspaudas priklause [[objektai/vietos/Vilnius]]

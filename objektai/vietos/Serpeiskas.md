@@ -41,6 +41,7 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
   ryšio_subjekto_parinkimas: Serpeiskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Chlepenis: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Serpeiskas" parinktas kaip owner_note_path. Targetas "Chlepenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184798|Mykolas (Žygimanto sūnus)]]: 1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš Mosalskas: Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.
@@ -73,3 +74,6 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
   ryšio_subjekto_parinkimas: Serpeiskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Chlepenis: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Serpeiskas" parinktas kaip owner_note_path. Targetas "Chlepenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mykolas]] uzeme Serpeiskas

@@ -33,7 +33,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59857
   teiginys: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Fridricho II veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija; llm_object: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; llm_object: Elbingas'
+  semantiniai_rysiai: '[[objektai/daiktai/Kryžius|Kryžius]] priklausė [[objektai/asmenys/Fridrichas II|Fridrichas II]]; [[objektai/grupes/Venedai|Venedai]] rėmė [[objektai/asmenys/Fridrichas II|Fridrichas II]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -61,13 +62,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumas: priklause -> Fridrichas II: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžius: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad kryžiaus dalis buvo perduota Fridrichui II.
 
 <a id="claim-t-59859"></a>
 - t-003
@@ -115,8 +116,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59861
   teiginys: 'Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
-  susije_objektai: 'family: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Apulija; mentioned_place: Neapolis; mentioned_place: Jeruzalė'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas II|Fridrichas II]] buvo sūnus [[objektai/asmenys/Konradas|Konradas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; llm_object: Apulija; llm_object: Neapolis; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Apulija; mentioned_place: Neapolis; mentioned_place: Jeruzalė'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo sūnus [[objektai/asmenys/Fridrichas II|Fridrichas II]]'
   temporaliniai_duomenys: 'įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
@@ -125,13 +126,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Konradas: 0.95
+  ryšio_patikimumas: buvo_sunus -> Fridrichas II: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=13
-  ryšio_targeto_parinkimas: Konradas: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Konradas buvo Fridricho II sūnus.
 
 <a id="claim-t-59862"></a>
 - t-006
@@ -253,13 +254,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumas: priklause -> Fridrichas II: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžius: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad kryžiaus dalis buvo perduota Fridrichui II.
     - t-007
 
 - c-004
@@ -371,13 +372,18 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Konradas: 0.95
+  ryšio_patikimumas: buvo_sunus -> Fridrichas II: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=13
-  ryšio_targeto_parinkimas: Konradas: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Konradas buvo Fridricho II sūnus.
 
 ## Ryšiai
-- Fridrichas II buvo_sunus [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas]] buvo_sunus Fridrichas II
+- Fridrichas II paskyre [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- Fridrichas II reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Fridrichas II paskyre [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]] priklause Fridrichas II
+- [[objektai/grupes/Venedai]] reme Fridrichas II

@@ -255,3 +255,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   ryšio_subjekto_parinkimas: Konradas iš Foichtvangeno: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas iš Foichtvangeno" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsija]]
+- Konradas iš Foichtvangeno reme [[objektai/grupes/Teutonai]]

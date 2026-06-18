@@ -43,19 +43,20 @@ Nenurodyta
 - t-001
   global_id: t-35536
   teiginys: 'Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Nevėžis'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Nevėžis; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e63e46bf414b176f7e77b31b2c7db480aa9a5c925dd60874a4beb9e1010dc30a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Malūnas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malūnas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ordinas sutartyje pasižadėjo ginti Vytautą.
+- susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186356|Mikalojus Radvila]]: Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87365|Ulrikas Hozijus]]: 1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173338|Žygimantas Senasis]]: 1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus.
@@ -135,6 +136,9 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58821|šeimyna familia domus]]: Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86444|žiogriai statinių tvoros palisadai]]: Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.
+- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
+- susijęs iš Baiga: Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną.
+- susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -156,10 +160,16 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e63e46bf414b176f7e77b31b2c7db480aa9a5c925dd60874a4beb9e1010dc30a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Malūnas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malūnas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ordinas sutartyje pasižadėjo ginti Vytautą.
+
+## Ryšiai
+- Malūnas priklause [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Malūnas priklause [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Malūnas
+- Malūnas priklause [[objektai/grupes/Vokiečių pirkliai]]

@@ -105,25 +105,27 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   global_id: t-109075
   teiginys: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie bolševikų išstūmimą iš Alytaus; OCR ir antraštinis triukšmas pašalintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: Alytus'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Alytus; [[objektai/grupes/Vokiečiai|Vokiečiai]] užėmė Alytus'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a46a2fc7c2890f253cdf7b669eb742e55465f555844a92af598eb7a3d7d7668; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jieznas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jieznas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Vokiečiai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuviai ir vokiečiai kartu atliko tą patį karinį veiksmą prieš bolševikus.
 
 <a id="claim-t-109076"></a>
 - t-009
   global_id: t-109076
   teiginys: '1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Jieznas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Jieznas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: Alytus'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Alytus; [[objektai/grupes/Vokiečiai|Vokiečiai]] užėmė Alytus'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -137,8 +139,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   susije_objektai: 'mentioned_place: Katra; mentioned_place: Vysla'
   pagrindžia:
     - c-002
-- susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79052|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71780|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.
@@ -422,11 +422,15 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a46a2fc7c2890f253cdf7b669eb742e55465f555844a92af598eb7a3d7d7668; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jieznas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jieznas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Vokiečiai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuviai ir vokiečiai kartu atliko tą patį karinį veiksmą prieš bolševikus.
     - t-003
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] uzeme Alytus
+- [[objektai/grupes/Vokiečiai]] uzeme Alytus

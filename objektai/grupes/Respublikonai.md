@@ -109,3 +109,6 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   ryšio_subjekto_parinkimas: Respublikonai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Respublikonai" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Respublikonai keliavo_i [[objektai/vietos/Vilnius]]

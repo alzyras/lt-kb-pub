@@ -145,6 +145,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   ryšio_subjekto_parinkimas: Možaiskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Možaiskas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187465|Algirdo žygis į Maskvą]]: Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
@@ -171,6 +172,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 - susijęs iš Ugros upė: Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
 - susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
+- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
+- susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -344,3 +347,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   ryšio_subjekto_parinkimas: Možaiskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Možaiskas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vasilijus]] siunte_i Možaiskas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Možaiskas

@@ -59,7 +59,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Klaipėdos kraštas; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Klaipėdos kraštas; mentioned_place: Lietuva; mentioned_place: Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

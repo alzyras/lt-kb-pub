@@ -51,6 +51,8 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 - susijęs iš [[objektai/zodynas/pacta conventa.md#claim-t-182963|pacta conventa]]: Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.
 - susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
 - susijęs iš Lietuva: Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.
+- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
+- susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,3 +78,6 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
   ryšio_subjekto_parinkimas: Lenkijos bajorija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos bajorija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos bajorija]] buvo_sajungininkas_su Lenkijos bajorija

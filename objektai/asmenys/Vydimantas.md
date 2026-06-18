@@ -37,6 +37,7 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vydimantas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176315|Birutė]]: Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176315|Birutė]]: Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176663|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.
 - susijęs iš [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.).md#claim-t-92931|Kęstučio žūtis Krėvos kalėjime (1382 m.)]]: Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais.
 ## Reikšmingi paminėjimai
@@ -67,3 +68,6 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   ryšio_subjekto_parinkimas: Vydimantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vydimantas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Birutė]] buvo_dukte Vydimantas

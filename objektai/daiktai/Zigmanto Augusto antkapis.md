@@ -36,19 +36,20 @@ Nenurodyta
   global_id: t-01248
   teiginys: 'Zigmanto Augusto antkapis yra Krokuvos katedroje.'
   sudarymo_pagrindimas: 'Citata remia vietos faktą, bet pirminis teiginys yra antraštinis fragmentas be tarinio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Krokuva; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Zigmanto Augusto antkapis|Zigmanto Augusto antkapis]] priklausė Krokuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46b03e8fa20049820608b106589808c0777f43a1ef7eb780e27c6a885c3e33be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumas: priklause -> Krokuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmanto Augusto antkapis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto antkapis" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmanto Augusto antkapis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo antkapį Krokuvos katedroje; kadangi katedros kandidato nėra, ryšys fiksuojamas su Krokuva.
 
 ## Reikšmingi paminėjimai
 
@@ -68,10 +69,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46b03e8fa20049820608b106589808c0777f43a1ef7eb780e27c6a885c3e33be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumas: priklause -> Krokuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmanto Augusto antkapis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto antkapis" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmanto Augusto antkapis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo antkapį Krokuvos katedroje; kadangi katedros kandidato nėra, ryšys fiksuojamas su Krokuva.
+
+## Ryšiai
+- Zigmanto Augusto antkapis priklause [[objektai/vietos/Krokuva]]

@@ -51,3 +51,6 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Seversko kunigaikščiai gyveno [[objektai/vietos/Seversko Naugardas]]

@@ -33,7 +33,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   global_id: t-182764
   teiginys: 'Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą.'
   sudarymo_pagrindimas: 'Išplėstas inicialas ir pašalintas nutrūkęs fragmentas, faktas paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: Klaipėdos kraštas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] užėmė Klaipėdos kraštas'
   pagrindžia:
     - c-001
 
@@ -72,7 +73,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Priderinta prie Klaipėdos krašto objekto ir paliktas citata paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Klaipėda; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Klaipėda; mentioned_place: Lenkija; llm_object: Klaipėdos kraštas'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] valdė Klaipėdos kraštas'
   pagrindžia:
     - c-004
 
@@ -263,3 +265,8 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   statusas: verified
   pagrindžia:
     - t-008
+
+## Ryšiai
+- Klaipėdos kraštas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]] uzeme Klaipėdos kraštas
+- [[objektai/grupes/Prancūzai]] valde Klaipėdos kraštas

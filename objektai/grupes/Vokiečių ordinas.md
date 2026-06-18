@@ -45,7 +45,8 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   global_id: t-182837
   teiginys: 'Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
   sudarymo_pagrindimas: 'Užbaigta nutrūkusi mintis ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dancigas; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dancigas; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]] prekiavo su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -69,13 +70,13 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 613841-614361; hash=0542a49787b956eb1b2eb3dc8103790df476c0bc186830e56652660e98960e15; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=116
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių ordinas" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos prekybos kontekste tiesiogiai minima prekyba su Ordinu.
 
 <a id="claim-t-183198"></a>
 - t-005
@@ -204,13 +205,13 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 613841-614361; hash=0542a49787b956eb1b2eb3dc8103790df476c0bc186830e56652660e98960e15; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=116
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių ordinas" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos prekybos kontekste tiesiogiai minima prekyba su Ordinu.
     - t-001
 
 - c-003
@@ -289,3 +290,15 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+- Vokiečių ordinas puole [[objektai/grupes/Lietuviai]]
+- Vokiečių ordinas uzkariavo [[objektai/grupes/Jotvingiai]]
+- Vokiečių ordinas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vokiečių ordinas valde_teritorija [[objektai/vietos/Pamaris]]
+- Vokiečių ordinas valde_teritorija [[objektai/vietos/Žemaitija]]
+- Vokiečių ordinas uzkariavo [[objektai/vietos/Prūsai]]
+- Vokiečių ordinas keliavo_i [[objektai/vietos/Prūsija]]
+- Vokiečių ordinas keliavo_i [[objektai/vietos/Nemunas]]
+- Vokiečių ordinas prekiavo_su [[objektai/grupes/Lietuviai]]
+- Vokiečių ordinas kariavo_pries [[objektai/grupes/Totoriai]]

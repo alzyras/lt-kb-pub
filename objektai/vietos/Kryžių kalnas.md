@@ -73,6 +73,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71297|Jonas Paulius II]]: Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.
+- susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71297|Jonas Paulius II]]: Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.
 - susijęs iš [[objektai/daiktai/Kryžių kalno kryžiai.md#claim-t-77918|Kryžių kalno kryžiai]]: Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.
 - susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-183229|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.
 - susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-20233|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
@@ -83,6 +84,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-183490|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-20835|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23535|pogrindis pogrindiniai leidiniai nelegali spauda]]: Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros.
+- susijęs iš [[objektai/daiktai/Kryžių kalno kryžiai.md#claim-t-77918|Kryžių kalno kryžiai]]: Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -124,3 +126,8 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   ryšio_subjekto_parinkimas: Kryžių kalnas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jonas Paulius II]] keliavo_i Kryžių kalnas
+- [[objektai/daiktai/Kryžių kalno kryžiai]] priklause Kryžių kalnas
+- Kryžių kalnas priklause [[objektai/vietos/Šiauliai]]

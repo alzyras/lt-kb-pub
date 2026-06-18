@@ -51,26 +51,26 @@ Nenurodyta
   global_id: t-75351
   teiginys: 'Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktus.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija; llm_object: Kaunas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sužeistas vadas buvo pakartas Vilniuje.
 
 <a id="claim-t-75352"></a>
 - t-002
   global_id: t-75352
   teiginys: 'Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų tiesiogiai susietas su viešų bausmių praktika.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -94,20 +94,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sierakauskas buvo pakartas Vilniuje.
 
 <a id="claim-t-75354"></a>
 - t-004
   global_id: t-75354
   teiginys: 'Prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir viešai pakartas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Rusija; llm_object: Kaunas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -157,13 +157,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Sierakausko gyvenimas baigėsi viešu pakorimu Vilniuje.
 
 <a id="claim-t-183305"></a>
 - t-007
@@ -261,13 +261,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Sierakausko gyvenimas baigėsi viešu pakorimu Vilniuje.
     - t-003
 
 - c-004
@@ -290,13 +290,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sierakauskas buvo pakartas Vilniuje.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204435-205028; hash=b67187d614df5e53995a6ab960404126c053a10afb4c6165275e066b3d9b0949; match=whitespace_regex

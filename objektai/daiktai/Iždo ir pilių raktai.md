@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-64929
   teiginys: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'

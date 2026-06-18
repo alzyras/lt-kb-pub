@@ -52,7 +52,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   global_id: t-120082
   teiginys: 'Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.'
   sudarymo_pagrindimas: 'Citata pagrindžia kronikininkams priskirtą pasakojimą apie Gediminą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius; llm_object: Trakai'
   pagrindžia:
     - c-009
 
@@ -123,13 +123,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: pastate -> Trakai: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragio slėnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragio slėnis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys mini Trakų pilies įkūrimą Gedimino veiksmų kontekste, bet kandidatas yra Trakai, ne pati pilis.
 
 <a id="claim-t-120087"></a>
 - t-007
@@ -235,13 +235,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
+  ryšio_patikimumas: pastate -> Trakai: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragio slėnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragio slėnis" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys sieja Gediminą su Trakų pilies įkūrimu, bet kandidatas yra Trakai, ne pati pilis.
 
 <a id="claim-t-120093"></a>
 - t-013
@@ -284,7 +284,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-015
   global_id: t-120095
   teiginys: 'Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; llm_object: Trakai'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -461,13 +461,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: pastate -> Trakai: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragio slėnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragio slėnis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys mini Trakų pilies įkūrimą Gedimino veiksmų kontekste, bet kandidatas yra Trakai, ne pati pilis.
     - t-012
 
 - c-005
@@ -488,13 +488,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
+  ryšio_patikimumas: pastate -> Trakai: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragio slėnis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragio slėnis" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys sieja Gediminą su Trakų pilies įkūrimu, bet kandidatas yra Trakai, ne pati pilis.
     - t-004
 
 - c-006

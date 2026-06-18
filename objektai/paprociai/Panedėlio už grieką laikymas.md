@@ -35,7 +35,7 @@ Nenurodyta
   global_id: t-07797
   teiginys: 'Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi netikslų žodį „grėsminga“ ir gali būti tiksliau suformuluotas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
 

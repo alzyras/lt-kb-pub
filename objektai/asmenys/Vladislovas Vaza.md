@@ -50,7 +50,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   global_id: t-79223
   teiginys: 'Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai patvirtina.'
@@ -86,7 +86,8 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   global_id: t-79227
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmens vadovaujamos kariuomenės veiksmą ir datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusai|Rusai]]; llm_object: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   temporaliniai_duomenys: 'įvykio data: 1634 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako asmens vadovaujamos kariuomenės veiksmą ir datą.'
@@ -103,13 +104,13 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5f2543de4bf26c1f753427006031d3776616eff771119085ca58b2a6b84e8f9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Vaza: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Vaza" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą.
 
 <a id="claim-t-79230"></a>
 - t-008
@@ -187,13 +188,13 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5f2543de4bf26c1f753427006031d3776616eff771119085ca58b2a6b84e8f9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Vaza: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Vaza" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maskva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą.
     - t-005
 
 - c-004
@@ -284,3 +285,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Vladislovas Vaza kariavo_pries [[objektai/grupes/Rusai]]

@@ -32,7 +32,8 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   global_id: t-86314
   teiginys: '1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Vilniaus turgus; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]] mirė Vilniaus turgus'
   temporaliniai_duomenys: 'įvykio data: 1580 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'
@@ -41,17 +42,20 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 586556-587255; hash=8ca7376a322fb461b48f9732de2ae08c1a92c56e1361749297a0ab8756472daa; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurgis Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus turgus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurgis Astikas: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus turgus" parinktas kaip owner_note_path. Targetas "Jurgis Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilniaus turgus: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus turgus: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jurgis Astikas buvo nukirsdintas Vilniaus turguje, todėl tai yra jo mirties vieta.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120185|Karaimai]]: Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120186|Karaimai]]: Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
+- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120185|Karaimai]]: Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.
+- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120186|Karaimai]]: Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.
+- susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,10 +83,14 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 586556-587255; hash=8ca7376a322fb461b48f9732de2ae08c1a92c56e1361749297a0ab8756472daa; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurgis Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus turgus: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurgis Astikas: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus turgus" parinktas kaip owner_note_path. Targetas "Jurgis Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilniaus turgus: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus turgus: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jurgis Astikas buvo nukirsdintas Vilniaus turguje, todėl tai yra jo mirties vieta.
+
+## Ryšiai
+- [[objektai/asmenys/Jurgis Astikas]] mire Vilniaus turgus
+- [[objektai/grupes/Karaimai]] prekiavo_su Vilniaus turgus

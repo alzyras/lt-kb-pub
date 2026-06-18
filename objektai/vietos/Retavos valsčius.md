@@ -29,7 +29,7 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   global_id: t-91352
   teiginys: 'Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, turi išnašos triukšmo ir rašybos klaidą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva'
+  susije_objektai: 'llm_object: Nadruva; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, turi išnašos triukšmo ir rašybos klaidą.'
@@ -38,20 +38,20 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a9215f3954b0fbb4f91e8419c4eb07026e9e252add425e36145afbcb6b73a31; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Konradas aiškiai nurodytas kaip pasiuntęs Ditrichą su kariuomene į Nadruvą.
 
 <a id="claim-t-91353"></a>
 - t-002
   global_id: t-91353
   teiginys: 'Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva'
+  susije_objektai: 'llm_object: Nadruva; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
@@ -60,32 +60,33 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475808-476140; hash=4889d6c338fb3da8d2d7d349def1741dd5499066987a0c912f1ceb7a29cdbb9e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Retavos valsčius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai lokalizuoja Retavos valsčių Nadruvoje.
 
 <a id="claim-t-91354"></a>
 - t-003
   global_id: t-91354
   teiginys: 'Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie valsčiaus buvimą Nadruvoje ir lokalizavimo neapibrėžtumą.'
-  susije_objektai: 'mentioned_place: Nadruva'
+  susije_objektai: 'llm_object: Nadruva; mentioned_place: Nadruva'
+  semantiniai_rysiai: 'Retavos valsčius priklausė Nadruva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado siuntimą į Nadruvą.
 - susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
 - susijęs iš Nadruva: Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.
 ## Reikšmingi paminėjimai
@@ -126,13 +127,13 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475808-476140; hash=4889d6c338fb3da8d2d7d349def1741dd5499066987a0c912f1ceb7a29cdbb9e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Retavos valsčius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai lokalizuoja Retavos valsčių Nadruvoje.
     - t-001
 
 - c-003
@@ -150,21 +151,24 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a9215f3954b0fbb4f91e8419c4eb07026e9e252add425e36145afbcb6b73a31; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Konradas aiškiai nurodytas kaip pasiuntęs Ditrichą su kariuomene į Nadruvą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Retavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Retavos valsčius" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado siuntimą į Nadruvą.
+
+## Ryšiai
+- Retavos valsčius priklause [[objektai/vietos/Nadruva]]

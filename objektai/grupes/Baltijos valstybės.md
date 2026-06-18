@@ -44,6 +44,7 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 - susijęs iš SSRS: Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis.
 - susijęs iš Vokietija: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.
+- susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45354|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijoms per Lietuvą atkirtus Latviją ir Estiją nuo Vokietijos, abi valstybės buvo greitai okupuotos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,3 +60,8 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/vietos/Estija]] priklause Baltijos valstybės
+- [[objektai/vietos/Latvija]] priklause Baltijos valstybės
+- Baltijos valstybės priklause [[objektai/vietos/Baltija]]

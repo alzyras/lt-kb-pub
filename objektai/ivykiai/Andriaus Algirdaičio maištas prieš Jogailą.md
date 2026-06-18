@@ -97,7 +97,7 @@ Nenurodyta
   teiginys: '1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys glaustai nusako Polocko užėmimą ir Andriaus Algirdaičio suėmimą. Citata šiuos faktus tiesiogiai palaiko, papildomų interpretacijų nepridėta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai nusako Polocko užėmimą ir Andriaus Algirdaičio suėmimą. Citata šiuos faktus tiesiogiai palaiko, papildomų interpretacijų nepridėta.'
@@ -120,7 +120,7 @@ Nenurodyta
   teiginys: 'Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir pasekmę po Polocko užėmimo. Kalėjimo vieta ir trukmė paimtos iš citatos be papildomų išvadų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, veiksmą ir pasekmę po Polocko užėmimo. Kalėjimo vieta ir trukmė paimtos iš citatos be papildomų išvadų.'
@@ -129,13 +129,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bab5469fcc94fa2dbf3cac04881b0df3a85bfbb00f952bfc0ae1d054cf9c8fd; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andriaus Algirdaičio maištas prieš Jogailą: owner_note_path, event
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andriaus Algirdaičio maištas prieš Jogailą" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Polockas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirgaila užėmė Polocką.
 
 <a id="claim-t-186724"></a>
 - t-005
@@ -152,13 +152,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bab5469fcc94fa2dbf3cac04881b0df3a85bfbb00f952bfc0ae1d054cf9c8fd; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andriaus Algirdaičio maištas prieš Jogailą: owner_note_path, event
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andriaus Algirdaičio maištas prieš Jogailą" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Polockas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina, kad Polocką užėmė Skirgaila.
 
 ## Reikšmingi paminėjimai
 
@@ -221,13 +221,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bab5469fcc94fa2dbf3cac04881b0df3a85bfbb00f952bfc0ae1d054cf9c8fd; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andriaus Algirdaičio maištas prieš Jogailą: owner_note_path, event
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andriaus Algirdaičio maištas prieš Jogailą" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Polockas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina, kad Polocką užėmė Skirgaila.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08961332a572f99ec0eb622138b4139f69e8b1bace7abb0af57088c6c24a262f; match=fallback; occurrences=0
@@ -243,10 +243,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bab5469fcc94fa2dbf3cac04881b0df3a85bfbb00f952bfc0ae1d054cf9c8fd; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andriaus Algirdaičio maištas prieš Jogailą: owner_note_path, event
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andriaus Algirdaičio maištas prieš Jogailą" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Polockas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirgaila užėmė Polocką.

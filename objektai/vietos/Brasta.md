@@ -58,7 +58,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-002
   global_id: t-176959
   teiginys: 'Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Brasta; llm_object: Gardinas; llm_object: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Brasta'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -77,7 +78,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176960
   teiginys: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Brasta; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Šach Achmedas|Šach Achmedas]] keliavo į Brasta'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -214,19 +216,20 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176970
   teiginys: 'Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas su Brasta tiesiogiai susijęs faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Brasta; llm_object: Gardinas; llm_object: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Brasta'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f6a030b4255acd9786221755f4b1034c54a46f0e88113619e15f3544a8ad02fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Varšuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad LDK kariuomenė atsitraukė prie Varšuvos.
 
 <a id="claim-t-176971"></a>
 - t-013
@@ -277,7 +280,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176975
   teiginys: 'Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -308,13 +311,13 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Suražas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Suražas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brasta: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila užėmė Brastos pilį.
 
 <a id="claim-t-176977"></a>
 - t-019
@@ -332,7 +335,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-020
   global_id: t-176978
   teiginys: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
-  susije_objektai: 'mentioned_place: Suražas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Brasta; llm_object: Suražas; llm_object: Gardinas; mentioned_place: Suražas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] užėmė Brasta'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -357,13 +361,13 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c91cc7efb8e08fa2403ce0bc867f3cdba242669a4ad27373164cacf18fa57db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=29
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Žygimantas Augustas atvyko į Vilnių.
 
 <a id="claim-t-176980"></a>
 - t-022
@@ -401,7 +405,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176985
   teiginys: 'LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir apkrautas šalutinėmis detalėmis.'
-  susije_objektai: 'mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Varšuva; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; llm_object: Brasta'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] gynė Brasta'
   pagrindžia:
     - c-018
 
@@ -433,11 +438,11 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   sprendimo_priezastis: auto
   ryšio_patikimumas: keliavo_i -> Gardinas: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Gardinas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Gardinas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Kęstutis atvyko į Gardiną.
 
 <a id="claim-t-187568"></a>
 - t-029
@@ -447,7 +452,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Motyvo formuluotė „pasikliaudamas“ turi likti priskirta šaltiniui.'
-  susije_objektai: 'location: Gardinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Gardinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
@@ -460,6 +465,8 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=65
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
+- susijęs iš Trakai: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.
 - susijęs iš [[objektai/asmenys/Karolis Moravskis.md#claim-t-40272|Karolis Moravskis]]: Karolis Moravskis vadovavo 2-ajam regimentui, stovėjusiam prieš priemiesčius prie Lietuvos Brastos.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
@@ -649,6 +656,12 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/zodynas/prekymečiai ir turgūs.md#claim-t-86610|prekymečiai ir turgūs]]: Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
+- susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
+- susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
+- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
+- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
+- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
+- susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -780,13 +793,13 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f6a030b4255acd9786221755f4b1034c54a46f0e88113619e15f3544a8ad02fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Varšuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad LDK kariuomenė atsitraukė prie Varšuvos.
     - t-006
 
 - c-006
@@ -857,13 +870,13 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c91cc7efb8e08fa2403ce0bc867f3cdba242669a4ad27373164cacf18fa57db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=29
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Žygimantas Augustas atvyko į Vilnių.
     - t-026
     - t-016
 
@@ -1084,13 +1097,13 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Suražas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Suražas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brasta: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila užėmė Brastos pilį.
     - t-010
 
 - c-017
@@ -1195,11 +1208,11 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   sprendimo_priezastis: auto
   ryšio_patikimumas: keliavo_i -> Gardinas: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Gardinas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Gardinas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Kęstutis atvyko į Gardiną.
     - t-029
   irodymo_stiprumas: 0.00
   saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
@@ -1211,3 +1224,14 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=65
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Brasta
+- [[objektai/grupes/Švedai]] apgule Brasta
+- [[objektai/asmenys/Šach Achmedas]] keliavo_i Brasta
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Brasta
+- [[objektai/vietos/Liubešavas]] priklause Brasta
+- [[objektai/grupes/Lietuvos kariuomenė]] gyne Brasta
+- [[objektai/asmenys/Aleksandras]] keliavo_i Brasta
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Brasta
+- [[objektai/grupes/Lietuviai]] siunte_i Brasta

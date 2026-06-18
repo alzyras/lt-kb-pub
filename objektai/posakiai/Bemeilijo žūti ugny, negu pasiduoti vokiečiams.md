@@ -36,7 +36,7 @@ amziai:
   global_id: t-06869
   teiginys: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktinį sakinį be boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Pilėnai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Pilėnai; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1336 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį faktinį sakinį be boilerplate.'
@@ -45,13 +45,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a961e65c07e57585ebc3fa47efdf26901fd3d744f94c992128cfc8022f92ef0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bemeilijo žūti ugny, negu pasiduoti vokiečiams: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bemeilijo žūti ugny, negu pasiduoti vokiečiams" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Pilėnai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie Pilėnų pilies gynimą ir nurodo, kad lietuviai didvyriškai gynėsi, todėl ryšys lietuviai gynė Pilėnus yra pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +72,10 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a961e65c07e57585ebc3fa47efdf26901fd3d744f94c992128cfc8022f92ef0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bemeilijo žūti ugny, negu pasiduoti vokiečiams: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bemeilijo žūti ugny, negu pasiduoti vokiečiams" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Pilėnai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie Pilėnų pilies gynimą ir nurodo, kad lietuviai didvyriškai gynėsi, todėl ryšys lietuviai gynė Pilėnus yra pagrįstas.

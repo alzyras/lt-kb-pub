@@ -31,7 +31,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   global_id: t-01342
   teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti nugriovimą su ta pačia kalvinų bažnyčia.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kalvinai|Kalvinai]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1639 m.; įvykio data: 1640 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti nugriovimą su ta pačia kalvinų bažnyčia.'
@@ -40,19 +41,20 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1577d7ea86040204dad67386814a7c48d254d7aaae5bc56cfabbb9193c3ef32b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalvinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvinai" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalvinai minimi Vilniuje turėję bažnyčią, todėl tiesiogiai siejami su Vilniumi.
 
 <a id="claim-t-01343"></a>
 - t-002
   global_id: t-01343
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuterionys|Liuterionys]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuterionys|Liuterionys]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kalvinai|Kalvinai]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1611 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -60,13 +62,13 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 686184-686576; hash=525cf1feae31ac4f4325957cc549518c9e6e8861d30d59ac82d825a8576f0b14; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalvinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvinai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalvinų bažnyčia lokalizuojama Vilniuje, todėl kalvinai tiesiogiai siejami su Vilniumi.
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 - susijęs iš [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.).md#claim-t-01845|Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]: Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.
 - susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
@@ -110,21 +112,24 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1577d7ea86040204dad67386814a7c48d254d7aaae5bc56cfabbb9193c3ef32b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalvinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvinai" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalvinai minimi Vilniuje turėję bažnyčią, todėl tiesiogiai siejami su Vilniumi.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 686184-686576; hash=525cf1feae31ac4f4325957cc549518c9e6e8861d30d59ac82d825a8576f0b14; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalvinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvinai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kalvinų bažnyčia lokalizuojama Vilniuje, todėl kalvinai tiesiogiai siejami su Vilniumi.
+
+## Ryšiai
+- Kalvinai gyveno [[objektai/vietos/Vilnius]]

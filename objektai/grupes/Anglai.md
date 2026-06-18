@@ -53,13 +53,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389078-389458; hash=1f5d71aa19a357907f01a0ce5641889791e2d3e0d2db11dcf67de328beb2ba68; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo anglams leistą prekybą lietuviškose žemėse; tikslių Žemaičių ir Kalno vietų kandidatuose nėra.
 
 <a id="claim-t-172070"></a>
 - t-003
@@ -108,21 +108,21 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: puole -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Anglų pėstininkai nurodyti tarp miesto puolėjų Vilniaus puolimo kontekste.
 
 <a id="claim-t-172073"></a>
 - t-006
   global_id: t-172073
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie anglų savanorius.'
-  susije_objektai: 'location: Anglija; mentioned_place: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] keliavo į Anglija'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] keliavo į Prūsija; [[objektai/grupes/Anglai|Anglai]] buvo sąjungininkas su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -140,29 +140,30 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - t-007
   global_id: t-172074
   teiginys: 'Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Anglija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Anglija; mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] prekiavo su Lietuva; [[objektai/grupes/Anglai|Anglai]] gyveno Lietuva'
   pagrindžia:
     - c-001
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.93
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=20
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo anglų savanorių atvykimą į Prūsiją.
 
 <a id="claim-t-172075"></a>
 - t-008
   global_id: t-172075
   teiginys: 'Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] puolė Vilnius'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54975|Kazimieras Karigaila]]: Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.
 - susijęs iš [[objektai/asmenys/Motiejus Kazimieras Sarbievijus.md#claim-t-19157|Motiejus Kazimieras Sarbievijus]]: Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.
 - susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
@@ -231,6 +232,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.
+- susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -257,13 +259,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.93
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=20
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo anglų savanorių atvykimą į Prūsiją.
     - t-007
 
 - c-003
@@ -282,13 +284,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.93
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=20
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo anglų savanorių atvykimą į Prūsiją.
     - t-008
 
 - c-004
@@ -378,13 +380,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389078-389458; hash=1f5d71aa19a357907f01a0ce5641889791e2d3e0d2db11dcf67de328beb2ba68; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo anglams leistą prekybą lietuviškose žemėse; tikslių Žemaičių ir Kalno vietų kandidatuose nėra.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8477e38cb9be01f81c91b92bbc0b130289217b71fc488340266f7811b08ef245; match=fallback; occurrences=0
@@ -494,14 +496,21 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: puole -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Anglai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anglai" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Anglų pėstininkai nurodyti tarp miesto puolėjų Vilniaus puolimo kontekste.
 
 ## Ryšiai
-- Anglai keliavo_i [[objektai/vietos/Anglija]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Anglai
+- Anglai buvo_priesas [[objektai/grupes/Škotai]]
+- Anglai puole [[objektai/grupes/Prancūzai]]
+- Anglai keliavo_i [[objektai/vietos/Prūsija]]
+- Anglai reme [[objektai/grupes/Vokiečiai]]
+- Anglai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Anglai puole [[objektai/vietos/Vilnius]]
+- Anglai prekiavo_su [[objektai/vietos/Lietuva]]
+- Anglai gyveno [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vilhelmas Douglas]] buvo_priesas Anglai

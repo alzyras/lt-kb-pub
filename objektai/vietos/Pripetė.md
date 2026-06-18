@@ -60,7 +60,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Dnepras'
   pagrindžia:
     - c-003
-- susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184541|Lietuviai]]: Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185564|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.
@@ -155,6 +154,3 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Pripetė

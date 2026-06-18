@@ -50,13 +50,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20ff44088640a38dcc568b37fd976562601173b4aa1527f287cd4548e79d3da4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karinė ginkluotė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ietis: mention_match, thing, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karinė ginkluotė" parinktas kaip owner_note_path. Targetas "Ietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karinė ginkluotė: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę.
 
 <a id="claim-t-08295"></a>
 - t-002
@@ -147,7 +147,8 @@ Nenurodyta
   global_id: t-78665
   teiginys: 'Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.'
   sudarymo_pagrindimas: 'Citata išvardija lietuvių naudotus ginklus, todėl teiginys sukonkretintas pagal note objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Volinija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Volinija'
+  semantiniai_rysiai: '[[objektai/daiktai/Karinė ginkluotė|Karinė ginkluotė]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -219,13 +220,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20ff44088640a38dcc568b37fd976562601173b4aa1527f287cd4548e79d3da4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karinė ginkluotė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ietis: mention_match, thing, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karinė ginkluotė" parinktas kaip owner_note_path. Targetas "Ietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karinė ginkluotė: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę.
     - t-002
 
 - c-004
@@ -331,3 +332,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Karinė ginkluotė: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karinė ginkluotė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Karinė ginkluotė priklause [[objektai/grupes/Lietuviai]]

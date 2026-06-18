@@ -34,7 +34,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   global_id: t-64745
   teiginys: 'M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -128,13 +128,13 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai tapatina skalvius su lietuviais, todėl galima fiksuoti priklausymo grupei ryšį.
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 - susijęs iš 1282 m. Mstivojaus ir Ordino taikos dokumentas: M. Tepenas manė, kad Dusburgietis galėjo žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą.
 - susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
@@ -268,10 +268,10 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai tapatina skalvius su lietuviais, todėl galima fiksuoti priklausymo grupei ryšį.

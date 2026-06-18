@@ -49,6 +49,7 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 - susijęs iš Točilovo ežeras: Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežero.
 - susijęs iš Vilnius: 1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
+- susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,3 +65,6 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/vietos/Akmenų Brasta]] priklause Lukas

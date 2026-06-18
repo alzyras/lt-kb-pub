@@ -60,3 +60,6 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
   ryšio_subjekto_parinkimas: Pažaislio vienuolyno ansamblis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pažaislio vienuolyno ansamblis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Pažaislio vienuolyno ansamblis priklause [[objektai/vietos/Kaunas]]

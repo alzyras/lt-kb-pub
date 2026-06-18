@@ -30,7 +30,8 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   global_id: t-58481
   teiginys: 'Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.'
   sudarymo_pagrindimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  susije_objektai: 'llm_object: Traupeinas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Pilaitė; llm_object: Kulmas'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] apgulė Traupeinas'
   temporaliniai_duomenys: 'mūšio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
@@ -39,13 +40,13 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traupeinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traupeinas" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Traupeinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Traupeinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai.
 
 <a id="claim-t-58483"></a>
 - t-002
@@ -57,6 +58,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - c-002
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66522|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.
+- susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -97,11 +99,15 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traupeinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traupeinas" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Traupeinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Traupeinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai.
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Pagudėnai]] apgule Traupeinas
+- [[objektai/asmenys/Kaltis]] apgule Traupeinas

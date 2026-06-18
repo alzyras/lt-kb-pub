@@ -38,7 +38,7 @@ Nenurodyta
   global_id: t-89412
   teiginys: 'Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu.'
   sudarymo_pagrindimas: 'Pradinis teiginys apkrautas antrašte ir puslapio žyme; citata remia pilies vietos faktą.'
-  susije_objektai: 'mentioned_place: Vaistotpilis; mentioned_place: Barta; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Vaistotpilis; mentioned_place: Barta; mentioned_place: Prūsai; mentioned_place: Viena; llm_object: Barta'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -83,13 +83,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 403892-404257; hash=4c9afe15644d3f68fc571ccb75e1d97e59b2ae42423be1d5bd299ce97dfab1b7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaistotpilis: 0.85
+  ryšio_patikimumas: priklause -> Barta: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vaistotpilio kovos ir pilies apleidimas (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vaistotpilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaistotpilio kovos ir pilies apleidimas (pilis)" parinktas kaip owner_note_path. Targetas "Vaistotpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaistotpilis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vaistotpilis lokalizuojamas Bartos žemėje, todėl ryšys traktuojamas kaip priklausymas vietovei.
 
 <a id="claim-t-183972"></a>
 - t-004
@@ -202,13 +202,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 403892-404257; hash=4c9afe15644d3f68fc571ccb75e1d97e59b2ae42423be1d5bd299ce97dfab1b7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaistotpilis: 0.85
+  ryšio_patikimumas: priklause -> Barta: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vaistotpilio kovos ir pilies apleidimas (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vaistotpilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaistotpilio kovos ir pilies apleidimas (pilis)" parinktas kaip owner_note_path. Targetas "Vaistotpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaistotpilis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Barta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vaistotpilis lokalizuojamas Bartos žemėje, todėl ryšys traktuojamas kaip priklausymas vietovei.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 404286-404740; hash=4b36c9810bbd2df150288a9b81e093566971e7485840629a7fce3ccad79852a3; match=exact

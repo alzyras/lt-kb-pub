@@ -61,9 +61,13 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia atribucijos, nes citata pateikia pasakojamąjį ir vertinamąjį apibūdinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
+  susije_objektai: 'llm_object: Utena; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]] apgulė Utena'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
+- susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
+- susijęs iš Tauragnai: Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184686|Daumantas (kunigaikštis, XV a.)]]: Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
@@ -104,6 +108,13 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
 - susijęs iš Ukmergė: Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.
 - susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184686|Daumantas (kunigaikštis, XV a.)]]: Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78707|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78711|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
+- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -172,3 +183,12 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/asmenys/Bernard Lown]] gime Utena
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] apgule Utena
+- [[objektai/asmenys/K. Ladyga]] keliavo_i Utena
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde Utena
+- [[objektai/grupes/Lenkai]] puole Utena
+- [[objektai/asmenys/Silvestras Žukauskas]] siunte_i Utena
+- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Utena

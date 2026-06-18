@@ -205,3 +205,6 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   ryšio_subjekto_parinkimas: Martynas Paleckis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas Paleckis" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Martynas Paleckis pastate [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]]

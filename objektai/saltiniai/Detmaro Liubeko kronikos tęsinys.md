@@ -35,7 +35,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   global_id: t-67370
   teiginys: 'Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs OCR fragmentas, bet citata pagrindžia rišlų teiginį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; llm_object: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   global_id: t-67371
   teiginys: 'Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir turi skyrybos klaidą; citata leidžia suformuluoti aiškiau.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -59,13 +59,13 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=33223d62bc7768b2ae0bc91ea1182a8d1a3413f29bc4b9f8af077012818c6df4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Detmaro Liubeko: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Detmaro Liubeko kronikos tęsinys: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Detmaro Liubeko: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Detmaro Liubeko kronikos tęsinys" parinktas kaip owner_note_path. Targetas "Detmaro Liubeko" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai kariavo prieš totorius.
 
 <a id="claim-t-183699"></a>
 - t-004
@@ -75,7 +75,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas; citata leidžia pateikti aiškų sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Liubekas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -118,13 +118,13 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=33223d62bc7768b2ae0bc91ea1182a8d1a3413f29bc4b9f8af077012818c6df4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Detmaro Liubeko: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Detmaro Liubeko kronikos tęsinys: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Detmaro Liubeko: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Detmaro Liubeko kronikos tęsinys" parinktas kaip owner_note_path. Targetas "Detmaro Liubeko" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai kariavo prieš totorius.
     - t-001
 
 - c-002

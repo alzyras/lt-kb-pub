@@ -91,7 +91,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   global_id: t-94357
   teiginys: '1429 m. birželio 18 d. Vytauto delegatai Gedgaudas ir Rumbaudas atvyko į Lenčicą ir įteikė Jogailai Vytauto laišką.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir teiginys sutrumpintas iki citata remiamo veiksmo Lenčicoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; llm_object: Lenčica'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo į Lenčica'
   temporaliniai_duomenys: 'kelionės data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir teiginys sutrumpintas iki citata remiamo veiksmo Lenčicoje.'
@@ -100,13 +101,13 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenčica: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenčica: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tomas tiesiogiai minimas kaip atvykęs į Lenčicą.
 
 <a id="claim-t-185003"></a>
 - t-005
@@ -116,19 +117,20 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, palikta citatos paremta esminė informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Lenčica; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] užėmė Lenčica; [[objektai/asmenys/Vytenis|Vytenis]] surengė žygį į Lenčica'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 290956-291715; hash=4887cdc35ad950ae9cecfc19e8c85d37069f6ed0ef8e532e64f3de782841f6da; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Lenčica: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenčica: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Vytenis užėmė miestą; savininkas yra Lenčica.
 
 <a id="claim-t-185004"></a>
 - t-006
@@ -173,6 +175,9 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
+- susijęs iš Kujavija: Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.
+- susijęs iš [[objektai/asmenys/Gedgaudas.md#claim-t-34728|Gedgaudas]]: 1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą.
 - susijęs iš [[objektai/asmenys/Danielius iš Lenčicos.md#claim-t-87647|Danielius iš Lenčicos]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
 - susijęs iš [[objektai/asmenys/Gedgaudas.md#claim-t-34728|Gedgaudas]]: 1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87394|Jonas Hlebavičius]]: Minsko kaštelionas Jonas Hlebavičius apie 1580 m. globojo Danieliaus iš Lenčicos evangelikų reformatų spaustuvę.
@@ -210,6 +215,8 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - susijęs iš [[objektai/zodynas/luomai.md#claim-t-185356|luomai]]: Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-184618|luomas]]: Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-185391|seimas]]: Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
+- susijęs iš Volbožas: Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -268,13 +275,13 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenčica: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenčica: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tomas tiesiogiai minimas kaip atvykęs į Lenčicą.
     - t-002
 
 - c-004
@@ -368,13 +375,13 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 290956-291715; hash=4887cdc35ad950ae9cecfc19e8c85d37069f6ed0ef8e532e64f3de782841f6da; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Lenčica: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenčica: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Vytenis užėmė miestą; savininkas yra Lenčica.
     - t-006
 
 - c-007
@@ -412,3 +419,13 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
   ryšio_subjekto_parinkimas: Lenčica: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenčica" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Zemislovas]] valde Lenčica
+- [[objektai/asmenys/Konradas]] buvo_valdovas Lenčica
+- [[objektai/asmenys/Gedgaudas]] keliavo_i Lenčica
+- [[objektai/asmenys/Vytenis]] uzeme Lenčica
+- [[objektai/asmenys/Vytenis]] puole Lenčica
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Lenčica
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Lenčica
+- [[objektai/asmenys/Vytenis]] surenge_zygi_i Lenčica

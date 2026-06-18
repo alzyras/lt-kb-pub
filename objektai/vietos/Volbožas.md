@@ -22,19 +22,20 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   global_id: t-95922
   teiginys: 'Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citatos informacija.'
-  susije_objektai: 'mentioned_place: Červinskas; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Visla'
+  susije_objektai: 'llm_object: Volbožas; mentioned_place: Červinskas; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Visla'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]] keliavo į Volbožas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eadd2dbc54d3de2d3f2fec6c6759789ddf9f1607816620673f3533e024c06c31; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Červinskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volbožas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Červinskas: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volbožas" parinktas kaip owner_note_path. Targetas "Červinskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Volbožas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kariuomenės susirinkimas į Volbožą tiesiogiai rodo judėjimą į šią vietą.
 
 <a id="claim-t-185205"></a>
 - t-002
@@ -44,19 +45,20 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata apie Volbožą.'
-  susije_objektai: 'mentioned_place: Lenčica; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Bidgoščius; mentioned_place: Lenkija; mentioned_place: Radzejovas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_place: Lenčica; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Bidgoščius; mentioned_place: Lenkija; mentioned_place: Radzejovas; mentioned_place: Volynė; llm_object: Volbožas; llm_object: Lenčica'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Volbožas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 651241-651513; hash=8fa8b45ed2afad7498736c8f6eb0354e10467aef0a450bcb6f53d6ffbb839734; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volbožas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volbožas" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Volbožas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila paliepė kariams rinktis į Volbožą, todėl ryšys su siuntimu į vietą yra tiesiogiai pagrįstas.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 ## Reikšmingi paminėjimai
@@ -93,21 +95,25 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eadd2dbc54d3de2d3f2fec6c6759789ddf9f1607816620673f3533e024c06c31; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Červinskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volbožas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Červinskas: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volbožas" parinktas kaip owner_note_path. Targetas "Červinskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Volbožas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kariuomenės susirinkimas į Volbožą tiesiogiai rodo judėjimą į šią vietą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 651241-651513; hash=8fa8b45ed2afad7498736c8f6eb0354e10467aef0a450bcb6f53d6ffbb839734; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volbožas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volbožas" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Volbožas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Volbožas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila paliepė kariams rinktis į Volbožą, todėl ryšys su siuntimu į vietą yra tiesiogiai pagrįstas.
+
+## Ryšiai
+- [[objektai/grupes/Lenkijos kariuomenė]] keliavo_i Volbožas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Volbožas

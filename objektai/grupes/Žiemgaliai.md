@@ -39,7 +39,8 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   global_id: t-89339
   teiginys: 'Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie žiemgalių sukilimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žiemgaliai|Žiemgaliai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -58,7 +59,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   global_id: t-89340
   teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -139,8 +140,8 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   global_id: t-89344
   teiginys: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Traidenio veiksmus ir yra paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žiemgaliai|Žiemgaliai]] rėmė [[objektai/asmenys/Traidenis|Traidenis]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] rėmė [[objektai/grupes/Žiemgaliai|Žiemgaliai]]'
   temporaliniai_duomenys: 'įvykio data: 1269-1282; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Traidenio veiksmus ir yra paremtas citata.'
@@ -168,13 +169,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žiemgaliai tiesiogiai įvardyti tarp prieš kryžiuočius sukilusių tautų.
 
 <a id="claim-t-89347"></a>
 - t-009
@@ -187,13 +188,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a4fff37cc6b3e4c7a6853d3142636adb56af96b4ef520d42803a70ab86d6428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sukilimas dėl kryžiuočių valdžios tiesiogiai rodo priešišką santykį su Ordinu.
 
 <a id="claim-t-89348"></a>
 - t-010
@@ -256,7 +257,8 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   global_id: t-89351
   teiginys: '1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Žiemgaliai|Žiemgaliai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1263-1270; įvykio data: 1267 m.; įvykio data: 1270 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -316,19 +318,20 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   global_id: t-89355
   teiginys: 'Žiemgaliai vėl sukilo, nepakęsdami griežtos kryžiuočių valdžios.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žiemgaliai|Žiemgaliai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2185905ad83e2dfc59c76887aabc20436d7bd91754447f357458509e2506829b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Varžymasis su Ordinu dėl žemių tiesiogiai rodo politinį priešiškumą.
 
 <a id="claim-t-89357"></a>
 - t-019
@@ -344,20 +347,21 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3f94944126d2e90ff41154df2ac9247148ac8a562cdedc02e2a110776ce953b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Padauguvis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Padauguvis: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Padauguvis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žiemgalių kariuomenė tiesiogiai nurodyta smogusi kalavijuočiams.
 
 <a id="claim-t-89358"></a>
 - t-020
   global_id: t-89358
   teiginys: '1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Padauguvis; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Padauguvis; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Žiemgaliai|Žiemgaliai]] puolė [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1220 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
@@ -366,13 +370,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee4128f77745ff94f684854481e473e36213fd0ec93f1c89b49872b09169ead7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Traidenis (valdovas, XIII a.): 0.91
+  ryšio_patikimumas: reme -> Žiemgaliai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_support_local_target
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=5
-  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): nearest_after_predicate, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_support_local_target". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Traidenis (valdovas, XIII a.)" parinktas kaip nearest_after_predicate aplink predikatą "reme". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Traidenis rėmė žiemgalius.
 
 <a id="claim-t-182934"></a>
 - t-021
@@ -395,6 +399,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40367|Nameisis (žiemgalių kunigaikštis)]]: Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40367|Nameisis (žiemgalių kunigaikštis)]]: Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175557|Kalavijuočių ordinas]]: 1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
@@ -438,6 +443,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - susijęs iš Žagarė: Kryžiuočiams nepavyko paimti Tervetės pilies, buvusios į šiaurę nuo Žagarės.
 - susijęs iš [[objektai/zodynas/donacija.md#claim-t-32772|donacija]]: Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.
 - susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32789|kuopiniai kaimai]]: Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65561|Kuršiai]]: Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -489,13 +495,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kuršiai tiesiogiai įvardyti tarp prieš kryžiuočius sukilusių tautų.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154479-154673; hash=7ec013c55c0f776b9fcef641bb6c13941ac6c70be4ca5188074bab6d5a3c4df7; match=exact
@@ -595,13 +601,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a4fff37cc6b3e4c7a6853d3142636adb56af96b4ef520d42803a70ab86d6428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sukilimas dėl kryžiuočių valdžios tiesiogiai rodo priešišką santykį su Ordinu.
     - t-018
 
 - c-006
@@ -622,24 +628,24 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a4fff37cc6b3e4c7a6853d3142636adb56af96b4ef520d42803a70ab86d6428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sukilimas prieš kryžiuočių valdžią pagrindžia priešišką ryšį su Ordinu.
     - t-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3f94944126d2e90ff41154df2ac9247148ac8a562cdedc02e2a110776ce953b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Padauguvis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Padauguvis: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Padauguvis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žiemgalių kariuomenė tiesiogiai nurodyta smogusi kalavijuočiams.
     - t-005
 
 - c-007
@@ -670,13 +676,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žiemgaliai tiesiogiai įvardyti tarp prieš kryžiuočius sukilusių tautų.
     - t-014
 
 - c-008
@@ -707,13 +713,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2185905ad83e2dfc59c76887aabc20436d7bd91754447f357458509e2506829b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Varžymasis dėl žiemgalių žemės rodo politinį priešiškumą Livonijos ordinui.
     - t-002
 
 - c-009
@@ -743,13 +749,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2185905ad83e2dfc59c76887aabc20436d7bd91754447f357458509e2506829b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Varžymasis su Ordinu dėl žemių tiesiogiai rodo politinį priešiškumą.
     - t-001
 
 - c-010
@@ -841,13 +847,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee4128f77745ff94f684854481e473e36213fd0ec93f1c89b49872b09169ead7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Traidenis (valdovas, XIII a.): 0.91
+  ryšio_patikimumas: reme -> Žiemgaliai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_support_local_target
-  ryšio_subjekto_parinkimas: Žiemgaliai: owner_note_path, group, gap=5
-  ryšio_targeto_parinkimas: Traidenis (valdovas, XIII a.): nearest_after_predicate, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_support_local_target". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Traidenis (valdovas, XIII a.)" parinktas kaip nearest_after_predicate aplink predikatą "reme". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žiemgaliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Traidenis rėmė žiemgalius.
     - t-021
 
 - c-014
@@ -885,4 +891,12 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiemgaliai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Žiemgaliai reme [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/grupes/Lietuviai]] reme Žiemgaliai
+- Žiemgaliai uzeme [[objektai/vietos/Tervetė]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] reme Žiemgaliai
+- Žiemgaliai puole [[objektai/grupes/Kalavijuočių ordinas]]
+- Žiemgaliai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Ginklai]] priklause Žiemgaliai
+- Žiemgaliai valde [[objektai/vietos/Tervetė]]
+- Žiemgaliai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Žiemgaliai priklause [[objektai/grupes/Kryžiuočių ordinas]]

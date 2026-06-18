@@ -22,19 +22,20 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; llm_object: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Sakavičius|Andrius Sakavičius]] valdė miestą Smolenskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 827823-828221; hash=4cfba91c38483ba28a88bebc42a1646e0f192784b5befe389d82a24c88a8d58c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakavičius paliktas Smolenske vietininku, todėl ryšys su miesto valdymu yra tiesiogiai paremtas.
 
 <a id="claim-t-186033"></a>
 - t-002
@@ -44,19 +45,20 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; llm_object: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Sakavičius|Andrius Sakavičius]] kariavo prieš [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 827971-828428; hash=1179cc6871ec3edbf210f1a11a12362ff2ef73554ab1c673aa40a2e2065305fd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskiečiai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Smolenskiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskiečiai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Smolenskiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smolenskiečiai aprašyti kaip puolėjai, o Sakavičius atrėmė jų antpuolį.
 
 <a id="claim-t-186034"></a>
 - t-003
@@ -66,19 +68,20 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mstislavlis; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mstislavlis; mentioned_place: Smolenskas; llm_object: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Sakavičius|Andrius Sakavičius]] valdė miestą Smolenskas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 830129-830713; hash=b0b393a6b7d34a011da49f3855e530a4526d7cd6a7d584909b9b40d378c94abf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mstislavlis: 0.83
+  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po Smolensko pilies užėmimo Sakavičius paliktas ten vietininku.
 
 ## Reikšmingi paminėjimai
 
@@ -131,13 +134,13 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: 827823-828221; hash=4cfba91c38483ba28a88bebc42a1646e0f192784b5befe389d82a24c88a8d58c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakavičius paliktas Smolenske vietininku, todėl ryšys su miesto valdymu yra tiesiogiai paremtas.
     - t-002
 
 - c-003
@@ -166,21 +169,25 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: 827971-828428; hash=1179cc6871ec3edbf210f1a11a12362ff2ef73554ab1c673aa40a2e2065305fd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskiečiai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Smolenskiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskiečiai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Smolenskiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smolenskiečiai aprašyti kaip puolėjai, o Sakavičius atrėmė jų antpuolį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 830129-830713; hash=b0b393a6b7d34a011da49f3855e530a4526d7cd6a7d584909b9b40d378c94abf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mstislavlis: 0.83
+  ryšio_patikimumas: valde_miesta -> Smolenskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Sakavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Sakavičius" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Sakavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po Smolensko pilies užėmimo Sakavičius paliktas ten vietininku.
+
+## Ryšiai
+- Andrius Sakavičius valde_miesta [[objektai/vietos/Smolenskas]]
+- Andrius Sakavičius kariavo_pries [[objektai/grupes/Smolenskiečiai]]

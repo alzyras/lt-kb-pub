@@ -29,7 +29,8 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
   global_id: t-01389
   teiginys: '1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs, bet citata aiškiai pagrindžia sutrumpintą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Petrapilis; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Petrapilis; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba]] gyveno Rusija'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs, bet citata aiškiai pagrindžia sutrumpintą faktą.'
@@ -38,13 +39,13 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=571a7d2e34a55e86a9f4991e7478c3527694bf77b4cfc4f30344857cb1d8b368; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Tautos Taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Tautos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie Rusijoje išblaškytus lietuvius.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +65,13 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=571a7d2e34a55e86a9f4991e7478c3527694bf77b4cfc4f30344857cb1d8b368; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių Tautos Taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių Tautos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie Rusijoje išblaškytus lietuvius.
+
+## Ryšiai
+- Lietuvių Tautos Taryba (institucija) gyveno [[objektai/vietos/Rusija]]

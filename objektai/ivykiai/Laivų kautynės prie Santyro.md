@@ -41,20 +41,20 @@ Nenurodyta
   teiginys: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko glaustą kautynių aprašymą.'
-  susije_objektai: 'family: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Santyras; mentioned_place: Elbingas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Santyras; llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310754-311500; hash=d255880f343454f083a0e5f5a8cd76b5e02122f41d85f28d27842f8b36e3509b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.92
+  ryšio_patikimumas: puole -> Sventopelkas: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Konradas Bremeris: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Sventopelkas: nearest_family_person, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Konradas Bremeris" parinktas kaip nearest_actor. Targetas "Sventopelkas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Konradas užpuolė Sventopelką ir jo pajėgas, kurios citatoje įvardytos kaip 'juos'.
 
 ## Reikšmingi paminėjimai
 
@@ -94,21 +94,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310754-311500; hash=d255880f343454f083a0e5f5a8cd76b5e02122f41d85f28d27842f8b36e3509b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.92
+  ryšio_patikimumas: puole -> Sventopelkas: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Konradas Bremeris: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Sventopelkas: nearest_family_person, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Konradas Bremeris" parinktas kaip nearest_actor. Targetas "Sventopelkas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Konradas užpuolė Sventopelką ir jo pajėgas, kurios citatoje įvardytos kaip 'juos'.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310754-311500; hash=d255880f343454f083a0e5f5a8cd76b5e02122f41d85f28d27842f8b36e3509b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.92
+  ryšio_patikimumas: puole -> Sventopelkas: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Konradas Bremeris: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Sventopelkas: nearest_family_person, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Konradas Bremeris" parinktas kaip nearest_actor. Targetas "Sventopelkas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Konradas užpuolė Sventopelką ir jo pajėgas, kurios citatoje įvardytos kaip 'juos'.

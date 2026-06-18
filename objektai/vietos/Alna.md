@@ -28,7 +28,8 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   global_id: t-58515
   teiginys: '1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie 1358 m. Lietuvos reikalavimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Barta; mentioned_place: Dauguva; mentioned_place: Vokietija; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Barta; mentioned_place: Dauguva; mentioned_place: Vokietija; mentioned_place: Žiemgala; llm_object: Alna; llm_object: Prieglius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Alna'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie 1358 m. Lietuvos reikalavimus.'
@@ -56,13 +57,13 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: uzeme -> Alna: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alna: owner_note_path, place
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alna" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Alna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kalba apie kryžiuočių užgrobtas žemes iki Alnos upės; Alna žymi užimtų žemių ribą.
 - susijęs iš Plikoji Barta: Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe.
 - susijęs iš Prūsų žemė: Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.
 - susijęs iš [[objektai/zodynas/bažnytinė valstybė.md#claim-t-32762|bažnytinė valstybė]]: Vicelegatas Baldvinas de Alna 1231-1234 m. nepajėgė Livonijoje įkurti bažnytinės valstybės dėl kalavijuočių pasipriešinimo.
@@ -110,10 +111,13 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: uzeme -> Alna: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alna: owner_note_path, place
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alna" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Alna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kalba apie kryžiuočių užgrobtas žemes iki Alnos upės; Alna žymi užimtų žemių ribą.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Alna

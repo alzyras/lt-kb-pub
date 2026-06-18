@@ -31,7 +31,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   global_id: t-59969
   teiginys: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
   sudarymo_pagrindimas: 'Citata kalba apie šaltinio formuluotę, todėl tinkama nurodyti pranešimo poziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; llm_object: Kulmo žemė'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata kalba apie šaltinio formuluotę, todėl tinkama nurodyti pranešimo poziciją.'
@@ -103,13 +103,13 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Hohenlohės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Hohenlohės" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos kariuomenė dalyvavo kovoje prieš Ordiną.
 
 ## Reikšmingi paminėjimai
 
@@ -191,13 +191,13 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Hohenlohės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Hohenlohės" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos kariuomenė dalyvavo kovoje prieš Ordiną.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da451e511d4f354fb7d8489e88c87d51aac0a092d3548a7361daab41244bcf2a; match=fallback; occurrences=0

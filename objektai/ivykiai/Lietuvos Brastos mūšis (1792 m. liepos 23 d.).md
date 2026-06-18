@@ -44,8 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-66681
   teiginys: '1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]'
   temporaliniai_duomenys: 'mūšio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -64,8 +63,7 @@ Nenurodyta
   global_id: t-66683
   teiginys: 'Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.'
   sudarymo_pagrindimas: 'Citata pateikia vertinimą, todėl reikia aiškios atribucijos ir trumpesnio sakinio.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -92,21 +90,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 599688-600112; hash=cb9021085a1893700251d38e943950bb3118fc98d39253d9589fedb1cb87404d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Lietuvos Brastos mūšis (1792 m. liepos 23 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Rusai: participant_match, group, gap=16
-  ryšio_targeto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): event_owner_or_first_target, event, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Rusai" parinktas kaip participant_match. Targetas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66686"></a>
 - t-006
   global_id: t-66686
   teiginys: 'Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio pradžią ir remiasi citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kazokai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako mūšio pradžią ir remiasi citata.'
@@ -115,20 +112,19 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9688db96f70fcb808faca23e0a2a40d4d9aa6d5f8238d3933b634ee4dcc37e54; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Lietuvos Brastos mūšis (1792 m. liepos 23 d.): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: participant_match, group, gap=17
-  ryšio_targeto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): event_owner_or_first_target, event, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Lietuvos kariuomenė" parinktas kaip participant_match. Targetas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66687"></a>
 - t-007
   global_id: t-66687
   teiginys: 'Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -208,13 +204,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9688db96f70fcb808faca23e0a2a40d4d9aa6d5f8238d3933b634ee4dcc37e54; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Lietuvos Brastos mūšis (1792 m. liepos 23 d.): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: participant_match, group, gap=17
-  ryšio_targeto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): event_owner_or_first_target, event, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Lietuvos kariuomenė" parinktas kaip participant_match. Targetas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-004
@@ -234,13 +230,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 599688-600112; hash=cb9021085a1893700251d38e943950bb3118fc98d39253d9589fedb1cb87404d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Lietuvos Brastos mūšis (1792 m. liepos 23 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Rusai: participant_match, group, gap=16
-  ryšio_targeto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): event_owner_or_first_target, event, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Rusai" parinktas kaip participant_match. Targetas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c54df342a49f8682c5414c8a37b534fe4a883c47194967f19da9e6ded142b90; match=fallback; occurrences=0
@@ -252,9 +248,3 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Lietuvos Brastos mūšis (1792 m. liepos 23 d.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brastos mūšis (1792 m. liepos 23 d.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)
-- [[objektai/grupes/Kazokai]] dalyvavo_musyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)
-- [[objektai/grupes/Rusai]] dalyvavo_musyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)

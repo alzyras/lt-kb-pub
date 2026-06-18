@@ -35,20 +35,21 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Diunamiundė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Įsigijimas tiesiogiai rodo, kad Diunamiundės pilis tapo Teutonų ordino brolių nuosavybe.
 
 <a id="claim-t-58539"></a>
 - t-002
   global_id: t-58539
   teiginys: '1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
+  semantiniai_rysiai: 'Diunamiundė priklausė [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1305 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą.'
@@ -69,6 +70,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 - susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
 - susijęs iš Prūsijos žemės kronika (iki 1450 m.): „Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.
 - susijęs iš Sembos kanauninko rinkinys: Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.
+- susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -115,10 +117,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Diunamiundė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Įsigijimas tiesiogiai rodo, kad Diunamiundės pilis tapo Teutonų ordino brolių nuosavybe.
+
+## Ryšiai
+- Diunamiundė priklause [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Teutonai]] uzeme Diunamiundė

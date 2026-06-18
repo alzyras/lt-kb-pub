@@ -30,7 +30,8 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   global_id: t-34796
   teiginys: '1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu apie asmenį.'
-  susije_objektai: 'mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Lvovas; mentioned_place: Vilnius; llm_object: Konstancija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas (Breslavo vyskupas)|Jonas (Breslavo vyskupas)]] keliavo į Konstancija'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas paverstas pilnu sakiniu apie asmenį.'
@@ -39,13 +40,13 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumas: keliavo_i -> Konstancija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas (Breslavo vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas (Breslavo vyskupas)" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas (Breslavo vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jonas įvardytas delegacijos, siųstos į Konstanciją, nariu.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +65,13 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumas: keliavo_i -> Konstancija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas (Breslavo vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas (Breslavo vyskupas)" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas (Breslavo vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jonas įvardytas delegacijos, siųstos į Konstanciją, nariu.
+
+## Ryšiai
+- Jonas (Breslavo vyskupas) keliavo_i [[objektai/vietos/Konstancija]]

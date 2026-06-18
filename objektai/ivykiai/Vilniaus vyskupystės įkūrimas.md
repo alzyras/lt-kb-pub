@@ -108,19 +108,19 @@ Nenurodyta
   global_id: t-176181
   teiginys: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą popiežiaus pavedimą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Urbonas VI|Urbonas VI]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Urbonas VI|Urbonas VI]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Viena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 261389-261928; hash=42adfec87fde88f4c82003d26de72c80dbcc671f83b9947d464d59e6338e8ba1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupystės įkūrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupystės įkūrimas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Dobrogostas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Urbonas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Popiežiaus įgaliojimas Dobrogostui tiesiogiai atitinka paskyrimo santykį.
 
 ## Reikšmingi paminėjimai
 
@@ -190,13 +190,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 261389-261928; hash=42adfec87fde88f4c82003d26de72c80dbcc671f83b9947d464d59e6338e8ba1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus vyskupystės įkūrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vyskupystės įkūrimas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Dobrogostas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Urbonas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Popiežiaus įgaliojimas Dobrogostui tiesiogiai atitinka paskyrimo santykį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259303-259743; hash=39db514a5f146bcf46fbf11c509f6b93348e328cbc07b55ee8957f6b9dc2ac99; match=exact

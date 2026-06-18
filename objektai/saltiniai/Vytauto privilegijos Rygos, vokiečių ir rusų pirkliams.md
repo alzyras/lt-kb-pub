@@ -24,19 +24,19 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
   global_id: t-88505
   teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja privilegijas su Vytauto prekybos globa.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305768-306491; hash=b741caecdb1d67a9a6b3492d0360e6c8931c1958ed093177b05d559192eadaeb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Privilegijos rusų pirkliams siejamos su prekyba Vilniuje, todėl ryšys pagrįstas, bet pirklių grupė apibendrinta iki rusų.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +64,10 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305768-306491; hash=b741caecdb1d67a9a6b3492d0360e6c8931c1958ed093177b05d559192eadaeb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Privilegijos rusų pirkliams siejamos su prekyba Vilniuje, todėl ryšys pagrįstas, bet pirklių grupė apibendrinta iki rusų.

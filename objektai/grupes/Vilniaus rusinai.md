@@ -24,19 +24,20 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
   global_id: t-86775
   teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos aiškiai paremta faktinė mintis.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus rusinai|Vilniaus rusinai]] gyveno Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus rusinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus rusinai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus rusinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusinai apibūdinami kaip didesnioji Vilniaus miestiečių dalis, todėl tiesiogiai siejami su gyvenimu Vilniuje.
 - susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
 ## Reikšmingi paminėjimai
 
@@ -70,10 +71,13 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus rusinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus rusinai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus rusinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusinai apibūdinami kaip didesnioji Vilniaus miestiečių dalis, todėl tiesiogiai siejami su gyvenimu Vilniuje.
+
+## Ryšiai
+- Vilniaus rusinai gyveno [[objektai/vietos/Vilnius]]

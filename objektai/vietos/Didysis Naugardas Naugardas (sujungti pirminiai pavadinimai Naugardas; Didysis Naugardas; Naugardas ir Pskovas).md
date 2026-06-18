@@ -40,13 +40,13 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85877"></a>
 - t-002
@@ -151,8 +151,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   global_id: t-85882
   teiginys: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'owner: Hamburgas; mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
-  semantiniai_rysiai: 'Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -389,13 +388,13 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -505,6 +504,3 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   ryšio_subjekto_parinkimas: Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Hamburgas]]

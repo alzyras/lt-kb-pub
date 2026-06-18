@@ -43,7 +43,7 @@ Pilis sudeginta ir liko apleista.
 - t-001
   global_id: t-97014
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: Bisenė; mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -73,13 +73,13 @@ Pilis sudeginta ir liko apleista.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b6c5c1d9fd70e006b9a584c20fcc09e66d5453099b9c6a22648575ee4cf8884; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenos sunaikinimas (1316 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenos sunaikinimas (1316 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas tiesiogiai minimas kaip vykęs link Bisenės pilies.
 
 ## Reikšmingi paminėjimai
 
@@ -116,13 +116,13 @@ Pilis sudeginta ir liko apleista.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b6c5c1d9fd70e006b9a584c20fcc09e66d5453099b9c6a22648575ee4cf8884; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenos sunaikinimas (1316 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenos sunaikinimas (1316 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas tiesiogiai minimas kaip vykęs link Bisenės pilies.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3726163a3775e4f34c36eca0b163da171a118f335afed18bbd379a17d772cfdf; match=fallback; occurrences=0

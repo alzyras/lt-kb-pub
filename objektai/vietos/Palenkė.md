@@ -73,49 +73,51 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 767039-767296; hash=dd30557c9f98659b7534dadeda33e0c896fe0e43be51827d8a2b9dc2ac58aacf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumas: valde -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gardinas kartu su Palenke minimas kaip Vytautui gautina valda.
 
 <a id="claim-t-112047"></a>
 - t-005
   global_id: t-112047
   teiginys: 'Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.'
-  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Melnikas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Melnikas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė; llm_object: Melnikas; llm_object: Palenkė'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilys|Pilys]] priklausė Palenkė'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=543dff4565e3907d2f7b42b5aa32a03b221ff26df8b8de720fe0402efe8acace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Palenkė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Palenkės sritys tiesiogiai įvardytos kaip Kęstučio dalis.
 
 <a id="claim-t-112048"></a>
 - t-006
   global_id: t-112048
   teiginys: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Trakai; llm_object: Gardinas; llm_object: Palenkė'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Palenkė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumas: priklause -> Melnikas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Melnikas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Melnikas pateiktas kaip vieta Palenkėje, kur imta statyti pilis.
 
 <a id="claim-t-112050"></a>
 - t-007
@@ -142,7 +144,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   global_id: t-112051
   teiginys: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   sudarymo_pagrindimas: 'Pradinį teiginį reikėjo išplėsti, pakeičiant įvardį aiškiu asmenvardžiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Braclavas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Braclavas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Trakai; llm_object: Gardinas; llm_object: Trakai; llm_object: Palenkė'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė Palenkė'
   pagrindžia:
     - c-008
 
@@ -159,7 +162,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - t-010
   global_id: t-112054
   teiginys: 'Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Palenkė; llm_object: Trakai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė Palenkė'
   pagrindžia:
     - c-003
 
@@ -222,7 +226,8 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   global_id: t-112059
   teiginys: 'Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas faktas apie Palenkę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Gardinas; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Palenkė; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Gardinas; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Palenkė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -285,19 +290,19 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR klaida, faktas suformuluotas aiškiu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Plockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Plockas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Gardinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Gardinas įvardytas kaip Kęstučio paveldėta valda.
 
 <a id="claim-t-185080"></a>
 - t-019
@@ -338,15 +343,18 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=543dff4565e3907d2f7b42b5aa32a03b221ff26df8b8de720fe0402efe8acace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90070|Vladislovas Lokietka]]: 1323 m. pabaigoje ar 1324 m. pradžioje Gedimino Lietuva, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę arba Palenkę.
+  ryšio_patikimumas: valde_teritorija -> Palenkė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai sako, kad Palenkės sritys priklausė Kęstučio daliai.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Jurgis Nosuta.md#claim-t-186224|Jurgis Nosuta]]: Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.
+- susijęs iš Branskas: Branskas buvo Palenkės miestas, 1971 m. leidimo komentare priskirtas Lenkijos Balstogės vaivadijai.
+- susijęs iš [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.).md#claim-t-185663|Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]: Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Jurgis Nosuta.md#claim-t-186224|Jurgis Nosuta]]: Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų.
 - susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-183841|Karolis Tryrietis]]: Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę.
@@ -370,6 +378,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - susijęs iš Melnikas: Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.
 - susijęs iš Polesė: Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.
 - susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
+- susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185987|Jonušas (Mazovijos kunigaikštis)]]: Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
@@ -422,6 +431,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 - susijęs iš [[objektai/zodynas/kovojanti bažnyčia.md#claim-t-58937|kovojanti bažnyčia]]: Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
+- susijęs iš Melnikas: Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.
+- susijęs iš [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.).md#claim-t-28867|Trakų paliaubos (1379 m. rugsėjo 29 d.)]]: 1379 m. rugsėjo 29 d. Trakuose Kęstutis ir Jogaila su kryžiuočiais sudarė dešimties metų paliaubas dėl Palenkės ir Gardino žemės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -467,13 +479,13 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumas: priklause -> Melnikas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Melnikas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Melnikas pateiktas kaip vieta Palenkėje, kur imta statyti pilis.
     - t-010
     - t-015
 
@@ -504,13 +516,13 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 767039-767296; hash=dd30557c9f98659b7534dadeda33e0c896fe0e43be51827d8a2b9dc2ac58aacf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumas: valde -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gardinas kartu su Palenke minimas kaip Vytautui gautina valda.
     - t-002
 
 - c-005
@@ -559,13 +571,13 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=543dff4565e3907d2f7b42b5aa32a03b221ff26df8b8de720fe0402efe8acace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Palenkė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Palenkės sritys tiesiogiai įvardytos kaip Kęstučio dalis.
     - t-011
 
 - c-007
@@ -778,13 +790,13 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Gardinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Gardinas įvardytas kaip Kęstučio paveldėta valda.
     - t-019
 
 - c-015
@@ -822,14 +834,25 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=543dff4565e3907d2f7b42b5aa32a03b221ff26df8b8de720fe0402efe8acace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palenkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palenkė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Palenkė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai sako, kad Palenkės sritys priklausė Kęstučio daliai.
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas Lokietka]] uzeme Palenkė
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] puole Palenkė
 - [[objektai/asmenys/Jurgis Nosuta]] uzeme Palenkė
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde Palenkė
+- [[objektai/vietos/Branskas]] priklause Palenkė
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Palenkė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Palenkė
+- [[objektai/asmenys/Petras Goštautas]] keliavo_i Palenkė
+- Palenkė priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Palenkė
+- [[objektai/grupes/Mazovijos kunigaikščiai]] uzeme Palenkė
+- [[objektai/vietos/Melnikas]] priklause Palenkė
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Palenkė
+- [[objektai/daiktai/Pilys]] priklause Palenkė

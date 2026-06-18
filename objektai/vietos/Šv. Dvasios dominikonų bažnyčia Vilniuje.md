@@ -36,20 +36,20 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios dominikonų bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios dominikonų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aleksandras pakvietė dominikonus vykti į Vilnių; dominikonų kandidato nėra.
 
 <a id="claim-t-86278"></a>
 - t-002
   global_id: t-86278
   teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   sudarymo_pagrindimas: 'Nutrūkęs OCR fragmentas pakeistas tiksliu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Nutrūkęs OCR fragmentas pakeistas tiksliu faktiniu sakiniu.'
@@ -120,10 +120,10 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios dominikonų bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios dominikonų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aleksandras pakvietė dominikonus vykti į Vilnių; dominikonų kandidato nėra.

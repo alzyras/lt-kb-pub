@@ -34,7 +34,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173225
   teiginys: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jogailos veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; llm_object: Trakai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] užėmė Vilnius; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] užėmė Trakai'
   pagrindžia:
     - c-019
 
@@ -68,13 +69,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 56936-57581; hash=15ca41475c00ed1b299cc12b93867ec9f42848ddbf0ffb589fe63115deb79333; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paneriai: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Paneriai: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Paneriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodomas Jogailos valdymo laikas Lietuvos kontekste.
 
 <a id="claim-t-173228"></a>
 - t-004
@@ -90,20 +91,21 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 94361-95184; hash=03a9c61c3ef409abde32a969efb1b766a8052ff72818a5482878fc888ce77578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.90
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): nearest_family_person, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila tiesiogiai įvardytas Algirdo sūnumi.
 
 <a id="claim-t-173229"></a>
 - t-005
   global_id: t-173229
   teiginys: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata.'
@@ -112,13 +114,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95423-96071; hash=c714bad0f2cf637eb357f261bb1039e14c0e925e3f14c49fb433457ac5ff5e0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila siekė nusikratyti Kęstučiu, todėl tekstas tiesiogiai rodo politinį priešiškumą.
 
 <a id="claim-t-173232"></a>
 - t-006
@@ -131,32 +133,32 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Slaptas sandėris turėjo palengvinti Kęstučio valdų puolimą, todėl Jogaila čia siejamas su priešiškumu Kęstučiui.
 
 <a id="claim-t-173235"></a>
 - t-007
   global_id: t-173235
   teiginys: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kijevas; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
   pagrindžia:
     - c-020
   irodymo_stiprumas: 0.00
   saltinio_vieta: 103595-103956; hash=f690e700ed43ea8608653f29230801694e98db191875394d7dc02dd9d8145d9c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: uzeme -> Trakai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Jogailos sprendimą užimti Trakus, nors tai dar tik ketinimas.
 
 <a id="claim-t-173236"></a>
 - t-008
@@ -169,13 +171,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 112375-113334; hash=af9a54ec5b593d878bd1e5bde48600a5ae87ca0c11fc4494f670547c9aee616e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kryžiuočiai įvardyti kaip Lietuvos priešai Jogailos politinių užmojų kontekste.
 
 <a id="claim-t-173237"></a>
 - t-009
@@ -239,45 +241,48 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173240
   teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: 248181-248822; hash=11966fb8a51028e6aa41ebd9a2b4125d40c01e68760b69c3fba3d09c26db6ae6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Merkinė: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Merkinė: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Merkinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila kaip valdovas suteikė Vilniui Magdeburgo teises.
 
 <a id="claim-t-173241"></a>
 - t-013
   global_id: t-173241
   teiginys: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: 251135-251768; hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Skirgaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila tiesiogiai paskyrė Skirgailą savo vietininku.
 
 <a id="claim-t-173242"></a>
 - t-014
   global_id: t-173242
   teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.'
   sudarymo_pagrindimas: 'Citata leidžia papildyti svarbiu konkrečiu Vaidilos veiksmu, išlaikant faktinį pagrindą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia papildyti svarbiu konkrečiu Vaidilos veiksmu, išlaikant faktinį pagrindą.'
@@ -286,20 +291,21 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 253367-253995; hash=8aeeae0013a42a785f118991b7fce285ee3ffbea09a820fff293230daa82b7ca; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Lietuvos valdymo grąžinimas priklausė Jogailos sprendimui.
 
 <a id="claim-t-173243"></a>
 - t-015
   global_id: t-173243
   teiginys: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: Lietuva; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Lietuva; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -318,7 +324,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173244
   teiginys: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko privilegijos faktą; pašalintas lotyniškas fragmentas.'
-  susije_objektai: 'mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko privilegijos faktą; pašalintas lotyniškas fragmentas.'
@@ -327,20 +334,21 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 284073-284740; hash=1735418339289db1b33a9f2018400ad5ff1afa4763c7cfbbb0ef47c836e5f3a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (Lenkijos karalius, 1382 m.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (Lenkijos karalius, 1382 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vladislovas Jogaila parvyko į Vilnių.
 
 <a id="claim-t-173245"></a>
 - t-017
   global_id: t-173245
   teiginys: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą apie Jogailos veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -365,13 +373,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 285087-285646; hash=4a4683fba5d00664557936cbfba79c3025f1229905f2c39124902f1b551bc539; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paneriai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paneriai perduoti Vilniaus kapitulai paveldėjimo teise, todėl galima fiksuoti priklausymo ryšį.
 
 <a id="claim-t-173247"></a>
 - t-019
@@ -387,7 +395,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173248
   teiginys: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   sudarymo_pagrindimas: 'Citata pagrindžia valdovo aktą, kuriuo Vilniui suteiktos Magdeburgo teisės.'
-  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: Merkinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė miestą Vilnius; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Merkinė'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -406,32 +415,34 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173249
   teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie Jogailą.'
-  susije_objektai: 'family: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   pagrindžia:
     - c-022
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Jogailos aukščiausiąją valdžią Lietuvoje, nors konkrečiai kalbama apie jos patikėjimą Vytautui.
 
 <a id="claim-t-173250"></a>
 - t-022
   global_id: t-173250
   teiginys: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
   sudarymo_pagrindimas: 'Teiginys nurodo laiką, veikėją ir veiksmą pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys nurodo laiką, veikėją ir veiksmą pagal citatą.'
   pagrindžia:
     - c-003
+- susijęs iš Lietuva: Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176635|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
 - susijęs iš [[objektai/grupes/Lenkų didžponiai.md#claim-t-86801|Lenkų didžponiai]]: Lenkų didžponių patarimu Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -526,13 +537,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Slaptas sandėris turėjo palengvinti Kęstučio valdų puolimą, todėl Jogaila čia siejamas su priešiškumu Kęstučiui.
     - t-015
 
 - c-003
@@ -612,13 +623,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 112375-113334; hash=af9a54ec5b593d878bd1e5bde48600a5ae87ca0c11fc4494f670547c9aee616e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kryžiuočiai įvardyti kaip Lietuvos priešai Jogailos politinių užmojų kontekste.
     - t-019
 
 - c-006
@@ -699,13 +710,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 94361-95184; hash=03a9c61c3ef409abde32a969efb1b766a8052ff72818a5482878fc888ce77578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.90
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): nearest_family_person, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila tiesiogiai įvardytas Algirdo sūnumi.
     - t-002
 
 - c-009
@@ -813,13 +824,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 284073-284740; hash=1735418339289db1b33a9f2018400ad5ff1afa4763c7cfbbb0ef47c836e5f3a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (Lenkijos karalius, 1382 m.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (Lenkijos karalius, 1382 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vladislovas Jogaila parvyko į Vilnių.
     - t-013
 
 - c-012
@@ -843,13 +854,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 251135-251768; hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Skirgaila: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila tiesiogiai paskyrė Skirgailą savo vietininku.
     - t-005
 
 - c-013
@@ -876,13 +887,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95423-96071; hash=c714bad0f2cf637eb357f261bb1039e14c0e925e3f14c49fb433457ac5ff5e0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogaila siekė nusikratyti Kęstučiu, todėl tekstas tiesiogiai rodo politinį priešiškumą.
     - t-009
 
 - c-014
@@ -933,13 +944,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 56936-57581; hash=15ca41475c00ed1b299cc12b93867ec9f42848ddbf0ffb589fe63115deb79333; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paneriai: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Paneriai: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Paneriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodomas Jogailos valdymo laikas Lietuvos kontekste.
     - t-018
 
 - c-016
@@ -970,13 +981,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 285087-285646; hash=4a4683fba5d00664557936cbfba79c3025f1229905f2c39124902f1b551bc539; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paneriai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paneriai perduoti Vilniaus kapitulai paveldėjimo teise, todėl galima fiksuoti priklausymo ryšį.
     - t-020
 
 - c-017
@@ -1061,13 +1072,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 248181-248822; hash=11966fb8a51028e6aa41ebd9a2b4125d40c01e68760b69c3fba3d09c26db6ae6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Merkinė: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Merkinė: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Merkinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila kaip valdovas suteikė Vilniui Magdeburgo teises.
     - t-001
 
 - c-020
@@ -1114,13 +1125,13 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 103595-103956; hash=f690e700ed43ea8608653f29230801694e98db191875394d7dc02dd9d8145d9c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: uzeme -> Trakai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Jogailos sprendimą užimti Trakus, nors tai dar tik ketinimas.
     - t-014
 
 - c-022
@@ -1158,24 +1169,36 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 253367-253995; hash=8aeeae0013a42a785f118991b7fce285ee3ffbea09a820fff293230daa82b7ca; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Lietuvos valdymo grąžinimas priklausė Jogailos sprendimui.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini Jogailos aukščiausiąją valdžią Lietuvoje, nors konkrečiai kalbama apie jos patikėjimą Vytautui.
 
 ## Ryšiai
 - Vladislovas Jogaila buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Vladislovas Jogaila paskyre [[objektai/asmenys/Skirgaila]]
+- Vladislovas Jogaila valde [[objektai/vietos/Lietuva]]
+- Vladislovas Jogaila keliavo_i [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila keliavo_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Skirgaila]] buvo_brolis Vladislovas Jogaila
+- Vladislovas Jogaila buvo_priesas [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Vladislovas Jogaila buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Vladislovas Jogaila pastate [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila valde_miesta [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila uzeme [[objektai/vietos/Trakai]]
+- Vladislovas Jogaila uzeme [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila keliavo_i [[objektai/vietos/Merkinė]]

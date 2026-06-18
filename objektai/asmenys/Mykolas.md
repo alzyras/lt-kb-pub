@@ -34,7 +34,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   ryšio_subjekto_parinkimas: Mykolas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184752|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
 - susijęs iš [[objektai/asmenys/Mykolas (Kijevo vyskupas).md#claim-t-87921|Mykolas (Kijevo vyskupas)]]: 1386 m. Kijevo vyskupas Mykolas kartu su Plocko vyskupu Stanislovu pašventino Šv. Jono bažnyčią.
 - susijęs iš [[objektai/asmenys/Mykolas (Kujavijos vyskupas).md#claim-t-60390|Mykolas (Kujavijos vyskupas)]]: Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
@@ -87,6 +86,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - susijęs iš Trakai: Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184752|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -136,6 +136,16 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Mykolas vede [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_sunus Mykolas
+- Mykolas buvo_sunus [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Mykolas puole [[objektai/grupes/Totoriai]]
+- Mykolas keliavo_i [[objektai/vietos/Mazovija]]
 - Mykolas buvo_sunus [[objektai/asmenys/Žygimantas]]
+- Mykolas kariavo_pries [[objektai/asmenys/Švitrigaila]]
+- Mykolas puole [[objektai/vietos/Severskas]]
+- Mykolas dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- Mykolas mire [[objektai/vietos/Maskva]]
+- Mykolas uzeme [[objektai/vietos/Serpeiskas]]
+- Mykolas uzeme [[objektai/vietos/Starodubas]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]] kariavo_pries Mykolas
+- Mykolas kariavo_pries [[objektai/grupes/Livonijos ordinas]]
+- Mykolas gyveno [[objektai/vietos/Kijevas]]

@@ -46,7 +46,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-001
   global_id: t-180202
   teiginys: '1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -76,7 +76,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180204
   teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Dorpatas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Livonija; llm_object: Dorpatas; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Dorpatas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Livonija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -94,7 +95,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-004
   global_id: t-180206
   teiginys: '1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Ryga'
+  semantiniai_rysiai: 'Livonija priklausė [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 1629 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -102,20 +104,21 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=67ad2a792885b3b9c11ab677e208685c0b32763b93d5f968d9975bdcc8c4e871; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuoknesė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuoknesė: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kuoknesė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Chodkevičiaus grįžimą į Livoniją.
 
 <a id="claim-t-180208"></a>
 - t-005
   global_id: t-180208
   teiginys: '1621–1629 m. švedai užėmė ATR pavaldžios Livonijos kunigaikštystės teritoriją.'
   sudarymo_pagrindimas: 'Iš žemėlapio legendos galima pagrįsti trumpą faktinį teiginį, pašalinus OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1621-1629; įvykio data: 1629 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš žemėlapio legendos galima pagrįsti trumpą faktinį teiginį, pašalinus OCR triukšmą.'
@@ -124,20 +127,20 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c69aacba657f924433d41d65c597bec986f2a808f1a9d63387f74d5e75c85a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Rusija: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švedai: nearest_actor, group, gap=7
-  ryšio_targeto_parinkimas: Rusija: nearest_after_predicate, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švedai" parinktas kaip nearest_actor. Targetas "Rusija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Livonija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad švedai užėmė didelę Livonijos dalį.
 
 <a id="claim-t-180209"></a>
 - t-006
   global_id: t-180209
   teiginys: 'Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir mini Livonijos miestus.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Maskva; llm_object: Naugardas'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -237,7 +240,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180217
   teiginys: 'Didžiausioji Livonijos dalis teko Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pakartoja citatos faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai'
+  semantiniai_rysiai: 'Livonija priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1561 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pakartoja citatos faktą.'
@@ -273,7 +277,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180221
   teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Livonija; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Livonija'
   pagrindžia:
     - c-016
 
@@ -288,13 +293,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo lietuvių kasmet rengiamus žygius į Lenkiją.
 
 <a id="claim-t-180224"></a>
 - t-019
@@ -332,7 +337,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180226
   teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, vietą, laiką ir veiksmą.'
-  susije_objektai: 'mentioned_place: Kuoknesė; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Livonija; mentioned_place: Kuoknesė; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga; llm_object: Kuoknesė; llm_object: Viljandis'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] keliavo į Livonija'
   temporaliniai_duomenys: 'įvykio data: 1608 m.; įvykio data: 1609 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, vietą, laiką ir veiksmą.'
@@ -398,7 +404,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180234
   teiginys: 'Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir reikia pilno savarankiško sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Prūsai; llm_object: Livonija; llm_object: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1370 m.; įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaiškus įvardis ir reikia pilno savarankiško sakinio.'
@@ -419,13 +426,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Ordino puolimą prieš Lietuvą.
 
 <a id="claim-t-180236"></a>
 - t-029
@@ -454,7 +461,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180237
   teiginys: 'Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Švitrigailos veiksmą.'
-  susije_objektai: 'mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-038
   irodymo_stiprumas: 0.00
@@ -510,7 +517,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180247
   teiginys: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Švitrigailos veiksmą.'
-  susije_objektai: 'mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-038
 
@@ -519,7 +526,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180248
   teiginys: 'Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.'
   sudarymo_pagrindimas: 'Aktyvesnė formuluotė aiškiau perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-007
 
@@ -548,26 +555,28 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180251
   teiginys: 'Gedimino misija popiežiaus prašė į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; llm_object: Lietuva; llm_object: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] siuntė į Livonija'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=957cc755dfb89a4cb2064594336dde9f2d3ae39791e3af64118d434fe63b3790; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rykai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rykai: mention_match, thing, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Rykai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių patekimas iš Livonijos į Vilnių rodo prekybinį ryšį, nors žodis „prekiavo“ nevartojamas tiesiogiai.
 
 <a id="claim-t-180252"></a>
 - t-041
   global_id: t-180252
   teiginys: '1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija.'
-  susije_objektai: 'territory: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija.'
@@ -588,7 +597,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-042
   global_id: t-180253
   teiginys: 'Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; llm_object: Vilnius'
+  semantiniai_rysiai: 'Livonija prekiavo su Vilnius'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -626,7 +636,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180257
   teiginys: 'Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus pradžios žodis ir sukonkretintas kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Livonija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Livonija'
   temporaliniai_duomenys: 'įvykio data: po 1183 m.; įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus pradžios žodis ir sukonkretintas kontekstas.'
@@ -635,13 +646,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad lietuvių pulkas įsiveržė į Livoniją.
 
 <a id="claim-t-180258"></a>
 - t-045
@@ -667,7 +678,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-046
   global_id: t-180259
   teiginys: 'Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Naugardas'
   pagrindžia:
     - c-024
 
@@ -676,19 +687,20 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180260
   teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Livonija; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Livonija'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje minima Vilniaus pilies apsuptis, po kurios kryžiuočiai atsitraukė.
 
 <a id="claim-t-180261"></a>
 - t-048
@@ -701,39 +713,41 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cituojama, kad Vilniaus prekyba plėtojosi su Naugardu.
 
 <a id="claim-t-180262"></a>
 - t-049
   global_id: t-180262
   teiginys: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos fragmentu apie Livoniją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] užkariavo Livonija'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai siejamas su Vitebsko puolimu.
 
 <a id="claim-t-180264"></a>
 - t-050
   global_id: t-180264
   teiginys: 'Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsai; llm_object: Livonija; llm_object: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Livonija'
   temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, aiškus ir tiesiogiai pagrįstas citata.'
@@ -751,13 +765,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: reme -> Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kryžiuočių galybė pateikiama kaip Švitrigailos atrama siekiant valdžios.
 
 <a id="claim-t-180269"></a>
 - t-053
@@ -776,7 +790,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180270
   teiginys: '1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą faktą.'
-  susije_objektai: 'territory: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Podolė; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Podolė; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą faktą.'
@@ -824,7 +839,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180275
   teiginys: '1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas šaltinio sakiniu.'
-  susije_objektai: 'territory: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Podolė; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Podolė; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas šaltinio sakiniu.'
@@ -833,13 +849,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eece85ba309cbe6db892c7dd8ff729a227824ba4a9d29d6e2df0f14007e773a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Durbė: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Durbė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Durbės pilies sudeginimas yra tiesioginis žemaičių puolimo veiksmas.
 
 <a id="claim-t-180276"></a>
 - t-059
@@ -852,13 +868,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77585cd7f87c22a918f4f043bdf932639bbaa2c1fa82ebafe7f1a4fc3e8287eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Rusija: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švedai: nearest_actor, group, gap=7
-  ryšio_targeto_parinkimas: Rusija: nearest_after_predicate, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švedai" parinktas kaip nearest_actor. Targetas "Rusija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad švedai užėmė didelę Livonijos dalį.
 
 <a id="claim-t-180277"></a>
 - t-060
@@ -871,13 +887,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0f00730c6c3f02689569a287ffb9c1655d0d38508019242ef945adb14793bfd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina švedų užimtą Livonijos teritoriją.
 
 <a id="claim-t-180278"></a>
 - t-061
@@ -889,20 +905,20 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3a816bb088b4e1979a148bdd885a9a473d115f62c419de40f1f09b94e639da55; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas II: 0.83
+  ryšio_patikimumas: puole -> Švedai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas II: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Augustas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas rodo Augusto II karinį ketinimą veikti prieš švedus Livonijoje.
 
 <a id="claim-t-180279"></a>
 - t-062
   global_id: t-180279
   teiginys: 'Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.'
   sudarymo_pagrindimas: 'Pašalintas įžanginis vertinimo fragmentas ir sutvarkyta sakinio forma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Durbė; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Durbė; mentioned_place: Kuršas; llm_object: Durbė; llm_object: Kuršas'
   temporaliniai_duomenys: 'įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas įžanginis vertinimo fragmentas ir sutvarkyta sakinio forma.'
@@ -927,19 +943,20 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio paraštės triukšmas ir aiškiai įvardyti veiksmai Livonijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas; llm_object: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Kuršiai|Kuršiai]] puolė Livonija'
   pagrindžia:
     - c-051
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pulkas tiesiogiai įsiveržė į Livoniją.
 
 <a id="claim-t-185022"></a>
 - t-065
@@ -958,13 +975,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gedimino misija prašė atsiųsti tikėjimo mokytojus ir į Lietuvą.
 
 <a id="claim-t-185023"></a>
 - t-066
@@ -996,19 +1013,19 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citatoje nurodytais įvykiais.'
-  susije_objektai: 'territory: Daugpilis; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-054
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje minima Vilniaus pilies apsuptis, susieta su kryžiuočių atsitraukimu.
 
 <a id="claim-t-185025"></a>
 - t-068
@@ -1024,13 +1041,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Vilniaus prekybos ryšį su Maskva.
 
 <a id="claim-t-185027"></a>
 - t-069
@@ -1046,13 +1063,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai siejamas su Vitebsko puolimu.
 
 <a id="claim-t-185028"></a>
 - t-070
@@ -1084,23 +1101,70 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia sprendimą dėl Livonijos sąjungos ir globos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis; llm_object: Lietuva'
+  semantiniai_rysiai: 'Livonija priklausė Lietuva'
   pagrindžia:
     - c-058
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: reme -> Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gerlachas Rudasis.md#claim-t-60289|Gerlachas Rudasis]]: Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.
-- susijęs iš Pskovas: Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
-- susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kryžiuočių galybė pateikiama kaip Švitrigailos atrama.
+- susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
+- susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102852|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102853|Dusburgas]]: Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.
+- susijęs iš Karkuso pilis (pilis, XIII a.): Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
+- susijęs iš Dorpatas: Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.
+- susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184574|Maskvėnai]]: Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186401|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176816|Vytenis]]: Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-183949|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62885|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
+- susijęs iš Rusijos kariuomenė užgrobtoje Livonijoje: „Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.
+- susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
+- susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
+- susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186402|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186403|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.
+- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Cesys: Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje.
+- susijęs iš Prūsija: Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
+- susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
+- susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185549|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
+- susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89815|Hermanas Balkas]]: 1237 m. didysis magistras Hermanas pasiuntė Prūsijos magistrą Hermaną Balką su broliais ir ginklanešiais į Livoniją.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113911|Mindaugas (valdovas, XIII a.)]]: Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184515|Kuršiai]]: Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.
+- susijęs iš Lenkija: Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.
+- susijęs iš Prūsija: Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų.
+- susijęs iš Rezeknės regionas: 1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.
+- susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
+- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62815|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: 1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją.
+- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
+- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
+- susijęs iš Mežuotnės pilis (pilis): 1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.
+- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Prūsija: Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius.
+- susijęs iš Viljandis: Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
+- susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30206|Andrius Polockietis]]: 1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78945|Augustas II]]: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
@@ -1479,6 +1543,11 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169921|luomas]]: Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.
 - susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 - susijęs iš [[objektai/zodynas/vėliavininkas.md#claim-t-185416|vėliavininkas]]: Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184574|Maskvėnai]]: Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184593|Žemaičiai]]: Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.
+- susijęs iš Pernava: Pernava nurodyta kaip viena iš Livonijos pilių.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56962|Abelis]]: Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56963|Abelis]]: 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56964|Abelis]]: Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
@@ -2283,6 +2352,28 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - susijęs iš [[objektai/zodynas/Šlėktų laisvė.md#claim-t-55277|Šlėktų laisvė]]: Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus.
 - susijęs iš [[objektai/zodynas/Šlėktų laisvė.md#claim-t-82138|Šlėktų laisvė]]: Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija suvažiavimais klojo būsimos šlėktų laisvės pamatus.
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
+- susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
+- susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184572|Maskvėnai]]: Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.
+- susijęs iš [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.).md#claim-t-05293|Gedimino prekybinė sutartis su Livonija (1338 m.)]]: 1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš Dorpatas: Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.
+- susijęs iš Naugardas: Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.
+- susijęs iš Ronneburgas: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175542|Kalavijuočių ordinas]]: Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos.
+- susijęs iš [[objektai/ivykiai/Mindaugo žygis į Livonijos Ordino žemes.md#claim-t-35868|Mindaugo žygis į Livonijos Ordino žemes]]: 1244 m., pasak eiliuotosios Livonijos kronikos, Mindaugas su 30 000 lietuvių nuniokojo Livonijos ordino žemes.
+- susijęs iš Naugardas: Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
+- susijęs iš Kuršas: 1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+- susijęs iš Prūsija: Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius.
+- susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
+- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185649|Treniotos žygis į Mazoviją (1264 m.)]]: Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185650|Treniotos žygis į Mazoviją (1264 m.)]]: Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184568|Kalavijuočių ordinas]]: Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.
+- susijęs iš Lietuva: Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -2401,13 +2492,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0f00730c6c3f02689569a287ffb9c1655d0d38508019242ef945adb14793bfd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina švedų užimtą Livonijos teritoriją.
     - t-044
 
 - c-006
@@ -2428,24 +2519,24 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad lietuvių pulkas įsiveržė į Livoniją.
     - t-031
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c69aacba657f924433d41d65c597bec986f2a808f1a9d63387f74d5e75c85a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Rusija: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švedai: nearest_actor, group, gap=7
-  ryšio_targeto_parinkimas: Rusija: nearest_after_predicate, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švedai" parinktas kaip nearest_actor. Targetas "Rusija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Livonija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad švedai užėmė didelę Livonijos dalį.
     - t-008
 
 - c-007
@@ -2608,24 +2699,24 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eece85ba309cbe6db892c7dd8ff729a227824ba4a9d29d6e2df0f14007e773a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Durbė: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Durbė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Durbės pilies sudeginimas yra tiesioginis žemaičių puolimo veiksmas.
     - t-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo lietuvių kasmet rengiamus žygius į Lenkiją.
     - t-040
 
 - c-013
@@ -2646,13 +2737,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=957cc755dfb89a4cb2064594336dde9f2d3ae39791e3af64118d434fe63b3790; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rykai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rykai: mention_match, thing, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Rykai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prekių patekimas iš Livonijos į Vilnių rodo prekybinį ryšį, nors žodis „prekiavo“ nevartojamas tiesiogiai.
     - t-002
 
 - c-014
@@ -2730,13 +2821,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje minima Vilniaus pilies apsuptis, po kurios kryžiuočiai atsitraukė.
     - t-017
 
 - c-017
@@ -2780,13 +2871,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c69aacba657f924433d41d65c597bec986f2a808f1a9d63387f74d5e75c85a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Rusija: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švedai: nearest_actor, group, gap=7
-  ryšio_targeto_parinkimas: Rusija: nearest_after_predicate, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švedai" parinktas kaip nearest_actor. Targetas "Rusija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Livonija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad švedai užėmė didelę Livonijos dalį.
     - t-015
     - t-023
   irodymo_stiprumas: 0.00
@@ -2832,13 +2923,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Ordino puolimą prieš Lietuvą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1a8bc81c221cf6fda94f8597653b7d3b61911ca637f8ef713dde1007a7aa62f; match=fallback; occurrences=0
@@ -2891,13 +2982,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cituojama, kad Vilniaus prekyba plėtojosi su Naugardu.
     - t-034
 
 - c-023
@@ -2986,13 +3077,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=67ad2a792885b3b9c11ab677e208685c0b32763b93d5f968d9975bdcc8c4e871; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuoknesė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuoknesė: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kuoknesė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Chodkevičiaus grįžimą į Livoniją.
     - t-059
 
 - c-027
@@ -3027,13 +3118,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77585cd7f87c22a918f4f043bdf932639bbaa2c1fa82ebafe7f1a4fc3e8287eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Rusija: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švedai: nearest_actor, group, gap=7
-  ryšio_targeto_parinkimas: Rusija: nearest_after_predicate, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švedai" parinktas kaip nearest_actor. Targetas "Rusija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad švedai užėmė didelę Livonijos dalį.
     - t-033
 
 - c-028
@@ -3099,13 +3190,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai siejamas su Vitebsko puolimu.
     - t-007
 
 - c-032
@@ -3150,13 +3241,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: reme -> Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kryžiuočių galybė pateikiama kaip Švitrigailos atrama siekiant valdžios.
     - t-014
 
 - c-034
@@ -3342,13 +3433,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3a816bb088b4e1979a148bdd885a9a473d115f62c419de40f1f09b94e639da55; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas II: 0.83
+  ryšio_patikimumas: puole -> Švedai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas II: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Augustas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas rodo Augusto II karinį ketinimą veikti prieš švedus Livonijoje.
     - t-013
 
 - c-041
@@ -3644,13 +3735,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pulkas tiesiogiai įsiveržė į Livoniją.
     - t-065
 
 - c-053
@@ -3677,13 +3768,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gedimino misija prašė atsiųsti tikėjimo mokytojus ir į Lietuvą.
     - t-066
 
 - c-054
@@ -3744,13 +3835,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje minima Vilniaus pilies apsuptis, susieta su kryžiuočių atsitraukimu.
     - t-068
 
 - c-056
@@ -3778,13 +3869,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Vilniaus prekybos ryšį su Maskva.
     - t-069
 
 - c-057
@@ -3813,13 +3904,13 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai siejamas su Vitebsko puolimu.
     - t-070
 
 - c-058
@@ -3864,15 +3955,66 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: reme -> Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kryžiuočių galybė pateikiama kaip Švitrigailos atrama.
 
 ## Ryšiai
-- [[objektai/asmenys/Gerlachas Rudasis]] keliavo_i Livonija
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Livonija
+- [[objektai/grupes/Lietuviai]] puole Livonija
+- [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]] priklause Livonija
+- [[objektai/asmenys/Vytenis]] surenge_zygi_i Livonija
+- [[objektai/asmenys/Ivanas]] puole Livonija
+- Livonija priklause [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Maskvos kariuomenė]] uzeme Livonija
+- [[objektai/grupes/Maskvėnai]] uzeme Livonija
+- [[objektai/grupes/Švedai]] uzeme Livonija
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]] keliavo_i Livonija
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Livonija
+- [[objektai/asmenys/Gotfridas Hohenlohė]] siunte_i Livonija
+- [[objektai/grupes/Rusijos kariuomenė]] uzeme Livonija
+- [[objektai/asmenys/Vytenis]] keliavo_i Livonija
+- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]] keliavo_i Livonija
+- [[objektai/asmenys/Jonas Karolis Katkevičius]] keliavo_i Livonija
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]] siunte_i Livonija
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Livonija
+- [[objektai/grupes/Lietuvos luomai]] gyne Livonija
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] surenge_zygi_i Livonija
+- [[objektai/vietos/Vilnius]] prekiavo_su Livonija
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] keliavo_i Livonija
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Livonija
+- [[objektai/grupes/Kuršiai]] puole Livonija
+- [[objektai/grupes/Lietuviai]] prekiavo_su Livonija
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Livonija
+- [[objektai/vietos/Rezeknės regionas]] priklause Livonija
+- Livonija priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Augustas]] keliavo_i Livonija
+- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]] keliavo_i Livonija
+- [[objektai/grupes/Dobrynės broliai]] gyveno Livonija
+- [[objektai/vietos/Dorpatas]] priklause Livonija
+- Livonija priklause [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Viljandis]] priklause Livonija
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] gyne Livonija
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Livonija
+- [[objektai/grupes/Maskvėnai]] surenge_zygi_i Livonija
+- [[objektai/vietos/Pernava]] priklause Livonija
+- [[objektai/grupes/Vokiečiai]] uzkariavo Livonija
+- [[objektai/grupes/Žemaičiai]] puole Livonija
+- [[objektai/asmenys/Augustas]] surenge_zygi_i Livonija
+- [[objektai/asmenys/Augustas]] valde Livonija
+- [[objektai/asmenys/Gediminas]] prekiavo_su Livonija
+- Livonija priklause [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Ronneburgas]] priklause Livonija
+- [[objektai/grupes/Teutonai]] gyveno Livonija
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] keliavo_i Livonija
+- [[objektai/asmenys/Bertoldas Briuhavenas]] keliavo_i Livonija
+- [[objektai/vietos/Lietuva]] prekiavo_su Livonija
+- [[objektai/asmenys/Treniota]] puole Livonija
+- [[objektai/asmenys/Gediminas]] siunte_i Livonija
+- Livonija prekiavo_su [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Livonija
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Livonija
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Livonija

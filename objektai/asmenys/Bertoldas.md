@@ -24,19 +24,20 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   global_id: t-87485
   teiginys: 'Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste.'
   sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina Bertoldo paėmimą ir nužudymą, o sakinys sutvarkytas be OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Ryga; mentioned_place: Ryga; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas|Bertoldas]] mirė Ryga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 195715-196018; hash=670d395501ecf26c18b99020504a03ac687732d7d96e34b48cdab465374ef973; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ryga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ryga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas" parinktas kaip owner_note_path. Targetas "Ryga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Ryga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Bertoldas buvo nužudytas Rygos mieste.
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
 - susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
@@ -73,10 +74,17 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   irodymo_stiprumas: 0.00
   saltinio_vieta: 195715-196018; hash=670d395501ecf26c18b99020504a03ac687732d7d96e34b48cdab465374ef973; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ryga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ryga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas" parinktas kaip owner_note_path. Targetas "Ryga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Ryga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Bertoldas buvo nužudytas Rygos mieste.
+
+## Ryšiai
+- Bertoldas mire [[objektai/vietos/Ryga]]
+- Bertoldas puole [[objektai/vietos/Medraba]]
+- Bertoldas valde [[objektai/vietos/Ragainė]]
+- Bertoldas uzeme [[objektai/vietos/Medraba]]
+- Bertoldas puole [[objektai/vietos/Junigeda]]

@@ -38,13 +38,13 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 569004-571232; hash=ce0934da1b79c5eb37e1d8a38c045bf071bd818e0e4e9cfd52c0a1eda49dd7f6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Volanas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: disidentai reformatai reformatoriai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Andrius Volanas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "disidentai reformatai reformatoriai" parinktas kaip owner_note_path. Targetas "Andrius Volanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Volanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sieja Andriaus Volano veiklą su Vilniumi, nors tai labiau veiklos vieta nei gyvenamoji vieta.
 
 <a id="claim-t-86464"></a>
 - t-002
@@ -70,7 +70,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   global_id: t-86465
   teiginys: 'Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Volano vaidmenį tarp reformatų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vendrichovskis|Vendrichovskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vendrichovskis|Vendrichovskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1557 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Volano vaidmenį tarp reformatų.'
@@ -138,13 +138,13 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 569004-571232; hash=ce0934da1b79c5eb37e1d8a38c045bf071bd818e0e4e9cfd52c0a1eda49dd7f6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Volanas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: disidentai reformatai reformatoriai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Andrius Volanas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "disidentai reformatai reformatoriai" parinktas kaip owner_note_path. Targetas "Andrius Volanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Volanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sieja Andriaus Volano veiklą su Vilniumi, nors tai labiau veiklos vieta nei gyvenamoji vieta.
     - t-002
 
 - c-003

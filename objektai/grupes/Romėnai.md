@@ -42,6 +42,8 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   ryšio_subjekto_parinkimas: Romėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Aisčiai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romėnai" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184602|Vėliavos]]: Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187454|Palemonas]]: Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.
 - susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92960|Herbai]]: Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.
@@ -94,3 +96,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   ryšio_subjekto_parinkimas: Romėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Aisčiai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romėnai" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Langobardai]] sudare_sutarti_su Romėnai
+- [[objektai/grupes/Herulai]] buvo_sajungininkas_su Romėnai

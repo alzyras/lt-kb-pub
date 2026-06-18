@@ -109,7 +109,7 @@ amziai:
   global_id: t-71847
   teiginys: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, išnaša ir perteiktas citata pagrįstas veiksmas.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Nemunas; llm_object: Marienburgas'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas, išnaša ir perteiktas citata pagrįstas veiksmas.'
@@ -118,14 +118,19 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 767470-767712; hash=3eb14abf60bc22fd8ecc0d86ddb429f60ed515e46912beb9bc6520298928d2bc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumas: puole -> Marienburgas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajerburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Marienburgo sudeginimas rodo karinį puolimą prieš šią vietą.
+- susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
+- susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
+- susijęs iš Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams: Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178890|Kryžiuočių ordinas]]: 1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
@@ -145,6 +150,7 @@ amziai:
 - susijęs iš Marienburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.
 - susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Panemunė: Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176373|Gediminas]]: Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.
@@ -183,6 +189,16 @@ amziai:
 - susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86458|Feodalinis ir leninis valdymas]]: Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176364|Gediminas]]: Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.
+- susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas.md#claim-t-66565|Jogailos ir Vytauto susitaikinimas]]: Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.
+- susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
+- susijęs iš Bajerburgas Raudonė: Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.
+- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
+- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
+- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -238,13 +254,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 767470-767712; hash=3eb14abf60bc22fd8ecc0d86ddb429f60ed515e46912beb9bc6520298928d2bc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumas: puole -> Marienburgas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajerburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Marienburgo sudeginimas rodo karinį puolimą prieš šią vietą.
     - t-003
 
 - c-003
@@ -285,4 +301,12 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas Duseneris]] keliavo_i Bajerburgas
+- [[objektai/asmenys/Gediminas]] mire Bajerburgas
+- [[objektai/asmenys/Gediminas]] apgule Bajerburgas
+- [[objektai/asmenys/Gediminas]] puole Bajerburgas
+- [[objektai/asmenys/Gediminas]] surenge_zygi_i Bajerburgas
+- [[objektai/asmenys/Gediminas]] keliavo_i Bajerburgas
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Bajerburgas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Bajerburgas
+- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] pastate Bajerburgas
+- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Bajerburgas

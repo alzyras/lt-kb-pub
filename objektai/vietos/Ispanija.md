@@ -34,7 +34,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   global_id: t-90458
   teiginys: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkusi šaltinio nuoroda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Afrika'
+  susije_objektai: 'llm_object: Ispanija; llm_object: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Afrika'
+  semantiniai_rysiai: '[[objektai/grupes/Saracėnai|Saracėnai]] užkariavo Ispanija'
   temporaliniai_duomenys: 'įvykio data: 1266 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštė ir nutrūkusi šaltinio nuoroda.'
@@ -105,7 +106,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   global_id: t-90463
   teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Maljorka; mentioned_place: Menorka; mentioned_place: Aragonas'
+  susije_objektai: 'llm_object: Maljorka; llm_object: Menorka; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Maljorka; mentioned_place: Menorka; mentioned_place: Aragonas'
   temporaliniai_duomenys: 'įvykio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata.'
@@ -134,20 +135,21 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697326-697516; hash=440d9860729bd22d1dd958286a8ae0ba452716711a61a87382d257ee4f2efc28; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maljorka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maljorka: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Maljorka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maljorka: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad šios salos anksčiau buvo užimtos saracėnų.
 
 <a id="claim-t-90465"></a>
 - t-007
   global_id: t-90465
   teiginys: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu.'
-  susije_objektai: 'mentioned_place: Toledas; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]'
+  susije_objektai: 'llm_object: Ispanija; mentioned_place: Toledas; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]'
+  semantiniai_rysiai: 'Toledas priklausė Ispanija'
   temporaliniai_duomenys: 'įvykio data: 1232 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu.'
@@ -156,13 +158,13 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 698095-698487; hash=bc0572056f7f71d01f740b7caa41f1dc2b9e5ab4df9bef6adb91d2d08c018aeb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Toledas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Toledas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Toledas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ispanija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Toledas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ispanija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Toledas tiesiogiai lokalizuotas Ispanijoje.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
 - susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
@@ -246,13 +248,13 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697326-697516; hash=440d9860729bd22d1dd958286a8ae0ba452716711a61a87382d257ee4f2efc28; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maljorka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maljorka: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Maljorka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Maljorka: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad šios salos anksčiau buvo užimtos saracėnų.
     - t-002
 
 - c-003
@@ -348,13 +350,16 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   irodymo_stiprumas: 0.00
   saltinio_vieta: 698095-698487; hash=bc0572056f7f71d01f740b7caa41f1dc2b9e5ab4df9bef6adb91d2d08c018aeb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Toledas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Toledas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Toledas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ispanija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Toledas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ispanija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Toledas tiesiogiai lokalizuotas Ispanijoje.
 
 ## Ryšiai
 - [[objektai/asmenys/Almimolinas]] keliavo_i Ispanija
+- [[objektai/grupes/Saracėnai]] uzkariavo Ispanija
+- [[objektai/asmenys/Almimolinas]] surenge_zygi_i Ispanija
+- [[objektai/vietos/Toledas]] priklause Ispanija

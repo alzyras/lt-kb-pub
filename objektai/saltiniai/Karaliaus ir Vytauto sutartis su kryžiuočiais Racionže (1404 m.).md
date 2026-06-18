@@ -28,19 +28,19 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti veikėjus su Racionžo sutarties objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Racionžas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Racionžas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 633123-633491; hash=e13e5455675e7a7eba16cf5cd7379089c727f7e74cf31c3c641607b8cca17866; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo, kad Vytautas dalyvavo Racionže vykusiame abiejų šalių taikos svarstyme su kryžiuočiais.
 
 <a id="claim-t-186317"></a>
 - t-002
@@ -113,13 +113,13 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 633123-633491; hash=e13e5455675e7a7eba16cf5cd7379089c727f7e74cf31c3c641607b8cca17866; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo, kad Vytautas dalyvavo Racionže vykusiame abiejų šalių taikos svarstyme su kryžiuočiais.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 633778-634491; hash=5db456673ec8ba0fb2cae25dee8fa2ac7acc95db8de0ff3da6148cdb42c3ed95; match=exact

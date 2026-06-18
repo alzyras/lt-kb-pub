@@ -67,3 +67,6 @@ Kutlubugas sultanas buvo vienas iš trijų kunigaikščių, vedusių į tris dal
   ryšio_subjekto_parinkimas: Kutlubugas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Chadžibėjus Girėjus: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kutlubugas" parinktas kaip owner_note_path. Targetas "Chadžibėjus Girėjus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Kutlubugas valde [[objektai/vietos/Krymas]]

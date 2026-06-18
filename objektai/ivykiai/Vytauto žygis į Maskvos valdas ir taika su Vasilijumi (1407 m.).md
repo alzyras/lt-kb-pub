@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškiai įvardija veikėją, vietą, veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Smolenskas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 641600-642378; hash=e518016b0b080981b8b14da24e6697d606f8ebe4d43e272709efc2edf4b91f01; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Švitrigaila su kariuomene užkirto kelią Vytautui, todėl santykis yra priešiškas.
 
 <a id="claim-t-185669"></a>
 - t-002
@@ -135,13 +135,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 641600-642378; hash=e518016b0b080981b8b14da24e6697d606f8ebe4d43e272709efc2edf4b91f01; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Švitrigaila su kariuomene užkirto kelią Vytautui, todėl santykis yra priešiškas.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 642986-643558; hash=5e985268dbf4a49c7b935bbfa8d358061eb9ef566e7b5b5e23ae3da080fe525a; match=exact

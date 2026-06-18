@@ -47,19 +47,19 @@ Nenurodyta
   teiginys: 'Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Tripolis'
+  susije_objektai: 'llm_object: Tripolis; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Tripolis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 720781-721146; hash=cfe3905a4c108b140d4f2196f740cd37cbaefaa49c0df13592fb7b558c503a51; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tripolio miesto sugriovimas (1288 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tripolio miesto sugriovimas (1288 m.)" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Tripolis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tripolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad krikščionys gyveno Tripolyje.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 720781-721146; hash=cfe3905a4c108b140d4f2196f740cd37cbaefaa49c0df13592fb7b558c503a51; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tripolio miesto sugriovimas (1288 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tripolio miesto sugriovimas (1288 m.)" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Tripolis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tripolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad krikščionys gyveno Tripolyje.

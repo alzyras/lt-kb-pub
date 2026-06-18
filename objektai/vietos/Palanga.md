@@ -42,7 +42,8 @@ amziai:
   global_id: t-182510
   teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie pajūrį nuo Palangos ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija; llm_object: Lietuva'
+  semantiniai_rysiai: 'Palanga priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -54,19 +55,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate; citata pagrindžia veiksmą ir motyvą apie Palangą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Livonija; llm_object: Palanga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Palanga'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cb9f020a66b1ad7548bd9532cfde0eb5a509452276fa5ccca98855e57164f6e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palanga" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Palanga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Lietuvai atiteko pajūris nuo Palangos; tai remia Palangos pajūrio priklausymą Lietuvai.
 
 <a id="claim-t-187630"></a>
 - t-005
@@ -76,19 +78,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia šaltinio atribucijos prie polemiško konflikto ir priešo vaizdavimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188841-189342; hash=1e1ef53a073b494bde8bfc378fa9adee5fc5e9bc86cbf14adecc3326723ae7d1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liepoja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liepoja: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palanga" parinktas kaip owner_note_path. Targetas "Liepoja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius.
+- susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176319|Birutė]]: Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.
 - susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179561|O. Halecki]]: O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
@@ -144,6 +147,10 @@ amziai:
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
 - susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45859|tuteišiai]]: Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais.
+- susijęs iš Lietuva: Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.
+- susijęs iš Švedija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
+- susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179561|O. Halecki]]: O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176319|Birutė]]: Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -232,21 +239,29 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cb9f020a66b1ad7548bd9532cfde0eb5a509452276fa5ccca98855e57164f6e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palanga" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Palanga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Lietuvai atiteko pajūris nuo Palangos; tai remia Palangos pajūrio priklausymą Lietuvai.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188841-189342; hash=1e1ef53a073b494bde8bfc378fa9adee5fc5e9bc86cbf14adecc3326723ae7d1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liepoja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palanga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liepoja: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palanga" parinktas kaip owner_note_path. Targetas "Liepoja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius.
+
+## Ryšiai
+- Palanga priklause [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Birutės kalnas]] priklause Palanga
+- [[objektai/grupes/Švedai]] puole Palanga
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Palanga
+- [[objektai/asmenys/Birutė]] gyveno Palanga
+- [[objektai/grupes/Lietuviai]] gyne Palanga

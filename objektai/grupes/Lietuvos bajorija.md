@@ -62,7 +62,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   global_id: t-96709
   teiginys: 'Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos.'
   sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -89,19 +89,19 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-006
   global_id: t-96712
   teiginys: 'Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claim tiesiogiai mini bajorų paramą Vytautui.
 
 <a id="claim-t-96713"></a>
 - t-007
@@ -202,7 +202,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   global_id: t-96721
   teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalinta perteklinė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorai|Lenkijos bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorai|Lenkijos bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalinta perteklinė formuluotė.'
@@ -224,7 +224,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   global_id: t-96722
   teiginys: 'Švitrigaila be teismo užgrobdavo kai kurių bajorų turtus, todėl papiktino didžiąją Lietuvos krašto dalį.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, pašalinant vertinamąją formuluotę ir įvardijant veiksmą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Starodubas; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-011
 
@@ -239,13 +239,13 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435452-436039; hash=501dab7c5174f18e8bed30898c4fef4be0e57ed21d57f29d4adb1c0c27d081b9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_brolis -> Jogaila (Lenkijos karalius, 1382 m.): 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (Lenkijos karalius, 1382 m.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Jogaila siekia nušalinti savo brolį; kontekste tas brolis yra Švitrigaila.
 
 <a id="claim-t-96726"></a>
 - t-017
@@ -268,6 +268,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
 - susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
 - susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.
 - susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
@@ -340,13 +342,13 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claim tiesiogiai mini bajorų paramą Vytautui.
     - t-004
 
 - c-003
@@ -405,13 +407,13 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435452-436039; hash=501dab7c5174f18e8bed30898c4fef4be0e57ed21d57f29d4adb1c0c27d081b9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_brolis -> Jogaila (Lenkijos karalius, 1382 m.): 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (Lenkijos karalius, 1382 m.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Jogaila siekia nušalinti savo brolį; kontekste tas brolis yra Švitrigaila.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 560954-561529; hash=83357f2bf4c92b3c7c94d8893a6560382d4af2d6040e02a67da6fd178a217f53; match=exact
@@ -604,3 +606,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   ryšio_subjekto_parinkimas: Lietuvos bajorija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos bajorija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegos]]
+- [[objektai/daiktai/Herbai]] priklause Lietuvos bajorija
+- Lietuvos bajorija buvo_priesas [[objektai/grupes/Sapiegų kariuomenė]]
+- Lietuvos bajorija buvo_sajungininkas_su [[objektai/grupes/Lenkijos bajorija]]

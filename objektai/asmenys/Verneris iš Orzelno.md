@@ -160,8 +160,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   global_id: t-64229
   teiginys: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį; reikia pašalinti antraštę ir emocinę kronikos formuluotę.'
-  susije_objektai: 'family: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]] buvo brolis [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]] puolė [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
   temporaliniai_duomenys: 'įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų sakinį; reikia pašalinti antraštę ir emocinę kronikos formuluotę.'
@@ -204,7 +204,8 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   global_id: t-64231
   teiginys: '1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet įvestyje yra fragmentiška pabaiga ir perteklinė atribucija.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medvėgalis; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Anglija; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Medvėgalis; llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Medvėgalis; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Anglija; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]] apgulė Medvėgalis; [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1329 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet įvestyje yra fragmentiška pabaiga ir perteklinė atribucija.'
@@ -279,13 +280,13 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Medvėgalis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Verneris su pajėgomis apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181469|Petras Dusburgietis]]: Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.
 - susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
@@ -525,13 +526,13 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00cd6160844e4c13b89fa0c92096a44d6f5d5b858d2c57d48363ae876bd0a6f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jonas iš Endorfo: 0.89
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=13
-  ryšio_targeto_parinkimas: Jonas iš Endorfo: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Jonas iš Endorfo" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: puole -> Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas iš Endorfo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jonas iš Endorfo nužudė Vernerį.
     - t-010
 
 - c-009
@@ -670,13 +671,15 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Medvėgalis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Verneris su pajėgomis apsupo Medvėgalio pilį.
 
 ## Ryšiai
-- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) buvo_brolis [[objektai/asmenys/Jonas iš Endorfo]]
+- [[objektai/asmenys/Jonas iš Endorfo]] puole Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)
+- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) apgule [[objektai/vietos/Medvėgalis]]
+- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) surenge_zygi_i [[objektai/vietos/Lietuva]]

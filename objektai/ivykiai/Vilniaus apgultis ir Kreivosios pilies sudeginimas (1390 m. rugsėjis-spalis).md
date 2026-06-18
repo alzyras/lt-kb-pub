@@ -56,18 +56,19 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259944-260496; hash=e970e71c5c40d9e96c05d3abffb95266cbea60af9589bf343499fe6fcc5caeb8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54711"></a>
 - t-002
   global_id: t-54711
   teiginys: '1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -150,10 +151,11 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259944-260496; hash=e970e71c5c40d9e96c05d3abffb95266cbea60af9589bf343499fe6fcc5caeb8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003

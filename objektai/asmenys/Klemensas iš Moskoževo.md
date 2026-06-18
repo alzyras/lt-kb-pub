@@ -30,7 +30,7 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
   global_id: t-35189
   teiginys: 'Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.'
   sudarymo_pagrindimas: 'Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Baiga; mentioned_place: Salynas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Baiga; mentioned_place: Salynas'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas.'
@@ -39,13 +39,13 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1f94225cb61c7614c9d338eed9e1d05bb5442b50934e91bea82b967496ae08; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemensas iš Moskoževo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemensas iš Moskoževo" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė objektą į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +71,10 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1f94225cb61c7614c9d338eed9e1d05bb5442b50934e91bea82b967496ae08; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemensas iš Moskoževo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemensas iš Moskoževo" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė objektą į Vilnių.

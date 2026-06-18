@@ -30,26 +30,28 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
   global_id: t-86770
   teiginys: 'Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.'
   sudarymo_pagrindimas: 'Citata pagrindžia ankstesnę praktiką, dėl kurios leista statyti užeigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rusų pirkliai|Rusų pirkliai]] prekiavo su [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]] keliavo į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų pirkliai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rusų pirklių atvykimą į Vilnių.
 
 <a id="claim-t-86771"></a>
 - t-002
   global_id: t-86771
   teiginys: 'Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.'
   sudarymo_pagrindimas: 'Citata pagrindžia rusų pirklių pareigas Vilniuje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/grupes/Rusų pirkliai|Rusų pirkliai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia rusų pirklių pareigas Vilniuje.'
@@ -58,13 +60,13 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
   irodymo_stiprumas: 0.00
   saltinio_vieta: 469785-470387; hash=86464ae8c1abe04b384c978d772aa79bdabf10ecd5426d037c7504b2baac768e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų pirkliai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Vokiečiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusų pirkliai prekiavo su vokiečiais.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87036|Svečių namai rusų pirkliams Vilniuje]]: Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.
 - susijęs iš [[objektai/grupes/Vokiečių ir rusų pirkliai.md#claim-t-86834|Vokiečių ir rusų pirkliai]]: Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.
@@ -130,21 +132,25 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų pirkliai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rusų pirklių atvykimą į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 469785-470387; hash=86464ae8c1abe04b384c978d772aa79bdabf10ecd5426d037c7504b2baac768e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų pirkliai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Vokiečiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad rusų pirkliai prekiavo su vokiečiais.
+
+## Ryšiai
+- Rusų pirkliai prekiavo_su [[objektai/grupes/Vokiečiai]]
+- Rusų pirkliai keliavo_i [[objektai/vietos/Vilnius]]

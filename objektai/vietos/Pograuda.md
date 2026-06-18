@@ -28,7 +28,8 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   global_id: t-28246
   teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę.'
   sudarymo_pagrindimas: 'Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; llm_object: Pograuda'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pograuda'
   temporaliniai_duomenys: 'įvykio data: 1311 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas.'
@@ -37,13 +38,14 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   irodymo_stiprumas: 0.00
   saltinio_vieta: 611204-611625; hash=28f3c2d9f6a37d126d817fc793e9cae7992ec6c6eadb996fe930a30639113f8d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Pograuda: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pograuda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pograuda" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pograuda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini kryžiuočių puolimą Pograudos apylinkių kontekste.
+- susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 - susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 ## Reikšmingi paminėjimai
 
@@ -65,10 +67,13 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
   irodymo_stiprumas: 0.00
   saltinio_vieta: 611204-611625; hash=28f3c2d9f6a37d126d817fc793e9cae7992ec6c6eadb996fe930a30639113f8d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Pograuda: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pograuda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pograuda" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pograuda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini kryžiuočių puolimą Pograudos apylinkių kontekste.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Pograuda

@@ -32,7 +32,8 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   global_id: t-87477
   teiginys: '1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Goštautas|Stanislovas Goštautas]] sudarė sutartį su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; [[objektai/asmenys/Stanislovas Goštautas|Stanislovas Goštautas]] keliavo į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -41,13 +42,13 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4497fce78fef58a4b5273f04207fc5ba40281ddacf71c70d37bc64876b9454bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Goštautas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Goštautas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vasiljevičius (Maskvos valdovas): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Goštautas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Goštautas įvardytas tarp pasiuntinių, pasirašiusių taikos sutartį su caru; caru kontekste laikomas Vasiljevičius.
 
 <a id="claim-t-87479"></a>
 - t-002
@@ -128,10 +129,14 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4497fce78fef58a4b5273f04207fc5ba40281ddacf71c70d37bc64876b9454bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Goštautas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Goštautas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vasiljevičius (Maskvos valdovas): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Goštautas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Goštautas įvardytas tarp pasiuntinių, pasirašiusių taikos sutartį su caru; caru kontekste laikomas Vasiljevičius.
+
+## Ryšiai
+- Stanislovas Goštautas sudare_sutarti_su [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Stanislovas Goštautas keliavo_i [[objektai/vietos/Maskva]]

@@ -35,7 +35,7 @@ Nenurodyta
   global_id: t-09579
   teiginys: 'Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Lietuvos kariuomenės skiriamuosius ženklus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Geltonas lankelis ant kepurės|Geltonas lankelis ant kepurės]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Geltonas lankelis ant kepurės|Geltonas lankelis ant kepurės]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; llm_object: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]'
   pagrindžia:
     - c-001
 

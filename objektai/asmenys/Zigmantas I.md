@@ -44,19 +44,20 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=699086db0f78e4c952d14fe70c63969a8f67d04ab2a1ffc08b49685d2248fd37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas I: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas I" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas I: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas teigia, kad susitikimas su Zigmantu I vyko Lucko suvažiavime, todėl jo buvimas Lucke yra tiesiogiai numanomas iš citatos.
 
 <a id="claim-t-114075"></a>
 - t-002
   global_id: t-114075
   teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Bizantija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Bizantija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija; llm_object: Luckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas I|Zigmantas I]] keliavo į Luckas'
   temporaliniai_duomenys: 'įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -168,10 +169,14 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=699086db0f78e4c952d14fe70c63969a8f67d04ab2a1ffc08b49685d2248fd37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas I: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas I" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas I: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas teigia, kad susitikimas su Zigmantu I vyko Lucko suvažiavime, todėl jo buvimas Lucke yra tiesiogiai numanomas iš citatos.
+
+## Ryšiai
+- Zigmantas I reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zigmantas I keliavo_i [[objektai/vietos/Luckas]]

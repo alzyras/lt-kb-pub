@@ -85,9 +85,17 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Čekija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-005
+- susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97031|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.
+- susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176671|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.
+- susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176865|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176868|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-184296|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176671|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176865|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
@@ -141,6 +149,9 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 - susijęs iš Vilnius: Pranciškus Skorina 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104187|disidentai disidentinis judėjimas kitaminčiai]]: Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais.
 - susijęs iš [[objektai/zodynas/homo sovieticus.md#claim-t-70155|homo sovieticus]]: Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.
+- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
+- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-183828|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
+- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-87220|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -238,3 +249,12 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+- [[objektai/asmenys/Butrimas]] keliavo_i Praha
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Praha
+- [[objektai/asmenys/Jonas Basanavičius]] gyveno Praha
+- [[objektai/asmenys/Zigmantas Kaributas]] keliavo_i Praha
+- [[objektai/asmenys/Žygimantas Kaributaitis]] keliavo_i Praha
+- [[objektai/grupes/Lenkai]] keliavo_i Praha
+- [[objektai/grupes/Prancūzai]] keliavo_i Praha

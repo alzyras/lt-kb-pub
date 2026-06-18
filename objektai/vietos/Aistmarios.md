@@ -33,7 +33,8 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   global_id: t-97718
   teiginys: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
   sudarymo_pagrindimas: 'Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena; llm_object: Semba'
+  semantiniai_rysiai: 'Aistmarios priklausė Semba'
   temporaliniai_duomenys: 'įvykio data: 1267 m.; įvykio data: po 1273 m.; įvykio data: 1273 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto.'
@@ -108,3 +109,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Aistmarios priklause [[objektai/vietos/Semba]]

@@ -22,19 +22,20 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   global_id: t-32039
   teiginys: 'Pirmajame amžiuje po Kr. Vyslos žemupio gotai įsikūrė Rytprūsių plote iki Alnos upės.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aistmarios; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aistmarios; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Vysla; llm_object: Alnos upė'
+  semantiniai_rysiai: '[[objektai/grupes/Gotai|Gotai]] gyveno Alnos upė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=54c4d3d00de94967646c9d48ca050f4f56075940210e0cc1b0d8653648d98bd4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aistmarios: 0.83
+  ryšio_patikimumas: gyveno -> Alnos upė: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alnos upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aistmarios: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alnos upė" parinktas kaip owner_note_path. Targetas "Aistmarios" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Alnos upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Alnos upė nurodyta kaip gotų įsikūrimo ploto riba.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=54c4d3d00de94967646c9d48ca050f4f56075940210e0cc1b0d8653648d98bd4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aistmarios: 0.83
+  ryšio_patikimumas: gyveno -> Alnos upė: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alnos upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aistmarios: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alnos upė" parinktas kaip owner_note_path. Targetas "Aistmarios" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Alnos upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Alnos upė nurodyta kaip gotų įsikūrimo ploto riba.
+
+## Ryšiai
+- [[objektai/grupes/Gotai]] gyveno Alnos upė

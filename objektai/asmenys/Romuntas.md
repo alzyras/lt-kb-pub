@@ -22,19 +22,20 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata patvirtina glaustą faktą apie Romunto statusą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Romuntas|Romuntas]] buvo sūnus [[objektai/asmenys/Giliginas|Giliginas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giliginas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuntas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Giliginas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuntas" parinktas kaip owner_note_path. Targetas "Giliginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Giliginas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuntas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Giliginas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Romuntas buvo Giliginio sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
 ## Reikšmingi paminėjimai
 
@@ -61,10 +62,13 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giliginas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuntas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Giliginas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuntas" parinktas kaip owner_note_path. Targetas "Giliginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Giliginas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuntas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Giliginas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Romuntas buvo Giliginio sūnus.
+
+## Ryšiai
+- Romuntas buvo_sunus [[objektai/asmenys/Giliginas]]

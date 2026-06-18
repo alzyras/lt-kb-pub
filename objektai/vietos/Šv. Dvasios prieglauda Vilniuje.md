@@ -24,19 +24,20 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   global_id: t-85851
   teiginys: 'Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.'
   sudarymo_pagrindimas: 'Citata pagrindžia prieglaudos statybos pradžią ir neužbaigimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilija; mentioned_place: Vilnius; llm_object: Šv. Dvasios prieglauda Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Šv. Dvasios prieglauda Vilniuje'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741730-742589; hash=11a1467c8624633a25ceb6b6835f521fc68579e3019c8644e436c18a446406d4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83
+  ryšio_patikimumas: pastate -> Šv. Dvasios prieglauda Vilniuje: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios prieglauda Vilniuje" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ulrikas Hozijus pradėjo ir dalinai mūrijo prieglaudą, nors jos nebaigė.
 
 <a id="claim-t-85852"></a>
 - t-002
@@ -49,13 +50,13 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 745739-746433; hash=332ea9310693f00caf63a12fe5c079bf79223eb2be270370bbe5c5fddb924aff; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83
+  ryšio_patikimumas: pastate -> Šv. Dvasios prieglauda Vilniuje: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios prieglauda Vilniuje" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad Hozijus pradėjo mūryti prieglaudą.
 
 <a id="claim-t-85853"></a>
 - t-003
@@ -118,7 +119,8 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   global_id: t-85856
   teiginys: 'Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilnius; llm_object: Šv. Dvasios prieglauda Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Šv. Dvasios prieglauda Vilniuje'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -218,13 +220,13 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741730-742589; hash=11a1467c8624633a25ceb6b6835f521fc68579e3019c8644e436c18a446406d4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83
+  ryšio_patikimumas: pastate -> Šv. Dvasios prieglauda Vilniuje: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios prieglauda Vilniuje" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ulrikas Hozijus pradėjo ir dalinai mūrijo prieglaudą, nors jos nebaigė.
     - t-005
 
 - c-004
@@ -336,10 +338,13 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 745739-746433; hash=332ea9310693f00caf63a12fe5c079bf79223eb2be270370bbe5c5fddb924aff; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83
+  ryšio_patikimumas: pastate -> Šv. Dvasios prieglauda Vilniuje: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Dvasios prieglauda Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Dvasios prieglauda Vilniuje" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Dvasios prieglauda Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad Hozijus pradėjo mūryti prieglaudą.
+
+## Ryšiai
+- [[objektai/asmenys/Ulrikas Hozijus]] pastate Šv. Dvasios prieglauda Vilniuje

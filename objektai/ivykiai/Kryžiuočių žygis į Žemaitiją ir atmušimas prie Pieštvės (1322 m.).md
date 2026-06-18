@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Medininkai; mentioned_place: Nemunas; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Medininkai; mentioned_place: Nemunas; mentioned_place: Čekija; llm_object: Pieštvė'
   temporaliniai_duomenys: 'įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b552afc47706a80b1a678d65490e13ea226df09a068ac048288a298e9d55d06; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pieštvė: 0.85
+  ryšio_patikimumas: puole -> Pieštvė: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pieštvė: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)" parinktas kaip owner_note_path. Targetas "Pieštvė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pieštvė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordinas buvo atremtas prie Pieštvės pilies, todėl ryšys su puolimu prieš šią vietą yra tiesiogiai kontekstinis, bet ne maksimaliai tikslus.
 
 ## Reikšmingi paminėjimai
 
@@ -84,10 +84,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b552afc47706a80b1a678d65490e13ea226df09a068ac048288a298e9d55d06; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pieštvė: 0.85
+  ryšio_patikimumas: puole -> Pieštvė: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pieštvė: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)" parinktas kaip owner_note_path. Targetas "Pieštvė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pieštvė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordinas buvo atremtas prie Pieštvės pilies, todėl ryšys su puolimu prieš šią vietą yra tiesiogiai kontekstinis, bet ne maksimaliai tikslus.

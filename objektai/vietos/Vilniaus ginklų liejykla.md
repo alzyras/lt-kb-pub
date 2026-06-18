@@ -57,7 +57,7 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   global_id: t-55251
   teiginys: '1579 m. rengiantis žygiui į Livoniją Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -66,20 +66,20 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus ginklų liejykla" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
 
 <a id="claim-t-85131"></a>
 - t-003
   global_id: t-85131
   teiginys: '1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -88,13 +88,13 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus ginklų liejykla" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
 - susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86488|monopolis privati prekyba]]: Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.
 - susijęs iš Livonija: 1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją.
@@ -155,21 +155,24 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus ginklų liejykla" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus ginklų liejykla" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
+
+## Ryšiai
+- Vilniaus ginklų liejykla priklause [[objektai/vietos/Vilnius]]

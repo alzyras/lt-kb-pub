@@ -21,38 +21,40 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 - t-001
   global_id: t-41086
   teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Perloja'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Perloja; llm_object: Perloja'
+  semantiniai_rysiai: '[[objektai/grupes/Marcinkonių batalionas|Marcinkonių batalionas]] puolė Perloja'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perloja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Perloja: mention_match, place, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkonių batalionas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Perloja: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Marcinkonių bataliono vyrai tiesiogiai įvardyti kaip puolę Perlojos stribų įgulą.
 
 <a id="claim-t-41087"></a>
 - t-002
   global_id: t-41087
   teiginys: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nurodo bataliono veiksmą, datą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Perloja'
+  susije_objektai: 'llm_object: Perloja; mentioned_place: Perloja'
+  semantiniai_rysiai: '[[objektai/grupes/Marcinkonių batalionas|Marcinkonių batalionas]] puolė Perloja'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 954043-954599; hash=f3634b9da420f4076cb45129126878b3dc74dfe17ab498da929241ad5dbfcd24; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perloja: 0.83
+  ryšio_patikimumas: puole -> Perloja: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Perloja: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkonių batalionas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nurodyta, kad Marcinkonių bataliono vyrai Perlojoje nukovė stribus.
 
 ## Reikšmingi paminėjimai
 
@@ -98,13 +100,13 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perloja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Perloja: mention_match, place, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkonių batalionas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Perloja: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Marcinkonių bataliono vyrai tiesiogiai įvardyti kaip puolę Perlojos stribų įgulą.
     - t-002
 
 - c-003
@@ -126,21 +128,24 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   irodymo_stiprumas: 0.00
   saltinio_vieta: 954043-954599; hash=f3634b9da420f4076cb45129126878b3dc74dfe17ab498da929241ad5dbfcd24; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perloja: 0.83
+  ryšio_patikimumas: puole -> Perloja: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Perloja: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkonių batalionas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nurodyta, kad Marcinkonių bataliono vyrai Perlojoje nukovė stribus.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKVD: 0.83
+  ryšio_patikimumas: puole -> Perloja: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkonių batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: NKVD: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkonių batalionas" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marcinkonių batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Perloja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nurodyta, kad Marcinkonių bataliono vyrai Perlojoje nukovė stribus.
+
+## Ryšiai
+- Marcinkonių batalionas puole [[objektai/vietos/Perloja]]

@@ -58,7 +58,8 @@ Nenurodyta
   global_id: t-66608
   teiginys: 'Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Saremos'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Saremos'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]'
   temporaliniai_duomenys: 'įvykio data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
@@ -110,3 +111,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Karusės mūšis (1270 m. vasario 16 d.)

@@ -39,31 +39,32 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9cd7f63d46ae26b5226c11d20d2de7edb11bef21a10260afb451a1b4d4adffd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.83
+  ryšio_patikimumas: keliavo_i -> Perudžija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Perudžija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dobrogostas buvo tarp pasiuntinių pas popiežių, o citata nurodo, kad pasiuntiniai rado popiežių Perudžijoje.
 
 <a id="claim-t-82254"></a>
 - t-002
   global_id: t-82254
   teiginys: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena; llm_object: Perudžija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dobrogostas|Dobrogostas]] keliavo į Perudžija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3cd1212a1577dbc011194da100393eaf56cfaf0039e88fff331a984c88415d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Dobrogostas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Urbonas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Urbonas VI įgaliojo Dobrogostą tvarkyti bažnytinius reikalus.
 
 <a id="claim-t-82255"></a>
 - t-003
@@ -89,25 +90,27 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   global_id: t-82256
   teiginys: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą tvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Urbonas VI|Urbonas VI]]; mentioned_place: Gniezno'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Urbonas VI|Urbonas VI]]; mentioned_place: Gniezno'
+  semantiniai_rysiai: '[[objektai/asmenys/Urbonas VI|Urbonas VI]] paskyrė [[objektai/asmenys/Dobrogostas|Dobrogostas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=863b07ac0aeba3cc230c8ea15a7b2f2a1d898d55d8d6126a6ec3c9d88137ac65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Dobrogostas atvyko ir veikė Vilniuje paskelbdamas bulę.
 
 <a id="claim-t-82257"></a>
 - t-005
   global_id: t-82257
   teiginys: '1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Poznanė; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Dobrogostas|Dobrogostas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1389 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -122,6 +125,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=73
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
 - susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82773|Urbonas VI]]: Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.
 - susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82774|Urbonas VI]]: Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.
 - susijęs iš [[objektai/asmenys/Urbonas VI.md#claim-t-82775|Urbonas VI]]: Popiežius Urbonas VI išgyrė apsikrikštijusius lietuvius ir įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje.
@@ -143,6 +147,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86420|fundacija]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113627|gurguolė]]: Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis.
 - susijęs iš [[objektai/zodynas/prelatai ir kanauninkai.md#claim-t-86544|prelatai ir kanauninkai]]: Vilniaus diecezijoje keturi nauji prelatų ir aštuoni kanauninkų titulai buvo skirti lenkų kunigams.
+- susijęs iš [[objektai/zodynas/brevė.md#claim-t-34291|brevė]]: Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -199,13 +204,13 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9cd7f63d46ae26b5226c11d20d2de7edb11bef21a10260afb451a1b4d4adffd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.83
+  ryšio_patikimumas: keliavo_i -> Perudžija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Perudžija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dobrogostas buvo tarp pasiuntinių pas popiežių, o citata nurodo, kad pasiuntiniai rado popiežių Perudžijoje.
     - t-005
 
 - c-003
@@ -254,21 +259,26 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=863b07ac0aeba3cc230c8ea15a7b2f2a1d898d55d8d6126a6ec3c9d88137ac65; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Dobrogostas atvyko ir veikė Vilniuje paskelbdamas bulę.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3cd1212a1577dbc011194da100393eaf56cfaf0039e88fff331a984c88415d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrogostas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrogostas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Dobrogostas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Urbonas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrogostas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Urbonas VI įgaliojo Dobrogostą tvarkyti bažnytinius reikalus.
+
+## Ryšiai
+- [[objektai/asmenys/Urbonas VI]] paskyre Dobrogostas
+- Dobrogostas keliavo_i [[objektai/vietos/Vilnius]]
+- Dobrogostas keliavo_i [[objektai/vietos/Perudžija]]

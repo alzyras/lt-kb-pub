@@ -41,19 +41,20 @@ Nenurodyta
   global_id: t-59710
   teiginys: 'Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.'
   sudarymo_pagrindimas: 'Pradinis teiginys kalba apie kitą objektą ir turi nuorodų triukšmo, bet citata palaiko atsargų vietos teiginį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_place: Kaimas; llm_object: Baiga'
+  semantiniai_rysiai: '[[objektai/daiktai/Įtvirtintas malūnas prie Baigos|Įtvirtintas malūnas prie Baigos]] priklausė Baiga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266426-266857; hash=193b955ee95071904b9872aeefa6b892d9a6c8cf74d61aef8c72d7cf22e07d50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: priklause -> Baiga: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Įtvirtintas malūnas prie Baigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Įtvirtintas malūnas prie Baigos" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Įtvirtintas malūnas prie Baigos: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja malūną prie Baigos, todėl galima atsargiai sieti daiktą su vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -74,10 +75,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266426-266857; hash=193b955ee95071904b9872aeefa6b892d9a6c8cf74d61aef8c72d7cf22e07d50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: priklause -> Baiga: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Įtvirtintas malūnas prie Baigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Įtvirtintas malūnas prie Baigos" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Įtvirtintas malūnas prie Baigos: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja malūną prie Baigos, todėl galima atsargiai sieti daiktą su vieta.
+
+## Ryšiai
+- Įtvirtintas malūnas prie Baigos priklause [[objektai/vietos/Baiga]]

@@ -85,3 +85,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   ryšio_subjekto_parinkimas: Tartai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kuršas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tartai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Tartai priklause [[objektai/vietos/Maskva]]

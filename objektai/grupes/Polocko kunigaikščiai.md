@@ -22,19 +22,19 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nepagrįstumo vertinimas paliktas su atribucija, nes tai interpretacinis teiginys. Nepridėta platesnė rusų metraščių ir Henriko Latvio kronikos argumentacija.'
-  susije_objektai: 'mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344059-344301; hash=38df2d6584b9736b80816307ccb97cf8c6fb362ab6c3ec8ca9f491f1be8c824a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polocko kunigaikščiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polocko kunigaikščiai" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Polocko patekimą Lietuvos valdžion.
 
 ## Reikšmingi paminėjimai
 
@@ -54,10 +54,10 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344059-344301; hash=38df2d6584b9736b80816307ccb97cf8c6fb362ab6c3ec8ca9f491f1be8c824a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polocko kunigaikščiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polocko kunigaikščiai" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Polocko patekimą Lietuvos valdžion.

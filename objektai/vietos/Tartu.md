@@ -46,7 +46,8 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   global_id: t-80186
   teiginys: '1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.'
   sudarymo_pagrindimas: 'Perrašyta į tiesioginį faktą apie Tartu.'
-  susije_objektai: 'territory: Narva; mentioned_place: Livonija; mentioned_place: Narva; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Maskva; mentioned_place: Saremos; mentioned_place: Suomija'
+  susije_objektai: 'llm_object: Narva; llm_object: Tartu; mentioned_place: Livonija; mentioned_place: Narva; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Maskva; mentioned_place: Saremos; mentioned_place: Suomija'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]] užėmė Tartu'
   temporaliniai_duomenys: 'įvykio data: 1558 m.; įvykio data: 1560 m.; įvykio data: 1561 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į tiesioginį faktą apie Tartu.'
@@ -70,6 +71,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   ryšio_subjekto_parinkimas: Tartu: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Tartai: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tartu" parinktas kaip owner_note_path. Targetas "Tartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
 - susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
 - susijęs iš Talinas: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
 - susijęs iš [[objektai/grupes/Rygos miesto taryba.md#claim-t-28666|Rygos miesto taryba (institucija)]]: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
@@ -132,3 +134,6 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   ryšio_subjekto_parinkimas: Tartu: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Tartai: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tartu" parinktas kaip owner_note_path. Targetas "Tartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Maskvos kariuomenė]] uzeme Tartu

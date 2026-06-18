@@ -61,7 +61,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą žygį.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]]; mentioned_place: Baiga; mentioned_place: Prancūzija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]]; mentioned_place: Baiga; mentioned_place: Prancūzija; mentioned_place: Prūsija; llm_object: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.

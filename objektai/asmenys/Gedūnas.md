@@ -43,7 +43,8 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   global_id: t-60017
   teiginys: 'Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
   sudarymo_pagrindimas: 'Pašalinta boilerplate ir įvardžiai pakeisti aiškiu asmens vardu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Gedūnas|Gedūnas]] buvo brolis [[objektai/asmenys/Ringėlas|Ringėlas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -68,13 +69,13 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345672-346325; hash=4fda609748dd71beb6fcc9e1bd7e6f31c523ba2a6b57accffe605a13abe241cd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ringėlas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ringėlas: mention_match, person, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Ringėlas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Ringėlas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ringėlas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Ringėlą kaip Gedūno brolį.
 
 ## Reikšmingi paminėjimai
 
@@ -120,13 +121,13 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345672-346325; hash=4fda609748dd71beb6fcc9e1bd7e6f31c523ba2a6b57accffe605a13abe241cd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ringėlas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ringėlas: mention_match, person, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Ringėlas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Ringėlas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ringėlas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Ringėlą kaip Gedūno brolį.
     - t-001
 
 - c-003
@@ -196,3 +197,6 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Semba: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Gedūnas buvo_brolis [[objektai/asmenys/Ringėlas]]

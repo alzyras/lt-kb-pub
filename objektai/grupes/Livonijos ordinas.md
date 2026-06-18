@@ -67,7 +67,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-003
   global_id: t-179354
   teiginys: '1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -87,7 +87,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179357
   teiginys: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva'
   pagrindžia:
     - c-013
 
@@ -107,7 +107,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-007
   global_id: t-179359
   teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
-  susije_objektai: 'location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Semba'
   semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Semba'
   temporaliniai_duomenys: 'kelionės data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Livonijos ordinas keliavo į Semba“, o ne visam objekto laikotarpiui.'
@@ -173,7 +173,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179366
   teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
   sudarymo_pagrindimas: 'Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Livonija; mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką.'
@@ -185,7 +186,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179367
   teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Vytautą, Smolensko pulkus ir Vitebsko atgavimą.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Smolenskas; mentioned_place: Tanenbergas; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Smolenskas; mentioned_place: Tanenbergas; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie Vytautą, Smolensko pulkus ir Vitebsko atgavimą.'
@@ -254,19 +255,20 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6c49e68648e249769e9d4234ce3db0e1ad04850502d3af902d95c2b6c752c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad ordinas darė puolimus į Lietuvą.
 
 <a id="claim-t-179371"></a>
 - t-018
   global_id: t-179371
   teiginys: 'Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -293,13 +295,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje ankstesnis sakinio kontekstas nurodo kryžiuočių žygius Lietuvon, o ši frazė nurodo puolimą 1372 m.
 
 <a id="claim-t-179374"></a>
 - t-020
@@ -315,13 +317,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623aa17b55080a8d0e565448a7695f65e0ba63542b3a07711e048e45f222e902; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žygius į Lietuvą iš Livonijos, siejamus su Livonijos ordinu.
 
 <a id="claim-t-179375"></a>
 - t-021
@@ -460,7 +462,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179387
   teiginys: '1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėstas veikėjas pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išplėstas veikėjas pagal citatą.'
@@ -517,7 +520,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-032
   global_id: t-179391
   teiginys: 'Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1237 m.; įvykio data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -537,7 +541,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-033
   global_id: t-179392
   teiginys: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
-  susije_objektai: 'mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Tanenbergas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -610,7 +615,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179399
   teiginys: 'Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] puolė Vitebskas'
   pagrindžia:
     - c-048
 
@@ -619,38 +625,39 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179402
   teiginys: 'Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie Kęstutį, todėl perrašyta į citatoje pagrįstą faktą apie Livonijos magistrą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] rėmė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kryžiuočiai puolė Lietuvą.
 
 <a id="claim-t-179405"></a>
 - t-041
   global_id: t-179405
   teiginys: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie Livonijos ordino riterius.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623aa17b55080a8d0e565448a7695f65e0ba63542b3a07711e048e45f222e902; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginio kontekstas yra žygiai į Lietuvą; frazė nurodo 30 žygių iš Livonijos, siejamų su Livonijos ordinu.
 
 <a id="claim-t-179406"></a>
 - t-042
@@ -700,13 +707,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: 933677-933737; hash=528e784d32ba4c6d731d9892d977cdd30fdd0ce33954435681645acc9933f258; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Semba: 0.99
+  ryšio_patikimumas: keliavo_i -> Semba: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=29
-  ryšio_targeto_parinkimas: Semba: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Livonijos kariuomenės atvykimą į Sembą.
 
 <a id="claim-t-179410"></a>
 - t-046
@@ -725,7 +732,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179411
   teiginys: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] kariavo prieš [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   pagrindžia:
     - c-043
 
@@ -742,7 +750,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-049
   global_id: t-179413
   teiginys: '1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -771,7 +779,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179417
   teiginys: '1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta note objekto, o citata pagrindžia aiškesnį teiginį apie Livonijos ordiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Durbė; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Durbė; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta note objekto, o citata pagrindžia aiškesnį teiginį apie Livonijos ordiną.'
@@ -783,7 +792,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179420
   teiginys: 'Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.'
   sudarymo_pagrindimas: 'Esamas teiginys gramatiškai gremėzdiškas; citata leidžia suformuluoti aiškiau.'
-  susije_objektai: 'family: [[objektai/asmenys/Jonas|Jonas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas de Lovenbinkė|Jonas de Lovenbinkė]]; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dorpatas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Saremas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas de Lovenbinkė|Jonas de Lovenbinkė]]; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dorpatas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Saremas'
   pagrindžia:
     - c-015
 
@@ -792,7 +801,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179421
   teiginys: 'Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.'
   sudarymo_pagrindimas: 'Pašalinta fragmentinė pradžia ir OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-049
 
@@ -800,7 +810,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-056
   global_id: t-179422
   teiginys: 'Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] puolė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1331-1333; įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -820,7 +831,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-058
   global_id: t-179424
   teiginys: 'Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-027
 
@@ -835,20 +846,21 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Livonijos ordinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekstas sieja paliaubas su Jogailos veiksmais, nors pats sakinys pasyvus.
 
 <a id="claim-t-179428"></a>
 - t-060
   global_id: t-179428
   teiginys: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
   sudarymo_pagrindimas: 'Originalas yra per ilgas, turi išnašų ir neaiškią pradžią.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Sūduva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Sūduva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   pagrindžia:
     - c-033
 
@@ -857,19 +869,20 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179429
   teiginys: 'Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Livonijos ordino veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] puolė Lietuva'
   pagrindžia:
     - c-036
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0eefa83b704bcd76caec1b38c4fb9dce432e8a914e4d384fe818177c3b7c7f3e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jonas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Jonas de Lovenbinkė: nearest_actor, person, gap=23
-  ryšio_targeto_parinkimas: Jonas: nearest_family_person, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Jonas de Lovenbinkė" parinktas kaip nearest_actor. Targetas "Jonas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179430"></a>
 - t-062
@@ -898,7 +911,8 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179431
   teiginys: '1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
   sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet citata leidžia pridėti datą ir padaryti sakinį tikslesnį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Polockas; llm_object: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys beveik tinkamas, bet citata leidžia pridėti datą ir padaryti sakinį tikslesnį.'
@@ -907,19 +921,20 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: puole -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys sieja vokiečius su Vilniaus puolimu, nors citatoje miestas įvardijamas ankstesniame sakinyje.
 
 <a id="claim-t-179432"></a>
 - t-064
   global_id: t-179432
   teiginys: 'Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -945,13 +960,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo, kad Švitrigaila kartu su Livonijos ordino riteriais puolė Vitebską.
 
 <a id="claim-t-179435"></a>
 - t-066
@@ -990,6 +1005,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 - susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-40102|Ernestas fon Racburgas]]: Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.
 - susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
@@ -1039,6 +1055,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - susijęs iš Šiaulių žemė: 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1135,13 +1152,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6c49e68648e249769e9d4234ce3db0e1ad04850502d3af902d95c2b6c752c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad ordinas darė puolimus į Lietuvą.
     - t-051
 
 - c-006
@@ -1311,13 +1328,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Livonijos ordinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekstas sieja paliaubas su Jogailos veiksmais, nors pats sakinys pasyvus.
     - t-005
 
 - c-014
@@ -1453,13 +1470,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: 933677-933737; hash=528e784d32ba4c6d731d9892d977cdd30fdd0ce33954435681645acc9933f258; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Semba: 0.99
+  ryšio_patikimumas: keliavo_i -> Semba: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=29
-  ryšio_targeto_parinkimas: Semba: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Livonijos kariuomenės atvykimą į Sembą.
     - t-066
 
 - c-020
@@ -1537,13 +1554,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo, kad Švitrigaila kartu su Livonijos ordino riteriais puolė Vitebską.
     - t-024
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a0fb468bce720881cf13190091f6cd3897ed2009c657f49597483357fd4ce2d; match=fallback; occurrences=0
@@ -1805,13 +1822,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: puole -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys sieja vokiečius su Vilniaus puolimu, nors citatoje miestas įvardijamas ankstesniame sakinyje.
     - t-060
 
 - c-034
@@ -1832,13 +1849,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623aa17b55080a8d0e565448a7695f65e0ba63542b3a07711e048e45f222e902; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žygius į Lietuvą iš Livonijos, siejamus su Livonijos ordinu.
     - t-039
 
 - c-035
@@ -1908,13 +1925,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0eefa83b704bcd76caec1b38c4fb9dce432e8a914e4d384fe818177c3b7c7f3e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jonas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Jonas de Lovenbinkė: nearest_actor, person, gap=23
-  ryšio_targeto_parinkimas: Jonas: nearest_family_person, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Jonas de Lovenbinkė" parinktas kaip nearest_actor. Targetas "Jonas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476018-476494; hash=5c33a41d7fab77ab7974508044fd36c970dbbc5cbdc3b54fc81016f955d9d57d; match=exact
@@ -2000,13 +2017,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=623aa17b55080a8d0e565448a7695f65e0ba63542b3a07711e048e45f222e902; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginio kontekstas yra žygiai į Lietuvą; frazė nurodo 30 žygių iš Livonijos, siejamų su Livonijos ordinu.
     - t-031
 
 - c-041
@@ -2161,13 +2178,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje ankstesnis sakinio kontekstas nurodo kryžiuočių žygius Lietuvon, o ši frazė nurodo puolimą 1372 m.
     - t-008
 
 - c-047
@@ -2281,13 +2298,13 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordinas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kryžiuočiai puolė Lietuvą.
     - t-033
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=67fa3205c7d33503a2a4e040bef617e99fb15ce4aa5259b04372bfa3528ea85c; match=fallback; occurrences=0
@@ -2313,4 +2330,26 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-007
 
 ## Ryšiai
+- Livonijos ordinas puole [[objektai/vietos/Šiaurės Žemaitija]]
+- Livonijos ordinas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Livonijos ordinas puole [[objektai/vietos/Lietuva]]
+- Livonijos ordinas puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Livonijos ordinas puole [[objektai/vietos/Šiaulių žemė]]
+- Livonijos ordinas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
+- Livonijos ordinas reme [[objektai/asmenys/Švitrigaila]]
+- Livonijos ordinas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] sudare_sutarti_su Livonijos ordinas
+- Livonijos ordinas reme [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Livonijos ordinas
 - Livonijos ordinas keliavo_i [[objektai/vietos/Semba]]
+- Livonijos ordinas puole [[objektai/vietos/Vitebskas]]
+- Livonijos ordinas dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- Livonijos ordinas priklause [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- Livonijos ordinas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Švitrigaila]] buvo_sajungininkas_su Livonijos ordinas
+- Livonijos ordinas apgule [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Švitrigaila]] sudare_sutarti_su Livonijos ordinas
+- Livonijos ordinas priklause [[objektai/vietos/Lietuva]]
+- Livonijos ordinas puole [[objektai/vietos/Kulių (Jurgaičių) pilys]]
+- Livonijos ordinas reme [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Mykolas]] kariavo_pries Livonijos ordinas

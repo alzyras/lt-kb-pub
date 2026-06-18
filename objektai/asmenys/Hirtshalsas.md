@@ -36,6 +36,7 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
   ryšio_subjekto_parinkimas: Hirtshalsas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hirtshalsas" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-59251|Susirėmimas Pokarviuose (1261 m.)]]: Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175188|Herkus Mantas]]: Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175201|Herkus Mantas]]: Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.
 - susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-59251|Susirėmimas Pokarviuose (1261 m.)]]: Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.
@@ -68,3 +69,6 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
   ryšio_subjekto_parinkimas: Hirtshalsas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hirtshalsas" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Notangai]] paskyre Hirtshalsas

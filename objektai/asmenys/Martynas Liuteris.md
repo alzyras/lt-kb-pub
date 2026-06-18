@@ -30,7 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-82553
   teiginys: 'Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Cvinglis|Cvinglis]]; llm_object: [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]] rėmė [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]'
   temporaliniai_duomenys: 'įvykio data: 1557 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -50,13 +51,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e23d8f2dcd723181766ef5400683bdd8cce437f63e38f9dfdbc4fd519b1996d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cvinglis: 0.85
+  ryšio_patikimumas: reme -> Cvinglis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas Liuteris: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Cvinglis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas Liuteris" parinktas kaip owner_note_path. Targetas "Cvinglis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Cvinglis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Palaikytas mokslas tiesiogiai siejamas ir su Cvingliu.
 - susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
 ## Reikšmingi paminėjimai
 
@@ -92,11 +93,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e23d8f2dcd723181766ef5400683bdd8cce437f63e38f9dfdbc4fd519b1996d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cvinglis: 0.85
+  ryšio_patikimumas: reme -> Cvinglis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas Liuteris: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Cvinglis: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas Liuteris" parinktas kaip owner_note_path. Targetas "Cvinglis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Cvinglis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Palaikytas mokslas tiesiogiai siejamas ir su Cvingliu.
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]] reme Martynas Liuteris

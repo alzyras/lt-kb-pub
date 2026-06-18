@@ -132,3 +132,6 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   ryšio_subjekto_parinkimas: Ignas Onacevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=72
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ignas Onacevičius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ignas Onacevičius keliavo_i [[objektai/vietos/Karaliaučius]]

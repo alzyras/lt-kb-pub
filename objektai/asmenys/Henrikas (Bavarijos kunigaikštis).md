@@ -32,7 +32,8 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   global_id: t-87684
   teiginys: 'Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko vaidmenį statant pilį ir jo žygius.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona; llm_object: Bajerburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)|Henrikas (Bavarijos kunigaikštis)]] pastatė Bajerburgas'
   temporaliniai_duomenys: 'pastatymo data: 1337 m.; pastatymo data: apie 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Henriko vaidmenį statant pilį ir jo žygius.'
@@ -41,13 +42,13 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 225605-226086; hash=757fefaa46ffd879ec52c3010e2d3f42be6d09559da8ff5473330c7cfd8c8143; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas (Bavarijos kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Bavarijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Bajerburgas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pilis pastatyta Ordino pavedimu, todėl Ordinui priskirtinas statybos iniciavimo santykis.
 
 ## Reikšmingi paminėjimai
 
@@ -73,10 +74,13 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 225605-226086; hash=757fefaa46ffd879ec52c3010e2d3f42be6d09559da8ff5473330c7cfd8c8143; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas (Bavarijos kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Bavarijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Bajerburgas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pilis pastatyta Ordino pavedimu, todėl Ordinui priskirtinas statybos iniciavimo santykis.
+
+## Ryšiai
+- Henrikas (Bavarijos kunigaikštis) pastate [[objektai/vietos/Bajerburgas]]

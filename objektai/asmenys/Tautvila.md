@@ -24,21 +24,21 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   global_id: t-87601
   teiginys: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; family: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvila|Tautvila]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvila|Tautvila]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Tautvila|Tautvila]] mirė Vilnius; [[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0758cf72689abc4d1afd8576d38adb53a90c6cc3501facfba9e957c4ef353c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
+  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Tautvila: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Pinskas: candidate; Prūsija: candidate; Rusia: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Tautvila" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Pinskas.md", "selected": false, "strategy": "candidate", "title": "Pinskas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rusia.md", "selected": false, "strategy": "candidate", "title": "Rusia", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tautvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Tautvila buvo Kęstučio sūnus.
+- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121171|Tautvilas]]: Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
@@ -95,15 +95,17 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0758cf72689abc4d1afd8576d38adb53a90c6cc3501facfba9e957c4ef353c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
+  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Tautvila: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Pinskas: candidate; Prūsija: candidate; Rusia: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Tautvila" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Pinskas.md", "selected": false, "strategy": "candidate", "title": "Pinskas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rusia.md", "selected": false, "strategy": "candidate", "title": "Rusia", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tautvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Tautvila buvo Kęstučio sūnus.
 
 ## Ryšiai
-- Tautvila buvo_valdovas [[objektai/vietos/Lietuva]]
 - Tautvila buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Tautvila mire [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Rusai]] reme Tautvila
+- [[objektai/grupes/Poloviečiai]] reme Tautvila
+- Tautvila buvo_valdovas [[objektai/vietos/Lietuva]]

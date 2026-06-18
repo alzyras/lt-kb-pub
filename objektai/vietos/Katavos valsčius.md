@@ -38,20 +38,21 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auktuolyčiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auktuolyčiai: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katavos valsčius" parinktas kaip owner_note_path. Targetas "Auktuolyčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Katavos valsčius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Katavą kaip Nadruvos valsčių.
 
 <a id="claim-t-58569"></a>
 - t-002
   global_id: t-58569
   teiginys: 'Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą apie Katavos valsčių.'
-  susije_objektai: 'mentioned_place: Auktuolyčiai; mentioned_place: Nadruva; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Nadruva; mentioned_place: Auktuolyčiai; mentioned_place: Nadruva; mentioned_place: Pilėnai'
+  semantiniai_rysiai: 'Katavos valsčius priklausė Nadruva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -110,13 +111,13 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auktuolyčiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katavos valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auktuolyčiai: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katavos valsčius" parinktas kaip owner_note_path. Targetas "Auktuolyčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Katavos valsčius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Katavą kaip Nadruvos valsčių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 477563-478569; hash=11c0805da113099ff6272d7023a519254301c86adc275f48eee05e1865f9e860; match=whitespace_regex
@@ -128,3 +129,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   ryšio_subjekto_parinkimas: Katavos valsčius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Marienverderis: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katavos valsčius" parinktas kaip owner_note_path. Targetas "Marienverderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Katavos valsčius priklause [[objektai/vietos/Nadruva]]

@@ -47,6 +47,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   ryšio_subjekto_parinkimas: Konradas Jungingenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=82
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Jungingenas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176655|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
 ## Reikšmingi paminėjimai
@@ -83,3 +84,6 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   ryšio_subjekto_parinkimas: Konradas Jungingenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=82
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Jungingenas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Konradas Jungingenas

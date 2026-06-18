@@ -69,7 +69,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas faktinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Ukraina'
+  susije_objektai: 'llm_object: Rusija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra savarankiškas faktinis sakinys, paremtas citata.'
@@ -78,13 +78,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 26553-27180; hash=66ce66e218a3e5d213f94c7f5114e589a2a3a668648812d0f06c4ff3661dfb30; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterinos II sėslumo ribos nustatymas (1791 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterinos II sėslumo ribos nustatymas (1791 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žydai galėjo gyventi Rusijos imperijos erdvėje tik nustatytoje zonoje.
 
 ## Reikšmingi paminėjimai
 
@@ -111,13 +111,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 26553-27180; hash=66ce66e218a3e5d213f94c7f5114e589a2a3a668648812d0f06c4ff3661dfb30; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterinos II sėslumo ribos nustatymas (1791 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterinos II sėslumo ribos nustatymas (1791 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žydai galėjo gyventi Rusijos imperijos erdvėje tik nustatytoje zonoje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 26553-27180; hash=66ce66e218a3e5d213f94c7f5114e589a2a3a668648812d0f06c4ff3661dfb30; match=whitespace_regex

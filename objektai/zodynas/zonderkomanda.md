@@ -24,7 +24,7 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   global_id: t-70414
   teiginys: 'Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako, kurios zonderkomandos daugiausia šaudė, ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Heinricho Hamano skrajojantis būrys|Heinricho Hamano skrajojantis būrys]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_place: Paneriai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Heinricho Hamano skrajojantis būrys|Heinricho Hamano skrajojantis būrys]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_place: Paneriai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
 
@@ -42,13 +42,13 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2a7f9c759e7a7a65f9a9751530198e284bad2d2d1c018b603d478300e841c13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heinricho Hamano skrajojantis būrys: 0.85
+  ryšio_patikimumas: puole -> Žydai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: zonderkomanda: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Heinricho Hamano skrajojantis būrys: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "zonderkomanda" parinktas kaip owner_note_path. Targetas "Heinricho Hamano skrajojantis būrys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekstas kalba apie žydų bendruomenių sušaudymą ir nurodo Ypatingąjį SD būrį kaip vieną daugiausia šaudžiusių būrių.
 - susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-183187|Tautinės darbo apsaugos batalionas]]: Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.
 - susijęs iš [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.).md#claim-t-77913|Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]: 1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, nacių komanduojama kaip zonderkomanda, dalyvavo apie 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
@@ -102,10 +102,10 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2a7f9c759e7a7a65f9a9751530198e284bad2d2d1c018b603d478300e841c13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heinricho Hamano skrajojantis būrys: 0.85
+  ryšio_patikimumas: puole -> Žydai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: zonderkomanda: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Heinricho Hamano skrajojantis būrys: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "zonderkomanda" parinktas kaip owner_note_path. Targetas "Heinricho Hamano skrajojantis būrys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekstas kalba apie žydų bendruomenių sušaudymą ir nurodo Ypatingąjį SD būrį kaip vieną daugiausia šaudžiusių būrių.

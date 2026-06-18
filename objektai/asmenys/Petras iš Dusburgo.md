@@ -22,19 +22,19 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškiai priskiria poziciją Petrui iš Dusburgo ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Romanova; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Romanova; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romanova: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras iš Dusburgo (kunigas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Romanova: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Dusburgo (kunigas)" parinktas kaip owner_note_path. Targetas "Romanova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romanova: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Romanova apibūdinama kaip pirmoji Lietuvos sodyba, todėl priklausymo Lietuvai ryšys palaikomas.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64224|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64225|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181460|Petras Dusburgietis]]: Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms.
@@ -111,10 +111,10 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romanova: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras iš Dusburgo (kunigas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Romanova: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Dusburgo (kunigas)" parinktas kaip owner_note_path. Targetas "Romanova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romanova: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Romanova apibūdinama kaip pirmoji Lietuvos sodyba, todėl priklausymo Lietuvai ryšys palaikomas.

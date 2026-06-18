@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-87283
   teiginys: 'Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra OCR triukšmas ir nesusijusi su pavadinimu, bet citata pagrindžia teiginį apie karo puotą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_place: Brasta; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_place: Brasta; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta; llm_object: [[objektai/grupes/Škotai|Škotai]]'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra OCR triukšmas ir nesusijusi su pavadinimu, bet citata pagrindžia teiginį apie karo puotą.'
@@ -61,13 +61,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 287229-289843; hash=b6102d80596f4c1e2b816ef90a474211776c36a4c5e884b494da44baf1c47fb0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riterių garbės puota prieš karo žygį: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riterių garbės puota prieš karo žygį" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Škotai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Škotai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini anglų vaidus su škotais.
 
 ## Reikšmingi paminėjimai
 
@@ -147,10 +147,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 287229-289843; hash=b6102d80596f4c1e2b816ef90a474211776c36a4c5e884b494da44baf1c47fb0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riterių garbės puota prieš karo žygį: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riterių garbės puota prieš karo žygį" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Škotai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Škotai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini anglų vaidus su škotais.

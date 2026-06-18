@@ -47,6 +47,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   ryšio_targeto_parinkimas: Lenkija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Fiodorovičius Romanovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
+- susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,3 +100,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   ryšio_subjekto_parinkimas: Michailas Fiodorovičius Romanovas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Fiodorovičius Romanovas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Zemskinis susirinkimas]] paskyre Michailas Fiodorovičius Romanovas

@@ -29,7 +29,8 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 - t-001
   global_id: t-42414
   teiginys: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
+  susije_objektai: 'llm_object: Žuvinto palios; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] puolė Žuvinto palios; [[objektai/grupes/NKVD|NKVD]] apgulė Žuvinto palios'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,13 +57,13 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6795fe969c91f645f0d627673d63050089e7b5bb73ca07d3c38fe2966fa25a9c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šarvuočiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto palios: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šarvuočiai: mention_match, thing, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto palios" parinktas kaip owner_note_path. Targetas "Šarvuočiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žuvinto palios: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žuvinto palios: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad NKVD pajėgos puolė Palias.
 
 <a id="claim-t-183821"></a>
 - t-003
@@ -147,13 +148,13 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6795fe969c91f645f0d627673d63050089e7b5bb73ca07d3c38fe2966fa25a9c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šarvuočiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto palios: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šarvuočiai: mention_match, thing, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto palios" parinktas kaip owner_note_path. Targetas "Šarvuočiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žuvinto palios: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žuvinto palios: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad NKVD pajėgos puolė Palias.
     - t-001
 
 - c-003
@@ -191,3 +192,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
   ryšio_subjekto_parinkimas: Žuvinto palios: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto palios" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/NKVD]] puole Žuvinto palios
+- [[objektai/grupes/NKVD]] apgule Žuvinto palios

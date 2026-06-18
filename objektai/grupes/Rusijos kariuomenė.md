@@ -117,6 +117,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
   ryšio_subjekto_parinkimas: Rusijos kariuomenė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusijos kariuomenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79154|Povilas Sapiega]]: Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
 - susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas.md#claim-t-66433|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]: 1794 m. rugpjūtį Rusijos kariuomenė užėmė Vilnių, o lapkričio 5 d. pasidavė Varšuva.
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
@@ -243,3 +244,12 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
   ryšio_subjekto_parinkimas: Rusijos kariuomenė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusijos kariuomenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Rusijos kariuomenė uzeme [[objektai/vietos/Minskas]]
+- Rusijos kariuomenė uzeme [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Kazokai]] buvo_sajungininkas_su Rusijos kariuomenė
+- Rusijos kariuomenė uzeme [[objektai/vietos/Livonija]]
+- Rusijos kariuomenė uzeme [[objektai/vietos/Lietuva]]
+- Rusijos kariuomenė surenge_zygi_i [[objektai/vietos/Polockas]]
+- Rusijos kariuomenė uzeme [[objektai/vietos/Kaunas]]

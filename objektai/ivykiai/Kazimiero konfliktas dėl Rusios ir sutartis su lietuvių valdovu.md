@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį sakinį apie sutartį ir tolesnį Kazimiero veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 400027-400855; hash=dee449dfac6ae892e7376a5f4a61c2d325c9a353abfd29af34b7d1630a3efa0e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste aptariamas lenkų svarstymas kariauti su lietuviais.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 400027-400855; hash=dee449dfac6ae892e7376a5f4a61c2d325c9a353abfd29af34b7d1630a3efa0e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste aptariamas lenkų svarstymas kariauti su lietuviais.

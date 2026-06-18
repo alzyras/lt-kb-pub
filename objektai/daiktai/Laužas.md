@@ -42,21 +42,23 @@ Nenurodyta
   teiginys: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
   teiginio_tipas: 'saltinio_vaizdinys'
   sudarymo_pagrindimas: 'Pradinis teiginys kartoja formuluotę ir turi perteklinę interpretacinę dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Trakai; llm_object: Maišiagala; llm_object: [[objektai/daiktai/Laužas|Laužas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo palaidotas [[objektai/daiktai/Laužas|Laužas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48ba019e6a8e1edca13806b55938d06d24c38c9225673b9ee7fc3a5f2d6479bf; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: buvo_palaidotas -> Maišiagala: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laužas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laužas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maišiagala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys.
 - susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
 - susijęs iš [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo.md#claim-t-01622|Herasimo sąmokslas ir sudeginimas ant laužo]]: Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
+- susijęs iš [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis.md#claim-t-66819|Paskutinės Kęstučio kovos ir mirtis]]: Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/daiktai/Ginklai.md#claim-t-185851|Ginklai]]: Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.
@@ -97,10 +99,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48ba019e6a8e1edca13806b55938d06d24c38c9225673b9ee7fc3a5f2d6479bf; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: buvo_palaidotas -> Maišiagala: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laužas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laužas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maišiagala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys.
+
+## Ryšiai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_palaidotas Laužas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_palaidotas Laužas

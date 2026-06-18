@@ -24,19 +24,20 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   global_id: t-60397
   teiginys: 'Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Omarą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė; llm_object: Jeruzalė'
+  semantiniai_rysiai: '[[objektai/asmenys/Omaras|Omaras]] užėmė Jeruzalė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arabai: 0.83
+  ryšio_patikimumas: uzeme -> Jeruzalė: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Omaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Arabai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Omaras" parinktas kaip owner_note_path. Targetas "Arabai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Omaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas.
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arabai: 0.83
+  ryšio_patikimumas: uzeme -> Jeruzalė: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Omaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Arabai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Omaras" parinktas kaip owner_note_path. Targetas "Arabai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Omaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas.
+
+## Ryšiai
+- Omaras uzeme [[objektai/vietos/Jeruzalė]]

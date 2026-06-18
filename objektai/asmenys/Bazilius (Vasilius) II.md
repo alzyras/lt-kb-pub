@@ -29,7 +29,8 @@ periodo_grupes:
   global_id: t-18849
   teiginys: '1427 m. Baziliui II buvo žygiuojama į Maskvą padėti, ir tam pakako vien jėgos demonstravimo.'
   sudarymo_pagrindimas: 'Pirminis sakinys taisytinas dėl konstrukcijos; citata pagrindžia pagalbos žygį į Maskvą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; llm_object: [[objektai/asmenys/Bazilius (Vasilius) II|Bazilius (Vasilius) II]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] rėmė [[objektai/asmenys/Bazilius (Vasilius) II|Bazilius (Vasilius) II]]'
   temporaliniai_duomenys: 'įvykio data: 1427 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis sakinys taisytinas dėl konstrukcijos; citata pagrindžia pagalbos žygį į Maskvą.'
@@ -38,13 +39,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26e8f904c2932a79e68accf8b34d099a358876ab99c6fb26ac0d426852914bf6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilius (Vasilius) II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilius (Vasilius) II" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas žygiavo į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26e8f904c2932a79e68accf8b34d099a358876ab99c6fb26ac0d426852914bf6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilius (Vasilius) II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilius (Vasilius) II" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas žygiavo į Maskvą.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Bazilius (Vasilius) II

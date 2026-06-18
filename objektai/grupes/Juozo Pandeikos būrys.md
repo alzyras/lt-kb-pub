@@ -21,19 +21,20 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   global_id: t-40904
   teiginys: 'Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo būrio veikimo vietas ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Daukšiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Daukšiai; mentioned_place: Lietuva; llm_object: Buktos (Žaliosios) miškas; llm_object: Žuvintas'
+  semantiniai_rysiai: '[[objektai/grupes/Juozo Pandeikos būrys|Juozo Pandeikos būrys]] gyveno Žuvintas; [[objektai/grupes/Juozo Pandeikos būrys|Juozo Pandeikos būrys]] gyveno Buktos (Žaliosios) miškas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.85
+  ryšio_patikimumas: gyveno -> Buktos (Žaliosios) miškas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozo Pandeikos būrys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Pandeikos būrys" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozo Pandeikos būrys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo būrio veikimo vietą Buktos, arba Žaliosios, miške.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,14 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.85
+  ryšio_patikimumas: gyveno -> Buktos (Žaliosios) miškas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozo Pandeikos būrys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Pandeikos būrys" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozo Pandeikos būrys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo būrio veikimo vietą Buktos, arba Žaliosios, miške.
+
+## Ryšiai
+- Juozo Pandeikos būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- Juozo Pandeikos būrys gyveno [[objektai/vietos/Žuvintas]]

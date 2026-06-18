@@ -33,7 +33,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   global_id: t-68908
   teiginys: 'Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nepilnas, o citata leidžia suformuluoti faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]'
+  susije_objektai: 'llm_object: Paulava; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]] pastatė Paulava'
   temporaliniai_duomenys: 'įkūrimo data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nepilnas, o citata leidžia suformuluoti faktą.'
@@ -61,13 +62,13 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a2a387a40de05c589083faf635994821471004af3ba9a4d8ee322fde3c4e069c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulava" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Paulava: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paulava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad P. K. Bžostovskis įkūrė Paulavos respubliką.
 
 <a id="claim-t-68910"></a>
 - t-003
@@ -90,6 +91,8 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   ryšio_subjekto_parinkimas: Paulava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=85
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulava" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
 - susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
@@ -106,6 +109,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 - susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77884|Jėzuitų ordino panaikinimas]]: Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.
 - susijęs iš Vidurio Europa: Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.
 - susijęs iš Vidurio Europa: Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.
+- susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -178,10 +182,13 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a2a387a40de05c589083faf635994821471004af3ba9a4d8ee322fde3c4e069c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulava" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Paulava: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paulava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad P. K. Bžostovskis įkūrė Paulavos respubliką.
+
+## Ryšiai
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]] pastate Paulava

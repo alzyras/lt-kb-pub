@@ -221,12 +221,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pagudė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Pagudė: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Pagudė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Elbingas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elbingas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90355"></a>
 - t-012
@@ -415,7 +416,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   global_id: t-90364
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Elbingo pilies statybą.'
-  susije_objektai: 'location: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Elbingo pilies statybą.'
@@ -442,12 +443,18 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškų įvardį ir suformuluoti savarankišką sakinį.'
   pagrindžia:
     - c-018
-- susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178894|Kryžiuočių ordinas]]: 1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89824|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89826|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89828|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90021|Sventopelkas]]: Sventopelkas sutelkė didelę kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.
+- susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
+- susijęs iš Santyras: Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.
+- susijęs iš Pamedė: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.
+- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59947|Poponas iš Osternos]]: Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89160|Pagudėnai]]: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.
-- susijęs iš [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.).md#claim-t-62792|Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbingo kapituloje atsisakė pareigų.
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183927|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.
-- susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
-- susijęs iš Pagudė: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59857|Fridrichas II]]: Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60024|Helvigas iš Goldbacho]]: Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę.
@@ -590,6 +597,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89168|Pagudėnai]]: Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90013|Sventopelkas]]: Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89159|Pagudėnai]]: 1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59857|Fridrichas II]]: Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.
+- susijęs iš Aismares: 1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.
+- susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -635,12 +649,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pagudė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Pagudė: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Pagudė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Elbingas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elbingas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
 
 - c-002
@@ -1090,5 +1105,16 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     - t-022
 
 ## Ryšiai
-- [[objektai/asmenys/Gotfridas Hohenlohė]] keliavo_i Elbingas
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Elbingas
+- [[objektai/grupes/Pagudėnai]] puole Elbingas
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Elbingas
+- [[objektai/asmenys/Hermanas]] siunte_i Elbingas
+- [[objektai/asmenys/Konradas Bremeris]] keliavo_i Elbingas
+- [[objektai/asmenys/Sventopelkas]] puole Elbingas
+- Elbingas priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pagudėnai]] keliavo_i Elbingas
+- [[objektai/asmenys/Poponas iš Osternos]] siunte_i Elbingas
+- [[objektai/grupes/Sūduviai]] puole Elbingas
+- [[objektai/daiktai/Kryžius]] priklause Elbingas
+- [[objektai/vietos/Elbingo pilis|Elbingo pilis (pilis)]] priklause Elbingas
+- [[objektai/vietos/Pagudė]] priklause Elbingas

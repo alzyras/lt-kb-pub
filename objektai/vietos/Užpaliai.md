@@ -31,7 +31,8 @@ amziai:
   global_id: t-38157
   teiginys: 'Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos.'
-  susije_objektai: 'mentioned_place: Antalieptė; mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Svėdasai'
+  susije_objektai: 'llm_object: Užpaliai; llm_object: Svėdasai; llm_object: Antalieptė; mentioned_place: Antalieptė; mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Svėdasai'
+  semantiniai_rysiai: '[[objektai/asmenys/P. Genys|P. Genys]] užėmė Užpaliai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos.'
@@ -40,13 +41,15 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 749880-749970; hash=8627f6e29b985fe2bcdae46cfa514f0686fd0dcb6253311fdb4e5d2ee9ecdc61; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antalieptė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užpaliai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Antalieptė: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpaliai" parinktas kaip owner_note_path. Targetas "Antalieptė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Užpaliai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: P. Genys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užpaliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad P. Genys užėmė Užpalius.
+- susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
+- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
 - susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186743|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Livonijos kariuomenės reidas 1433 m. sausio 30–vasario 9 d. ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius.
 - susijęs iš [[objektai/grupes/II brigada.md#claim-t-40890|II brigada]]: II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų.
@@ -73,10 +76,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 749880-749970; hash=8627f6e29b985fe2bcdae46cfa514f0686fd0dcb6253311fdb4e5d2ee9ecdc61; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antalieptė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užpaliai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Antalieptė: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpaliai" parinktas kaip owner_note_path. Targetas "Antalieptė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Užpaliai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: P. Genys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užpaliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad P. Genys užėmė Užpalius.
+
+## Ryšiai
+- [[objektai/asmenys/P. Genys]] uzeme Užpaliai

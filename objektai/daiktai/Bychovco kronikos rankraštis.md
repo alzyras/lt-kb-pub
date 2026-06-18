@@ -83,13 +83,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b269c29ae6d853aef106c3c39079050125ebdf7156602487fae9d5b8bac6db02; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Bychovcas (volkovysko apskrities teisėjas): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Aleksandras Bychovcas (volkovysko apskrities teisėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Aleksandras Bychovcas (volkovysko apskrities teisėjas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Aleksandras Bychovcas tiesiogiai vadinamas rankraščio savininku.
 
 <a id="claim-t-186809"></a>
 - t-003
@@ -140,7 +140,8 @@ Nenurodyta
   teiginys: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas boilerplate priskyrimas ir sutvarkyta asmenvardžių bei objekto nuoroda.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]; mentioned_person: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]] priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -219,13 +220,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b269c29ae6d853aef106c3c39079050125ebdf7156602487fae9d5b8bac6db02; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Bychovcas (volkovysko apskrities teisėjas): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Aleksandras Bychovcas (volkovysko apskrities teisėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Aleksandras Bychovcas (volkovysko apskrities teisėjas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Aleksandras Bychovcas tiesiogiai vadinamas rankraščio savininku.
     - t-005
 
 - c-004
@@ -299,3 +300,7 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=94
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Bychovco kronikos rankraštis priklause [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
+- Bychovco kronikos rankraštis priklause [[objektai/vietos/Mogiliovcai]]

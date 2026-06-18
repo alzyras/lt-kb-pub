@@ -23,19 +23,19 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 - t-001
   global_id: t-30985
   teiginys: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras'
+  susije_objektai: 'llm_object: Dniepras; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b912e6c4a020e727000eb148a5cb286d5d95c4f4bf8686588e92f107352a8769; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sobolevskij: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sobolevskij" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dniepras: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dniepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad rytiniai baltai gyveno Dniepro aukštupio plotuose.
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
 ## Reikšmingi paminėjimai
 
@@ -60,10 +60,10 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b912e6c4a020e727000eb148a5cb286d5d95c4f4bf8686588e92f107352a8769; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sobolevskij: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sobolevskij" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dniepras: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dniepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad rytiniai baltai gyveno Dniepro aukštupio plotuose.

@@ -34,6 +34,7 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
   ryšio_subjekto_parinkimas: Kafa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kafa" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-183755|Musat-chanas]]: Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.
 - susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
 - susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Musat-chanas.md#claim-t-183755|Musat-chanas]]: Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.
@@ -68,3 +69,8 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
   ryšio_subjekto_parinkimas: Kafa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kafa" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Musat-chanas]] valde Kafa
+- Kafa prekiavo_su [[objektai/vietos/Lietuva]]
+- Kafa priklause [[objektai/vietos/Lietuva]]

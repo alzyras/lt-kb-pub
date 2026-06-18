@@ -38,13 +38,13 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c083d1d9f1a73a4073c1a204299400d45f44cdd03a84a5926245efd1dab5e66; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Henrikas VII: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokietijos valdovai elektoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Henrikas VII: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Elektoriai tiesiogiai išrinko Henriką VII Romos karaliumi; artimiausia leistina semantika yra paskyrimas.
 
 <a id="claim-t-59977"></a>
 - t-002
@@ -84,7 +84,8 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   global_id: t-59979
   teiginys: 'Šv. Kotrynos dieną Vokietijos valdovai elektoriai vieningai išrinko Henriką VII Romos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriko išrinkimą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokietijos valdovai elektoriai|Vokietijos valdovai elektoriai]]; mentioned_object: [[objektai/zodynas/elektoriai|elektoriai]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokietijos valdovai elektoriai|Vokietijos valdovai elektoriai]]; mentioned_object: [[objektai/zodynas/elektoriai|elektoriai]]; mentioned_place: Vokietija; llm_object: [[objektai/asmenys/Henrikas VII|Henrikas VII]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokietijos valdovai elektoriai|Vokietijos valdovai elektoriai]] paskyrė [[objektai/asmenys/Henrikas VII|Henrikas VII]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -124,13 +125,13 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c083d1d9f1a73a4073c1a204299400d45f44cdd03a84a5926245efd1dab5e66; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Henrikas VII: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokietijos valdovai elektoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Henrikas VII: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Elektoriai tiesiogiai išrinko Henriką VII Romos karaliumi; artimiausia leistina semantika yra paskyrimas.
     - t-004
 
 - c-003
@@ -181,3 +182,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Vokietijos valdovai elektoriai]] paskyre Henrikas VII

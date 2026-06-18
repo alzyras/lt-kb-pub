@@ -70,7 +70,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   global_id: t-172961
   teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_place: Maskva; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'

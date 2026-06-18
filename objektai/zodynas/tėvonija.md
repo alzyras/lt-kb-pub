@@ -26,38 +26,38 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   global_id: t-22335
   teiginys: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai susijęs su tėvonijos sąvoka ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; llm_object: Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c7e86c035f0fd5913b61364284dd6d49a077a21967e491111cf5d22124d84fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Lietuva tapo Lenkijos vasale.
 
 <a id="claim-t-22336"></a>
 - t-002
   global_id: t-22336
   teiginys: 'Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR triukšmo ir jis neatitinka pateiktos citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Ostrohas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Ostrohas; mentioned_place: Voluinė; llm_object: Voluinė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: valde -> Voluinė: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Radvilos tiesiogiai minimi kaip čia įgiję valdas.
 
 <a id="claim-t-183482"></a>
 - t-004
@@ -67,19 +67,19 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio antraštės triukšmas, sakinys sutrumpintas iki aiškaus fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas; mentioned_place: Voluinė; llm_object: Voluinė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: valde -> Voluinė: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Chodkevičiai paminėti kaip Voluinėje valdas įgiję didikai.
 
 <a id="claim-t-184638"></a>
 - t-005
@@ -133,19 +133,19 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai pranešta Ivano pozicija, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 986017-986799; hash=63654dfcf6a5c35e95db19ef62b5345ab70cd87810adf8f2da67f0765ab2869d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
+  ryšio_patikimumas: gyne -> Rusai: 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ivanas teigia ginklu ginsiąs globon paimtus asmenis, o kontekste minimi rusai ir jų maldavimai.
 
 <a id="claim-t-187530"></a>
 - t-008
@@ -155,19 +155,19 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Motyvas ir legendinis pasakojimas reikalauja šaltinio atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; mentioned_place: Breslauja; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Breslauja; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; mentioned_place: Breslauja; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 76873-77527; hash=45f86ada78bde78bf7f4d15733fac9060128a328815f3116b6f799e8cbe0e640; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Breslauja: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kernius kartu su Gimbutu leidosi į žygį Rusion link Breslaujos; Gimbuto nėra kandidatuose, todėl fiksuojamas Kernius.
 - susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86891|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija.
 - susijęs iš Osa: Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
@@ -219,13 +219,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c7e86c035f0fd5913b61364284dd6d49a077a21967e491111cf5d22124d84fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Lietuva tapo Lenkijos vasale.
     - t-002
 
 - c-003
@@ -246,13 +246,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: valde -> Voluinė: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Radvilos tiesiogiai minimi kaip čia įgiję valdas.
     - t-003
 
 - c-004
@@ -279,13 +279,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 71343-71808; hash=d64102288b2c7218a2c370c0577a6a973af69276ec54c207c645b186717af25e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuva tekste tiesiogiai pavadinta Lenkijos vasale.
     - t-004
 
 - c-005
@@ -323,13 +323,13 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: valde -> Voluinė: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Chodkevičiai paminėti kaip Voluinėje valdas įgiję didikai.
     - t-005
 
 - c-006
@@ -432,21 +432,21 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 986017-986799; hash=63654dfcf6a5c35e95db19ef62b5345ab70cd87810adf8f2da67f0765ab2869d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
+  ryšio_patikimumas: gyne -> Rusai: 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ivanas teigia ginklu ginsiąs globon paimtus asmenis, o kontekste minimi rusai ir jų maldavimai.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 76873-77527; hash=45f86ada78bde78bf7f4d15733fac9060128a328815f3116b6f799e8cbe0e640; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslauja: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tėvonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Breslauja: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvonija" parinktas kaip owner_note_path. Targetas "Breslauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Breslauja: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Breslauja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kernius kartu su Gimbutu leidosi į žygį Rusion link Breslaujos; Gimbuto nėra kandidatuose, todėl fiksuojamas Kernius.

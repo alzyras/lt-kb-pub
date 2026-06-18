@@ -22,20 +22,20 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   global_id: t-38892
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Troškūnai; mentioned_place: Subačius; mentioned_place: Troškūnai; mentioned_place: Biržai; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]] užėmė Troškūnai'
+  susije_objektai: 'llm_object: Subačius; llm_object: Troškūnai; mentioned_place: Subačius; mentioned_place: Troškūnai; mentioned_place: Biržai; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]] užėmė Troškūnai; [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]] užėmė Subačius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741055-741389; hash=c644469176df3fcbeeec453431bf2cc9254fe30d3533c8c392caa40360d4f1cb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Troškūnai: 0.93
+  ryšio_patikimumas: uzeme -> Subačius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Panevėžio rinktinė: owner_note_path, group, gap=53
-  ryšio_targeto_parinkimas: Troškūnai: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Panevėžio rinktinė" parinktas kaip owner_note_path. Targetas "Troškūnai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Panevėžio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Subačius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių.
 
 <a id="claim-t-38893"></a>
 - t-002
@@ -121,13 +121,14 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741055-741389; hash=c644469176df3fcbeeec453431bf2cc9254fe30d3533c8c392caa40360d4f1cb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Troškūnai: 0.93
+  ryšio_patikimumas: uzeme -> Subačius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Panevėžio rinktinė: owner_note_path, group, gap=53
-  ryšio_targeto_parinkimas: Troškūnai: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Panevėžio rinktinė" parinktas kaip owner_note_path. Targetas "Troškūnai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Panevėžio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Subačius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių.
 
 ## Ryšiai
+- Panevėžio rinktinė uzeme [[objektai/vietos/Subačius]]
 - Panevėžio rinktinė uzeme [[objektai/vietos/Troškūnai]]

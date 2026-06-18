@@ -48,7 +48,8 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   global_id: t-169170
   teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir teiginys sutrumpintas iki fakto apie Slanimą.'
-  susije_objektai: 'mentioned_place: Valkaviskas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Slanimas; llm_object: Valkaviskas; mentioned_place: Valkaviskas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] valdė miestą Slanimas'
   pagrindžia:
     - c-004
 
@@ -98,6 +99,7 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
 - susijęs iš Valkaviskas: Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš Tulčinas: Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -170,3 +172,7 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Slanimas
+- [[objektai/grupes/Oginskiai]] gyveno Slanimas

@@ -36,7 +36,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
   ryšio_subjekto_parinkimas: Kęsgaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: seniūnas: mention_match, thing, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęsgaila" parinktas kaip owner_note_path. Targetas "seniūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184689|Daumantas (kunigaikštis, XV a.)]]: 1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.
 - susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185538|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.).md#claim-t-185846|Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]: Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.
 - susijęs iš [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui.md#claim-t-185922|Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]: Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti kuo puikiausias šermenis Žygimantui.
@@ -73,6 +72,3 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
   ryšio_subjekto_parinkimas: Kęsgaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: seniūnas: mention_match, thing, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęsgaila" parinktas kaip owner_note_path. Targetas "seniūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] reme Kęsgaila

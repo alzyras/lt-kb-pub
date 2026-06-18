@@ -68,12 +68,15 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezlis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Rezlio pilies sudeginimas ir įgulos pasitraukimas.md#claim-t-62459|Rezlio pilies sudeginimas ir įgulos pasitraukimas (pilis)]]: Rezlio pilies broliai sudegino pilį ir slaptais dykrų keliais pasitraukė, išgirdę apie prūsų apsiaustas pilis.
 - susijęs iš [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.).md#claim-t-66944|Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]: 1241 m. Varmės, Notangos ir Bartos prūsai pasidavė tikėjimui ir Ordino broliams, o broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
+- susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
+- susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,3 +144,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   ryšio_subjekto_parinkimas: Rezlis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezlis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Rezlis
+- [[objektai/grupes/Vokiečiai]] pastate Rezlis

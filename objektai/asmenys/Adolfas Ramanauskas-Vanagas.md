@@ -145,3 +145,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Dainava: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adolfas Ramanauskas-Vanagas" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Adolfas Ramanauskas-Vanagas puole [[objektai/vietos/Merkinė]]

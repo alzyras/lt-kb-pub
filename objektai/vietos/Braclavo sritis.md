@@ -28,19 +28,20 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - t-001
   global_id: t-72803
   teiginys: 'Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.'
-  susije_objektai: 'mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Podolė; mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Podolė'
+  semantiniai_rysiai: 'Braclavo sritis priklausė Podolė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo sritis" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Braclavo sritis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi.
 
 ## Reikšmingi paminėjimai
 
@@ -61,32 +62,35 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo sritis" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Braclavo sritis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo sritis" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Braclavo sritis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo sritis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo sritis" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Braclavo sritis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi.
+
+## Ryšiai
+- Braclavo sritis priklause [[objektai/vietos/Podolė]]

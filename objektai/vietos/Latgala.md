@@ -22,19 +22,20 @@ tags:
   global_id: t-02535
   teiginys: 'Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas aiškus faktas apie Latgalą.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Švedija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Švedija; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Švedija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Lenkija; llm_object: Lietuva'
+  semantiniai_rysiai: 'Latgala priklausė Lietuva; Latgala priklausė Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latgala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latgala" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Švedija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Švedija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ryga liko Švedijai.
 
 <a id="claim-t-187592"></a>
 - t-002
@@ -97,13 +98,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latgala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latgala" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Švedija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Švedija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ryga liko Švedijai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 77241-77786; hash=b370bd2f6a25ce32fd95662629616afeadb603787be209456a7b5df548a5f4a3; match=ocr_normalized
@@ -115,3 +116,7 @@ tags:
   ryšio_subjekto_parinkimas: Latgala: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kernius: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latgala" parinktas kaip owner_note_path. Targetas "Kernius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Latgala priklause [[objektai/vietos/Lenkija]]
+- Latgala priklause [[objektai/vietos/Lietuva]]

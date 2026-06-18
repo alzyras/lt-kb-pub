@@ -28,7 +28,8 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   global_id: t-58704
   teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Menorka; mentioned_place: Aragonas; mentioned_place: Ispanija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Menorka; llm_object: Maljorka; llm_object: Menorka; mentioned_place: Aragonas; mentioned_place: Ispanija'
+  semantiniai_rysiai: '[[objektai/grupes/Saracėnai|Saracėnai]] valdė Maljorka'
   temporaliniai_duomenys: 'įvykio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -37,13 +38,18 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697330-697549; hash=68786e33ae08cb01861f3cba719a2231aca8c06a79259fa9c4051cc9c01e9377; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Menorka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maljorka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Menorka: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maljorka" parinktas kaip owner_note_path. Targetas "Menorka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Maljorka: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Maljorka anksčiau buvo valdoma saracėnų.
+- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
+- susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
+- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
+- susijęs iš Menorka: 1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai.
+- susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-183942|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.).md#claim-t-62388|Maljorkos ir Menorkos salų užėmimas (1230 m.)]]: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.
 - susijęs iš Ispanija: 1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.
@@ -70,21 +76,25 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697330-697549; hash=68786e33ae08cb01861f3cba719a2231aca8c06a79259fa9c4051cc9c01e9377; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Menorka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maljorka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Menorka: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maljorka" parinktas kaip owner_note_path. Targetas "Menorka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Maljorka: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Maljorka anksčiau buvo valdoma saracėnų.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697330-697549; hash=68786e33ae08cb01861f3cba719a2231aca8c06a79259fa9c4051cc9c01e9377; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Menorka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maljorka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Menorka: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maljorka" parinktas kaip owner_note_path. Targetas "Menorka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Maljorka: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Maljorka anksčiau buvo valdoma saracėnų.
+
+## Ryšiai
+- [[objektai/grupes/Saracėnai]] uzeme Maljorka
+- [[objektai/grupes/Saracėnai]] valde Maljorka

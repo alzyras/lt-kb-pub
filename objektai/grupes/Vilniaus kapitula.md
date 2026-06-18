@@ -35,7 +35,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   global_id: t-176071
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Kardinalija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Kardinalija; llm_object: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
   temporaliniai_duomenys: 'įvykio data: po 1541 m.; įvykio data: 1541 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
@@ -334,13 +335,13 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kapitula" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Namas buvo nuomojamas iš kapitulos, todėl tekstas tiesiogiai rodo, kad jis priklausė kapitulai.
 
 <a id="claim-t-176093"></a>
 - t-021
@@ -512,7 +513,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   global_id: t-176102
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   sudarymo_pagrindimas: 'Teiginys tikslus ir pakankamai enciklopedinis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Kardinalija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Kardinalija; llm_object: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
   temporaliniai_duomenys: 'įvykio data: po 1541 m.; įvykio data: 1541 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tikslus ir pakankamai enciklopedinis.'
@@ -600,13 +602,13 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kapitula" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Namas buvo nuomojamas iš kapitulos, todėl tekstas tiesiogiai rodo, kad jis priklausė kapitulai.
 
 <a id="claim-t-176107"></a>
 - t-035
@@ -655,6 +657,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173019|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173235|Vladislovas Jogaila]]: Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1443,13 +1446,13 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kapitula" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Namas buvo nuomojamas iš kapitulos, todėl tekstas tiesiogiai rodo, kad jis priklausė kapitulai.
     - t-005
 
 - c-020
@@ -1519,13 +1522,13 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kapitula" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Namas buvo nuomojamas iš kapitulos, todėl tekstas tiesiogiai rodo, kad jis priklausė kapitulai.
     - t-029
 
 - c-022
@@ -1568,3 +1571,8 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   ryšio_subjekto_parinkimas: Vilniaus kapitula: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kapitula" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Vilniaus kapitula
+- [[objektai/vietos/Paneriai]] priklause Vilniaus kapitula
+- Vilniaus kapitula reme [[objektai/asmenys/Pilypas Frizijus]]

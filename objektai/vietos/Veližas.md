@@ -34,7 +34,8 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   global_id: t-69546
   teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti aiškesnį veiksmą ir tikslą.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Toropecas'
+  susije_objektai: 'llm_object: Veližas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Toropecas; llm_object: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]] keliavo į Veližas'
   pagrindžia:
     - c-001
 
@@ -52,15 +53,18 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krasnyj Gorod: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veližas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krasnyj Gorod: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veližas" parinktas kaip owner_note_path. Targetas "Krasnyj Gorod" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Veližas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristupas Radvila Perkūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo numatytą žygiavimą Veližo link.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
 - susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
+- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
+- susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
+- susijęs iš Toropecas: K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
 - susijęs iš Toropecas: K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
 ## Reikšmingi paminėjimai
 
@@ -118,10 +122,15 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krasnyj Gorod: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veližas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krasnyj Gorod: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veližas" parinktas kaip owner_note_path. Targetas "Krasnyj Gorod" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Veližas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristupas Radvila Perkūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo numatytą žygiavimą Veližo link.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Veližas
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]] keliavo_i Veližas
+- [[objektai/asmenys/Kristupas Radvila]] surenge_zygi_i Veližas

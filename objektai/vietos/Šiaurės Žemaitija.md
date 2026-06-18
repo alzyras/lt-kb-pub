@@ -30,7 +30,8 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
   global_id: t-42371
   teiginys: '1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Livonijos ordino puolimą.'
-  susije_objektai: 'mentioned_place: Dubysa; mentioned_place: Kulių (Jurgaičių) pilys; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Ariogala; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Šiaurės Žemaitija; mentioned_place: Dubysa; mentioned_place: Kulių (Jurgaičių) pilys; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Ariogala; mentioned_place: Livonija; mentioned_place: Prūsija; llm_object: Kulių (Jurgaičių) pilys'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] puolė Šiaurės Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Livonijos ordino puolimą.'
@@ -39,13 +40,13 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e12d1d68ac7696c39dfafec080427d9004226b50668a037eb69320b9b3b197e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Žemaitija" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiaurės Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Livonijos ordinas puolė Šiaurės Žemaitiją.
 
 ## Reikšmingi paminėjimai
 
@@ -70,10 +71,13 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e12d1d68ac7696c39dfafec080427d9004226b50668a037eb69320b9b3b197e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Žemaitija" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiaurės Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Livonijos ordinas puolė Šiaurės Žemaitiją.
+
+## Ryšiai
+- [[objektai/grupes/Livonijos ordinas]] puole Šiaurės Žemaitija

@@ -46,19 +46,20 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 366296-366918; hash=2ce1463305751cb342868e9ee11bc92599708cb61ee059a36fcf5489e73f0afd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vladislovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Gediminas padėjo Vladislovui kariauti.
 
 <a id="claim-t-184856"></a>
 - t-003
@@ -68,20 +69,20 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas gramatiškai ir be OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas|Vladislovas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 370372-370881; hash=23c08a64ab1f904ac3bace6942b93a1daceb2084ea63a7b1699169c76a2697ab; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184861|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.
+  ryšio_patikimumas: reme -> Vladislovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Gediminas tiesiogiai nurodytas atskubėjęs Vladislovui į pagalbą.
 - susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186022|Vladislovas (karalius, Kazimiero brolis)]]: Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
@@ -120,6 +121,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - susijęs iš Vilniaus katedra: Jogaila Vladislovas buvo Vilniaus katedros fundatorius.
 - susijęs iš Vilnius: Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.
 - susijęs iš Vitebskas: Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
+- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -219,24 +221,27 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   irodymo_stiprumas: 0.00
   saltinio_vieta: 366296-366918; hash=2ce1463305751cb342868e9ee11bc92599708cb61ee059a36fcf5489e73f0afd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vladislovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Gediminas padėjo Vladislovui kariauti.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 370372-370881; hash=23c08a64ab1f904ac3bace6942b93a1daceb2084ea63a7b1699169c76a2697ab; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vladislovas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vladislovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Gediminas tiesiogiai nurodytas atskubėjęs Vladislovui į pagalbą.
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_dukte Vladislovas
+- Vladislovas dalyvavo_musyje [[objektai/ivykiai/Varnos mūšis|Varnos mūšis (mūšis, XV a.)]]
+- Vladislovas mire [[objektai/vietos/Bulgarija]]
+- [[objektai/asmenys/Gediminas]] reme Vladislovas
+- [[objektai/asmenys/Jonas Olbrachtas]] buvo_brolis Vladislovas

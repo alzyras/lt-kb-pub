@@ -87,3 +87,6 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   ryšio_subjekto_parinkimas: Albinas Kubilius-Rūgštymas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albinas Kubilius-Rūgštymas" parinktas kaip owner_note_path. Targetas "Vaistinės prekės, vaistai ir gydomieji gėrimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Albinas Kubilius-Rūgštymas keliavo_i [[objektai/vietos/Butkiškio vienkiemis]]

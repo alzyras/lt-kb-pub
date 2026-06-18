@@ -96,6 +96,7 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - susijęs iš Vokietija: Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.
 - susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-183398|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
+- susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -123,3 +124,6 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
   ryšio_subjekto_parinkimas: Bizantija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Hanza: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bizantija" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Skandinavai]] prekiavo_su Bizantija

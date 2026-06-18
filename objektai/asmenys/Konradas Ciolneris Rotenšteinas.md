@@ -206,3 +206,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   ryšio_subjekto_parinkimas: Konradas Ciolneris Rotenšteinas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Anglai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Ciolneris Rotenšteinas" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Konradas Ciolneris Rotenšteinas puole [[objektai/vietos/Lietuva]]
+- Konradas Ciolneris Rotenšteinas keliavo_i [[objektai/vietos/Kaunas]]

@@ -22,19 +22,20 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia pasiuntimo tikslą ir adresatą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Jendžejevskis|Stanislovas Jendžejevskis]] keliavo į Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1211364-1211985; hash=3aa1984830e5566b1c229ff2cfa218b4e0583061f8c6befd7d01de80c84a40d2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Jendžejevskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Jendžejevskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Augustas pasiuntė į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +63,13 @@ Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1211364-1211985; hash=3aa1984830e5566b1c229ff2cfa218b4e0583061f8c6befd7d01de80c84a40d2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Jendžejevskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Jendžejevskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Augustas pasiuntė į Maskvą.
+
+## Ryšiai
+- Stanislovas Jendžejevskis keliavo_i [[objektai/vietos/Maskva]]

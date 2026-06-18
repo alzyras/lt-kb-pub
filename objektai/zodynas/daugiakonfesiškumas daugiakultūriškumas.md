@@ -30,7 +30,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   global_id: t-22098
   teiginys: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   sudarymo_pagrindimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Naugardukas; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1596 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'
@@ -39,13 +39,13 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cfca884187f0a908f6550b825f4f2de5f9c9e281c994eceaf4089480ab08f709; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumas: gyveno -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: daugiakonfesiškumas daugiakultūriškumas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "daugiakonfesiškumas daugiakultūriškumas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stačiatikiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje minimi Lenkijos stačiatikiai, kas palaiko jų buvimą Lenkijoje, nors tai nėra pagrindinis claim teiginys.
 
 <a id="claim-t-22099"></a>
 - t-002
@@ -102,13 +102,13 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cfca884187f0a908f6550b825f4f2de5f9c9e281c994eceaf4089480ab08f709; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumas: gyveno -> Lenkija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: daugiakonfesiškumas daugiakultūriškumas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "daugiakonfesiškumas daugiakultūriškumas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stačiatikiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje minimi Lenkijos stačiatikiai, kas palaiko jų buvimą Lenkijoje, nors tai nėra pagrindinis claim teiginys.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec918fb4da7390ad7f4cd8ab2611c9c754e80056cbce8220c243f05536490af9; match=fallback; occurrences=0

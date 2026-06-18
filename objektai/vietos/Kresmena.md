@@ -43,7 +43,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   global_id: t-58455
   teiginys: 'Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Kresmeną su citatoje minimu Skomanto statusu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Sūduva; llm_object: Kresmena'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] gyveno Kresmena'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -68,13 +69,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   irodymo_stiprumas: 0.00
   saltinio_vieta: 527659-528161; hash=f8bb3a06147eecac4b710f8c31642d009ee03ca084b25af066435cb7dddbafbf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skomantas: 0.85
+  ryšio_patikimumas: gyveno -> Kresmena: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kresmena: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skomantas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kresmena" parinktas kaip owner_note_path. Targetas "Skomantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kresmena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas aprašomas kaip veikiantis ir garsėjęs Kresmenos valsčiuje.
+- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
 - susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
 - susijęs iš [[objektai/autoriai/Engel C.md#claim-t-60696|Engel C]]: Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-183935|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.
@@ -105,13 +107,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   irodymo_stiprumas: 0.00
   saltinio_vieta: 527659-528161; hash=f8bb3a06147eecac4b710f8c31642d009ee03ca084b25af066435cb7dddbafbf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skomantas: 0.85
+  ryšio_patikimumas: gyveno -> Kresmena: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kresmena: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skomantas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kresmena" parinktas kaip owner_note_path. Targetas "Skomantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kresmena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas aprašomas kaip veikiantis ir garsėjęs Kresmenos valsčiuje.
     - t-004
 
 - c-002
@@ -167,13 +169,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   irodymo_stiprumas: 0.00
   saltinio_vieta: 527659-528161; hash=f8bb3a06147eecac4b710f8c31642d009ee03ca084b25af066435cb7dddbafbf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skomantas: 0.85
+  ryšio_patikimumas: gyveno -> Kresmena: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kresmena: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skomantas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kresmena" parinktas kaip owner_note_path. Targetas "Skomantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kresmena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas aprašomas kaip veikiantis ir garsėjęs Kresmenos valsčiuje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a550178d3b726c8e39a1f6214b88f1e5a741fb91a06e1db1232e3b95aae88ac; match=fallback; occurrences=0
@@ -185,3 +187,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   ryšio_subjekto_parinkimas: Kresmena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Sūduva: mention_match, place, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kresmena" parinktas kaip owner_note_path. Targetas "Sūduva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) puole Kresmena
+- [[objektai/asmenys/Skomantas]] gyveno Kresmena

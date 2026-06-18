@@ -40,6 +40,9 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
 - susijęs iš Lipnas: Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
 - susijęs iš Ripinas: Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
+- susijęs iš Bobrovnikai: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
+- susijęs iš Bidgoščius: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,3 +70,6 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
   ryšio_subjekto_parinkimas: Zlotorija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bidgoščius: mention_match, place, gap=85
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zlotorija" parinktas kaip owner_note_path. Targetas "Bidgoščius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Zlotorija

@@ -44,7 +44,8 @@ Nenurodyta
   global_id: t-80681
   teiginys: '1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Zelencai; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelva'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)|Zelencų mūšis (1792 m. birželio 18 d.)]]; mentioned_place: Rusija; mentioned_place: Zelencai; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)|Zelencų mūšis (1792 m. birželio 18 d.)]]'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
@@ -53,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zelencų mūšis (1792 m. birželio 18 d.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Zelencų mūšis (1792 m. birželio 18 d.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Lenkijos kariuomenės veiksmas prie Zelencų tiesiogiai siejamas su šiuo mūšiu.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +86,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zelencų mūšis (1792 m. birželio 18 d.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Zelencų mūšis (1792 m. birželio 18 d.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Lenkijos kariuomenės veiksmas prie Zelencų tiesiogiai siejamas su šiuo mūšiu.
+
+## Ryšiai
+- [[objektai/grupes/Lenkijos kariuomenė]] dalyvavo_musyje Zelencų mūšis (1792 m. birželio 18 d.)

@@ -22,19 +22,19 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir išryškintas su Slepovrodžiu susijęs faktas.'
-  susije_objektai: 'mentioned_place: Kanevas; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Brianskas; llm_object: Perejeslavlis; mentioned_place: Kanevas; mentioned_place: Čerkasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kanevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slepovrodis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kanevas: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slepovrodis" parinktas kaip owner_note_path. Targetas "Kanevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brianskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Briansko užėmimą Gedimino veiksmų sekoje.
 
 ## Reikšmingi paminėjimai
 
@@ -63,10 +63,10 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kanevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slepovrodis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kanevas: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slepovrodis" parinktas kaip owner_note_path. Targetas "Kanevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brianskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Briansko užėmimą Gedimino veiksmų sekoje.

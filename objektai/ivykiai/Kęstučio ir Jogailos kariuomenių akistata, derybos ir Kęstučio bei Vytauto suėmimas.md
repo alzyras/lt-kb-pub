@@ -100,19 +100,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Krėva; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474580-475257; hash=a1db6b400eefc7190cc881f9975f1913d67bc8d7b452212346759031909ad391; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krėva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kęstutis buvo nuvežtas į Krėvą.
 
 ## Reikšmingi paminėjimai
 
@@ -256,10 +256,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474580-475257; hash=a1db6b400eefc7190cc881f9975f1913d67bc8d7b452212346759031909ad391; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krėva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kęstutis buvo nuvežtas į Krėvą.

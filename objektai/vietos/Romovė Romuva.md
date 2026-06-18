@@ -40,19 +40,20 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   global_id: t-58476
   teiginys: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.'
   sudarymo_pagrindimas: 'Pašalinta klaidinanti autorystės atribucija ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_place: Romuva; mentioned_place: Nadruva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Romuva; llm_object: Nadruva; mentioned_place: Nadruva; mentioned_place: Viena'
+  semantiniai_rysiai: 'Romovė Romuva priklausė Nadruva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212334-212519; hash=8d06a9c5800ed1f95850b011706c7dca118e088ae9a5cbd1d7242428aac5ada2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romovė Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romovė Romuva" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romovė Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kilmininko konstrukcija tiesiogiai sieja Romovę / Romuvą su Nadruva.
 
 <a id="claim-t-58477"></a>
 - t-003
@@ -90,13 +91,13 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212334-212519; hash=8d06a9c5800ed1f95850b011706c7dca118e088ae9a5cbd1d7242428aac5ada2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romovė Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romovė Romuva" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romovė Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kilmininko konstrukcija tiesiogiai sieja Romovę / Romuvą su Nadruva.
     - t-004
 
 - c-002
@@ -112,13 +113,13 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212334-212519; hash=8d06a9c5800ed1f95850b011706c7dca118e088ae9a5cbd1d7242428aac5ada2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romovė Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romovė Romuva" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romovė Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai apibūdina Romovę / Romuvą kaip Nadruvos.
     - t-001
 
 - c-003
@@ -152,3 +153,6 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   ryšio_subjekto_parinkimas: Romovė Romuva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romovė Romuva" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Romovė Romuva priklause [[objektai/vietos/Nadruva]]

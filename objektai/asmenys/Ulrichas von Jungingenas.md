@@ -128,3 +128,8 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Ulrichas von Jungingenas keliavo_i [[objektai/vietos/Loebau]]
+- Ulrichas von Jungingenas keliavo_i [[objektai/vietos/Torno]]
+- Ulrichas von Jungingenas sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

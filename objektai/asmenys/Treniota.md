@@ -181,6 +181,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   ryšio_subjekto_parinkimas: Treniota: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krymas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniota" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
+- susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
@@ -210,6 +213,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - susijęs iš Dnepras: Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.
 - susijęs iš Nemunas: Užšalęs Nemunas leido magistro Konrado fon Tirbergo vedamiems kryžiuočiams lengvai persikelti ledu į Lietuvą.
 - susijęs iš Vysla: Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -413,3 +417,17 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   ryšio_subjekto_parinkimas: Treniota: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krymas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniota" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Treniota uzeme [[objektai/vietos/Birgelava]]
+- Treniota siunte_i [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Tautvilas]] buvo_priesas Treniota
+- Treniota surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Treniota puole [[objektai/vietos/Mazovija]]
+- [[objektai/asmenys/Pisimantas]] buvo_brolis Treniota
+- [[objektai/grupes/Žemaičiai]] reme Treniota
+- Treniota puole [[objektai/vietos/Červinskas]]
+- Treniota valde [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Naugardukiečiai]] reme Treniota
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] reme Treniota
+- Treniota puole [[objektai/vietos/Livonija]]

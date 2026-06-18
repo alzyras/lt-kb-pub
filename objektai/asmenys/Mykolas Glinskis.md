@@ -54,7 +54,8 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   global_id: t-82625
   teiginys: 'Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje nurodyta data bei veiksmu.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] keliavo į Vilnius'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -173,13 +174,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58624c59a992fb5d04f4926a5e4e3b1995676ba171dec9a367afff31ea7eecbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mykolas Glinskis grįžo į Vilnių.
 
 <a id="claim-t-184799"></a>
 - t-009
@@ -189,7 +190,8 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citatos kontekstas leidžia patikslinti, kad kalbama apie Smolensko žemę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; llm_object: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] rėmė [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -217,13 +219,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1067657-1068231; hash=15231ae3a023350bd7a528be7f44178ac5931e0ee1de80d34ad3ffb8d741fb38; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: reme -> Mykolas Glinskis: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė „linko į Glinskį“ rodo Smolensko žemės bajorų palankumą Mykolui Glinskiui.
 
 <a id="claim-t-184801"></a>
 - t-011
@@ -321,8 +323,8 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia konkrečią Vasilijaus suteiktą padėtį Glinskiui.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] paskyrė [[objektai/asmenys/Vasilijus|Vasilijus]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus|Vasilijus]] paskyrė [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -350,13 +352,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vasilijus: 0.90
+  ryšio_patikimumas: paskyre -> Mykolas Glinskis: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=46
-  ryšio_targeto_parinkimas: Vasilijus: nearest_after_predicate, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vasilijus paskyrė Mykolą Glinskį globėju.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186538|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186539|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraščio pasakojime Klecko mūšyje Mykolas Glinskis su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89628|Aleksandras]]: Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.
@@ -518,13 +520,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58624c59a992fb5d04f4926a5e4e3b1995676ba171dec9a367afff31ea7eecbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mykolas Glinskis grįžo į Vilnių.
     - t-004
 
 - c-006
@@ -703,13 +705,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1067657-1068231; hash=15231ae3a023350bd7a528be7f44178ac5931e0ee1de80d34ad3ffb8d741fb38; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: reme -> Mykolas Glinskis: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė „linko į Glinskį“ rodo Smolensko žemės bajorų palankumą Mykolui Glinskiui.
     - t-011
 
 - c-012
@@ -873,13 +875,19 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vasilijus: 0.90
+  ryšio_patikimumas: paskyre -> Mykolas Glinskis: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Mykolas Glinskis: owner_note_path, person, gap=46
-  ryšio_targeto_parinkimas: Vasilijus: nearest_after_predicate, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Mykolas Glinskis" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vasilijus paskyrė Mykolą Glinskį globėju.
 
 ## Ryšiai
-- Mykolas Glinskis paskyre [[objektai/asmenys/Vasilijus]]
+- Mykolas Glinskis puole [[objektai/grupes/Totoriai]]
+- Mykolas Glinskis keliavo_i [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vasilijus]] paskyre Mykolas Glinskis
+- Mykolas Glinskis dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
+- Mykolas Glinskis kariavo_pries [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Bajorai]] reme Mykolas Glinskis
+- Mykolas Glinskis keliavo_i [[objektai/vietos/Kleckas]]

@@ -22,19 +22,20 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; sakinys remiasi citata.'
-  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
+  susije_objektai: 'mentioned_place: Teodosija (Kafa); llm_object: Teodosija (Kafa)'
+  semantiniai_rysiai: '[[objektai/grupes/Kafos gyventojai|Kafos gyventojai]] gyveno Teodosija (Kafa)'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teodosija (Kafa): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kafos gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Teodosija (Kafa): mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kafos gyventojai" parinktas kaip owner_note_path. Targetas "Teodosija (Kafa)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Teodosija (Kafa): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafos gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teodosija (Kafa): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Kafos gyventojus tiesiogiai sieja su Teodosijos, vadinamosios Kafos, miestu.
 - susijęs iš Krymas: Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,14 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
   irodymo_stiprumas: 0.00
   saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teodosija (Kafa): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kafos gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Teodosija (Kafa): mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kafos gyventojai" parinktas kaip owner_note_path. Targetas "Teodosija (Kafa)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Teodosija (Kafa): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafos gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teodosija (Kafa): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Kafos gyventojus tiesiogiai sieja su Teodosijos, vadinamosios Kafos, miestu.
+
+## Ryšiai
+- Kafos gyventojai gyveno [[objektai/vietos/Teodosija (Kafa)]]
+- Kafos gyventojai keliavo_i [[objektai/vietos/Krymas]]

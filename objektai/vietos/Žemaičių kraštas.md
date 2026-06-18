@@ -78,3 +78,6 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Žemaičių kraštas (kraštas) priklause [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,26 +31,28 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   global_id: t-58690
   teiginys: 'Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata apie Burcos žemę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Vengrija'
+  semantiniai_rysiai: 'Burcos žemė priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 125956-126423; hash=7fbd79bbd4d11d3bdadcc69bb6ebd65e03a732adacc8d199736495dc89d01110; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burcos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burcos žemė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burcos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad ordinas gavo Burcos žemę, todėl ji priskiriama ordinui.
 
 <a id="claim-t-58691"></a>
 - t-002
   global_id: t-58691
   teiginys: 'Burcos žemė Transilvanijoje.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Transilvanija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Transilvanija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vengrija; llm_object: Burcos žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Burcos žemė'
   temporaliniai_duomenys: 'įvykio data: 1211 m.; įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
@@ -59,15 +61,17 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   irodymo_stiprumas: 0.00
   saltinio_vieta: 127961-128335; hash=cb981b41f08bf966414864122e186fd15791684efd787ee6ba2efaea5a279646; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Transilvanija: 0.85
+  ryšio_patikimumas: gyveno -> Burcos žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burcos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Transilvanija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burcos žemė" parinktas kaip owner_note_path. Targetas "Transilvanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Burcos žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įkurdinimas Burcos žemėje rodo kryžiuočių buvimą ir gyvenimą ten.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
 - susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
+- susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,21 +106,25 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   irodymo_stiprumas: 0.00
   saltinio_vieta: 125956-126423; hash=7fbd79bbd4d11d3bdadcc69bb6ebd65e03a732adacc8d199736495dc89d01110; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burcos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burcos žemė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burcos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad ordinas gavo Burcos žemę, todėl ji priskiriama ordinui.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 127961-128335; hash=cb981b41f08bf966414864122e186fd15791684efd787ee6ba2efaea5a279646; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Transilvanija: 0.85
+  ryšio_patikimumas: gyveno -> Burcos žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burcos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Transilvanija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burcos žemė" parinktas kaip owner_note_path. Targetas "Transilvanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Burcos žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įkurdinimas Burcos žemėje rodo kryžiuočių buvimą ir gyvenimą ten.
+
+## Ryšiai
+- Burcos žemė priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Burcos žemė

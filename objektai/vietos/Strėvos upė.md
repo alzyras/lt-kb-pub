@@ -30,19 +30,20 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
   global_id: t-42168
   teiginys: 'Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą.'
   sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį su aiškesne sakinio sandara.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Trakai; llm_object: Strėvos upė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Strėvos upė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f86f14a796c54601ccb61714b762eb33ce183d06ca64f81c39b22a94d353c37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Strėvos upė: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos upė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Strėvos upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos kariuomenės veiksmą prie Strėvos upės, nors tai nėra kelionės tikslas siaurąja prasme.
 
 <a id="claim-t-42169"></a>
 - t-002
@@ -107,13 +108,13 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f86f14a796c54601ccb61714b762eb33ce183d06ca64f81c39b22a94d353c37; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Strėvos upė: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos upė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Strėvos upė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos kariuomenės veiksmą prie Strėvos upės, nors tai nėra kelionės tikslas siaurąja prasme.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=605723e3d898fea703e0295d451cf5c00979983480841bd9c52821add869b342; match=fallback; occurrences=0
@@ -125,3 +126,6 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
   ryšio_subjekto_parinkimas: Strėvos upė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos upė" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Strėvos upė

@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Torunė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Torunė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; llm_object: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1231 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'

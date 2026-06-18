@@ -56,19 +56,22 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie Vasiljevičiaus veiksmus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Možaiskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Možaiskas; mentioned_place: Viazma; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]] puolė Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 940943-941493; hash=65b1b3e649479f1f21f8b942576bf7be0f7882ac5947f4d624510a2f4a327341; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.57
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vasiljevičius (Maskvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasiljevičius (Maskvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82283|Elena (vyskupas, XV–XVI a.)]]: Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82171|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -87,6 +90,7 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 - susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Vilnius: Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
+- susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54939|Aleksandras Jogailaitis]]: Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82170|Aleksandras Jogailaitis]]: Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
@@ -121,6 +125,9 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86460|bojarinai]]: Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
+- susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -192,10 +199,19 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 940943-941493; hash=65b1b3e649479f1f21f8b942576bf7be0f7882ac5947f4d624510a2f4a327341; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.57
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vasiljevičius (Maskvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasiljevičius (Maskvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apibendrina Vasiljevičiaus veiksmus prieš Lietuvos valdas, nors konkreti žala aprašoma plačiau citatoje.
+
+## Ryšiai
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_dukte Vasiljevičius (Maskvos valdovas)
+- Vasiljevičius (Maskvos valdovas) buvo_valdovas [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Stanislovas Goštautas]] sudare_sutarti_su Vasiljevičius (Maskvos valdovas)
+- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_priesas Vasiljevičius (Maskvos valdovas)
+- [[objektai/asmenys/Petras Białas]] sudare_sutarti_su Vasiljevičius (Maskvos valdovas)
+- Vasiljevičius (Maskvos valdovas) siunte_i [[objektai/vietos/Lietuva]]
+- Vasiljevičius (Maskvos valdovas) puole [[objektai/vietos/Lietuva]]

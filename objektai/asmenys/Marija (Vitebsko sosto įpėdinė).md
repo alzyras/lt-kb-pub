@@ -30,7 +30,8 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
 - t-001
   global_id: t-30356
   teiginys: 'Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Liubartas Gediminaitis|Liubartas Gediminaitis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)|Marija (Vitebsko sosto įpėdinė)]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Liubartas Gediminaitis|Liubartas Gediminaitis]]; llm_object: Vitebskas; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] vedė [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė)|Marija (Vitebsko sosto įpėdinė)]]'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,13 +39,13 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=202974fcb821bc2609227748435b4950b159fae73a9b9a2d4df958cabe59b1cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marija (Vitebsko sosto įpėdinė): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marija (Vitebsko sosto įpėdinė)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Marija (Vitebsko sosto įpėdinė): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marija (Vitebsko sosto įpėdinė): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas vedė Mariją.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +67,13 @@ Algirdui vedant vienintelę Vitebsko kunigaikščio sosto įpėdinę, dukterį M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=202974fcb821bc2609227748435b4950b159fae73a9b9a2d4df958cabe59b1cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marija (Vitebsko sosto įpėdinė): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marija (Vitebsko sosto įpėdinė)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Marija (Vitebsko sosto įpėdinė): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marija (Vitebsko sosto įpėdinė): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas vedė Mariją.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] vede Marija (Vitebsko sosto įpėdinė)

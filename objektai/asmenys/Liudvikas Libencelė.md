@@ -44,20 +44,19 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Liudviko Libencelės veiksmus.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kimelis; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas Libencelė|Liudvikas Libencelė]] užėmė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kimelis; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 295983-296551; hash=30574c01ba716bb300dc879c1ce1923c285c7606ba2c063c46643651795b6cf2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Liudvikas Libencelė: owner_note_path, person, gap=20
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Liudvikas Libencelė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Kimelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas Libencelė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas Libencelė" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -119,13 +118,10 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   irodymo_stiprumas: 0.00
   saltinio_vieta: 295983-296551; hash=30574c01ba716bb300dc879c1ce1923c285c7606ba2c063c46643651795b6cf2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Liudvikas Libencelė: owner_note_path, person, gap=20
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Liudvikas Libencelė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
-
-## Ryšiai
-- Liudvikas Libencelė uzeme [[objektai/vietos/Lietuva]]
+  ryšio_patikimumas: susije_su -> Kimelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas Libencelė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas Libencelė" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

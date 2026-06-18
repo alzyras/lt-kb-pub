@@ -91,6 +91,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - susijęs iš Salys, A. Kęstučio vardas: A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
 - susijęs iš Suvalkai: Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
+- susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75997|Petras Kriaučiūnas]]: Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -153,3 +154,6 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Petras Kriaučiūnas]] gyveno Marijampolė

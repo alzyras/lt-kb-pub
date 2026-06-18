@@ -36,7 +36,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys negrabiai perteikia citatos mintį; perrašyta aiškiau ir glaustai.'
-  susije_objektai: 'location: Polona; mentioned_place: Polona; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Polona; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.

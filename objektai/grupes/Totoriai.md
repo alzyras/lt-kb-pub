@@ -57,7 +57,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171394
   teiginys: 'Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie totorių įkurdinimą ir apibūdinimą; pašalintas nutrūkęs tekstas.'
@@ -78,7 +79,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171396
   teiginys: 'Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Luckas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_place: Livonija; llm_object: Luckas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Luckas; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Luckas'
   temporaliniai_duomenys: 'įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį, pilną sakinį su citatoje nurodytu kontekstu.'
@@ -120,7 +122,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-008
   global_id: t-171401
   teiginys: 'Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.'
-  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius'
+  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius; llm_object: Nesvyžius; llm_object: Sluckas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Nesvyžius; [[objektai/grupes/Totoriai|Totoriai]] puolė Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1503 m.; įvykio data: 1506 m.; įvykio data: apie 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -131,26 +134,27 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171402
   teiginys: 'Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto.'
   sudarymo_pagrindimas: 'Pirminis sakinys nutrūkęs, bet citata remia aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Lietuva'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
   saltinio_vieta: 169887-170212; hash=1b05df405a2a04151d105a54643e907030bf104bbbb62874587541eae7bf1163; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=21
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_person_after_predicate, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kijevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171403"></a>
 - t-010
   global_id: t-171403
   teiginys: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Cepra; mentioned_place: Kleckas; mentioned_place: Pinskas'
+  susije_objektai: 'llm_object: Kleckas; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Cepra; mentioned_place: Kleckas; mentioned_place: Pinskas'
   temporaliniai_duomenys: 'įvykio data: 200 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys ir atitinka citatos turinį.'
@@ -171,7 +175,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-011
   global_id: t-171404
   teiginys: 'Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Livonija; mentioned_place: Luckas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Livonija; llm_object: Luckas; mentioned_place: Luckas; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Luckas'
   temporaliniai_duomenys: 'įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -179,13 +184,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo totorių puldinėjimus Kijevo krašte.
 
 <a id="claim-t-171405"></a>
 - t-012
@@ -201,13 +206,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Luckas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad totoriai smarkiai apgriovė Lucką.
 
 <a id="claim-t-171406"></a>
 - t-013
@@ -233,7 +238,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171407
   teiginys: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti Henriko tapatybę ir žygio padarinius.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Vroclavas'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vengrija; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Vroclavas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija; [[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
@@ -279,13 +285,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymas nurodytas kaip pagrindinių totorių buveinių vieta.
 
 <a id="claim-t-171410"></a>
 - t-017
@@ -326,7 +332,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171412
   teiginys: 'Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra OCR fragmentas su iškreipta sakinio tvarka.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Luckas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_place: Livonija; llm_object: Luckas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Luckas; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Luckas'
   temporaliniai_duomenys: 'įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra OCR fragmentas su iškreipta sakinio tvarka.'
@@ -355,7 +362,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-021
   global_id: t-171414
   teiginys: 'Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1419 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -363,19 +371,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305634-306104; hash=8676523b51d02d8258a1b6fd047bc3175dcd5bfffcd0e793c1b50179bbc1e0f4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumas: puole -> Nesvyžius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nesvyžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nesvyžius įvardytas kaip totorių išpuolių kryptis.
 
 <a id="claim-t-171415"></a>
 - t-022
   global_id: t-171415
   teiginys: 'Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė; llm_object: Lietuva'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -394,20 +402,19 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171416
   teiginys: 'Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti karo pusę ir pašalinti neapibrėžtą jungtį.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] susiję su [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Rusija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 315858-316324; hash=4e67c5f42ee0a35d6654dd792d41ac983a4781a4975a8ef2e74c73ec470c0647; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cepra: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Cepra: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Cepra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kleckas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kleckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo LDK kariuomenės judėjimą Klecko link.
 
 <a id="claim-t-171418"></a>
 - t-024
@@ -452,20 +459,20 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171420
   teiginys: 'Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas; llm_object: Krymas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Krymas'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f83e5bf0c90acdcddfa08eb0347b6150023f773afe34404f9ad2abf939865e0c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Totoriai: owner_after_title, group, gap=56
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Liublinas: candidate; Trakai: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Totoriai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Liublinas.md", "selected": false, "strategy": "candidate", "title": "Liublinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Trakai.md", "selected": false, "strategy": "candidate", "title": "Trakai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Isaakas ben Abrahamas iš Trakų" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171421"></a>
 - t-027
@@ -506,20 +513,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76247a1130417872b15a8d5508acee31d09c757c92b14a90c07980210450e800; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Levas (Haličo kunigaikštis): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Levas (Haličo kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Levas (Haličo kunigaikštis): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių sąjungą su Volinijos Levu.
 
 <a id="claim-t-171424"></a>
 - t-030
   global_id: t-171424
   teiginys: 'Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
   sudarymo_pagrindimas: 'Teiginys remia autoriaus interpretaciją, todėl tinka aiškesnė atribucinė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Jeruzalė; mentioned_place: Sirija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Jeruzalė; mentioned_place: Sirija; llm_object: Sirija'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] surengė žygį į Sirija'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys remia autoriaus interpretaciją, todėl tinka aiškesnė atribucinė formuluotė.'
@@ -528,13 +536,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177387-177552; hash=cb9a89887501c063ab1a893533b43f64da17e780ec4ba5f328485b454b9aa111; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių judėjimą Kijevo link.
 
 <a id="claim-t-171425"></a>
 - t-031
@@ -550,13 +558,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Luckas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad totoriai apgriovė Lucką.
 
 <a id="claim-t-171427"></a>
 - t-033
@@ -582,8 +590,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171428
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą, susijusį su totorių bendruomene.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_person: [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] susiję su Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_person: [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
@@ -610,7 +617,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171430
   teiginys: 'Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Valakija; mentioned_place: Volga'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Valakija; mentioned_place: Volga; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] siuntė į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1420 m.; įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo kontekstinis fragmentas, perrašytas į pilną sakinį.'
@@ -637,13 +645,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Nemėžis: 1.00
+  ryšio_patikimumas: gyveno -> Lietuva: 0.85
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Nemėžis: nearest_after_predicate, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Nemėžis" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad totoriai buvo įkurdinti Vytauto Lietuvoje.
 
 <a id="claim-t-171432"></a>
 - t-038
@@ -658,8 +666,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-039
   global_id: t-171433
   teiginys: 'Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.'
-  susije_objektai: 'location: Nemėžis; mentioned_place: Nemėžis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Nemėžis'
+  susije_objektai: 'mentioned_place: Nemėžis; mentioned_place: Vilnius; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; llm_object: Ašmena; llm_object: Naugardukas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Lietuva; [[objektai/grupes/Totoriai|Totoriai]] gyveno Naugardukas; [[objektai/grupes/Totoriai|Totoriai]] gyveno Ašmena'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -667,13 +675,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniepras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vytauto mūšius su totoriais.
 
 <a id="claim-t-171434"></a>
 - t-040
@@ -723,20 +731,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai apibūdintas kaip kreipęs totorių ir rusų ordas į Lietuvą.
 
 <a id="claim-t-171437"></a>
 - t-043
   global_id: t-171437
   teiginys: 'Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Kijevas; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; llm_object: Luckas; llm_object: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Kijevas; [[objektai/grupes/Totoriai|Totoriai]] puolė Podolė; [[objektai/grupes/Totoriai|Totoriai]] puolė Luckas'
   temporaliniai_duomenys: 'įvykio data: 1414-1416; įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -776,20 +785,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171439
   teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas abiem citatomis.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vengrija; mentioned_place: Lenkija; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija; [[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija'
   pagrindžia:
     - c-020
     - c-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: 47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mongolai: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Mongolai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Mongolai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyti totorių-mongolų žygiai prieš Siriją.
 
 <a id="claim-t-171440"></a>
 - t-046
@@ -809,27 +819,28 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171441
   teiginys: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.'
   sudarymo_pagrindimas: 'Reikia pataisyti skaičiaus rašybą ir palikti citatos remiamą turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]'
+  susije_objektai: 'llm_object: Palestina; llm_object: Sirija; mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; llm_object: [[objektai/grupes/Armėnai|Armėnai]]; llm_object: [[objektai/grupes/Gruzinai|Gruzinai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] surengė žygį į Sirija; [[objektai/grupes/Totoriai|Totoriai]] surengė žygį į Palestina; [[objektai/grupes/Totoriai|Totoriai]] buvo sąjungininkas su [[objektai/grupes/Armėnai|Armėnai]]; [[objektai/grupes/Totoriai|Totoriai]] buvo sąjungininkas su [[objektai/grupes/Gruzinai|Gruzinai]]'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697676-697810; hash=d8ff511a18026042c5865f0fc93989dce6130fbb32c10616e327458bfe8f3bef; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis.
 
 <a id="claim-t-171443"></a>
 - t-049
   global_id: t-171443
   teiginys: '1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
   sudarymo_pagrindimas: 'Reikia pataisyti skaičiaus rašybą į norminę lietuvišką formą.'
-  susije_objektai: 'territory: Vengrija; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] susiję su Vengrija'
+  susije_objektai: 'mentioned_place: Vengrija; llm_object: Vengrija'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Totoriai susiję su Vengrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti skaičiaus rašybą į norminę lietuvišką formą.'
@@ -838,13 +849,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Armėnai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Armėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Palestina: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių žygį į Palestiną.
 
 <a id="claim-t-171444"></a>
 - t-050
@@ -857,20 +868,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01de3f7b006b37d96f4001d7f7e9b4614932d8b39b0cd7989030f7ad0c730e6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vengrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Totoriai: owner_after_title, group, gap=30
-  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Totoriai" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vengrija: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių kariuomenė apibūdinta kaip siaubusi Vengrijos karaliaus karalystę.
 
 <a id="claim-t-171445"></a>
 - t-051
   global_id: t-171445
   teiginys: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutrumpinta enciklopedinė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] keliavo į Kijevas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -926,13 +938,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 298385-298886; hash=ebeecb700c888a77123e01d376e0675afcb9f3e29a4204d016af818f6080da89; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai buvo įkurdinti Lietuvoje.
 
 <a id="claim-t-187747"></a>
 - t-058
@@ -948,13 +960,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 299766-300464; hash=756a49a6b262868874f4002db224232075114aacf1a09fd9ccaaa3a2c7a3fbef; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai puolė lietuvius.
 
 <a id="claim-t-187748"></a>
 - t-059
@@ -970,13 +982,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys priskiria totorių chanui siuntimą į Vilnių; objektas apibendrintas kaip totoriai.
 
 <a id="claim-t-187750"></a>
 - t-060
@@ -992,13 +1004,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai apibūdintas kaip nukreipęs ordas į Lietuvą.
 
 <a id="claim-t-187751"></a>
 - t-061
@@ -1008,7 +1020,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako totorių puolimą ir jo padarinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-049
   irodymo_stiprumas: 0.00
@@ -1021,10 +1034,60 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Maskvėnai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
+- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
+- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
+- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
+- susijęs iš [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.).md#claim-t-86954|Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]: Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.
+- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186539|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraščio pasakojime Klecko mūšyje Mykolas Glinskis su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
+- susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.
+- susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171467|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
+- susijęs iš Dniepras: Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82220|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172892|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.
+- susijęs iš Dniepras: Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
-- susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
-- susijęs iš [[objektai/zodynas/saar.md#claim-t-70318|saar]]: Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187718|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171466|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-183677|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
+- susijęs iš Trumpoji Lietuvos metraščių redakcija: Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172886|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187724|Lietuvos kariuomenė]]: Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.
+- susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
+- susijęs iš [[objektai/posakiai/du priešai, šaltis ir totoriai.md#claim-t-11660|du priešai, šaltis ir totoriai]]: Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais.
+- susijęs iš Cepro upė: Po Klecko kautynių Mykolas Glinskis su Lietuvos kariuomene vijosi totorius aplink Ceprą ir už Cepros.
+- susijęs iš [[objektai/daiktai/Lankai.md#claim-t-186851|Lankai]]: Klecko mūšyje Lietuvos kariuomenė šaudė į totorius per upę iš patrankų, šautuvų ir lankų.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186543|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10254|Mėlynųjų Vandenų mūšis (1362 m.)]]: Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.
+- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186389|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
+- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186390|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
+- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186391|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
+- susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171467|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
+- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184434|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.
+- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184442|Martynas V]]: Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176735|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.
+- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
+- susijęs iš [[objektai/daiktai/Šautuvai.md#claim-t-186849|Šautuvai]]: Klecko mūšyje Lietuvos kariuomenė per upę šaudė į totorius iš patrankų, šautuvų ir lankų.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171344|Karijotaičiai]]: Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.
+- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171472|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171473|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10255|Mėlynųjų Vandenų mūšis (1362 m.)]]: Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186583|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene.
+- susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
+- susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
+- susijęs iš Volynė: Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.
+- susijęs iš [[objektai/zodynas/murza.md#claim-t-183718|murza]]: Po Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
+- susijęs iš [[objektai/zodynas/murza.md#claim-t-38767|murza]]: Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30194|Aleksandras (Mykolo sūnus)]]: Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89629|Aleksandras]]: Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.
@@ -1257,6 +1320,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/taurininkas.md#claim-t-187561|taurininkas]]: Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir vyko su diplomatine misija pas totorius.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186591|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Vytautas prieš Vorsklos mūšį siekė atimti iš Temir-Kutlujaus karalystę ir pasodinti į sostą chaną Tochtamyšą.
+- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
+- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10106|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+- susijęs iš [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du.md#claim-t-35985|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]: Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.
+- susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
@@ -1749,6 +1818,27 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-183719|ulonas]]: Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-86621|ulusas]]: Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171468|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychoveco kronikos pasakojime Klecko mūšio pergalė prieš totorius vaizduota kaip Dievo gailestingumas Lietuvos Didžiajai Kunigaikštystei.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171470|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: 1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.
+- susijęs iš [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“.md#claim-t-36026|„Todėl ir reikia kariauti... šaltis ir totoriai.“]]: Vytautas prie Dniepro atrėmė, kad reikia kariauti, nes pergalė reikštų triumfą prieš šaltį ir totorius.
+- susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05440|kryžiaus karas]]: 1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.
+- susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185492|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio.
+- susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+- susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186539|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraščio pasakojime Klecko mūšyje Mykolas Glinskis su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
+- susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
+- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31502|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje.
+- susijęs iš [[objektai/zodynas/ulonas.md#claim-t-183719|ulonas]]: Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.
+- susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
+- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
+- susijęs iš Ovručas: Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.
+- susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
+- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186540|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraščio pasakojime prie Cepros upės bemaž visi nuo Klecko mūšio pabėgę totoriai prigėrė upėje ir pelkėje.
+- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66816|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.
+- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1826,13 +1916,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 315858-316324; hash=4e67c5f42ee0a35d6654dd792d41ac983a4781a4975a8ef2e74c73ec470c0647; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cepra: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Cepra: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Cepra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kleckas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kleckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo LDK kariuomenės judėjimą Klecko link.
     - t-037
 
 - c-005
@@ -1849,13 +1939,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Nemėžis: 1.00
+  ryšio_patikimumas: gyveno -> Lietuva: 0.85
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Nemėžis: nearest_after_predicate, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Nemėžis" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad totoriai buvo įkurdinti Vytauto Lietuvoje.
     - t-051
 
 - c-006
@@ -1885,13 +1975,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo totorių puldinėjimus Kijevo krašte.
     - t-019
 
 - c-007
@@ -1973,24 +2063,24 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai apibūdintas kaip kreipęs totorių ir rusų ordas į Lietuvą.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymas nurodytas kaip pagrindinių totorių buveinių vieta.
     - t-032
 
 - c-010
@@ -2034,14 +2124,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f83e5bf0c90acdcddfa08eb0347b6150023f773afe34404f9ad2abf939865e0c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Totoriai: owner_after_title, group, gap=56
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Liublinas: candidate; Trakai: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Totoriai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Liublinas.md", "selected": false, "strategy": "candidate", "title": "Liublinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Trakai.md", "selected": false, "strategy": "candidate", "title": "Trakai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Isaakas ben Abrahamas iš Trakų: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Isaakas ben Abrahamas iš Trakų: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Isaakas ben Abrahamas iš Trakų" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-020
 
 - c-012
@@ -2252,13 +2341,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697676-697810; hash=d8ff511a18026042c5865f0fc93989dce6130fbb32c10616e327458bfe8f3bef; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkija tiesiogiai įvardyta kaip totorių nuniokota šalis.
     - t-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ea88c61369216da8fe16643c06bd4f41ecc0cb19b514c5a17a4a37ae31ec3be; match=fallback; occurrences=0
@@ -2293,13 +2382,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305634-306104; hash=8676523b51d02d8258a1b6fd047bc3175dcd5bfffcd0e793c1b50179bbc1e0f4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumas: puole -> Nesvyžius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nesvyžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nesvyžius įvardytas kaip totorių išpuolių kryptis.
     - t-007
     - t-036
 
@@ -2331,13 +2420,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mongolai: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Mongolai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Mongolai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyti totorių-mongolų žygiai prieš Siriją.
     - t-056
 
 - c-021
@@ -2377,13 +2466,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76247a1130417872b15a8d5508acee31d09c757c92b14a90c07980210450e800; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Levas (Haličo kunigaikštis): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Levas (Haličo kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Levas (Haličo kunigaikštis): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių sąjungą su Volinijos Levu.
     - t-052
 
 - c-022
@@ -2493,13 +2582,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 169887-170212; hash=1b05df405a2a04151d105a54643e907030bf104bbbb62874587541eae7bf1163; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=21
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_person_after_predicate, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kijevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-033
 
 - c-026
@@ -2557,13 +2646,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 47599-48169; hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mongolai: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Mongolai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Mongolai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyti totorių-mongolų žygiai prieš Siriją.
     - t-050
 
 - c-028
@@ -2600,13 +2689,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01de3f7b006b37d96f4001d7f7e9b4614932d8b39b0cd7989030f7ad0c730e6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vengrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Totoriai: owner_after_title, group, gap=30
-  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Totoriai" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vengrija: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių kariuomenė apibūdinta kaip siaubusi Vengrijos karaliaus karalystę.
     - t-040
 
 - c-029
@@ -2655,13 +2744,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177387-177552; hash=cb9a89887501c063ab1a893533b43f64da17e780ec4ba5f328485b454b9aa111; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių judėjimą Kijevo link.
     - t-034
 
 - c-031
@@ -2786,13 +2875,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Armėnai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Armėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Palestina: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių žygį į Palestiną.
     - t-012
 
 - c-036
@@ -2831,24 +2920,24 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Luckas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad totoriai smarkiai apgriovė Lucką.
     - t-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniepras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vytauto mūšius su totoriais.
     - t-002
 
 - c-037
@@ -2961,13 +3050,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių įsiveržimą į Lenkiją.
     - t-041
 
 - c-042
@@ -3019,13 +3108,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be1a3346d2da9ed946e25599e728287f410bc23ab87a564a8ae983ee8377cbf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Luckas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad totoriai apgriovė Lucką.
     - t-054
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86147-86579; hash=414b24bf43d7ff91fdfe2bc66676650431f4da95a4d45de573db1979afd2c272; match=whitespace_regex
@@ -3114,13 +3203,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 298385-298886; hash=ebeecb700c888a77123e01d376e0675afcb9f3e29a4204d016af818f6080da89; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai buvo įkurdinti Lietuvoje.
     - t-058
 
 - c-047
@@ -3154,13 +3243,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 299766-300464; hash=756a49a6b262868874f4002db224232075114aacf1a09fd9ccaaa3a2c7a3fbef; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai puolė lietuvius.
     - t-059
 
 - c-048
@@ -3184,13 +3273,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys priskiria totorių chanui siuntimą į Vilnių; objektas apibendrintas kaip totoriai.
     - t-060
 
 - c-049
@@ -3217,13 +3306,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0916e40861d9ecd3502d6fc514b8baad9ac2dfecc420a4b96e6be8d2fd4e49ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai apibūdintas kaip nukreipęs ordas į Lietuvą.
     - t-061
   irodymo_stiprumas: 0.00
   saltinio_vieta: 764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=whitespace_regex
@@ -3237,15 +3326,104 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totoriai" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Totoriai
+- Totoriai puole [[objektai/vietos/Lenkija]]
+- Totoriai puole [[objektai/vietos/Vengrija]]
+- Totoriai uzeme [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Totoriai
+- [[objektai/asmenys/Andrius Algirdaitis]] kariavo_pries Totoriai
+- Totoriai siunte_i [[objektai/vietos/Naugardukas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Totoriai
+- [[objektai/asmenys/Mykolas Glinskis]] puole Totoriai
+- Totoriai surenge_zygi_i [[objektai/vietos/Palestina]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Sirija]]
+- Totoriai uzeme [[objektai/vietos/Krėva]]
+- Totoriai uzeme [[objektai/vietos/Minskas]]
+- Totoriai uzeme [[objektai/vietos/Zaslavlis]]
+- [[objektai/asmenys/Mykolas]] puole Totoriai
+- Totoriai gyveno [[objektai/vietos/Lietuva]]
 - Totoriai gyveno [[objektai/vietos/Nemėžis]]
-- [[objektai/vietos/Smolenskas]] priklause Totoriai
-- Totoriai susije_su [[objektai/vietos/Vengrija]]
-- Totoriai susije_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Totoriai
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
-- Totoriai valde_teritorija [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Totoriai
-- Totoriai uzeme [[objektai/vietos/Lietuva]]
+- Totoriai gyveno [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Totoriai
+- Totoriai surenge_zygi_i [[objektai/vietos/Vengrija]]
+- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Totoriai
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Totoriai
+- Totoriai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- Totoriai puole [[objektai/vietos/Kijevas]]
+- Totoriai puole [[objektai/vietos/Podolė]]
+- Totoriai buvo_sajungininkas_su [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
+- Totoriai dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- Totoriai keliavo_i [[objektai/vietos/Kijevas]]
+- Totoriai puole [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]]
+- Totoriai puole [[objektai/vietos/Lietuva]]
+- Totoriai puole [[objektai/grupes/Lietuviai]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Lenkija]]
 - Totoriai uzeme [[objektai/vietos/Trakai]]
 - Totoriai uzeme [[objektai/vietos/Vilnius]]
+- Totoriai valde [[objektai/vietos/Kijevas]]
+- [[objektai/asmenys/Gediminas]] kariavo_pries Totoriai
+- [[objektai/grupes/Lietuviai]] puole Totoriai
+- [[objektai/asmenys/Mykolas Glinskis]] kariavo_pries Totoriai
+- Totoriai reme [[objektai/asmenys/Jonas Kalita]]
+- Totoriai puole [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Dimitrijus]] kariavo_pries Totoriai
+- [[objektai/grupes/Kazokai]] kariavo_pries Totoriai
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Totoriai
+- Totoriai gyveno [[objektai/vietos/Ašmena]]
+- Totoriai gyveno [[objektai/vietos/Naugardukas]]
+- Totoriai gyveno [[objektai/vietos/Trakai]]
+- Totoriai keliavo_i [[objektai/vietos/Dniepras]]
+- Totoriai puole [[objektai/grupes/Pranciškonų ordinas]]
+- Totoriai puole [[objektai/grupes/Saracėnai]]
+- Totoriai puole [[objektai/vietos/Viazma]]
+- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] puole Totoriai
+- Totoriai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Totoriai keliavo_i [[objektai/vietos/Dniestras]]
+- Totoriai keliavo_i [[objektai/vietos/Lietuva]]
+- Totoriai puole [[objektai/vietos/Luckas]]
+- Totoriai kariavo_pries [[objektai/asmenys/Kolomanas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Totoriai
+- [[objektai/grupes/Kryžiuočių ordinas]] gyne Totoriai
+- Totoriai buvo_sajungininkas_su [[objektai/grupes/Armėnai]]
+- Totoriai buvo_sajungininkas_su [[objektai/grupes/Gruzinai]]
+- Totoriai gyveno [[objektai/vietos/Krymas]]
+- Totoriai keliavo_i [[objektai/vietos/Mozyrius]]
+- Totoriai keliavo_i [[objektai/vietos/Sluckas]]
+- Totoriai puole [[objektai/vietos/Minskas]]
+- Totoriai puole [[objektai/vietos/Sluckas]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Naugardukas]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Sluckas]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Vitebskas]]
+- [[objektai/grupes/Armėnai]] buvo_sajungininkas_su Totoriai
+- Totoriai gyveno [[objektai/vietos/Krymo pusiasalis]]
+- Totoriai puole [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Totoriai
+- Totoriai dalyvavo_musyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- Totoriai keliavo_i [[objektai/vietos/Trakai]]
+- Totoriai keliavo_i [[objektai/vietos/Vilnius]]
+- Totoriai priklause [[objektai/grupes/Maskvos kariuomenė]]
+- Totoriai puole [[objektai/vietos/Druckas]]
+- Totoriai puole [[objektai/vietos/Prūsai]]
+- Totoriai puole [[objektai/vietos/Smotričius]]
+- [[objektai/grupes/Gruzinai]] buvo_sajungininkas_su Totoriai
+- [[objektai/grupes/Karijotaičiai]] kariavo_pries Totoriai
+- Totoriai priklause [[objektai/grupes/Lietuvos jungtinės pajėgos]]
+- Totoriai surenge_zygi_i [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Totoriai
+- Totoriai puole [[objektai/vietos/Nesvyžius]]
+- [[objektai/grupes/Maskvėnai]] buvo_sajungininkas_su Totoriai
+- Totoriai puole [[objektai/asmenys/Zaberezinskis]]
+- Totoriai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Totoriai keliavo_i [[objektai/vietos/Cepra]]
+- Totoriai buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Totoriai puole [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Auksinė Orda]] priklause Totoriai
+- Totoriai siunte_i [[objektai/vietos/Vilnius]]
+- Totoriai valde [[objektai/vietos/Lietuva]]
+- Totoriai buvo_priesas [[objektai/grupes/Kazokai]]
+- Totoriai puole [[objektai/vietos/Polockas]]
+- [[objektai/grupes/Vokiečių ordinas]] kariavo_pries Totoriai
+- Totoriai dalyvavo_musyje [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
+- Totoriai puole [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
+- Totoriai priklause [[objektai/vietos/Lietuva]]
+- Totoriai gyveno [[objektai/vietos/Rusija]]

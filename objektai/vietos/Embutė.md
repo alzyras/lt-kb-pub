@@ -29,7 +29,8 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 - t-001
   global_id: t-41712
   teiginys: 'Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas'
+  susije_objektai: 'llm_object: Embutė; llm_object: Kuršas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Embutė'
   temporaliniai_duomenys: 'įvykio data: 1244 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,13 +38,15 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99bceab75f25b058808a913aa73f2624a90871561da181cba9460370ea8403c7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Embutė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Embutė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Embutė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Embutė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mindaugo pajėgų puolimą prieš Embutės pilį.
+- susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
+- susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 ## Reikšmingi paminėjimai
@@ -67,10 +70,13 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99bceab75f25b058808a913aa73f2624a90871561da181cba9460370ea8403c7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Embutė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Embutė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Embutė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Embutė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mindaugo pajėgų puolimą prieš Embutės pilį.
+
+## Ryšiai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Embutė

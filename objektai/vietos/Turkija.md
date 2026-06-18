@@ -84,6 +84,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - susijęs iš [[objektai/zodynas/komputas.md#claim-t-09709|komputas]]: Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -106,3 +107,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Krymo chanatas]] priklause Turkija

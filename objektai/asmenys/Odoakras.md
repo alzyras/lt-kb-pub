@@ -22,7 +22,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Odoakras|Odoakras]] buvo valdovas [[objektai/grupes/Herulai|Herulai]]'
   temporaliniai_duomenys: 'įvykio data: 475 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -31,13 +32,13 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herulai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Odoakras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Herulai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odoakras" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Herulai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Odoakras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Odoakras tiesiogiai įvardytas herulų valdovu.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +78,13 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herulai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Odoakras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Herulai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odoakras" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Herulai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Odoakras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Odoakras tiesiogiai įvardytas herulų valdovu.
+
+## Ryšiai
+- Odoakras buvo_valdovas [[objektai/grupes/Herulai]]

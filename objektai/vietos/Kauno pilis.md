@@ -79,38 +79,41 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   global_id: t-79425
   teiginys: 'Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako kariuomenės veiksmus ir Kauno pilies apgulą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'llm_object: Kauno pilis; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Kauno pilis'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=06ee7986f8529e0977c50f97dfcdafac46aa3cb329d3515d4efcea140ca1d8c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno pilis (pilis)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kauno pilis (pilis): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai apgulė pilį, o savininko objektas yra Kauno pilis.
 
 <a id="claim-t-79426"></a>
 - t-004
   global_id: t-79426
   teiginys: 'Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie Kauno pilį puolusias pajėgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Vokietija; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'llm_object: Kauno pilis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Vokietija; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kauno pilis'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154349-154889; hash=2a71a8e831442a30c8eaf4d0f27f789d840d51b05a379bb80d9ff9efa4bfc63c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno pilis (pilis)" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kauno pilis (pilis): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad kryžiuočių pajėgos puolė Kauno pilį.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš Kaunas: Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
 - susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
@@ -187,13 +190,13 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=06ee7986f8529e0977c50f97dfcdafac46aa3cb329d3515d4efcea140ca1d8c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno pilis (pilis)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kauno pilis (pilis): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai apgulė pilį, o savininko objektas yra Kauno pilis.
     - t-001
 
 - c-004
@@ -237,10 +240,17 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154349-154889; hash=2a71a8e831442a30c8eaf4d0f27f789d840d51b05a379bb80d9ff9efa4bfc63c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno pilis (pilis)" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kauno pilis (pilis): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad kryžiuočių pajėgos puolė Kauno pilį.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kauno pilis (pilis)
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Kauno pilis (pilis)
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Kauno pilis (pilis)
+- Kauno pilis (pilis) priklause [[objektai/vietos/Kaunas]]
+- Kauno pilis (pilis) priklause [[objektai/vietos/Lietuva]]

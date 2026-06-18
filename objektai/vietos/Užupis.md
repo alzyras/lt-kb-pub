@@ -36,13 +36,13 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 618399-618825; hash=e22eddbd3c88b0fa872c7cf997bffe3a25f5ed56ffb679c41e1678099fba3968; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užupis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užupis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Užupis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Užupis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad rusų jėgeriams pavyko užimti Užupį.
 
 <a id="claim-t-85024"></a>
 - t-002
@@ -100,7 +100,8 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   global_id: t-85028
   teiginys: '1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir aiškiai susietas padegimas su Užupiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Užupis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] užėmė Užupis'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis kontekstas ir aiškiai susietas padegimas su Užupiu.'
@@ -215,13 +216,13 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 618399-618825; hash=e22eddbd3c88b0fa872c7cf997bffe3a25f5ed56ffb679c41e1678099fba3968; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užupis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užupis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Užupis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Užupis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad rusų jėgeriams pavyko užimti Užupį.
     - t-003
 
 - c-004

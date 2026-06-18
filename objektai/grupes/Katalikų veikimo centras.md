@@ -38,6 +38,7 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
 - susijęs iš [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis).md#claim-t-20506|Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]: Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.
+- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,3 +67,6 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   ryšio_subjekto_parinkimas: Katalikų veikimo centras: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų veikimo centras" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Krikščionių demokratų blokas]] buvo_sajungininkas_su Katalikų veikimo centras

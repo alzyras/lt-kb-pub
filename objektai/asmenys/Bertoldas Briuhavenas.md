@@ -75,3 +75,7 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   ryšio_subjekto_parinkimas: Bertoldas Briuhavenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas Briuhavenas" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Bertoldas Briuhavenas surenge_zygi_i [[objektai/vietos/Junigeda]]
+- Bertoldas Briuhavenas keliavo_i [[objektai/vietos/Livonija]]

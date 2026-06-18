@@ -76,7 +76,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Rumbaudas|Rumbaudas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Rumbaudas|Rumbaudas]]; mentioned_place: Lietuva; llm_object: Korčinas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -100,13 +100,13 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 398574-398951; hash=c4ed1f703f29148aed3a25b78f80c77df7a456257ef86b6fab22cfdc182ae2c6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vaivada: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaivada" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Vytautas nusiuntė atstovus į Korčino seimą.
 - susijęs iš [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras).md#claim-t-87680|Goštautas (Trakų vaivada, Barboros vyras)]]: Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113788|Goštautas (vyskupas, XV a.)]]: Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
@@ -437,10 +437,10 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 398574-398951; hash=c4ed1f703f29148aed3a25b78f80c77df7a456257ef86b6fab22cfdc182ae2c6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vaivada: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaivada" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Vytautas nusiuntė atstovus į Korčino seimą.

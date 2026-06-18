@@ -46,7 +46,7 @@ Pilis liko nepaimta.
 - t-001
   global_id: t-70947
   teiginys: '1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai'
+  susije_objektai: 'llm_object: Kolainiai; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai'
   temporaliniai_duomenys: 'įvykio data: 1290 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -63,13 +63,13 @@ Pilis liko nepaimta.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kolainiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Surminas gynė Kolainių pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -121,10 +121,10 @@ Pilis liko nepaimta.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kolainiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Surminas gynė Kolainių pilį.

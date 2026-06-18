@@ -48,6 +48,8 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   ryšio_subjekto_parinkimas: Palestina: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palestina" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
@@ -68,6 +70,10 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 - susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
 - susijęs iš [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas.md#claim-t-05368|Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]: Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai.
 - susijęs iš [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas.md#claim-t-10820|Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]: Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių.
+- susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
+- susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
+- susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77942|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117401|Žydai]]: Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,3 +104,9 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   ryšio_subjekto_parinkimas: Palestina: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palestina" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Palestina
+- [[objektai/grupes/Armėnai]] surenge_zygi_i Palestina
+- [[objektai/grupes/Gruzinai]] surenge_zygi_i Palestina
+- [[objektai/grupes/Žydai]] keliavo_i Palestina

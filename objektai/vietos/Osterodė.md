@@ -20,20 +20,19 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36465
   teiginys: 'Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
-  susije_objektai: 'owner: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Trakai'
-  semantiniai_rysiai: 'Osterodė priklausė Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Trakai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4b0a75c6293282e15e042923f03e5c63b6cfaa9b8678adb965094bb600ee0b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Prūsija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Osterodė: owner_note_path, place, gap=20
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Osterodė" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Osterodė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Osterodė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97012|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. grįždami kryžiuočiai bombardų šūviais išgąsdino Darsūniškio gynėjus, kurie sudegino pilį ir pasitraukė.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
 - susijęs iš [[objektai/zodynas/kūmas.md#claim-t-187556|kūmas]]: Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.
@@ -61,13 +60,10 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4b0a75c6293282e15e042923f03e5c63b6cfaa9b8678adb965094bb600ee0b0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Prūsija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Osterodė: owner_note_path, place, gap=20
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Osterodė" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Osterodė priklause [[objektai/vietos/Prūsija]]
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Osterodė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Osterodė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -38,19 +38,19 @@ Nenurodyta
   global_id: t-91917
   teiginys: 'Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.'
   sudarymo_pagrindimas: 'Citata remia statybos faktą, bet pradinė formuluotė turi antraštės triukšmą ir šaltinio fragmentų.'
-  susije_objektai: 'mentioned_place: Partigala; mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Partigala; llm_object: Varmė; mentioned_place: Partigala; mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Varmė; llm_object: Baiga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Partigala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Partigalos pilies ir Skrando kuoro pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Partigala: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Partigalos pilies ir Skrando kuoro pastatymas" parinktas kaip owner_note_path. Targetas "Partigala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Partigala: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gubučiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Partigala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Gubučiai pastatė Partigalos pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +72,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Partigala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Partigalos pilies ir Skrando kuoro pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Partigala: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Partigalos pilies ir Skrando kuoro pastatymas" parinktas kaip owner_note_path. Targetas "Partigala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Partigala: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gubučiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Partigala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Gubučiai pastatė Partigalos pilį.

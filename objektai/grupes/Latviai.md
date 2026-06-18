@@ -60,13 +60,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 1.00
+  ryšio_patikimumas: gyveno -> Dauguva: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Latviai: owner_note_path, group, gap=8
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Latviai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Latviai tiesiogiai apibūdinti kaip įsikūrę Dauguvos dešiniajame krante.
 
 <a id="claim-t-169586"></a>
 - t-003
@@ -118,8 +118,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - t-007
   global_id: t-169591
   teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
-  susije_objektai: 'location: Dauguva; mentioned_place: Dauguva; mentioned_place: Latgalija; mentioned_place: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Kuršas; mentioned_place: Latvija'
-  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Dauguva'
+  susije_objektai: 'llm_object: Dauguva; llm_object: Latgalija; llm_object: Vidžemė; mentioned_place: Dauguva; mentioned_place: Latgalija; mentioned_place: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Kuršas; mentioned_place: Latvija'
+  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Dauguva; [[objektai/grupes/Latviai|Latviai]] gyveno Latgalija; [[objektai/grupes/Latviai|Latviai]] gyveno Vidžemė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -278,6 +278,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89575|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/terrula žemelė.md#claim-t-58876|terrula žemelė]]: Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-187530|tėvonija]]: Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.
+- susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -436,13 +437,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 1.00
+  ryšio_patikimumas: gyveno -> Dauguva: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Latviai: owner_note_path, group, gap=8
-  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Latviai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Latviai tiesiogiai apibūdinti kaip įsikūrę Dauguvos dešiniajame krante.
     - t-004
 
 - c-007
@@ -477,4 +478,9 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-009
 
 ## Ryšiai
+- Latviai gyveno [[objektai/vietos/Vidžemė]]
 - Latviai gyveno [[objektai/vietos/Dauguva]]
+- Latviai priklause [[objektai/grupes/Baltai]]
+- Latviai gyveno [[objektai/vietos/Latgalija]]
+- [[objektai/vietos/Magus]] priklause Latviai
+- Latviai keliavo_i [[objektai/vietos/Baltija]]

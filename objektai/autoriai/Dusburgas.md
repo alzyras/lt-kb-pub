@@ -36,7 +36,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - t-001
   global_id: t-102840
   teiginys: 'Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas Lichtenhagenas|Konradas Lichtenhagenas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas Lichtenhagenas|Konradas Lichtenhagenas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Lietuva'
   pagrindžia:
     - c-012
 
@@ -44,7 +44,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - t-002
   global_id: t-102841
   teiginys: 'Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aukaimis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aukaimis; llm_object: Aukaimis'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -55,7 +55,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   global_id: t-102843
   teiginys: 'Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie Dusburgo pasakojimą, o pradinis tekstas yra fragmentiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; llm_object: Pagraudenė'
   temporaliniai_duomenys: 'įvykio data: 1304 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį faktą apie Dusburgo pasakojimą, o pradinis tekstas yra fragmentiškas.'
@@ -108,19 +108,19 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumas: puole -> Aukaimis: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad kryžiuočiai teriojo sritį prie sudegintos Aukaimio pilies; tai palaiko puolimo ryšį su Aukaimiu kaip vieta.
 
 <a id="claim-t-102848"></a>
 - t-008
   global_id: t-102848
   teiginys: '1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.; įvykio data: 1985 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -128,19 +128,19 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=29612e7f0dee02576e9e1532bc701fb68e6d17c86b284553b5dd772ea01dd335; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytenis darė žygį į Livoniją.
 
 <a id="claim-t-102849"></a>
 - t-009
   global_id: t-102849
   teiginys: '1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.; įvykio data: 1985 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -148,13 +148,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9d1b540915adb6893e83166bf2bf2ee34ca47103c86bf94561bddaac29bf17ac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Lichtenhagenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Konrado Lichtenhageno atėjimą į minėtą Lietuvos pasienio pilį ar valsčių, todėl palaikomas judėjimo į vietą ryšys.
 
 <a id="claim-t-102850"></a>
 - t-010
@@ -166,20 +166,20 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc09acc6ab3bc242da4284de39972780d7504a6c2b1c2e5a4675b121b9df55ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Rytas: 0.88
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Gediminas: first_person_target, person, gap=22
-  ryšio_targeto_parinkimas: Rytas: counterparty_iteration, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip first_person_target. Targetas "Rytas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-102851"></a>
 - t-011
   global_id: t-102851
   teiginys: 'Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dusburgo pasakojimą ir atitinka citatą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_place: Prūsija'
   pagrindžia:
     - c-010
 
@@ -188,7 +188,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   global_id: t-102852
   teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR ir nuorodų triukšmo, todėl reikia švarios formuluotės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Livonija; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra OCR ir nuorodų triukšmo, todėl reikia švarios formuluotės.'
@@ -209,7 +209,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - t-013
   global_id: t-102853
   teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Livonija; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -257,13 +257,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1133-1638; hash=5a366af36f9b41b88693ca24d22a613548daa68c4cf03390885aa5c80dfc72a9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata sieja Gedimino vyriausybę su kova prieš Kryžiuočių ordino agresiją, todėl atsargiai palaikomas Gedimino kaip subjekto karinis ryšys.
 
 <a id="claim-t-102856"></a>
 - t-016
@@ -493,13 +493,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc09acc6ab3bc242da4284de39972780d7504a6c2b1c2e5a4675b121b9df55ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Rytas: 0.88
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Gediminas: first_person_target, person, gap=22
-  ryšio_targeto_parinkimas: Rytas: counterparty_iteration, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip first_person_target. Targetas "Rytas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
     - t-015
 
@@ -521,13 +521,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1133-1638; hash=5a366af36f9b41b88693ca24d22a613548daa68c4cf03390885aa5c80dfc72a9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata sieja Gedimino vyriausybę su kova prieš Kryžiuočių ordino agresiją, todėl atsargiai palaikomas Gedimino kaip subjekto karinis ryšys.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7c128d19e56c24359b989f2127e7fa21c65f5ad187243f116ee4cb853fb4194; match=fallback; occurrences=0
@@ -585,13 +585,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumas: puole -> Aukaimis: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad kryžiuočiai teriojo sritį prie sudegintos Aukaimio pilies; tai palaiko puolimo ryšį su Aukaimiu kaip vieta.
     - t-009
 
 - c-006
@@ -611,13 +611,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9d1b540915adb6893e83166bf2bf2ee34ca47103c86bf94561bddaac29bf17ac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Lichtenhagenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Konrado Lichtenhageno atėjimą į minėtą Lietuvos pasienio pilį ar valsčių, todėl palaikomas judėjimo į vietą ryšys.
     - t-005
 
 - c-007
@@ -692,13 +692,13 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=29612e7f0dee02576e9e1532bc701fb68e6d17c86b284553b5dd772ea01dd335; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytenis darė žygį į Livoniją.
     - t-016
     - t-004
 

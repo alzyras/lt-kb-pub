@@ -22,19 +22,20 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   global_id: t-41975
   teiginys: 'Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai sieja Nevėžio žiotis su Naujojo Kauno statyba.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; llm_object: Kaunas; llm_object: Nevėžio žiotys'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] gynė Nevėžio žiotys'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ccf2fa7143441a06a8920b858514887772cfde49cb0d33ebb3a43f15977ffe04; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: pastate -> Kaunas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nevėžio žiotys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nevėžio žiotys" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodoma, kad Kęstutis statydino pilį, vadinamą Naujuoju Kaunu; kandidatų sąraše yra Kaunas.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,13 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ccf2fa7143441a06a8920b858514887772cfde49cb0d33ebb3a43f15977ffe04; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: pastate -> Kaunas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nevėžio žiotys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nevėžio žiotys" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodoma, kad Kęstutis statydino pilį, vadinamą Naujuoju Kaunu; kandidatų sąraše yra Kaunas.
+
+## Ryšiai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] gyne Nevėžio žiotys

@@ -85,7 +85,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   global_id: t-177251
   teiginys: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Konstantinopolio atgavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Venecija; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]'
+  susije_objektai: 'llm_object: Konstantinopolis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Venecija; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] užėmė Konstantinopolis; [[objektai/asmenys/Paleologas|Paleologas]] užėmė Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Konstantinopolio atgavimą.'
@@ -148,7 +149,8 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos pasakojimu apie Konstantinopolio užėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Venecija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Venecija; llm_object: Konstantinopolis'
+  semantiniai_rysiai: '[[objektai/grupes/Lotynai|Lotynai]] valdė miestą Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1200 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos pasakojimu apie Konstantinopolio užėmimą.'
@@ -157,13 +159,19 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224ae9fc7bd1ce7c92f4d5fe0d1d241a8898ef8a24a29ee65eba1e3ac17e4fc6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstantinopolis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinopolis" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad prancūzai buvo užėmę Konstantinopolį.
+- susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-183891|Prancūzai]]: 1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.
+- susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.).md#claim-t-62332|Konstantinopolio miesto atgavimas (1259 m.)]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
+- susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
@@ -182,6 +190,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
 - susijęs iš Florencija: Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.
 - susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-183891|Prancūzai]]: 1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
@@ -227,6 +236,10 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05455|metropolitas]]: Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-187523|metropolitas]]: Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
+- susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
+- susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
+- susijęs iš [[objektai/asmenys/Devletas.md#claim-t-34716|Devletas]]: 1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -424,10 +437,17 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224ae9fc7bd1ce7c92f4d5fe0d1d241a8898ef8a24a29ee65eba1e3ac17e4fc6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstantinopolis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinopolis" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad prancūzai buvo užėmę Konstantinopolį.
+
+## Ryšiai
+- [[objektai/grupes/Prancūzai]] uzeme Konstantinopolis
+- [[objektai/asmenys/Paleologas]] uzeme Konstantinopolis
+- [[objektai/grupes/Lotynai]] valde_miesta Konstantinopolis
+- [[objektai/grupes/Lotynai]] valde Konstantinopolis
+- [[objektai/asmenys/Devletas]] keliavo_i Konstantinopolis

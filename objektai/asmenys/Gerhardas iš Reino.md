@@ -22,19 +22,20 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   global_id: t-60287
   teiginys: 'Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, citata pagrindžia aiškų veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_place: Reinas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Baiga; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Notangai|Notangai]]; llm_object: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_place: Reinas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Baiga; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]] puolė [[objektai/asmenys/Pobravas|Pobravas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gerhardas iš Reino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gerhardas iš Reino" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pobravo susivienijimas su notangais tiesiogiai žymi sąjungą.
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
@@ -68,21 +69,25 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gerhardas iš Reino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gerhardas iš Reino" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pobravo susivienijimas su notangais tiesiogiai žymi sąjungą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gerhardas iš Reino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gerhardas iš Reino" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pobravo susivienijimas su notangais tiesiogiai žymi sąjungą.
+
+## Ryšiai
+- Gerhardas iš Reino puole [[objektai/asmenys/Pobravas]]
+- Gerhardas iš Reino kariavo_pries [[objektai/asmenys/Pobravas]]

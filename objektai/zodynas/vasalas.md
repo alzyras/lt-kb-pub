@@ -32,7 +32,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   global_id: t-111382
   teiginys: 'Vokiečių Prūsija tapo Lenkijos karūnos vasale.'
   sudarymo_pagrindimas: 'Sakinys pilnas ir aiškiai nusako Prūsijos vasalinį statusą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Prūsija; llm_object: Lenkija'
   pagrindžia:
     - c-004
 
@@ -41,7 +41,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   global_id: t-111383
   teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie vasalo pripažinimą ir įvesdinimą.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   global_id: t-111385
   teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą.'
   sudarymo_pagrindimas: 'Citata nemini Vytauto rankų tiesiogiai, todėl reikia tiksliau atkartoti šaltinio formuluotę.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -81,7 +81,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   global_id: t-111386
   teiginys: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   sudarymo_pagrindimas: 'Pataisyta linksnio konstrukcija „kaip į tėvoniją“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija'
   pagrindžia:
     - c-005
 
@@ -93,7 +93,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškių įvardžių ir yra per ilgas, todėl reikia aiškiai įvardyti Vytautą.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-006
 - susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.

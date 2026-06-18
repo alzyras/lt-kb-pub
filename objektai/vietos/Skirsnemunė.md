@@ -36,7 +36,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   global_id: t-80132
   teiginys: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, todėl reikia įvardyti veikėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_object: [[objektai/posakiai/„Romos karaliaus garbei“|„Romos karaliaus garbei“]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_object: [[objektai/posakiai/„Romos karaliaus garbei“|„Romos karaliaus garbei“]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1431 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, todėl reikia įvardyti veikėją.'
@@ -48,7 +48,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   global_id: t-80134
   teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -84,6 +84,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   ryšio_targeto_parinkimas: Dubysa: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirsnemunė" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
+- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
@@ -100,6 +101,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 - susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
+- susijęs iš Odojevas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -177,13 +179,13 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=12732051615d6c8996e36cf976dc4fca6d0bc95a1e67e67bb4b13ef739c95085; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirsnemunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirsnemunė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Švitrigaila tiesiogiai įvardytas kaip sutartį su Ordinu pasirašęs veikėjas.
     - t-004
 
 - c-005
@@ -215,10 +217,14 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirsnemunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirsnemunė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sutarties patvirtinimas tiesiogiai nurodo Švitrigailą ir Ordiną kaip sutarties šalis.
+
+## Ryšiai
+- [[objektai/grupes/Žemaičiai]] puole Skirsnemunė
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Skirsnemunė

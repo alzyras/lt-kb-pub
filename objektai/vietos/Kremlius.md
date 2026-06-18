@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-46783
   teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -84,6 +84,11 @@ Nenurodyta
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
 - susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
 - susijęs iš [[objektai/zodynas/raštinių kultūra.md#claim-t-22262|raštinių kultūra]]: Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.
+- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
+- susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
+- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
+- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,3 +107,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Kremlius
+- Kremlius priklause [[objektai/vietos/Pskovas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] apgule Kremlius
+- [[objektai/asmenys/Dmitrijus]] gyveno Kremlius

@@ -117,6 +117,3 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 905498-905841; hash=d80fc2d6b55db00a74f0044124b24e675b3dc41c93e17be2ae0268398d8b03a7; match=exact
   sprendimo_priezastis: auto
-
-## Ryšiai
-- Bajazitas uzeme [[objektai/vietos/Dakija]]

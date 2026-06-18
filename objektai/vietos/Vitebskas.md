@@ -54,7 +54,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181111
   teiginys: '1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -75,7 +75,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181115
   teiginys: 'Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
   sudarymo_pagrindimas: 'Sutrumpinta ir aiškiau susieta su Vitebsku.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Vitebskas; llm_object: Kijevas; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] užkariavo Vitebskas'
   pagrindžia:
     - c-018
 
@@ -84,8 +85,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181116
   teiginys: 'Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'owner: Vitebskas; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Vilnius priklausė Vitebskas'
+  susije_objektai: 'mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Vitebskas priklausė Vilnius'
   pagrindžia:
     - c-023
 
@@ -94,7 +95,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181117
   teiginys: 'Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Švitrigailos veiksmą Vitebske ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Vitebskas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė miestą Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Švitrigailos veiksmą Vitebske ir yra paremtas citata.'
@@ -106,7 +108,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181118
   teiginys: '1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -128,7 +130,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181120
   teiginys: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai atitinka citatą.'
@@ -151,7 +154,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - t-012
   global_id: t-181123
   teiginys: 'Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-028
 
@@ -160,7 +163,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181124
   teiginys: '1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto ir Jogailos kelionę pro Vitebską.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Vitebskas; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vitebskas'
   temporaliniai_duomenys: 'kelionės data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia Vytauto ir Jogailos kelionę pro Vitebską.'
@@ -181,7 +185,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - t-014
   global_id: t-181125
   teiginys: 'Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Polockas; llm_object: Vitebskas; llm_object: Kijevas; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
@@ -200,7 +205,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181126
   teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.'
   sudarymo_pagrindimas: 'Teiginį reikia sugramatinti, išlaikant citatos patvirtintą turinį.'
-  susije_objektai: 'mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -224,20 +230,21 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dauguva: 0.76
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas taip pat tiesiogiai minimas kaip tarpinis Dauguvos prekybos centras.
 
 <a id="claim-t-181128"></a>
 - t-017
   global_id: t-181128
   teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
   sudarymo_pagrindimas: 'Sakinys sutelktas į Vitebską ir sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusia; mentioned_place: Ukraina'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusia; mentioned_place: Ukraina'
+  semantiniai_rysiai: 'Vitebskas priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutelktas į Vitebską ir sutrumpintas.'
@@ -246,50 +253,52 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f4470565936352080e8fa6e6d9cd52ec197df623d246edd27b17dca2758c3eed; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vitebskas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Vilnius: source_before_predicate, place, gap=29
-  ryšio_targeto_parinkimas: Vitebskas: owner_note_path, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Vilnius" parinktas kaip source_before_predicate. Targetas "Vitebskas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.60
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vitebsko sritys įvardytos kaip artimos Vilniaus žemei ir didžiojo kunigaikščio tiesioginėje valdžioje, bet ryšys su Vilniumi netiesioginis.
 
 <a id="claim-t-181129"></a>
 - t-018
   global_id: t-181129
   teiginys: 'Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Krėva; llm_object: Vitebskas; mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vitebskas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7a064592788a2e738c5637b842d3c2c4b9f911d3e28d18b4e2996d5ed5641578; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skirgaila: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skirgaila: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas kartu su Skirgaila paėmė Vitebską.
 
 <a id="claim-t-181131"></a>
 - t-019
   global_id: t-181131
   teiginys: 'Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir per daug apkrautas sąrašu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Vitebskas; llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Vitebskas'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ec65edc7b3006b04e860e50316f3da687d486dfa462740ee6803e4b22ccafe7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brianskas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brianskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytautą kaip Vitebsko paėmėją.
 
 <a id="claim-t-181132"></a>
 - t-020
@@ -302,19 +311,20 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos judėjimą į Vilnių.
 
 <a id="claim-t-181136"></a>
 - t-021
   global_id: t-181136
   teiginys: 'Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; llm_object: Naugardukas; llm_object: Sluckas; llm_object: Vilnius; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] surengė žygį į Vitebskas'
   temporaliniai_duomenys: 'mūšio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -325,19 +335,20 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181137
   teiginys: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai remiasi citata apie prekybą per Vitebską.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Dauguva; llm_object: Lietuva'
+  semantiniai_rysiai: 'Vitebskas prekiavo su Dauguva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vitebskas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai minimas vykęs pro Vitebską.
 
 <a id="claim-t-181138"></a>
 - t-023
@@ -371,7 +382,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181140
   teiginys: 'Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir paremtas citata apie Vitebsko užėmimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Vytautas|Vytautas]] apgulė Vitebskas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė Vitebskas'
   pagrindžia:
     - c-027
 
@@ -380,7 +392,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181141
   teiginys: 'Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vitebskas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vitebskas'
   pagrindžia:
     - c-022
 
@@ -398,7 +411,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181144
   teiginys: '1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus laiko įvardis ir sutelkta į Vitebską.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dubrovna; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dubrovna; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] puolė Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1562 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus laiko įvardis ir sutelkta į Vitebską.'
@@ -416,32 +430,33 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Vitebskas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Gediminą su užkariautų Vitebsko žemių prijungimu.
 
 <a id="claim-t-181146"></a>
 - t-030
   global_id: t-181146
   teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.'
   sudarymo_pagrindimas: 'Teiginį verta sugramatinti ir tiksliau perteikti citatos formuluotę.'
-  susije_objektai: 'mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Ukraina; mentioned_place: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Vitebskas'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1865ac0186db579bb1624782a11d41580fef9b45a8aa352fe9ab31909c068804; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos žygį į Lietuvą.
 
 <a id="claim-t-181147"></a>
 - t-031
@@ -454,20 +469,21 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25ff96df4502a96887268eb192ffb46b154ead82fcb49582df5976ef9ad4a8f8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bendra pajėgų antraštė rodo Švitrigailos ir Ordino sąjungą šiame kariniame kontekste.
 
 <a id="claim-t-181148"></a>
 - t-032
   global_id: t-181148
   teiginys: '1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   sudarymo_pagrindimas: 'Pašalinti neaiškūs įvardžiai ir kontekstinė formuluotė.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1505 m.; įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinti neaiškūs įvardžiai ir kontekstinė formuluotė.'
@@ -476,13 +492,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardukas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugarduko apylinkės tiesiogiai išvardytos tarp totorių žygio niokojamų vietų.
 
 <a id="claim-t-181149"></a>
 - t-033
@@ -495,13 +511,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349164-349627; hash=e7d10ef45777739e657e173592218633c51da67d44174f20d8b6834da4440b55; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvėnai tiesiogiai nurodyti kaip nusiaubę Vitebsko apylinkes.
 
 <a id="claim-t-181150"></a>
 - t-034
@@ -545,7 +561,8 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   global_id: t-181156
   teiginys: 'Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmus prie Vitebsko.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas; [[objektai/asmenys/Vytautas|Vytautas]] apgulė Vitebskas'
   pagrindžia:
     - c-019
 
@@ -634,13 +651,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 166792-167081; hash=5e96fb528882d2150268460e26bcee8674ff1267fd7a35e33816b9b5cf5e4b13; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Krėva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krėva išvardyta kaip viena iš vietų, kur Algirdas viešpatavo.
 
 <a id="claim-t-187683"></a>
 - t-045
@@ -656,13 +673,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Vitebską.
 
 <a id="claim-t-187684"></a>
 - t-046
@@ -672,19 +689,20 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; llm_object: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Vitebskas'
   pagrindžia:
     - c-038
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301700-302250; hash=36132c2e81d0ef3379c52d004b6ea71a2be87fa313e48eb16377c860c655f9cc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vitebskas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas gavo valdžią Vitebske.
 
 <a id="claim-t-187685"></a>
 - t-047
@@ -694,25 +712,44 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, konkretus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: 'Vitebskas priklausė [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukraina: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ukraina: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Ukraina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
+  ryšio_patikimumas: keliavo_i -> Ukraina: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179699|Švitrigaila]]: Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176733|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.
+- susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
 - susijęs iš [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas.md#claim-t-185681|Švitrigailos Vitebsko žemės užėmimas]]: Švitrigaila be didelio vargo užėmė Vitebsko miestą, dvi pilis, Oršą ir visą kraštą tarp Dnepro ir Dauguvos.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179692|Švitrigaila]]: Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179694|Švitrigaila]]: Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179705|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179714|Švitrigaila]]: Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179367|Livonijos ordinas]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179399|Livonijos ordinas]]: Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179405|Livonijos ordinas]]: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
+- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
+- susijęs iš Druckas: Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
+- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
+- susijęs iš Livonija: Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.
+- susijęs iš Livonija: Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.
+- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
+- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
+- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
@@ -910,6 +947,20 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - susijęs iš [[objektai/zodynas/rusų tikėjimas.md#claim-t-187559|rusų tikėjimas]]: Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
 - susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185394|stabmeldžių apeigos]]: Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184639|tėvonija]]: Jogaila Vitebsko žemę pasiliko sau kaip tėvonijos dalį, nors Algirdas ją buvo prijungęs prie Lietuvos valstybės.
+- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
+- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
+- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
+- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
+- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
+- susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179033|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.
+- susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš Ukraina: Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184666|Algirdas (Lietuvos valdovas)]]: Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
+- susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1003,13 +1054,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vitebskas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas tiesiogiai minimas vykęs pro Vitebską.
     - t-028
 
 - c-006
@@ -1069,24 +1120,24 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardukas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugarduko apylinkės tiesiogiai išvardytos tarp totorių žygio niokojamų vietų.
     - t-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7a064592788a2e738c5637b842d3c2c4b9f911d3e28d18b4e2996d5ed5641578; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skirgaila: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skirgaila: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas kartu su Skirgaila paėmė Vitebską.
     - t-024
 
 - c-009
@@ -1137,24 +1188,24 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f4470565936352080e8fa6e6d9cd52ec197df623d246edd27b17dca2758c3eed; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vitebskas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Vilnius: source_before_predicate, place, gap=29
-  ryšio_targeto_parinkimas: Vitebskas: owner_note_path, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Vilnius" parinktas kaip source_before_predicate. Targetas "Vitebskas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.60
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vitebsko sritys įvardytos kaip artimos Vilniaus žemei ir didžiojo kunigaikščio tiesioginėje valdžioje, bet ryšys su Vilniumi netiesioginis.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dauguva: 0.76
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas taip pat tiesiogiai minimas kaip tarpinis Dauguvos prekybos centras.
     - t-038
 
 - c-011
@@ -1204,13 +1255,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25ff96df4502a96887268eb192ffb46b154ead82fcb49582df5976ef9ad4a8f8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bendra pajėgų antraštė rodo Švitrigailos ir Ordino sąjungą šiame kariniame kontekste.
     - t-023
     - t-004
 
@@ -1269,13 +1320,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1865ac0186db579bb1624782a11d41580fef9b45a8aa352fe9ab31909c068804; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos žygį į Lietuvą.
     - t-020
 
 - c-016
@@ -1294,13 +1345,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos judėjimą į Vilnių.
     - t-007
 
 - c-017
@@ -1347,13 +1398,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ec65edc7b3006b04e860e50316f3da687d486dfa462740ee6803e4b22ccafe7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brianskas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brianskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytautą kaip Vitebsko paėmėją.
     - t-005
 
 - c-019
@@ -1536,13 +1587,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 349164-349627; hash=e7d10ef45777739e657e173592218633c51da67d44174f20d8b6834da4440b55; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvėnai tiesiogiai nurodyti kaip nusiaubę Vitebsko apylinkes.
     - t-029
 
 - c-027
@@ -1564,13 +1615,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Vitebskas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Gediminą su užkariautų Vitebsko žemių prijungimu.
     - t-025
 
 - c-028
@@ -1808,13 +1859,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 166792-167081; hash=5e96fb528882d2150268460e26bcee8674ff1267fd7a35e33816b9b5cf5e4b13; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Krėva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krėva išvardyta kaip viena iš vietų, kur Algirdas viešpatavo.
     - t-045
 
 - c-038
@@ -1846,13 +1897,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Vitebską.
     - t-046
 
 - c-039
@@ -1883,27 +1934,58 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301700-302250; hash=36132c2e81d0ef3379c52d004b6ea71a2be87fa313e48eb16377c860c655f9cc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vitebskas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas gavo valdžią Vitebske.
     - t-047
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukraina: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vitebskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ukraina: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebskas" parinktas kaip owner_note_path. Targetas "Ukraina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukraina: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą.
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Vitebskas
-- [[objektai/vietos/Vilnius]] priklause Vitebskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Vitebskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Vitebskas
+- [[objektai/asmenys/Švitrigaila]] valde_miesta Vitebskas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Vitebskas
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Vitebskas
+- [[objektai/asmenys/Skirgaila]] uzeme Vitebskas
+- Vitebskas priklause [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Švitrigaila]] uzeme Vitebskas
+- [[objektai/asmenys/Gediminas]] uzkariavo Vitebskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vitebskas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_miesta Vitebskas
+- [[objektai/asmenys/Mechmet Girėjus]] puole Vitebskas
+- [[objektai/asmenys/Švitrigaila]] puole Vitebskas
+- [[objektai/grupes/Livonijos ordinas]] puole Vitebskas
+- [[objektai/grupes/Maskvėnai]] puole Vitebskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Vitebskas
+- [[objektai/grupes/Totoriai]] puole Vitebskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Vitebskas
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Vitebskas
+- [[objektai/asmenys/Vikintas]] gyveno Vitebskas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Vitebskas
+- [[objektai/grupes/Smolensko pulkai]] uzeme Vitebskas
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Vitebskas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Vitebskas
+- [[objektai/asmenys/Švitrigaila]] gyveno Vitebskas
+- Vitebskas prekiavo_su [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Pijarų ordinas]] gyveno Vitebskas
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Vitebskas
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]] valde_miesta Vitebskas
+- [[objektai/asmenys/Skirgaila]] valde_teritorija Vitebskas
+- Vitebskas priklause [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Vitebskas priklause [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] pastate Vitebskas
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Vitebskas
+- [[objektai/asmenys/Aleksandras Balinskis]] gyveno Vitebskas
+- Vitebskas priklause [[objektai/vietos/Vilnius]]

@@ -28,20 +28,21 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Misinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Misinas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bartenšteinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Misinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Misinas įvardytas kaip vienas žygio prieš Bartenšteino pilį vadovų.
 
 <a id="claim-t-60176"></a>
 - t-002
   global_id: t-60176
   teiginys: 'Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį.'
   sudarymo_pagrindimas: 'Citata palaiko Misino dalyvavimą ir vadovavimą žygyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Misinas|Misinas]] surengė žygį į Bartenšteinas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -105,13 +106,13 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Misinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Misinas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bartenšteinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Misinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Misinas įvardytas kaip vienas žygio prieš Bartenšteino pilį vadovų.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c85f14220df91d5b60fed21939bbf495e999d8f1c3722dd38e4548a79eac405; match=fallback; occurrences=0
@@ -123,3 +124,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   ryšio_subjekto_parinkimas: Misinas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Sklunija: mention_match, place, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Misinas" parinktas kaip owner_note_path. Targetas "Sklunija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Misinas surenge_zygi_i [[objektai/vietos/Bartenšteinas]]

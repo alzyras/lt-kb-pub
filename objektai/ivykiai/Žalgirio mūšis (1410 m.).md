@@ -61,32 +61,33 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30069-30284; hash=291aae0793f40cca49f1e2e6488b32173a2659a89390bc37e166b0c366c513f7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žalgirio mūšis (1410 m.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žalgirio mūšis (1410 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Vokiečių ordinas yra tiesiogiai įvardytas kaip sutriuškinta Žalgirio mūšio pusė.
 
 <a id="claim-t-63386"></a>
 - t-002
   global_id: t-63386
   teiginys: 'Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e6dbaad6dd1561571e041285efe3afda6dba680f6a89a841b9a4357229605dd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Pamaris: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Ordinas valdė Pamarį.
 
 <a id="claim-t-63387"></a>
 - t-003
@@ -94,7 +95,7 @@ Nenurodyta
   teiginys: 'Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie padėtį prieš Žalgirio mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Žemaitija'
+  susije_objektai: 'llm_object: Pamaris; llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Žemaitija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -120,20 +121,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86709-87232; hash=11594739eed3572e5f8a09a3237cd871f97429085ab5681209085d9a93461d3c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žalgirio mūšis (1410 m.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žalgirio mūšis (1410 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys mūšio pergalę apibrėžia kaip pergalę prieš Vokiečių ordiną.
 
 <a id="claim-t-63390"></a>
 - t-005
   global_id: t-63390
   teiginys: 'Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija; llm_object: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; [[objektai/grupes/Lenkai|Lenkai]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -155,7 +157,8 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatos chronologiniu įrašu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatos chronologiniu įrašu.'
@@ -164,13 +167,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30069-30284; hash=291aae0793f40cca49f1e2e6488b32173a2659a89390bc37e166b0c366c513f7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja Lietuvos kariuomenę su kariniu veiksmu prieš Vokiečių ordiną.
 - susijęs iš [[objektai/autoriai/O. Urbonas.md#claim-t-30887|O. Urbonas]]: O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.
 - susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
 - susijęs iš [[objektai/autoriai/W. Zakrzewski.md#claim-t-31074|W. Zakrzewski]]: W. Zakrzewski parašė darbą „Bitwa pod Grunwaldem“, paskelbtą 1890 m. leidinyje RTPNP.
@@ -181,6 +184,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
 - susijęs iš St. Zaskevičius, Trijų elementų reikšmė Tannenbergo kautynėse: St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ.
 - susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -217,13 +221,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30069-30284; hash=291aae0793f40cca49f1e2e6488b32173a2659a89390bc37e166b0c366c513f7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žalgirio mūšis (1410 m.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žalgirio mūšis (1410 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Vokiečių ordinas yra tiesiogiai įvardytas kaip sutriuškinta Žalgirio mūšio pusė.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86709-87232; hash=11594739eed3572e5f8a09a3237cd871f97429085ab5681209085d9a93461d3c; match=whitespace_regex
@@ -253,13 +257,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86709-87232; hash=11594739eed3572e5f8a09a3237cd871f97429085ab5681209085d9a93461d3c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žalgirio mūšis (1410 m.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žalgirio mūšis (1410 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys mūšio pergalę apibrėžia kaip pergalę prieš Vokiečių ordiną.
     - t-003
 
 - c-004
@@ -304,21 +308,27 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30069-30284; hash=291aae0793f40cca49f1e2e6488b32173a2659a89390bc37e166b0c366c513f7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja Lietuvos kariuomenę su kariniu veiksmu prieš Vokiečių ordiną.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e6dbaad6dd1561571e041285efe3afda6dba680f6a89a841b9a4357229605dd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalgirio mūšis (1410 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalgirio mūšis (1410 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Pamaris: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Ordinas valdė Pamarį.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
+- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
+- [[objektai/grupes/Lenkai]] dalyvavo_musyje Žalgirio mūšis (1410 m.)
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Žalgirio mūšis (1410 m.)

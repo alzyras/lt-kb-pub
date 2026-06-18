@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas OCR triukšmas ir palikta citatos paremta įvykio esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jurga (pasienio seniūnas)|Jurga (pasienio seniūnas)]]; mentioned_place: Braclavas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: Braclavas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jurga (pasienio seniūnas)|Jurga (pasienio seniūnas)]]; mentioned_place: Braclavas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1449 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išvalytas OCR triukšmas ir palikta citatos paremta įvykio esmė.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 862289-863105; hash=f1ed393802b703327d7d44692362a7c732be0f02630019716a52e5aa9a5a042a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Braclavas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurga (pasienio seniūnas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jurga apsaugojo Braclavo žemę nuo antpuolių.
 
 ## Reikšmingi paminėjimai
 
@@ -93,10 +93,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 862289-863105; hash=f1ed393802b703327d7d44692362a7c732be0f02630019716a52e5aa9a5a042a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Braclavas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurga (pasienio seniūnas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jurga apsaugojo Braclavo žemę nuo antpuolių.

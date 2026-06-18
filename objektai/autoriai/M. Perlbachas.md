@@ -33,7 +33,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   global_id: t-175145
   teiginys: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
-  susije_objektai: 'location: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1289 m.; gyvenimo laikotarpis: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
@@ -42,12 +42,13 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=59a1c5069b94a2b6e67981f0439592e9322b8ffbed3bc68f876d8c93fcecbfc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsija: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-175146"></a>
 - t-002
@@ -169,12 +170,13 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=59a1c5069b94a2b6e67981f0439592e9322b8ffbed3bc68f876d8c93fcecbfc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsija: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 163614-164826; hash=7c2a0770e6596e607ade3f6d1564eac56323891ab42de7ee42f01dd9b8410db2; match=ocr_normalized_gapped

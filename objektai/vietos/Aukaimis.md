@@ -29,7 +29,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - t-001
   global_id: t-67659
   teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Medvėgalis'
+  susije_objektai: 'llm_object: Medvėgalis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Medvėgalis'
   temporaliniai_duomenys: 'įvykio data: 1357 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,13 +37,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Medvėgalis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žemaičiai gynėsi Medvėgalyje.
 
 <a id="claim-t-67660"></a>
 - t-002
@@ -85,6 +85,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Aukaimio pilis (pilis): mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Aukaimio pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Folradas.md#claim-t-60116|Folradas]]: Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį.
+- susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
+- susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-183921|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
+- susijęs iš [[objektai/ivykiai/Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis.md#claim-t-62269|Girdilos išdavystė prie Aukaimio pilies ir 100 krikščionių žūtis (pilis, XIII a.)]]: 1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.
+- susijęs iš [[objektai/asmenys/Girdila.md#claim-t-60123|Girdila]]: Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė.
+- susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-184079|Henrikas iš Dobino]]: 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
+- susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-60135|Henrikas iš Dobino]]: 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.
 - susijęs iš [[objektai/asmenys/Folradas.md#claim-t-60116|Folradas]]: Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį.
 - susijęs iš [[objektai/asmenys/Girdila.md#claim-t-60123|Girdila]]: Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė.
@@ -155,6 +162,12 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-58883|pilėnas]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams.
 - susijęs iš [[objektai/zodynas/stabų garbinimas stabmeldystė.md#claim-t-58925|stabų garbinimas stabmeldystė]]: 1301 m. Aukaimio pilėnas Draika panoro išsižadėti stabų garbinimo ir per sūnų Piną paprašė Ragainės komtūro Folrado pagalbos.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58880|villa kaimas sodžius]]: Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
+- susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
+- susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66824|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.
+- susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66824|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.
+- susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102841|Dusburgas]]: Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą.
+- susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -196,13 +209,13 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Medvėgalis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žemaičiai gynėsi Medvėgalyje.
     - t-002
 
 - c-003
@@ -241,3 +254,12 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   ryšio_subjekto_parinkimas: Aukaimis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Aukaimio pilis (pilis): mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimis" parinktas kaip owner_note_path. Targetas "Aukaimio pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Folradas]] puole Aukaimis
+- [[objektai/asmenys/Girdila]] keliavo_i Aukaimis
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Aukaimis
+- [[objektai/asmenys/Henrikas iš Dobino]] puole Aukaimis
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Aukaimis
+- [[objektai/asmenys/Draika]] gyveno Aukaimis
+- [[objektai/grupes/Lietuviai]] keliavo_i Aukaimis

@@ -41,20 +41,21 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e2c7795787b3f1502e3e9c419c3ddfcc10118ed9e59dfb972300e29a37d8584; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Palenkė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Palenkė: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Palenkė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Melnikas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Melnikas pateiktas kaip viena Palenkės vietų.
 
 <a id="claim-t-68689"></a>
 - t-002
   global_id: t-68689
   teiginys: 'Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.'
   sudarymo_pagrindimas: 'Perrašyta į sklandų sakinį, aiškiai susiejantį Melniką su citatoje nurodytu statybų kontekstu.'
-  susije_objektai: 'mentioned_place: Palenkė; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Palenkė; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė; llm_object: Palenkė'
+  semantiniai_rysiai: 'Melnikas priklausė Palenkė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -189,19 +190,20 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas asmuo ir pareigos, o faktas paliktas metraščio pasakojimo rėmuose. Nepridėtas vėlesnis perėjimo į Mykoliuko tarnybą siužetas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; llm_object: Drohičinas; llm_object: Melnikas; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Volynė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]] valdė miestą Melnikas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219609-220220; hash=5c8ef74770f3cce06a62fc841f9b6788c8c5621ef46c2bd31e7a2370ac2ce884; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jurgis Nosuta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jurgį Nosutą buvo paskyręs Žygimantas.
 
 <a id="claim-t-187614"></a>
 - t-009
@@ -211,7 +213,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia Aleksandro išvykimą iš Melniko, kelionės tikslą ir karūnavimo datą. Jis remiasi chronologine pastaba, be vertinamųjų ar legendinių elementų.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  susije_objektai: 'llm_object: Krokuva; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai perteikia Aleksandro išvykimą iš Melniko, kelionės tikslą ir karūnavimo datą. Jis remiasi chronologine pastaba, be vertinamųjų ar legendinių elementų.'
@@ -220,14 +222,13 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186788|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Aleksandro kelionę į Krokuvą.
 - susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
@@ -269,6 +270,10 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - susijęs iš Tauro Gedimino kalnas: Jogailos laikų Vilniaus miesto plane Aukštutinė pilis pažymėta ant Tauro kalno.
 - susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
 - susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+- susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
+- susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -355,13 +360,13 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e2c7795787b3f1502e3e9c419c3ddfcc10118ed9e59dfb972300e29a37d8584; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Palenkė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Palenkė: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Palenkė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Melnikas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Melnikas pateiktas kaip viena Palenkės vietų.
     - t-003
 
 - c-004
@@ -529,21 +534,28 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219609-220220; hash=5c8ef74770f3cce06a62fc841f9b6788c8c5621ef46c2bd31e7a2370ac2ce884; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jurgis Nosuta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jurgį Nosutą buvo paskyręs Žygimantas.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Melnikas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Melnikas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Aleksandro kelionę į Krokuvą.
+
+## Ryšiai
+- [[objektai/asmenys/Jurgis Nosuta]] valde_miesta Melnikas
+- Melnikas priklause [[objektai/vietos/Palenkė]]
+- [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]] valde_miesta Melnikas
+- Melnikas priklause [[objektai/vietos/Mazovija]]
+- [[objektai/daiktai/Pilys]] priklause Melnikas

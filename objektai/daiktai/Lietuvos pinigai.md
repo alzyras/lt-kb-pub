@@ -77,7 +77,7 @@ Nenurodyta
 - t-003
   global_id: t-10729
   teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytauto laikų pinigėliai|Vytauto laikų pinigėliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Vengrija; llm_object: Kezmarkas; mentioned_object: [[objektai/daiktai/Vytauto laikų pinigėliai|Vytauto laikų pinigėliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -136,7 +136,7 @@ Nenurodyta
 - t-009
   global_id: t-12874
   teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Vengrija; llm_object: Kezmarkas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1565 m.; įvykio data: apie 1565 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -144,13 +144,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos pinigai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos pinigai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vengrija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas vyko į Vengriją.
 
 <a id="claim-t-103465"></a>
 - t-010
@@ -369,13 +369,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos pinigai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos pinigai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vengrija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas vyko į Vengriją.
     - t-013
 
 - c-011

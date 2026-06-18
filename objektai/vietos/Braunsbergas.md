@@ -76,19 +76,19 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   global_id: t-83240
   teiginys: 'Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki aiškaus fakto apie Braunsbergą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braunsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braunsbergas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jordanas iš Pelplino tiesiogiai minimas kaip stojęs ginti kryžiuočių.
 
 <a id="claim-t-83241"></a>
 - t-005
@@ -128,6 +128,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 - susijęs iš Vilnius: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86538|mansionieriai]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.
 - susijęs iš [[objektai/zodynas/provizija.md#claim-t-86611|provizija]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -187,13 +188,13 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braunsbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braunsbergas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jordanas iš Pelplino tiesiogiai minimas kaip stojęs ginti kryžiuočių.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 572447-572891; hash=7b28a522025567e291db9c1a9b36d52b436c637d7979feec66679ca18da3c15f; match=whitespace_regex
@@ -238,3 +239,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   ryšio_subjekto_parinkimas: Braunsbergas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=55
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braunsbergas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Braunsbergas priklause [[objektai/vietos/Varmijos vyskupystė]]
+- [[objektai/grupes/Jėzuitų ordinas]] keliavo_i Braunsbergas

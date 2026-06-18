@@ -122,3 +122,6 @@ Nenurodyta
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
 
 Nenurodyta
+
+## Ryšiai
+- Rykai priklause [[objektai/asmenys/Ona Jogailaitė]]

@@ -48,38 +48,40 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad žydai gyveno istorinėje Lietuvoje.
 
 <a id="claim-t-117382"></a>
 - t-002
   global_id: t-117382
   teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo žydų gyvenimo Rusijos imperijoje sąlygą; Rusija naudojama kaip leidžiamas vietos objektas.
 
 <a id="claim-t-117384"></a>
 - t-003
   global_id: t-117384
   teiginys: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir padaryti sakinį sklandų.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Lietuva; [[objektai/grupes/Žydai|Žydai]] gyveno Lenkija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -98,7 +100,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117386
   teiginys: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, o pradiniame sakinyje yra OCR triukšmo ir perteklinis jungtukas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; llm_object: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, o pradiniame sakinyje yra OCR triukšmo ir perteklinis jungtukas.'
@@ -120,7 +122,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117387
   teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
@@ -169,7 +172,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117391
   teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Lietuva; [[objektai/grupes/Žydai|Žydai]] gyveno Lenkija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -197,13 +201,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 336625-337473; hash=a5f750f284791f823c1fffeb796d599746bca888298a158d96d834dcbf7c38f8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: prekiavo_su -> Lietuviai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata aprašo žydų pirklius, perkančius produkciją iš lietuvių valstiečių, todėl pagrindžia prekybinį ryšį.
 
 <a id="claim-t-117393"></a>
 - t-011
@@ -219,7 +223,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117394
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Rusija'
   temporaliniai_duomenys: 'įvykio data: po 1791 m.; įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir paremtas citata.'
@@ -228,13 +233,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jidiš: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja žydus nepriklausomoje Lietuvoje.
 
 <a id="claim-t-117395"></a>
 - t-013
@@ -250,13 +255,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įvardis „ją“ citatoje nurodo Lietuvą, į kurią žydai galėjo atvykti.
 
 <a id="claim-t-117396"></a>
 - t-014
@@ -272,19 +277,19 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: gyveno -> Trakai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas „Trakų žydai“ tiesiogiai sieja grupę su Trakais, nors teiginio pagrindinis veiksmas yra privilegijos gavimas.
 
 <a id="claim-t-117397"></a>
 - t-015
   global_id: t-117397
   teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; llm_object: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -304,20 +309,21 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo žydų gyvenimą Rusijos imperijoje; naudojamas leidžiamas Rusijos vietos objektas.
 
 <a id="claim-t-117400"></a>
 - t-017
   global_id: t-117400
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žydų savivardą ir Lietuvos pavadinimą.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -336,7 +342,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117401
   teiginys: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Palestina; llm_object: Palestina'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Palestina'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
@@ -345,13 +352,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=525d474d0753a49af92d8bb2d41f2884b914f51f00046504b5c4c1f9cae7aa12; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginio formuluotė tiesiogiai sieja žydus su gyvenimu Lietuvoje.
 
 <a id="claim-t-117402"></a>
 - t-019
@@ -377,7 +384,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117403
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žydų gyvenimo ribojimą Rusijos imperijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Rusija'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie žydų gyvenimo ribojimą Rusijos imperijoje.'
@@ -386,13 +394,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342263-342958; hash=66fd69a9c9ff223d7d928d11ab001cc013e2d439af3f254d0956406bc0357407; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: keliavo_i -> Palestina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Lietuvos žydai buvo keliami gyventi į Palestiną; tai artima judėjimo į vietą ryšiui.
 
 <a id="claim-t-117404"></a>
 - t-021
@@ -430,7 +438,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-023
   global_id: t-117406
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] prekiavo su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -443,6 +452,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
+- susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
+- susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
+- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20826|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.
+- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20827|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.
+- susijęs iš [[objektai/grupes/Andrejaus Vlasovo armija.md#claim-t-19632|Andrejaus Vlasovo armija]]: Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.
+- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19814|Lietuvių policijos savisaugos batalionai]]: Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
 - susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
 - susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
@@ -808,6 +824,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/zodynas/zemstvos.md#claim-t-77810|zemstvos]]: Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
 - susijęs iš [[objektai/zodynas/žydšaudžiai.md#claim-t-22356|žydšaudžiai]]: Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
+- susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
+- susijęs iš [[objektai/grupes/Ypatingasis SD būrys Vilniuje.md#claim-t-20093|Ypatingasis SD būrys Vilniuje]]: Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.
+- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
+- susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
+- susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
+- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -871,13 +893,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=525d474d0753a49af92d8bb2d41f2884b914f51f00046504b5c4c1f9cae7aa12; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginio formuluotė tiesiogiai sieja žydus su gyvenimu Lietuvoje.
     - t-002
 
 - c-004
@@ -899,24 +921,24 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo žydų gyvenimo Rusijos imperijoje sąlygą; Rusija naudojama kaip leidžiamas vietos objektas.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jidiš: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja žydus nepriklausomoje Lietuvoje.
     - t-020
 
 - c-005
@@ -944,13 +966,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342263-342958; hash=66fd69a9c9ff223d7d928d11ab001cc013e2d439af3f254d0956406bc0357407; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: keliavo_i -> Palestina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Lietuvos žydai buvo keliami gyventi į Palestiną; tai artima judėjimo į vietą ryšiui.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154857-155292; hash=be82db3d3cb1e1d8b7706d192656220990c259309d6de5b76b9632342c9484bc; match=whitespace_regex
@@ -1122,13 +1144,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įvardis „ją“ citatoje nurodo Lietuvą, į kurią žydai galėjo atvykti.
     - t-010
 
 - c-012
@@ -1145,13 +1167,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 336625-337473; hash=a5f750f284791f823c1fffeb796d599746bca888298a158d96d834dcbf7c38f8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: prekiavo_su -> Lietuviai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata aprašo žydų pirklius, perkančius produkciją iš lietuvių valstiečių, todėl pagrindžia prekybinį ryšį.
     - t-017
 
 - c-013
@@ -1179,13 +1201,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo žydų gyvenimą Rusijos imperijoje; naudojamas leidžiamas Rusijos vietos objektas.
     - t-022
 
 - c-014
@@ -1230,13 +1252,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: gyveno -> Trakai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas „Trakų žydai“ tiesiogiai sieja grupę su Trakais, nors teiginio pagrindinis veiksmas yra privilegijos gavimas.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: 401668-402223; hash=f019c7a6062d4cfc210ba16c7307894432a0df0d4dd8fe9118b36d25bb661350; match=whitespace_regex
@@ -1274,13 +1296,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad žydai gyveno istorinėje Lietuvoje.
     - t-023
 
 - c-017
@@ -1353,10 +1375,36 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje „į ją“ reiškia Lietuvą, į kurią žydai galėjo laisvai atvykti.
+
+## Ryšiai
+- Žydai gyveno [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/SD Einsatzgruppen]] puole Žydai
+- [[objektai/grupes/Tilžės gestapo būrys]] puole Žydai
+- Žydai gyveno [[objektai/vietos/Trakai]]
+- Žydai keliavo_i [[objektai/vietos/Pietų Afrikos Sąjunga]]
+- [[objektai/grupes/Lietuviai]] gyne Žydai
+- [[objektai/grupes/Andrejaus Vlasovo armija]] kariavo_pries Žydai
+- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Žydai
+- Žydai gyveno [[objektai/vietos/Kauno getas]]
+- Žydai gyveno [[objektai/vietos/Rusija]]
+- Žydai keliavo_i [[objektai/vietos/Lietuva]]
+- Žydai gyveno [[objektai/vietos/Lenkija]]
+- Žydai gyveno [[objektai/vietos/Šiaulių getas]]
+- Žydai prekiavo_su [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Išsaugotos Toros]] priklause Žydai
+- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]] puole Žydai
+- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]] puole Žydai
+- Žydai keliavo_i [[objektai/vietos/Palestina]]
+- Žydai gyveno [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Pilypas Frizijus]] reme Žydai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Žydai
+- Žydai gyveno [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] gyne Žydai
+- Žydai gyveno [[objektai/vietos/Kaimas]]

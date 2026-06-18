@@ -84,3 +84,6 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   ryšio_subjekto_parinkimas: Alfonsas Vildžiūnas-Vijoklis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Albinas Kubilius-Rūgštymas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alfonsas Vildžiūnas-Vijoklis" parinktas kaip owner_note_path. Targetas "Albinas Kubilius-Rūgštymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Alfonsas Vildžiūnas-Vijoklis keliavo_i [[objektai/vietos/Butkiškio vienkiemis]]

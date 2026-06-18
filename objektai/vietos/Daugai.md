@@ -63,7 +63,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   global_id: t-118265
   teiginys: 'Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardyta vieta ir yra archajiška forma; citata leidžia aiškiai susieti faktą su Daugais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_place: Vroclavas; llm_object: Daugai'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Daugai'
   pagrindžia:
     - c-004
 
@@ -95,6 +96,8 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - susijęs iš Vilnius: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš Žąsliai: Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo.
+- susijęs iš Žąsliai: Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo.
+- susijęs iš Lentvaris: Balandžio 3-8 d. pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -187,3 +190,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Daugai
+- [[objektai/grupes/Lietuviai]] uzeme Daugai

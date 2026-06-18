@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-20159
   teiginys: 'Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   sudarymo_pagrindimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Švedija; mentioned_place: Lenkija; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Švedija; mentioned_place: Lenkija; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8061e79942c9f426b92c85e45b0c1730c5d7d3b7794ac4b83ea73e7cb7d4aa4a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ATR karai su Švedija XVII a: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATR karai su Švedija XVII a" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8061e79942c9f426b92c85e45b0c1730c5d7d3b7794ac4b83ea73e7cb7d4aa4a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ATR karai su Švedija XVII a: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATR karai su Švedija XVII a" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus.

@@ -57,7 +57,8 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   global_id: t-77134
   teiginys: 'Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir turėjo nebaigtą frazę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Voronežas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Voronežas; mentioned_place: Rusija; llm_object: Peterburgas; llm_object: Voronežas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Peterburgas'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs ir turėjo nebaigtą frazę.'
@@ -244,6 +245,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Targovica: Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
 - susijęs iš Vilnius: Vilnius tuomet turėjo apie 25 tūkst. gyventojų ir buvo trečias pagal dydį Rusijos imperijos miestas.
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
+- susijęs iš Niujorkas: 1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -499,3 +501,6 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyveno Peterburgas

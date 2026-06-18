@@ -39,20 +39,21 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubingiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius.
 
 <a id="claim-t-71849"></a>
 - t-002
   global_id: t-71849
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ukmergė'
+  susije_objektai: 'llm_object: Dubingiai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ukmergė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Dubingiai'
   temporaliniai_duomenys: 'įvykio data: 1333 m.; įvykio data: 1334 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
@@ -61,20 +62,21 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vidiškis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vidiškis: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vidiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Dubingiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lenkai užėmė Dubingius.
 
 <a id="claim-t-71850"></a>
 - t-003
   global_id: t-71850
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir cituojamas kaip Dubingių užėmimo faktas.'
-  susije_objektai: 'mentioned_place: Vidiškis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Dubingiai; mentioned_place: Vidiškis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Dubingiai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -92,7 +94,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-004
   global_id: t-71851
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ukmergė'
+  susije_objektai: 'llm_object: Dubingiai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ukmergė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Dubingiai'
   temporaliniai_duomenys: 'įvykio data: 1333 m.; įvykio data: 1334 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -100,14 +103,16 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubingiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius.
 - susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
+- susijęs iš Šešuoliai: 1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
 - susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40818|1-oji pėstininkų divizija]]: Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
 - susijęs iš [[objektai/grupes/L. Želigovskio pajėgos.md#claim-t-40973|L. Želigovskio pajėgos]]: L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.
@@ -141,13 +146,13 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubingiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius.
     - t-002
 
 - c-002
@@ -169,13 +174,13 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vidiškis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vidiškis: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vidiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Dubingiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lenkai užėmė Dubingius.
     - t-003
 
 - c-003
@@ -210,13 +215,15 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubingiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubingiai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubingiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius.
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] uzeme Dubingiai
+- [[objektai/grupes/Lenkai]] uzeme Dubingiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Dubingiai
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]] buvo_valdovas Dubingiai

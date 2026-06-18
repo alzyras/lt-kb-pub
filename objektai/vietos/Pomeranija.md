@@ -121,7 +121,16 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   ryšio_subjekto_parinkimas: Pomeranija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Austrija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pomeranija" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90022|Sventopelkas]]: 1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90065|Vladislovas Lokietka]]: Vladislovo Lokietkos suvienyta Lenkija siekė diplomatiškai atgauti Pomeraniją.
+- susijęs iš [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris).md#claim-t-59646|Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]: Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.
+- susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-183965|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66922|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.).md#claim-t-62496|Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]: Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.
+- susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59897|Mstivojus]]: Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.
@@ -141,6 +150,9 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų.md#claim-t-62404|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]: Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.
 - susijęs iš [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.).md#claim-t-62496|Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]: Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.
 - susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59897|Mstivojus]]: Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
@@ -201,6 +213,11 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš Sūrioji jūra: Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų.
 - susijęs iš Vysla: Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.
 - susijęs iš Vysla: Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90033|Sventopelkas]]: Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90040|Sventopelkas]]: Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.
+- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
+- susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -336,3 +353,11 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 
 ## Ryšiai
 - [[objektai/asmenys/Sventopelkas]] buvo_valdovas Pomeranija
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pomeranija
+- [[objektai/vietos/Vancka]] priklause Pomeranija
+- [[objektai/asmenys/Mstivojus]] buvo_valdovas Pomeranija
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Pomeranija
+- [[objektai/asmenys/Sventopelkas]] valde Pomeranija
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]] surenge_zygi_i Pomeranija
+- [[objektai/asmenys/Mstivojus]] valde_teritorija Pomeranija
+- [[objektai/asmenys/Mstivojus]] uzeme Pomeranija

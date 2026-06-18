@@ -74,3 +74,6 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 731484-731950; hash=efc28a8e10d25183838f6fece291498d8cf708fa4987e07eee044fb1845222bd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Silvestras Žukauskas siunte_i [[objektai/vietos/Utena]]

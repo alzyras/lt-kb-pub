@@ -78,19 +78,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalinti emociniai ir neaiškūs fragmentai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena; llm_object: [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas|Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Krikščionys|Krikščionys]] dalyvavo mūšyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas|Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas|Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai rodo krikščionis kaip mūšio pusę šiame įvykyje.
 
 ## Reikšmingi paminėjimai
 
@@ -199,10 +200,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai rodo krikščionis kaip mūšio pusę šiame įvykyje.
+
+## Ryšiai
+- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas
+- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas

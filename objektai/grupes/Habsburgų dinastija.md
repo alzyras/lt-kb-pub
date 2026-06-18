@@ -28,7 +28,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   global_id: t-19699
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nebuvo apie Habsburgų dinastiją ir buvo nebaigta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Čekija; llm_object: Vengrija; llm_object: Čekija'
   temporaliniai_duomenys: 'įvykio data: iki 1572 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nebuvo apie Habsburgų dinastiją ir buvo nebaigta.'
@@ -37,13 +37,13 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aedd018e69dd3bb9093b687da2a546eb67b2609db4937b4bf67a605b4935d95a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Habsburgų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habsburgų dinastija" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vengrija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogailaičių dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sostų užėmimas tiesiogiai rodo Jogailaičių dinastijos valdymą Vengrijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +65,10 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aedd018e69dd3bb9093b687da2a546eb67b2609db4937b4bf67a605b4935d95a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Habsburgų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habsburgų dinastija" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vengrija: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogailaičių dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sostų užėmimas tiesiogiai rodo Jogailaičių dinastijos valdymą Vengrijoje.

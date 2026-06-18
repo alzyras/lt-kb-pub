@@ -69,3 +69,6 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
   ryšio_subjekto_parinkimas: Lukošius Moravecas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Slučė: mention_match, place, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukošius Moravecas" parinktas kaip owner_note_path. Targetas "Slučė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lukošius Moravecas dalyvavo_musyje [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]

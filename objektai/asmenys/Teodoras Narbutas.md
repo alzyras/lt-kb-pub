@@ -107,7 +107,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   teiginys: 'Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, veiksmą ir adresatą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]] siuntė į Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1838 m.; įvykio data: 1838 m.; įvykio data: 1844 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, veiksmą ir adresatą.'
@@ -311,3 +312,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   ryšio_subjekto_parinkimas: Teodoras Narbutas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teodoras Narbutas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Teodoras Narbutas siunte_i [[objektai/vietos/Vilnius]]

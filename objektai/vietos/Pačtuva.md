@@ -31,7 +31,8 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   global_id: t-32441
   teiginys: '1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Vilkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Peštvė'
+  susije_objektai: 'mentioned_place: Vilkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Peštvė; llm_object: Pačtuva; llm_object: Gaižuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pačtuva'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos faktą.'
@@ -40,18 +41,19 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pačtuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilkija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pačtuva" parinktas kaip owner_note_path. Targetas "Vilkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pačtuva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pačtuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino kariuomenės nusiaubimas yra tiesiogiai karinis veiksmas prieš Pačtuvos sritį.
 - susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
 - susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
 - susijęs iš Gaižuva: 1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.
 - susijęs iš Kymel: 1295 m. kryžiuočiai sunaikino prie Nemuno stovėjusią stiprią Kymel pilį.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
+- susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,10 +75,13 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pačtuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilkija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pačtuva" parinktas kaip owner_note_path. Targetas "Vilkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pačtuva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pačtuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino kariuomenės nusiaubimas yra tiesiogiai karinis veiksmas prieš Pačtuvos sritį.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Pačtuva

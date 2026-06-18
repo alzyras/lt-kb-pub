@@ -49,7 +49,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - t-002
   global_id: t-82429
   teiginys: 'Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -96,32 +96,33 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45038a620db7e873f11f481b3b0ba82683c3bb99d2cb2b2cff7d036d3ebe7895; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Olesnickis surengė išpuolį prieš vokiečius.
 
 <a id="claim-t-82432"></a>
 - t-005
   global_id: t-82432
   teiginys: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   sudarymo_pagrindimas: 'Citata remia išpuolį ir jo rezultatą; teiginį reikia sutvarkyti į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] puolė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Vilnių tiesiogiai rodo Vytauto kelionę į šią vietą.
 
 <a id="claim-t-82433"></a>
 - t-006
@@ -147,7 +148,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   global_id: t-82434
   teiginys: 'Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir puslapinės nuorodos liekaną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -165,19 +166,20 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - t-009
   global_id: t-82436
   teiginys: 'Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] puolė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Vilnių tiesiogiai rodo Vytauto kelionę į šią vietą.
 
 <a id="claim-t-184739"></a>
 - t-010
@@ -317,13 +319,13 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Vilnių tiesiogiai rodo Vytauto kelionę į šią vietą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e231ad829051474d84be993ed5bb142a325e05cd7f76dde5ff63c4a27236efd9; match=fallback; occurrences=0
@@ -357,13 +359,13 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45038a620db7e873f11f481b3b0ba82683c3bb99d2cb2b2cff7d036d3ebe7895; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Olesnickis surengė išpuolį prieš vokiečius.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3baed0ff303eb0143defe4454ca03684047a258e157588728ad5541f54bba42b; match=fallback; occurrences=0
@@ -428,24 +430,24 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Vilnių tiesiogiai rodo Vytauto kelionę į šią vietą.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 292642-293328; hash=6dfef564b369182bd3525d8fe7e6c37a7a5ba9e9e4b1192f1e33d12a3da63cbb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vokiečiai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Olesnickio puolimą prieš vokiečius.
     - t-006
 
 - c-007
@@ -548,3 +550,6 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   ryšio_subjekto_parinkimas: Jonas Olesnickis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Olesnickis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas Olesnickis puole [[objektai/grupes/Vokiečiai]]

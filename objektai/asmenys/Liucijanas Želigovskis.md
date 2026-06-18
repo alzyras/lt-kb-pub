@@ -75,3 +75,7 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
   ryšio_subjekto_parinkimas: Liucijanas Želigovskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=102
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liucijanas Želigovskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Liucijanas Želigovskis uzeme [[objektai/vietos/Vilnius]]
+- Liucijanas Želigovskis keliavo_i [[objektai/vietos/Vilnius]]

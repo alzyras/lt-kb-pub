@@ -29,7 +29,8 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   global_id: t-19957
   teiginys: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: [[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]]; llm_object: Rusija'
+  semantiniai_rysiai: 'Lietuva prekiavo su [[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]]'
   temporaliniai_duomenys: 'kelionės data: 1998 m.; kelionės data: 1998-1999; kelionės data: 1999 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
@@ -38,13 +39,13 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f68ea1ed43d33a7718e5e987fe4b0b346ef0919440edd955568fef781535a465; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nepriklausomų Valstybių Sandrauga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nepriklausomų Valstybių Sandrauga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Nepriklausomų Valstybių Sandrauga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nepriklausomų Valstybių Sandrauga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo lietuviškų prekių kryptį į NVS, tai atitinka prekybos ryšį.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +68,13 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f68ea1ed43d33a7718e5e987fe4b0b346ef0919440edd955568fef781535a465; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nepriklausomų Valstybių Sandrauga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nepriklausomų Valstybių Sandrauga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Nepriklausomų Valstybių Sandrauga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nepriklausomų Valstybių Sandrauga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo lietuviškų prekių kryptį į NVS, tai atitinka prekybos ryšį.
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] prekiavo_su Nepriklausomų Valstybių Sandrauga

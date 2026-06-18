@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-05290
   teiginys: 'Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; llm_object: Europa'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-05291
   teiginys: 'Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą.'
   sudarymo_pagrindimas: 'Citata skiria laiškų mintį nuo Gedimino svarbiausio siekio, todėl reikia tikslesnės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-05292
   teiginys: 'Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.

@@ -43,7 +43,8 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys tiesiogiai apibūdintų Turovą.'
-  susije_objektai: 'mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Palenkė'
+  susije_objektai: 'llm_object: Polesė; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Palenkė'
+  semantiniai_rysiai: 'Turovas priklausė Polesė'
   pagrindžia:
     - c-002
 
@@ -55,20 +56,22 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas titulavimas ir išlaikytas aiškus citatos faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas'
+  susije_objektai: 'llm_object: Karačevas; llm_object: Turovas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Pisimantas|Pisimantas]] valdė miestą Turovas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Turovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Karačevas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liubartas tiesiogiai įvardytas pradėjęs valdyti Karačevą.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
+- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
 - susijęs iš Gomelis: Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.
@@ -92,6 +95,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
 - susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,13 +147,16 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karačevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Turovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karačevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Karačevas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liubartas tiesiogiai įvardytas pradėjęs valdyti Karačevą.
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde_teritorija Turovas
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde Turovas
+- [[objektai/asmenys/Pisimantas]] valde_miesta Turovas
+- [[objektai/grupes/Gediminaičiai]] valde_teritorija Turovas
+- Turovas priklause [[objektai/vietos/Polesė]]

@@ -22,19 +22,20 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   global_id: t-30386
   teiginys: 'Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl reikia sakinio apie Sungailą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kinsgaila|Kinsgaila]]; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kinsgaila|Kinsgaila]]; mentioned_place: Ukmergė; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sungaila|Sungaila]] valdė miestą Kaunas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7a8c44f3ca6b58bc55a21f7b6ae6506824174ae1894ac3104e1fb1083175b8f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sungaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sungaila" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Kaunas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sungaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kauno seniūno pareigos tiesiogiai sieja Sungailą su Kauno valdymu.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7a8c44f3ca6b58bc55a21f7b6ae6506824174ae1894ac3104e1fb1083175b8f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sungaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sungaila" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Kaunas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sungaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kauno seniūno pareigos tiesiogiai sieja Sungailą su Kauno valdymu.
+
+## Ryšiai
+- Sungaila valde_miesta [[objektai/vietos/Kaunas]]

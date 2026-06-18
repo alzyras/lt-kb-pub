@@ -73,7 +73,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - t-004
   global_id: t-180679
   teiginys: 'Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.'
-  susije_objektai: 'location: Maskva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-012
 
@@ -90,7 +90,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - t-006
   global_id: t-180681
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.'
-  susije_objektai: 'location: Riazanė; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius; llm_object: Trakai; llm_object: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -123,7 +123,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   global_id: t-180686
   teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Skirsnemunė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Skirsnemunė'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -152,13 +152,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini Švitrigailos ir Ordino patvirtintą anksčiau pasirašytą sutartį.
 
 <a id="claim-t-180690"></a>
 - t-012
@@ -193,12 +193,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180692"></a>
 - t-014
@@ -280,12 +281,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Riazanė: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Riazanė: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Riazanė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tverės ir Riazanės kunigaikščiai įvardyti tarp atvykstančių į Trakus svečių.
 
 <a id="claim-t-180700"></a>
 - t-019
@@ -332,7 +334,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   global_id: t-180702
   teiginys: 'Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Tverę su citatoje minima Sofija.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Livonija'
   pagrindžia:
     - c-013
 
@@ -431,23 +433,21 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513504-514034; hash=9aa393cff4a9c41695dfc0987c099eabde83e041fafc6f93c5d5a126033d43b4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Borisas (Tverės kunigaikštis): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=13
-  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): nearest_person_after_predicate, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Borisas (Tverės kunigaikštis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): mention_match, person, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
+- susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
+- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
-- susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
-- susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176512|Julijona (Algirdo žmona)]]: Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.
@@ -591,6 +591,8 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - susijęs iš Vilnius: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.
 - susijęs iš Žemaičių žemė: Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78877|baskakas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
+- susijęs iš Maskva: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -663,12 +665,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e40c668c2ed112ce48b679c617973ea9bf8a2391d31bc475702f9e39683b1625; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Riazanė: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Riazanė: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Riazanė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tverės ir Riazanės kunigaikščiai įvardyti tarp atvykstančių į Trakus svečių.
     - t-012
 
 - c-004
@@ -745,13 +748,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini Švitrigailos ir Ordino patvirtintą anksčiau pasirašytą sutartį.
     - t-007
 
 - c-007
@@ -904,12 +907,13 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-013
@@ -1114,17 +1118,16 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513504-514034; hash=9aa393cff4a9c41695dfc0987c099eabde83e041fafc6f93c5d5a126033d43b4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Borisas (Tverės kunigaikštis): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=13
-  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): nearest_person_after_predicate, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Borisas (Tverės kunigaikštis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tverė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): mention_match, person, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tverė" parinktas kaip owner_note_path. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Tverė
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Tverė
+- [[objektai/asmenys/Dmitrijus Ivanovičius]] puole Tverė
 - [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Tverė
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Tverė
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Tverė
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] valde Tverė
+- [[objektai/vietos/Vilnius]] prekiavo_su Tverė

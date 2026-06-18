@@ -33,7 +33,8 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   global_id: t-101653
   teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas sklandžiau ir tiksliau su data bei sutarčių objektais.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_place: Maskva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_place: Maskva; mentioned_place: Vokietija; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]] gyveno Maskva'
   temporaliniai_duomenys: 'sutarties data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas sklandžiau ir tiksliau su data bei sutarčių objektais.'
@@ -42,13 +43,13 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e5a99b9e32dbac10bc3b9f9afe371b92f9a4754cea48bd9e4bfc979087f9490; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Maskva: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Josifas Stalinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Josifas Stalinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Josifas Stalinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste Stalino veiksmas lokalizuojamas Maskvoje, todėl atsargiai žymimas jo buvimas ten.
 
 <a id="claim-t-101654"></a>
 - t-002
@@ -310,13 +311,13 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e5a99b9e32dbac10bc3b9f9afe371b92f9a4754cea48bd9e4bfc979087f9490; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Maskva: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Josifas Stalinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Josifas Stalinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Josifas Stalinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste Stalino veiksmas lokalizuojamas Maskvoje, todėl atsargiai žymimas jo buvimas ten.
     - t-007
 
 - c-003
@@ -558,3 +559,6 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   ryšio_subjekto_parinkimas: Josifas Stalinas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Josifas Stalinas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Josifas Stalinas gyveno [[objektai/vietos/Maskva]]

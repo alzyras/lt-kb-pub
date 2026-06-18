@@ -28,20 +28,21 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   global_id: t-58747
   teiginys: 'Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.'
   sudarymo_pagrindimas: 'Citata pagrindžia Venecijos vaidmenį ir Zigfrido kelionę; pradinis teiginys turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Venecija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]] keliavo į Venecija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zigfridas iš Foichtvangeno: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venecija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zigfridas iš Foichtvangeno: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venecija" parinktas kaip owner_note_path. Targetas "Zigfridas iš Foichtvangeno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
+  ryšio_patikimumas: keliavo_i -> Venecija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją.
+- susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
 - susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64647|J. Talmantas]]: J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo.
@@ -90,24 +91,24 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zigfridas iš Foichtvangeno: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venecija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zigfridas iš Foichtvangeno: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venecija" parinktas kaip owner_note_path. Targetas "Zigfridas iš Foichtvangeno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Venecija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kelionę į Veneciją.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zigfridas iš Foichtvangeno: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venecija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zigfridas iš Foichtvangeno: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venecija" parinktas kaip owner_note_path. Targetas "Zigfridas iš Foichtvangeno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Venecija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją.
 
 ## Ryšiai
-- [[objektai/grupes/Prancūzai]] uzeme Venecija
+- [[objektai/asmenys/Zigfridas iš Foichtvangeno]] keliavo_i Venecija

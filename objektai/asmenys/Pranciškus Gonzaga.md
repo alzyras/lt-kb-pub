@@ -22,19 +22,20 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalinta autorinė įžanga.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Austrija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Austrija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] buvo vyras [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1229631-1230051; hash=7fbe37fb7b7f4a07918e7996b13deb8abd3b54da18bade1af30d3b7809add28c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kotryna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškus Gonzaga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kotryna: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Gonzaga" parinktas kaip owner_note_path. Targetas "Kotryna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Kotryna: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškus Gonzaga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kotryna: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kotryna vadinama Pranciškaus Gonzagos našle, todėl jis buvo jos vyras.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +63,13 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1229631-1230051; hash=7fbe37fb7b7f4a07918e7996b13deb8abd3b54da18bade1af30d3b7809add28c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kotryna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškus Gonzaga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kotryna: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Gonzaga" parinktas kaip owner_note_path. Targetas "Kotryna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Kotryna: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškus Gonzaga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kotryna: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kotryna vadinama Pranciškaus Gonzagos našle, todėl jis buvo jos vyras.
+
+## Ryšiai
+- Pranciškus Gonzaga buvo_vyras [[objektai/asmenys/Kotryna]]

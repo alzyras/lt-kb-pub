@@ -32,20 +32,20 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
   global_id: t-87855
   teiginys: 'Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Sofiją be OCR triukšmo.'
-  susije_objektai: 'family: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Tverė; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Tverė; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Livonija'
   semantiniai_rysiai: '[[objektai/asmenys/Sofija (Švitrigailos žmona)|Sofija (Švitrigailos žmona)]] buvo duktė [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439771-440386; hash=de550e602af6324d6076927af3a729ce08e21cc62a16d3d0d08501de7b5869a9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Borisas (Tverės kunigaikštis): 0.90
+  ryšio_patikimumas: buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Sofija (Švitrigailos žmona): owner_note_path, person, gap=35
-  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Sofija (Švitrigailos žmona)" parinktas kaip owner_note_path. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: owner_before_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sofija (Švitrigailos žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sofija tiesiogiai įvardyta Boriso dukterimi.
 
 ## Reikšmingi paminėjimai
 
@@ -80,13 +80,13 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439771-440386; hash=de550e602af6324d6076927af3a729ce08e21cc62a16d3d0d08501de7b5869a9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Borisas (Tverės kunigaikštis): 0.90
+  ryšio_patikimumas: buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Sofija (Švitrigailos žmona): owner_note_path, person, gap=35
-  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Sofija (Švitrigailos žmona)" parinktas kaip owner_note_path. Targetas "Borisas (Tverės kunigaikštis)" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: owner_before_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sofija (Švitrigailos žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sofija tiesiogiai įvardyta Boriso dukterimi.
 
 ## Ryšiai
 - Sofija (Švitrigailos žmona) buvo_dukte [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]

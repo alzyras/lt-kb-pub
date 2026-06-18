@@ -41,13 +41,13 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ginklanešiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ginklanešiai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sūduviai su kariuomene įsibrovė į Notangos žemę.
 
 <a id="claim-t-175171"></a>
 - t-002
@@ -73,26 +73,26 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   global_id: t-175172
   teiginys: 'Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio įžangą ir neaiškų įvardį; citata leidžia įvardyti sūduvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Notanga'
+  susije_objektai: 'llm_object: Notanga; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Notanga'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562909-563710; hash=11e77901b8b58047f6736744cda974023724a59f78b1ebc43d05aa5a8ed27c24; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ginklanešiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ginklanešiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Markvardas iš Revelingės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Markvardas iš Revelingės dalyvavo lietuvių užpuolime.
 
 <a id="claim-t-175174"></a>
 - t-004
   global_id: t-175174
   teiginys: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku ir turi neaiškų įvardį; citata pagrindžia aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -176,24 +176,24 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ginklanešiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ginklanešiai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sūduviai su kariuomene įsibrovė į Notangos žemę.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562909-563710; hash=11e77901b8b58047f6736744cda974023724a59f78b1ebc43d05aa5a8ed27c24; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ginklanešiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ginklanešiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Markvardas iš Revelingės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Markvardas iš Revelingės dalyvavo lietuvių užpuolime.
     - t-005
 
 - c-003
@@ -217,13 +217,13 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517215-517546; hash=c8d64ae92a2c0738660706b6d63fd6b22c124e4e7b88b5bc803f708136b2a814; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ginklanešiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ginklanešiai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Notanga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad sūduviai su kariuomene įsibrovė į Notangos žemę.
     - t-002
 
 - c-004

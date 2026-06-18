@@ -33,7 +33,7 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginys: '1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, pilnas ir paremtas citata.'
@@ -56,19 +56,19 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginys: 'Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs fragmentas, o citata leidžia sudaryti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589256-589582; hash=1f453f1af76ff1aa4c6fd63a03fc6d8aaedd613250857a1c032201907b501f4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie kryžiuočių kovas su lietuviais.
 
 <a id="claim-t-186379"></a>
 - t-003
@@ -76,7 +76,7 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginys: '1283 m. Dusburgas žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje esančiu sakiniu apie Dusburgo kroniką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje esančiu sakiniu apie Dusburgo kroniką.'
@@ -85,13 +85,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589197-589404; hash=9279835bda020dbba9fe12e3a182af8f9a129d4a3da0c742ebe9c4d168014620; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė nurodo lietuvių kovas su Prūsų/Kryžiuočių ordinu.
 
 <a id="claim-t-186380"></a>
 - t-004
@@ -108,13 +108,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589373-589804; hash=a4db74f6c801b1d9b7f06fa0b90413b01b112c8e2092e4efd931ad618e25e4e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai minima kryžiuočių kova su lietuviais.
 
 <a id="claim-t-186381"></a>
 - t-005
@@ -122,7 +122,7 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginys: 'Dusburgas 1283 m. kronikoje žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatos informaciją.'
@@ -131,13 +131,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589373-589804; hash=a4db74f6c801b1d9b7f06fa0b90413b01b112c8e2092e4efd931ad618e25e4e9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys aiškiai sieja kryžiuočius su kovomis prieš lietuvius.
 
 ## Reikšmingi paminėjimai
 
@@ -176,13 +176,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589197-589404; hash=9279835bda020dbba9fe12e3a182af8f9a129d4a3da0c742ebe9c4d168014620; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė nurodo lietuvių kovas su Prūsų/Kryžiuočių ordinu.
     - t-002
 
 - c-003
@@ -201,13 +201,13 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589256-589582; hash=1f453f1af76ff1aa4c6fd63a03fc6d8aaedd613250857a1c032201907b501f4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie kryžiuočių kovas su lietuviais.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589256-589582; hash=1f453f1af76ff1aa4c6fd63a03fc6d8aaedd613250857a1c032201907b501f4d; match=exact

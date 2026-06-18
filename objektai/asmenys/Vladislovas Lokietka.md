@@ -30,7 +30,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-001
   global_id: t-90065
   teiginys: 'Vladislovo Lokietkos suvienyta Lenkija siekė diplomatiškai atgauti Pomeraniją.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Inovroclavas'
+  susije_objektai: 'llm_object: Pomeranija; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Inovroclavas'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1321 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -51,8 +51,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90067
   teiginys: 'Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra apie Dusburgiečio vertinimą, todėl palikta atribucija.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] buvo sąjungininkas su [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
 
@@ -61,7 +61,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90068
   teiginys: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas faktas.'
@@ -70,21 +71,20 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34505-34738; hash=931917a412d1ba0330a2ce1d595fef764bb4d3aeecc0fe058561fd86c10c39a7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pomeranija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pomeranija buvo kryžiuočių užgrobta.
 
 <a id="claim-t-90070"></a>
 - t-005
   global_id: t-90070
   teiginys: '1323 m. pabaigoje ar 1324 m. pradžioje Gedimino Lietuva, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę arba Palenkę.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto.'
-  susije_objektai: 'territory: Palenkė; mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] užėmė Palenkė'
+  susije_objektai: 'mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto.'
@@ -105,26 +105,28 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-006
   global_id: t-90071
   teiginys: 'Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] buvo sąjungininkas su [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 44824-45356; hash=f18a12177cf382a7cd5d255132f906aa2b0fd8856c3790f8351a4350d40cfca5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Vladislovą Lokietką Gedimino sąjungininku.
 
 <a id="claim-t-90072"></a>
 - t-007
   global_id: t-90072
   teiginys: 'Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   sudarymo_pagrindimas: 'Pašalinti OCR ir antraštės fragmentai, paliktas aiškus įvykis.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] surengė žygį į Kulmas'
   pagrindžia:
     - c-004
 
@@ -139,13 +141,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35818-36140; hash=a7137113a91ec4cd6bd6f1b8a52e2be93a56813cad39f700171fe429c089f7e1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Palenkė: 1.00
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Palenkė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Palenkė: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Palenkė: mention_match, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90075"></a>
 - t-009
@@ -158,13 +160,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45021-45544; hash=a28f5c4a3817401f0421ba69b34a0fe71ea8586159b5b00ce382fb24d726e205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=57
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Vladislovą Lokietką Gedimino sąjungininku.
 
 <a id="claim-t-184378"></a>
 - t-010
@@ -174,7 +176,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo nukopijuota antraštė ir OCR triukšmas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Pamaris'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo sąjungininkas su [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -187,6 +190,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
@@ -298,13 +302,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 44824-45356; hash=f18a12177cf382a7cd5d255132f906aa2b0fd8856c3790f8351a4350d40cfca5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Vladislovą Lokietką Gedimino sąjungininku.
     - t-007
 
 - c-005
@@ -343,13 +347,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45021-45544; hash=a28f5c4a3817401f0421ba69b34a0fe71ea8586159b5b00ce382fb24d726e205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=57
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Vladislovą Lokietką Gedimino sąjungininku.
     - t-008
 
 - c-007
@@ -369,13 +373,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35818-36140; hash=a7137113a91ec4cd6bd6f1b8a52e2be93a56813cad39f700171fe429c089f7e1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Palenkė: 1.00
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Palenkė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Palenkė: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Palenkė: mention_match, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-008
@@ -397,13 +401,13 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34505-34738; hash=931917a412d1ba0330a2ce1d595fef764bb4d3aeecc0fe058561fd86c10c39a7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pomeranija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pomeranija buvo kryžiuočių užgrobta.
     - t-003
 
 - c-009
@@ -454,7 +458,9 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Lokietka" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Vladislovas Lokietka uzeme [[objektai/vietos/Palenkė]]
-- Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Gediminas]] buvo_sajungininkas_su Vladislovas Lokietka
+- Vladislovas Lokietka buvo_sajungininkas_su [[objektai/asmenys/Gediminas]]
 - Vladislovas Lokietka kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Gediminas]]
+- Vladislovas Lokietka puole [[objektai/vietos/Kulmas]]
+- [[objektai/asmenys/Gediminas]] reme Vladislovas Lokietka
+- Vladislovas Lokietka surenge_zygi_i [[objektai/vietos/Kulmas]]

@@ -22,19 +22,20 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
   teiginys: 'Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Marienburgas; mentioned_place: Neris; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Šeškinės laukas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Marienburgas; mentioned_place: Neris; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] keliavo į Šeškinės laukas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=774e38d166edf6586d8771d81f07487ee5cba40b70aeaed29ba42e4257828998; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šeškinės laukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šeškinės laukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Šeškinės laukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šeškinės laukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai rodo Skirgailos persikėlimą ir apsistojimą Šeškinės lauke.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +68,13 @@ Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=774e38d166edf6586d8771d81f07487ee5cba40b70aeaed29ba42e4257828998; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šeškinės laukas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šeškinės laukas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Šeškinės laukas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šeškinės laukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai rodo Skirgailos persikėlimą ir apsistojimą Šeškinės lauke.
+
+## Ryšiai
+- [[objektai/asmenys/Skirgaila]] keliavo_i Šeškinės laukas

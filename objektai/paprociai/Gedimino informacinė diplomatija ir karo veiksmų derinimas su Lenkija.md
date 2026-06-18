@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-67075
   teiginys: 'Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį.'
@@ -58,7 +58,7 @@ Nenurodyta
 - t-002
   global_id: t-67077
   teiginys: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -102,10 +102,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d93806b9c2fbb3cbdc570eacd7274fc935cf87e78c60ae2fa13fe7b8992507f6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gediminas pradėjo valdyti Lietuvą.

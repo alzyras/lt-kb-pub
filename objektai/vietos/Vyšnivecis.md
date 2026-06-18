@@ -20,38 +20,40 @@ tags:
 - t-001
   global_id: t-77707
   teiginys: 'Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_place: Viena; mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Ostrohas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_place: Viena; mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Ostrohas; llm_object: Voluinė'
+  semantiniai_rysiai: 'Vyšnivecis priklausė [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; Vyšnivecis priklausė Voluinė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnivecis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnivecis" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vyšnioveckiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vyšnivecis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vyšnioveckiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vyšnivecis buvo Vyšnioveckių tėvonija.
 
 <a id="claim-t-77708"></a>
 - t-002
   global_id: t-77708
   teiginys: 'Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir tik sąraše pamini Vyšnivecį.'
-  susije_objektai: 'mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas'
+  susije_objektai: 'mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas; llm_object: Vyšnivecis; llm_object: Voluinė'
+  semantiniai_rysiai: '[[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]] valdė teritoriją Vyšnivecis; Vyšnivecis priklausė Voluinė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Voluinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnivecis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Voluinė: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnivecis" parinktas kaip owner_note_path. Targetas "Voluinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Vyšnivecis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vyšnioveckiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vyšnivecis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vyšnioveckiai nurodyti kaip sukūrę tėvoniją, kurios vieta pateikta kaip Vyšnivecis.
 
 ## Reikšmingi paminėjimai
 
@@ -97,21 +99,26 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnivecis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnivecis" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vyšnioveckiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vyšnivecis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vyšnioveckiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vyšnivecis buvo Vyšnioveckių tėvonija.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Voluinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnivecis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Voluinė: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnivecis" parinktas kaip owner_note_path. Targetas "Voluinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Vyšnivecis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vyšnioveckiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vyšnivecis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vyšnioveckiai nurodyti kaip sukūrę tėvoniją, kurios vieta pateikta kaip Vyšnivecis.
+
+## Ryšiai
+- Vyšnivecis priklause [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/grupes/Vyšnioveckiai]] valde_teritorija Vyšnivecis
+- Vyšnivecis priklause [[objektai/vietos/Voluinė]]

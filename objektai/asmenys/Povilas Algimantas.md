@@ -33,7 +33,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   global_id: t-87835
   teiginys: 'Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą asmens titulą, pareigas ir mirties metus.'
-  susije_objektai: 'mentioned_place: Alšėnai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Poznanė'
+  susije_objektai: 'llm_object: Alšėnai; mentioned_place: Alšėnai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Poznanė'
+  semantiniai_rysiai: '[[objektai/asmenys/Povilas Algimantas|Povilas Algimantas]] buvo valdovas Alšėnai'
   temporaliniai_duomenys: 'valdymo laikotarpis: po 1536 m.; valdymo laikotarpis: 1536 m.; valdymo laikotarpis: 1538 m.; valdymo laikotarpis: 1553 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą asmens titulą, pareigas ir mirties metus.'
@@ -42,13 +43,13 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=94092d107021a7c8f004a07c73538feeff3613a2ed99d79a479a0547b07336e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas Algimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Algimantas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Alšėnai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Povilas Algimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alšėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Povilas Algimantas tiesiogiai vadinamas Alšėnų kunigaikščiu.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +73,13 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=94092d107021a7c8f004a07c73538feeff3613a2ed99d79a479a0547b07336e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas Algimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Algimantas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Alšėnai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Povilas Algimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alšėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Povilas Algimantas tiesiogiai vadinamas Alšėnų kunigaikščiu.
+
+## Ryšiai
+- Povilas Algimantas buvo_valdovas [[objektai/vietos/Alšėnai]]

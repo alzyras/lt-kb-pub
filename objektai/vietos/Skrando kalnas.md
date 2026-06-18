@@ -22,19 +22,19 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   global_id: t-58640
   teiginys: 'Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Skrando kalne pastatytą įtvirtinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Partigala; llm_object: Varmė; mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skrando kalnas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skrando kalnas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Partigala: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gubučiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Partigala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gubučiai pastatė Partigalos pilį.
 
 <a id="claim-t-58641"></a>
 - t-002
@@ -82,10 +82,10 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skrando kalnas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skrando kalnas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Partigala: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gubučiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Partigala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gubučiai pastatė Partigalos pilį.

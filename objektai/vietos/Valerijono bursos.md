@@ -56,6 +56,7 @@ amziai:
 - susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.
 - susijęs iš [[objektai/zodynas/bursa.md#claim-t-86416|bursa]]: Valerijono bursos fundacijos dokumentas buvo datuotas 1579 m. Vilniuje, vyskupo dvare ir įprastuose rezidencijos namuose.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173021|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
+- susijęs iš Valerijono Bursos namo pirkimo raštas: Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,3 +88,6 @@ amziai:
   ryšio_subjekto_parinkimas: Valerijono bursos: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono bursos" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Valerijono bursos

@@ -32,7 +32,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - t-001
   global_id: t-176871
   teiginys: 'Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kėzmarkas; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kėzmarkas; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; llm_object: Kėzmarkas'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] keliavo į Kėzmarkas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -76,13 +77,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: 442574-443218; hash=a902a854b6f4b41f458e45a7911d34c4393f5e8b296966900382e0f84931870f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: keliavo_i -> Kėzmarkas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėzmarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad pasiūlymas vyko Kėzmarke; tai patvirtina Zigmanto buvimą ten.
 
 <a id="claim-t-176874"></a>
 - t-004
@@ -107,45 +108,48 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   global_id: t-176875
   teiginys: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia jį užbaigti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] buvo sąjungininkas su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c903c38dbc55b7b8f2877f38075cc163877b112227cf366a52c950a38b5c124; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad Zigmanto pasiūlymas įvyko Lucke.
 
 <a id="claim-t-176876"></a>
 - t-006
   global_id: t-176876
   teiginys: 'Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą sakinį apie Zigmanto veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Luckas; llm_object: Luckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] keliavo į Luckas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 560382-560734; hash=ece5ebdccfc39adec445fd54c3966c7f7d2ef722fe7adb5ea6b1f45aa6359365; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kardas: 0.83
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kardas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo Zigmanto pastangą patraukti Ordiną į savo politinę pusę.
 
 <a id="claim-t-176877"></a>
 - t-007
   global_id: t-176877
   teiginys: 'Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.'
   sudarymo_pagrindimas: 'Reikia išplėsti vardą ir pataisyti bendraties formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lenkija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-004
 
@@ -153,7 +157,8 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - t-008
   global_id: t-176878
   teiginys: 'Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: Luckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] keliavo į Luckas'
   pagrindžia:
     - c-007
 
@@ -162,19 +167,20 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   global_id: t-176882
   teiginys: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, kuriame aiškiai įvardytas Zigmantas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Breslavas'
+  susije_objektai: 'llm_object: Čekija; llm_object: [[objektai/grupes/Husitai|Husitai]]; llm_object: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Breslavas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] kariavo prieš [[objektai/grupes/Čekai|Čekai]]; [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c903c38dbc55b7b8f2877f38075cc163877b112227cf366a52c950a38b5c124; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.83
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad Zigmanto pasiūlymas įvyko Lucke.
 
 <a id="claim-t-184297"></a>
 - t-010
@@ -325,13 +331,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c903c38dbc55b7b8f2877f38075cc163877b112227cf366a52c950a38b5c124; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.83
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad Zigmanto pasiūlymas įvyko Lucke.
     - t-003
 
 - c-007
@@ -353,13 +359,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: 442574-443218; hash=a902a854b6f4b41f458e45a7911d34c4393f5e8b296966900382e0f84931870f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: keliavo_i -> Kėzmarkas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėzmarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad pasiūlymas vyko Kėzmarke; tai patvirtina Zigmanto buvimą ten.
     - t-008
     - t-006
 
@@ -382,13 +388,13 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: 560382-560734; hash=ece5ebdccfc39adec445fd54c3966c7f7d2ef722fe7adb5ea6b1f45aa6359365; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kardas: 0.83
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kardas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata rodo Zigmanto pastangą patraukti Ordiną į savo politinę pusę.
     - t-005
 
 - c-009
@@ -407,14 +413,21 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c903c38dbc55b7b8f2877f38075cc163877b112227cf366a52c950a38b5c124; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim nurodo, kad Zigmanto pasiūlymas įvyko Lucke.
     - t-010
 
 ## Ryšiai
+- Zigmantas Liuksemburgietis buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
 - Zigmantas Liuksemburgietis buvo_valdovas [[objektai/vietos/Vengrija]]
+- Zigmantas Liuksemburgietis kariavo_pries [[objektai/grupes/Čekai]]
+- Zigmantas Liuksemburgietis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zigmantas Liuksemburgietis valde [[objektai/vietos/Kujavija]]
+- Zigmantas Liuksemburgietis keliavo_i [[objektai/vietos/Luckas]]
+- Zigmantas Liuksemburgietis keliavo_i [[objektai/vietos/Kėzmarkas]]
+- Zigmantas Liuksemburgietis reme [[objektai/grupes/Kryžiuočių ordinas]]

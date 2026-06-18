@@ -28,7 +28,8 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   global_id: t-41676
   teiginys: '1580 m. Lietuvos kariuomenė užėmė Didžiųjų Lukų tvirtovę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Didžiųjų Lukų tvirtovė; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] užėmė Didžiųjų Lukų tvirtovė'
   temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1580 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
@@ -56,13 +57,13 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=64b1a0823bd439bb2eb57759de2fd494fd80616e973cf8ba08e23d8be06fbb55; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiųjų Lukų tvirtovė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų Lukų tvirtovė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Didžiųjų Lukų tvirtovė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Didžiųjų Lukų tvirtovė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Lietuvos kariuomenę kaip tvirtovės užėmėją.
 
 ## Reikšmingi paminėjimai
 
@@ -121,10 +122,13 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=64b1a0823bd439bb2eb57759de2fd494fd80616e973cf8ba08e23d8be06fbb55; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiųjų Lukų tvirtovė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų Lukų tvirtovė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Didžiųjų Lukų tvirtovė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Didžiųjų Lukų tvirtovė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Lietuvos kariuomenę kaip tvirtovės užėmėją.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] uzeme Didžiųjų Lukų tvirtovė

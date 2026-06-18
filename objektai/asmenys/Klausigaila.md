@@ -78,3 +78,6 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
   ryšio_subjekto_parinkimas: Klausigaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klausigaila" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Klausigaila keliavo_i [[objektai/vietos/Nevėžis]]

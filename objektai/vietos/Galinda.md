@@ -23,38 +23,42 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58550
   teiginys: 'Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata remia šaltinio klasifikaciją, o pradinis tekstas yra sąrašo fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė; llm_object: Prūsija'
+  semantiniai_rysiai: 'Galinda priklausė Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galinda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galinda" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Galinda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Galindą pateikia kaip vieną iš Prūsijos žemės dalių.
 
 <a id="claim-t-58551"></a>
 - t-002
   global_id: t-58551
   teiginys: 'Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, kad objektas būtų Galindos žemė, o ne neapibrėžta vietovė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Snervai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Snervai; llm_object: Galinda'
+  semantiniai_rysiai: '[[objektai/grupes/Galindai|Galindai]] gyveno Galinda'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 200300-200619; hash=8c25f0a9bb673d937bb0e47bbf448198d254983182f012fb2105ac9fa7beb4f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
+  ryšio_patikimumas: gyveno -> Galinda: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galinda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galinda" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Galindai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „galindų žemės“ leidžia sieti galindus su Galindos teritorija, bet tai nėra tiesioginė gyvenimo vietos formuluotė.
+- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
+- susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89590|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 - susijęs iš [[objektai/autoriai/J. Poverskis.md#claim-t-64635|J. Poverskis]]: J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60508|Powierski J]]: J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
@@ -82,6 +86,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -118,21 +123,27 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galinda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galinda" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Galinda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Galindą pateikia kaip vieną iš Prūsijos žemės dalių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 200300-200619; hash=8c25f0a9bb673d937bb0e47bbf448198d254983182f012fb2105ac9fa7beb4f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
+  ryšio_patikimumas: gyveno -> Galinda: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galinda: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galinda" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Galindai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „galindų žemės“ leidžia sieti galindus su Galindos teritorija, bet tai nėra tiesioginė gyvenimo vietos formuluotė.
+
+## Ryšiai
+- [[objektai/grupes/Sūduviai]] puole Galinda
+- Galinda priklause [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vartenbergas]] priklause Galinda
+- [[objektai/grupes/Galindai]] gyveno Galinda

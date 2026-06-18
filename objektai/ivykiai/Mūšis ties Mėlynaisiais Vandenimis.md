@@ -55,7 +55,7 @@ Nenurodyta
   teiginys: 'Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Patikimumo vertinimas paliktas su komentaro atribucija. Pridėtas tik citatoje esantis datos neapibrėžtumas, be papildomų datavimo argumentų.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Podolė; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Podolė; mentioned_place: Volynė; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1362 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikimumo vertinimas paliktas su komentaro atribucija. Pridėtas tik citatoje esantis datos neapibrėžtumas, be papildomų datavimo argumentų.'
@@ -64,20 +64,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b27e4063f8317b84072e4dcc3614f5a67daceb56481569e74cd9cdc342edb35; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdo pergalę prieš totorius.
 
 <a id="claim-t-186695"></a>
 - t-002
   global_id: t-186695
   teiginys: 'Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kutlubugas|Kutlubugas]]; mentioned_person: [[objektai/asmenys/Chadžibėjus|Chadžibėjus]]; mentioned_place: Krymas'
+  susije_objektai: 'llm_object: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kutlubugas|Kutlubugas]]; mentioned_person: [[objektai/asmenys/Chadžibėjus|Chadžibėjus]]; mentioned_place: Krymas'
   temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -108,13 +108,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=461bfaf0cb5a83ed517680aa5a2151e4a41ef3a0cf54372b4f2367cfe0a80923; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Krymas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kutlubugas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Kutlubugą Krymo valdytoju.
 
 ## Reikšmingi paminėjimai
 
@@ -137,13 +137,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b27e4063f8317b84072e4dcc3614f5a67daceb56481569e74cd9cdc342edb35; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdo pergalę prieš totorius.
     - t-003
 
 - c-002
@@ -160,13 +160,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=461bfaf0cb5a83ed517680aa5a2151e4a41ef3a0cf54372b4f2367cfe0a80923; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Krymas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kutlubugas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Kutlubugą Krymo valdytoju.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b27e4063f8317b84072e4dcc3614f5a67daceb56481569e74cd9cdc342edb35; match=fallback; occurrences=0

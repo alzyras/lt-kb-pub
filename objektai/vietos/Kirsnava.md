@@ -39,6 +39,7 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kirsnava" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 - susijęs iš [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje.md#claim-t-91910|Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]: Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.
+- susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,3 +69,6 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
   ryšio_subjekto_parinkimas: Kirsnava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kirsnava" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Fridrichas, vadinamas Hole]] puole Kirsnava

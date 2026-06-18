@@ -21,19 +21,20 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   global_id: t-41078
   teiginys: 'Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/J. Baranovskio brigada|J. Baranovskio brigada]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Videniškis; mentioned_place: Giedraičiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/J. Baranovskio brigada|J. Baranovskio brigada]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Videniškis; mentioned_place: Giedraičiai; llm_object: Videniškis'
+  semantiniai_rysiai: '[[objektai/grupes/M. Butkievičiaus kavalerijos brigada|M. Butkievičiaus kavalerijos brigada]] keliavo į Videniškis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27fa3d3d20821a987d3e595d73fd2ab312d6fbfd5512de6dab41e2d86c5e9fd8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Baranovskio brigada: 0.85
+  ryšio_patikimumas: keliavo_i -> Videniškis: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Butkievičiaus kavalerijos brigada: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: J. Baranovskio brigada: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Butkievičiaus kavalerijos brigada" parinktas kaip owner_note_path. Targetas "J. Baranovskio brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Videniškis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brigada judėjo ir pasiekė Videniškio rajoną.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
 ## Reikšmingi paminėjimai
 
@@ -52,10 +53,13 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27fa3d3d20821a987d3e595d73fd2ab312d6fbfd5512de6dab41e2d86c5e9fd8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Baranovskio brigada: 0.85
+  ryšio_patikimumas: keliavo_i -> Videniškis: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Butkievičiaus kavalerijos brigada: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: J. Baranovskio brigada: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Butkievičiaus kavalerijos brigada" parinktas kaip owner_note_path. Targetas "J. Baranovskio brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Videniškis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brigada judėjo ir pasiekė Videniškio rajoną.
+
+## Ryšiai
+- M. Butkievičiaus kavalerijos brigada keliavo_i [[objektai/vietos/Videniškis]]

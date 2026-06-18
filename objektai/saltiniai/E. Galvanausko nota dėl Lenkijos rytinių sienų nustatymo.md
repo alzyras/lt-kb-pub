@@ -28,7 +28,7 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
   global_id: t-17869
   teiginys: 'E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
@@ -37,13 +37,13 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1cde06fef086f29913f859605eed054a59d016d093017befc04ecb2a2fa6e81c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sprendimu Vilnius buvo paliktas Lenkijai.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +66,10 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1cde06fef086f29913f859605eed054a59d016d093017befc04ecb2a2fa6e81c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sprendimu Vilnius buvo paliktas Lenkijai.

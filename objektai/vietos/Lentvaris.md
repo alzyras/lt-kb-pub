@@ -43,19 +43,20 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata nepagrindžia metų, todėl jie pašalinti.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Kaunas; llm_object: Lentvaris; llm_object: Daugai'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Lentvaris'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 780494-780727; hash=fa21704cf42b6e96b1257507d879b1ca139a7307595b4ee0b143eec1107058a2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lentvaris: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lentvaris" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai puolė Vilniaus link.
 - susijęs iš Daugai: 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
 - susijęs iš [[objektai/asmenys/V. Kapsukas-Mickevičius.md#claim-t-40487|V. Kapsukas-Mickevičius]]: V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.
 - susijęs iš [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.).md#claim-t-37193|Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
@@ -99,13 +100,13 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 780494-780727; hash=fa21704cf42b6e96b1257507d879b1ca139a7307595b4ee0b143eec1107058a2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lentvaris: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lentvaris" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai puolė Vilniaus link.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd45d967f494bb565548679de2eb524b0cab25126572ef83b6d75731a014ae6b; match=fallback; occurrences=0
@@ -117,3 +118,6 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   ryšio_subjekto_parinkimas: Lentvaris: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jieznas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lentvaris" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Lentvaris

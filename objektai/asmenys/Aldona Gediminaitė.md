@@ -33,7 +33,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - t-001
   global_id: t-05154
   teiginys: 'Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -55,7 +56,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - t-003
   global_id: t-97302
   teiginys: '1325 m. Aldona-Ona buvo ištekinta už Kazimiero.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Pamaris'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -63,13 +65,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9adad3cb07b9abd3eac1da5c92608b0ad163b2c315273d24bab952cc52cd77bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta, kad Aldona yra Gedimino duktė.
 
 <a id="claim-t-97303"></a>
 - t-004
@@ -83,19 +85,20 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai įvardija Aldoną Gedimino dukterimi.
 
 <a id="claim-t-97304"></a>
 - t-005
   global_id: t-97304
   teiginys: '1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -116,7 +119,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   global_id: t-97305
   teiginys: 'Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su Kazimiero vėlesniu titulu.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drevanta'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drevanta'
   semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -129,7 +132,8 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   global_id: t-97308
   teiginys: '1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir suformuoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pamaris'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: Pamaris; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir suformuoti pilną sakinį.'
@@ -140,7 +144,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - t-008
   global_id: t-97309
   teiginys: 'Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1321 m.; įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
@@ -149,13 +153,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ffd46140e2e483b8851bbf2a9d8a544fa8d08beab6c4024ee961d09a43ee93b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claim įvardija Aldoną Gedimino dukterimi, o citatoje ji minima tarp jo dukterų.
 
 <a id="claim-t-97311"></a>
 - t-009
@@ -168,20 +172,21 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta, kad Aldona yra Gedimino duktė.
 
 <a id="claim-t-97313"></a>
 - t-010
   global_id: t-97313
   teiginys: '1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi OCR triukšmo; citata palaiko aiškesnį sakinį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'sutarties data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi OCR triukšmo; citata palaiko aiškesnį sakinį.'
@@ -197,6 +202,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=66
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184413|Kazimieras Didysis]]: 1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
 - susijęs iš [[objektai/asmenys/Aldona Ona.md#claim-t-39997|Aldona Ona]]: Aldona Ona 1325 m. buvo ištekinta už Lenkijos sosto įpėdinio Kazimiero, Lokietkos sūnaus.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
@@ -305,13 +313,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9adad3cb07b9abd3eac1da5c92608b0ad163b2c315273d24bab952cc52cd77bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta, kad Aldona yra Gedimino duktė.
     - t-009
 
 - c-005
@@ -329,13 +337,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta, kad Aldona yra Gedimino duktė.
     - t-006
 
 - c-006
@@ -361,14 +369,15 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9adad3cb07b9abd3eac1da5c92608b0ad163b2c315273d24bab952cc52cd77bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Gediminaitė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta, kad Aldona yra Gedimino duktė.
 
 ## Ryšiai
 - Aldona Gediminaitė buvo_dukte [[objektai/asmenys/Gediminas]]
-- Aldona Gediminaitė buvo_dukte [[objektai/asmenys/Aldona Ona]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]] vede Aldona Gediminaitė
+- [[objektai/asmenys/Kazimieras Didysis]] vede Aldona Gediminaitė

@@ -73,3 +73,7 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   ryšio_subjekto_parinkimas: Dovydas Gardiniškis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=30
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas Gardiniškis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Dovydas Gardiniškis gyne [[objektai/vietos/Gardinas]]
+- Dovydas Gardiniškis gyne [[objektai/vietos/Pskovas]]

@@ -22,19 +22,19 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - t-001
   global_id: t-67604
   teiginys: 'XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė; llm_object: Dauguva; llm_object: Latgalija; llm_object: Vidžemė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aizkrauklė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aizkrauklė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad latviai buvo įsikūrę dešiniajame Dauguvos krante.
 
 <a id="claim-t-67605"></a>
 - t-002
@@ -97,10 +97,10 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aizkrauklė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aizkrauklė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad latviai buvo įsikūrę dešiniajame Dauguvos krante.

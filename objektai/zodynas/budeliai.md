@@ -44,18 +44,19 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Krėva; mentioned_place: Krėva; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
+  susije_objektai: 'mentioned_place: Krėva; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476635-477094; hash=c9559b4859f3f677d8bfc324585e0e4d31bec8accb93b6ca6d1704c8bdfec225; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Krėva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Krėva: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Krėva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: budeliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "budeliai" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai.md#claim-t-185731|Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai]]: Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.
 - susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185542|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
@@ -133,9 +134,10 @@ Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476635-477094; hash=c9559b4859f3f677d8bfc324585e0e4d31bec8accb93b6ca6d1704c8bdfec225; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Krėva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Krėva: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Krėva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: budeliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "budeliai" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

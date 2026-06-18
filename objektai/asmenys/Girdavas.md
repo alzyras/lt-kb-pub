@@ -32,7 +32,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   global_id: t-60291
   teiginys: 'Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Barta; mentioned_place: Girdavai; mentioned_place: Pelplinas; mentioned_place: Tepliava; mentioned_place: Torunė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Girdavas|Girdavas]]; mentioned_place: Barta; mentioned_place: Girdavai; mentioned_place: Pelplinas; mentioned_place: Tepliava; mentioned_place: Torunė; llm_object: Barta'
+  semantiniai_rysiai: 'Girdavai priklausė [[objektai/asmenys/Girdavas|Girdavas]]'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -41,13 +42,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=965a192702f9702f4bcbf9f2dccaba33f98ce30083e222324426db221b98e65b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girdavas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girdavas" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Girdavas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Girdavai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Girdavas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Girdavų pilis aprašyta kaip Girdavo turėta pilis.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=965a192702f9702f4bcbf9f2dccaba33f98ce30083e222324426db221b98e65b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girdavas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girdavas" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Girdavas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Girdavai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Girdavas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Girdavų pilis aprašyta kaip Girdavo turėta pilis.
+
+## Ryšiai
+- [[objektai/vietos/Girdavai]] priklause Girdavas

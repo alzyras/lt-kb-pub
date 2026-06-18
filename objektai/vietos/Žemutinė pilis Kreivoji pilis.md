@@ -32,7 +32,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginys: 'Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Patikslintas objektas pagal citatos paaiškinimą apie Žemutinės pilies vietą. Pašalintas OCR triukšmas ir nepridėta vėlesnio mūrinio pastato fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Žemutinė pilis Kreivoji pilis priklausė Vilnius'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -71,7 +72,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginys: 'Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas titulas ir išlaikytas tiesiogiai cituotas veiksmas apie Kreivąją pilį. Dieviškos pagalbos motyvas sąmoningai neįtrauktas.'
-  susije_objektai: 'object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Žemutinė pilis Kreivoji pilis; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Žemutinė pilis Kreivoji pilis'
   pagrindžia:
     - c-001
 
@@ -155,19 +157,20 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginys: 'Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Žemutinė pilis Kreivoji pilis priklausė Vilnius'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fb8136ca53425829a4aa7ba64fd40f43a5f17f8bd2c09c31b5f7f9bd9555a5ba; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemutinė pilis Kreivoji pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja Žemutinės pilies vietą su Vilniumi.
 
 <a id="claim-t-187195"></a>
 - t-014
@@ -186,11 +189,11 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
   ryšio_patikimumas: apgule -> Vilnius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=30
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas apgulė Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -228,13 +231,13 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fb8136ca53425829a4aa7ba64fd40f43a5f17f8bd2c09c31b5f7f9bd9555a5ba; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemutinė pilis Kreivoji pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas ir citata rodo, kad Žemoji pilis yra Vilniaus vietovė.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b8aa9c3b3548fea0cf14965fb23214bbe0f2bb256b43fd961615662d5e3a29c; match=fallback; occurrences=0
@@ -271,11 +274,11 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
   ryšio_patikimumas: apgule -> Vilnius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=30
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas apgulė Vilnių.
     - t-005
 
 - c-004
@@ -302,13 +305,13 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fb8136ca53425829a4aa7ba64fd40f43a5f17f8bd2c09c31b5f7f9bd9555a5ba; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemutinė pilis Kreivoji pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemutinė pilis Kreivoji pilis (pilis): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja Žemutinės pilies vietą su Vilniumi.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232960-233604; hash=351794eb85b2f7515b99ce23fbe9901011718338ba777ee34f6aa070db8f192f; match=whitespace_regex
@@ -414,11 +417,11 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
   ryšio_patikimumas: apgule -> Vilnius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=30
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas apgulė Vilnių.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ad794a37eac432a1c5cffa98927507038fadd5ff0db7dbfaafc1bb6748810587; match=fallback; occurrences=0
@@ -438,3 +441,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ad794a37eac432a1c5cffa98927507038fadd5ff0db7dbfaafc1bb6748810587; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Žemutinė pilis Kreivoji pilis (pilis)
+- Žemutinė pilis Kreivoji pilis (pilis) priklause [[objektai/vietos/Vilnius]]

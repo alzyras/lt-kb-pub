@@ -54,6 +54,9 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
 - susijęs iš Vilnius: 1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės.
 - susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-183399|autonomija autonominis statusas]]: Svarstydami Vilnijos autonomiją autoriai kėlė klausimą, ar lietuvių kalba galėjo tapti bent lygiateise su lenkų kalba Vilnijoje.
 - susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70095|autonomija autonominis statusas]]: Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.
+- susijęs iš [[objektai/grupes/Armija Krajova.md#claim-t-183118|Armija Krajova]]: Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
+- susijęs iš [[objektai/grupes/Armija Krajova.md#claim-t-19638|Armija Krajova]]: Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
+- susijęs iš [[objektai/grupes/Vietinė rinktinė.md#claim-t-66257|Vietinė rinktinė]]: Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,3 +83,7 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
   ryšio_subjekto_parinkimas: Vilnija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=68
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Vilnija
+- [[objektai/grupes/Vietinė rinktinė]] siunte_i Vilnija

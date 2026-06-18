@@ -33,7 +33,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-12172
   teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.'
   sudarymo_pagrindimas: 'Pateikta citata nepalaiko pradinio teiginio, bet palaiko kitą faktą apie Jadvygą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Rusija; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-006
 
@@ -42,7 +42,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-12173
   teiginys: 'Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Jadvygos sužadėtuves ir Jogailos vedybas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]'
   pagrindžia:
     - c-011
 
@@ -60,7 +61,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - t-004
   global_id: t-176414
   teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]'
+  susije_objektai: 'llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -71,7 +73,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-176415
   teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą, bet pradiniame sakinyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]'
+  susije_objektai: 'llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą, bet pradiniame sakinyje yra OCR triukšmo.'
@@ -83,20 +86,20 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-176416
   teiginys: 'Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.'
   sudarymo_pagrindimas: 'Citata palaiko Jadvygos atvykimą į Vilnių kartu su Jogaila.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija'
   semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Vilnius'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75aa0eed5a6274d663995b3c179977290ed0cb69924babd9bd293ef319df6f64; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila valdė Lietuvos žemes.
 
 <a id="claim-t-176417"></a>
 - t-007
@@ -109,13 +112,13 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a60880cbafd2f19f815bdc010c611579f54e6ff03bd4451690cb60357c72b058; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga Jogailienė: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila buvo vedęs Jadvygą.
 
 <a id="claim-t-176420"></a>
 - t-008
@@ -131,30 +134,12 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-176422
   teiginys: 'Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu fragmentu, bet faktas citatoje palaikomas.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] paskyrė [[objektai/asmenys/Liudvikas|Liudvikas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] buvo duktė [[objektai/asmenys/Liudvikas|Liudvikas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e41bb9e777ff0eddc39f3c9d8431bf6cb9b5323d42464afc9d9e40e173ea6b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Jadvyga: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=52
-  ryšio_targeto_parinkimas: Jadvyga: nearest_after_predicate, person, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
-
-<a id="claim-t-176425"></a>
-- t-010
-  global_id: t-176425
-  teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
-  pagrindžia:
-    - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9bd83b08d66508c14783dfa79238adc506ae0192af8d9f7305bd4beba598e2f2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Jadvyga: 0.85
   ryšio_patikimumo_lygis: vidutinis
@@ -163,6 +148,24 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+<a id="claim-t-176425"></a>
+- t-010
+  global_id: t-176425
+  teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Rusija; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
+  pagrindžia:
+    - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9bd83b08d66508c14783dfa79238adc506ae0192af8d9f7305bd4beba598e2f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą.
 
 <a id="claim-t-176427"></a>
 - t-011
@@ -180,7 +183,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - t-012
   global_id: t-176428
   teiginys: 'Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/applicare|applicare]]; mentioned_object: [[objektai/posakiai/„prišlieti“|„prišlieti“]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/applicare|applicare]]; mentioned_object: [[objektai/posakiai/„prišlieti“|„prišlieti“]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -188,20 +192,20 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51888635379f690efbaa0f65a910671e86f17b54d37505e3fd91933490ecd3d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes.
 
 <a id="claim-t-176429"></a>
 - t-013
   global_id: t-176429
   teiginys: 'Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR išnašų triukšmą ir kontekstinę pradžią.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Rusija; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -219,8 +223,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - t-014
   global_id: t-176430
   teiginys: 'Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] paskyrė [[objektai/asmenys/Jadvyga|Jadvyga]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
   pagrindžia:
     - c-002
 
@@ -238,13 +241,13 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 70501-71041; hash=dfc53f9f0e93e6194f8e88a2819d8f752e2b2e8814e5fcb3e8e11bb844656256; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga Jogailienė: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Krėvos sutarties sąlyga tiesiogiai nurodo, kad Jogaila ima Jadvygą žmona.
 
 <a id="claim-t-176433"></a>
 - t-016
@@ -308,6 +311,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - susijęs iš Vokė: Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
 - susijęs iš Vokė: Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -363,17 +367,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e41bb9e777ff0eddc39f3c9d8431bf6cb9b5323d42464afc9d9e40e173ea6b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Jadvyga: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=52
-  ryšio_targeto_parinkimas: Jadvyga: nearest_after_predicate, person, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
-    - t-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9bd83b08d66508c14783dfa79238adc506ae0192af8d9f7305bd4beba598e2f2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Jadvyga: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
@@ -381,6 +374,17 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+    - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9bd83b08d66508c14783dfa79238adc506ae0192af8d9f7305bd4beba598e2f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jadvygos įvažiavimą į Krokuvą.
     - t-013
 
 - c-004
@@ -434,13 +438,13 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75aa0eed5a6274d663995b3c179977290ed0cb69924babd9bd293ef319df6f64; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila valdė Lietuvos žemes.
     - t-011
 
 - c-006
@@ -513,24 +517,24 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51888635379f690efbaa0f65a910671e86f17b54d37505e3fd91933490ecd3d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila valdė Lietuvos žemes.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a60880cbafd2f19f815bdc010c611579f54e6ff03bd4451690cb60357c72b058; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga Jogailienė: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila buvo vedęs Jadvygą.
     - t-017
 
 - c-010
@@ -580,13 +584,13 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 70501-71041; hash=dfc53f9f0e93e6194f8e88a2819d8f752e2b2e8814e5fcb3e8e11bb844656256; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga Jogailienė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga Jogailienė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga Jogailienė: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga Jogailienė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Krėvos sutarties sąlyga tiesiogiai nurodo, kad Jogaila ima Jadvygą žmona.
     - t-002
 
 - c-012
@@ -633,6 +637,9 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - t-018
 
 ## Ryšiai
+- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Krokuva]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Jadvyga Jogailienė
+- Jadvyga Jogailienė buvo_dukte [[objektai/asmenys/Liudvikas]]
 - Jadvyga Jogailienė keliavo_i [[objektai/vietos/Vilnius]]
-- Jadvyga Jogailienė paskyre [[objektai/asmenys/Jadvyga]]
-- Jadvyga Jogailienė paskyre [[objektai/asmenys/Liudvikas]]
+- Jadvyga Jogailienė reme [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Lietuva]] priklause Jadvyga Jogailienė

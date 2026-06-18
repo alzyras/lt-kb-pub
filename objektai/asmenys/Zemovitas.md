@@ -59,19 +59,19 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Zemovito užklupimą Jazdove.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177633-178465; hash=dd0e93a8dd57a0d2c2b80338509f244efeb1cec38cf888059bf3ccc89d7eb4cc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zemovitas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zemovitas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Mindaugas (valdovas, XIII a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Mindaugas gavo rusų paramą.
 
 <a id="claim-t-184895"></a>
 - t-003
@@ -201,13 +201,13 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177633-178465; hash=dd0e93a8dd57a0d2c2b80338509f244efeb1cec38cf888059bf3ccc89d7eb4cc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zemovitas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zemovitas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Mindaugas (valdovas, XIII a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Mindaugas gavo rusų paramą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 524291-525174; hash=e3a393d9dda295d45dfc4cc4f8a01e83aba3f74e90cd8101bd85df22cc03c179; match=exact

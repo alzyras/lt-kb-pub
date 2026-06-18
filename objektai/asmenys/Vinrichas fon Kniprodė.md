@@ -33,7 +33,8 @@ periodo_grupes:
   global_id: t-80702
   teiginys: '1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai paremtas citata apie žygio vadovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vinrichas fon Kniprodė|Vinrichas fon Kniprodė]] surengė žygį į Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiesiogiai paremtas citata apie žygio vadovą.'
@@ -56,3 +57,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Vinrichas fon Kniprodė surenge_zygi_i [[objektai/vietos/Kaunas]]

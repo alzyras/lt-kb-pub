@@ -21,19 +21,19 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
 - t-001
   global_id: t-42020
   teiginys: 'Prie Paširvinčio dvaro lietuviai atakavo lenkų artilerijos būrį, kurio karininkas buvo nušautas, o artileristai išsibėgiojo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Gardinas; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Gardinas; mentioned_place: Širvinta; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bbe7b1db1fb2d73e7e648612099cf396194e7fcf68e7492a7f58704c9009039; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paširvintis: owner_note_path, place
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paširvintis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste aiškiai sakoma, kad lietuviai atakavo lenkų artilerijos būrį.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +60,10 @@ Tuomet lietuviai, tiltu perėję Širvintos upę, atakavo prie Paširvinčio dva
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bbe7b1db1fb2d73e7e648612099cf396194e7fcf68e7492a7f58704c9009039; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paširvintis: owner_note_path, place
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paširvintis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste aiškiai sakoma, kad lietuviai atakavo lenkų artilerijos būrį.

@@ -30,7 +30,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   global_id: t-18955
   teiginys: 'Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Kijevo Rusia; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Jaroslavas|Jaroslavas]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
@@ -39,13 +40,13 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb9d2ade3f0a7e704a8586f1f7107a60bd7d064f9f911a5e1c5ed6def65699d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaroslavas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaroslavas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Kijevo Rusia: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -77,10 +78,15 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb9d2ade3f0a7e704a8586f1f7107a60bd7d064f9f911a5e1c5ed6def65699d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaroslavas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaroslavas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Kijevo Rusia: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu.
+
+## Ryšiai
+- Jaroslavas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Jaroslavas buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
+- Jaroslavas pastate [[objektai/vietos/Naugardukas]]

@@ -53,6 +53,7 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.
 - susijęs iš Prūsija: Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos.
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.
+- susijęs iš [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas).md#claim-t-87847|Rudolfas (Pomezanijos vyskupas)]]: Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,3 +95,6 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   ryšio_subjekto_parinkimas: Elbliongas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dorpatas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elbliongas" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]] keliavo_i Elbliongas

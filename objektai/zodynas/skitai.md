@@ -28,19 +28,19 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir autoriaus boilerplate.'
-  susije_objektai: 'mentioned_place: Skitija; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Skitija; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; llm_object: Skitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: skitai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "skitai" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Mikalojus Radvila patraukė į skitų kraštą, t. y. Skitiją.
 
 <a id="claim-t-185339"></a>
 - t-002
@@ -119,19 +119,19 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinti pertekliniai vardai ir OCR laužymai.'
-  susije_objektai: 'mentioned_place: Skitija; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Skitija; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: skitai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "skitai" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Mechmet Girėjus nusiaubė Lietuvą, todėl tai laikytina puolimu.
 
 <a id="claim-t-185343"></a>
 - t-006
@@ -243,13 +243,13 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: skitai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "skitai" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Mikalojus Radvila patraukė į skitų kraštą, t. y. Skitiją.
     - t-002
 
 - c-003
@@ -364,13 +364,13 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skitija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: skitai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "skitai" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Mechmet Girėjus nusiaubė Lietuvą, todėl tai laikytina puolimu.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1364636-1365000; hash=671e61624630a9b7670fdb1c360a85a4205a115404640e2323bbc4ccff151713; match=exact

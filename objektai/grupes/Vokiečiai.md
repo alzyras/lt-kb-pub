@@ -35,7 +35,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-001
   global_id: t-117306
   teiginys: 'Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-006
 
@@ -43,7 +43,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-002
   global_id: t-117307
   teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygos pirkliai|Rygos pirkliai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rygos pirkliai|Rygos pirkliai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   global_id: t-117308
   teiginys: 'Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūko aiškaus veiksnio, kurį galima atkurti iš konteksto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] puolė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-008
 
@@ -70,7 +71,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   global_id: t-117310
   teiginys: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie vokiečių pasirengimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -78,38 +80,40 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - t-006
   global_id: t-117311
   teiginys: 'Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kolomna; mentioned_place: Maskva; mentioned_place: Naugardas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kolomna; mentioned_place: Maskva; mentioned_place: Naugardas'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] sudarė sutartį su [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45729-46028; hash=45fea309e248d635927221c38d09047f85e6ba844d2629f44c62e0795011ac82; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių įsiveržimas ir vokiečių pasirengimas jį atremti rodo karinį konfliktą tarp šių grupių.
 
 <a id="claim-t-117314"></a>
 - t-008
   global_id: t-117314
   teiginys: 'Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.'
   sudarymo_pagrindimas: 'Ilgas sakinys suskaidytas iki citatos paremto fakto apie vokiečius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kolomna; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kolomna; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] sudarė sutartį su [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee072b41a916bfc9c1a83e9dbf5d6ea4b6a13aae162db22efa2e074cadaab298; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Naugardiečių atsakymas tiesiogiai mini atskiras taikos sutartis su vokiečiais.
 
 <a id="claim-t-117315"></a>
 - t-009
@@ -134,26 +138,26 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   global_id: t-117317
   teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   sudarymo_pagrindimas: 'Pradinis teiginys skamba fragmentiškai; citata palaiko aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_event: [[objektai/ivykiai/Lietuvos krikštas (1387 m.)|Lietuvos krikštas (1387 m.)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_event: [[objektai/ivykiai/Lietuvos krikštas (1387 m.)|Lietuvos krikštas (1387 m.)]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75fb7c08bcd7ac1e3b79bb05baf5ccec3aeaae49c070baca7dd420fa8388525e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lenkai įvardyti kaip Vytauto tarnyboje buvusi svetimšalių grupė.
 
 <a id="claim-t-117318"></a>
 - t-012
   global_id: t-117318
   teiginys: 'Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-006
 
@@ -177,7 +181,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su kontekstu apie valdovų kvietimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -208,13 +212,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee072b41a916bfc9c1a83e9dbf5d6ea4b6a13aae162db22efa2e074cadaab298; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo naugardiečių atskiras taikos sutartis su vokiečiais.
 
 <a id="claim-t-184588"></a>
 - t-017
@@ -224,15 +228,24 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta pašalinant šaltinio maketo triukšmą ir įtraukiant citatoje nurodytus metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant šaltinio maketo triukšmą ir įtraukiant citatoje nurodytus metus.'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
-- susijęs iš Durbė: Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176738|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.
+- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82432|Jonas Olesnickis]]: Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.
+- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67272|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.
+- susijęs iš Svečių namai Vilniuje: Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.
+- susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07847|Parusėnai]]: 1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų.
+- susijęs iš [[objektai/grupes/Rusų pirkliai.md#claim-t-86770|Rusų pirkliai]]: Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.
+- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82436|Jonas Olesnickis]]: Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-12357|Didžiojo Naugardo respublika]]: Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais.
+- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186611|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje.
+- susijęs iš Kulmo žemė: Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75630|A. Hitleris]]: 1939 m. kovo 23 d. Klaipėdoje A. Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75631|A. Hitleris]]: 1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
@@ -489,6 +502,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36796|kontrevoliucija]]: Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi.
 - susijęs iš [[objektai/zodynas/savismauga.md#claim-t-183463|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
 - susijęs iš [[objektai/zodynas/savismauga.md#claim-t-22297|savismauga]]: Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96087|Baltai]]: Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.
+- susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77974|A. Smetona]]: A. Smetona vadovavo draugijai nuo karo nukentėjusiesiems šelpti ir į jos veiklą įtraukė kairės bei liberalų lyderius.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89611|Albertas iš Meiseno]]: Dusburgietis pasakoja, kad kasdienė malda Albertui padėjo nugalėti pagundas.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89614|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.
@@ -1484,6 +1499,32 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/zodynas/Šlėktų laisvė.md#claim-t-55277|Šlėktų laisvė]]: Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus.
 - susijęs iš [[objektai/zodynas/Šlėktų laisvė.md#claim-t-82138|Šlėktų laisvė]]: Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija suvažiavimais klojo būsimos šlėktų laisvės pamatus.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
+- susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40.md#claim-t-39215|Pistoletas-kulkosvaidis MP 40]]: MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis.
+- susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
+- susijęs iš [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams.md#claim-t-06869|Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]: 1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.
+- susijęs iš Alytus: Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.
+- susijęs iš Alytus: 1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.
+- susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86552|svečiai Svečių namai]]: Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187755|Žemaičiai]]: Lietuvos metraštis aiškina, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.
+- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
+- susijęs iš Niešava: 1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.
+- susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
+- susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
+- susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.
+- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
+- susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45327|1941 m. Birželio sukilimas (sukilimas)]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė atkuriamą laisvą ir nepriklausomą Lietuvos valstybę.
+- susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
+- susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
+- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
+- susijęs iš [[objektai/asmenys/Henne.md#claim-t-184259|Henne]]: Henne buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
+- susijęs iš [[objektai/asmenys/Henne.md#claim-t-35087|Henne]]: Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.
+- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-184260|Hennė (Ordino agentas)]]: Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.
+- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35090|Hennė (Ordino agentas)]]: Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.
+- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186611|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje.
+- susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
+- susijęs iš Kaunas: 1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.
+- susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1539,13 +1580,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee072b41a916bfc9c1a83e9dbf5d6ea4b6a13aae162db22efa2e074cadaab298; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Naugardiečių atsakymas tiesiogiai mini atskiras taikos sutartis su vokiečiais.
     - t-006
 
 - c-004
@@ -1564,13 +1605,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45729-46028; hash=45fea309e248d635927221c38d09047f85e6ba844d2629f44c62e0795011ac82; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių įsiveržimas ir vokiečių pasirengimas jį atremti rodo karinį konfliktą tarp šių grupių.
     - t-004
     - t-007
 
@@ -1591,13 +1632,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 64062-64482; hash=12aa3a1e3e140d762156988255e1aba6de167eda800e8ce4f300c1535f46801f; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rygos pirkliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rygos pirkliai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Rygos pirkliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygos pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Rygos pirkliai prekiavo su Vilniaus miestu.
     - t-009
 
 - c-006
@@ -1691,13 +1732,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75fb7c08bcd7ac1e3b79bb05baf5ccec3aeaae49c070baca7dd420fa8388525e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lenkai įvardyti kaip Vytauto tarnyboje buvusi svetimšalių grupė.
     - t-010
 
 - c-011
@@ -1782,13 +1823,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 69197-69420; hash=5ae8e4e7da092098a39bc01710de98fdfb316edc02bc2c4bbf76c0c33f148f58; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Armėnai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Armėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Armėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Armėnai įtraukti į bendruomenes, kurios įsikūrė LDK.
     - t-016
 
 - c-014
@@ -1831,18 +1872,89 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee072b41a916bfc9c1a83e9dbf5d6ea4b6a13aae162db22efa2e074cadaab298; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vokiečiai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo naugardiečių atskiras taikos sutartis su vokiečiais.
     - t-017
 
 ## Ryšiai
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- [[objektai/grupes/Poloviečiai]] kariavo_pries Vokiečiai
+- [[objektai/asmenys/Jonas Olesnickis]] puole Vokiečiai
+- [[objektai/grupes/Lietuviai]] kariavo_pries Vokiečiai
+- [[objektai/grupes/Rusų pirkliai]] prekiavo_su Vokiečiai
+- Vokiečiai uzeme [[objektai/vietos/Kauno tvirtovė]]
+- Vokiečiai uzeme [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Parusėnai]] kariavo_pries Vokiečiai
+- Vokiečiai uzeme [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]] sudare_sutarti_su Vokiečiai
+- [[objektai/grupes/Lietuviai]] puole Vokiečiai
+- Vokiečiai uzeme [[objektai/vietos/Vyžuonos]]
+- Vokiečiai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Vokiečiai keliavo_i [[objektai/vietos/Karaliaučius]]
+- Vokiečiai keliavo_i [[objektai/vietos/Padauguvis]]
+- Vokiečiai keliavo_i [[objektai/vietos/Prūsija]]
+- Vokiečiai puole [[objektai/vietos/Žemaitija]]
+- Vokiečiai reme [[objektai/asmenys/P. Bermontas-Avalovas]]
+- Vokiečiai puole [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Vėliavos]] priklause Vokiečiai
+- [[objektai/vietos/Kulmo žemė]] priklause Vokiečiai
+- Vokiečiai puole [[objektai/vietos/Semba]]
+- Vokiečiai uzeme [[objektai/vietos/Klaipėdos kraštas]]
+- [[objektai/grupes/Žemaičiai]] puole Vokiečiai
+- [[objektai/grupes/Baltai]] kariavo_pries Vokiečiai
+- Vokiečiai keliavo_i [[objektai/vietos/Vilnius]]
+- Vokiečiai puole [[objektai/vietos/Kaunas]]
+- Vokiečiai uzkariavo [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Žemaičiai]] kariavo_pries Vokiečiai
+- Vokiečiai puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]] buvo_priesas Vokiečiai
+- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]] priklause Vokiečiai
+- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- Vokiečiai puole [[objektai/grupes/Lenkai]]
+- Vokiečiai uzeme [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Škotai]] reme Vokiečiai
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Vokiečiai
+- [[objektai/grupes/Rusai]] prekiavo_su Vokiečiai
+- Vokiečiai uzkariavo [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Anglai]] reme Vokiečiai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Vokiečiai
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Vokiečiai
+- [[objektai/grupes/Prancūzai]] reme Vokiečiai
+- Vokiečiai gyne [[objektai/vietos/Georgenburgas]]
+- Vokiečiai puole [[objektai/grupes/Žemaičiai]]
+- Vokiečiai surenge_zygi_i [[objektai/vietos/Neries sritis]]
+- Vokiečiai uzeme [[objektai/vietos/Sūduva]]
+- [[objektai/grupes/Žemaičiai]] buvo_priesas Vokiečiai
+- [[objektai/vietos/Maskva]] prekiavo_su Vokiečiai
+- [[objektai/vietos/Rusija]] prekiavo_su Vokiečiai
+- Vokiečiai reme [[objektai/grupes/Lietuviai]]
+- Vokiečiai surenge_zygi_i [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Jotvingiai]] kariavo_pries Vokiečiai
+- [[objektai/grupes/Lietuviai]] reme Vokiečiai
+- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]] priklause Vokiečiai
+- [[objektai/grupes/Poloviečiai]] kariavo_pries Vokiečiai
+- [[objektai/grupes/Rusai]] kariavo_pries Vokiečiai
+- Vokiečiai pastate [[objektai/vietos/Bartenšteinas]]
+- Vokiečiai pastate [[objektai/vietos/Rezlis]]
+- Vokiečiai pastate [[objektai/vietos/Vizenburgas]]
+- Vokiečiai prekiavo_su [[objektai/vietos/Vilnius]]
+- Vokiečiai uzeme [[objektai/vietos/Jeruzalė]]
+- [[objektai/asmenys/Henne]] reme Vokiečiai
+- [[objektai/asmenys/Hennė (Ordino agentas)]] reme Vokiečiai
+- Vokiečiai puole [[objektai/vietos/Vilnius]]
+- Vokiečiai uzeme [[objektai/vietos/Alytus]]
+- [[objektai/grupes/Žemaičiai]] priklause Vokiečiai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] kariavo_pries Vokiečiai
+- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
+- Vokiečiai surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
+- Vokiečiai valde [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Pavelas Bermontas-Avalovas]] buvo_sajungininkas_su Vokiečiai
+- Vokiečiai apgule [[objektai/vietos/Veliuona]]
+- Vokiečiai keliavo_i [[objektai/vietos/Jeruzalė]]
+- Vokiečiai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vokiečiai gyveno [[objektai/vietos/Lietuva]]
+- Vokiečiai paskyre [[objektai/asmenys/Petras Kubiliūnas]]
+- Vokiečiai gyveno [[objektai/vietos/Kaunas]]

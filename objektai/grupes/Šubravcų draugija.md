@@ -43,38 +43,40 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   global_id: t-55109
   teiginys: 'Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Šubravcų draugijos sudėtį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Šubravcų draugija veikė Vilniuje.
 
 <a id="claim-t-55110"></a>
 - t-002
   global_id: t-55110
   teiginys: 'Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste draugija tiesiogiai apibūdinta kaip veikusi Vilniuje.
 
 <a id="claim-t-55111"></a>
 - t-003
@@ -119,19 +121,20 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   global_id: t-81752
   teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] gyveno Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Šubravcų draugiją kaip veikusią Vilniuje.
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
@@ -176,24 +179,24 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Šubravcų draugija veikė Vilniuje.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste draugija tiesiogiai apibūdinta kaip veikusi Vilniuje.
     - t-005
 
 - c-002
@@ -215,13 +218,13 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šubravcų draugija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Šubravcų draugiją kaip veikusią Vilniuje.
     - t-003
 
 - c-003
@@ -260,3 +263,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   ryšio_subjekto_parinkimas: Šubravcų draugija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šubravcų draugija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Šubravcų draugija gyveno [[objektai/vietos/Vilnius]]

@@ -31,28 +31,28 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   global_id: t-82550
   teiginys: 'Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Marijos santuoką, bet įvestyje yra OCR triukšmo.'
-  susije_objektai: 'family: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Marija (Gedimino duktė)|Marija (Gedimino duktė)]] buvo duktė [[objektai/asmenys/Marija|Marija]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Marija (Gedimino duktė)|Marija (Gedimino duktė)]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a5ebac49f45c1653f614a51a2e3247c566468aee99d02e513d0c4d85d48b0cac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Marija: 0.89
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Marija (Gedimino duktė): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Marija: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Marija (Gedimino duktė)" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marija (Gedimino duktė): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip Gedimino dukterį.
 
 <a id="claim-t-82552"></a>
 - t-002
   global_id: t-82552
   teiginys: 'Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Tverė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Marija (Gedimino duktė)|Marija (Gedimino duktė)]] buvo duktė [[objektai/asmenys/Marija|Marija]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Tverė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Marija (Gedimino duktė)|Marija (Gedimino duktė)]] buvo duktė [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-002
 
@@ -98,14 +98,14 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a5ebac49f45c1653f614a51a2e3247c566468aee99d02e513d0c4d85d48b0cac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Marija: 0.89
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Marija (Gedimino duktė): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Marija: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Marija (Gedimino duktė)" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marija (Gedimino duktė): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip Gedimino dukterį.
     - t-002
 
 ## Ryšiai
-- Marija (Gedimino duktė) buvo_dukte [[objektai/asmenys/Marija]]
+- Marija (Gedimino duktė) buvo_dukte [[objektai/asmenys/Gediminas]]

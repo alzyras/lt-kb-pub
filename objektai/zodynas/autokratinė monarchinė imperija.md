@@ -38,20 +38,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: autokratinė monarchinė imperija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "autokratinė monarchinė imperija" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai konstatuoja Lietuvos priklausymą Rusijos imperijai.
 
 <a id="claim-t-45784"></a>
 - t-003
   global_id: t-45784
   teiginys: '1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Užnemunė'
+  susije_objektai: 'llm_object: Rusija; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1795-1915; priklausymo laikotarpis: 1812 m.; priklausymo laikotarpis: 1915 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė susiję su autokratinė monarchinė imperija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
@@ -151,13 +151,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: autokratinė monarchinė imperija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "autokratinė monarchinė imperija" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai konstatuoja Lietuvos priklausymą Rusijos imperijai.
     - t-002
 
 - c-003

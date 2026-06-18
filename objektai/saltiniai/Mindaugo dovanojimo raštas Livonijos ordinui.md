@@ -50,7 +50,7 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Mindaugo veiksmus ir remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; llm_object: Kuršas'
   temporaliniai_duomenys: 'įvykio data: 1252 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Mindaugo veiksmus ir remiasi citata.'
@@ -59,13 +59,13 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167120-167844; hash=9b939f43913a4e2439096c2dfa8fac8110813da6e6f0bed9718046853a7fe486; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumas: valde -> Kuršas: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo dovanojimo raštas Livonijos ordinui: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo dovanojimo raštas Livonijos ordinui" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dovanojimas suponuoja Mindaugo disponavimą Kuršu, bet formuluotė nėra tiesioginis valdymo teiginys.
 
 ## Reikšmingi paminėjimai
 
@@ -142,10 +142,10 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167120-167844; hash=9b939f43913a4e2439096c2dfa8fac8110813da6e6f0bed9718046853a7fe486; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumas: valde -> Kuršas: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo dovanojimo raštas Livonijos ordinui: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo dovanojimo raštas Livonijos ordinui" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dovanojimas suponuoja Mindaugo disponavimą Kuršu, bet formuluotė nėra tiesioginis valdymo teiginys.

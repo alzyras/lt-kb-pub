@@ -226,3 +226,9 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-006
+
+## Ryšiai
+- Konstantinas Ostrogiškis pastate [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]
+- Konstantinas Ostrogiškis pastate [[objektai/vietos/Naugardukas]]
+- Konstantinas Ostrogiškis pastate [[objektai/vietos/Vilnius]]
+- Konstantinas Ostrogiškis pastate [[objektai/vietos/Medininkai]]

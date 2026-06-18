@@ -33,29 +33,28 @@ periodo_grupes:
   global_id: t-87596
   teiginys: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
   sudarymo_pagrindimas: 'Citata palaiko tik giminystės faktą apie Borisą; papildomas kontekstas apie Sofiją jam šalutinis.'
-  susije_objektai: 'territory: Tverė; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
+  susije_objektai: 'llm_object: Tverė; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] valdė Tverė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumas: valde -> Tverė: 0.87
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Maskva: candidate; Valakija: candidate; Vokietija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Valakija.md", "selected": false, "strategy": "candidate", "title": "Valakija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vokietija.md", "selected": false, "strategy": "candidate", "title": "Vokietija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas tiesiogiai sieja Borisą su Tverės valdymu.
 
 <a id="claim-t-87597"></a>
 - t-002
   global_id: t-87597
   teiginys: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
-  susije_objektai: 'territory: Tverė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
+  susije_objektai: 'llm_object: Tverė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] valdė Tverė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
@@ -64,15 +63,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumas: valde -> Tverė: 0.87
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Florencija: candidate; Lietuva: candidate; Livonija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Florencija.md", "selected": false, "strategy": "candidate", "title": "Florencija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-- susijęs iš Tverė: Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
@@ -149,28 +146,27 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumas: valde -> Tverė: 0.87
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Maskva: candidate; Valakija: candidate; Vokietija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Valakija.md", "selected": false, "strategy": "candidate", "title": "Valakija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vokietija.md", "selected": false, "strategy": "candidate", "title": "Vokietija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas tiesiogiai sieja Borisą su Tverės valdymu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumas: valde -> Tverė: 0.87
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Florencija: candidate; Lietuva: candidate; Livonija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Florencija.md", "selected": false, "strategy": "candidate", "title": "Florencija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu.
 
 ## Ryšiai
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Tverė]]
-- [[objektai/asmenys/Švitrigaila]] vede Borisas (Tverės kunigaikštis)
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]] buvo_dukte Borisas (Tverės kunigaikštis)
+- Borisas (Tverės kunigaikštis) valde [[objektai/vietos/Tverė]]
+- Borisas (Tverės kunigaikštis) gyveno [[objektai/vietos/Podolė]]
+- Borisas (Tverės kunigaikštis) keliavo_i [[objektai/vietos/Krokuva]]

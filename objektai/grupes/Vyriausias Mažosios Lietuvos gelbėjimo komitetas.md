@@ -29,7 +29,8 @@ amziai:
   global_id: t-66320
   teiginys: '1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui.'
   sudarymo_pagrindimas: 'Antroji sakinio dalis labiau apie Ambasadorių konferenciją, todėl teiginys sutelktas į VMLGK prašymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; llm_object: [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos seimas|Lietuvos seimas]] rėmė [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]'
   temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Antroji sakinio dalis labiau apie Ambasadorių konferenciją, todėl teiginys sutelktas į VMLGK prašymą.'
@@ -57,3 +58,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]] reme Vyriausias Mažosios Lietuvos gelbėjimo komitetas

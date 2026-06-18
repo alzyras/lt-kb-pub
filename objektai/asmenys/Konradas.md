@@ -32,8 +32,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   global_id: t-79083
   teiginys: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo valdovas Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1226-1228; valdymo laikotarpis: 1228 m.; valdymo laikotarpis: 1231 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką.'
@@ -50,8 +49,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=445daff2d5b04f6e40fd1283072c80aaaf3b6e13c5f2f9d5571037f2efced5ab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
@@ -206,7 +203,31 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   sprendimo_priezastis: auto
 
 ## Ryšiai
-- Konradas buvo_valdovas [[objektai/vietos/Mozūrija]]
-- [[objektai/asmenys/Fridrichas II]] buvo_sunus Konradas
-- [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]] buvo_brolis Konradas
-- Konradas keliavo_i [[objektai/vietos/Lenkija]]
+- Konradas buvo_sunus [[objektai/asmenys/Fridrichas II]]
+- Konradas pastate [[objektai/vietos/Noihauzas]]
+- Konradas siunte_i [[objektai/vietos/Nadruva]]
+- Konradas valde [[objektai/vietos/Kujavija]]
+- Konradas buvo_valdovas [[objektai/vietos/Kujavija]]
+- Konradas buvo_valdovas [[objektai/vietos/Lenčica]]
+- Konradas surenge_zygi_i [[objektai/vietos/Karšuva]]
+- Konradas puole [[objektai/vietos/Zilija]]
+- Konradas valde [[objektai/vietos/Lenkija]]
+- Konradas puole [[objektai/vietos/Bisenė]]
+- Konradas puole [[objektai/vietos/Apulija]]
+- Konradas puole [[objektai/vietos/Gardinas]]
+- Konradas puole [[objektai/vietos/Karšuva]]
+- Konradas puole [[objektai/vietos/Lietuva]]
+- Konradas puole [[objektai/vietos/Neapolis]]
+- Konradas puole [[objektai/vietos/Sūduva]]
+- Konradas puole [[objektai/vietos/Kimenava]]
+- Konradas puole [[objektai/vietos/Mėrūniškis]]
+- Konradas uzeme [[objektai/vietos/Bisenė]]
+- Konradas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Konradas buvo_valdovas [[objektai/vietos/Krokuva]]
+- Konradas gyne [[objektai/vietos/Semba]]
+- Konradas paskyre [[objektai/grupes/Kryžiuočių ordinas]]
+- Konradas siunte_i [[objektai/vietos/Semba]]
+- Konradas puole [[objektai/grupes/Lietuviai]]
+- Konradas keliavo_i [[objektai/vietos/Nagutinas]]
+- Konradas sudare_sutarti_su [[objektai/grupes/Dobrynės broliai]]
+- Konradas buvo_sajungininkas_su [[objektai/asmenys/Albrechtas iš Hageno]]

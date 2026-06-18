@@ -50,7 +50,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   ryšio_subjekto_parinkimas: Vaidotas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=84
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaidotas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
@@ -80,6 +79,3 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   ryšio_subjekto_parinkimas: Vaidotas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=84
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaidotas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/asmenys/Vaidotas (Butauto sūnus)]] buvo_sunus Vaidotas

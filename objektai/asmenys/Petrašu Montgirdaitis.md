@@ -32,19 +32,20 @@ periodo_grupes:
   global_id: t-87561
   teiginys: 'Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.'
   sudarymo_pagrindimas: 'Citata palaiko asmens vaidmenį Žygimanto pusėje, bet pradinė formuluotė yra OCR fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Naugardukas; llm_object: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Ašmena'
+  semantiniai_rysiai: '[[objektai/asmenys/Petrašu Montgirdaitis|Petrašu Montgirdaitis]] buvo sąjungininkas su [[objektai/asmenys/Žygimantas|Žygimantas]]; [[objektai/asmenys/Petrašu Montgirdaitis|Petrašu Montgirdaitis]] surengė žygį į Ašmena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrašu Montgirdaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrašu Montgirdaitis" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žygimanto pajėgos įsiveržė į Švitrigailos dvarą, todėl puolimo objektas yra Švitrigaila.
 
 ## Reikšmingi paminėjimai
 
@@ -104,10 +105,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrašu Montgirdaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrašu Montgirdaitis" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žygimanto pajėgos įsiveržė į Švitrigailos dvarą, todėl puolimo objektas yra Švitrigaila.
+
+## Ryšiai
+- Petrašu Montgirdaitis buvo_sajungininkas_su [[objektai/asmenys/Žygimantas]]
+- Petrašu Montgirdaitis surenge_zygi_i [[objektai/vietos/Ašmena]]

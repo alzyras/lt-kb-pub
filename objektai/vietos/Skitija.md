@@ -22,19 +22,21 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį be neaiškaus įvardžio „jis“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Skitija; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] keliavo į Skitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Radvila patraukė į skitų kraštą, tapatinamą su Skitija.
+- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.
 - susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 - susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185723|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
 - susijęs iš Valachija: Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.
@@ -45,6 +47,9 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-184606|J. Dlugošas]]: Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.
 - susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.
 - susijęs iš Psiolas: Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.
+- susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
+- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184878|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,10 +72,16 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Radvila patraukė į skitų kraštą, tapatinamą su Skitija.
+
+## Ryšiai
+- [[objektai/asmenys/Jerim Berdis]] keliavo_i Skitija
+- [[objektai/asmenys/Mikalojus Radvila]] keliavo_i Skitija
+- [[objektai/asmenys/Višnioveckis]] keliavo_i Skitija
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Skitija

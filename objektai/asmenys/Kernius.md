@@ -30,19 +30,20 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Kernių; pašalinta perteklinė informacija apie Gimbutą.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Nevėžis'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Nevėžis'
+  semantiniai_rysiai: '[[objektai/asmenys/Kernius|Kernius]] valdė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 101058-101385; hash=7e1b35b7a823dbb8c35b682078c035060099f8c518435d35276e6c41595ffaa8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Kerniui buvo atiduotos valdyti Lietuvos žemės.
 
 <a id="claim-t-186006"></a>
 - t-002
@@ -52,7 +53,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje svarbus paveldėjimo sprendimo rezultatas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kernius|Kernius]]; llm_object: Deltuva; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Pajauta|Pajauta]] buvo duktė [[objektai/asmenys/Kernius|Kernius]]; [[objektai/asmenys/Kernius|Kernius]] buvo palaidotas Deltuva'
   temporaliniai_duomenys: 'įvykio data: 1089 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje svarbus paveldėjimo sprendimo rezultatas.'
@@ -61,13 +63,13 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Kernius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Pajautą kaip Kerniaus dukterį.
 - susijęs iš [[objektai/asmenys/Kūnas.md#claim-t-186135|Kūnas]]: Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.
 - susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai nusiaubė Rusią.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
@@ -117,21 +119,27 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   irodymo_stiprumas: 0.00
   saltinio_vieta: 101058-101385; hash=7e1b35b7a823dbb8c35b682078c035060099f8c518435d35276e6c41595ffaa8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Kerniui buvo atiduotos valdyti Lietuvos žemės.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Kernius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kernius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Pajautą kaip Kerniaus dukterį.
+
+## Ryšiai
+- [[objektai/asmenys/Pajauta]] buvo_dukte Kernius
+- Kernius buvo_palaidotas [[objektai/vietos/Deltuva]]
+- Kernius valde [[objektai/vietos/Lietuva]]
+- Kernius surenge_zygi_i [[objektai/vietos/Breslauja]]

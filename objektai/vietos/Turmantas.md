@@ -75,6 +75,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 - susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78158|1-asis pėstininkų pulkas]]: 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.
 - susijęs iš [[objektai/grupes/asis pėstininkų pulkas.md#claim-t-80634|asis pėstininkų pulkas]]: Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.
 - susijęs iš Turmanto stotis: Lietuvos ir Latvijos siena ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties.
+- susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78158|1-asis pėstininkų pulkas]]: 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -144,3 +145,6 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   ryšio_subjekto_parinkimas: Turmantas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: brigada: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turmantas" parinktas kaip owner_note_path. Targetas "brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/1-asis pėstininkų pulkas]] uzeme Turmantas

@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-87020
   teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais.'
   sudarymo_pagrindimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
-  susije_objektai: 'mentioned_place: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Livonija; mentioned_place: Revelis'
+  susije_objektai: 'llm_object: Dorpatas; llm_object: Revelis; mentioned_place: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Livonija; mentioned_place: Revelis'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
@@ -60,13 +60,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a340163549035db23317411fe19234f3335be22e9d9fc59bac86ec70773fd980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dorpatas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai įsiveržė ir į Dorpato vyskupiją.
 
 <a id="claim-t-87021"></a>
 - t-002
@@ -157,10 +157,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a340163549035db23317411fe19234f3335be22e9d9fc59bac86ec70773fd980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dorpatas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai įsiveržė ir į Dorpato vyskupiją.

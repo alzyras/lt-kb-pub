@@ -51,19 +51,19 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   global_id: t-60150
   teiginys: 'Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.'
   sudarymo_pagrindimas: 'Citata pateikia Jeronimo raginimo turinį, kurį galima perrašyti be nutrūkusios citatos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 240899-241930; hash=083fc711987e0efe382f4404d6235942ba6388ea358b060573b0b670797ed239; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad magistras Hermanas pastatė Kulmo pilį ir miestą.
 - susijęs iš Vda: Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
@@ -122,10 +122,10 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 240899-241930; hash=083fc711987e0efe382f4404d6235942ba6388ea358b060573b0b670797ed239; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad magistras Hermanas pastatė Kulmo pilį ir miestą.

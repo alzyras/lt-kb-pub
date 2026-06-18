@@ -33,7 +33,7 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 - t-001
   global_id: t-171495
   teiginys: 'Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.'
-  susije_objektai: 'event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Sidabruotos geležinės balnakilpės|Sidabruotos geležinės balnakilpės]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Volkvinas|Volkvinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Sidabruotos geležinės balnakilpės|Sidabruotos geležinės balnakilpės]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Volkvinas|Volkvinas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1236 m.; mūšio data: apie 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kalavijuočių ordinas dalyvavo mūšyje Saulės mūšis (1236 m. rugsėjo 22 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas dalyvavo mūšyje Saulės mūšis (1236 m. rugsėjo 22 d.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,13 +41,13 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc688984220a8cae4843f17c35df83cf8e7f594b8d44dd1ff268537782821add; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Saulės mūšis (1236 m. rugsėjo 22 d.): 0.95
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: participant_match, group, gap=21
-  ryšio_targeto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): event_owner_or_first_target, event, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Kalavijuočių ordinas" parinktas kaip participant_match. Targetas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Volkvinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Volkvinas su kariuomene žygiavo į lietuvių kraštą.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc688984220a8cae4843f17c35df83cf8e7f594b8d44dd1ff268537782821add; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Saulės mūšis (1236 m. rugsėjo 22 d.): 0.95
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: participant_match, group, gap=21
-  ryšio_targeto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): event_owner_or_first_target, event, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Kalavijuočių ordinas" parinktas kaip participant_match. Targetas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Volkvinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Volkvinas su kariuomene žygiavo į lietuvių kraštą.

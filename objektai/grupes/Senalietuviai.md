@@ -29,19 +29,20 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   global_id: t-20006
   teiginys: 'Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jaunalietuviai|Jaunalietuviai]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jaunalietuviai|Jaunalietuviai]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Senalietuviai|Senalietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Jaunalietuviai|Jaunalietuviai]] buvo priešas [[objektai/grupes/Senalietuviai|Senalietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=976b147c137cc2354d07713f89d424e51670317a4b73e15e377df36243975e99; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaunalietuviai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Senalietuviai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senalietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jaunalietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senalietuviai" parinktas kaip owner_note_path. Targetas "Jaunalietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaunalietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Senalietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Oponavimas tiesiogiai rodo priešpriešą tarp jaunalietuvių ir senalietuvių tradicijos.
 
 <a id="claim-t-20007"></a>
 - t-002
@@ -99,13 +100,13 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=976b147c137cc2354d07713f89d424e51670317a4b73e15e377df36243975e99; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaunalietuviai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Senalietuviai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senalietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jaunalietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senalietuviai" parinktas kaip owner_note_path. Targetas "Jaunalietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaunalietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Senalietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Oponavimas tiesiogiai rodo priešpriešą tarp jaunalietuvių ir senalietuvių tradicijos.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4de415295f9d94094903fa0ca0780650da9be7707eeb10dc33990136fe426e8b; match=fallback; occurrences=0
@@ -117,3 +118,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   ryšio_subjekto_parinkimas: Senalietuviai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senalietuviai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Jaunalietuviai]] buvo_priesas Senalietuviai

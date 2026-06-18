@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-01667
   teiginys: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   sudarymo_pagrindimas: 'Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1328 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą.'
@@ -50,13 +50,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c69e6f33fe13b4bc611e3d32ed96f2b8098d3dd769fb2d7963cf4f88a360190b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste Livonijos kryžiuočiai ir Prūsijos kryžiuočiai vaizduojami kaip ordino šakos; ryšys žymi Livonijos ordino priklausymą platesnei kryžiuočių struktūrai.
 
 ## Reikšmingi paminėjimai
 
@@ -79,10 +79,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c69e6f33fe13b4bc611e3d32ed96f2b8098d3dd769fb2d7963cf4f88a360190b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.61
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste Livonijos kryžiuočiai ir Prūsijos kryžiuočiai vaizduojami kaip ordino šakos; ryšys žymi Livonijos ordino priklausymą platesnei kryžiuočių struktūrai.

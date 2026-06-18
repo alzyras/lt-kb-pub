@@ -41,19 +41,20 @@ Nenurodyta
   global_id: t-19583
   teiginys: 'XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatoje nurodyta informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia|Pranciškonų kankinių palaidojimo vietos koplyčia]] priklausė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0b4b827802923726f5261e5d0cc0c79800e7711343c9a54fa9a5e1d8c20e00bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų kankinių palaidojimo vietos koplyčia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų kankinių palaidojimo vietos koplyčia" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų kankinių palaidojimo vietos koplyčia: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Koplyčia statyta pranciškonų palaidojimo vietoje, kuri siejama su jų nužudymu Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -74,10 +75,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0b4b827802923726f5261e5d0cc0c79800e7711343c9a54fa9a5e1d8c20e00bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų kankinių palaidojimo vietos koplyčia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų kankinių palaidojimo vietos koplyčia" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų kankinių palaidojimo vietos koplyčia: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Koplyčia statyta pranciškonų palaidojimo vietoje, kuri siejama su jų nužudymu Vilniuje.
+
+## Ryšiai
+- Pranciškonų kankinių palaidojimo vietos koplyčia priklause [[objektai/vietos/Vilnius]]

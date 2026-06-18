@@ -110,7 +110,7 @@ Nenurodyta
   global_id: t-10166
   teiginys: '1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
   sudarymo_pagrindimas: 'Patikslinta vieta ir data, pašalintas neaiškumas.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius'
+  susije_objektai: 'mentioned_place: Maskva; llm_object: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius'
   temporaliniai_duomenys: 'įvykio data: 1368 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta vieta ir data, pašalintas neaiškumas.'
@@ -131,7 +131,7 @@ Nenurodyta
 - t-005
   global_id: t-10167
   teiginys: 'Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -173,13 +173,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai rodo Algirdo karinį pasirodymą su pajėgomis prie Maskvos.
 
 <a id="claim-t-12341"></a>
 - t-008
@@ -191,13 +191,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259688-259957; hash=779502c2f2e53b426ca4328dc34ce568e26c8c5e30efbe5a80c021b77fcd0802; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad kryžiuočiai puolė persekioti lietuvius.
 
 <a id="claim-t-12343"></a>
 - t-009
@@ -313,13 +313,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Algirdo karinį žygį su pajėgomis prie Maskvos.
 
 <a id="claim-t-176212"></a>
 - t-016
@@ -354,13 +354,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259469-259846; hash=43cb6137cee8a51a91ce4374ba1cf39900fff8895bf513234189e2f5f12bded6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: gyne -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad lietuviai dengė lenkų pozicijas, todėl tai laikoma gynimo santykiu.
 
 <a id="claim-t-176214"></a>
 - t-018
@@ -408,7 +408,7 @@ Nenurodyta
   global_id: t-176216
   teiginys: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -427,7 +427,7 @@ Nenurodyta
   global_id: t-176217
   teiginys: 'Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
   sudarymo_pagrindimas: 'Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius'
+  susije_objektai: 'mentioned_place: Maskva; llm_object: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius'
   temporaliniai_duomenys: 'įvykio data: 1368 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį.'
@@ -442,7 +442,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie romėnų vėliavas, o pirminis teiginys yra sulipęs su pašaliniu tekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-020
   irodymo_stiprumas: 0.00
@@ -608,13 +608,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai rodo Algirdo karinį pasirodymą su pajėgomis prie Maskvos.
     - t-010
 
 - c-006
@@ -645,13 +645,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259688-259957; hash=779502c2f2e53b426ca4328dc34ce568e26c8c5e30efbe5a80c021b77fcd0802; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad kryžiuočiai puolė persekioti lietuvius.
     - t-016
 
 - c-007
@@ -731,13 +731,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24f837ef045161ddf38edb0fe75c74357f63c7a0cc3bc6b8265102598396fb75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Algirdo karinį žygį su pajėgomis prie Maskvos.
     - t-014
 
 - c-010
@@ -779,13 +779,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259469-259846; hash=43cb6137cee8a51a91ce4374ba1cf39900fff8895bf513234189e2f5f12bded6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: gyne -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad lietuviai dengė lenkų pozicijas, todėl tai laikoma gynimo santykiu.
     - t-009
 
 - c-012
@@ -1055,3 +1055,9 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Vėliavos: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėliavos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vėliavos priklause [[objektai/grupes/Vokiečiai]]
+- Vėliavos priklause [[objektai/vietos/Lenkija]]
+- Vėliavos priklause [[objektai/vietos/Lietuva]]
+- Vėliavos priklause [[objektai/vietos/Vilnius]]

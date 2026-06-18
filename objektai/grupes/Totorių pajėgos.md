@@ -166,3 +166,12 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   ryšio_subjekto_parinkimas: Totorių pajėgos: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=70
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totorių pajėgos" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Totorių pajėgos uzeme [[objektai/vietos/Borisovas]]
+- Totorių pajėgos puole [[objektai/vietos/Lietuva]]
+- Totorių pajėgos uzeme [[objektai/vietos/Trakai]]
+- Totorių pajėgos uzeme [[objektai/vietos/Vilnius]]
+- Totorių pajėgos priklause [[objektai/asmenys/Edyga]]
+- Totorių pajėgos priklause [[objektai/grupes/Auksinė Orda]]
+- Totorių pajėgos priklause [[objektai/asmenys/Timūr-Kutlukas]]

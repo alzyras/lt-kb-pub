@@ -22,19 +22,20 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Augustą kaip teiginio objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Vilnius; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] keliavo į Vilnius; [[objektai/asmenys/Augustas|Augustas]] valdė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1197316-1197799; hash=32040be4971229e54b4a69aa25edbcfad356744db69bde4e3b06ee489f54de2d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Augusto kelionę į Vilnių.
 
 <a id="claim-t-185941"></a>
 - t-002
@@ -57,9 +58,10 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   ryšio_subjekto_parinkimas: Augustas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183847|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.
-- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
-- susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-181244|Habsburgai]]: Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-184673|Barbora Radvilaitė]]: Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
+- susijęs iš [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje.md#claim-t-185891|Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]: Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173127|Bona Sforca]]: Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia.
 - susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
@@ -192,6 +194,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87061|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: 1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80783|Abiejų Tautų Respublika]]: Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.
+- susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-181244|Habsburgai]]: Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175533|Kalavijuočių ordinas]]: 1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175553|Kalavijuočių ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120187|Karaimai]]: Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.
@@ -346,6 +349,8 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/zodynas/supirkinėtojai ir padienininkai.md#claim-t-86618|supirkinėtojai ir padienininkai]]: 1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173325|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.
+- susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -389,13 +394,13 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1197316-1197799; hash=32040be4971229e54b4a69aa25edbcfad356744db69bde4e3b06ee489f54de2d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Augusto kelionę į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1230215-1230691; hash=d1188945be6b63570d80f871c8de84f8d17971f1950e5ac5d02a8ab0eb7d6707; match=exact
@@ -409,9 +414,18 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Augustas keliavo_i [[objektai/vietos/Krokuva]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] vede Augustas
-- Augustas vede [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/asmenys/Barbora Radvilaitė]] vede Augustas
+- [[objektai/asmenys/Barbora Radvilaitė]] buvo_zmona Augustas
+- Augustas buvo_sunus [[objektai/asmenys/Bona]]
+- Augustas keliavo_i [[objektai/vietos/Lietuva]]
+- Augustas siunte_i [[objektai/vietos/Maskva]]
+- Augustas siunte_i [[objektai/vietos/Polockas]]
+- Augustas buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]
 - Augustas keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Habsburgai]] susije_su Augustas
+- Augustas valde [[objektai/vietos/Lietuva]]
+- Augustas vede [[objektai/asmenys/Barbora Radvilaitė]]
+- Augustas keliavo_i [[objektai/vietos/Livonija]]
+- Augustas surenge_zygi_i [[objektai/vietos/Livonija]]
+- Augustas valde [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Karalaičio Jokūbo partija]] reme Augustas
+- [[objektai/asmenys/Žygimantas Senasis]] paskyre Augustas
+- Augustas buvo_sunus [[objektai/asmenys/Žygimantas Senasis]]

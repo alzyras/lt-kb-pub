@@ -45,19 +45,19 @@ Nenurodyta
   global_id: t-95965
   teiginys: 'Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Jurbarkas; mentioned_place: Marienverderis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Jurbarkas; mentioned_place: Marienverderis; llm_object: Jurbarkas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 96018-96941; hash=882d418ff39cabb808cd58a80d2cf51ada67ded2f70784787e11e3077a8e781f; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Jurbarkas: 0.57
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Toliau citatoje nurodoma pilies gynėjų paėmimas ir pilies sudeginimas, bet objektas yra tik Jurbarkas kaip vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +88,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 96018-96941; hash=882d418ff39cabb808cd58a80d2cf51ada67ded2f70784787e11e3077a8e781f; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Jurbarkas: 0.57
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Toliau citatoje nurodoma pilies gynėjų paėmimas ir pilies sudeginimas, bet objektas yra tik Jurbarkas kaip vieta.

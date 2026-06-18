@@ -30,20 +30,20 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=027bf634129ebdc816322f0ea279421e8effc8ce153743fabf8a1ba0a86c894d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lamata: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lamata" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lietuviai gyveno Nemuno pakrantėje.
 
 <a id="claim-t-58585"></a>
 - t-002
   global_id: t-58585
   teiginys: 'Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.'
   sudarymo_pagrindimas: 'Citata pagrindžia vietos paminėjimą kaip teritorinės ribos dalį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Nemunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -109,10 +109,10 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=027bf634129ebdc816322f0ea279421e8effc8ce153743fabf8a1ba0a86c894d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lamata: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lamata" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lietuviai gyveno Nemuno pakrantėje.

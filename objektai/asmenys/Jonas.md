@@ -32,7 +32,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   global_id: t-60338
   teiginys: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį sakinį apie Jono atvykimą ir neveikimą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Reinas; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Reinas; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį sakinį apie Jono atvykimą ir neveikimą.'
@@ -41,15 +42,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jonas atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
@@ -165,6 +164,9 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
 - susijęs iš [[objektai/zodynas/mišparai.md#claim-t-58917|mišparai]]: 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.
 - susijęs iš [[objektai/zodynas/scholastiko prelatūra scholastikas.md#claim-t-86617|scholastiko prelatūra scholastikas]]: 1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184857|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vengrijos seime daugelis rėmė Jono brolį Vladislovą.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184858|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.
+- susijęs iš Silezija: Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -188,14 +190,18 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jonas atvyko į Prūsiją.
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas iš Endorfo]] buvo_brolis Jonas
-- [[objektai/asmenys/Jonas de Lovenbinkė]] buvo_brolis Jonas
+- Jonas puole [[objektai/asmenys/Slavka]]
+- Jonas keliavo_i [[objektai/vietos/Prūsija]]
+- Jonas puole [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_brolis Jonas
+- Jonas buvo_sunus [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Silezija]] priklause Jonas

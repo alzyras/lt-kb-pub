@@ -66,19 +66,19 @@ Nenurodyta
   teiginys: 'Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citatoje yra antraštės ir puslapio triukšmo, bet ji pagrindžia konkretų faktą.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
+  susije_objektai: 'llm_object: Pamedė; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Pamedė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Spitenbergas buvo Pamedės žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -155,10 +155,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Pamedė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Spitenbergas buvo Pamedės žemėje.

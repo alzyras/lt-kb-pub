@@ -107,7 +107,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178024
   teiginys: 'Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie prekybinius ryšius su Prūsijos miestais.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Livonija; llm_object: Prūsija; llm_object: Maskva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Prūsija'
   pagrindžia:
     - c-030
 
@@ -116,7 +117,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178025
   teiginys: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į aiškų sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Nutrūkęs fragmentas perrašytas į aiškų sakinį.'
@@ -128,7 +129,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178026
   teiginys: '1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Prūsijos ordiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Prūsijos ordiną.'
@@ -150,7 +151,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178027
   teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, faktas aiškiai palaikomas citata.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Prūsija; llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -176,13 +178,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=62a9b5e8f177e2fa6e1f6e9a22016681bbeba43e73d4bea3fe2f50c068c3b9dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas (Romos imperatorius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Zigmantas siekė tikslo su kryžiuočių pagalba, todėl kryžiuočių parama jo planui tiesiogiai nurodyta.
 
 <a id="claim-t-178029"></a>
 - t-012
@@ -194,20 +196,21 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių pirklių prekybą Prūsijoje.
 
 <a id="claim-t-178030"></a>
 - t-013
   global_id: t-178030
   teiginys: '1380 m. Vaidila kaip pasiuntinys nuvyko į Prūsiją ir paruošė dirvą slaptam Jogailos sandėriui su arkikomtūru.'
   sudarymo_pagrindimas: 'Teiginys išvalytas nuo OCR triukšmo ir paliktas palaikomas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaidila|Vaidila]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išvalytas nuo OCR triukšmo ir paliktas palaikomas faktas.'
@@ -343,7 +346,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178039
   teiginys: 'Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą.'
   sudarymo_pagrindimas: 'Reikia aiškiai nurodyti antpuolių objektą.'
-  susije_objektai: 'location: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Polockas'
   pagrindžia:
     - c-056
   irodymo_stiprumas: 0.00
@@ -374,26 +377,28 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178041
   teiginys: 'Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.'
   sudarymo_pagrindimas: 'Pradinis sakinys negramatiškas, bet citata aiškiai palaiko pataisytą faktą.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Barta'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Barta'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8925a2058725ee1e027dab99e0a4010594c04e5c011bbe1ce31f2133933a2e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lenkų dalinių likučiai perėjo sieną su Prūsija, tai reiškia judėjimą į Prūsiją.
 
 <a id="claim-t-178042"></a>
 - t-024
   global_id: t-178042
   teiginys: 'Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardas; mentioned_place: Salynas'
+  susije_objektai: 'llm_object: Prūsija; llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardas; mentioned_place: Salynas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] prekiavo su Prūsija'
   pagrindžia:
     - c-046
   irodymo_stiprumas: 0.00
@@ -420,7 +425,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178045
   teiginys: 'Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Zigmanto siekį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vengrija; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vengrija; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-041
   irodymo_stiprumas: 0.00
@@ -439,7 +444,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178046
   teiginys: 'Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Prūsija nurodyta kaip sienos kryptis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Prūsija'
   pagrindžia:
     - c-010
 
@@ -461,13 +467,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių pirklius prekiaujant Prūsijoje.
 
 <a id="claim-t-178051"></a>
 - t-031
@@ -597,7 +603,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178059
   teiginys: 'Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.'
   sudarymo_pagrindimas: 'Dubliuojamas fragmentas išvalytas ir perrašytas glaustai.'
-  susije_objektai: 'location: Anglija; mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
@@ -657,7 +663,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178062
   teiginys: 'Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.'
   sudarymo_pagrindimas: 'Citata remia tikslesnį teiginį apie autoriaus vartoseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija'
   pagrindžia:
     - c-043
   irodymo_stiprumas: 0.00
@@ -741,12 +748,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-178071"></a>
 - t-048
@@ -758,20 +766,21 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiuočiai grįžo į Prūsiją.
 
 <a id="claim-t-178072"></a>
 - t-049
   global_id: t-178072
   teiginys: 'Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.'
   sudarymo_pagrindimas: 'Pašalinta abejojanti ir nutrūkusi sakinio dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Prūsija'
   pagrindžia:
     - c-040
   irodymo_stiprumas: 0.00
@@ -895,7 +904,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178080
   teiginys: 'Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas Salyno taikos nuostata.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardas; mentioned_place: Salynas'
+  susije_objektai: 'llm_object: Prūsija; llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardas; mentioned_place: Salynas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] prekiavo su Prūsija'
   pagrindžia:
     - c-046
   irodymo_stiprumas: 0.00
@@ -952,7 +962,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178085
   teiginys: '1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo 1304 m. maldininkų kelionę į Prūsiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Reinas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Reinas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]] keliavo į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1304 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo 1304 m. maldininkų kelionę į Prūsiją.'
@@ -974,7 +985,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178087
   teiginys: 'Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'location: Anglija; mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-026
 
@@ -992,13 +1003,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1900f68393eba5aa1e769cdd667fbe4c4b7377e16697d37490d3e30704d14a5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiuočiai užėmė Prūsiją.
 
 <a id="claim-t-178089"></a>
 - t-063
@@ -1011,13 +1022,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Gedimino sutartį su Lokietka.
 
 <a id="claim-t-178090"></a>
 - t-064
@@ -1043,7 +1054,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   global_id: t-178091
   teiginys: '1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.'
   sudarymo_pagrindimas: 'Reikia sklandesnio sakinio be perteklinio autoriaus kaip veikėjo akcento.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandesnio sakinio be perteklinio autoriaus kaip veikėjo akcento.'
@@ -1052,13 +1064,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d5f356223629a7876c1df3f38637714b8b05e8d0c7be2253074f650393efdca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaidila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vaidila nuvyko į Prūsiją.
 
 <a id="claim-t-178092"></a>
 - t-066
@@ -1070,13 +1082,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 102746-103115; hash=7afedf7e8f9c47602d98dbf49258911bbcf623fd49be44f92648e8cbb36c21cb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=48
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-178094"></a>
 - t-068
@@ -1169,7 +1181,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sukonkretintas data ir pašalinta griozdiška parentetinė dalis.'
-  susije_objektai: 'mentioned_place: Klaipėda; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Klaipėda; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija; llm_object: Prūsija; llm_object: Klaipėda'
+  semantiniai_rysiai: 'Klaipėda priklausė Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1278 m.; įvykio data: 1629 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sukonkretintas data ir pašalinta griozdiška parentetinė dalis.'
@@ -1194,18 +1207,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandžią enciklopedinę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] keliavo į Prūsija'
   pagrindžia:
     - c-058
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185102"></a>
 - t-077
@@ -1215,19 +1230,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas faktinis sakinys apie kariuomenės žygį į Prūsiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Heilsbergas; mentioned_place: Karšuva; mentioned_place: Kuršas; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Heilsbergas; mentioned_place: Karšuva; mentioned_place: Kuršas; mentioned_place: Saksonija; llm_object: Kuršas'
   pagrindžia:
     - c-060
   irodymo_stiprumas: 0.00
   saltinio_vieta: 297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Livonija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vilniaus prekybos ryšius su Livonijos miestais.
 
 <a id="claim-t-185103"></a>
 - t-078
@@ -1282,7 +1297,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas veikėjas pagal citatos kontekstą ir paliktas faktas apie Prūsiją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] puolė Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įvardytas veikėjas pagal citatos kontekstą ir paliktas faktas apie Prūsiją.'
@@ -1297,19 +1313,19 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Livonija; llm_object: Livonija'
   pagrindžia:
     - c-065
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1342-1638; hash=2fc1513d58b475afa3d376e41aea2a5363add8a96b020b6ed47ab6b633bf6ff1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini kryžiuočių užkariavimus Prūsijoje.
 
 <a id="claim-t-185108"></a>
 - t-083
@@ -1341,19 +1357,20 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kryžiuočių pasitraukimą į Prūsiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija'
   pagrindžia:
     - c-067
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6466-7158; hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kryžiuočių ordino užkariautą Prūsijos vardu vadintą plotą.
 
 <a id="claim-t-185110"></a>
 - t-085
@@ -1407,7 +1424,8 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, paliktas konkretus veiksmas ir tikslas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vysla; llm_object: Prūsija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Prūsija'
   pagrindžia:
     - c-070
   irodymo_stiprumas: 0.00
@@ -1475,36 +1493,86 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 173294-173840; hash=49b1473fcdba7ce439caae7283fa7b9bf65542f5e0a17ac47ec658b103baab3d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja krašto pavergimą su Kryžiuočių ordinu.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
-- susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63616|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.
-- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas).md#claim-t-186234|Liudvikas (Brandenburgo markgrafas)]]: Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis).md#claim-t-60190|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]: Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175145|M. Perlbachas]]: M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.
-- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
-- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-183923|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais.
-- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
-- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66559|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais.
-- susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89383|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą.
-- susijęs iš Osterodė: Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60122|Gerhardas (valdovas)]]: Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.
-- susijęs iš [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją.md#claim-t-62217|Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]: Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.
-- susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
+- susijęs iš [[objektai/asmenys/Henrikas iš Kunceno.md#claim-t-184080|Henrikas iš Kunceno]]: Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.
+- susijęs iš [[objektai/asmenys/Henrikas iš Kunceno.md#claim-t-59973|Henrikas iš Kunceno]]: Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.
+- susijęs iš [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis).md#claim-t-60190|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]: Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.
 - susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-183906|Vokietijos maldininkai]]: 1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59009|Vokietijos maldininkai]]: 1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę.
+- susijęs iš [[objektai/asmenys/Henrikas iš Kunceno.md#claim-t-59974|Henrikas iš Kunceno]]: Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.
+- susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
+- susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
+- susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-60333|Inocentas IV]]: 1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.
+- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
+- susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
+- susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179071|Kryžiuočių ordinas]]: Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.
+- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
+- susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60020|Gotfridas Hohenlohė]]: 1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63616|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.
+- susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87428|Henrikas Lankasteris]]: Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.
+- susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.).md#claim-t-185742|Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]: Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
+- susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
+- susijęs iš [[objektai/asmenys/Jonas (Brandenburgo markgrafas).md#claim-t-60341|Jonas (Brandenburgo markgrafas)]]: 1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų.
+- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
+- susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją.md#claim-t-62217|Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]: Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.
 - susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
+- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
+- susijęs iš Gardinas: 1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.
+- susijęs iš Kaunas: 1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.
+- susijęs iš Kuršas: Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.
+- susijęs iš Naujoji Prūsija: Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.
+- susijęs iš Notanga: Petro iš Dusburgo kronikoje Notanga nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Plikoji Barta: Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
+- susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
+- susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60136|Henrikas iš Veidos]]: Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.
+- susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
+- susijęs iš [[objektai/ivykiai/Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis.md#claim-t-185835|Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis]]: Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
+- susijęs iš [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.).md#claim-t-185843|Žemaičių žygis į Sembą (1308 m.)]]: 1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
+- susijęs iš Gunlaukenas: Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti.
+- susijęs iš Vartenburgas: Vartenburgo apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
+- susijęs iš Žemaitija: Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.
+- susijęs iš [[objektai/zodynas/Arkikomtūras.md#claim-t-86454|Arkikomtūras]]: Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru.
+- susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87591|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184509|Kryžiuočių ordinas]]: Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.
+- susijęs iš Rizenburgas: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173137|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.
+- susijęs iš [[objektai/asmenys/Henrikas iš Svarcburgo.md#claim-t-184082|Henrikas iš Svarcburgo]]: 1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę.
+- susijęs iš [[objektai/asmenys/Henrikas iš Svarcburgo.md#claim-t-60315|Henrikas iš Svarcburgo]]: 1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184787|Mindaugas (valdovas, XIII a.)]]: Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
+- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
+- susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Lietuvos valdos Lietuva: Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą.
+- susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Lubavas: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš Varmė: Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.
+- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56965|Agota (kunigaikščio žmona, XIII a.)]]: Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.
@@ -1906,6 +1974,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58795|prūsas Prūsa Prūsija]]: XII–XIII a. istoriniuose aktuose Prūsijos vardas dar nebuvo nusistovėjęs ir rašytas keliomis formomis.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58796|prūsas Prūsa Prūsija]]: Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
+- susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
+- susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
+- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos hercogas).md#claim-t-60230|Albrechtas (Prūsijos hercogas)]]: Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.
@@ -2871,6 +2946,64 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
+- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
+- susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
+- susijęs iš [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą.md#claim-t-185711|Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]: Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.
+- susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
+- susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60136|Henrikas iš Veidos]]: Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.
+- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60170|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus.
+- susijęs iš [[objektai/daiktai/Pėstininkų muškieta titnagine spyna.md#claim-t-39216|Pėstininkų muškieta titnagine spyna]]: Pėstininkų muškieta titnagine spyna, arba pėstininkų fuzėja, buvo 18 mm kalibro XVIII a. pabaigos Prūsijos ginklas.
+- susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185556|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
+- susijęs iš Galinda: Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Lunenburgas: Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.
+- susijęs iš Naugardas: Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.
+- susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.
+- susijęs iš Pamedė: Petro iš Dusburgo kronikoje Pamedė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Skalva: Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių.
+- susijęs iš Sūduva: Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
+- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
+- susijęs iš Naugardas: Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
+- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
+- susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
+- susijęs iš [[objektai/posakiai/dieviškojo žodžio sėkla krito į negerą dirvą.md#claim-t-59090|dieviškojo žodžio sėkla krito į negerą dirvą]]: Vyskupas Kristijonas dažnai ragino prūsus atsisakyti stabų, tačiau dieviškojo žodžio sėkla tarp jų krito į negerą dirvą.
+- susijęs iš Nadruva: Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58921|Prūsijos žemė terra Prussiae]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179248|Lietuviai]]: Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.
+- susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185665|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.
+- susijęs iš Lubava: Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Vysla: Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/daiktai/Prūsijos hercogo Albrechto herbas.md#claim-t-59703|Prūsijos hercogo Albrechto herbas]]: Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
+- susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
+- susijęs iš Užnemunė: Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181462|Petras Dusburgietis]]: Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181475|Petras Dusburgietis]]: Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185496|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: 1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.
+- susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
+- susijęs iš [[objektai/asmenys/Geroldzekas iš Švabijos.md#claim-t-87679|Geroldzekas iš Švabijos]]: 1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
+- susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88539|Cistersų ordinas]]: 1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
+- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-183908|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
+- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62734|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. į Prūsiją atvykę kunigaikščiai dėl minkštos žiemos nepasiekė savo tikslo ir sugrįžo į savo kraštus.
+- susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62735|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172978|Vygandas Marburgietis]]: Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.
+- susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
+- susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
+- susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
+- susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
+- susijęs iš [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje.md#claim-t-54273|Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -2932,13 +3065,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių pirklių prekybą Prūsijoje.
     - t-033
 
 - c-004
@@ -2972,13 +3105,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 113634-114215; hash=1768a18f30d457693b9fc4c72beb0906e1a38a35dc323e42ec487b77de8b1792; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Ciolneris Rotenšteinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas su pajėgomis persikėlė į Lietuvos kraštą ir jį niokojo, todėl puolimo ryšys tiesiogiai pagrįstas.
     - t-037
 
 - c-005
@@ -3117,13 +3250,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8925a2058725ee1e027dab99e0a4010594c04e5c011bbe1ce31f2133933a2e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad lenkų dalinių likučiai perėjo sieną su Prūsija, tai reiškia judėjimą į Prūsiją.
     - t-044
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=612c82c515ee28e3f3ed19fbbd6baf2be93d42bead8b873ad76dca3dac944c9a; match=fallback; occurrences=0
@@ -3218,13 +3351,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 102746-103115; hash=7afedf7e8f9c47602d98dbf49258911bbcf623fd49be44f92648e8cbb36c21cb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=48
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610409-610970; hash=25861f8a31874820cc3fa9ac27a96461ffa4b67989b6b707f1ff1cff777b20ba; match=exact
@@ -3264,13 +3397,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=62a9b5e8f177e2fa6e1f6e9a22016681bbeba43e73d4bea3fe2f50c068c3b9dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas (Romos imperatorius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Zigmantas siekė tikslo su kryžiuočių pagalba, todėl kryžiuočių parama jo planui tiesiogiai nurodyta.
     - t-008
     - t-051
 
@@ -3403,13 +3536,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b820c420ffe2c7cbb2386a8042c38a3c0b2ef0ed733e85c84461bbd3652ed95c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių pirklius prekiaujant Prūsijoje.
     - t-045
     - t-013
 
@@ -3480,13 +3613,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d5f356223629a7876c1df3f38637714b8b05e8d0c7be2253074f650393efdca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaidila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vaidila nuvyko į Prūsiją.
     - t-047
 
 - c-022
@@ -3505,12 +3638,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-019
 
 - c-023
@@ -3598,13 +3732,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1900f68393eba5aa1e769cdd667fbe4c4b7377e16697d37490d3e30704d14a5e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiuočiai užėmė Prūsiją.
     - t-042
 
 - c-026
@@ -3969,13 +4103,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Gedimino sutartį su Lokietka.
     - t-043
 
 - c-038
@@ -4322,13 +4456,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiuočiai grįžo į Prūsiją.
     - t-036
 
 - c-050
@@ -4600,12 +4734,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-076
 
 - c-060
@@ -4632,13 +4767,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad kryžiuočiai grįžo į Prūsiją.
     - t-077
 
 - c-061
@@ -4665,13 +4800,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Livonija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vilniaus prekybos ryšius su Livonijos miestais.
     - t-078
 
 - c-062
@@ -4832,13 +4967,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1342-1638; hash=2fc1513d58b475afa3d376e41aea2a5363add8a96b020b6ed47ab6b633bf6ff1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini kryžiuočių užkariavimus Prūsijoje.
     - t-083
 
 - c-067
@@ -4894,13 +5029,13 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6466-7158; hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Kryžiuočių ordino užkariautą Prūsijos vardu vadintą plotą.
     - t-085
 
 - c-069
@@ -5065,30 +5200,111 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   irodymo_stiprumas: 0.00
   saltinio_vieta: 173294-173840; hash=49b1473fcdba7ce439caae7283fa7b9bf65542f5e0a17ac47ec658b103baab3d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prūsija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsija" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja krašto pavergimą su Kryžiuočių ordinu.
 
 ## Ryšiai
+- [[objektai/grupes/Vokietijos maldininkai]] keliavo_i Prūsija
 - [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Prūsija
+- [[objektai/asmenys/Vaidila]] keliavo_i Prūsija
 - [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Prūsija
-- [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Prūsija
-- [[objektai/asmenys/Odoničius]] keliavo_i Prūsija
+- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] keliavo_i Prūsija
+- [[objektai/asmenys/Henrikas iš Kunceno]] mire Prūsija
 - [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]] keliavo_i Prūsija
-- [[objektai/asmenys/Samboras]] keliavo_i Prūsija
-- [[objektai/vietos/Osterodė]] priklause Prūsija
-- [[objektai/grupes/Prancūzai]] keliavo_i Prūsija
-- [[objektai/asmenys/Otonas]] keliavo_i Prūsija
-- [[objektai/grupes/Teutonai]] keliavo_i Prūsija
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Prūsija
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Prūsija
 - [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Prūsija
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] keliavo_i Prūsija
+- [[objektai/asmenys/Henrikas iš Kunceno]] keliavo_i Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsija
+- [[objektai/asmenys/Petras iš Rozenbergo]] keliavo_i Prūsija
+- [[objektai/asmenys/Popiežius Honorijus II]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Inocentas IV]] siunte_i Prūsija
+- [[objektai/asmenys/Odoničius]] keliavo_i Prūsija
+- [[objektai/asmenys/Otonas (Brandenburgo markgrafas)]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Pilypas]] keliavo_i Prūsija
+- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Prūsija
+- [[objektai/asmenys/Gotfridas Hohenlohė]] keliavo_i Prūsija
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Prūsija
+- [[objektai/asmenys/Henrikas Lankasteris]] keliavo_i Prūsija
+- [[objektai/vietos/Užnemunė]] priklause Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Prūsija
+- [[objektai/grupes/Lietuviai]] puole Prūsija
+- [[objektai/asmenys/Abraomas Kulvietis]] keliavo_i Prūsija
+- [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]] keliavo_i Prūsija
+- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Prūsija
+- [[objektai/asmenys/Jonas iš Liuksemburgo]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Konradas iš Foichtvangeno]] keliavo_i Prūsija
+- [[objektai/grupes/Lietuviai]] prekiavo_su Prūsija
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Prūsija
+- [[objektai/vietos/Notanga]] priklause Prūsija
+- [[objektai/asmenys/Otonas]] keliavo_i Prūsija
+- [[objektai/vietos/Plikoji Barta]] priklause Prūsija
+- [[objektai/grupes/Prancūzai]] keliavo_i Prūsija
+- [[objektai/vietos/Vilnius]] prekiavo_su Prūsija
+- [[objektai/grupes/Vokiečiai]] keliavo_i Prūsija
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Prūsija
+- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Prūsija
+- [[objektai/asmenys/Aleksandras Karijotaitis]] puole Prūsija
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Prūsija
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] surenge_zygi_i Prūsija
+- [[objektai/vietos/Gunlaukenas]] priklause Prūsija
+- [[objektai/asmenys/Henrikas iš Veidos]] keliavo_i Prūsija
+- [[objektai/asmenys/Jonas]] keliavo_i Prūsija
+- [[objektai/vietos/Vartenburgas]] priklause Prūsija
+- [[objektai/asmenys/Vytenis]] puole Prūsija
+- [[objektai/grupes/Žemaičiai]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] surenge_zygi_i Prūsija
+- [[objektai/vietos/Rizenburgas]] priklause Prūsija
+- [[objektai/asmenys/Vinrichas Kniprodė]] keliavo_i Prūsija
+- [[objektai/vietos/Barta]] priklause Prūsija
+- [[objektai/asmenys/Henrikas iš Svarcburgo]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Prūsija
+- [[objektai/vietos/Kulmas]] priklause Prūsija
+- [[objektai/vietos/Lubavas]] priklause Prūsija
+- [[objektai/vietos/Varmė]] priklause Prūsija
+- [[objektai/grupes/Vokiečių ordinas]] keliavo_i Prūsija
+- [[objektai/grupes/Žemaičiai]] puole Prūsija
+- [[objektai/asmenys/Kristijonas]] gyveno Prūsija
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] surenge_zygi_i Prūsija
+- [[objektai/grupes/Lenkai]] puole Prūsija
+- [[objektai/grupes/Lenkijos karalystės kariuomenė]] keliavo_i Prūsija
+- [[objektai/asmenys/Samboras]] keliavo_i Prūsija
+- [[objektai/asmenys/Adalbertas]] keliavo_i Prūsija
+- [[objektai/vietos/Galinda]] priklause Prūsija
+- [[objektai/asmenys/Henrikas iš Veidos]] valde Prūsija
+- [[objektai/vietos/Klaipėda]] priklause Prūsija
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Prūsija
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) valde Prūsija
+- [[objektai/vietos/Pamedė]] priklause Prūsija
+- [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]] priklause Prūsija
+- [[objektai/vietos/Skalva]] priklause Prūsija
+- [[objektai/vietos/Sūduva]] priklause Prūsija
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Prūsija
+- [[objektai/grupes/Anglai]] keliavo_i Prūsija
+- [[objektai/grupes/Lenkai]] surenge_zygi_i Prūsija
+- [[objektai/vietos/Nadruva]] priklause Prūsija
+- [[objektai/vietos/Naujoji Prūsija]] priklause Prūsija
+- Prūsija priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytenis]] surenge_zygi_i Prūsija
+- [[objektai/vietos/Lubava]] priklause Prūsija
+- Prūsija priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Prūsija
+- [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]] priklause Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Prūsija
+- Prūsija priklause [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Teutonai]] keliavo_i Prūsija
+- [[objektai/daiktai/Pilys]] priklause Prūsija
+- [[objektai/asmenys/Geroldzekas iš Švabijos]] surenge_zygi_i Prūsija
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Prūsija
+- [[objektai/grupes/Lenkai]] keliavo_i Prūsija
+- [[objektai/asmenys/Simonas Grunau]] gyveno Prūsija
+- [[objektai/grupes/Kryžiuočių ordinas]] gyne Prūsija
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] mire Prūsija
+- [[objektai/asmenys/Hartmanas iš Grumbacho]] valde Prūsija
+- [[objektai/grupes/Lietuviai]] gyveno Prūsija
+- Prūsija priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]] gyveno Prūsija

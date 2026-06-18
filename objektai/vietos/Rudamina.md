@@ -31,19 +31,19 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   global_id: t-114961
   teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.'
   sudarymo_pagrindimas: 'Citata aiškiai palaiko įvykį prie Rudaminos, o pradinė formuluotė per ilga ir triukšminga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0d6cde3951b6e0039a7bfe104a084343c03a7946125f967a467c086b0e31cdc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudamina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudamina" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mūšis ir lietuvių kariuomenės paėmimas į nelaisvę tiesiogiai rodo karinį konfliktą.
 
 <a id="claim-t-114962"></a>
 - t-002
@@ -57,7 +57,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - t-003
   global_id: t-114963
   teiginys: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -113,7 +113,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   global_id: t-114966
   teiginys: 'Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių.'
   sudarymo_pagrindimas: 'Citata patvirtina susirėmimo vietą, atstumą ir dalyvius; teiginys sutrumpintas iki vieno fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -159,13 +159,13 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba69db8aa8ade0bfc5523809929332557ac942caab0e050b542b032b31584353; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudamina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudamina" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Vytauto susidūrimą su kryžiuočių pulkais; tai pagrindžia karinę priešpriešą.
 
 <a id="claim-t-114969"></a>
 - t-009
@@ -210,6 +210,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 - susijęs iš Pukančiai: Šv. Jono bažnyčios klebonas Adomas Ancypa skunde nurodė pagal fundacijas valdantis Pukančius su kitomis valdomis.
 - susijęs iš Pukančiai: 1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius Pukančius priskyrė prie valdų, skirtų vikarui ir jo pagalbininkams išlaikyti.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
+- susijęs iš [[objektai/asmenys/Charitonas Charotičius.md#claim-t-87644|Charitonas Charotičius]]: Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -278,13 +279,13 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba69db8aa8ade0bfc5523809929332557ac942caab0e050b542b032b31584353; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudamina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudamina" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Vytauto susidūrimą su kryžiuočių pulkais; tai pagrindžia karinę priešpriešą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba69db8aa8ade0bfc5523809929332557ac942caab0e050b542b032b31584353; match=fallback; occurrences=0
@@ -330,13 +331,13 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0d6cde3951b6e0039a7bfe104a084343c03a7946125f967a467c086b0e31cdc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudamina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudamina" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mūšis ir lietuvių kariuomenės paėmimas į nelaisvę tiesiogiai rodo karinį konfliktą.
     - t-002
 
 - c-004
@@ -453,3 +454,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   ryšio_subjekto_parinkimas: Rudamina: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pukančiai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudamina" parinktas kaip owner_note_path. Targetas "Pukančiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Charitonas Charotičius]] valde_teritorija Rudamina

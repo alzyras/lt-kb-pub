@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-169842
   teiginys: '1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau įvardijant Liublino unijos rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_object: [[objektai/posakiai/„Šventos santuokos“|„Šventos santuokos“]]; mentioned_place: Europa; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_object: [[objektai/posakiai/„Šventos santuokos“|„Šventos santuokos“]]; mentioned_place: Europa; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1386 m.; įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau įvardijant Liublino unijos rezultatą.'
@@ -61,13 +61,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30166-30384; hash=8f424c9b92256ecb3edac72b2a7edf3eaf58e0b76e02a3a2ca24df4481cb9f18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo Lenkiją kaip jungtinės Abiejų Tautų Respublikos dalį.
 
 <a id="claim-t-169843"></a>
 - t-002
@@ -170,13 +170,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121974-122541; hash=7c326fb1961d6b0b4947a6e64058be879660b687f8f221945b412b454655c945; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jungtinė valstybė apibūdinama kaip Lietuvos ir Lenkijos suartėjimo padarinys.
 
 <a id="claim-t-169849"></a>
 - t-008
@@ -223,7 +223,7 @@ Nenurodyta
 - t-010
   global_id: t-169851
   teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; llm_object: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -262,7 +262,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citatos formuluote.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
+  susije_objektai: 'llm_object: Lenkija; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1648 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citatos formuluote.'
@@ -271,13 +271,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30166-30384; hash=8f424c9b92256ecb3edac72b2a7edf3eaf58e0b76e02a3a2ca24df4481cb9f18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Lenkiją su jungtine Abiejų Tautų Respublika.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-183516|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/posakiai/„Šventos santuokos“.md#claim-t-67328|„Šventos santuokos“]]: „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.
 - susijęs iš Liublino unijos aktas (1569 m.): 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
@@ -330,13 +330,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121974-122541; hash=7c326fb1961d6b0b4947a6e64058be879660b687f8f221945b412b454655c945; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jungtinė valstybė apibūdinama kaip Lietuvos ir Lenkijos suartėjimo padarinys.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 124365-125234; hash=ae9a1bcbcb40b4d7e8b5cd8a82f5355b6980f9b7e36cf714acf53db310280916; match=whitespace_regex
@@ -494,13 +494,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30166-30384; hash=8f424c9b92256ecb3edac72b2a7edf3eaf58e0b76e02a3a2ca24df4481cb9f18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo Lenkiją kaip jungtinės Abiejų Tautų Respublikos dalį.
     - t-002
 
 - c-008
@@ -584,10 +584,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 30166-30384; hash=8f424c9b92256ecb3edac72b2a7edf3eaf58e0b76e02a3a2ca24df4481cb9f18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublino unija (1569 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublino unija (1569 m.)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Abiejų Tautų Respublika: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Lenkiją su jungtine Abiejų Tautų Respublika.

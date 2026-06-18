@@ -48,6 +48,7 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jordanas iš Pelplino" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
+- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178832|Kryžiuočių ordinas]]: Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108293|Pranciškonų ordinas]]: Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.
@@ -92,3 +93,8 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
   ryšio_subjekto_parinkimas: Jordanas iš Pelplino: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jordanas: mention_match, author, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jordanas iš Pelplino" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jordanas iš Pelplino reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Jordanas iš Pelplino gyne [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Paulius iš Olivos]] buvo_sajungininkas_su Jordanas iš Pelplino

@@ -41,7 +41,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   global_id: t-77299
   teiginys: 'Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi citatos fragmentų; citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
+  susije_objektai: 'llm_object: Rytų Europa; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
+  semantiniai_rysiai: 'Lietuva priklausė Rytų Europa'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.).md#claim-t-31454|Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)]]: 1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.
@@ -90,3 +91,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=5
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytų Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] priklause Rytų Europa

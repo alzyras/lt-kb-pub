@@ -41,7 +41,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  susije_objektai: 'llm_object: Semba; llm_object: Prūsija; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   temporaliniai_duomenys: 'įvykio data: 1308 m.; įvykio data: 1309 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'
@@ -50,13 +50,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 320833-321496; hash=30c213e56e4ad6f002be260a1fc868bc1642caea70627d969a4e1d83e1b31093; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių žygis į Sembą (1308 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių žygis į Sembą (1308 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių karinį nusiaubimą Sembos žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -96,10 +96,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 320833-321496; hash=30c213e56e4ad6f002be260a1fc868bc1642caea70627d969a4e1d83e1b31093; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių žygis į Sembą (1308 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių žygis į Sembą (1308 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių karinį nusiaubimą Sembos žemėje.

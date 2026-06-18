@@ -51,7 +51,8 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   global_id: t-87386
   teiginys: '1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Andrius Važila|Andrius Važila]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] rėmė [[objektai/asmenys/Andrius Važila|Andrius Važila]]; [[objektai/asmenys/Vytautas|Vytautas]] rėmė [[objektai/asmenys/Andrius Važila|Andrius Važila]]'
   temporaliniai_duomenys: 'įvykio data: 1397 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
@@ -112,3 +113,7 @@ O vys­ kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­ reigų, gav
   ryšio_subjekto_parinkimas: Andrius Važila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Važila" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] reme Andrius Važila
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Andrius Važila

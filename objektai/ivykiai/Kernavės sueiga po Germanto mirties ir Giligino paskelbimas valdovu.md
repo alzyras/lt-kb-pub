@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Germantas|Germantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Germantas|Germantas]]; llm_object: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; llm_object: Žemaitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222409-222793; hash=b07660a449b3a70e5f1c588519046ee1b850c7b63c453a6146d43eb919e6179f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Germantas: 0.90
+  ryšio_patikimumas: buvo_sunus -> Germantas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Giliginas: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Germantas: nearest_family_person, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Giliginas" parinktas kaip nearest_actor. Targetas "Germantas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Giliginas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Germantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai įvardija Giliginą kaip Germanto sūnų.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +72,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222409-222793; hash=b07660a449b3a70e5f1c588519046ee1b850c7b63c453a6146d43eb919e6179f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Germantas: 0.90
+  ryšio_patikimumas: buvo_sunus -> Germantas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Giliginas: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Germantas: nearest_family_person, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Giliginas" parinktas kaip nearest_actor. Targetas "Germantas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Giliginas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Germantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Frazė tiesiogiai įvardija Giliginą kaip Germanto sūnų.

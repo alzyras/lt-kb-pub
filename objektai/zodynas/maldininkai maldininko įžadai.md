@@ -147,13 +147,13 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=70c3c24d214687c5a5ffd5945cd3e236f94e42d9eae460cc349a2fcb33cdae72; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsai: 0.93
+  ryšio_patikimumas: gyne -> Baiga: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Vokietijos maldininkai: nearest_actor, group, gap=23
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vokietijos maldininkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokietijos maldininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Vokietijos maldininkai atvyko į pagalbą apsiaustai Baigos piliai, todėl jie siejami su Baigos gynimu.
 
 <a id="claim-t-70227"></a>
 - t-007
@@ -232,7 +232,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   global_id: t-70231
   teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
-  susije_objektai: 'location: Prūsai; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Baiga; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'kelionės data: po 1236 m.; kelionės data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip kelionės data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
@@ -508,13 +508,13 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=70c3c24d214687c5a5ffd5945cd3e236f94e42d9eae460cc349a2fcb33cdae72; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsai: 0.93
+  ryšio_patikimumas: gyne -> Baiga: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Vokietijos maldininkai: nearest_actor, group, gap=23
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vokietijos maldininkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokietijos maldininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Vokietijos maldininkai atvyko į pagalbą apsiaustai Baigos piliai, todėl jie siejami su Baigos gynimu.
     - t-012
 
 - c-009

@@ -32,7 +32,7 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - t-001
   global_id: t-78858
   teiginys: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; llm_object: Rusija'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1572 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -40,20 +40,20 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e1316d929345f7a50fc8820fa9e53761796b2715a7773bfbfb37aabb46377aa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radvilos: 0.85
+  ryšio_patikimumas: puole -> Rusija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): owner_note_path, source
-  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Reidas yra karinis veiksmas prieš Rusijos kariuomenę; leidžiamas objektas yra Rusija, todėl ryšys fiksuojamas atsargiai.
 
 <a id="claim-t-78859"></a>
 - t-002
   global_id: t-78859
   teiginys: '1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė sumaišė kontekstą su nutrūkusia citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė sumaišė kontekstą su nutrūkusia citata.'
@@ -62,13 +62,13 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=589be297f148207f9904b4e6e53d66bb10dd0ed5fc3d2241ff84cf9ca986226b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad didesnė Livonijos dalis tapo Lietuvos dalimi.
 
 ## Reikšmingi paminėjimai
 
@@ -116,21 +116,21 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e1316d929345f7a50fc8820fa9e53761796b2715a7773bfbfb37aabb46377aa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radvilos: 0.85
+  ryšio_patikimumas: puole -> Rusija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): owner_note_path, source
-  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Reidas yra karinis veiksmas prieš Rusijos kariuomenę; leidžiamas objektas yra Rusija, todėl ryšys fiksuojamas atsargiai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=589be297f148207f9904b4e6e53d66bb10dd0ed5fc3d2241ff84cf9ca986226b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad didesnė Livonijos dalis tapo Lietuvos dalimi.

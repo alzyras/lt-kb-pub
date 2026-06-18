@@ -37,20 +37,21 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kėdainiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: J. Variakojis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad J. Variakojis atvyko į Kėdainius.
 
 <a id="claim-t-40167"></a>
 - t-002
   global_id: t-40167
   teiginys: '1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie J. Variakojo paskyrimą ir savanorių būrio organizavimą.'
-  susije_objektai: 'mentioned_place: Kėdainiai'
+  susije_objektai: 'llm_object: Kėdainiai; mentioned_place: Kėdainiai'
+  semantiniai_rysiai: '[[objektai/asmenys/J. Variakojis|J. Variakojis]] keliavo į Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie J. Variakojo paskyrimą ir savanorių būrio organizavimą.'
@@ -185,13 +186,13 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kėdainiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: J. Variakojis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad J. Variakojis atvyko į Kėdainius.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 728427-728731; hash=9d97aabbe6cac12262d60b31725333f1bbaf188d72d7d0281c321c899a42c62a; match=exact
@@ -203,3 +204,6 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- J. Variakojis keliavo_i [[objektai/vietos/Kėdainiai]]

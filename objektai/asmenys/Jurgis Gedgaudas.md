@@ -31,7 +31,8 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   global_id: t-29025
   teiginys: '1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.'
   sudarymo_pagrindimas: 'Pradinis sakinys rėmėsi įvardžiu ir stokojо konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Mikalojus Sepienskis|Mikalojus Sepienskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Mikalojus Sepienskis|Mikalojus Sepienskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca; llm_object: Konstanca'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Gedgaudas|Jurgis Gedgaudas]] keliavo į Konstanca'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys rėmėsi įvardžiu ir stokojо konteksto.'
@@ -40,13 +41,13 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 954150-954344; hash=3c666355bcddeaa1656ae84c6600846307ea5aca94e73a2ea7df486bc6544b19; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: keliavo_i -> Konstanca: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Gedgaudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Gedgaudas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Gedgaudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata teigia, kad Vytautas atsiuntė į Konstancą bajorus, kuriems vadovavo Jurgis Gedgaudas; jo kelionė numanoma iš delegacijos vadovavimo.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +66,13 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 954150-954344; hash=3c666355bcddeaa1656ae84c6600846307ea5aca94e73a2ea7df486bc6544b19; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: keliavo_i -> Konstanca: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Gedgaudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Gedgaudas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Gedgaudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata teigia, kad Vytautas atsiuntė į Konstancą bajorus, kuriems vadovavo Jurgis Gedgaudas; jo kelionė numanoma iš delegacijos vadovavimo.
+
+## Ryšiai
+- Jurgis Gedgaudas keliavo_i [[objektai/vietos/Konstanca]]

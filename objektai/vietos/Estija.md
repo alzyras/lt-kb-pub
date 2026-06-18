@@ -45,6 +45,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Maskva'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173140|Dovydas (Gardino pilininkas)]]: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 - susijęs iš [[objektai/asmenys/J. Tūbelis.md#claim-t-78056|J. Tūbelis]]: J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
@@ -198,6 +199,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75544|de facto]]: 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.
 - susijęs iš [[objektai/zodynas/getas.md#claim-t-22151|getas]]: 1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.
+- susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72513|Lietuvių Draugija Estijoje]]: Estijoje buvo keletas šimtų lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.
+- susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72514|Lietuvių Draugija Estijoje]]: Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173140|Dovydas (Gardino pilininkas)]]: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
+- susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74876|Nacių Vokietija]]: 1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -233,3 +238,13 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Sovietų Sąjunga]] uzkariavo Estija
+- Estija priklause [[objektai/vietos/Rytų kraštas (Ostlandas)]]
+- [[objektai/grupes/Lietuviai]] gyveno Estija
+- Estija priklause [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/grupes/Lietuvių Draugija Estijoje]] gyveno Estija
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Estija
+- Estija priklause [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Nacių Vokietija]] valde_teritorija Estija

@@ -43,7 +43,8 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -127,3 +128,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Stasys Girėnas keliavo_i [[objektai/vietos/Lietuva]]

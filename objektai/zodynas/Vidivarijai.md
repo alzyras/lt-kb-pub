@@ -31,38 +31,38 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 - t-001
   global_id: t-54797
   teiginys: 'Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilnius; llm_object: Baltija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 49496-50239; hash=56b32bdf27430bb9320a96b12025a83bc3e9d055dff88d8a2ac1b4268647a15e; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Estai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Estai: mention_match, group, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai" parinktas kaip owner_note_path. Targetas "Estai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad lietuvių tauta užėmė Baltijos pakrantę.
 
 <a id="claim-t-54798"></a>
 - t-002
   global_id: t-54798
   teiginys: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.'
   sudarymo_pagrindimas: 'Pirminis teiginys gramatiškai negrabiai suformuluotas; citata leidžia tiksliau nusakyti aiškinimą.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vysla; llm_object: Vysla'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 50572-51445; hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vysla: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vidivarii sieja su tauta, įsikūrusia prie Vyslos žiočių.
 
 ## Reikšmingi paminėjimai
 
@@ -123,21 +123,21 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 49496-50239; hash=56b32bdf27430bb9320a96b12025a83bc3e9d055dff88d8a2ac1b4268647a15e; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Estai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Estai: mention_match, group, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai" parinktas kaip owner_note_path. Targetas "Estai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad lietuvių tauta užėmė Baltijos pakrantę.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 50572-51445; hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vidivarijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vysla: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vidivarii sieja su tauta, įsikūrusia prie Vyslos žiočių.

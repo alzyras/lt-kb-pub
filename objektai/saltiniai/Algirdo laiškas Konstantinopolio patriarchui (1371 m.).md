@@ -51,7 +51,7 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   global_id: t-67351
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių.'
   sudarymo_pagrindimas: 'Pradinis teiginys kontekstinis, citata geriau pagrindžia konkretų teiginį apie laišką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Rusia; mentioned_place: Vilnius; llm_object: Kremlius'
   temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys kontekstinis, citata geriau pagrindžia konkretų teiginį apie laišką.'
@@ -60,13 +60,13 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 62424-63324; hash=b862dad8e4f21d0b3582c6861593c6b0f8ad75f5f8a631ef4bafe335dbe88f6c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdo laiškas Konstantinopolio patriarchui (1371 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdo laiškas Konstantinopolio patriarchui (1371 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Algirdas surengė žygį į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -139,21 +139,21 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 62424-63324; hash=b862dad8e4f21d0b3582c6861593c6b0f8ad75f5f8a631ef4bafe335dbe88f6c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdo laiškas Konstantinopolio patriarchui (1371 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdo laiškas Konstantinopolio patriarchui (1371 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Algirdas surengė žygį į Maskvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 62424-63324; hash=b862dad8e4f21d0b3582c6861593c6b0f8ad75f5f8a631ef4bafe335dbe88f6c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdo laiškas Konstantinopolio patriarchui (1371 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdo laiškas Konstantinopolio patriarchui (1371 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Algirdas surengė žygį į Maskvą.

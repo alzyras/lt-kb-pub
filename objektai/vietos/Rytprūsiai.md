@@ -62,6 +62,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
   ryšio_subjekto_parinkimas: Rytprūsiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytprūsiai" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
 - susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97208|P. Pakarklis]]: P. Pakarklis plėtojo mintį, kad Pavyslio, Rytprūsių ir Lietuvos gyventojus siejo bendra kalba, tikyba ir politinis vienetas.
 - susijęs iš [[objektai/autoriai/Vėlius N.md#claim-t-60563|Vėlius N]]: N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones.
@@ -101,6 +102,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 - susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32791|kuopiniai kaimai]]: Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
+- susijęs iš Vokietija: Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -178,3 +180,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
   ryšio_subjekto_parinkimas: Rytprūsiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytprūsiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] gyveno Rytprūsiai
+- [[objektai/vietos/Vokietija]] priklause Rytprūsiai

@@ -28,7 +28,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   global_id: t-19810
   teiginys: 'JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą ir publikacijas užsienio kalbomis apie Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas, aiškus ir pagrįstas citatos informacija.'
-  susije_objektai: 'mentioned_place: Lozana; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvių informacijos biuras Lozanoje|Lietuvių informacijos biuras Lozanoje]]; mentioned_place: Lozana; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/JAV lietuviai|JAV lietuviai]] rėmė [[objektai/grupes/Lietuvių informacijos biuras Lozanoje|Lietuvių informacijos biuras Lozanoje]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.; įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas, aiškus ir pagrįstas citatos informacija.'
@@ -37,13 +38,13 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0386feb1bc51e38d0b7eaada2a5c02c4646e460e27d746b5c84869b36668efd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lozana: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių informacijos biuras Lozanoje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lozana: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių informacijos biuras Lozanoje" parinktas kaip owner_note_path. Targetas "Lozana" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuvių informacijos biuras Lozanoje: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: JAV lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvių informacijos biuras Lozanoje: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad JAV lietuviai finansiškai rėmė biuro veiklą.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,13 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0386feb1bc51e38d0b7eaada2a5c02c4646e460e27d746b5c84869b36668efd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lozana: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių informacijos biuras Lozanoje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lozana: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių informacijos biuras Lozanoje" parinktas kaip owner_note_path. Targetas "Lozana" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuvių informacijos biuras Lozanoje: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: JAV lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvių informacijos biuras Lozanoje: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad JAV lietuviai finansiškai rėmė biuro veiklą.
+
+## Ryšiai
+- [[objektai/grupes/JAV lietuviai]] reme Lietuvių informacijos biuras Lozanoje

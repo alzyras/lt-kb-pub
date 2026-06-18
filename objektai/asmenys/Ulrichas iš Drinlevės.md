@@ -90,3 +90,6 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
   ryšio_subjekto_parinkimas: Ulrichas iš Drinlevės: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrichas iš Drinlevės" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ulrichas iš Drinlevės kariavo_pries [[objektai/grupes/Lietuviai]]

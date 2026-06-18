@@ -45,26 +45,28 @@ Nenurodyta
   global_id: t-59447
   teiginys: 'Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių, o citata pagrindžia aiškų rezultatą.'
-  susije_objektai: 'family: [[objektai/asmenys/Surminas|Surminas]]; mentioned_person: [[objektai/asmenys/Skaldonis|Skaldonis]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Surminas|Surminas]]; llm_object: [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]; mentioned_person: [[objektai/asmenys/Skaldonis|Skaldonis]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Surminas buvo pasiųstas vykdyti karo laivo sunaikinimo veiksmą.
 
 <a id="claim-t-59448"></a>
 - t-002
   global_id: t-59448
   teiginys: '1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas; llm_object: [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Surminas|Surminas]] dalyvavo mūšyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
@@ -73,13 +75,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Surminas: 0.90
+  ryšio_patikimumas: buvo_brolis -> Surminas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Skaldonis: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Surminas: nearest_family_person, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Skaldonis" parinktas kaip nearest_actor. Targetas "Surminas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skaldonis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Skaldonis tiesiogiai pavadintas Surmino broliu.
 
 ## Reikšmingi paminėjimai
 
@@ -104,21 +106,26 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Surminas: 0.90
+  ryšio_patikimumas: buvo_brolis -> Surminas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Skaldonis: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Surminas: nearest_family_person, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Skaldonis" parinktas kaip nearest_actor. Targetas "Surminas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skaldonis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Skaldonis tiesiogiai pavadintas Surmino broliu.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Surminas buvo pasiųstas vykdyti karo laivo sunaikinimo veiksmą.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)
+- [[objektai/asmenys/Surminas]] dalyvavo_musyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)

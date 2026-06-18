@@ -50,19 +50,19 @@ Nenurodyta
   global_id: t-87156
   teiginys: 'Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.'
   sudarymo_pagrindimas: 'Citata remia platesnį faktą apie Gedimino prieglobstį ir svetimšalių kvietimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnelė; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnelė; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65022-65959; hash=cb737ef915eebe9bafdf17e823339f8a1c0e9a18cf039b16f8fbf63079cdcde9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Voluinė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Gediminas buvo užėmęs tėvonijas Voluinėje.
 
 ## Reikšmingi paminėjimai
 
@@ -103,10 +103,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65022-65959; hash=cb737ef915eebe9bafdf17e823339f8a1c0e9a18cf039b16f8fbf63079cdcde9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Voluinė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Gediminas buvo užėmęs tėvonijas Voluinėje.

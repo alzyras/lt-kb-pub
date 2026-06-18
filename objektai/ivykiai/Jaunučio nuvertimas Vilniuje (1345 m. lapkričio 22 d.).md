@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-86910
   teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.'
   sudarymo_pagrindimas: 'Citata pagrindžia datą, veikėją ir puolimo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilniaus pilis; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, veikėją ir puolimo veiksmą.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79336-80011; hash=04b10bf91a4670b3a6db3fa288d48b15ddf4a152d6ebea98d02a5d58bd55f462; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Kęstutis užpuolė abi Vilniaus pilis.
 
 ## Reikšmingi paminėjimai
 
@@ -89,10 +89,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79336-80011; hash=04b10bf91a4670b3a6db3fa288d48b15ddf4a152d6ebea98d02a5d58bd55f462; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Kęstutis užpuolė abi Vilniaus pilis.

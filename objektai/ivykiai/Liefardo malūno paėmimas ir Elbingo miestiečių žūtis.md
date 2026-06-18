@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sukonkretinti veikėjai ir vieta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Elbingas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_group: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Elbingas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -73,13 +73,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468748-469320; hash=87a55b3993796ac644759ef72eb51c90138bfd9ceb2eb941e0555757ca43e491; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liefardo malūno paėmimas ir Elbingo miestiečių žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liefardo malūno paėmimas ir Elbingo miestiečių žūtis" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Elbingo miestiečiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai po susitarimo vėl puolė miestiečius.
 
 <a id="claim-t-62856"></a>
 - t-003
@@ -184,10 +184,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468748-469320; hash=87a55b3993796ac644759ef72eb51c90138bfd9ceb2eb941e0555757ca43e491; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liefardo malūno paėmimas ir Elbingo miestiečių žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liefardo malūno paėmimas ir Elbingo miestiečių žūtis" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Elbingo miestiečiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingo miestiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai po susitarimo vėl puolė miestiečius.

@@ -33,7 +33,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   global_id: t-45768
   teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, sutampantis su citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Klaipėda; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Klaipėda; mentioned_place: Lenkija; llm_object: Klaipėda'
   pagrindžia:
     - c-002
 

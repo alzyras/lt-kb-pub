@@ -23,38 +23,40 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58702
   teiginys: 'Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas; citata palaiko aiškų faktą apie Lubavą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  semantiniai_rysiai: 'Lubavas priklausė Prūsija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lubavo sritis aiškiai pateikta kaip viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-58703"></a>
 - t-002
   global_id: t-58703
   teiginys: 'Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai susijęs su Lubavo sritimi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Kulmas; llm_object: Lubavas'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Lubavas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: gyveno -> Kulmas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kulmo srityje tarp gyventojų buvo lenkai.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmas: Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Kulmas: Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.
@@ -88,6 +90,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89574|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89575|Prūsijos žemė]]: Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.
+- susijęs iš Kulmas: Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -128,13 +131,13 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f147ab33e105b7fa6f52cd7057445681c248fdb85184863bc444832276865aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: gyveno -> Kulmas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kulmo srityje tarp gyventojų buvo lenkai.
     - t-001
 
 - c-003
@@ -158,21 +161,25 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lubavo sritis aiškiai pateikta kaip viena iš Prūsijos žemės dalių.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lubavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo sritis įrašyta tarp Prūsijos žemės dalių.
+
+## Ryšiai
+- Lubavas priklause [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Lenkai]] gyveno Lubavas

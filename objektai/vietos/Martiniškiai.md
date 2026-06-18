@@ -21,19 +21,19 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
   global_id: t-41903
   teiginys: 'Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių baterija išvedė iš rikiuotės Martiniškių dvare išsidėsčiusią lenkų bateriją.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Giedraičiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Giedraičiai; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=80270c13141677a6e38d2903fde67107bf4a1795fdcd2871a77331c769f62c75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martiniškiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=97
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martiniškiai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių baterija veikė prieš lenkų bateriją, todėl ryšys yra karinis.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +57,10 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=80270c13141677a6e38d2903fde67107bf4a1795fdcd2871a77331c769f62c75; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martiniškiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=97
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martiniškiai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių baterija veikė prieš lenkų bateriją, todėl ryšys yra karinis.

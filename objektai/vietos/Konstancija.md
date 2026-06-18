@@ -116,7 +116,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
+- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-184282|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.
@@ -173,6 +173,12 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70057|Vakarų Bažnyčios schizma]]: 1414 m. visuotinis bažnyčios susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą ir spręsti tikėjimo klausimus.
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70058|Vakarų Bažnyčios schizma]]: Konstancijos susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą.
 - susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70101|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.
+- susijęs iš [[objektai/autoriai/Jan Fijałek.md#claim-t-35446|Jan Fijałek]]: Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis.
+- susijęs iš [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.).md#claim-t-35923|Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]: 1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.
+- susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
+- susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
+- susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
+- susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -317,4 +323,9 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Petras iš Kustynės]] keliavo_i Konstancija
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Konstancija
 - [[objektai/asmenys/Mykolas Sapienskis]] keliavo_i Konstancija
+- [[objektai/asmenys/Jonas (Breslavo vyskupas)]] keliavo_i Konstancija
+- [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]] keliavo_i Konstancija
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]] keliavo_i Konstancija

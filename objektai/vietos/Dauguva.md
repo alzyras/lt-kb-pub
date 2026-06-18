@@ -33,19 +33,19 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   global_id: t-182751
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir aiškiai susijęs su Dauguvos geografine riba.'
-  susije_objektai: 'location: Vysla; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vysla'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Vysla: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Vysla" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dauguva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dauguva" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182753"></a>
 - t-003
@@ -97,13 +97,13 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
-- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
+- susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
+- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
+- susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40966|Kuršiečiai]]: Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186005|Kernius]]: Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.
@@ -256,6 +256,17 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - susijęs iš [[objektai/zodynas/globėjo titulas laikinas valdytojas.md#claim-t-185404|globėjo titulas laikinas valdytojas]]: Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
 - susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-03119|pirklių kontora]]: Hanzos agentūros buvo vadinamos pirklių kontoromis.
 - susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-182970|pirklių kontora]]: Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
+- susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
+- susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
+- susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
+- susijęs iš Vitebskas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
+- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
+- susijęs iš Polockas: Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -373,13 +384,13 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46991-47749; hash=bfd8a2449d0b33279e8437b0c74e9dfa626656135f8d221cd7c487f3acf3a994; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=13
-  ryšio_targeto_parinkimas: Vysla: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Vysla" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dauguva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dauguva" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -400,7 +411,13 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Ryšiai
 - [[objektai/grupes/Latviai]] gyveno Dauguva
-- [[objektai/grupes/Lybiai]] gyveno Dauguva
 - [[objektai/grupes/Sėliai]] gyveno Dauguva
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Dauguva
 - [[objektai/grupes/Baltai]] gyveno Dauguva
+- [[objektai/grupes/Lybiai]] gyveno Dauguva
+- [[objektai/grupes/Krivičiai]] gyveno Dauguva
+- [[objektai/grupes/Kuršiečiai]] keliavo_i Dauguva
+- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Dauguva
+- [[objektai/grupes/Lietuviai]] keliavo_i Dauguva
+- [[objektai/vietos/Polockas]] prekiavo_su Dauguva
+- [[objektai/vietos/Vitebskas]] prekiavo_su Dauguva
+- [[objektai/asmenys/T. Dambrava]] keliavo_i Dauguva

@@ -24,20 +24,19 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
   global_id: t-87908
   teiginys: 'Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko V veiksmą, pašalintas OCR triukšmas.'
-  susije_objektai: 'territory: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Anglija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas V|Henrikas V]] buvo valdovas Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7802e52e318d3b4ec39b01558efc41407a68c8534ca921a1d6649879f0c54245; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Anglija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Henrikas V: owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Anglija: exact_title_context, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas V" parinktas kaip owner_after_title. Targetas "Anglija" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas V" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,13 +67,10 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7802e52e318d3b4ec39b01558efc41407a68c8534ca921a1d6649879f0c54245; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Anglija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Henrikas V: owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Anglija: exact_title_context, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas V" parinktas kaip owner_after_title. Targetas "Anglija" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Henrikas V buvo_valdovas [[objektai/vietos/Anglija]]
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas V" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

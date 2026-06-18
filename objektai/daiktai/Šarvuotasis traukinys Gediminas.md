@@ -59,13 +59,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 828787-829554; hash=c579ef2a1b2bf3c0c9758d7351b6f134e80a6f479fd118f4bea26ad167587c7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvuotasis traukinys Gediminas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuotasis traukinys Gediminas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvuotasis traukinys Gediminas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Traukinys apibūdintas kaip Lietuvos kariuomenės, todėl priklausomybė siejama su Lietuva kaip leidžiamu objektu.
 
 <a id="claim-t-78692"></a>
 - t-002
@@ -128,7 +128,8 @@ Nenurodyta
   global_id: t-78695
   teiginys: '1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.'
   sudarymo_pagrindimas: 'Teiginys pilnas, tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Lietuva; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/daiktai/Šarvuotasis traukinys Gediminas|Šarvuotasis traukinys Gediminas]] priklausė Lietuva; [[objektai/daiktai/Šarvuotasis traukinys Gediminas|Šarvuotasis traukinys Gediminas]] priklausė Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, tikslus ir paremtas citata.'
@@ -233,13 +234,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 828787-829554; hash=c579ef2a1b2bf3c0c9758d7351b6f134e80a6f479fd118f4bea26ad167587c7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvuotasis traukinys Gediminas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuotasis traukinys Gediminas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvuotasis traukinys Gediminas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Traukinys apibūdintas kaip Lietuvos kariuomenės, todėl priklausomybė siejama su Lietuva kaip leidžiamu objektu.
     - t-002
 
 - c-005
@@ -276,3 +277,7 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Šarvuotasis traukinys Gediminas: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=98
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuotasis traukinys Gediminas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Šarvuotasis traukinys Gediminas priklause [[objektai/vietos/Lietuva]]
+- Šarvuotasis traukinys Gediminas priklause [[objektai/vietos/Kaunas]]

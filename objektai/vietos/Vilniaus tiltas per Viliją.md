@@ -43,19 +43,20 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   global_id: t-86121
   teiginys: 'Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]'
+  susije_objektai: 'llm_object: Vilniaus tiltas per Viliją; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Vilniaus tiltas per Viliją'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus tiltas per Viliją: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus tiltas per Viliją" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus tiltas per Viliją: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus tiltas per Viliją: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Ulrikas Hozijus pastatė tiltą per Viliją.
 
 <a id="claim-t-86122"></a>
 - t-003
@@ -208,10 +209,13 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus tiltas per Viliją: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus tiltas per Viliją" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus tiltas per Viliją: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus tiltas per Viliją: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Ulrikas Hozijus pastatė tiltą per Viliją.
+
+## Ryšiai
+- [[objektai/asmenys/Ulrikas Hozijus]] pastate Vilniaus tiltas per Viliją

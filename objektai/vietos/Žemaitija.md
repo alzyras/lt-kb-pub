@@ -83,7 +83,7 @@ amziai:
   global_id: t-123005
   teiginys: 'Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR pažeistą pabaigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -109,20 +109,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lietuva: 0.91
+  ryšio_patikimumas: puole -> Lietuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=19
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
 
 <a id="claim-t-123008"></a>
 - t-007
   global_id: t-123008
   teiginys: 'Vytautas išvyko į Žemaitiją, kur žmonės ir bajorai buvo palankūs jo tėvui Kęstučiui ir nusistatę prieš Jogailą.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiksliai perteikia citatos faktą apie Vytauto išvykimą į Žemaitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Žemaitija'
   temporaliniai_duomenys: 'įvykio data: po 1441 m.; įvykio data: 1441 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas ir tiksliai perteikia citatos faktą apie Vytauto išvykimą į Žemaitiją.'
@@ -143,7 +144,8 @@ amziai:
 - t-008
   global_id: t-123009
   teiginys: '1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -164,26 +166,27 @@ amziai:
   global_id: t-123010
   teiginys: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškiai įvardytas sūnus ir kontekstas.'
-  susije_objektai: 'location: Trakai; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; llm_object: Trakai'
   pagrindžia:
     - c-034
   irodymo_stiprumas: 0.00
   saltinio_vieta: 407468-408135; hash=6819e1887db084a5fb4640862095b3f846d9523dffc0916846fd1641fd61d927; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vytautas atidavė visą Žemaitiją Ordinui.
 
 <a id="claim-t-123011"></a>
 - t-010
   global_id: t-123011
   teiginys: '1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų faktą apie Žemaitiją; pradinė formuluotė buvo per ilga ir nutrūkusi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų faktą apie Žemaitiją; pradinė formuluotė buvo per ilga ir nutrūkusi.'
@@ -205,7 +208,7 @@ amziai:
   global_id: t-123012
   teiginys: 'Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiksliai perteikia citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Livonija; llm_object: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -224,7 +227,8 @@ amziai:
   global_id: t-123013
   teiginys: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Žemaitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -242,7 +246,7 @@ amziai:
 - t-013
   global_id: t-123014
   teiginys: 'Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę, kai kardininkai ir kryžiuočiai smarkiai puldinėjo Lietuvą.'
-  susije_objektai: 'object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -251,7 +255,8 @@ amziai:
   global_id: t-123015
   teiginys: '1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietą, veikėją ir veiksmą, kurie paremti citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salyne'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salyne'
+  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietą, veikėją ir veiksmą, kurie paremti citata.'
@@ -263,38 +268,38 @@ amziai:
   global_id: t-123016
   teiginys: 'Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatoje minimą pilių ir gyvenviečių apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis.
 
 <a id="claim-t-123017"></a>
 - t-016
   global_id: t-123017
   teiginys: 'Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys.'
   sudarymo_pagrindimas: 'Citata palaiko apibendrinimą apie Žemaitijos pilių pobūdį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46459-46613; hash=1a58c8ad3cb719046aca9a6e07465a8ea229f96f05858f6880c4d67db36cd925; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste nurodoma, kad Mindaugas perleido didelę Žemaitijos dalį ordinui; kandidatuose tam naudojamas Kryžiuočių ordino objektas.
 
 <a id="claim-t-123018"></a>
 - t-017
@@ -325,13 +330,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57eff9986bc0bd9f1cfd3798b28e7dca16635ef0a82267e23643dc840c2af525; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ankstesnėje frazėje minimas Vokiečių ordinas, o ši frazė tiesiogiai nurodo, kad Žemaitija jam priklausė.
 
 <a id="claim-t-123020"></a>
 - t-019
@@ -460,7 +465,7 @@ amziai:
   global_id: t-123026
   teiginys: 'Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, taisyklingas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Livonija; llm_object: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-009
 
@@ -468,19 +473,19 @@ amziai:
 - t-026
   global_id: t-123027
   teiginys: 'Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
 
 <a id="claim-t-123028"></a>
 - t-027
@@ -570,20 +575,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Genityvinė frazė rodo, kad dalis pilių buvo bajorų pilys, tad priklausymo ryšys pagrįstas.
 
 <a id="claim-t-123036"></a>
 - t-035
   global_id: t-123036
   teiginys: '1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę.'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį, aiškesnį sakinį apie Žemaitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Volga'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Volga'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1397 m.; įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko trumpesnį, aiškesnį sakinį apie Žemaitiją.'
@@ -642,7 +648,8 @@ amziai:
   global_id: t-123039
   teiginys: 'Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.'
   sudarymo_pagrindimas: 'Citata yra įvado vertinimas, o ne Dusburgiečio teiginys; faktą reikia sukonkretinti apie Žemaitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Vokietija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Vokietija; mentioned_place: Vysla; llm_object: Žemaitija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   pagrindžia:
     - c-022
   irodymo_stiprumas: 0.00
@@ -680,7 +687,8 @@ amziai:
   global_id: t-123042
   teiginys: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
   sudarymo_pagrindimas: 'Sakinys aiškiai teigia faktą apie Žemaitiją.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Žemaitija priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai teigia faktą apie Žemaitiją.'
@@ -708,13 +716,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e32676041cba84eb84dccca124b48486065b22680717235fc6cdebbe26ee045b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trakai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=44
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.75
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Kęstutis atvyko į pagalbą prie Trakų pilies, todėl kelionės tikslas siejamas su Trakais.
 
 <a id="claim-t-123045"></a>
 - t-042
@@ -730,20 +738,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad lietuvių pulkas įsiveržė į Livoniją.
 
 <a id="claim-t-123046"></a>
 - t-043
   global_id: t-123046
   teiginys: 'Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia pašalinti perteklinę atribuciją ir vertinamąjį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: Žemaitija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Žemaitija'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -828,7 +837,8 @@ amziai:
   global_id: t-123050
   teiginys: 'Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.'
   sudarymo_pagrindimas: 'Citata pagrindžia istoriografinę nuomonę, bet pradinė formuluotė klaidingai priskirta Dusburgiečiui.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nadruva; mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Skalva'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nadruva; mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Skalva'
+  semantiniai_rysiai: 'Semba priklausė Žemaitija; Skalva priklausė Žemaitija; Nadruva priklausė Žemaitija'
   pagrindžia:
     - c-025
 
@@ -846,13 +856,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Frazė nurodo bajorų gynybines pilis, todėl priklausymo ryšys yra tiesiogiai paremtas.
 
 <a id="claim-t-123052"></a>
 - t-049
@@ -949,19 +959,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį su aiškiu veikėju, veiksmu ir rezultatu.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: Semba; llm_object: Prūsija; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-042
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1820-2657; hash=8027ba7dfe6dab976ff46e945ae2f675b7c847042be35981c9af3249224f006a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Žemaitija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių ordino ekspansija ir niokojimai apima Žemaitiją minimame plote, todėl fiksuojamas puolimo pobūdžio ryšys.
 
 <a id="claim-t-185220"></a>
 - t-059
@@ -971,19 +981,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą apie Žemaitijos pasienius ir kariuomenės pralaimėjimą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] puolė Žemaitija'
   pagrindžia:
     - c-043
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3fd7d389099889b2fc1769b5231e34aa405f3b1b0eab2f5d331c177791950e79; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Semba laikyta Žemaitijos dalimi.
 
 <a id="claim-t-185221"></a>
 - t-060
@@ -1002,13 +1013,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo kryžiuočius kaip įsiveržusius į Žemaitiją.
 
 <a id="claim-t-185222"></a>
 - t-061
@@ -1018,19 +1029,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta kaip aiškus faktas apie Žemaitijos valsčius be neaiškaus veikėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Narevas; mentioned_place: Pagraudė; mentioned_place: Vaikiai'
+  susije_objektai: 'llm_object: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Narevas; mentioned_place: Pagraudė; mentioned_place: Vaikiai'
+  semantiniai_rysiai: 'Vaikiai priklausė Žemaitija; Pagraudė priklausė Žemaitija'
   pagrindžia:
     - c-045
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41921-42492; hash=511fa2b8eb6b6fbe844e6fbfb8f4fb94750f4bbc08251eb037fa4245f362f6c9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Žemaitija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių kariuomenė apibūdinama kaip plėšikaujanti Žemaitijoje, todėl ryšys laikomas puolamuoju.
 
 <a id="claim-t-185223"></a>
 - t-062
@@ -1046,13 +1058,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
 
 <a id="claim-t-185224"></a>
 - t-063
@@ -1084,7 +1096,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį su veikėju ir citatos remiama aplinkybe.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Plockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Plockas'
   pagrindžia:
     - c-048
   irodymo_stiprumas: 0.00
@@ -1115,13 +1127,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b31f6305d9b0d4eb751e759134f2cebec62fbc72bed1feabbb93b294206600ca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaitija: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai.
 
 <a id="claim-t-185227"></a>
 - t-066
@@ -1162,13 +1174,17 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis.
+- susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-63387|Žalgirio mūšis (1410 m.)]]: Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
+- susijęs iš Michalovos žemės: Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
+- susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
 - susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186082|Trobius]]: Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176632|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176636|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.
@@ -1189,6 +1205,7 @@ amziai:
 - susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-72004|unija]]: Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-72005|unija]]: Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.
+- susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
 - susijęs iš [[objektai/asmenys/Jonas Domicini iš Rogūzos.md#claim-t-35146|Jonas Domicini iš Rogūzos]]: Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai.
 - susijęs iš [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas).md#claim-t-186234|Liudvikas (Brandenburgo markgrafas)]]: Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.
@@ -1224,6 +1241,8 @@ amziai:
 - susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija.md#claim-t-22230|metropolija bažnytinė provincija]]: Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.
 - susijęs iš [[objektai/zodynas/nuomininkas.md#claim-t-36819|nuomininkas]]: Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus.
 - susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
+- susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
+- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1245,13 +1264,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
     - t-013
     - t-004
 
@@ -1347,13 +1366,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Frazė nurodo bajorų gynybines pilis, todėl priklausymo ryšys yra tiesiogiai paremtas.
     - t-045
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57eff9986bc0bd9f1cfd3798b28e7dca16635ef0a82267e23643dc840c2af525; match=fallback; occurrences=0
@@ -1385,13 +1404,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad lietuvių pulkas įsiveržė į Livoniją.
     - t-002
 
 - c-007
@@ -1669,13 +1688,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57eff9986bc0bd9f1cfd3798b28e7dca16635ef0a82267e23643dc840c2af525; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ankstesnėje frazėje minimas Vokiečių ordinas, o ši frazė tiesiogiai nurodo, kad Žemaitija jam priklausė.
     - t-006
 
 - c-016
@@ -1695,13 +1714,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lietuva: 0.91
+  ryšio_patikimumas: puole -> Lietuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=19
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
     - t-022
   irodymo_stiprumas: 0.00
   saltinio_vieta: 92640-92868; hash=aeb3476000e8f9b8df4beb1b5209041a62f2b47a27129743befb6fde2b26ddcb; match=whitespace_regex
@@ -1986,13 +2005,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis.
     - t-016
 
 - c-027
@@ -2014,13 +2033,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46459-46613; hash=1a58c8ad3cb719046aca9a6e07465a8ea229f96f05858f6880c4d67db36cd925; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste nurodoma, kad Mindaugas perleido didelę Žemaitijos dalį ordinui; kandidatuose tam naudojamas Kryžiuočių ordino objektas.
     - t-040
 
 - c-028
@@ -2242,13 +2261,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e32676041cba84eb84dccca124b48486065b22680717235fc6cdebbe26ee045b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trakai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=44
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.75
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Kęstutis atvyko į pagalbą prie Trakų pilies, todėl kelionės tikslas siejamas su Trakais.
     - t-009
 
 - c-035
@@ -2269,13 +2288,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 407468-408135; hash=6819e1887db084a5fb4640862095b3f846d9523dffc0916846fd1641fd61d927; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vytautas atidavė visą Žemaitiją Ordinui.
     - t-034
 
 - c-036
@@ -2295,13 +2314,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Genityvinė frazė rodo, kad dalis pilių buvo bajorų pilys, tad priklausymo ryšys pagrįstas.
     - t-029
 
 - c-037
@@ -2351,13 +2370,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad lietuvių pulkas įsiveržė į Livoniją.
     - t-054
 
 - c-039
@@ -2440,13 +2459,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Žemaitija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas išvyko į Žemaitiją.
     - t-057
 
 - c-042
@@ -2494,13 +2513,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1820-2657; hash=8027ba7dfe6dab976ff46e945ae2f675b7c847042be35981c9af3249224f006a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Žemaitija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių ordino ekspansija ir niokojimai apima Žemaitiją minimame plote, todėl fiksuojamas puolimo pobūdžio ryšys.
     - t-059
 
 - c-044
@@ -2536,13 +2555,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3fd7d389099889b2fc1769b5231e34aa405f3b1b0eab2f5d331c177791950e79; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Semba laikyta Žemaitijos dalimi.
     - t-060
 
 - c-045
@@ -2574,13 +2593,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaitija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo kryžiuočius kaip įsiveržusius į Žemaitiją.
     - t-061
 
 - c-046
@@ -2602,13 +2621,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41921-42492; hash=511fa2b8eb6b6fbe844e6fbfb8f4fb94750f4bbc08251eb037fa4245f362f6c9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Žemaitija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių kariuomenė apibūdinama kaip plėšikaujanti Žemaitijoje, todėl ryšys laikomas puolamuoju.
     - t-062
 
 - c-047
@@ -2629,13 +2648,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą.
     - t-063
 
 - c-048
@@ -2748,13 +2767,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b31f6305d9b0d4eb751e759134f2cebec62fbc72bed1feabbb93b294206600ca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaitija: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai.
     - t-066
 
 - c-051
@@ -2786,10 +2805,27 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaitija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaitija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Žemaitija
+- [[objektai/vietos/Semba]] priklause Žemaitija
+- Žemaitija priklause [[objektai/vietos/Lietuva]]
+- Žemaitija priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nadruva]] priklause Žemaitija
+- [[objektai/vietos/Skalva]] priklause Žemaitija
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Žemaitija
+- [[objektai/grupes/Lietuviai]] valde Žemaitija
+- [[objektai/vietos/Pagraudė]] priklause Žemaitija
+- [[objektai/vietos/Vaikiai]] priklause Žemaitija
+- [[objektai/grupes/Vokiečiai]] puole Žemaitija
+- [[objektai/grupes/Vokiečių ordinas]] valde_teritorija Žemaitija
+- Žemaitija priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Trobius]] valde Žemaitija
+- [[objektai/asmenys/Trobius]] valde_teritorija Žemaitija

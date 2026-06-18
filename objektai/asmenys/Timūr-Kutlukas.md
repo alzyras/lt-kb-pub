@@ -42,19 +42,20 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - t-002
   global_id: t-40468
   teiginys: 'Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Edyga|Edyga]]; llm_object: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totorių pajėgos|Totorių pajėgos]] priklausė [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
+  ryšio_patikimumas: priklause -> Edyga: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timūr-Kutlukas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad totorių pajėgose buvo Edygos kariai.
 
 <a id="claim-t-183762"></a>
 - t-003
@@ -86,19 +87,21 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Timūr-Kutluko pajėgas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Edyga|Edyga]]; llm_object: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totorių pajėgos|Totorių pajėgos]] priklausė [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216952-217313; hash=c2f027ad72932759acad970d3dae3a86a81c823d9cae659d977f5a949cced2d1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
+  ryšio_patikimumas: priklause -> Edyga: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timūr-Kutlukas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pajėgų aprašymas nurodo Edygos karius kaip totorių pajėgų dalį.
+- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111433|Tochtamišas]]: Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.
 - susijęs iš [[objektai/grupes/Tochtamišo totoriai.md#claim-t-171392|Tochtamišo totoriai]]: Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.
 - susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186382|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.
 - susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186383|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.
@@ -194,13 +197,13 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
+  ryšio_patikimumas: priklause -> Edyga: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timūr-Kutlukas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad totorių pajėgose buvo Edygos kariai.
     - t-003
 
 - c-004
@@ -241,10 +244,16 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216952-217313; hash=c2f027ad72932759acad970d3dae3a86a81c823d9cae659d977f5a949cced2d1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
+  ryšio_patikimumas: priklause -> Edyga: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timūr-Kutlukas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timūr-Kutlukas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pajėgų aprašymas nurodo Edygos karius kaip totorių pajėgų dalį.
+
+## Ryšiai
+- [[objektai/asmenys/Tochtamišas]] buvo_priesas Timūr-Kutlukas
+- Timūr-Kutlukas buvo_priesas [[objektai/asmenys/Tochtamišas]]
+- [[objektai/grupes/Totorių pajėgos]] priklause Timūr-Kutlukas
+- Timūr-Kutlukas buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

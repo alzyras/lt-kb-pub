@@ -43,7 +43,8 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   global_id: t-67819
   teiginys: 'Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškią nuorodą „tais kraštais“ konkrečiais citatoje minimais kraštais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dniepras; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'llm_object: Dniepro žiotys; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dniepras; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] užėmė Dniepro žiotys'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -121,3 +122,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   ryšio_subjekto_parinkimas: Dniepro žiotys: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dniepro žiotys" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] uzeme Dniepro žiotys

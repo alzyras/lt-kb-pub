@@ -66,6 +66,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=75
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Morungenas" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
+- susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -120,3 +121,6 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   ryšio_subjekto_parinkimas: Morungenas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=75
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Morungenas" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]] pastate Morungenas

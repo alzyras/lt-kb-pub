@@ -48,7 +48,7 @@ amziai:
   global_id: t-99064
   teiginys: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   sudarymo_pagrindimas: 'Citata palaiko Riazanės kunigaikščių atvykimą, bet pradinis sakinys nutrūkęs.'
-  susije_objektai: 'location: Trakai; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Tverė; mentioned_place: Valakija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Tverė; mentioned_place: Valakija; llm_object: Trakai; llm_object: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Riazanės kunigaikščių atvykimą, bet pradinis sakinys nutrūkęs.'
@@ -60,7 +60,8 @@ amziai:
   global_id: t-99065
   teiginys: 'Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
   sudarymo_pagrindimas: 'Pataisyta vietovardžio forma ir pašalintas perteklinis kablelis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: Riazanė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Riazanė'
   pagrindžia:
     - c-001
 
@@ -74,13 +75,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=451b1659bdbb2471eb3d002dfd218a886c5ea4215279131ea24e6a61f860881e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riazanė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riazanė" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Riazanė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Riazanė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas puolė Riazanę.
 
 <a id="claim-t-99067"></a>
 - t-005
@@ -143,7 +144,7 @@ amziai:
   global_id: t-99072
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'location: Tverė; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys ir atitinka citatos turinį.'
@@ -171,13 +172,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 294613-294845; hash=350c9e6b6570ef8be090762c5f67df4c989f2f9d0f8d19726fc24c22fdafbba9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Tverė: 0.93
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Tverė: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Tverės ir Riazanės kunigaikščiai" parinktas kaip nearest_actor. Targetas "Tverė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Trakus tiesiogiai pagrindžia keliavimo santykį.
 
 <a id="claim-t-99074"></a>
 - t-010
@@ -212,12 +213,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 294613-294845; hash=350c9e6b6570ef8be090762c5f67df4c989f2f9d0f8d19726fc24c22fdafbba9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trakai: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Riazanės kunigaikščių atvykimą į Trakus; naudojamas platesnis leistas grupės objektas.
 
 <a id="claim-t-185123"></a>
 - t-012
@@ -262,13 +264,9 @@ amziai:
   ryšio_subjekto_parinkimas: Riazanė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Tverė: mention_match, place, gap=11
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riazanė" parinktas kaip owner_note_path. Targetas "Tverė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
-- susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis).md#claim-t-39620|Olegas (Riazanės didysis kunigaikštis)]]: 1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
+- susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
+- susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
+- susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186578|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Jurgis Sviatoslavaitis.md#claim-t-30320|Jurgis Sviatoslavaitis]]: Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -336,6 +334,7 @@ amziai:
 - susijęs iš Vitebskas: Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.
 - susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/zodynas/tėvonies kunigaikštis.md#claim-t-187562|tėvonies kunigaikštis]]: Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.
+- susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -389,13 +388,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 294613-294845; hash=350c9e6b6570ef8be090762c5f67df4c989f2f9d0f8d19726fc24c22fdafbba9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Tverė: 0.93
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Tverė: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Tverės ir Riazanės kunigaikščiai" parinktas kaip nearest_actor. Targetas "Tverė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Atvykimas į Trakus tiesiogiai pagrindžia keliavimo santykį.
     - t-006
 
 - c-004
@@ -492,13 +491,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=451b1659bdbb2471eb3d002dfd218a886c5ea4215279131ea24e6a61f860881e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riazanė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riazanė" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Riazanė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Riazanė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas puolė Riazanę.
     - t-010
 
 - c-007
@@ -582,12 +581,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 294613-294845; hash=350c9e6b6570ef8be090762c5f67df4c989f2f9d0f8d19726fc24c22fdafbba9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trakai: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Riazanės kunigaikščių atvykimą į Trakus; naudojamas platesnis leistas grupės objektas.
     - t-012
 
 - c-010
@@ -637,7 +637,9 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riazanė" parinktas kaip owner_note_path. Targetas "Tverė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Riazanė
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] puole Riazanė
+- [[objektai/asmenys/Chudandachas]] puole Riazanė
+- [[objektai/grupes/Užvolgio totoriai]] puole Riazanė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Riazanė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Riazanė
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]] uzeme Riazanė

@@ -40,20 +40,21 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kolainiai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surminas įvardytas Kolainių pilies vadu ir su vyrais priešinosi puolimui, todėl jis gynė Kolainius.
 
 <a id="claim-t-60001"></a>
 - t-002
   global_id: t-60001
   teiginys: 'Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Surmino veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kolainiai; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Surminas|Surminas]] valdė miestą Kolainiai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -72,7 +73,8 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   global_id: t-60002
   teiginys: '1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui.'
   sudarymo_pagrindimas: 'Pašalintas nereikalingas šaltinio boilerplate, paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_place: Kolainiai'
+  susije_objektai: 'llm_object: Kolainiai; mentioned_place: Kolainiai'
+  semantiniai_rysiai: '[[objektai/asmenys/Surminas|Surminas]] gynė Kolainiai'
   temporaliniai_duomenys: 'įvykio data: 1290 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nereikalingas šaltinio boilerplate, paliktas citatos paremtas faktas.'
@@ -81,13 +83,13 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Laivai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Kolainiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surminas tiesiogiai vadinamas Kolainių pilies pilininku.
 
 <a id="claim-t-60003"></a>
 - t-004
@@ -132,6 +134,9 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184820|Petras Goštautas]]: Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.
+- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
+- susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
@@ -162,6 +167,9 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - susijęs iš Kolainių pilis (pilis): 1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
 - susijęs iš Nemunas: 1313 m. Surmino vadovaujami lietuviai Nemune paėmė pasroviui plaukusį laivą, nužudė keturis lankininkus ir laivą sudegino.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+- susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -234,13 +242,13 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kolainiai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surminas įvardytas Kolainių pilies vadu ir su vyrais priešinosi puolimui, todėl jis gynė Kolainius.
     - t-002
 
 - c-004
@@ -272,13 +280,13 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kolainiai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surminas įvardytas Kolainių pilies vadu ir su vyrais priešinosi puolimui, todėl jis gynė Kolainius.
     - t-003
 
 - c-005
@@ -307,13 +315,13 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Laivai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Kolainiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surminas tiesiogiai vadinamas Kolainių pilies pilininku.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 328297-328874; hash=b16a1e4425b28bc962ca787de27b686f50b56b687bb12af1ab6e54830f2298dd; match=exact
@@ -327,4 +335,15 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Petras Goštautas]] buvo_brolis Surminas
 - [[objektai/asmenys/Skaldonis]] buvo_brolis Surminas
+- Surminas gyne [[objektai/vietos/Kolainių pilis|Kolainių pilis (pilis)]]
+- Surminas gyne [[objektai/vietos/Kolainiai]]
+- Surminas puole [[objektai/asmenys/Ernekė]]
+- Surminas valde_miesta [[objektai/vietos/Kolainiai]]
+- Surminas dalyvavo_musyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
+- Surminas pastate [[objektai/vietos/Kolainiai]]
+- Surminas dalyvavo_musyje [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]
+- [[objektai/asmenys/Vytenis]] paskyre Surminas
+- [[objektai/grupes/Lietuviai]] paskyre Surminas
+- Surminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

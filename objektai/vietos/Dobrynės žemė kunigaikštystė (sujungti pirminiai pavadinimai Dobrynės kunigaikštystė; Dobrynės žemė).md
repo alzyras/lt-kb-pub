@@ -50,7 +50,7 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   global_id: t-86045
   teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Gedimino kariaunos įsiveržimą ir siaubimą Dobrynės žemėje.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Dobrynė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -75,13 +75,13 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumas: puole -> Dobrynė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dobrynė yra platesnio Dobrynės žemės pavadinimo dalis, todėl ryšys su konkrečiu Dobrynės įrašu mažiau tikslus.
 
 ## Reikšmingi paminėjimai
 
@@ -181,10 +181,10 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumas: puole -> Dobrynė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dobrynė yra platesnio Dobrynės žemės pavadinimo dalis, todėl ryšys su konkrečiu Dobrynės įrašu mažiau tikslus.

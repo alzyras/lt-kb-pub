@@ -85,20 +85,20 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėsti neaiškūs įvardžiai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821549-822276; hash=71863cc46a7833f7eb27abc4080ccd2871f94b72bed0c45702623b45e33bc901; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
+  ryšio_patikimumas: keliavo_i -> Mazovija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Mykolas patraukė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87436|Kazimieras IV]]: Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-183751|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
@@ -138,6 +138,8 @@ tags:
 - susijęs iš Vilnius: Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
+- susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
+- susijęs iš [[objektai/asmenys/Zigmantas III.md#claim-t-87594|Zigmantas III]]: Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -270,13 +272,15 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821549-822276; hash=71863cc46a7833f7eb27abc4080ccd2871f94b72bed0c45702623b45e33bc901; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Mazovija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Mykolas patraukė į Mazoviją.
 
 ## Ryšiai
-- [[objektai/vietos/Mendzižečės giria]] priklause Rūdninkai
+- [[objektai/asmenys/Kazimieras IV]] gyveno Rūdninkai
+- [[objektai/asmenys/Vladislovas IV]] keliavo_i Rūdninkai
+- [[objektai/asmenys/Zigmantas III]] gyveno Rūdninkai

@@ -77,3 +77,6 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
   ryšio_subjekto_parinkimas: Teodoras Nemyra: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kardas: mention_match, thing, gap=49
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teodoras Nemyra" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Teodoras Nemyra dalyvavo_musyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

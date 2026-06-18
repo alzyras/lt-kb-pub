@@ -75,19 +75,20 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173310
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] valdė Lietuva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=70
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173311"></a>
 - t-005
@@ -119,13 +120,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą.
 
 <a id="claim-t-173315"></a>
 - t-008
@@ -141,20 +142,21 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis buvo atvykęs į Vilnių.
 
 <a id="claim-t-173316"></a>
 - t-009
   global_id: t-173316
   teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo priešas [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
@@ -182,13 +184,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5de8e78b373c7a5209647e1ab1e0cd5c43a050cb6d5df360030c5fd0bcaf2c5f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Bajorai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bajorų tramdymas dėl piktnaudžiavimo rodo konfliktinį santykį, nors tai nėra karo priešas.
 
 <a id="claim-t-173318"></a>
 - t-011
@@ -215,7 +217,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173319
   teiginys: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
   sudarymo_pagrindimas: 'Citata pateikia titulą dokumento savivardos forma, todėl reikia šaltinio pobūdžio atribucijos.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Mazovija; llm_object: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Lenkija; [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Mazovija'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -260,13 +263,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Augustas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad Žygimantas perdavė valdžią sūnui; kandidatuose sūnus pateiktas kaip Augustas.
 
 <a id="claim-t-173322"></a>
 - t-015
@@ -317,7 +320,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173325
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Brasta; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Brasta; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Augustas|Augustas]]; llm_object: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] paskyrė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/asmenys/Augustas|Augustas]] buvo sūnus [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
   temporaliniai_duomenys: 'įvykio data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį.'
@@ -326,13 +330,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
+  ryšio_patikimumas: reme -> Elena (vyskupas, XV–XVI a.): 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Elenos teisių globos patikėjimas Žygimantui rodo jo pareigą ją remti ar globoti, nors ryšys yra teisinis.
 
 <a id="claim-t-173326"></a>
 - t-019
@@ -366,7 +370,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173328
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Brasta; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Brasta; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus.'
@@ -400,7 +405,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173330
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
   sudarymo_pagrindimas: 'Citata patvirtina valdymo perėmimą ir siekį įvesti tvarką.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] valdė Lietuva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -418,7 +424,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-024
   global_id: t-173331
   teiginys: 'Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Silezija; llm_object: [[objektai/asmenys/Elena|Elena]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] rėmė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
@@ -437,7 +444,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173332
   teiginys: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
@@ -485,13 +493,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą.
 
 <a id="claim-t-173336"></a>
 - t-029
@@ -504,13 +512,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis lankėsi Vilniuje.
 
 <a id="claim-t-173337"></a>
 - t-030
@@ -546,20 +554,19 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 522244-522753; hash=e11da890369242a4be96ca4c6d9f940537d5685e408c62506c160495e1eae59a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Bajorai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bajorų tramdymas dėl piktnaudžiavimo pagrindžia konfliktinį, priešišką santykį.
 
 <a id="claim-t-173339"></a>
 - t-032
   global_id: t-173339
   teiginys: 'Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -625,6 +632,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
 - susijęs iš Vilnius: 1535 m. Žygimantas Senasis Vilniuje apžiūrėjo versmę, kad nustatytų, ar ji trykšta karaliaus žemėje.
 - susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86484|miesto magistrato pareigybės]]: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.
+- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -740,13 +748,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis buvo atvykęs į Vilnių.
     - t-003
 
 - c-005
@@ -801,13 +809,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą.
     - t-030
 
 - c-007
@@ -880,13 +888,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=70
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-023
 
 - c-009
@@ -955,13 +963,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Augustas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad Žygimantas perdavė valdžią sūnui; kandidatuose sūnus pateiktas kaip Augustas.
     - t-029
 
 - c-011
@@ -983,13 +991,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Senasis lankėsi Vilniuje.
     - t-012
 
 - c-012
@@ -1085,13 +1093,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
+  ryšio_patikimumas: reme -> Elena (vyskupas, XV–XVI a.): 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Elenos teisių globos patikėjimas Žygimantui rodo jo pareigą ją remti ar globoti, nors ryšys yra teisinis.
     - t-010
 
 - c-015
@@ -1114,13 +1122,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5de8e78b373c7a5209647e1ab1e0cd5c43a050cb6d5df360030c5fd0bcaf2c5f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Bajorai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bajorų tramdymas dėl piktnaudžiavimo rodo konfliktinį santykį, nors tai nėra karo priešas.
     - t-027
 
 - c-016
@@ -1143,13 +1151,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0b0466eb496b75d6194a52e609104d1dc821285867010f42d72c4a3cc9e7d4a2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dokumente Žygimantas tiesiogiai vadinamas Lenkijos karaliumi.
     - t-016
 
 - c-017
@@ -1378,13 +1386,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 522244-522753; hash=e11da890369242a4be96ca4c6d9f940537d5685e408c62506c160495e1eae59a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Bajorai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bajorų tramdymas dėl piktnaudžiavimo pagrindžia konfliktinį, priešišką santykį.
     - t-022
 
 - c-024
@@ -1494,13 +1502,13 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą.
     - t-011
 
 - c-027
@@ -1679,4 +1687,15 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Senasis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Žygimantas Senasis paskyre [[objektai/asmenys/Jonas Hozijus]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lenkija]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Senasis valde [[objektai/vietos/Lietuva]]
 - Žygimantas Senasis keliavo_i [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]] priklause Žygimantas Senasis
+- Žygimantas Senasis paskyre [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Augustas]] buvo_sunus Žygimantas Senasis
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Mazovija]]
+- Žygimantas Senasis buvo_priesas [[objektai/grupes/Bajorai]]
+- Žygimantas Senasis gyveno [[objektai/vietos/Merkys]]
+- Žygimantas Senasis reme [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

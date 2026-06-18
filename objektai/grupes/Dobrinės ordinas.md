@@ -30,7 +30,8 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   global_id: t-01302
   teiginys: 'Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta archajiška forma.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; llm_object: [[objektai/asmenys/Kristijonas|Kristijonas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Dobrinės ordinas|Dobrinės ordinas]] priklausė [[objektai/asmenys/Kristijonas|Kristijonas]]'
   temporaliniai_duomenys: 'įvykio data: 1228 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pašalinta archajiška forma.'
@@ -39,13 +40,13 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=285335da8f14c928e26a88a6d8dcffba5052630e5c0c8f9ee82f76311af5341b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumas: priklause -> Kristijonas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrinės ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Albertas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrinės ordinas" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrinės ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Dobrinės ordinas apibūdintas kaip vyskupui priklausantis; kontekste minimas vyskupas Kristijonas.
 
 ## Reikšmingi paminėjimai
 
@@ -68,10 +69,13 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=285335da8f14c928e26a88a6d8dcffba5052630e5c0c8f9ee82f76311af5341b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumas: priklause -> Kristijonas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrinės ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Albertas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrinės ordinas" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrinės ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Dobrinės ordinas apibūdintas kaip vyskupui priklausantis; kontekste minimas vyskupas Kristijonas.
+
+## Ryšiai
+- Dobrinės ordinas priklause [[objektai/asmenys/Kristijonas]]

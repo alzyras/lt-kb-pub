@@ -30,12 +30,14 @@ amziai:
   global_id: t-182853
   teiginys: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ovručas; mentioned_place: Vladimiras'
+  susije_objektai: 'llm_object: Ovručas; llm_object: Žitomiras; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ovručas; mentioned_place: Vladimiras; llm_object: Vladimiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Žitomiras'
   temporaliniai_duomenys: 'įvykio data: 1394 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu.'
   pagrindžia:
     - c-001
+- susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 - susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
 - susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186543|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
@@ -43,9 +45,12 @@ amziai:
 - susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 - susijęs iš Petrikovičiai: Lietuviai gaudė bėgančius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
 - susijęs iš Sluckas: Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.
+- susijęs iš Kijevas: 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.
 - susijęs iš Kijevas: 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką.
 - susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
 - susijęs iš Oviučis: Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
+- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,3 +66,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Žitomiras
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Žitomiras

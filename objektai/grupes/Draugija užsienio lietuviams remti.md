@@ -27,7 +27,8 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   global_id: t-77822
   teiginys: 'Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
+  semantiniai_rysiai: '[[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata.'
@@ -36,13 +37,13 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353497-354179; hash=49d9f47cefa5bbc4a0cbf9b373f4907bddb772639eea02cb158f2b3c3f92d6bf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugija užsienio lietuviams remti" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad draugija sukurta padėti užsienio lietuviams.
 - susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01610|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: 1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.
 - susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01611|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.
 - susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-71617|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.
@@ -74,10 +75,13 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 353497-354179; hash=49d9f47cefa5bbc4a0cbf9b373f4907bddb772639eea02cb158f2b3c3f92d6bf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugija užsienio lietuviams remti" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad draugija sukurta padėti užsienio lietuviams.
+
+## Ryšiai
+- Draugija užsienio lietuviams remti reme [[objektai/grupes/Lietuviai]]

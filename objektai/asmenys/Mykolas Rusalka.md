@@ -33,8 +33,8 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   global_id: t-87801
   teiginys: 'Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Mykolo Rusalkos vaidmenį Elenos palydoje.'
-  susije_objektai: 'location: Maskva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Rusalka keliavo į Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Mykolo Rusalkos vaidmenį Elenos palydoje.'
@@ -43,13 +43,13 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mykolas Rusalka: owner_note_path, person, gap=75
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mykolas Rusalka" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.75
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Rusalka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mykolas Rusalka lydėjo Eleną jos kelionėje į Vilnių, todėl tekste tiesiogiai paremtas jo vykimas į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -81,13 +81,13 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mykolas Rusalka: owner_note_path, person, gap=75
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mykolas Rusalka" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.75
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Rusalka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mykolas Rusalka lydėjo Eleną jos kelionėje į Vilnių, todėl tekste tiesiogiai paremtas jo vykimas į Vilnių.
 
 ## Ryšiai
-- Mykolas Rusalka keliavo_i [[objektai/vietos/Maskva]]
+- Mykolas Rusalka keliavo_i [[objektai/vietos/Vilnius]]

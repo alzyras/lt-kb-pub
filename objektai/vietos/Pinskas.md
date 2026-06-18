@@ -41,7 +41,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180412
   teiginys: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į sakinį apie note objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Brasta; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Brasta; mentioned_place: Veliuona; llm_object: Pinskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Pinskas'
   pagrindžia:
     - c-002
 
@@ -50,7 +51,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180413
   teiginys: 'Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Strėva; mentioned_place: Turovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Polesė; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Pinskas; llm_object: Turovas; mentioned_place: Strėva; mentioned_place: Turovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Polesė; mentioned_place: Rusija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]] valdė Pinskas'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
@@ -62,7 +64,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180415
   teiginys: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
-  susije_objektai: 'territory: Turovas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Pinskas; llm_object: Turovas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]] valdė Pinskas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Turovas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
@@ -126,7 +129,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Pinsko vietą Polesės apibūdinime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Polesė; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Palenkė'
+  susije_objektai: 'llm_object: Polesė; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Polesė; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Palenkė'
+  semantiniai_rysiai: 'Pinskas priklausė Polesė'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -148,20 +152,20 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys, susiejantis Pinsko žmones su Vaišvilko kelione ir grįžimu į Lietuvą. Džiaugsmingas Lietuvos sutikimas neįtrauktas, nes tai būtų atskiras vertinamasis epizodas.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Naugardukiečiai: nearest_actor, group, gap=29
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Naugardukiečiai" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-186073|Narimantas (Pinsko kunigaikštis)]]: Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardukiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad naugardukiečiai buvo paimti kartu ir grįžo į Lietuvą.
+- susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
 - susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
@@ -234,6 +238,8 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 - susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86422|indiktas]]: Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-184652|žygūnai]]: Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185331|žygūnas]]: Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -418,13 +424,17 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   irodymo_stiprumas: 0.00
   saltinio_vieta: 95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Naugardukiečiai: nearest_actor, group, gap=29
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Naugardukiečiai" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardukiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad naugardukiečiai buvo paimti kartu ir grįžo į Lietuvą.
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] buvo_valdovas Pinskas
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde Pinskas
+- [[objektai/asmenys/Vasilijus Čartoriskis]] buvo_valdovas Pinskas
+- Pinskas priklause [[objektai/vietos/Polesė]]
+- [[objektai/grupes/Gediminaičiai]] valde_teritorija Pinskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Pinskas

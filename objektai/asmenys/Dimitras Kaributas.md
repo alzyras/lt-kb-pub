@@ -71,19 +71,20 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki citatos paremto Dimitro Kaributo vaidmens.'
-  susije_objektai: 'mentioned_place: Severskas; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_place: Severskas; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Rusia; llm_object: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]] siuntė į Severskas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Severskas: 0.85
+  ryšio_patikimumas: siunte_i -> Severskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dimitras Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitras Kaributas" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dimitras Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata išvardija, kur kas buvo pasiųstas ar paliktas; Dimitras Kaributas siejamas su Seversku.
 
 <a id="claim-t-184692"></a>
 - t-004
@@ -93,19 +94,20 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškų atsisakymo faktą ir pašalina neaiškų kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 587875-588460; hash=f05dfa25c7afe66157626fd95ba885d117c7a546440b25d08e44143ef506c75b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dimitras Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitras Kaributas" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dimitras Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Dimitras aiškiai sako, kad jo tėvas buvo Algirdas.
 - susijęs iš Brianskas: 1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
 - susijęs iš [[objektai/ivykiai/Vitebsko užėmimas (1392 m.).md#claim-t-31488|Vitebsko užėmimas (1392 m.)]]: Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.
@@ -204,24 +206,28 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   irodymo_stiprumas: 0.00
   saltinio_vieta: 497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Severskas: 0.85
+  ryšio_patikimumas: siunte_i -> Severskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dimitras Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitras Kaributas" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dimitras Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata išvardija, kur kas buvo pasiųstas ar paliktas; Dimitras Kaributas siejamas su Seversku.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 587875-588460; hash=f05dfa25c7afe66157626fd95ba885d117c7a546440b25d08e44143ef506c75b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dimitras Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitras Kaributas" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dimitras Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Dimitras aiškiai sako, kad jo tėvas buvo Algirdas.
 
 ## Ryšiai
-- Dimitras Kaributas buvo_valdovas [[objektai/vietos/Naugardas]]
+- Dimitras Kaributas buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Dimitras Kaributas kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Dimitras Kaributas puole [[objektai/vietos/Lietuva]]
+- Dimitras Kaributas siunte_i [[objektai/vietos/Severskas]]
+- Dimitras Kaributas buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

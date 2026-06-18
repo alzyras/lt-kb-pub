@@ -33,7 +33,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   global_id: t-10128
   teiginys: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.'
   sudarymo_pagrindimas: 'Citata palaiko ryšį su kronika ir jos aprašomu epizodu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas Latvis|Henrikas Latvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas Latvis|Henrikas Latvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1207 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko ryšį su kronika ir jos aprašomu epizodu.'
@@ -44,7 +44,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - t-002
   global_id: t-10129
   teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1207 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -53,13 +53,13 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių mūšį su kalavijuočiais.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
@@ -262,21 +262,21 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių mūšį su kalavijuočiais.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių mūšį su kalavijuočiais.

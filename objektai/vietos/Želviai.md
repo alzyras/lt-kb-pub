@@ -39,6 +39,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - susijęs iš Verenava: Verenavoje buvo įkurta pijarų mokykla.
 - susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
 - susijęs iš Ščucinas: Ščucine buvo įkurta pijarų mokykla.
+- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,3 +65,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Pijarų ordinas]] gyveno Želviai

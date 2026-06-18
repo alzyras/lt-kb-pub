@@ -68,3 +68,6 @@ tags:
   ryšio_subjekto_parinkimas: Vilniaus miesto vartai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=94
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miesto vartai" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vilniaus miesto vartai priklause [[objektai/vietos/Vilnius]]

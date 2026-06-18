@@ -70,7 +70,7 @@ Nenurodyta
   global_id: t-93003
   teiginys: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'

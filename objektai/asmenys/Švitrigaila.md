@@ -44,7 +44,8 @@ periodo_grupes:
 - t-002
   global_id: t-179688
   teiginys: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
-  susije_objektai: 'mentioned_place: Podolija; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Podolija; mentioned_place: Podolija; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Podolija'
   pagrindžia:
     - c-001
 
@@ -62,7 +63,8 @@ periodo_grupes:
   global_id: t-179692
   teiginys: 'Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė Vitebskas'
   pagrindžia:
     - c-036
 
@@ -80,7 +82,8 @@ periodo_grupes:
   global_id: t-179694
   teiginys: 'Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė Vitebskas'
   pagrindžia:
     - c-036
 
@@ -89,7 +92,8 @@ periodo_grupes:
   global_id: t-179695
   teiginys: '1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienburgas; mentioned_place: Podolė; mentioned_place: Salynas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienburgas; mentioned_place: Podolė; mentioned_place: Salynas; llm_object: Marienburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Marienburgas'
   temporaliniai_duomenys: 'įvykio data: 1402 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -127,7 +131,8 @@ periodo_grupes:
   global_id: t-179699
   teiginys: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Švitrigailos veiksmus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė miestą Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Švitrigailos veiksmus ir yra paremtas citata.'
@@ -139,7 +144,8 @@ periodo_grupes:
   global_id: t-179700
   teiginys: '1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs, citata palaiko trumpesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubysa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubysa; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Julijona|Julijona]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] buvo sūnus [[objektai/asmenys/Julijona|Julijona]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutrūkęs, citata palaiko trumpesnį faktą.'
@@ -193,7 +199,7 @@ periodo_grupes:
   global_id: t-179705
   teiginys: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vitebskas; mentioned_place: Livonija; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
@@ -218,13 +224,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ac9b23fa035bf9b4959369346d4b9f4f4cc1ee2f1faf40384df20b9957ef86; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vitebskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ėmė valdyti Vitebską.
 
 <a id="claim-t-179707"></a>
 - t-019
@@ -237,13 +243,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 143851-144111; hash=d3001d3bfc9d65c5e7e0bf36b7868d612f2a7ba9a761a47f3581a38f6390b5f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vengrija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Švitrigaila pabėgo į Vengriją.
 
 <a id="claim-t-179708"></a>
 - t-020
@@ -256,13 +262,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 180063-180286; hash=175e612bf5c08a937e32267d693182190c602b4b6432fcddb47c0de77b90539f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Podolija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Podolija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Podolija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Podolija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Podolija buvo atiduota Švitrigailai valdyti.
 
 <a id="claim-t-179709"></a>
 - t-021
@@ -293,20 +299,21 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Julijona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Julijona: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Julijona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Švitrigaila įtrauktas į Julijonos sūnų sąrašą.
 
 <a id="claim-t-179712"></a>
 - t-023
   global_id: t-179712
   teiginys: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; llm_object: Ašmena; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] gyveno Ašmena'
   pagrindžia:
     - c-018
 
@@ -321,19 +328,20 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 900382-900718; hash=57968f0e518018c6c042fbae00dacc6868561a8516b1bfae4c53d9fa512cec4a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Švitrigaila buvo priimtas Marienburge.
 
 <a id="claim-t-179715"></a>
 - t-026
   global_id: t-179715
   teiginys: '1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Panemunė; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Panemunė; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai; llm_object: Šalčininkai; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] surengė žygį į Lietuva; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Šalčininkai; [[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1394 m.; įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -354,7 +362,8 @@ periodo_grupes:
   global_id: t-179716
   teiginys: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Švitrigailą ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Vengrija; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vengrija; mentioned_place: Krokuva; mentioned_place: Vengrija; llm_object: Krokuva; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vengrija; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Krokuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -373,7 +382,8 @@ periodo_grupes:
   global_id: t-179717
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir nutrūkusi.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Marienburgas; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Marienburgas'
   temporaliniai_duomenys: 'įvykio data: 1402 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir nutrūkusi.'
@@ -384,7 +394,8 @@ periodo_grupes:
 - t-029
   global_id: t-179718
   teiginys: 'Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] sudarė sutartį su [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/asmenys/Švitrigaila|Švitrigaila]] prekiavo su [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]'
   pagrindžia:
     - c-014
 
@@ -447,7 +458,7 @@ periodo_grupes:
 - t-033
   global_id: t-179722
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.'
-  susije_objektai: 'location: Marienburgas; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Marienburgas; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Marienburgas'
   temporaliniai_duomenys: 'kelionės data: 1402 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila keliavo į Marienburgas“, o ne visam objekto laikotarpiui.'
@@ -469,19 +480,20 @@ periodo_grupes:
   global_id: t-179723
   teiginys: 'Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi OCR klaidą, bet citata palaiko aiškų faktą apie Švitrigailą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] buvo sūnus [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Švitrigailos įsibrovimą į Lietuvą.
 
 <a id="claim-t-179724"></a>
 - t-035
@@ -516,33 +528,33 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Švitrigailos ketinimą ir organizuotą puolimą prieš Vitebską.
 
 <a id="claim-t-179726"></a>
 - t-037
   global_id: t-179726
   teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   sudarymo_pagrindimas: 'Citata nepagrindžia, kad Ašmenos užėmimas įvyko būtent 1432 m. rudenį.'
-  susije_objektai: 'territory: Ašmena; mentioned_place: Ašmena; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Livonija; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] užėmė Ašmena'
+  susije_objektai: 'llm_object: Ašmena; mentioned_place: Ašmena; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Livonija; mentioned_place: Vitebskas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] užėmė Ašmena; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vilnius'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.99
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=76
-  ryšio_targeto_parinkimas: Marienburgas: nearest_after_predicate, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą.
 
 <a id="claim-t-179727"></a>
 - t-038
@@ -586,19 +598,20 @@ periodo_grupes:
 - t-042
   global_id: t-179731
   teiginys: 'Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Podolė; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Podolė; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] buvo priešas [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-029
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Didžiojo Naugardo respublika: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bojarinai buvo pasiųsti iš Didžiojo Naugardo ir sudarė sutartį su Švitrigaila, todėl sąsaja su Didžiojo Naugardo respublika tiesiogiai pagrįsta.
 
 <a id="claim-t-179732"></a>
 - t-043
@@ -633,7 +646,8 @@ periodo_grupes:
   global_id: t-179734
   teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį įvardį ir aiškiai įvardijant veikėją.'
-  susije_objektai: 'mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Ašmena; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Polockas; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Ašmena; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1432-1433; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant dviprasmį įvardį ir aiškiai įvardijant veikėją.'
@@ -664,13 +678,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=871a55d9d14f0723364961f34d55c04a19257d699f571d0eb23aba4564228679; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Švitrigaila pabėgo į Polocką.
 
 <a id="claim-t-184897"></a>
 - t-047
@@ -730,13 +744,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą.
 
 <a id="claim-t-184900"></a>
 - t-050
@@ -759,11 +773,24 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Dinaburgas: mention_match, place, gap=75
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Moldovos kunigaikščiai.md#claim-t-86812|Moldovos kunigaikščiai]]: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.
-- susijęs iš [[objektai/grupes/Moldovos kunigaikščiai.md#claim-t-86812|Moldovos kunigaikščiai]]: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.
-- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
+- susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
+- susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
+- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
-- susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
+- susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš Pskovo prekybos sutartis su Švitrigaila: 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila, joje patvirtindami senovines sienas.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
+- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66812|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: 1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.
+- susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
+- susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
+- susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
+- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
 - susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185932|Boleslovas Švitrigaila]]: Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.
@@ -1136,6 +1163,20 @@ periodo_grupes:
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184647|vietininkas]]: Karalius laikinai paskyrė Spiteką valdų vietininku.
 - susijęs iš [[objektai/zodynas/šinkorystė propinacija.md#claim-t-86561|šinkorystė propinacija]]: Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.
+- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
+- susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos.
+- susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
+- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
+- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
+- susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
+- susijęs iš [[objektai/grupes/Žygimanto šalininkai.md#claim-t-86780|Žygimanto šalininkai]]: Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.
+- susijęs iš Vitebskas: Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai.
+- susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
+- susijęs iš Livonija: Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe.
+- susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
+- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184381|Žygimantas]]: Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.
+- susijęs iš [[objektai/asmenys/Jurgis Lengvenaitis.md#claim-t-87743|Jurgis Lengvenaitis]]: Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1270,13 +1311,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ff9f7f06fb418a9cbf772d50b563b2df6efb010eb49a528efc43feabb68687d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vitebskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas atgavo Vitebską po apgulties.
     - t-015
     - t-001
 
@@ -1345,13 +1386,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ac9b23fa035bf9b4959369346d4b9f4f4cc1ee2f1faf40384df20b9957ef86; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vitebskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ėmė valdyti Vitebską.
     - t-041
 
 - c-010
@@ -1368,13 +1409,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b70e6d0faca0ce4766642c2cbe61a4a7962f9d124267955bebc186c09fd000d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: buvo_priesas -> Jogaila (kunigaikštis, XIV–XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Švitrigaila užsipuolė ir įkalino Jogailą, todėl politinės priešpriešos ryšys tiesiogiai pagrįstas.
     - t-032
 
 - c-011
@@ -1527,13 +1568,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Julijona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Julijona: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Julijona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Švitrigaila įtrauktas į Julijonos sūnų sąrašą.
     - t-012
 
 - c-016
@@ -1584,13 +1625,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.99
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=76
-  ryšio_targeto_parinkimas: Marienburgas: nearest_after_predicate, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą.
     - t-010
 
 - c-018
@@ -1725,13 +1766,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 143851-144111; hash=d3001d3bfc9d65c5e7e0bf36b7868d612f2a7ba9a761a47f3581a38f6390b5f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vengrija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Švitrigaila pabėgo į Vengriją.
     - t-008
 
 - c-022
@@ -1834,13 +1875,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=caf8ca4df248d6f243d3c4d2a086bdf1a302975598e13d608ed368acbb18935f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Švitrigailos įsibrovimą į Lietuvą.
     - t-031
 
 - c-027
@@ -1955,13 +1996,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Didžiojo Naugardo respublika: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Bojarinai buvo pasiųsti iš Didžiojo Naugardo ir sudarė sutartį su Švitrigaila, todėl sąsaja su Didžiojo Naugardo respublika tiesiogiai pagrįsta.
     - t-017
 
 - c-031
@@ -1995,13 +2036,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 180063-180286; hash=175e612bf5c08a937e32267d693182190c602b4b6432fcddb47c0de77b90539f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Podolija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Podolija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Podolija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Podolija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Podolija buvo atiduota Švitrigailai valdyti.
     - t-036
 
 - c-032
@@ -2019,13 +2060,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a5deb7f5a35e9e2b751f5fab964bd44645a37257d34a5c5a34c91d567994eac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vitebskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Švitrigailos ketinimą ir organizuotą puolimą prieš Vitebską.
     - t-003
 
 - c-033
@@ -2112,13 +2153,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 900382-900718; hash=57968f0e518018c6c042fbae00dacc6868561a8516b1bfae4c53d9fa512cec4a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Švitrigaila buvo priimtas Marienburge.
     - t-021
 
 - c-036
@@ -2231,13 +2272,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=871a55d9d14f0723364961f34d55c04a19257d699f571d0eb23aba4564228679; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Švitrigaila pabėgo į Polocką.
     - t-047
 
 - c-040
@@ -2329,13 +2370,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322830-323986; hash=9b6b1e739025689e38ffac6f80b5bb4e1ffa9e1ce6b3a4de666b46a52f8fce76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Marienburgas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nuvyko į Marienburgą.
     - t-050
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61ebcc6764bf0c51d0e9d6f066012c34d83425c52e60fe8bfb4a03a82b3766ef; match=fallback; occurrences=0
@@ -2349,17 +2390,87 @@ periodo_grupes:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigaila" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Moldovos kunigaikščiai]] kariavo_pries Švitrigaila
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]] sudare_sutarti_su Švitrigaila
+- Švitrigaila valde [[objektai/vietos/Voluinė]]
+- Švitrigaila valde_miesta [[objektai/vietos/Vitebskas]]
 - Švitrigaila keliavo_i [[objektai/vietos/Marienburgas]]
-- [[objektai/grupes/Moldovos kunigaikščiai]] reme Švitrigaila
-- Švitrigaila uzeme [[objektai/vietos/Mstislavlis]]
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] buvo_sunus Švitrigaila
-- Švitrigaila kariavo_pries [[objektai/grupes/Moldovos kunigaikščiai]]
-- [[objektai/asmenys/Mykolas]] vede Švitrigaila
-- Švitrigaila vede [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- Švitrigaila keliavo_i [[objektai/vietos/Polockas]]
+- Švitrigaila sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Chariničius]] sudare_sutarti_su Švitrigaila
+- [[objektai/asmenys/Ivanas Jermoliničius]] sudare_sutarti_su Švitrigaila
+- [[objektai/grupes/Livonijos ordinas]] buvo_sajungininkas_su Švitrigaila
+- [[objektai/grupes/Livonijos ordinas]] reme Švitrigaila
+- Švitrigaila mire [[objektai/vietos/Luckas]]
 - Švitrigaila uzeme [[objektai/vietos/Ašmena]]
-- Švitrigaila uzeme [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Švitrigailos šalininkai]] kariavo_pries Švitrigaila
+- Švitrigaila valde_teritorija [[objektai/vietos/Polockas]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Vitebskas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Ukraina]]
+- Švitrigaila keliavo_i [[objektai/vietos/Vilnius]]
 - Švitrigaila uzeme [[objektai/vietos/Vitebskas]]
-- Švitrigaila uzeme [[objektai/vietos/Lietuva]]
-- Švitrigaila uzeme [[objektai/vietos/Trakai]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Smolenskas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Vengrija]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Kijevas]]
+- Švitrigaila surenge_zygi_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Aleksas Jefremovičius]] sudare_sutarti_su Švitrigaila
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]] sudare_sutarti_su Švitrigaila
+- [[objektai/asmenys/Mykolas]] kariavo_pries Švitrigaila
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] kariavo_pries Švitrigaila
+- Švitrigaila buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Švitrigaila keliavo_i [[objektai/vietos/Kijevas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Lukomlis]]
+- Švitrigaila puole [[objektai/vietos/Vitebskas]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Podolija]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Černigovas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] buvo_sajungininkas_su Švitrigaila
+- [[objektai/grupes/Lietuviai]] kariavo_pries Švitrigaila
+- Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Švitrigaila buvo_sunus [[objektai/asmenys/Julijona]]
+- Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
+- Švitrigaila valde [[objektai/vietos/Kijevas]]
+- [[objektai/asmenys/Žygimantas]] kariavo_pries Švitrigaila
+- [[objektai/asmenys/Žygimantas]] puole Švitrigaila
+- [[objektai/grupes/Lenkai]] kariavo_pries Švitrigaila
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Švitrigaila
+- Švitrigaila buvo_sajungininkas_su [[objektai/grupes/Livonijos ordinas]]
+- Švitrigaila puole [[objektai/vietos/Drohičinas]]
+- Švitrigaila sudare_sutarti_su [[objektai/grupes/Didžiojo Naugardo respublika]]
+- Švitrigaila surenge_zygi_i [[objektai/vietos/Ukmergė]]
+- Švitrigaila valde_teritorija [[objektai/vietos/Naugardas Sieverskas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Krokuva]]
+- Švitrigaila gyveno [[objektai/vietos/Ašmena]]
+- Švitrigaila valde [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] puole Švitrigaila
+- Švitrigaila buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Švitrigaila keliavo_i [[objektai/vietos/Pašilė]]
+- Švitrigaila puole [[objektai/vietos/Panemunė]]
+- Švitrigaila reme [[objektai/asmenys/Jadvyga]]
+- Švitrigaila sudare_sutarti_su [[objektai/grupes/Livonijos ordinas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Skirsnemunė]]
+- [[objektai/grupes/Moldovos kunigaikščiai]] reme Švitrigaila
+- Švitrigaila buvo_priesas [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Švitrigaila gyveno [[objektai/vietos/Vitebskas]]
+- Švitrigaila keliavo_i [[objektai/vietos/Gelvonai]]
+- Švitrigaila keliavo_i [[objektai/vietos/Šalčininkai]]
+- Švitrigaila reme [[objektai/grupes/Bajorai]]
+- Švitrigaila siunte_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Žygimantas]] buvo_priesas Švitrigaila
+- Švitrigaila siunte_i [[objektai/vietos/Kistrinas]]
+- [[objektai/grupes/Smolensko pulkai]] kariavo_pries Švitrigaila
+- Švitrigaila valde [[objektai/vietos/Gomelis]]
+- Švitrigaila puole [[objektai/asmenys/Gerasimas]]
+- Švitrigaila valde [[objektai/vietos/Kamenecas]]
+- [[objektai/grupes/Žygimanto šalininkai]] buvo_priesas Švitrigaila
+- [[objektai/grupes/Kryžiuočių ordinas]] reme Švitrigaila
+- Švitrigaila puole [[objektai/vietos/Gardinas]]
+- Švitrigaila puole [[objektai/vietos/Lenkija]]
+- Švitrigaila puole [[objektai/vietos/Vilnius]]
+- Švitrigaila buvo_brolis [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Švitrigaila keliavo_i [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]] reme Švitrigaila
+- Švitrigaila prekiavo_su [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Žygimantas]] buvo_sajungininkas_su Švitrigaila
+- Švitrigaila kariavo_pries [[objektai/grupes/Lenkai]]
+- Švitrigaila kariavo_pries [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Jurgis Lengvenaitis]] buvo_sajungininkas_su Švitrigaila
+- Švitrigaila surenge_zygi_i [[objektai/vietos/Vilnius]]

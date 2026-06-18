@@ -50,19 +50,20 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pataisyta sakinio sandara ir palikta pasakojimo atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubrovna; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubrovna; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Dubrovna: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubrovna: mention_match, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Dubrovna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Lenkai įvardyti kaip kariuomenės dalis mūšio prie Dubrovnos kontekste.
 
 <a id="claim-t-186605"></a>
 - t-002
@@ -110,19 +111,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pataisyta klaidinga didžioji raidė ir išlaikyta šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Dubrovna; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Dubrovna; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lenkija; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6f3cbc742458b9dd2eb06b2d7435a96e5990c4de773a9548dbaa3602dd58746; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Dubrovna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubrovna: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Dubrovna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vėliavos: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „vokiečių vėliavos“ tiesiogiai rodo vėliavų priklausymą vokiečiams.
 
 ## Reikšmingi paminėjimai
 
@@ -196,24 +197,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6f3cbc742458b9dd2eb06b2d7435a96e5990c4de773a9548dbaa3602dd58746; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Dubrovna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubrovna: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Dubrovna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vėliavos: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „vokiečių vėliavos“ tiesiogiai rodo vėliavų priklausymą vokiečiams.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Dubrovna: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubrovna: mention_match, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Dubrovna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Lenkai įvardyti kaip kariuomenės dalis mūšio prie Dubrovnos kontekste.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=fallback; occurrences=0
@@ -225,3 +226,8 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Dubrovna: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Dubrovna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)
+- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)

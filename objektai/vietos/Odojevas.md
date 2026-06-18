@@ -72,7 +72,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   global_id: t-79893
   teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.'
   sudarymo_pagrindimas: 'Citata sieja datą ir vietą su sutarties patvirtinimu, todėl teiginys patikslintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Skirsnemunė; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Skirsnemunė; mentioned_place: Tverė; llm_object: Skirsnemunė'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata sieja datą ir vietą su sutarties patvirtinimu, todėl teiginys patikslintas.'
@@ -81,13 +81,13 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Odojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odojevas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ir Ordinas patvirtino sutartį.
 
 <a id="claim-t-184315"></a>
 - t-004
@@ -110,6 +110,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   ryšio_subjekto_parinkimas: Odojevas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Donas: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odojevas" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
+- susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš Mcenskas: Vytautui pasidavė Mcensko, Liubutsko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kitos Okos aukštupio kunigaikštijos.
@@ -136,6 +138,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
 - susijęs iš Vorotinskas: Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse.
+- susijęs iš Mcenskas: Vytautui pasidavė Mcensko, Liubutsko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kitos Okos aukštupio kunigaikštijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,13 +163,13 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Odojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odojevas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ir Ordinas patvirtino sutartį.
     - t-002
 
 - c-002
@@ -225,3 +228,9 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   ryšio_subjekto_parinkimas: Odojevas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Donas: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odojevas" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] uzeme Odojevas
+- [[objektai/asmenys/Chudandachas]] puole Odojevas
+- [[objektai/grupes/Užvolgio totoriai]] puole Odojevas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Odojevas

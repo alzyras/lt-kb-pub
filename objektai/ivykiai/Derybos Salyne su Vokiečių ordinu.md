@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-26373
   teiginys: '1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį teiginį apie Salyne vykusias derybas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salyne; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salyne; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Veliuona; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretesnį teiginį apie Salyne vykusias derybas.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89695-90826; hash=95a0bb174dcf9b4e9710b7fb373955b8dbd453530986d6bc7db390fd626f7d45; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Derybos Salyne su Vokiečių ordinu: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Derybos Salyne su Vokiečių ordinu" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata aprašo Vytauto konfliktą su Ordinu dėl Žemaitijos, nors tai derybinis, ne karinis epizodas.
 
 ## Reikšmingi paminėjimai
 
@@ -94,10 +94,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89695-90826; hash=95a0bb174dcf9b4e9710b7fb373955b8dbd453530986d6bc7db390fd626f7d45; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Derybos Salyne su Vokiečių ordinu: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Derybos Salyne su Vokiečių ordinu" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata aprašo Vytauto konfliktą su Ordinu dėl Žemaitijos, nors tai derybinis, ne karinis epizodas.

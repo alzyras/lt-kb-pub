@@ -50,7 +50,8 @@ amziai:
 - t-002
   global_id: t-176116
   teiginys: 'Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -82,7 +83,8 @@ amziai:
 - t-005
   global_id: t-176120
   teiginys: 'Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
     - c-004
@@ -91,7 +93,8 @@ amziai:
 - t-006
   global_id: t-176121
   teiginys: 'Livonijos kryžiuočiai po Žemaičių teriojimo pasirodė Jogailos pusėje prie Trakų.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Trakai; llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-005
 
@@ -100,7 +103,8 @@ amziai:
   global_id: t-176122
   teiginys: 'Livonijos kryžiuočiai pasirodė Jogailos pusėje prie Trakų po Žemaičių teriojimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nepakankamai siejamas su Žemaičiais, o citata leidžia suformuluoti tikslesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Trakai; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-005
 
@@ -135,7 +139,7 @@ amziai:
   global_id: t-176126
   teiginys: '1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   sudarymo_pagrindimas: 'Citatos loginį ryšį tiksliau perteikia priešprieša, o ne jungtukas „o“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatos loginį ryšį tiksliau perteikia priešprieša, o ne jungtukas „o“.'
@@ -155,7 +159,8 @@ amziai:
 - t-013
   global_id: t-176130
   teiginys: 'Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.'
-  susije_objektai: 'mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -166,7 +171,8 @@ amziai:
   global_id: t-176131
   teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatoje nurodytą datą ir formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau pagal citatoje nurodytą datą ir formuluotę.'
@@ -239,7 +245,8 @@ amziai:
 - t-022
   global_id: t-176143
   teiginys: '1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.'
-  susije_objektai: 'mentioned_place: Dancigas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Racionžas'
+  susije_objektai: 'llm_object: Dancigas; mentioned_place: Dancigas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Racionžas'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] prekiavo su Dancigas'
   temporaliniai_duomenys: 'įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -272,7 +279,8 @@ amziai:
   global_id: t-176148
   teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie žemaičių sutartį su Ordinu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-012
 
@@ -287,20 +295,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 67276-67512; hash=880247c46264b0d5c2ef8a536f650af0ce0b155ea1ff0ba597882ee525b66018; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žemaičiai suteikė Kęstučiui vyrų, todėl tai tiesioginė parama.
 
 <a id="claim-t-176152"></a>
 - t-028
   global_id: t-176152
   teiginys: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Durbė; mentioned_place: Nalšia'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Durbė; mentioned_place: Nalšia; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
@@ -309,13 +318,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24070c8fb92742abbb983632460e73a680d46120c5207e61419d1beacb458787; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paklusnumo pareiškimas Ordinui rodo pavaldumo ryšį.
 
 <a id="claim-t-176153"></a>
 - t-029
@@ -331,13 +340,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7e89927cf242213cf220dc1a996ffba22d7bdfc060b3f29206b1bc74296ae94; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių sutartį su Ordinu.
 
 <a id="claim-t-176154"></a>
 - t-030
@@ -369,13 +378,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 273389-273844; hash=a92aec460f4941b4e3a9cb6391fff2139fb57b962cd8b939dec4edf52844cfc0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nusako žemaičių priešiškumą Ordinui.
 
 <a id="claim-t-176156"></a>
 - t-032
@@ -387,13 +396,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e7b81e352d10e294e8fc7d6b7f2210b297ae060c2083966d79f93cfc81741c5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dancigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai minima žemaičių prekyba su Dancigu.
 
 <a id="claim-t-176157"></a>
 - t-033
@@ -427,20 +436,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd86af135d7a6f715766ba79508c10d4e25b0f96e5526c12398a512321f50314; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini žemaičių kovas su kryžiuočiais.
 
 <a id="claim-t-176159"></a>
 - t-035
   global_id: t-176159
   teiginys: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti datą ir sutarties šalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau nurodyti datą ir sutarties šalis.'
@@ -450,19 +460,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje pasakyta, kad kryžiuočiai atvyko prie Trakų.
 
 <a id="claim-t-176160"></a>
 - t-036
   global_id: t-176160
   teiginys: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Palenkė'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] rėmė [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -492,7 +503,8 @@ amziai:
   global_id: t-176162
   teiginys: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis, paliktas savarankiškas faktinis sakinys.'
-  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Dancigas; mentioned_place: Dancigas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] prekiavo su Dancigas'
   pagrindžia:
     - c-019
 
@@ -501,7 +513,8 @@ amziai:
   global_id: t-176163
   teiginys: 'Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suredaguotas į sklandžią formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-030
 
@@ -533,13 +546,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=13fd3baa0da2cef5fb967b6a96dde4020614c8743b0901db61a4a8863db2f8eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje žemaičių pajėgos aiškinamos kaip nukreiptos prieš Ordiną.
 
 <a id="claim-t-183907"></a>
 - t-045
@@ -558,13 +571,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167878-168053; hash=764d985a715b12d1aa2047e5f7525c38e7a17f508780594f86235f3bdef49a52; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žemaičių atidavimas Ordinui rodo jų priskyrimą Ordinui.
 
 <a id="claim-t-184591"></a>
 - t-046
@@ -602,13 +615,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=558db1aaf4d4502b56685efa6501ef78f721a3e15c6b7657a713b87f449495f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dancigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini žemaičių pardavimą Dancigui.
 
 <a id="claim-t-184593"></a>
 - t-048
@@ -618,7 +631,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau susieti žemaičių žygį su Utenio veiksmu ir rezultatu.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_place: Livonija; llm_object: Livonija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Kuršas; llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Livonija; [[objektai/grupes/Žemaičiai|Žemaičiai]] buvo sąjungininkas su [[objektai/grupes/Kuršiai|Kuršiai]]'
   pagrindžia:
     - c-043
   irodymo_stiprumas: 0.00
@@ -640,7 +654,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į vientisą sakinį be neaiškių formų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Treniota|Treniota]]; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] rėmė [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-044
   irodymo_stiprumas: 0.00
@@ -662,7 +677,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalintas perteklinis šalutinis sakinys.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; llm_object: [[objektai/asmenys/Germantas|Germantas]]'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir pašalintas perteklinis šalutinis sakinys.'
@@ -677,7 +692,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas į aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-046
 
@@ -745,20 +761,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Kęstutis|Kęstutis]]; territory: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] susiję su [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Trakai'
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134669-135145; hash=49a0a0a23e366484d8b2e68e990f812fe38da9f2d613a176a002e6d8c0b15209; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.98
+  ryšio_patikimumas: valde -> Trakai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=30
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_family_person, person, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis valdė Trakus.
 
 <a id="claim-t-187755"></a>
 - t-056
@@ -768,19 +783,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Motyvacija reikalauja šaltinio priskyrimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] buvo priešas [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-051
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188813-189147; hash=54012244ccc08b918283721e3ac21d9305310d02515e22763807f3a2e58899f0; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vokiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smurtas prieš Prūsijos vokiečius tiesiogiai rodo priešiškumą.
 
 <a id="claim-t-187756"></a>
 - t-057
@@ -796,13 +812,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188957-189382; hash=cd9a46c4b1029e4296c0f2fed28f3ad255922fd99d0a8102b3cd1cc2038b95ad; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Žemaičiai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas parėmė žemaičius.
 
 <a id="claim-t-187757"></a>
 - t-058
@@ -812,20 +828,22 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Motyvas ir pasakojimo perspektyva reikalauja priskyrimo šaltiniui.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Trakai; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] keliavo į Trakai'
   pagrindžia:
     - c-053
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje žemaičiai aiškiai atėjo prie Trakų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178925|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179061|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-30223|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51026|Jadvyga (Jogailos duktė)]]: Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties.
@@ -999,6 +1017,11 @@ amziai:
 - susijęs iš [[objektai/zodynas/Vartavodamos.md#claim-t-07753|vartavodamos]]: `Vartavodamos` šaltinyje reiškia prekiaujant ar mainant.
 - susijęs iš [[objektai/zodynas/Vartavodamos.md#claim-t-07754|vartavodamos]]: Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai.
 - susijęs iš [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas.md#claim-t-22127|dvilypis lietuvių-žemaičių etnosas]]: Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi, nors kiti juos laikė atskiru giminingu etnosu.
+- susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186613|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas priėmė žemaičius savo globon po jų pasiuntinių prašymo valdyti Žemaičius.
+- susijęs iš Žemaičių aukštuma: Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.
+- susijęs iš Palanga: Pasak Lietuvos metraščio, Palangoje Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius, bet žemaičiai ją nuo kopų sumušė akmenimis.
+- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
+- susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1116,13 +1139,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e7b81e352d10e294e8fc7d6b7f2210b297ae060c2083966d79f93cfc81741c5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dancigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai minima žemaičių prekyba su Dancigu.
     - t-009
 
 - c-008
@@ -1227,13 +1250,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd86af135d7a6f715766ba79508c10d4e25b0f96e5526c12398a512321f50314; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai mini žemaičių kovas su kryžiuočiais.
     - t-021
     - t-040
 
@@ -1301,13 +1324,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24070c8fb92742abbb983632460e73a680d46120c5207e61419d1beacb458787; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paklusnumo pareiškimas Ordinui rodo pavaldumo ryšį.
     - t-035
 
 - c-015
@@ -1327,13 +1350,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje pasakyta, kad kryžiuočiai atvyko prie Trakų.
     - t-019
 
 - c-016
@@ -1371,13 +1394,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=13fd3baa0da2cef5fb967b6a96dde4020614c8743b0901db61a4a8863db2f8eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje žemaičių pajėgos aiškinamos kaip nukreiptos prieš Ordiną.
     - t-011
 
 - c-018
@@ -1689,24 +1712,24 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 67276-67512; hash=880247c46264b0d5c2ef8a536f650af0ce0b155ea1ff0ba597882ee525b66018; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žemaičiai suteikė Kęstučiui vyrų, todėl tai tiesioginė parama.
     - t-029
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7e89927cf242213cf220dc1a996ffba22d7bdfc060b3f29206b1bc74296ae94; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių sutartį su Ordinu.
     - t-013
 
 - c-030
@@ -1771,13 +1794,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f77ec0f6d5be675320fd70eff54161ad9351844b5fd77a3c47177609570b522f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje pasakyta, kad kryžiuočiai atvyko prie Trakų.
     - t-026
     - t-002
     - t-033
@@ -1879,13 +1902,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 273389-273844; hash=a92aec460f4941b4e3a9cb6391fff2139fb57b962cd8b939dec4edf52844cfc0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nusako žemaičių priešiškumą Ordinui.
     - t-014
 
 - c-038
@@ -1920,13 +1943,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=13fd3baa0da2cef5fb967b6a96dde4020614c8743b0901db61a4a8863db2f8eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mindaugo karinės pajėgos citatoje aiškinamos kaip nukreiptos prieš Ordiną.
     - t-044
 
 - c-040
@@ -1990,13 +2013,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167878-168053; hash=764d985a715b12d1aa2047e5f7525c38e7a17f508780594f86235f3bdef49a52; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Žemaičių atidavimas Ordinui rodo jų priskyrimą Ordinui.
     - t-046
 
 - c-042
@@ -2056,13 +2079,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=558db1aaf4d4502b56685efa6501ef78f721a3e15c6b7657a713b87f449495f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dancigas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dancigas: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Dancigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Dancigas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dancigas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini žemaičių pardavimą Dancigui.
     - t-048
 
 - c-044
@@ -2279,13 +2302,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134669-135145; hash=49a0a0a23e366484d8b2e68e990f812fe38da9f2d613a176a002e6d8c0b15209; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.98
+  ryšio_patikimumas: valde -> Trakai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=30
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_family_person, person, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis valdė Trakus.
     - t-056
 
 - c-052
@@ -2307,13 +2330,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188813-189147; hash=54012244ccc08b918283721e3ac21d9305310d02515e22763807f3a2e58899f0; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vokiečiai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smurtas prieš Prūsijos vokiečius tiesiogiai rodo priešiškumą.
     - t-057
 
 - c-053
@@ -2337,25 +2360,70 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 188957-189382; hash=cd9a46c4b1029e4296c0f2fed28f3ad255922fd99d0a8102b3cd1cc2038b95ad; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Žemaičiai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas parėmė žemaičius.
     - t-058
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304889-305195; hash=abad4476c5a9d6b135cbc3cc9d9aedb37a42b0841f7817eb9e895ad0a4e2f92b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje žemaičiai aiškiai atėjo prie Trakų.
 
 ## Ryšiai
-- Žemaičiai susije_su [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kalavijuočių ordinas]] kariavo_pries Žemaičiai
+- Žemaičiai priklause [[objektai/grupes/Lietuviai]]
+- Žemaičiai puole [[objektai/vietos/Klaipėda]]
+- Žemaičiai sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Žemaičiai
+- Žemaičiai gyne [[objektai/grupes/Pagudėnai]]
+- Žemaičiai prekiavo_su [[objektai/vietos/Dancigas]]
+- Žemaičiai puole [[objektai/vietos/Kuršas]]
+- Žemaičiai gyne [[objektai/vietos/Medvėgalis]]
+- Žemaičiai puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Žemaičiai puole [[objektai/vietos/Memelis]]
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Žemaičiai
+- Žemaičiai puole [[objektai/vietos/Klaipėda Memelis]]
+- Žemaičiai dalyvavo_musyje [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
+- Žemaičiai priklause [[objektai/vietos/Lietuva]]
+- Žemaičiai puole [[objektai/vietos/Semba]]
+- Žemaičiai puole [[objektai/vietos/Skirsnemunė]]
+- Žemaičiai reme [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Žemaičiai reme [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- Žemaičiai sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Žemaičiai uzeme [[objektai/vietos/Klaipėda Memelis]]
+- Žemaičiai dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
+- Žemaičiai dalyvavo_musyje [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
+- Žemaičiai keliavo_i [[objektai/vietos/Trakai]]
+- Žemaičiai prekiavo_su [[objektai/vietos/Prūsai]]
+- Žemaičiai puole [[objektai/vietos/Durbė]]
+- Žemaičiai reme [[objektai/grupes/Sūduvos prūsai]]
+- Žemaičiai reme [[objektai/asmenys/Treniota]]
+- Žemaičiai surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Žemaičiai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Žemaičiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Žemaičiai puole [[objektai/vietos/Prūsija]]
+- Žemaičiai puole [[objektai/grupes/Vokiečiai]]
+- Žemaičiai uzeme [[objektai/vietos/Memelis]]
+- Žemaičiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Žemaičiai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Žemaičiai puole [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Žemaičiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Žemaičiai
+- Žemaičiai keliavo_i [[objektai/vietos/Vysla]]
+- [[objektai/grupes/Vokiečiai]] puole Žemaičiai
+- Žemaičiai buvo_priesas [[objektai/grupes/Vokiečiai]]
+- Žemaičiai buvo_sajungininkas_su [[objektai/grupes/Kuršiai]]
+- [[objektai/asmenys/Otonas]] kariavo_pries Žemaičiai
+- Žemaičiai kariavo_pries [[objektai/grupes/Kalavijuočių ordinas]]
+- Žemaičiai prekiavo_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Žemaičiai priklause [[objektai/grupes/Vokiečiai]]
+- Žemaičiai gyne [[objektai/vietos/Karšuva]]

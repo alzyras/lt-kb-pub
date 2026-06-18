@@ -63,19 +63,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškiai nusako seimų susirinkimą ir sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lomža; mentioned_place: Parčevas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lomža; mentioned_place: Parčevas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Viena; llm_object: Lomža'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 904236-904875; hash=abee78d98668e518cec58f7e0b9fc49eba26043b8795f2f6b593b5342d6c2140; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Lomža: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lomža: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių seimas po ginčų nutarė susitikti Lomžoje, todėl kryptis į Lomžą paremta.
 
 ## Reikšmingi paminėjimai
 
@@ -135,10 +135,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 904236-904875; hash=abee78d98668e518cec58f7e0b9fc49eba26043b8795f2f6b593b5342d6c2140; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Lomža: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lomža: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių seimas po ginčų nutarė susitikti Lomžoje, todėl kryptis į Lomžą paremta.

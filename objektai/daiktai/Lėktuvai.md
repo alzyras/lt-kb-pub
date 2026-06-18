@@ -64,6 +64,8 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Lėktuvai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lėktuvai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.).md#claim-t-20158|ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]: Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.
+- susijęs iš [[objektai/grupes/Lietuvos karo aviacija.md#claim-t-19876|Lietuvos karo aviacija]]: Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.
 - susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-183524|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse.
 - susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75692|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai, sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžius „Antanas nori būti ore“.
 - susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13449|ANBO lėktuvai]]: ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas.
@@ -120,3 +122,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Lėktuvai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lėktuvai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Antanas Gustaitis]] pastate Lėktuvai

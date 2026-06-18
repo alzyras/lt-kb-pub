@@ -32,7 +32,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   global_id: t-87898
   teiginys: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   sudarymo_pagrindimas: 'Citata perteikia pasakojimo teiginį apie Šventaragį, bet pradinis tekstas buvo fragmentiškas ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Šventaragis|Šventaragis]] valdė Lietuva; [[objektai/asmenys/Šventaragis|Šventaragis]] buvo sūnus [[objektai/asmenys/Germantas|Germantas]]'
   temporaliniai_duomenys: 'įvykio data: 1268 m.; įvykio data: apie 1268 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata perteikia pasakojimo teiginį apie Šventaragį, bet pradinis tekstas buvo fragmentiškas ir su OCR triukšmu.'
@@ -41,13 +42,15 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a3b30e9ad7bf8408473e29e8e979a87f4b2b6ca7d2025353a1687b3ac93c9aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Germantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Germantas: mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragis" parinktas kaip owner_note_path. Targetas "Germantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventaragis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aiškiai nurodo, kad Šventaragis viešpatavo Lietuvoje.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184703|Germantas]]: Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176370|Gediminas]]: Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui, siedami jį su medžiokle Šventaragio slėnyje ir geležinio vilko sapnu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176400|Gediminas]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas medžioklės metu Šventaragio slėnyje sapnavo geležinį vilką.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
@@ -198,13 +201,16 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a3b30e9ad7bf8408473e29e8e979a87f4b2b6ca7d2025353a1687b3ac93c9aa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Germantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventaragis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Germantas: mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventaragis" parinktas kaip owner_note_path. Targetas "Germantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventaragis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aiškiai nurodo, kad Šventaragis viešpatavo Lietuvoje.
 
 ## Ryšiai
-- Šventaragis keliavo_i [[objektai/vietos/Vilija]]
+- Šventaragis paskyre [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Germantas]] buvo_sunus Šventaragis
+- Šventaragis valde [[objektai/vietos/Lietuva]]
+- Šventaragis buvo_sunus [[objektai/asmenys/Germantas]]

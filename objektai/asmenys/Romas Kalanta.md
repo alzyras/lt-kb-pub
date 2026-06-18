@@ -93,7 +93,8 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Romas Kalanta|Romas Kalanta]] mirė Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'
@@ -102,13 +103,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478802-479069; hash=82e38ed84c338ec0432d6ed7413d408ca00f4c9835f36fe5fc2b08d0a0165ea5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: mire -> Kaunas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romas Kalanta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romas Kalanta" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romas Kalanta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo įvykio vietą Kaune ir kad Kalanta mirė ligoninėje; ligoninės vieta leidžiama tik per Kauno kandidatą.
 
 <a id="claim-t-183565"></a>
 - t-007
@@ -250,13 +251,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478802-479069; hash=82e38ed84c338ec0432d6ed7413d408ca00f4c9835f36fe5fc2b08d0a0165ea5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: mire -> Kaunas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romas Kalanta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romas Kalanta" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romas Kalanta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo įvykio vietą Kaune ir kad Kalanta mirė ligoninėje; ligoninės vieta leidžiama tik per Kauno kandidatą.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 479258-479550; hash=c6c0c8225c5b0ed06ab5b6db2200631390e05186216225379c9902251d5bb33b; match=whitespace_regex
@@ -272,3 +273,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Romas Kalanta: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romas Kalanta" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Romas Kalanta mire [[objektai/vietos/Kaunas]]

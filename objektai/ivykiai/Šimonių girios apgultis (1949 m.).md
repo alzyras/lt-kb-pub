@@ -42,7 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-67009
   teiginys: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; llm_object: [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -140,3 +141,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/NKVD]] dalyvavo_musyje Šimonių girios apgultis (1949 m.)

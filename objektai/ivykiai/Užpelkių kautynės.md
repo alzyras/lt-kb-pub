@@ -43,7 +43,8 @@ Nenurodyta
   global_id: t-39139
   teiginys: '1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Užpelkiai; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]'
+  susije_objektai: 'mentioned_place: Užpelkiai; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; llm_object: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]] dalyvavo mūšyje [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
@@ -52,13 +53,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Užpelkiai: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Užpelkių kautynės: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užpelkių kautynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Užpelkiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės" parinktas kaip owner_note_path. Targetas "Užpelkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Bartkus-Žadgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užpelkių kautynės: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje Petras Bartkus-Žadgaila minimas tarp žuvusiųjų tame kautynių įvykyje.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
@@ -94,10 +95,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Užpelkiai: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Užpelkių kautynės: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Užpelkių kautynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Užpelkiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės" parinktas kaip owner_note_path. Targetas "Užpelkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Bartkus-Žadgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Užpelkių kautynės: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje Petras Bartkus-Žadgaila minimas tarp žuvusiųjų tame kautynių įvykyje.
+
+## Ryšiai
+- [[objektai/asmenys/Petras Bartkus-Žadgaila]] dalyvavo_musyje Užpelkių kautynės

@@ -87,19 +87,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti autorystės formulę ir sutrumpinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Surminas|Surminas]] dalyvavo mūšyje [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 328265-328752; hash=f33b96fe0cebb79cfc3459981b56794164dbd52282cdd7fb84b81a222083eace; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Surminas: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys rodo, kad Surminas buvo pergalingos kovos dalyvis, nes joje neteko brolio.
 
 ## Reikšmingi paminėjimai
 
@@ -213,10 +214,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 328265-328752; hash=f33b96fe0cebb79cfc3459981b56794164dbd52282cdd7fb84b81a222083eace; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Surminas: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys rodo, kad Surminas buvo pergalingos kovos dalyvis, nes joje neteko brolio.
+
+## Ryšiai
+- [[objektai/asmenys/Surminas]] dalyvavo_musyje Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)

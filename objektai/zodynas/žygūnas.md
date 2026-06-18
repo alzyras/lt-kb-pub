@@ -110,19 +110,19 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas gramatiškai, paliekant tik citatos pagrįstus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Berezina; mentioned_place: Bizantija; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Berezina; mentioned_place: Bizantija; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 986937-987595; hash=c2273c701833c9a54a8e1658222cc3685e65884cefdb51aed3f5f870419d0535; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumas: paskyre -> Zaberezinskis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zaberezinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad Aleksandras pavedė Zaberezinskiui atlikti atsakymo užduotį.
 
 <a id="claim-t-185336"></a>
 - t-006
@@ -361,13 +361,13 @@ atnaujinta: ''
   irodymo_stiprumas: 0.00
   saltinio_vieta: 986937-987595; hash=c2273c701833c9a54a8e1658222cc3685e65884cefdb51aed3f5f870419d0535; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumas: paskyre -> Zaberezinskis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zaberezinskis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata rodo, kad Aleksandras pavedė Zaberezinskiui atlikti atsakymo užduotį.
     - t-006
 
 - c-007

@@ -354,3 +354,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 194599-194727; hash=c18437200fcf809e4c9e4d2b185043ddd354501aac4d6325aba1bb574d25cec2; match=whitespace_regex
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Adomas Mickevičius (poetas) keliavo_i [[objektai/vietos/Rusija]]
+- Adomas Mickevičius (poetas) gyveno [[objektai/vietos/Kaunas]]

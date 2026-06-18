@@ -21,19 +21,19 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
   global_id: t-20943
   teiginys: 'Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.'
   sudarymo_pagrindimas: 'Pradinis teiginys nėra paremtas citata, bet citata pagrindžia siauresnį faktinį teiginį.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Europa; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d91c221f4c6857f4fde18356b206d0937f4ca16b0ed81dd884fd7b56abe5b5f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „senoji“ „naujoji“ „naujausioji“ Viduramžių Europa: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Europa: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Viduramžių Europoje gyveno lietuviai.
 
 ## Reikšmingi paminėjimai
 
@@ -53,10 +53,10 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d91c221f4c6857f4fde18356b206d0937f4ca16b0ed81dd884fd7b56abe5b5f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „senoji“ „naujoji“ „naujausioji“ Viduramžių Europa: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Europa: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Viduramžių Europoje gyveno lietuviai.

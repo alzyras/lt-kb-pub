@@ -28,7 +28,7 @@ Dusburgietis teigia, kad labuda G.
   global_id: t-61125
   teiginys: 'G. Labudos publikacija apie baltų gyventojų apgyvendinimą kairiajame žemutinės Vyslos krante išspausdinta 1979 m. „Konferencja pomorska“ leidinyje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė fragmentiška; citata palaiko glaustą bibliografinį teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Vysla; llm_object: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1979 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė fragmentiška; citata palaiko glaustą bibliografinį teiginį.'
@@ -37,13 +37,13 @@ Dusburgietis teigia, kad labuda G.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 781797-781996; hash=e2bcea789139069c20ffe2d62fdbacfb52c2e1c8b66aca237f73cc105792fef4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: gyveno -> Vysla: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły we wczesnym średniowieczu Komunikat: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły we wczesnym średniowieczu Komunikat" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apie baltų gyventojų apgyvendinimą žemutinės Vyslos krante leidžia sieti baltų gyvenimą su Vyslos vietove, nors objektas apibendrintas iki Vyslos.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +62,10 @@ Dusburgietis teigia, kad labuda G.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 781797-781996; hash=e2bcea789139069c20ffe2d62fdbacfb52c2e1c8b66aca237f73cc105792fef4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: gyveno -> Vysla: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły we wczesnym średniowieczu Komunikat: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Labuda G. Zagadnienie osadnictwa ludności baltyjskiej na lewym brzegu dolnej Wisły we wczesnym średniowieczu Komunikat" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apie baltų gyventojų apgyvendinimą žemutinės Vyslos krante leidžia sieti baltų gyvenimą su Vyslos vietove, nors objektas apibendrintas iki Vyslos.

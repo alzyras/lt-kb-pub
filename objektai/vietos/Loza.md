@@ -30,7 +30,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   global_id: t-58701
   teiginys: 'Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Kaimas; llm_object: Loza'
+  semantiniai_rysiai: 'Kaimas priklausė Loza'
   temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata.'
@@ -39,13 +40,13 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=30874b4137e979e65922e9aa28b1555c1d82a7728d172c505def7c122d6b7439; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: priklause -> Loza: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loza: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loza" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaimas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Loza: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Lozos kaimą, tad kaimas tiesiogiai siejamas su Loza.
 - susijęs iš [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.).md#claim-t-59552|Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]: 1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
 - susijęs iš Chełmža: Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
 ## Reikšmingi paminėjimai
@@ -65,10 +66,13 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=30874b4137e979e65922e9aa28b1555c1d82a7728d172c505def7c122d6b7439; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: priklause -> Loza: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loza: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loza" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaimas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Loza: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Lozos kaimą, tad kaimas tiesiogiai siejamas su Loza.
+
+## Ryšiai
+- [[objektai/vietos/Kaimas]] priklause Loza

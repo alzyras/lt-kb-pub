@@ -54,7 +54,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   global_id: t-90291
   teiginys: 'Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą apibūdinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]]; mentioned_person: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_place: Prūsai; mentioned_place: Reinas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]]; mentioned_person: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_place: Prūsai; mentioned_place: Reinas; llm_object: [[objektai/asmenys/Pobravas|Pobravas]]'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -92,7 +92,8 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   global_id: t-90293
   teiginys: 'Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata remia sembų pasiuntinio kelionę į Baigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Baiga; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] siuntė į Baiga'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -161,13 +162,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pijopas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pijopas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Pijopas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Baiga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijopas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pijopas nurodytas apsiautęs Baigos pilį.
 
 <a id="claim-t-90297"></a>
 - t-008
@@ -180,13 +181,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-265092; hash=1a7ea2430beda353843bfd828bcb45eeb2576f0d9d9da0ef228e67f122f9d594; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumas: pastate -> Malūnas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Malūnas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Citatos „šie“ nurodo Baigos brolius, t. y. Ordino brolius, kurie pastatė malūną.
 
 <a id="claim-t-90298"></a>
 - t-009
@@ -212,26 +213,27 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   global_id: t-90299
   teiginys: 'Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia Varmės vyrų persikėlimą ir įtvirtinto malūno statybą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Varmė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Varmė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Prūsai; llm_object: [[objektai/daiktai/Malūnas|Malūnas]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ae4e8b5cb6664009c247c74a8e9e1497bccbab4e75eec364a993ca241c4b70f3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Baiga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembai tiesiogiai nurodyti pasiuntę vyresnįjį į Baigą.
 
 <a id="claim-t-90300"></a>
 - t-011
   global_id: t-90300
   teiginys: '1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį; citata remia užpuolikų įvardijimą ir pasikartojusius grobimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]'
+  susije_objektai: 'llm_object: Baiga; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] puolė Baiga; [[objektai/grupes/Bartai|Bartai]] puolė Baiga'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo neaiškų įvardį; citata remia užpuolikų įvardijimą ir pasikartojusius grobimus.'
@@ -253,19 +255,20 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   global_id: t-90301
   teiginys: 'Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Pijopo veiksmą ir žūtį prie Baigos pilies.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Pijopas|Pijopas]]'
+  susije_objektai: 'llm_object: Baiga; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Pijopas|Pijopas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Pijopas|Pijopas]] apgulė Baiga; [[objektai/asmenys/Pijopas|Pijopas]] mirė Baiga; [[objektai/grupes/Varmiai|Varmiai]] apgulė Baiga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25b3a9fab264b34373569dd7e67e07c416deec3ef5f8237f2e5d80dd007a6fbe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Baiga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bartai išvardyti tarp Baigą puolusių grupių.
 
 <a id="claim-t-90302"></a>
 - t-013
@@ -281,13 +284,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ginklanešiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: ginklanešiai: mention_match, thing, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "ginklanešiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pobravas tiesiogiai nurodytas susivienijęs su notangais.
 
 <a id="claim-t-90303"></a>
 - t-014
@@ -329,12 +332,20 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
-- susijęs iš [[objektai/asmenys/Ruseinis.md#claim-t-60199|Ruseinis]]: Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.
 - susijęs iš [[objektai/asmenys/Tame (Baigos brolis).md#claim-t-60444|Tame (Baigos brolis)]]: 1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.
+- susijęs iš [[objektai/asmenys/Pijopas.md#claim-t-60409|Pijopas]]: Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78539|Varmiai]]: Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.
+- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175267|Otokaras II]]: Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
+- susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
+- susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
+- susijęs iš Semba: Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-183961|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-59407|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
-- susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59737|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.
+- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
+- susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
+- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/asmenys/Jonas (Baigos vicekomtūras).md#claim-t-60339|Jonas (Baigos vicekomtūras)]]: Brolis Jonas, Baigos vicekomtūras, nepritarė sutarčiai ir ragino brolius drąsiai stoti į kovą.
 - susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
@@ -473,6 +484,18 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58773|papilys]]: 1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-184021|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
+- susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
+- susijęs iš [[objektai/asmenys/Pijopas.md#claim-t-60409|Pijopas]]: Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.
+- susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78545|Varmiai]]: Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.
+- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
+- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
+- susijęs iš [[objektai/asmenys/Kodrūnas.md#claim-t-60356|Kodrūnas]]: Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.
+- susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
+- susijęs iš [[objektai/daiktai/Įtvirtintas malūnas prie Baigos.md#claim-t-59710|Įtvirtintas malūnas prie Baigos]]: Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -520,13 +543,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25b3a9fab264b34373569dd7e67e07c416deec3ef5f8237f2e5d80dd007a6fbe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Baiga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bartai išvardyti tarp Baigą puolusių grupių.
     - t-005
 
 - c-003
@@ -601,13 +624,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-265092; hash=1a7ea2430beda353843bfd828bcb45eeb2576f0d9d9da0ef228e67f122f9d594; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumas: pastate -> Malūnas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Malūnas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Citatos „šie“ nurodo Baigos brolius, t. y. Ordino brolius, kurie pastatė malūną.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c114f3f0316706677cf8d449970d75ba3fbdf214fdc8a002829628a1917e5fe; match=fallback; occurrences=0
@@ -719,13 +742,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ginklanešiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: ginklanešiai: mention_match, thing, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "ginklanešiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pobravas tiesiogiai nurodytas susivienijęs su notangais.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ff1b4606a90282dde5d0142ad22ec902cc6d304d1f31aa39487265b3d5e0d91; match=fallback; occurrences=0
@@ -755,13 +778,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ginklanešiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: ginklanešiai: mention_match, thing, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "ginklanešiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Notangai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pobravas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Pobravas buvo susivienijęs su notangais.
     - t-006
 
 - c-010
@@ -823,13 +846,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ae4e8b5cb6664009c247c74a8e9e1497bccbab4e75eec364a993ca241c4b70f3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Baiga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembai tiesiogiai nurodyti pasiuntę vyresnįjį į Baigą.
     - t-001
 
 - c-012
@@ -905,13 +928,13 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pijopas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baiga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pijopas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Pijopas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Baiga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijopas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pijopas nurodytas apsiautęs Baigos pilį.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 260081-260641; hash=4832909fc7dc2b9cc46c9b25ad0923dbb83c223697cdcf79b8b506af2ef1651b; match=exact
@@ -925,6 +948,27 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baiga" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Baiga
-- [[objektai/asmenys/Ruseinis]] keliavo_i Baiga
 - [[objektai/asmenys/Tame (Baigos brolis)]] gyveno Baiga
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Baiga
+- [[objektai/asmenys/Pijopas]] apgule Baiga
+- [[objektai/grupes/Sembai]] siunte_i Baiga
+- [[objektai/grupes/Bartai]] puole Baiga
+- [[objektai/grupes/Notangai]] puole Baiga
+- [[objektai/asmenys/Otokaras II]] keliavo_i Baiga
+- [[objektai/asmenys/Skumas]] surenge_zygi_i Baiga
+- [[objektai/asmenys/Stucė]] surenge_zygi_i Baiga
+- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Baiga
+- [[objektai/asmenys/Pijopas]] mire Baiga
+- [[objektai/asmenys/Ruseinis]] keliavo_i Baiga
+- [[objektai/grupes/Vokietijos maldininkai]] gyne Baiga
+- Baiga priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Stucė]] keliavo_i Baiga
+- [[objektai/grupes/Varmiai]] apgule Baiga
+- [[objektai/grupes/Gubučiai]] puole Baiga
+- [[objektai/asmenys/Pobravas]] siunte_i Baiga
+- [[objektai/asmenys/Pomandas]] apgule Baiga
+- [[objektai/grupes/Varmiai]] keliavo_i Baiga
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Baiga
+- [[objektai/asmenys/Pobravas]] puole Baiga
+- [[objektai/asmenys/Kodrūnas]] uzeme Baiga
+- [[objektai/daiktai/Įtvirtintas malūnas prie Baigos]] priklause Baiga

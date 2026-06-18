@@ -44,19 +44,20 @@ Nenurodyta
   global_id: t-59688
   teiginys: 'Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Marienburgas; llm_object: [[objektai/daiktai/Karo pabūklai|Karo pabūklai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] pastatė [[objektai/daiktai/Karo pabūklai|Karo pabūklai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karo pabūklai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karo pabūklai" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gerhardo gyvenimą Marienburgo pilyje.
 
 ## Reikšmingi paminėjimai
 
@@ -83,10 +84,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karo pabūklai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karo pabūklai" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gerhardo gyvenimą Marienburgo pilyje.
+
+## Ryšiai
+- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] pastate Karo pabūklai

@@ -22,20 +22,20 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   global_id: t-60400
   teiginys: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Otono pareigas, mirtį ir palaidojimą.'
-  susije_objektai: 'burial_place: Akonas; location: Akonas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Akonas'
+  susije_objektai: 'llm_object: Akonas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Akonas'
   semantiniai_rysiai: '[[objektai/asmenys/Otonas|Otonas]] buvo palaidotas Akonas; [[objektai/asmenys/Otonas|Otonas]] mirė Akonas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=52fb4ae3758c9c074695315750b1f9e0e6d5f54a51adadee1dc603b2767a4634; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.99
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Otonas: owner_note_path, person, gap=82
-  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Otonas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Otonas palaidotas Akone.
 
 <a id="claim-t-184812"></a>
 - t-002
@@ -45,19 +45,20 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, tačiau teiginį reikia sutrumpinti ir pašalinti nereikalingą atribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Otonas|Otonas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Otonas|Otonas]] kariavo prieš [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otonas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otonas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje lietuviai ir žemaičiai kovojo su Otonu; kryptis iš Otono į lietuvius pagrįsta kaip karo priešprieša.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
@@ -108,26 +109,28 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=52fb4ae3758c9c074695315750b1f9e0e6d5f54a51adadee1dc603b2767a4634; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.99
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Otonas: owner_note_path, person, gap=82
-  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Otonas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Otonas palaidotas Akone.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otonas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otonas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Otonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje lietuviai ir žemaičiai kovojo su Otonu; kryptis iš Otono į lietuvius pagrįsta kaip karo priešprieša.
 
 ## Ryšiai
 - Otonas buvo_palaidotas [[objektai/vietos/Akonas]]
-- Otonas mire [[objektai/vietos/Akonas]]
 - Otonas keliavo_i [[objektai/vietos/Prūsija]]
+- Otonas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Otonas kariavo_pries [[objektai/grupes/Žemaičiai]]
+- Otonas mire [[objektai/vietos/Akonas]]

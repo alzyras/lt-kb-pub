@@ -41,7 +41,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   global_id: t-169699
   teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie LDK ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Rygos vyskupija|Rygos vyskupija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Rygos vyskupija|Rygos vyskupija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] priklausė [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; [[objektai/grupes/Rygos vyskupija|Rygos vyskupija]] priklausė [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]'
   temporaliniai_duomenys: 'įvykio data: 1559 m.; įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie LDK ir atitinka citatą.'
@@ -126,19 +127,19 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinis vertinimas reikalauja aiškios metraščio atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 300995-301504; hash=da4d260523070393c61f14e63071dc727c795da0cfddd738a1b3260dc68b4f54; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Lietuvos kariuomenė tiesiogiai siejama su totorių nukovimu ir paėmimu, todėl ryšys rodo karinį veikimą prieš totorius.
 
 <a id="claim-t-187719"></a>
 - t-008
@@ -157,13 +158,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310667-311221; hash=b85f459d931d8dbadac4a4373d05214655fb435b2a73ef155476c1ebc79c6b11; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad didesnė Livonijos dalis tapo Lietuvos dalimi.
 
 <a id="claim-t-187720"></a>
 - t-009
@@ -173,19 +174,20 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pataisyta į aiškų sakinį be OCR klaidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Smolenskas; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Smolenskas; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 443199-443420; hash=201d7342cc19e5f336b0dfae6b29f8ee666066c9e59f9af83f14affc5230498d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos Didžioji Kunigaikštystė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuvos Didžioji Kunigaikštystė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smolensko prijungimas prie LDK tiesiogiai pagrindžia priklausymo LDK ryšį.
 
 <a id="claim-t-187721"></a>
 - t-010
@@ -434,13 +436,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 300995-301504; hash=da4d260523070393c61f14e63071dc727c795da0cfddd738a1b3260dc68b4f54; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Lietuvos kariuomenė tiesiogiai siejama su totorių nukovimu ir paėmimu, todėl ryšys rodo karinį veikimą prieš totorius.
     - t-008
 
 - c-009
@@ -459,13 +461,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310667-311221; hash=b85f459d931d8dbadac4a4373d05214655fb435b2a73ef155476c1ebc79c6b11; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad didesnė Livonijos dalis tapo Lietuvos dalimi.
     - t-009
 
 - c-010
@@ -486,13 +488,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 443199-443420; hash=201d7342cc19e5f336b0dfae6b29f8ee666066c9e59f9af83f14affc5230498d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos Didžioji Kunigaikštystė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuvos Didžioji Kunigaikštystė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Smolensko prijungimas prie LDK tiesiogiai pagrindžia priklausymo LDK ryšį.
     - t-010
 
 - c-011
@@ -526,3 +528,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštystė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Smolenskas]] priklause Lietuvos Didžioji Kunigaikštystė
+- [[objektai/grupes/Livonijos ordinas]] priklause Lietuvos Didžioji Kunigaikštystė
+- [[objektai/grupes/Rygos vyskupija]] priklause Lietuvos Didžioji Kunigaikštystė

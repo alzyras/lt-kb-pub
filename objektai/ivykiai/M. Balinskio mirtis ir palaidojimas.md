@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-86956
   teiginys: '1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'
-  susije_objektai: 'location: Jašiūnai; burial_place: Jašiūnai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Balinskis mirė Jašiūnai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'
@@ -53,13 +53,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Jašiūnai: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: nearest_actor, person, gap=32
-  ryšio_targeto_parinkimas: Jašiūnai: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Aleksandras Balinskis" parinktas kaip nearest_actor. Targetas "Jašiūnai" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio mirtis ir palaidojimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio mirtis ir palaidojimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Jašiūnai: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: nearest_actor, person, gap=32
-  ryšio_targeto_parinkimas: Jašiūnai: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Aleksandras Balinskis" parinktas kaip nearest_actor. Targetas "Jašiūnai" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio mirtis ir palaidojimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio mirtis ir palaidojimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

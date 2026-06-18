@@ -99,3 +99,6 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   ryšio_subjekto_parinkimas: Joachimas (Pskovo vietininkas): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Joachimas (Pskovo vietininkas)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Joachimas (Pskovo vietininkas) sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]

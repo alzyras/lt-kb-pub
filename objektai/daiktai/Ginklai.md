@@ -375,3 +375,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Ginklai priklause [[objektai/grupes/Kuršiai]]
+- Ginklai priklause [[objektai/vietos/Lenkijos karalystė]]
+- Ginklai priklause [[objektai/grupes/Žiemgaliai]]
+- Ginklai priklause [[objektai/vietos/Tikocinas]]
+- Ginklai priklause [[objektai/grupes/Lietuvos kariuomenė]]

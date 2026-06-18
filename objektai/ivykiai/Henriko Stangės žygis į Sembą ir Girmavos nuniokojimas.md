@@ -47,7 +47,8 @@ Nenurodyta
   global_id: t-66560
   teiginys: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį, remiantis citatos nuoroda į komtūro brolį.'
-  susije_objektai: 'family: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; llm_object: [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas|Hermanas]] dalyvavo mūšyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -75,13 +76,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 339627-339992; hash=5545166c916cf75c127e374fedb7651195272e59da48a621e49be79641913c58; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Hermanas: 0.92
+  ryšio_patikimumas: dalyvavo_musyje -> Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Hermanas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip nearest_actor. Targetas "Hermanas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Hermano stojimą į kovą tame įvykyje.
 
 <a id="claim-t-66562"></a>
 - t-003
@@ -177,10 +178,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 339627-339992; hash=5545166c916cf75c127e374fedb7651195272e59da48a621e49be79641913c58; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Hermanas: 0.92
+  ryšio_patikimumas: dalyvavo_musyje -> Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Hermanas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip nearest_actor. Targetas "Hermanas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Hermano stojimą į kovą tame įvykyje.
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas]] dalyvavo_musyje Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas

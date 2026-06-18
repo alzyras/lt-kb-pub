@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-87638
   teiginys: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
   sudarymo_pagrindimas: 'Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1408 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams.'
@@ -41,13 +41,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Pamaldusis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Pamaldusis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo žydų tautos gyventojus Didžiojoje Lenkijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Pamaldusis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Pamaldusis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo žydų tautos gyventojus Didžiojoje Lenkijoje.

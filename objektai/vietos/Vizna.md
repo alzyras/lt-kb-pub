@@ -62,10 +62,13 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   ryšio_subjekto_parinkimas: Vizna: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizna" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59871|Meinhardas Saksas iš Kverfurto]]: 1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.
 - susijęs iš [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.).md#claim-t-62533|Viznos pilies sugriovimas (1294 m.)]]: 1294 m. magistras Meinhardas subūrė daug karių, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė iš pamatų.
 - susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
+- susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.
+- susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.
 - susijęs iš [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.).md#claim-t-66801|Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]: 1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.
 - susijęs iš Rusų Maskvos sąvadas: Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjo vokiečiai, įvyko didelis mūšis ir nugalėjo Lietuva.
@@ -74,6 +77,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
+- susijęs iš Narevas: Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,3 +139,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   ryšio_subjekto_parinkimas: Vizna: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizna" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] uzeme Vizna
+- [[objektai/grupes/Lietuviai]] puole Vizna
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] valde Vizna

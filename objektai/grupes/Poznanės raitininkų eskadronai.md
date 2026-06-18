@@ -22,19 +22,20 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
   global_id: t-38997
   teiginys: 'Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Poznanės raitininkų eskadronus su Panerių mūšio sukilėlių pajėgomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Trakai; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]] priklausė Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poznanės raitininkų eskadronai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poznanės raitininkų eskadronai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Poznanės raitininkų eskadronai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Poznanės raitininkų eskadronai išvardyti Lenkijos sukilėlių dalinių sąraše.
 - susijęs iš [[objektai/grupes/Kališo raitelių dalinys.md#claim-t-38961|Kališo raitelių dalinys]]: Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
@@ -66,10 +67,13 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poznanės raitininkų eskadronai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poznanės raitininkų eskadronai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Poznanės raitininkų eskadronai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Poznanės raitininkų eskadronai išvardyti Lenkijos sukilėlių dalinių sąraše.
+
+## Ryšiai
+- Poznanės raitininkų eskadronai priklause [[objektai/vietos/Lenkija]]

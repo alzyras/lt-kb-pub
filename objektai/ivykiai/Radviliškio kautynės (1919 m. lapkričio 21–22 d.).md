@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-66848
   teiginys: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   sudarymo_pagrindimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]; llm_object: [[objektai/grupes/Bermontininkai|Bermontininkai]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-66849
   teiginys: '1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]; mentioned_place: Pašiaušė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]; mentioned_place: Pašiaušė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'

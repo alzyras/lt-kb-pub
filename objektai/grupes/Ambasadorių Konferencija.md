@@ -48,20 +48,20 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 292290-292800; hash=4c8c9fcc5160326c02ec39dfb17f70520203534d15c9dcf07a6730c0af2f33f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ambasadorių Konferencija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ambasadorių Konferencija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilnius liko Lenkijos pusėje.
 
 <a id="claim-t-152691"></a>
 - t-003
   global_id: t-152691
   teiginys: '1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai perteikia Ambasadorių konferencijos sprendimą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Rusija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Rusija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai perteikia Ambasadorių konferencijos sprendimą.'
@@ -216,13 +216,13 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 292290-292800; hash=4c8c9fcc5160326c02ec39dfb17f70520203534d15c9dcf07a6730c0af2f33f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ambasadorių Konferencija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ambasadorių Konferencija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilnius liko Lenkijos pusėje.
     - t-001
 
 - c-004

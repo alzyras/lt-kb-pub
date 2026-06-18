@@ -72,7 +72,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   global_id: t-172852
   teiginys: 'Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Marienburgas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; llm_object: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] rėmė [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -100,7 +101,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   global_id: t-172855
   teiginys: 'Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo sutvarkyti OCR.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] rėmė [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -144,13 +146,13 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 640614-641624; hash=cfe414358cf2e7c65937bbed0cab5567ff2fff80db84474c40e665c80ac9d476; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: reme -> Vilniaus pirkliai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirkliai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Muito laikinas atleidimas tiesiogiai taikomas Vilniaus pirkliams, nors tai administracinė parama.
 
 <a id="claim-t-172858"></a>
 - t-008
@@ -163,13 +165,14 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 642738-643038; hash=6fe59fc074e8ae77d27551cf6a162426c319aafa17392b3eaea76cc168c9930c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirkliai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vilniaus pirkliai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Radvila užstojo Vilniaus pirklius ir gyventojus muito ginče.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113893|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.
 - susijęs iš [[objektai/asmenys/Eustachijus Sidorovičius.md#claim-t-87664|Eustachijus Sidorovičius]]: Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.
 - susijęs iš [[objektai/asmenys/Grigalius Čiškovičius.md#claim-t-87682|Grigalius Čiškovičius]]: Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113893|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.
@@ -423,13 +426,13 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 640614-641624; hash=cfe414358cf2e7c65937bbed0cab5567ff2fff80db84474c40e665c80ac9d476; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: reme -> Vilniaus pirkliai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirkliai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Muito laikinas atleidimas tiesiogiai taikomas Vilniaus pirkliams, nors tai administracinė parama.
     - t-008
 
 - c-007
@@ -460,13 +463,13 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 642738-643038; hash=6fe59fc074e8ae77d27551cf6a162426c319aafa17392b3eaea76cc168c9930c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirkliai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vilniaus pirkliai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Radvila užstojo Vilniaus pirklius ir gyventojus muito ginče.
     - t-004
 
 - c-008
@@ -504,3 +507,9 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   ryšio_subjekto_parinkimas: Vilniaus pirkliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=92
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirkliai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]] reme Vilniaus pirkliai
+- [[objektai/asmenys/Radvila]] reme Vilniaus pirkliai
+- [[objektai/asmenys/Steponas Batoras]] reme Vilniaus pirkliai
+- Vilniaus pirkliai buvo_priesas [[objektai/asmenys/Stanislovas Sabina]]

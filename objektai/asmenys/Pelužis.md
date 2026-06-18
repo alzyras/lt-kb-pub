@@ -34,19 +34,20 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   global_id: t-90002
   teiginys: 'Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.'
   sudarymo_pagrindimas: 'Pirminis teiginys nemini objekto; citata palaiko aiškų faktą apie Pelužio veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena; llm_object: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Pelužis|Pelužis]] buvo sąjungininkas su [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Semba: 0.99
+  ryšio_patikimumas: keliavo_i -> Semba: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=48
-  ryšio_targeto_parinkimas: Semba: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pelužis tiesiogiai nurodytas atvykęs pas Sembos žemės brolius.
 
 <a id="claim-t-90003"></a>
 - t-002
@@ -62,20 +63,20 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> komtūras: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Martynas iš Golino: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: komtūras: mention_match, thing, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "komtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Martynas buvo paskirtas veikti kartu su Pelužiu keršto žygyje.
 
 <a id="claim-t-90004"></a>
 - t-003
   global_id: t-90004
   teiginys: 'Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Pelužio veiksmus.'
-  susije_objektai: 'location: Semba; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Semba; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Pelužis|Pelužis]] keliavo į Semba'
   pagrindžia:
     - c-001
@@ -133,10 +134,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=80
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
-- susijęs iš [[objektai/asmenys/Stavimėlas.md#claim-t-60439|Stavimėlas]]: Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.
-- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
@@ -147,6 +145,9 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184699|Gediminas]]: Kojelavičius Pelužį laikė Gediminą niekinusių pasakojimų dingstimi, bet rusų metraštininkai Gediminą vadino Vytenio sūnumi.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63913|Martynas iš Golino]]: Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.
+- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-184655|Albertas iš Meiseno]]: Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.
+- susijęs iš [[objektai/asmenys/Stavimėlas.md#claim-t-60439|Stavimėlas]]: Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -201,13 +202,13 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Semba: 0.99
+  ryšio_patikimumas: keliavo_i -> Semba: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=48
-  ryšio_targeto_parinkimas: Semba: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pelužis tiesiogiai nurodytas atvykęs pas Sembos žemės brolius.
     - t-002
 
 - c-003
@@ -229,13 +230,13 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> komtūras: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Martynas iš Golino: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pelužis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: komtūras: mention_match, thing, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pelužis" parinktas kaip owner_note_path. Targetas "komtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Martynas buvo paskirtas veikti kartu su Pelužiu keršto žygyje.
     - t-004
 
 - c-004
@@ -283,6 +284,10 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 
 ## Ryšiai
 - Pelužis keliavo_i [[objektai/vietos/Semba]]
-- [[objektai/asmenys/Konradas, vardu Divelis]] paskyre Pelužis
-- [[objektai/asmenys/Stavimėlas]] paskyre Pelužis
-- [[objektai/asmenys/Martynas iš Golino]] paskyre Pelužis
+- [[objektai/grupes/Kryžiuočių ordinas]] reme Pelužis
+- Pelužis puole [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
+- [[objektai/asmenys/Martynas iš Golino]] buvo_sajungininkas_su Pelužis
+- Pelužis puole [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]
+- [[objektai/asmenys/Albertas iš Meiseno]] reme Pelužis
+- [[objektai/asmenys/Stavimėlas]] buvo_sajungininkas_su Pelužis
+- Pelužis buvo_sajungininkas_su [[objektai/asmenys/Martynas iš Golino]]

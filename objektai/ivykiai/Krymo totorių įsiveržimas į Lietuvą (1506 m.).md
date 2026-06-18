@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-41286
   teiginys: 'Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.'
-  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius'
+  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius; llm_object: Nesvyžius; llm_object: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -74,13 +74,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8676523b51d02d8258a1b6fd047bc3175dcd5bfffcd0e793c1b50179bbc1e0f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumas: puole -> Nesvyžius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių įsiveržimas į Lietuvą (1506 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių įsiveržimas į Lietuvą (1506 m.)" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nesvyžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad totoriai vykdė išpuolius kryptimis, tarp kurių buvo Nesvyžius.
 
 ## Reikšmingi paminėjimai
 
@@ -127,13 +127,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8676523b51d02d8258a1b6fd047bc3175dcd5bfffcd0e793c1b50179bbc1e0f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumas: puole -> Nesvyžius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių įsiveržimas į Lietuvą (1506 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių įsiveržimas į Lietuvą (1506 m.)" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Nesvyžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad totoriai vykdė išpuolius kryptimis, tarp kurių buvo Nesvyžius.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304943-305356; hash=438e2b8676bd996a887a19a626c009a8f475d71ac7697b550b8309d07a23b5e5; match=whitespace_regex

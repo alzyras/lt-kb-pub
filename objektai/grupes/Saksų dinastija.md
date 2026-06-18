@@ -35,7 +35,8 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   global_id: t-20000
   teiginys: 'Valdant Saksų dinastijai 1697–1763 m. Lietuva tapo Šiaurės karo tarp Rusijos ir Švedijos kovų arena.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis faktinis sakinys apie Saksų dinastijos valdymo laikotarpį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Saksų dinastija|Saksų dinastija]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1697-1763; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis faktinis sakinys apie Saksų dinastijos valdymo laikotarpį.'
@@ -44,13 +45,13 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121070-121973; hash=ec66c0901c2058d34232f33984d25d4d7042c53b3cd19ae7b095227a29787c76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saksų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saksų dinastija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saksų dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo laikotarpį, kai valdė Saksų dinastija, o teiginys kalba apie Lietuvą.
 
 <a id="claim-t-20001"></a>
 - t-002
@@ -129,21 +130,24 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121070-121973; hash=ec66c0901c2058d34232f33984d25d4d7042c53b3cd19ae7b095227a29787c76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saksų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saksų dinastija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saksų dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Lietuvos būklę sieja su Saksų dinastijos valdymu.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121070-121973; hash=ec66c0901c2058d34232f33984d25d4d7042c53b3cd19ae7b095227a29787c76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saksų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saksų dinastija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saksų dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo laikotarpį, kai valdė Saksų dinastija, o teiginys kalba apie Lietuvą.
+
+## Ryšiai
+- Saksų dinastija valde [[objektai/vietos/Lietuva]]

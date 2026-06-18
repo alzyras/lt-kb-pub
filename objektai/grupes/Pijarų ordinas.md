@@ -28,13 +28,13 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d987c85e2ad0cf10da53c6c90ec122c3c4060e2009fc2a98fd2d3ac961bc0ea3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijarų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Pijarų ordinas atsikraustė į Lietuvą.
 
 <a id="claim-t-72602"></a>
 - t-002
@@ -46,19 +46,20 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumas: gyveno -> Vitebskas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijarų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Pijarų mokyklų vietas ir aiškina, kad pijarai gyveno ten, kur buvo jų mokyklų; Vitebskas yra viena iš tų vietų.
 
 <a id="claim-t-72604"></a>
 - t-003
   global_id: t-72604
   teiginys: 'XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Pijarų ordinas|Pijarų ordinas]] keliavo į Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -76,7 +77,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 - t-004
   global_id: t-72605
   teiginys: 'Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.'
-  susije_objektai: 'mentioned_place: Vitebskas; mentioned_place: Želviai'
+  susije_objektai: 'mentioned_place: Vitebskas; mentioned_place: Želviai; llm_object: Vitebskas; llm_object: Želviai'
+  semantiniai_rysiai: '[[objektai/grupes/Pijarų ordinas|Pijarų ordinas]] gyveno Vitebskas; [[objektai/grupes/Pijarų ordinas|Pijarų ordinas]] gyveno Želviai'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -119,13 +121,13 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumas: gyveno -> Vitebskas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijarų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Pijarų mokyklų vietas ir aiškina, kad pijarai gyveno ten, kur buvo jų mokyklų; Vitebskas yra viena iš tų vietų.
     - t-003
 
 - c-003
@@ -169,14 +171,19 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d987c85e2ad0cf10da53c6c90ec122c3c4060e2009fc2a98fd2d3ac961bc0ea3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijarų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Pijarų ordinas atsikraustė į Lietuvą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 693887-694313; hash=3eda857bf5008ca7f077c7a16b4272bb4878edbaecfc3e11b986314cd1ca5578; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Pijarų ordinas keliavo_i [[objektai/vietos/Lietuva]]
+- Pijarų ordinas gyveno [[objektai/vietos/Vitebskas]]
+- Pijarų ordinas gyveno [[objektai/vietos/Želviai]]

@@ -29,27 +29,28 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   global_id: t-60201
   teiginys: 'Samboras su Pomeranijos kunigaikščiu ir ginklanešiais užstojo kelius prūsams, kad šie negalėtų pasprukti.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet turi šaltinio boilerplate ir vertinamųjų fragmentų.'
-  susije_objektai: 'mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] buvo brolis [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.83
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Samboras: owner_note_path, person, gap=56
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Samboras" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste Samboras su kitais atvyko į Prūsiją.
 
 <a id="claim-t-60202"></a>
 - t-002
   global_id: t-60202
   teiginys: 'Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia Samboro dalyvavimą žygyje ir pilies sustiprinimą.'
-  susije_objektai: 'location: Prūsija; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsija'
+  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla; llm_object: Prūsija; llm_object: Marienverderis'
+  semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsija; [[objektai/asmenys/Samboras|Samboras]] pastatė Marienverderis'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Samboras keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia Samboro dalyvavimą žygyje ir pilies sustiprinimą.'
@@ -58,13 +59,13 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=182c70a66d551343436744bf5233258405606512a243ee793e3920b6c710c9e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pomeranija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Samboras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Samboras" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Samborą Pomeranijos kunigaikščio broliu.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60063|Samboras (Sventopelko sūnus)]]: Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.
 ## Reikšmingi paminėjimai
 
@@ -131,24 +132,26 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.83
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Samboras: owner_note_path, person, gap=56
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Samboras" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste Samboras su kitais atvyko į Prūsiją.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=182c70a66d551343436744bf5233258405606512a243ee793e3920b6c710c9e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pomeranija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Samboras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Samboras" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Sventopelkas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Samboras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Samborą Pomeranijos kunigaikščio broliu.
 
 ## Ryšiai
+- Samboras buvo_brolis [[objektai/asmenys/Sventopelkas]]
 - Samboras keliavo_i [[objektai/vietos/Prūsija]]
+- Samboras pastate [[objektai/vietos/Marienverderis]]

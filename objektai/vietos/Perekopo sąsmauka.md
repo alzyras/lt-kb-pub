@@ -20,19 +20,19 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 - t-001
   global_id: t-42021
   teiginys: 'Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Perekopas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Perekopas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Krymas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perekopas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perekopo sąsmauka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Perekopas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perekopo sąsmauka" parinktas kaip owner_note_path. Targetas "Perekopas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Krymo pusiasalis apibūdinamas kaip pagrindinė totorių buveinė.
 
 <a id="claim-t-183799"></a>
 - t-002
@@ -42,19 +42,19 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas iki aiškaus enciklopedinio teiginio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Perekopas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Perekopas; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Krymas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perekopo sąsmauka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perekopo sąsmauka" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymo pusiasalis nurodytas kaip pagrindinė totorių buveinė.
 
 ## Reikšmingi paminėjimai
 
@@ -83,21 +83,21 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perekopo sąsmauka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perekopo sąsmauka" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymo pusiasalis nurodytas kaip pagrindinė totorių buveinė.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Perekopas: 0.85
+  ryšio_patikimumas: gyveno -> Krymas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perekopo sąsmauka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Perekopas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perekopo sąsmauka" parinktas kaip owner_note_path. Targetas "Perekopas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Krymo pusiasalis apibūdinamas kaip pagrindinė totorių buveinė.

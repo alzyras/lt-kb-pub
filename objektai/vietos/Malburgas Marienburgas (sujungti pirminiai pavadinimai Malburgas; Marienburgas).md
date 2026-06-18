@@ -39,20 +39,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Malburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Malburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)" parinktas kaip owner_note_path. Targetas "Malburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Malburgą / Marienburgą pastatė kryžiuočiai.
 
 <a id="claim-t-86150"></a>
 - t-002
   global_id: t-86150
   teiginys: 'Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.'
   sudarymo_pagrindimas: 'Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą.'
-  susije_objektai: 'mentioned_place: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas); mentioned_place: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)'
   temporaliniai_duomenys: 'pastatymo data: 1281 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą.'
@@ -181,13 +182,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Malburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Malburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)" parinktas kaip owner_note_path. Targetas "Malburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Malburgą / Marienburgą pastatė kryžiuočiai.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 640746-641874; hash=e9c85d52b37dd94387fa3d10640ba9b81018672a485b5069447c3b25cdcae25a; match=whitespace_regex
@@ -199,3 +200,6 @@ amziai:
   ryšio_subjekto_parinkimas: Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)

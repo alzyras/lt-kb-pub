@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=239a2246da33b1f495815034d14c482d70a277686f897971fa20327622a43fbe; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Habdankas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habdankas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Bajorai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Habdankas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Habdanką kaip lenkų bajorų herbą.
 
 <a id="claim-t-186863"></a>
 - t-002
@@ -63,7 +63,8 @@ Nenurodyta
   teiginys: 'Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; llm_object: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Habdankas|Habdankas]] priklausė [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -121,10 +122,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=239a2246da33b1f495815034d14c482d70a277686f897971fa20327622a43fbe; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Habdankas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habdankas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Bajorai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Habdankas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Habdanką kaip lenkų bajorų herbą.
+
+## Ryšiai
+- Habdankas priklause [[objektai/grupes/Bajorai]]

@@ -53,19 +53,20 @@ Nenurodyta
   teiginys: 'Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mūšio reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Dniestras; mentioned_place: Europa'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Dniestras; mentioned_place: Europa'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] dalyvavo mūšyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181309-181796; hash=363ae943c2cc0a31129d057d8c67926a501f4b5afaadfae95c13ca051e7e9fa1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Mėlynųjų Vandenų mūšis (1362 m.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų tiesiogiai rodo Algirdo dalyvavimą šiame mūšyje.
 
 <a id="claim-t-10254"></a>
 - t-002
@@ -73,26 +74,26 @@ Nenurodyta
   teiginys: 'Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją istorinei tradicijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kanevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kanevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė; llm_object: Kanevas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sakinys nurodo, kad Algirdas su pajėgomis sumušė totorius.
 
 <a id="claim-t-10255"></a>
 - t-003
   global_id: t-10255
   teiginys: 'Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Motiejus Strijkovskis|Motiejus Strijkovskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Tverė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -112,7 +113,8 @@ Nenurodyta
   teiginys: 'Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys aiškiau sietų faktą su mūšiu ir išlaikytų šaltinyje nurodytą atsargumą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] dalyvavo mūšyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m.; įvykio data: 1363 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys aiškiau sietų faktą su mūšiu ir išlaikytų šaltinyje nurodytą atsargumą.'
@@ -121,13 +123,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata perteikia tradiciją, kad Algirdas su savo pajėgomis sumušė totorius.
 
 <a id="claim-t-186372"></a>
 - t-005
@@ -141,6 +143,13 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo šaltinio poziciją ir yra paremtas citata.'
   pagrindžia:
     - c-002
+- susijęs iš Trumpoji Lietuvos metraščių redakcija: Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172892|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.
+- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172886|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.
+- susijęs iš Dniepras: Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį.
+- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172883|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas prie Mėlynųjų Vandenų sumušė totorius, žygiuodamas Padniepre pro Kanevą ir Čerkasus.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172886|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis pateikė istorine tradicija grindžiamų detalių apie Algirdo pergalę prieš totorius prie Mėlynųjų Vandenų.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172892|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.
@@ -162,6 +171,14 @@ Nenurodyta
 - susijęs iš Mėlynieji Vandenys: Rogožos metraštyje prie 1363 m. nurodoma, kad Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
+- susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.
+- susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171344|Karijotaičiai]]: Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.
+- susijęs iš Trumpoji Lietuvos metraščių redakcija: Trumpojoje Lietuvos metraščių redakcijoje įrašytas „Pasakojimas apie Podolę“ yra plačiausias šaltinis apie Mėlynųjų Vandenų temą.
+- susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -213,13 +230,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 181309-181796; hash=363ae943c2cc0a31129d057d8c67926a501f4b5afaadfae95c13ca051e7e9fa1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Mėlynųjų Vandenų mūšis (1362 m.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų tiesiogiai rodo Algirdo dalyvavimą šiame mūšyje.
     - t-005
 
 - c-003
@@ -245,13 +262,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sakinys nurodo, kad Algirdas su pajėgomis sumušė totorius.
     - t-003
 
 - c-004
@@ -287,10 +304,17 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dbac5841ed0eb1b8aad04ae522c2c3f2f52bd52b58377cbeb6dc1817f2825a11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mėlynųjų Vandenų mūšis (1362 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėlynųjų Vandenų mūšis (1362 m.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata perteikia tradiciją, kad Algirdas su savo pajėgomis sumušė totorius.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
+- [[objektai/grupes/Totoriai]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Mėlynųjų Vandenų mūšis (1362 m.)
+- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)
+- [[objektai/asmenys/Dmitrijus (totorių vadas)]] dalyvavo_musyje Mėlynųjų Vandenų mūšis (1362 m.)

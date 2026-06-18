@@ -43,19 +43,20 @@ Nenurodyta
   global_id: t-39215
   teiginys: 'MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Pistoletas-kulkosvaidis MP 40|Pistoletas-kulkosvaidis MP 40]] priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 927399-928029; hash=14aca0dcd82bbcbe3920c913762635aff089379139a0827edab2165b77aadea2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pistoletas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pistoletas-kulkosvaidis MP 40: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pistoletas: mention_match, thing, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pistoletas-kulkosvaidis MP 40" parinktas kaip owner_note_path. Targetas "Pistoletas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas.
 - susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
 ## Reikšmingi paminėjimai
 
@@ -82,10 +83,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 927399-928029; hash=14aca0dcd82bbcbe3920c913762635aff089379139a0827edab2165b77aadea2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pistoletas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pistoletas-kulkosvaidis MP 40: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pistoletas: mention_match, thing, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pistoletas-kulkosvaidis MP 40" parinktas kaip owner_note_path. Targetas "Pistoletas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas.
+
+## Ryšiai
+- Pistoletas-kulkosvaidis MP 40 priklause [[objektai/grupes/Vokiečiai]]

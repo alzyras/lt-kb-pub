@@ -23,19 +23,20 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   global_id: t-87918
   teiginys: 'Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti OCR klaidas ir sutrumpinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]]; mentioned_place: Lietuva; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]]; mentioned_place: Lietuva; mentioned_place: Sandomiras; llm_object: Vilnius; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]] keliavo į Vilnius; [[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Michalovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Michalovskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Michalovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mikalojus Michalovskis atvažiavo į Vilnių.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86759|Lenkijos senatas]]: Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.
 - susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87889|Zbignevas Olesnickis (vyskupas)]]: Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
 ## Reikšmingi paminėjimai
@@ -61,10 +62,14 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Michalovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Michalovskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Michalovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Mikalojus Michalovskis atvažiavo į Vilnių.
+
+## Ryšiai
+- Mikalojus Michalovskis keliavo_i [[objektai/vietos/Vilnius]]
+- Mikalojus Michalovskis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -89,6 +89,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   ryšio_subjekto_parinkimas: Ženeva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Antantė: mention_match, group, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ženeva" parinktas kaip owner_note_path. Targetas "Antantė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
 - susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
 - susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
 - susijęs iš [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.).md#claim-t-20167|Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]: 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė buvo Baltijos valstybių politinė ir diplomatinė sąjunga.
@@ -106,6 +107,8 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 - susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš Lenkija: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108566|administracinė linija demarkacijos linija]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.
+- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
+- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -190,3 +193,8 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   ryšio_subjekto_parinkimas: Ženeva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Antantė: mention_match, group, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ženeva" parinktas kaip owner_note_path. Targetas "Antantė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Petras Klimas]] keliavo_i Ženeva
+- [[objektai/asmenys/Augustinas Voldemaras]] keliavo_i Ženeva
+- [[objektai/asmenys/Dovas Zaunius]] keliavo_i Ženeva

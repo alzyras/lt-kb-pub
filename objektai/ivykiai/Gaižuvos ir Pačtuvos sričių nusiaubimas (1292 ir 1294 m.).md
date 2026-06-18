@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-31410
   teiginys: '1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją, vietas ir veiksmą, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gaižuva; mentioned_place: Pačtuva; mentioned_place: Vilkija; mentioned_place: Dubysa; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Peštvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gaižuva; mentioned_place: Pačtuva; mentioned_place: Vilkija; mentioned_place: Dubysa; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Peštvė; llm_object: Pačtuva; llm_object: Gaižuva'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją, vietas ir veiksmą, o citata tai patvirtina.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pačtuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pačtuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad ordino kariuomenė nusiaubė Pačtuvos sritis.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pačtuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pačtuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad ordino kariuomenė nusiaubė Pačtuvos sritis.

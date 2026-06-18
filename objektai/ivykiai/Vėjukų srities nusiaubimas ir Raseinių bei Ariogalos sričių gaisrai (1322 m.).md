@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-31505
   teiginys: '1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.'
-  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Peštvė'
+  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Peštvė; llm_object: Ariogala'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -50,13 +50,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=362ba571e883663f92a71e786a5397dc80fbddd194ab233e7e7282ff7d1c0c11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ariogala: 0.85
+  ryšio_patikimumas: puole -> Ariogala: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ariogala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių žygio kontekste nurodomas Ariogalos srities nusiaubimas.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=362ba571e883663f92a71e786a5397dc80fbddd194ab233e7e7282ff7d1c0c11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ariogala: 0.85
+  ryšio_patikimumas: puole -> Ariogala: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ariogala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių žygio kontekste nurodomas Ariogalos srities nusiaubimas.

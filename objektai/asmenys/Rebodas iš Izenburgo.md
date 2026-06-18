@@ -30,7 +30,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   global_id: t-60423
   teiginys: 'Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.'
   sudarymo_pagrindimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Sizditė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Sizditė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilėnai; llm_object: Sizditė'
+  semantiniai_rysiai: '[[objektai/asmenys/Rebodas iš Izenburgo|Rebodas iš Izenburgo]] mirė Sizditė'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
@@ -39,13 +40,13 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rebodas iš Izenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rebodas iš Izenburgo" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Sizditė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rebodas iš Izenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sizditė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Rebodas žuvo kovoje prie Sizditės pilies.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,13 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rebodas iš Izenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rebodas iš Izenburgo" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Sizditė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rebodas iš Izenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sizditė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Rebodas žuvo kovoje prie Sizditės pilies.
+
+## Ryšiai
+- Rebodas iš Izenburgo mire [[objektai/vietos/Sizditė]]

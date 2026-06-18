@@ -38,20 +38,21 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Santyras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Santyras tapo Kristijono būstine.
 
 <a id="claim-t-175395"></a>
 - t-002
   global_id: t-175395
   teiginys: 'Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie Santyrą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Oliva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Santyras; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Oliva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kristijonas|Kristijonas]] gyveno Santyras'
   temporaliniai_duomenys: 'įvykio data: 1210 m.; įvykio data: 1212 m.; įvykio data: apie 1212 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie Santyrą.'
@@ -95,38 +96,39 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   global_id: t-175397
   teiginys: 'Sventopelkas su kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Santyras; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Santyras'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a381217ad7c16b54911ead7af7ce74e66560af995cb6b1383307c23930054f3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas Bremeris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konradas Bremeris: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Konradas Bremeris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Konradas buvo pasiųstas plukdyti laivų į Elbingą.
 
 <a id="claim-t-175398"></a>
 - t-005
   global_id: t-175398
   teiginys: 'Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nukirstas ir su antraštės triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas'
+  susije_objektai: 'llm_object: Elbingas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; llm_object: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cb4dd0bd8fe4fd3895679b1b5af09bfd137903656d609a8a0ae5d4ac090b779e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Santyras: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Sventopelkas su kariuomene priėjo Santyro pilį.
 
 <a id="claim-t-175400"></a>
 - t-006
@@ -146,6 +148,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=55
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
+- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89175|Pomeranai]]: Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
@@ -175,6 +179,10 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 - susijęs iš Marienburgas: 1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi.
 - susijęs iš Svečė: Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.
 - susijęs iš Torunė: Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90027|Sventopelkas]]: Dusburgietis vaizduoja Sventopelką kaip po mūšio brolių valdinius viliojusį valdovą.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90020|Sventopelkas]]: 1245 m. Sventopelkas pradėjo statyti Sveče pavadintą pilį, turėjusią trukdyti broliams plaukioti Vysla.
+- susijęs iš 1210 m. pabaigos popiežiaus bulė: 1210 m. pabaigos popiežiaus bulėje Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
+- susijęs iš [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą.md#claim-t-62764|Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]: 1210 m. Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą padėjo Kristijono misijai Prūsijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -216,13 +224,13 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cb4dd0bd8fe4fd3895679b1b5af09bfd137903656d609a8a0ae5d4ac090b779e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Santyras: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Sventopelkas su kariuomene priėjo Santyro pilį.
     - t-002
 
 - c-003
@@ -271,13 +279,13 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a381217ad7c16b54911ead7af7ce74e66560af995cb6b1383307c23930054f3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas Bremeris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konradas Bremeris: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Konradas Bremeris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Konradas buvo pasiųstas plukdyti laivų į Elbingą.
     - t-003
 
 - c-005
@@ -325,13 +333,13 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Santyras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Santyras tapo Kristijono būstine.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 304360-304728; hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=exact
@@ -354,3 +362,8 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   ryšio_subjekto_parinkimas: Santyras: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=55
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyras" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Sventopelkas]] pastate Santyras
+- [[objektai/asmenys/Sventopelkas]] keliavo_i Santyras
+- [[objektai/asmenys/Kristijonas]] gyveno Santyras

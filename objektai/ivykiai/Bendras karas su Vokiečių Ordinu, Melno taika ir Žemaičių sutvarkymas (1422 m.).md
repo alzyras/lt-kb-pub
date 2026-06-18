@@ -81,38 +81,38 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345401-345886; hash=ade817b2061bbfde46fb90ab11c6803b7bdadc6ceabfa4b31e02989db9b56023; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Klaipėda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Klaipėda: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)" parinktas kaip owner_note_path. Targetas "Klaipėda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Klaipėda po taikos liko Ordinui.
 
 <a id="claim-t-50800"></a>
 - t-003
   global_id: t-50800
   teiginys: 'Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Palanga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Palanga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345887-346254; hash=8927c3e1dba66660210f5ec55b594a58b4cc2f977ccbd7721fe32b96708f146a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Frazė tiesiogiai nusako Vytauto susitarimą su Ordinu.
 
 <a id="claim-t-50801"></a>
 - t-004
   global_id: t-50801
   teiginys: 'Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Sūdavija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Sūdavija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -162,13 +162,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345887-346254; hash=8927c3e1dba66660210f5ec55b594a58b4cc2f977ccbd7721fe32b96708f146a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Frazė tiesiogiai nusako Vytauto susitarimą su Ordinu.
     - t-004
 
 - c-003
@@ -245,13 +245,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345401-345886; hash=ade817b2061bbfde46fb90ab11c6803b7bdadc6ceabfa4b31e02989db9b56023; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Klaipėda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Klaipėda: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)" parinktas kaip owner_note_path. Targetas "Klaipėda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klaipėda: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Klaipėda po taikos liko Ordinui.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 346255-346591; hash=4b03c21ca6e0a217ff89ee31ceb2118325ccf09fd45eff86f3ba756110d90d2f; match=ocr_normalized

@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-75294
   teiginys: 'Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais.'
   sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; llm_object: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -63,13 +63,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 418267-418796; hash=771639a733a2f5dcb25dbfab57e4e8c4f46545e2b6183b9698c6417b0f7021df; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: kariavo_pries -> Armija Krajova: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Armija Krajova: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys apibūdina ginkluotą lietuvių dalinių susidūrimą su Armijos Krajovos daliniais.
 
 <a id="claim-t-183281"></a>
 - t-003
@@ -79,19 +79,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia konkretų susidūrimų faktą, o ne tik bendrą kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vilnija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_place: Vilnija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417979-418448; hash=d8b318bcd07c81b5a70bef645b18ca4efb0b178d1607287679384af4810f26de; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: kariavo_pries -> Armija Krajova: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Armija Krajova: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo ginkluotą lietuvių Vietinės rinktinės dalinių susidūrimą su Armija Krajova.
 
 ## Reikšmingi paminėjimai
 
@@ -129,13 +129,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 418267-418796; hash=771639a733a2f5dcb25dbfab57e4e8c4f46545e2b6183b9698c6417b0f7021df; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: kariavo_pries -> Armija Krajova: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Armija Krajova: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys apibūdina ginkluotą lietuvių dalinių susidūrimą su Armijos Krajovos daliniais.
     - t-001
 
 - c-003
@@ -167,10 +167,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417979-418448; hash=d8b318bcd07c81b5a70bef645b18ca4efb0b178d1607287679384af4810f26de; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: kariavo_pries -> Armija Krajova: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Armija Krajova: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo ginkluotą lietuvių Vietinės rinktinės dalinių susidūrimą su Armija Krajova.

@@ -24,19 +24,20 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   global_id: t-39751
   teiginys: 'Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija; llm_object: [[objektai/asmenys/Jonas Kazimieras Vaza|Jonas Kazimieras Vaza]]'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] rėmė [[objektai/asmenys/Jonas Kazimieras Vaza|Jonas Kazimieras Vaza]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519834-520238; hash=9b485bb73858604be4394063cd6ee57a9bb54f49faf4bb7b214333688f068309; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Kazimieras Vaza: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kazimieras Vaza" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad bajorų konfederacija kovojo prieš švedus.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,13 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519834-520238; hash=9b485bb73858604be4394063cd6ee57a9bb54f49faf4bb7b214333688f068309; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Kazimieras Vaza: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kazimieras Vaza" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad bajorų konfederacija kovojo prieš švedus.
+
+## Ryšiai
+- [[objektai/grupes/Bajorų konfederacija]] reme Jonas Kazimieras Vaza

@@ -37,6 +37,7 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lovičius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184517|Lenkai]]: Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,3 +67,6 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
   ryšio_subjekto_parinkimas: Lovičius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=86
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lovičius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Lovičius

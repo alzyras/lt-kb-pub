@@ -30,7 +30,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   global_id: t-60477
   teiginys: 'Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.'
   sudarymo_pagrindimas: 'Citata palaiko atsargią, spėjamą formuluotę; pradinis teiginys nutrūkęs ir perkrautas kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Prūsai; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko atsargią, spėjamą formuluotę; pradinis teiginys nutrūkęs ir perkrautas kontekstu.'
@@ -39,13 +40,13 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d38af3c06ab0633cfffd6fe7a9448dd935bce19c915ee78e0cf7e80cdbb5cde8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva buvo, kaip manoma, valdoma Živinbudo.
 
 <a id="claim-t-184901"></a>
 - t-002
@@ -55,7 +56,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] vedė [[objektai/asmenys/Pajauta|Pajauta]]; [[objektai/asmenys/Živinbudas|Živinbudas]] valdė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1089 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį.'
@@ -64,13 +66,13 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Pajauta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje aiškiai pasakyta, kad Živinbudas vedė Pajautą.
 
 <a id="claim-t-184902"></a>
 - t-003
@@ -80,19 +82,20 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Živinbudo veiksmą po Kerniaus mirties.'
-  susije_objektai: 'mentioned_place: Deltuva; mentioned_place: Kernavė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]'
+  susije_objektai: 'mentioned_place: Deltuva; mentioned_place: Kernavė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; llm_object: Kernavė; llm_object: Deltuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] valdė miestą Kernavė; [[objektai/asmenys/Živinbudas|Živinbudas]] valdė miestą Deltuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111043-111675; hash=1c4eeab004257ef1cbea7a1c50354138338d8c8ae8bddeed7c2500b3145fef2d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Deltuva: 0.85
+  ryšio_patikimumas: valde_miesta -> Kernavė: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Deltuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Deltuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sostinės perkėlimas į Kernavę rodo, kad Živinbudo valdžia siejama su Kernave.
 
 <a id="claim-t-184904"></a>
 - t-004
@@ -108,6 +111,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia ligą, sūnaus grįžimą ir valdžios perdavimą.'
   pagrindžia:
     - c-004
+- susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš [[objektai/asmenys/Kukovaitis.md#claim-t-186133|Kukovaitis]]: Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.
@@ -160,13 +164,13 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d38af3c06ab0633cfffd6fe7a9448dd935bce19c915ee78e0cf7e80cdbb5cde8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva buvo, kaip manoma, valdoma Živinbudo.
     - t-002
 
 - c-003
@@ -204,13 +208,13 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Pajauta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje aiškiai pasakyta, kad Živinbudas vedė Pajautą.
     - t-003
 
 - c-004
@@ -259,11 +263,18 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111043-111675; hash=1c4eeab004257ef1cbea7a1c50354138338d8c8ae8bddeed7c2500b3145fef2d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Deltuva: 0.85
+  ryšio_patikimumas: valde_miesta -> Kernavė: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Živinbudas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Deltuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Živinbudas" parinktas kaip owner_note_path. Targetas "Deltuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sostinės perkėlimas į Kernavę rodo, kad Živinbudo valdžia siejama su Kernave.
     - t-004
+
+## Ryšiai
+- [[objektai/asmenys/Pajauta]] buvo_zmona Živinbudas
+- Živinbudas vede [[objektai/asmenys/Pajauta]]
+- Živinbudas valde [[objektai/vietos/Lietuva]]
+- Živinbudas valde_miesta [[objektai/vietos/Kernavė]]
+- Živinbudas valde_miesta [[objektai/vietos/Deltuva]]

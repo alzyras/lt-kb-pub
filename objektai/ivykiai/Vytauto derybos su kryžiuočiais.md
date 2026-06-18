@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-95974
   teiginys: '1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra antraštės fragmentas, o citata pagrindžia pilną faktinį sakinį.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'mūšio data: 1390-1392; mūšio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra antraštės fragmentas, o citata pagrindžia pilną faktinį sakinį.'
@@ -53,13 +53,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35407-35506; hash=42b769e61348abd7bbb693e7bc2eb2dfb79b369ce6af5b680b48672dc1a524d0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): first_person_target, person, gap=37
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip first_person_target. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.54
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Derybos su kryžiuočiais rodo politinį ryšį, bet sąjungininkystė nėra tiesiogiai įvardyta.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +77,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35407-35506; hash=42b769e61348abd7bbb693e7bc2eb2dfb79b369ce6af5b680b48672dc1a524d0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): first_person_target, person, gap=37
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip first_person_target. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.54
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Derybos su kryžiuočiais rodo politinį ryšį, bet sąjungininkystė nėra tiesiogiai įvardyta.

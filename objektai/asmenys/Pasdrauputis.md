@@ -22,19 +22,19 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   global_id: t-60405
   teiginys: 'Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Pasdraupučio motiną, bet platesnio veiksmo apie jį tiesiogiai nepagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Bysleida; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bysleida: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pasdrauputis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bysleida: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasdrauputis" parinktas kaip owner_note_path. Targetas "Bysleida" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nadruviai tiesiogiai nurodyti kaip apsiautę Bysleidos pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +56,10 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bysleida: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pasdrauputis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bysleida: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasdrauputis" parinktas kaip owner_note_path. Targetas "Bysleida" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nadruviai tiesiogiai nurodyti kaip apsiautę Bysleidos pilį.

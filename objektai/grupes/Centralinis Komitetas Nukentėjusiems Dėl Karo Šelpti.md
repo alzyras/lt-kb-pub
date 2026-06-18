@@ -31,7 +31,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   global_id: t-168139
   teiginys: 'Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.'
   sudarymo_pagrindimas: 'Sutrumpinta ir pašalinta perteklinė, sunkiai skaitoma sakinio sandara.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Rusija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] gynė [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalinta perteklinė, sunkiai skaitoma sakinio sandara.'
@@ -43,7 +44,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   global_id: t-168140
   teiginys: 'Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį enciklopedinį teiginį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] siuntė į Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,7 +63,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   global_id: t-168144
   teiginys: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
   sudarymo_pagrindimas: 'Reikia pataisyti žodžių tvarką ir pašalinti OCR skaidymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Skandinavija; mentioned_place: Vokietija; mentioned_place: Šveicarija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Skandinavija; mentioned_place: Vokietija; mentioned_place: Šveicarija; mentioned_place: Rusija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
@@ -155,3 +158,9 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) reme [[objektai/grupes/Lietuviai]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) siunte_i [[objektai/vietos/Lietuva]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyne [[objektai/grupes/Lietuviai]]
+- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyveno [[objektai/vietos/Petrapilis]]

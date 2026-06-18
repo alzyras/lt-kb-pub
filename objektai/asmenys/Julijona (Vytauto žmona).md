@@ -32,8 +32,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   global_id: t-113831
   teiginys: 'Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.'
   sudarymo_pagrindimas: 'Citata pagrindžia laiško datą, adresatą ir padėkos turinį.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona (Vytauto žmona)|Julijona (Vytauto žmona)]] buvo žmona [[objektai/asmenys/Julijona|Julijona]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia laiško datą, adresatą ir padėkos turinį.'
@@ -66,28 +65,26 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   global_id: t-113834
   teiginys: 'Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona (Vytauto žmona)|Julijona (Vytauto žmona)]] buvo duktė [[objektai/asmenys/Julijona|Julijona]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d46be93b71b6387dc24f699dc2f22272699ce60ee98a8462d9eeb71be1c2c23; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Julijona: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113835"></a>
 - t-005
   global_id: t-113835
   teiginys: 'Julijona buvo trečioji Vytauto žmona.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona (Vytauto žmona)|Julijona (Vytauto žmona)]] vedė [[objektai/asmenys/Julijona|Julijona]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -158,8 +155,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   global_id: t-113839
   teiginys: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Kaimas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rūdninkai'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona (Vytauto žmona)|Julijona (Vytauto žmona)]] buvo žmona [[objektai/asmenys/Julijona|Julijona]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Kaimas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rūdninkai'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -206,13 +202,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a07fdc24cfdfa165c74fff150d8058e6a910942a9912ecf658c1051d7900bfc1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Julijona: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Julijona: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113842"></a>
 - t-012
@@ -255,20 +251,19 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   global_id: t-113845
   teiginys: 'Vytauto žmona kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, išplečiant įvardį ir asmens vaidmenį.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona (Vytauto žmona)|Julijona (Vytauto žmona)]] buvo žmona [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd22f737a47b1695e18ac7bdf590e1eb91025dc07729bec00a00e1d9e06153bf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Julijona: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "buvo_zmona". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113846"></a>
 - t-016
@@ -337,13 +332,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d46be93b71b6387dc24f699dc2f22272699ce60ee98a8462d9eeb71be1c2c23; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Julijona: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184745"></a>
 - t-021
@@ -409,13 +404,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd22f737a47b1695e18ac7bdf590e1eb91025dc07729bec00a00e1d9e06153bf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Julijona: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "buvo_zmona". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
     - t-005
 
@@ -578,13 +573,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d46be93b71b6387dc24f699dc2f22272699ce60ee98a8462d9eeb71be1c2c23; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Julijona: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a1e717689108c9e0b7f4e79dd319cfe57846c2a42cfec5554c072673f5ec833; match=fallback; occurrences=0
@@ -616,13 +611,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a07fdc24cfdfa165c74fff150d8058e6a910942a9912ecf658c1051d7900bfc1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Julijona: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Julijona: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
 
 - c-009
@@ -851,13 +846,13 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d46be93b71b6387dc24f699dc2f22272699ce60ee98a8462d9eeb71be1c2c23; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Julijona: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Julijona: nearest_person_after_predicate, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Julijona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Julijona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: 573910-574084; hash=57f5643c2c898f3c6d2d8692f633d595b88219050502de883dd0059111670d6c; match=exact
@@ -869,9 +864,3 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   ryšio_subjekto_parinkimas: Julijona (Vytauto žmona): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Julijona (Vytauto žmona) vede [[objektai/asmenys/Julijona]]
-- Julijona (Vytauto žmona) buvo_dukte [[objektai/asmenys/Julijona]]
-- Julijona (Vytauto žmona) buvo_zmona [[objektai/asmenys/Julijona]]
-- Julijona (Vytauto žmona) buvo_zmona [[objektai/asmenys/Julijona (Algirdo žmona)]]

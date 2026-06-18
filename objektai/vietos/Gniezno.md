@@ -63,7 +63,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   ryšio_subjekto_parinkimas: Gniezno: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Breslavas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno" parinktas kaip owner_note_path. Targetas "Breslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179137|Lenkai]]: Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.
+- susijęs iš Lvovas: Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas).md#claim-t-35043|Bžostovskis (Vilniaus vyskupas)]]: Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.
 - susijęs iš [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas).md#claim-t-30363|Mikalojus Romedanskis (Medininkų vyskupas)]]: 1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui.
 - susijęs iš [[objektai/asmenys/Motiejus iš Blonios.md#claim-t-87794|Motiejus iš Blonios]]: Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.
@@ -144,6 +144,8 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - susijęs iš [[objektai/zodynas/fizikas rūmų daktaras Leibarzt.md#claim-t-86526|fizikas rūmų daktaras Leibarzt]]: Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86420|fundacija]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113994|Steponas Batoras]]: Steponas Batoras globojo Vilniaus pirklius, kurie buvo išplėtoję prekybą kailiais iki Gniezno ir kitų Didžiosios Lenkijos miestų.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86523|diecezija]]: Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -192,4 +194,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno" parinktas kaip owner_note_path. Targetas "S. Daukantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] keliavo_i Gniezno
+- [[objektai/vietos/Vilniaus vyskupija]] priklause Gniezno
+- [[objektai/vietos/Vilnius]] prekiavo_su Gniezno
+- [[objektai/vietos/Klodovas]] priklause Gniezno

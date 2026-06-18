@@ -24,7 +24,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   global_id: t-91359
   teiginys: 'Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki aiškaus, citata paremto fakto apie Rudino pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai; llm_object: Rudinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]] keliavo į Rudinas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -49,13 +50,13 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=689211246252179868dbe43bc44bffcbc11721d77408f3c3bc0fe2bf7271901a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumas: keliavo_i -> Rudinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudinas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Martynas buvo nugabentas į Rudino pilį, todėl kryptinė kelionės sąsaja yra tiesiogiai paremta tekstu.
 
 <a id="claim-t-91361"></a>
 - t-003
@@ -75,6 +76,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   ryšio_subjekto_parinkimas: Rudinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais.md#claim-t-59596|Rudino brolių susidūrimas su trimis ir penkiais prūsais]]: Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63910|Martynas iš Golino]]: Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63914|Martynas iš Golino]]: Martynas iš Golino su vienu Rudino broliu žvalgydamasis dykrose pasiklydo, susidūrė su trimis prūsais ir du jų nukovė.
@@ -133,13 +135,13 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=689211246252179868dbe43bc44bffcbc11721d77408f3c3bc0fe2bf7271901a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumas: keliavo_i -> Rudinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudinas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Martynas buvo nugabentas į Rudino pilį, todėl kryptinė kelionės sąsaja yra tiesiogiai paremta tekstu.
     - t-001
 
 - c-003
@@ -179,3 +181,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   ryšio_subjekto_parinkimas: Rudinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Rudinas

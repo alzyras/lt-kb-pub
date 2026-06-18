@@ -21,19 +21,20 @@ tags:
   global_id: t-32644
   teiginys: 'Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Ventos aukštupius ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Minija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_place: Minija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Šušvė; llm_object: Lietuva'
+  semantiniai_rysiai: 'Venta priklausė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Minija: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Minija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venta" parinktas kaip owner_note_path. Targetas "Minija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dubysos baseinas nurodytas Lietuvos apimto ploto dalyje.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62621|J. Venta]]: J. Venta parašė darbą „Kronika“.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62622|J. Venta]]: J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.
@@ -70,10 +71,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Minija: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Minija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venta" parinktas kaip owner_note_path. Targetas "Minija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dubysos baseinas nurodytas Lietuvos apimto ploto dalyje.
+
+## Ryšiai
+- Venta priklause [[objektai/vietos/Lietuva]]

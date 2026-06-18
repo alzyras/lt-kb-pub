@@ -21,19 +21,20 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
   global_id: t-60288
   teiginys: 'Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.'
   sudarymo_pagrindimas: 'Pašalinta boilerplate įžanga ir išnašos numeris, faktas paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gerhardas, pravarde Rudė|Gerhardas, pravarde Rudė]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/asmenys/Gerhardas, pravarde Rudė|Gerhardas, pravarde Rudė]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0df4611191eea5ed10b2d3798227ca84eb552b8c6395b133bdf1b2581d0c8d5b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šarvai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gerhardas, pravarde Rudė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Šarvai: mention_match, thing, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gerhardas, pravarde Rudė" parinktas kaip owner_note_path. Targetas "Šarvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gerhardas, pravarde Rudė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gerhardas, pravarde Rudė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių smurtinį veiksmą prieš Gerhardą Rudę.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,13 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0df4611191eea5ed10b2d3798227ca84eb552b8c6395b133bdf1b2581d0c8d5b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šarvai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gerhardas, pravarde Rudė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Šarvai: mention_match, thing, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gerhardas, pravarde Rudė" parinktas kaip owner_note_path. Targetas "Šarvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gerhardas, pravarde Rudė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gerhardas, pravarde Rudė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių smurtinį veiksmą prieš Gerhardą Rudę.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Gerhardas, pravarde Rudė

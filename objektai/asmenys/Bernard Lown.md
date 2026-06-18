@@ -27,7 +27,8 @@ periodo_grupes: []
   global_id: t-18851
   teiginys: 'Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.'
   sudarymo_pagrindimas: 'Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Želva'
+  susije_objektai: 'llm_object: Utena; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Želva'
+  semantiniai_rysiai: '[[objektai/asmenys/Bernard Lown|Bernard Lown]] gimė Utena'
   temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m.; įvykio data: 1975 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -36,13 +37,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aaron Klug: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernard Lown: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernard Lown" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gime -> Utena: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bernard Lown: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bernard Lown gimė Utenoje.
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75793|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75795|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
@@ -78,10 +79,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aaron Klug: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernard Lown: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernard Lown" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gime -> Utena: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bernard Lown: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bernard Lown gimė Utenoje.
+
+## Ryšiai
+- Bernard Lown gime [[objektai/vietos/Utena]]

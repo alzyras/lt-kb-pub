@@ -62,13 +62,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b661aa3ab63e98ff9176d1ade513db3481ee95f7f1be9c2c36bfd2801b3488f5; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Švitrigailos užpuolimas Ašmenoje: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigailos užpuolimas Ašmenoje: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Žygimantas Kęstutaitis įvardytas tarp užpuolimą Ašmenoje įvykdžiusių veikėjų.
 
 <a id="claim-t-186738"></a>
 - t-002
@@ -76,7 +76,7 @@ Nenurodyta
   teiginys: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Ašmena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Ašmena; llm_object: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
@@ -108,13 +108,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c408f64c6db021cd75ae7a0de3f2b5956de62e1c7d74c19bd60c956ad76aa42b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po pabėgimo iš Ašmenos Švitrigaila jau nurodomas Polocke, todėl fiksuojamas judėjimas į Polocką.
 
 <a id="claim-t-186740"></a>
 - t-004
@@ -122,7 +122,8 @@ Nenurodyta
   teiginys: '1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje|Švitrigailos užpuolimas Ašmenoje]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] dalyvavo mūšyje [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje|Švitrigailos užpuolimas Ašmenoje]]'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
@@ -219,13 +220,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c408f64c6db021cd75ae7a0de3f2b5956de62e1c7d74c19bd60c956ad76aa42b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po pabėgimo iš Ašmenos Švitrigaila jau nurodomas Polocke, todėl fiksuojamas judėjimas į Polocką.
     - t-002
 
 - c-003
@@ -324,13 +325,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b661aa3ab63e98ff9176d1ade513db3481ee95f7f1be9c2c36bfd2801b3488f5; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Švitrigailos užpuolimas Ašmenoje: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigailos užpuolimas Ašmenoje: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Žygimantas Kęstutaitis įvardytas tarp užpuolimą Ašmenoje įvykdžiusių veikėjų.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c407dae25ee0512afe97b804276575aede05ca3911627e56bfbccb27aeb824d5; match=fallback; occurrences=0
@@ -342,3 +343,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] dalyvavo_musyje Švitrigailos užpuolimas Ašmenoje

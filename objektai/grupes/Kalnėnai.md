@@ -96,6 +96,9 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70028|medė]]: Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.
 - susijęs iš [[objektai/zodynas/Pažinės.md#claim-t-70033|pažinės]]: `Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais.
 - susijęs iš [[objektai/zodynas/Strūnijo.md#claim-t-07661|strūnijo]]: Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.
+- susijęs iš [[objektai/daiktai/Ratai ant dviejų tekinių.md#claim-t-08319|Ratai ant dviejų tekinių]]: Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -139,3 +142,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+- [[objektai/daiktai/Ratai ant dviejų tekinių]] priklause Kalnėnai
+- [[objektai/grupes/Krikščionys]] puole Kalnėnai
+- [[objektai/grupes/Krikščionys]] kariavo_pries Kalnėnai

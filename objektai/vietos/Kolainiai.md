@@ -37,6 +37,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70947|Kolainių pilies puolimas (1290 m.)]]: 1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.
+- susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59877|Bertoldas, vadinamas Briuhavenu]]: 1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
@@ -58,6 +60,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - susijęs iš Kolainių pilis (pilis): 1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų užpuolė Kolainių pilį.
 - susijęs iš Kolainių pilis (pilis): Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.
 - susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
+- susijęs iš [[objektai/asmenys/Surminas.md#claim-t-184131|Surminas]]: 1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui.
+- susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60002|Surminas]]: 1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui.
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Jonas iš Vienos.md#claim-t-60348|Jonas iš Vienos]]: Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
@@ -72,6 +76,12 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - susijęs iš Koložas: Koložas buvo Gardino priemiestis.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+- susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59877|Bertoldas, vadinamas Briuhavenu]]: 1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.
+- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
+- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
+- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,3 +121,12 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Surminas]] gyne Kolainiai
+- [[objektai/asmenys/Surminas]] valde_miesta Kolainiai
+- [[objektai/asmenys/Surminas]] pastate Kolainiai
+- [[objektai/asmenys/Ernekė]] keliavo_i Kolainiai
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Kolainiai
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kolainiai
+- [[objektai/asmenys/Jonas iš Vienos]] keliavo_i Kolainiai

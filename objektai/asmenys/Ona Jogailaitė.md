@@ -124,19 +124,20 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - t-005
   global_id: t-54983
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Gzovskis|Gzovskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Gzovskis|Gzovskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/daiktai/Rykai|Rykai]] priklausė [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 670663-672645; hash=22f2c9e9e4aff36f666d6aed19e396fcf41e7978a9d452dc052173a1c114b0ee; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ona Jogailaitė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rykai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Ona Jogailaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Virtuvės rykai tiesiogiai paskiriami karalaitei Onai.
 
 <a id="claim-t-54984"></a>
 - t-006
@@ -197,19 +198,20 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   global_id: t-82639
   teiginys: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   sudarymo_pagrindimas: 'Teiginys pašalina OCR triukšmą ir aiškiai perteikia citatoje nurodytą Onai skirtą aprūpinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lenkija; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lenkija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]] gyveno Lenkija'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Oną pasilikusią Lenkijoje.
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.
 - susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
@@ -413,13 +415,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   irodymo_stiprumas: 0.00
   saltinio_vieta: 670663-672645; hash=22f2c9e9e4aff36f666d6aed19e396fcf41e7978a9d452dc052173a1c114b0ee; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ona Jogailaitė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rykai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Ona Jogailaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Virtuvės rykai tiesiogiai paskiriami karalaitei Onai.
     - t-006
 
 - c-006
@@ -511,13 +513,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   irodymo_stiprumas: 0.00
   saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
   sprendimo_priezastis: gap::people
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Oną pasilikusią Lenkijoje.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
@@ -529,3 +531,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Rykai]] priklause Ona Jogailaitė
+- Ona Jogailaitė gyveno [[objektai/vietos/Lenkija]]

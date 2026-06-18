@@ -59,19 +59,19 @@ Nenurodyta
   global_id: t-86893
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Gedimino veiksmus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Voluinė; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65022-65959; hash=cb737ef915eebe9bafdf17e823339f8a1c0e9a18cf039b16f8fbf63079cdcde9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Buveinė perkelta į vietą prie Vilnelės ir Vilijos santakos, citatos kontekste Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -138,11 +138,11 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65022-65959; hash=cb737ef915eebe9bafdf17e823339f8a1c0e9a18cf039b16f8fbf63079cdcde9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Buveinė perkelta į vietą prie Vilnelės ir Vilijos santakos, citatos kontekste Vilnių.
     - t-001

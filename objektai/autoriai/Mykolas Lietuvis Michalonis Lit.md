@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-88036
   teiginys: 'Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.'
   sudarymo_pagrindimas: 'Citata palaiko šį teiginį kaip nuorodą į Mykolo Lietuvio kūrinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00

@@ -31,26 +31,28 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   global_id: t-60134
   teiginys: 'Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė aplinkybė ir šaltinio formuluotė; citata palaiko konkretų veiksmą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių.
 
 <a id="claim-t-60135"></a>
 - t-002
   global_id: t-60135
   teiginys: '1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Aukaimis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Aukaimis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Aukaimis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]] puolė Aukaimis'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą.'
@@ -59,13 +61,13 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Aukaimis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes.
 - susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
@@ -98,13 +100,13 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Aukaimis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes.
     - t-004
 
 - c-002
@@ -131,32 +133,38 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Aukaimis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Dobino: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Dobino" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Dobino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių.
+
+## Ryšiai
+- Henrikas iš Dobino kariavo_pries [[objektai/grupes/Lietuviai]]
+- Henrikas iš Dobino puole [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
+- Henrikas iš Dobino puole [[objektai/vietos/Aukaimis]]
+- Henrikas iš Dobino puole [[objektai/grupes/Lietuviai]]

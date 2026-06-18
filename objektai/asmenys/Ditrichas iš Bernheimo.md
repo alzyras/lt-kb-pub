@@ -39,20 +39,21 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6c70ac73ea4a918edc8a84554f2700a2d0a1012d2c9c8888a93e35938ccb2bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Ditrichas iš Bernheimo: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Hermanas paskyrė arba pasiuntė Ditrichą maršalo pareigoms.
 
 <a id="claim-t-59906"></a>
 - t-002
   global_id: t-59906
   teiginys: 'Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą.'
   sudarymo_pagrindimas: 'Citata remia faktą, bet pradinis teiginys turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]] keliavo į Kulmas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -79,20 +80,21 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   irodymo_stiprumas: 0.00
   saltinio_vieta: 286670-287163; hash=dc76e3d7685180a05727136ec4bbe92732559bb7f75b7b32ea4a4513a99874ea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ditrichas judėjo į Kulmą su relikvijomis.
 
 <a id="claim-t-59908"></a>
 - t-004
   global_id: t-59908
   teiginys: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   sudarymo_pagrindimas: 'Citata remia paskyrimą maršalu, bet pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -188,13 +190,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6c70ac73ea4a918edc8a84554f2700a2d0a1012d2c9c8888a93e35938ccb2bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Ditrichas iš Bernheimo: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Hermanas paskyrė arba pasiuntė Ditrichą maršalo pareigoms.
     - t-003
 
 - c-004
@@ -219,13 +221,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   irodymo_stiprumas: 0.00
   saltinio_vieta: 286670-287163; hash=dc76e3d7685180a05727136ec4bbe92732559bb7f75b7b32ea4a4513a99874ea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ditrichas judėjo į Kulmą su relikvijomis.
     - t-004
 
 - c-005
@@ -249,13 +251,13 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   irodymo_stiprumas: 0.00
   saltinio_vieta: 286670-287163; hash=dc76e3d7685180a05727136ec4bbe92732559bb7f75b7b32ea4a4513a99874ea; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ditrichas nugabeno relikvijas į Kulmą.
     - t-002
 
 - c-006
@@ -294,3 +296,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kulmas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] paskyre Ditrichas iš Bernheimo
+- Ditrichas iš Bernheimo keliavo_i [[objektai/vietos/Kulmas]]

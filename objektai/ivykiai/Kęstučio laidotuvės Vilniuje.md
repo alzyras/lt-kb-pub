@@ -40,19 +40,19 @@ Nenurodyta
   global_id: t-86916
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Vytautą, bet pradinis sakinys nutrūkęs ir nėra tiesiogiai apie laidotuves.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa'
+  susije_objektai: 'llm_object: Krėva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 107108-107710; hash=6e30559324d0e7b0d9b7f3dd546fba3a64a1ca5d4b8ef2bde0ab0bd6582938ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio laidotuvės Vilniuje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio laidotuvės Vilniuje" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krėva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą.
 
 <a id="claim-t-86917"></a>
 - t-002
@@ -134,13 +134,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 107108-107710; hash=6e30559324d0e7b0d9b7f3dd546fba3a64a1ca5d4b8ef2bde0ab0bd6582938ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio laidotuvės Vilniuje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio laidotuvės Vilniuje" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krėva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e5ee3d3b5248f9bbeacd7f5c9ffcb89d23292c3925c659417d60e328597edee; match=fallback; occurrences=0

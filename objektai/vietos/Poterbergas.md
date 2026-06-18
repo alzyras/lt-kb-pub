@@ -93,6 +93,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 - susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
+- susijęs iš [[objektai/ivykiai/Poterbergo pilies perkėlimas ir Mevės pilies pastatymas.md#claim-t-62901|Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)]]: 1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -193,3 +194,6 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   ryšio_subjekto_parinkimas: Poterbergas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poterbergas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Teutonai]] pastate Poterbergas

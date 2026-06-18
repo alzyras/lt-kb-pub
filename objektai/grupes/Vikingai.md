@@ -125,3 +125,6 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   ryšio_subjekto_parinkimas: Vikingai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bizantija: mention_match, place, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vikingai" parinktas kaip owner_note_path. Targetas "Bizantija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vikingai keliavo_i [[objektai/vietos/Nemunas]]

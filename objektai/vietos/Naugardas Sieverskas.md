@@ -30,7 +30,7 @@ amziai:
   global_id: t-182020
   teiginys: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Sieversko Naugardą ir Dimitrą Kaributą.'
-  susije_objektai: 'territory: Naugardas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Lietuva'
   pagrindžia:
     - c-002
 
@@ -51,19 +51,20 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir per ilgas; citata palaiko aiškų sakinį apie Naugardą Sieverską.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Naugardas Sieverskas; llm_object: Polockas; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Polockas; mentioned_place: Černigovas; llm_object: Kijevas; llm_object: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Naugardas Sieverskas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 355274-355724; hash=8d2de7b13a685d91bebfc70d90c78b48493f281fd2c95c565c9f2df164f9da4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas Sieverskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas Sieverskas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos pasitraukimą į Polocką.
 - susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
 ## Reikšmingi paminėjimai
 
@@ -118,10 +119,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 355274-355724; hash=8d2de7b13a685d91bebfc70d90c78b48493f281fd2c95c565c9f2df164f9da4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas Sieverskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas Sieverskas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos pasitraukimą į Polocką.
+
+## Ryšiai
+- Naugardas Sieverskas priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Naugardas Sieverskas

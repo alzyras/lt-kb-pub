@@ -28,7 +28,8 @@ amziai:
   teiginys: 'Opočka citatoje minima kaip vienas iš Pskovo miestų, kuriuos 1426 m. rugpjūtį puolė Vytautas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta į aiškų faktinį sakinį apie Opočką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Opočka; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; llm_object: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Opočka'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį apie Opočką.'
@@ -37,13 +38,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
 
 <a id="claim-t-187280"></a>
 - t-002
@@ -57,13 +58,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
 
 <a id="claim-t-187281"></a>
 - t-003
@@ -71,7 +72,8 @@ amziai:
   teiginys: '1426 m. rugpjūčio 1 d. Vytautas puolė Pskovo miestą Opočką, bet jo nepaėmė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas rezultatas ir miesto priklausymas Pskovo miestams.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Opočka; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; llm_object: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Opočka'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įtrauktas citatoje nurodytas rezultatas ir miesto priklausymas Pskovo miestams.'
@@ -107,6 +109,7 @@ amziai:
   ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=59
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Voronačas: 1426 m. rugpjūtį Vytautas puolė Pskovo miestus Opočką ir Voronačą, bet jų paimti negalėjo.
 - susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Krasnyj Gorod: Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
@@ -149,13 +152,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c05789dade620edfe6ca507976e83a3724d8c83a0f02854cd0d99208609bff8; match=fallback; occurrences=0
@@ -171,10 +174,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Opočka
+- Opočka priklause [[objektai/vietos/Pskovas]]

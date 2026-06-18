@@ -40,7 +40,8 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas veikiantysis ir pašalinta neaiški įvardžio formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)|Kauno apgulties pradžia (1362 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)|Kauno apgulties pradžia (1362 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įvardytas veikiantysis ir pašalinta neaiški įvardžio formuluotė.'
@@ -49,13 +50,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427228-427832; hash=fe6267312f778c4f6a2bb137819101c18e22b9e486a82d1d1c5e08263f746b8f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: apgule -> Kauno apgulties pradžia (1362 m.): 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno apgulties pradžia (1362 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno apgulties pradžia (1362 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno apgulties pradžia (1362 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata aprašo kryžiuočių žygį, kuris virsta Kauno apgulties pradžia.
 
 ## Reikšmingi paminėjimai
 
@@ -89,10 +90,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427228-427832; hash=fe6267312f778c4f6a2bb137819101c18e22b9e486a82d1d1c5e08263f746b8f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: apgule -> Kauno apgulties pradžia (1362 m.): 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno apgulties pradžia (1362 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno apgulties pradžia (1362 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kauno apgulties pradžia (1362 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata aprašo kryžiuočių žygį, kuris virsta Kauno apgulties pradžia.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Kauno apgulties pradžia (1362 m.)

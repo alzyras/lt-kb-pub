@@ -41,19 +41,20 @@ tags:
 - t-002
   global_id: t-41994
   teiginys: 'Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
+  susije_objektai: 'llm_object: Pagiriai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Pagiriai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6999c8031f05110dd0e195587a533c7504b6798d46ffc58a7485a8718668b4f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagiriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagiriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pagiriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pagiriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad lenkų kavalerijos brigada užima Pagirius.
 
 <a id="claim-t-183796"></a>
 - t-003
@@ -63,19 +64,20 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR ženklas ir neaiškus kontekstinis pradėjimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
+  susije_objektai: 'llm_object: Pagiriai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Pagiriai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6999c8031f05110dd0e195587a533c7504b6798d46ffc58a7485a8718668b4f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagiriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagiriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pagiriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pagiriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina, kad lenkų kavalerijos brigada užėmė Pagirius.
 - susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
 - susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
 - susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
@@ -147,21 +149,24 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6999c8031f05110dd0e195587a533c7504b6798d46ffc58a7485a8718668b4f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagiriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagiriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pagiriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pagiriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad lenkų kavalerijos brigada užima Pagirius.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6999c8031f05110dd0e195587a533c7504b6798d46ffc58a7485a8718668b4f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagiriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagiriai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Pagiriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pagiriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai patvirtina, kad lenkų kavalerijos brigada užėmė Pagirius.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] uzeme Pagiriai

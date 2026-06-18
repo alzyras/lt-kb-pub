@@ -61,7 +61,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta gremėzdiška sakinio sandara.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Raseiniai; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Bermontininkai|Bermontininkai]] keliavo į Raseiniai'
   pagrindžia:
     - c-005
 
@@ -100,7 +101,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Raseinių įtraukimą tarp sričių ir taikos sudarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsai'
   pagrindžia:
     - c-002
 
@@ -118,6 +119,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys būtų aiškiau sutelktas į Raseinius.'
   pagrindžia:
     - c-007
+- susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
 - susijęs iš [[objektai/asmenys/Aleksandra Atgailainytė.md#claim-t-39475|Aleksandra Atgailainytė]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė buvo suimta ir po tardymų Raseinių kalėjime pervežama į kitą vietą.
 - susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
@@ -166,6 +169,8 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
+- susijęs iš Šiaurės Lietuva: Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.
+- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -301,3 +306,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+- [[objektai/grupes/Bermontininkai]] keliavo_i Raseiniai
+- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Raseiniai

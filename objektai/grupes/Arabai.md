@@ -75,3 +75,8 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
   ryšio_subjekto_parinkimas: Arabai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Arabija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arabai" parinktas kaip owner_note_path. Targetas "Arabija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Arabai uzeme [[objektai/vietos/Šventoji žemė]]
+- Arabai puole [[objektai/vietos/Šventoji žemė]]
+- Arabai uzeme [[objektai/vietos/Jeruzalė]]

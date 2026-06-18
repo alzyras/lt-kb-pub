@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-66632
   teiginys: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: Junigeda; mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1292 m.; įvykio data: apie 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir paremtas citatos informacija.'
@@ -55,32 +55,32 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5a848f3f365101817dddde2faaeaed9a431c85c149740652304538bbcb009c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Junigeda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Štangė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Konradas Štangė patraukė link Junigedos pilies.
 
 <a id="claim-t-66633"></a>
 - t-002
   global_id: t-66633
   teiginys: 'Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie padrąsinimą ir prasiveržimą; nereikia kartoti ilgos kalbos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 576815-577531; hash=c3b97088ddf06c82954cb9f7dc1df71564dc99207ad65082616e13022f58a540; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Štangė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Konrado Štangės pusė prasiveržia pro lietuvių kariuomenę ir nukovia daugelį jos karių.
 
 ## Reikšmingi paminėjimai
 
@@ -120,21 +120,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 576815-577531; hash=c3b97088ddf06c82954cb9f7dc1df71564dc99207ad65082616e13022f58a540; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Štangė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Konrado Štangės pusė prasiveržia pro lietuvių kariuomenę ir nukovia daugelį jos karių.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5a848f3f365101817dddde2faaeaed9a431c85c149740652304538bbcb009c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Junigeda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas Štangė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Konradas Štangė patraukė link Junigedos pilies.

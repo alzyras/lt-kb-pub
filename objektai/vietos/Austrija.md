@@ -50,8 +50,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   irodymo_stiprumas: 0.00
   saltinio_vieta: 809142-809395; hash=4a1a50d2f6af4bbed316e01c6533046c69e8f581658c25428910d4c25b5d7813; match=exact
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Leopoldas.md#claim-t-186232|Leopoldas]]: Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178980|Kryžiuočių ordinas]]: 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82227|Augustas III]]: Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.
 - susijęs iš [[objektai/asmenys/Cimbarka.md#claim-t-186192|Cimbarka]]: Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.
@@ -83,6 +82,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
 - susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
+- susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63417|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.
@@ -210,6 +210,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42463|karakolė]]: Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.
 - susijęs iš [[objektai/zodynas/landkomtūras.md#claim-t-58912|landkomtūras]]: Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.
 - susijęs iš [[objektai/zodynas/raitarai.md#claim-t-42501|raitarai]]: Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.
+- susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-60231|Albrechtas (Rudolfo sūnus)]]: Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -246,5 +247,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Leopoldas]] buvo_valdovas Austrija
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Austrija
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] gime Austrija
+- [[objektai/vietos/Galicija]] priklause Austrija
+- [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]] valde Austrija

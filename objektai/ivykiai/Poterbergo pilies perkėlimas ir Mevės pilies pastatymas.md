@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir Mevės pilies įkūrimą.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Poterbergas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Pomeranija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Poterbergas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Pomeranija; llm_object: Poterbergas'
   temporaliniai_duomenys: 'įkūrimo data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir Mevės pilies įkūrimą.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d090b20132791bf63b319ec668680ccd80e4488ac4bf46a6698268a4b09bedcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: pastate -> Poterbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Poterbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Teutonų ordino broliai veikė su Poterbergo pilimi, nors veiksmas yra perkėlimas, o ne įprastas pastatymas.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d090b20132791bf63b319ec668680ccd80e4488ac4bf46a6698268a4b09bedcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: pastate -> Poterbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Poterbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Teutonų ordino broliai veikė su Poterbergo pilimi, nors veiksmas yra perkėlimas, o ne įprastas pastatymas.

@@ -103,4 +103,5 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belichovas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
+- Belichovas priklause [[objektai/asmenys/Jonas (Sarginio sūnus)]]
 - Belichovas priklause [[objektai/grupes/Pamedėnai]]

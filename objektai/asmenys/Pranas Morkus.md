@@ -85,3 +85,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   ryšio_subjekto_parinkimas: Pranas Morkus: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranas Morkus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Pranas Morkus buvo_sajungininkas_su [[objektai/asmenys/Tomas Venclova]]

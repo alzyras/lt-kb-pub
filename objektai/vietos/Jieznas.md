@@ -106,6 +106,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - susijęs iš Lentvaris: V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi.
 - susijęs iš Maskva: Keliais šimtmečiais Lietuva gynė sukurtą didvalstybę nuo stiprėjančių rytų grėsmių, tarp jų Maskvos.
 - susijęs iš Maskva: Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių.
+- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -203,3 +204,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   ryšio_subjekto_parinkimas: Jieznas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=93
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jieznas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/A. Žemaitis]] keliavo_i Jieznas

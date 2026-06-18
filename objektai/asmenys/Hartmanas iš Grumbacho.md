@@ -69,3 +69,6 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
   ryšio_subjekto_parinkimas: Hartmanas iš Grumbacho: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Hartmanas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hartmanas iš Grumbacho" parinktas kaip owner_note_path. Targetas "Hartmanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Hartmanas iš Grumbacho valde [[objektai/vietos/Prūsija]]

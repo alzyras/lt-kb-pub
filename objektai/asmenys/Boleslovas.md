@@ -40,7 +40,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   global_id: t-89676
   teiginys: 'Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.'
   sudarymo_pagrindimas: 'Citata pagrindžia Boleslovo pritarimą Konrado sprendimui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Voluinė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas|Boleslovas]] valdė Voluinė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89678|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
@@ -111,5 +112,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-002
 
 ## Ryšiai
-- Boleslovas buvo_valdovas [[objektai/vietos/Mazovija]]
-- Boleslovas uzeme [[objektai/vietos/Belskas]]
+- Boleslovas surenge_zygi_i [[objektai/vietos/Podolė]]
+- Boleslovas puole [[objektai/vietos/Lietuva]]
+- Boleslovas valde [[objektai/vietos/Voluinė]]
+- Boleslovas puole [[objektai/asmenys/Michaila Ivanovičius]]

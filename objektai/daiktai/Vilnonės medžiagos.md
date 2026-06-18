@@ -49,37 +49,37 @@ Nenurodyta
   global_id: t-47822
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiai siejamas su vilnonėmis medžiagomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Ryga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnonės medžiagos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnonės medžiagos" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.
 
 <a id="claim-t-47823"></a>
 - t-002
   global_id: t-47823
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Ryga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnonės medžiagos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnonės medžiagos" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.
 
 ## Reikšmingi paminėjimai
 
@@ -101,21 +101,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnonės medžiagos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnonės medžiagos" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnonės medžiagos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnonės medžiagos" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.

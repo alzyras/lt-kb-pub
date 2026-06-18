@@ -30,20 +30,21 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723052-723860; hash=e4cfc8289ef487dc6df535260fa1ddac875be9326339b03b25610203ca670f57; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prancūzija: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras apibūdintas kaip žmogus iš Prancūzijos karalystės, todėl vietos ryšys tiesiogiai palaikomas.
 
 <a id="claim-t-90006"></a>
 - t-002
   global_id: t-90006
   teiginys: 'Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas; citata palaiko glaustą sakinį apie Petro Atsiskyrėlio veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Jeruzalė; mentioned_place: Italija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Italija; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Jeruzalė; mentioned_place: Italija; mentioned_place: Viena; llm_object: Jeruzalė'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Atsiskyrėlis|Petras Atsiskyrėlis]] keliavo į Italija; [[objektai/asmenys/Petras Atsiskyrėlis|Petras Atsiskyrėlis]] keliavo į Jeruzalė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -62,38 +63,40 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   global_id: t-90007
   teiginys: 'Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.'
   sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes teiginys apie regėjimą; pradinė formuluotė per ilga.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jėzus Kristus|Jėzus Kristus]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Italija; mentioned_person: [[objektai/asmenys/Jėzus Kristus|Jėzus Kristus]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Atsiskyrėlis|Petras Atsiskyrėlis]] keliavo į Italija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Italija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai sako, kad Petras pervažiavo Italiją.
 
 <a id="claim-t-90008"></a>
 - t-004
   global_id: t-90008
   teiginys: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų biografinį faktą apie Petrą Atsiskyrėlį.'
-  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Viena; llm_object: Prancūzija'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Atsiskyrėlis|Petras Atsiskyrėlis]] gyveno Prancūzija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jėzus Kristus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jėzus Kristus: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Jėzus Kristus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Italija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Petro judėjimą per Italiją.
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
 ## Reikšmingi paminėjimai
 
@@ -141,13 +144,13 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jėzus Kristus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jėzus Kristus: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Jėzus Kristus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Italija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Petro judėjimą per Italiją.
     - t-001
 
 - c-003
@@ -173,24 +176,24 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723052-723860; hash=e4cfc8289ef487dc6df535260fa1ddac875be9326339b03b25610203ca670f57; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prancūzija: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras apibūdintas kaip žmogus iš Prancūzijos karalystės, todėl vietos ryšys tiesiogiai palaikomas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Italija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai sako, kad Petras pervažiavo Italiją.
     - t-002
 
 - c-004
@@ -226,10 +229,15 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 722637-723378; hash=87719c6e390e8ac38b6a871234f0097bf1de38a8894c4baa6eb4823cc6a37700; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Atsiskyrėlis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prancūzija: 0.77
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Atsiskyrėlis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras nurodytas kaip kilęs iš Prancūzijos karalystės.
+
+## Ryšiai
+- Petras Atsiskyrėlis keliavo_i [[objektai/vietos/Italija]]
+- Petras Atsiskyrėlis gyveno [[objektai/vietos/Prancūzija]]
+- Petras Atsiskyrėlis keliavo_i [[objektai/vietos/Jeruzalė]]

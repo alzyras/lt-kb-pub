@@ -21,19 +21,20 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
   global_id: t-40831
   teiginys: 'Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie pulko dalyvavimą kontrpuolime ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Giedraičiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/9-asis pėstininkų pulkas|9-asis pėstininkų pulkas]] puolė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7b4bc33cf227f5d5e5c78f58ffa043fa82b4b6f68ccb49c01c3590da3ea72351; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 9-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "9-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Giedraičiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Giedraičiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių įžengimą į Giedraičius.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7b4bc33cf227f5d5e5c78f58ffa043fa82b4b6f68ccb49c01c3590da3ea72351; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 9-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "9-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Giedraičiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Giedraičiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių įžengimą į Giedraičius.
+
+## Ryšiai
+- 9-asis pėstininkų pulkas puole [[objektai/grupes/Lenkai]]

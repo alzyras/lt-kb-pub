@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir paremtas citatoje pateikta informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija; mentioned_place: Pernu'
+  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija; mentioned_place: Pernu; llm_object: Červinskas; llm_object: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1264 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, faktinis ir paremtas citatoje pateikta informacija.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182638-183421; hash=e4f137ce70d40c30b884915d05457ca6c987314998961b677fa9dbe8fcf0d13c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Treniotos žygis į Mazoviją (1264 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Mazoviją (1264 m.)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mazovija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mazovijos niokojimas tiesiogiai pagrindžia Treniotos puolimą.
 
 <a id="claim-t-185650"></a>
 - t-002
@@ -65,7 +65,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį enciklopedinį sakinį be vertinamosios įžangos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija; llm_object: Červinskas; llm_object: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1264 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnį enciklopedinį sakinį be vertinamosios įžangos.'
@@ -74,13 +74,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182934-183561; hash=007e43557d9a7a05a6de085dbfeaa3df14830a52acbd2ad855c038abd7912276; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Treniotos žygis į Mazoviją (1264 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Mazoviją (1264 m.)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mazovija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas aiškiai nusako Treniotos Mazovijos niokojimą.
 
 ## Reikšmingi paminėjimai
 
@@ -143,21 +143,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182638-183421; hash=e4f137ce70d40c30b884915d05457ca6c987314998961b677fa9dbe8fcf0d13c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Treniotos žygis į Mazoviją (1264 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Mazoviją (1264 m.)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mazovija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mazovijos niokojimas tiesiogiai pagrindžia Treniotos puolimą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 182934-183561; hash=007e43557d9a7a05a6de085dbfeaa3df14830a52acbd2ad855c038abd7912276; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Treniotos žygis į Mazoviją (1264 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Mazoviją (1264 m.)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mazovija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas aiškiai nusako Treniotos Mazovijos niokojimą.

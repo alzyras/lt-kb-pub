@@ -31,29 +31,28 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   global_id: t-89678
   teiginys: 'Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Boleslovo veiksmą, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] sudarė sutartį su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Lenčica: candidate; Lietuva: candidate; Viena: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenčica.md", "selected": false, "strategy": "candidate", "title": "Lenčica", "type": "place"}, {"distance_to_predicate": 70, "match_index": 81, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Boleslovas sudarė paliaubas tarp krikščionių ir netikėlių, o tolimesniame sakinyje netikėliai siejami su lietuviais.
 
 <a id="claim-t-89680"></a>
 - t-002
   global_id: t-89680
   teiginys: 'Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Kazimierą ir turi neaiškų įvardį.'
-  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] sudarė sutartį su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -65,21 +64,20 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia santuoką ir Boleslovo motyvą.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Lauras|Lauras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Lauras|Lauras]]; mentioned_place: Mazovija; mentioned_place: Naugardukas; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] vedė [[objektai/asmenys/Lauras|Lauras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Lauras|Lauras]]; mentioned_place: Mazovija; mentioned_place: Naugardukas; mentioned_place: Nemunas; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo priešas [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Lenčica: candidate; Lietuva: candidate; Viena: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 59, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenčica.md", "selected": false, "strategy": "candidate", "title": "Lenčica", "type": "place"}, {"distance_to_predicate": 102, "match_index": 113, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paliaubos sudarytos su puse, kuri pasakojime sutapatinama su lietuviais.
 
 <a id="claim-t-184679"></a>
 - t-004
@@ -89,8 +87,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų Boleslovo veiksmą Viznoje.'
-  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vizna; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gaižuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vizna; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gaižuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena; llm_object: Vizna'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] valdė Vizna'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1295 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų Boleslovo veiksmą Viznoje.'
@@ -99,13 +97,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255235-255884; hash=2451f09ba93c991c715ace7eb389ec40ee8e95abfbec9980e7b8dabe0d72f5a0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Lauras: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_note_path, person, gap=36
-  ryšio_targeto_parinkimas: Lauras: nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lauras" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Boleslovas siekė sumažinti lietuvių užpuldinėjimus, todėl santykis su lietuviais yra priešiškas.
 
 <a id="claim-t-184680"></a>
 - t-005
@@ -115,8 +113,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys iš esmės pagrįstas, bet reikia sutvarkyti formą ir skyrybą.'
-  susije_objektai: 'territory: Belskas; mentioned_place: Belskas; mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] užėmė Belskas'
+  susije_objektai: 'llm_object: Palenkė; llm_object: Belskas; llm_object: Drohičinas; mentioned_place: Belskas; mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] puolė Palenkė; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] užėmė Belskas; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] užėmė Drohičinas'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys iš esmės pagrįstas, bet reikia sutvarkyti formą ir skyrybą.'
@@ -125,14 +123,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 293242-293928; hash=70ad3f1e22f3299cad4fdcc859e01902344615ecd4ff168b384fd6bd05035e48; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Gaižuva: candidate; Prūsai: candidate; Viena: candidate; Vizna: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Gaižuva.md", "selected": false, "strategy": "candidate", "title": "Gaižuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Viena.md", "selected": false, "strategy": "candidate", "title": "Viena", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vizna: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Boleslovas laikė Viznoje lietuvių įgulą, todėl palaikoma jo kontrolė toje vietoje.
 
 <a id="claim-t-184681"></a>
 - t-006
@@ -148,13 +145,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 816254-816893; hash=3c7697d1d91bba7af29576cd8739f436f8cc6a27bf07576383b28c060788baed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Belskas: 0.93
+  ryšio_patikimumas: puole -> Palenkė: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_note_path, person, gap=55
-  ryšio_targeto_parinkimas: Belskas: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Belskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Boleslovas užpuolė Palenkę.
 
 ## Reikšmingi paminėjimai
 
@@ -200,14 +197,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Lenčica: candidate; Lietuva: candidate; Viena: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenčica.md", "selected": false, "strategy": "candidate", "title": "Lenčica", "type": "place"}, {"distance_to_predicate": 70, "match_index": 81, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Boleslovas sudarė paliaubas tarp krikščionių ir netikėlių, o tolimesniame sakinyje netikėliai siejami su lietuviais.
     - t-002
 
 - c-003
@@ -266,14 +262,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Lenčica: candidate; Lietuva: candidate; Viena: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 59, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenčica.md", "selected": false, "strategy": "candidate", "title": "Lenčica", "type": "place"}, {"distance_to_predicate": 102, "match_index": 113, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paliaubos sudarytos su puse, kuri pasakojime sutapatinama su lietuviais.
     - t-004
 
 - c-005
@@ -312,13 +307,13 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255235-255884; hash=2451f09ba93c991c715ace7eb389ec40ee8e95abfbec9980e7b8dabe0d72f5a0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Lauras: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_note_path, person, gap=36
-  ryšio_targeto_parinkimas: Lauras: nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lauras" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Boleslovas siekė sumažinti lietuvių užpuldinėjimus, todėl santykis su lietuviais yra priešiškas.
     - t-005
 
 - c-006
@@ -353,27 +348,29 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 293242-293928; hash=70ad3f1e22f3299cad4fdcc859e01902344615ecd4ff168b384fd6bd05035e48; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Gaižuva: candidate; Prūsai: candidate; Viena: candidate; Vizna: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Gaižuva.md", "selected": false, "strategy": "candidate", "title": "Gaižuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Viena.md", "selected": false, "strategy": "candidate", "title": "Viena", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: valde -> Vizna: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Boleslovas laikė Viznoje lietuvių įgulą, todėl palaikoma jo kontrolė toje vietoje.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 816254-816893; hash=3c7697d1d91bba7af29576cd8739f436f8cc6a27bf07576383b28c060788baed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Belskas: 0.93
+  ryšio_patikimumas: puole -> Palenkė: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): owner_note_path, person, gap=55
-  ryšio_targeto_parinkimas: Belskas: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Boleslovas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Belskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Boleslovas užpuolė Palenkę.
 
 ## Ryšiai
-- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mazovija]]
-- Boleslovas (Mazovijos kunigaikštis) vede [[objektai/asmenys/Lauras]]
+- Boleslovas (Mazovijos kunigaikštis) puole [[objektai/vietos/Palenkė]]
 - Boleslovas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Belskas]]
+- Boleslovas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Drohičinas]]
+- Boleslovas (Mazovijos kunigaikštis) valde [[objektai/vietos/Vizna]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_priesas [[objektai/grupes/Lietuviai]]
+- Boleslovas (Mazovijos kunigaikštis) sudare_sutarti_su [[objektai/grupes/Lietuviai]]

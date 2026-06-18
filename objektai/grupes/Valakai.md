@@ -45,7 +45,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   ryšio_subjekto_parinkimas: Valakai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=54
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Rūdninkų giria: Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.
 - susijęs iš [[objektai/asmenys/Zigmantas Augustas.md#claim-t-93758|Zigmantas Augustas]]: Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179274|Lietuviai]]: Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179314|Lietuviai]]: Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.
@@ -147,6 +146,3 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   ryšio_subjekto_parinkimas: Valakai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=54
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/vietos/Rūdninkų giria]] priklause Valakai

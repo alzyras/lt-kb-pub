@@ -34,7 +34,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86689
   teiginys: 'Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik pirmą aiškią teiginio dalį apie gyventojų pareigą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] gynė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -78,13 +79,13 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   irodymo_stiprumas: 0.00
   saltinio_vieta: 249172-250969; hash=5fe02e61d852f9c45e9077a85b5ed60afb79a1d07f5bb7ffbb507b26c6a04ab0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gyventojai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus gyventojams priskirta pareiga saugoti Vilniaus pilį; kandidatuose yra tik Vilnius, todėl objektas apibendrinamas iki vietos.
 
 <a id="claim-t-86692"></a>
 - t-004
@@ -97,13 +98,13 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   irodymo_stiprumas: 0.00
   saltinio_vieta: 267396-267802; hash=eeeccbbab6a44264b58701c4c891f0ce1e660264fcfd65f0250b7eeaff24a760; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gyventojai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Minimi Vilniaus gyventojai, gyvenę miesto priemiesčiuose ir namuose; Vilnius yra leidžiamas vietos objektas.
 
 <a id="claim-t-86693"></a>
 - t-005
@@ -167,7 +168,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86696
   teiginys: 'Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas ir su OCR triukšmu, bet citata palaiko aiškią sakinio formą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] gyveno Vilnius'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -314,13 +316,13 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   irodymo_stiprumas: 0.00
   saltinio_vieta: 267396-267802; hash=eeeccbbab6a44264b58701c4c891f0ce1e660264fcfd65f0250b7eeaff24a760; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gyventojai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Minimi Vilniaus gyventojai, gyvenę miesto priemiesčiuose ir namuose; Vilnius yra leidžiamas vietos objektas.
     - t-003
 
 - c-004
@@ -344,13 +346,13 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   irodymo_stiprumas: 0.00
   saltinio_vieta: 249172-250969; hash=5fe02e61d852f9c45e9077a85b5ed60afb79a1d07f5bb7ffbb507b26c6a04ab0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gyventojai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gyventojai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus gyventojams priskirta pareiga saugoti Vilniaus pilį; kandidatuose yra tik Vilnius, todėl objektas apibendrinamas iki vietos.
     - t-005
 
 - c-005
@@ -476,3 +478,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   ryšio_subjekto_parinkimas: Vilniaus gyventojai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gyventojai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vilniaus gyventojai gyveno [[objektai/vietos/Vilnius]]
+- Vilniaus gyventojai gyne [[objektai/vietos/Vilnius]]

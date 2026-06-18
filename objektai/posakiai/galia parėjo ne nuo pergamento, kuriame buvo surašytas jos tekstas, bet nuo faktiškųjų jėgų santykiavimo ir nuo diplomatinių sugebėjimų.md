@@ -21,19 +21,19 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
 - t-001
   global_id: t-35999
   teiginys: 'Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b726fed5e2c4d84a2471a34602c9e4b6a81e67470ea7cb1cf0f310f4def747cb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: valde -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodoma, kad Vytautas buvo kviečiamas padėti valdyti Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +58,10 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b726fed5e2c4d84a2471a34602c9e4b6a81e67470ea7cb1cf0f310f4def747cb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: valde -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodoma, kad Vytautas buvo kviečiamas padėti valdyti Lietuvą.

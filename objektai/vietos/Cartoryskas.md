@@ -22,19 +22,20 @@ Konstantino dalis buvo Černigovas ir Cartoryskas.
   teiginys: 'Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Šaltinis pateikia dinastinio padalijimo formuluotę, todėl ji priskirta metraščiui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liubomlis; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liubomlis; mentioned_place: Černigovas'
+  semantiniai_rysiai: 'Cartoryskas priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=642db576fdc04207fdee78e6c61ee55e6cd18decbe94b04560a94014535d8923; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cartoryskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cartoryskas" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Konstantinas (Karijotaitis): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Černigovas tiesiogiai įvardytas kaip Konstantino dalis.
 - susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
 ## Reikšmingi paminėjimai
 
@@ -55,10 +56,13 @@ Konstantino dalis buvo Černigovas ir Cartoryskas.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=642db576fdc04207fdee78e6c61ee55e6cd18decbe94b04560a94014535d8923; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cartoryskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cartoryskas" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Konstantinas (Karijotaitis): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Černigovas tiesiogiai įvardytas kaip Konstantino dalis.
+
+## Ryšiai
+- Cartoryskas priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]

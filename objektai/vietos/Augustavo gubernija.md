@@ -30,7 +30,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 - t-001
   global_id: t-171614
   teiginys: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.'
-  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Augustavo gubernija; mentioned_place: Augustavas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Užnemunė priklausė Augustavo gubernija'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,20 +39,21 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8b6682d31bf258bc3681fda5421e7ae9a54db9203c1182c7a5d2aa214796c7c8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustavo gubernija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustavo gubernija" parinktas kaip owner_note_path. Targetas "Augustavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Augustavo gubernija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Augustavo gubernija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviškoji Užnemunė įėjo į Augustavo guberniją.
 
 <a id="claim-t-171616"></a>
 - t-002
   global_id: t-171616
   teiginys: '1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, faktinis ir atitinka citatoje pateiktus duomenis.'
-  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Užnemunė; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Narva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Augustavo gubernija; mentioned_place: Augustavas; mentioned_place: Užnemunė; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Narva; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Užnemunė priklausė Augustavo gubernija'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, faktinis ir atitinka citatoje pateiktus duomenis.'
@@ -66,8 +68,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Augustavo gubernijos pavadinimą ir Užnemunės priklausomybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; owner: Augustavo gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Užnemunė'
-  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Augustavo gubernija; Užnemunė priklausė Augustavo gubernija'
+  susije_objektai: 'llm_object: Augustavo gubernija; llm_object: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Užnemunė'
+  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Augustavo gubernija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuva priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Užnemunė priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Augustavo gubernijos pavadinimą ir Užnemunės priklausomybę.'
@@ -121,13 +123,13 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8b6682d31bf258bc3681fda5421e7ae9a54db9203c1182c7a5d2aa214796c7c8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustavo gubernija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustavas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustavo gubernija" parinktas kaip owner_note_path. Targetas "Augustavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Augustavo gubernija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Augustavo gubernija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviškoji Užnemunė įėjo į Augustavo guberniją.
     - t-002
 
 - c-003

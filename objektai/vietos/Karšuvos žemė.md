@@ -30,45 +30,48 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   global_id: t-90534
   teiginys: 'Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Karšuvos žemės lokalizaciją ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Minija; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Minija; mentioned_place: Skalva; llm_object: Karšuva'
+  semantiniai_rysiai: 'Karšuvos žemė priklausė Karšuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Karšuvos žemė, todėl siejamas su Karšuva.
 
 <a id="claim-t-90535"></a>
 - t-002
   global_id: t-90535
   teiginys: 'Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_person: [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_person: [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva; llm_object: Karšuvos žemė'
+  semantiniai_rysiai: 'Karšuvos žemė priklausė Karšuva; [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]] pastatė Karšuvos žemė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51492d92f8304e831e94feba37be7e25a9191f68e261773dddd2d74e72f0efbb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie Karšuvos žemę kaip Karšuvos teritorinį darinį.
 
 <a id="claim-t-90536"></a>
 - t-003
   global_id: t-90536
   teiginys: '1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
+  semantiniai_rysiai: 'Karšuvos žemė priklausė Karšuva'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -77,13 +80,13 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Karšuvos žemė, todėl siejamas su Karšuva.
 
 ## Reikšmingi paminėjimai
 
@@ -124,32 +127,36 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Karšuvos žemė, todėl siejamas su Karšuva.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51492d92f8304e831e94feba37be7e25a9191f68e261773dddd2d74e72f0efbb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie Karšuvos žemę kaip Karšuvos teritorinį darinį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: priklause -> Karšuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karšuvos žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuvos žemė" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karšuvos žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Objektas įvardytas kaip Karšuvos žemė, todėl siejamas su Karšuva.
+
+## Ryšiai
+- Karšuvos žemė priklause [[objektai/vietos/Karšuva]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]] pastate Karšuvos žemė

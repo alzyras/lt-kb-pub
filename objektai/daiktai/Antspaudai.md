@@ -79,7 +79,8 @@ Nenurodyta
   global_id: t-86982
   teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie magistrato antspaudą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Antspaudai|Antspaudai]] priklausė [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
@@ -238,3 +239,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=30
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antspaudai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+
+## Ryšiai
+- Antspaudai priklause [[objektai/grupes/Vilniaus magistratas]]

@@ -32,7 +32,7 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   global_id: t-63303
   teiginys: 'Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -40,13 +40,13 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d59e5aa5065f3c0469a3f7ca9a875c5238f458dc62f521b5cacc14a9f6b739; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Audronius Ažubalis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audronius Ažubalis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuva tapo NATO valstybių šeimos nare.
 
 ## Reikšmingi paminėjimai
 
@@ -76,10 +76,10 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d59e5aa5065f3c0469a3f7ca9a875c5238f458dc62f521b5cacc14a9f6b739; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Audronius Ažubalis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audronius Ažubalis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> NATO: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuva tapo NATO valstybių šeimos nare.

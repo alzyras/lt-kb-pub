@@ -69,20 +69,20 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albertas Vijūkas-Kojelavičius: 0.85
+  ryšio_patikimumas: puole -> Mozyrius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Vijūkas Kojelavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Albertas Vijūkas-Kojelavičius: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūkas Kojelavičius" parinktas kaip owner_note_path. Targetas "Albertas Vijūkas-Kojelavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo kazokų veržimąsi ir siautėjimą Mozyriaus apylinkėse, todėl palaiko puolimo krypties ryšį.
 
 <a id="claim-t-102835"></a>
 - t-005
   global_id: t-102835
   teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas; llm_object: Mozyrius; llm_object: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1648 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -103,7 +103,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-006
   global_id: t-102838
   teiginys: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas; llm_object: Mozyrius; llm_object: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1648 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -111,13 +111,13 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: puole -> Mozyrius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Vijūkas Kojelavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūkas Kojelavičius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo kazokų veržimąsi ir siautėjimą Mozyriaus apylinkėse.
 
 <a id="claim-t-102839"></a>
 - t-007
@@ -176,13 +176,13 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: puole -> Mozyrius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Vijūkas Kojelavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūkas Kojelavičius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo kazokų veržimąsi ir siautėjimą Mozyriaus apylinkėse.
     - t-001
 
 - c-003
@@ -227,11 +227,11 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albertas Vijūkas-Kojelavičius: 0.85
+  ryšio_patikimumas: puole -> Mozyrius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Vijūkas Kojelavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Albertas Vijūkas-Kojelavičius: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūkas Kojelavičius" parinktas kaip owner_note_path. Targetas "Albertas Vijūkas-Kojelavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo kazokų veržimąsi ir siautėjimą Mozyriaus apylinkėse, todėl palaiko puolimo krypties ryšį.
     - t-007

@@ -47,7 +47,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - t-002
   global_id: t-55221
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-55222
   teiginys: 'Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: Polockas; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -88,7 +88,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - t-007
   global_id: t-55226
   teiginys: 'Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -113,13 +113,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100782-101507; hash=896a515b95405cecca29f91471cba6798d6f45a832734b817e10a516fe4cfeff; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Kęstutis puolė Vilnių.
 
 <a id="claim-t-172992"></a>
 - t-009
@@ -132,20 +132,20 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sieja Skirgailą su Polocko apsiautimu.
 
 <a id="claim-t-172993"></a>
 - t-010
   global_id: t-172993
   teiginys: 'M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.'
   sudarymo_pagrindimas: 'Citata pagrindžia klaidą, bet pradinis tekstas buvo sugadintas OCR.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Polockas; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -211,13 +211,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skirgaila tekste siejamas su 12 savaičių Polocko apsiautimu.
 
 <a id="claim-t-173003"></a>
 - t-020
@@ -281,7 +281,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   global_id: t-173006
   teiginys: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į trumpą gramatinį sakinį be puslapio ir OCR triukšmo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vorskla'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -492,13 +492,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Algirdaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Andrius Algirdaitis: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Andrius Algirdaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skirgaila tekste siejamas su 12 savaičių Polocko apsiautimu.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: 92176-92442; hash=1e6268b23b8899eebd22c9f4b852113ab0285a9a7984f519492eade97b619d00; match=whitespace_regex
@@ -514,24 +514,24 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100782-101507; hash=896a515b95405cecca29f91471cba6798d6f45a832734b817e10a516fe4cfeff; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Kęstutis puolė Vilnių.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=47f23f5c96a823a4ba26065afa9aed72fb8525771e8e45cab5216b2a478b773c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ugnimi ir kalaviju: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Ugnimi ir kalaviju: mention_match, thing, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Ugnimi ir kalaviju" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste kryžiuočiai po apgulties grįžo į Prūsiją.
     - t-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128817-130263; hash=d6121d2e904359a0e949243d2e052d9dbb06fe7878837bc8ae6b6fe8fb780470; match=whitespace_regex
@@ -569,13 +569,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=becd4b33642fd9208e4a8e462a98c5f057ef40d3ffb3017dbdc2d985a84e3a78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Kęstutis puolė Vilnių.
     - t-016
 
 - c-008
@@ -671,13 +671,13 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskio kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskio kronika" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas sieja Skirgailą su Polocko apsiautimu.
     - t-001
 
 - c-011

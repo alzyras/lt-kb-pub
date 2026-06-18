@@ -49,19 +49,20 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 - t-002
   global_id: t-51025
   teiginys: 'Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Horodlė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Horodlė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga (Jogailos duktė)|Jadvyga (Jogailos duktė)]] buvo duktė [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 456223-456744; hash=56d260076913556094733dffc42bb6de3caf1391284f347913939aaee252222d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Jogaila (kunigaikštis, XIV–XV a.): 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jadvygą kaip Jogailos dukterį.
 
 <a id="claim-t-51026"></a>
 - t-003
@@ -73,20 +74,19 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48fa18baf47466ae8672b8f6200c655642b3acf6dbe8ea35ab36993e874c01a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Jadvyga: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Jadvyga: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-51027"></a>
 - t-004
   global_id: t-51027
   teiginys: 'Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.'
-  susije_objektai: 'family: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Horodlė'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga (Jogailos duktė)|Jadvyga (Jogailos duktė)]] buvo duktė [[objektai/asmenys/Jadvyga|Jadvyga]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Horodlė'
   temporaliniai_duomenys: 'įvykio data: 1417 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -165,13 +165,13 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 456223-456744; hash=56d260076913556094733dffc42bb6de3caf1391284f347913939aaee252222d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Jogaila (kunigaikštis, XIV–XV a.): 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jadvygą kaip Jogailos dukterį.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7fbf4dc94f6a2ed83bd6e5583768f12c86d8e312d4796b474e491a9fb9e8b04d; match=fallback; occurrences=0
@@ -228,13 +228,13 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48fa18baf47466ae8672b8f6200c655642b3acf6dbe8ea35ab36993e874c01a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Jadvyga: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Jadvyga: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jadvyga (Jogailos duktė): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7fbf4dc94f6a2ed83bd6e5583768f12c86d8e312d4796b474e491a9fb9e8b04d; match=fallback; occurrences=0
@@ -248,4 +248,4 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga (Jogailos duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Jadvyga (Jogailos duktė) buvo_dukte [[objektai/asmenys/Jadvyga]]
+- Jadvyga (Jogailos duktė) buvo_dukte [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

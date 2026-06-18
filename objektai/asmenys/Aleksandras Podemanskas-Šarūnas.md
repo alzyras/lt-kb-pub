@@ -78,3 +78,6 @@ tags:
   ryšio_subjekto_parinkimas: Aleksandras Podemanskas-Šarūnas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Podemanskas-Šarūnas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Aleksandras Podemanskas-Šarūnas reme [[objektai/asmenys/Jonas Neifalta-Lakūnas]]

@@ -21,19 +21,20 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-20093
   teiginys: 'Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas; llm_object: [[objektai/grupes/Žydai|Žydai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]] puolė [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2a7f9c759e7a7a65f9a9751530198e284bad2d2d1c018b603d478300e841c13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: puole -> Žydai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ypatingasis SD būrys Vilniuje" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekste žydų bendruomenių šaudymas priskirtas specialiosioms zonderkomandoms, tarp jų Ypatingajam SD būriui Vilniuje.
 - susijęs iš [[objektai/grupes/Heinricho Hamano skrajojantis būrys.md#claim-t-19704|Heinricho Hamano skrajojantis būrys]]: Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.
 - susijęs iš Paneriai: Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
@@ -63,10 +64,13 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2a7f9c759e7a7a65f9a9751530198e284bad2d2d1c018b603d478300e841c13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: puole -> Žydai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ypatingasis SD būrys Vilniuje" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatos kontekste žydų bendruomenių šaudymas priskirtas specialiosioms zonderkomandoms, tarp jų Ypatingajam SD būriui Vilniuje.
+
+## Ryšiai
+- Ypatingasis SD būrys Vilniuje puole [[objektai/grupes/Žydai]]

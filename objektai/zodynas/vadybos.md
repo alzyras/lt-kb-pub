@@ -21,19 +21,19 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   global_id: t-26341
   teiginys: 'Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.'
   sudarymo_pagrindimas: 'Reikia pašalinti puslapio ir antraštės OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]]; mentioned_place: Lietuva; llm_object: Lietuva; llm_object: [[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68772b9c458b46a8897f64ef77f956f40f8f2aec063ab90f2ccdc64682793c15; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: valde -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vadybos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vadybos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nacių okupacijos metais vokiečių valdžia veikė Lietuvoje ir skyrė administracijos vadovus, todėl rodomas valdymo santykis.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +59,10 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68772b9c458b46a8897f64ef77f956f40f8f2aec063ab90f2ccdc64682793c15; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: valde -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vadybos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vadybos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nacių okupacijos metais vokiečių valdžia veikė Lietuvoje ir skyrė administracijos vadovus, todėl rodomas valdymo santykis.

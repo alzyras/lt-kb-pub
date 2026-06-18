@@ -113,6 +113,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
+- susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
 - susijęs iš [[objektai/autoriai/C. R. Jurgėla.md#claim-t-30578|C. R. Jurgėla]]: C. R. Jurgėla 1961 m. Čikagoje paskelbė darbą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
 - susijęs iš [[objektai/autoriai/Jurgėla, C. R.md#claim-t-29516|Jurgėla, C. R]]: C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
 - susijęs iš [[objektai/autoriai/M. Jučas.md#claim-t-179549|M. Jučas]]: M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.
@@ -252,3 +253,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Robertas Zemeckis]] gime Čikaga

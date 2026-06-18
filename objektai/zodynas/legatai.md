@@ -22,20 +22,19 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta nereikalinga atribucija ir išplėstas neaiškus įvardis.'
-  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas „Maskvos kunigaikštis“ tiesiogiai sieja Vasilijų su Maskvos valdymu.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97041|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.
@@ -99,11 +98,10 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Titulas „Maskvos kunigaikštis“ tiesiogiai sieja Vasilijų su Maskvos valdymu.

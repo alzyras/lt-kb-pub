@@ -27,7 +27,8 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   global_id: t-38441
   teiginys: '1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti vietą ir neplėsti citatoje esančio rinktinės pavadinimo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaimas; mentioned_place: Prienai'
+  susije_objektai: 'llm_object: Prienai; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaimas; mentioned_place: Prienai'
+  semantiniai_rysiai: 'Ašminta priklausė Prienai'
   temporaliniai_duomenys: 'įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau perteikti vietą ir neplėsti citatoje esančio rinktinės pavadinimo.'
@@ -36,13 +37,13 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 980975-981197; hash=dc7be879abda78caadd3446cb54d4fd71daee0e850b88e2833dbe432a1d6bea1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ašminta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ašminta" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prienai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ašminta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ašmintos kaimas nurodytas Prienų apskrityje.
 - susijęs iš Pagaršvio upelis: 1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.
 ## Reikšmingi paminėjimai
 
@@ -64,10 +65,13 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 980975-981197; hash=dc7be879abda78caadd3446cb54d4fd71daee0e850b88e2833dbe432a1d6bea1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ašminta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ašminta" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prienai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ašminta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prienai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ašmintos kaimas nurodytas Prienų apskrityje.
+
+## Ryšiai
+- Ašminta priklause [[objektai/vietos/Prienai]]

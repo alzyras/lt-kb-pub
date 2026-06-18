@@ -57,21 +57,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785370-785747; hash=2a89bd37ae71eea84fe3f256e70f9de4c4c9dab2bdd75e5247907701f819b6c7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.93
+  ryšio_patikimumas: uzeme -> Lietuva: 0.92
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=15
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bermontininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad bermontininkai užėmė Šiaurės Lietuvą.
 
 <a id="claim-t-40868"></a>
 - t-003
   global_id: t-40868
   teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyta skyryba, išlaikant citatos faktus.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva; mentioned_place: Raseiniai; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/grupes/Bermontininkai|Bermontininkai]] užėmė Lietuva'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Raseiniai; mentioned_place: Lietuva; mentioned_place: Raseiniai; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Bermontininkai|Bermontininkai]] užėmė Lietuva; [[objektai/grupes/Bermontininkai|Bermontininkai]] keliavo į Raseiniai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -84,6 +84,10 @@ amziai:
   ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
+- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
+- susijęs iš [[objektai/zodynas/Nepriklausomybės kovos.md#claim-t-42425|Nepriklausomybės kovos]]: 1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.
+- susijęs iš Meškuičiai: Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių.
 - susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40509|Virgoličius]]: 1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.
 - susijęs iš [[objektai/daiktai/Baltijos kryžius.md#claim-t-40695|Baltijos kryžius]]: Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.
@@ -126,6 +130,9 @@ amziai:
 - susijęs iš [[objektai/zodynas/komendantūra.md#claim-t-182953|komendantūra]]: Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
+- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66848|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-183295|Ginklai ir ginkluotė]]: Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45486|Ginklai ir ginkluotė]]: Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -221,13 +228,22 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785370-785747; hash=2a89bd37ae71eea84fe3f256e70f9de4c4c9dab2bdd75e5247907701f819b6c7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.93
+  ryšio_patikimumas: uzeme -> Lietuva: 0.92
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=15
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bermontininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad bermontininkai užėmė Šiaurės Lietuvą.
 
 ## Ryšiai
 - Bermontininkai uzeme [[objektai/vietos/Lietuva]]
+- Bermontininkai keliavo_i [[objektai/vietos/Raseiniai]]
+- [[objektai/grupes/Lietuvos Respublika]] kariavo_pries Bermontininkai
+- [[objektai/grupes/Panevėžio batalionas]] puole Bermontininkai
+- Bermontininkai keliavo_i [[objektai/vietos/Kuršėnai]]
+- Bermontininkai surenge_zygi_i [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Panevėžio batalionas]] kariavo_pries Bermontininkai
+- Bermontininkai uzeme [[objektai/vietos/Kuršėnai]]
+- [[objektai/asmenys/Kazys Ladyga]] puole Bermontininkai
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Bermontininkai

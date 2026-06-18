@@ -142,6 +142,9 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš Vilija: Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 - susijęs iš Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje: Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54949|Barbora Radvilaitė]]: Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54947|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183848|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -287,3 +290,9 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   ryšio_subjekto_parinkimas: Barboros rūmai Vilniuje: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barboros rūmai Vilniuje" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Barboros rūmai Vilniuje priklause [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Barbora Radvilaitė]] gyveno Barboros rūmai Vilniuje
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] gyveno Barboros rūmai Vilniuje
+- Barboros rūmai Vilniuje priklause [[objektai/vietos/Vilija]]

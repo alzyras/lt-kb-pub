@@ -32,26 +32,28 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   global_id: t-91839
   teiginys: 'Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie pilies statybos iniciatorių.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
+  semantiniai_rysiai: 'Švento Jurgio pilis priklausė Karšuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jurgio pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Karšuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pilis pastatyta Karšuvos žemėje.
 
 <a id="claim-t-91840"></a>
 - t-002
   global_id: t-91840
   teiginys: 'Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies pastatymo vietą, laiką ir vykdytojus; pradinė formuluotė buvo nutrūkusi.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
+  semantiniai_rysiai: 'Švento Jurgio pilis priklausė Karšuva'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pilies pastatymo vietą, laiką ir vykdytojus; pradinė formuluotė buvo nutrūkusi.'
@@ -82,13 +84,13 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jurgio pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Karšuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad pilis buvo pastatyta Karšuvos žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -113,13 +115,13 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jurgio pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Karšuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pilis pastatyta Karšuvos žemėje.
     - t-002
 
 - c-002
@@ -157,10 +159,13 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jurgio pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Karšuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švento Jurgio pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad pilis buvo pastatyta Karšuvos žemėje.
+
+## Ryšiai
+- Švento Jurgio pilis (pilis, XIII a.) priklause [[objektai/vietos/Karšuva]]

@@ -73,7 +73,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   global_id: t-180323
   teiginys: 'Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus faktas apie Minską.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Smolenskas; llm_object: Minskas'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] prekiavo su Minskas'
   pagrindžia:
     - c-005
 
@@ -100,7 +101,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   global_id: t-180328
   teiginys: 'Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Minsko užėmimą ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Minskas; llm_object: Lietuva; llm_object: Trakai; llm_object: Vilnius; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] užėmė Minskas'
   pagrindžia:
     - c-008
 
@@ -109,7 +111,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   global_id: t-180330
   teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, išsamus ir tiksliai perteikia citatos faktus apie Minską.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Ašmena; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Minskas; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Ašmena; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]] užėmė Minskas'
   temporaliniai_duomenys: 'įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, išsamus ir tiksliai perteikia citatos faktus apie Minską.'
@@ -118,39 +121,41 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Minskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totorių kariuomenė užėmė Minską.
 
 <a id="claim-t-180332"></a>
 - t-012
   global_id: t-180332
   teiginys: 'Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje dviprasmiškas įvardis „čia“, todėl sakinys patikslintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Zaslavlis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Zaslavlis; llm_object: [[objektai/grupes/Slavai|Slavai]]'
+  semantiniai_rysiai: 'Minskas priklausė [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Minskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Minską.
 
 <a id="claim-t-180333"></a>
 - t-013
   global_id: t-180333
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki citata pagrįsto fakto apie Minsko apylinkes.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Sluckas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Sluckas; mentioned_place: Viena; llm_object: Minskas; llm_object: Sluckas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Minskas'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki citata pagrįsto fakto apie Minsko apylinkes.'
@@ -159,13 +164,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Minskas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Minskas nurodytas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.
 
 <a id="claim-t-185048"></a>
 - t-014
@@ -175,19 +180,20 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys išvalytas nuo OCR antraščių ir aiškiai įvardija veikėjus.'
-  susije_objektai: 'mentioned_place: Borisovas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Borisovas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Smolenskas; llm_object: Borisovas; llm_object: Minskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] keliavo į Minskas'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471762-472295; hash=488f01d148180550914746e8b0670135b5d50ed79f5e8f1d537060644f7e7bb1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Minskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje totoriai nusiaubė Minsko apylinkes, tai tiesiogiai rodo karinį puolimą prieš šią vietovę.
 
 <a id="claim-t-185049"></a>
 - t-015
@@ -197,7 +203,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Aleksandro veiksmą Minske.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; llm_object: Minskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] gyveno Minskas'
   pagrindžia:
     - c-013
 
@@ -218,13 +225,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=261386b5a5f07504c192dd6b496811c1733ef4e473d4917e9f0226301b0e133d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumas: priklause -> Slavai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Minskas įvardytas tarp paskutinių rytinių slavų pilių.
 
 <a id="claim-t-185051"></a>
 - t-017
@@ -240,13 +247,14 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69f29e16aee64178241c21c13661a7e1f5f229b4d360dbfa89c763be2da7f510; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Borisovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Borisovas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Borisovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Smolenskas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras pasiuntė dalinius į Smolenską.
+- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185364|algininkai]]: Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87393|Jonas Hlebavičius]]: Jonas Hlebavičius 1581 m. vasario 13 d. dokumente nurodytas kaip Minsko kaštelionas, krašto paiždininkis ir raštininkas.
 - susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
@@ -334,6 +342,9 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 - susijęs iš [[objektai/zodynas/algininkai.md#claim-t-185364|algininkai]]: Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.
+- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
+- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
+- susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -401,13 +412,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Minskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Minską.
     - t-009
     - t-003
 
@@ -583,13 +594,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Minskas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Minskas nurodytas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.
     - t-004
 
 - c-011
@@ -636,13 +647,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Minskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totorių kariuomenė užėmė Minską.
     - t-014
 
 - c-013
@@ -669,13 +680,13 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471762-472295; hash=488f01d148180550914746e8b0670135b5d50ed79f5e8f1d537060644f7e7bb1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Minskas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje totoriai nusiaubė Minsko apylinkes, tai tiesiogiai rodo karinį puolimą prieš šią vietovę.
     - t-015
 
 - c-014
@@ -719,21 +730,33 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=261386b5a5f07504c192dd6b496811c1733ef4e473d4917e9f0226301b0e133d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumas: priklause -> Slavai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Minskas įvardytas tarp paskutinių rytinių slavų pilių.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69f29e16aee64178241c21c13661a7e1f5f229b4d360dbfa89c763be2da7f510; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Borisovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Borisovas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minskas" parinktas kaip owner_note_path. Targetas "Borisovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Smolenskas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras pasiuntė dalinius į Smolenską.
+
+## Ryšiai
+- [[objektai/grupes/Rusijos kariuomenė]] uzeme Minskas
+- [[objektai/grupes/Totoriai]] uzeme Minskas
+- [[objektai/grupes/Maskvėnai]] puole Minskas
+- [[objektai/asmenys/Aleksandras]] gyveno Minskas
+- [[objektai/asmenys/Mechmet Girėjus]] puole Minskas
+- [[objektai/grupes/Totoriai]] puole Minskas
+- Minskas priklause [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Aleksandras]] keliavo_i Minskas
+- [[objektai/grupes/Vilniaus miestiečių luomas]] prekiavo_su Minskas
+- [[objektai/asmenys/A. N. Trubeckojus]] surenge_zygi_i Minskas

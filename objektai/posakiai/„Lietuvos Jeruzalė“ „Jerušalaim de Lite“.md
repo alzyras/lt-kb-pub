@@ -47,38 +47,38 @@ amziai:
   global_id: t-26900
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 155542-155993; hash=4dce2ac8ac367943cca1c7243bc314a566927ace0b2719817f25979e8a8e59a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bagdadas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Lietuvos Jeruzalė“ „Jerušalaim de Lite“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bagdadas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuvos Jeruzalė“ „Jerušalaim de Lite“" parinktas kaip owner_note_path. Targetas "Bagdadas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė apie Vilnių kaip žydų gyvenimo pastovumo simbolį tiesiogiai sieja žydų gyvenimą su Vilniumi.
 
 <a id="claim-t-67312"></a>
 - t-003
   global_id: t-67312
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo pavadinimo priežastį ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 155542-155993; hash=4dce2ac8ac367943cca1c7243bc314a566927ace0b2719817f25979e8a8e59a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Lietuvos Jeruzalė“ „Jerušalaim de Lite“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuvos Jeruzalė“ „Jerušalaim de Lite“" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vilnių kaip žydų gyvenimo pastovumo simbolį, todėl atsargiai fiksuojamas gyvenimo Vilniuje ryšys.
 
 ## Reikšmingi paminėjimai
 
@@ -127,21 +127,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 155542-155993; hash=4dce2ac8ac367943cca1c7243bc314a566927ace0b2719817f25979e8a8e59a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bagdadas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Lietuvos Jeruzalė“ „Jerušalaim de Lite“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bagdadas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuvos Jeruzalė“ „Jerušalaim de Lite“" parinktas kaip owner_note_path. Targetas "Bagdadas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė apie Vilnių kaip žydų gyvenimo pastovumo simbolį tiesiogiai sieja žydų gyvenimą su Vilniumi.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 155542-155993; hash=4dce2ac8ac367943cca1c7243bc314a566927ace0b2719817f25979e8a8e59a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Lietuvos Jeruzalė“ „Jerušalaim de Lite“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuvos Jeruzalė“ „Jerušalaim de Lite“" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vilnių kaip žydų gyvenimo pastovumo simbolį, todėl atsargiai fiksuojamas gyvenimo Vilniuje ryšys.

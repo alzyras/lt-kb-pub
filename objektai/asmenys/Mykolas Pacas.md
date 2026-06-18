@@ -25,7 +25,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   global_id: t-79142
   teiginys: 'Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir baigiasi neišskleista pavarde.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Švedai|Švedai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Pacas|Mykolas Pacas]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
 
@@ -77,3 +78,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   saltinio_vieta: hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=fallback; occurrences=0
   sprendimo_priezastis: auto
     - t-001
+
+## Ryšiai
+- Mykolas Pacas kariavo_pries [[objektai/grupes/Švedai]]

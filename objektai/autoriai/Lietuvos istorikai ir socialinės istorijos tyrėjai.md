@@ -54,13 +54,13 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių kovas su kalavijuočiais.
 
 <a id="claim-t-179535"></a>
 - t-003
@@ -76,7 +76,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179536
   teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   sudarymo_pagrindimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/R. Jasas|R. Jasas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/R. Jasas|R. Jasas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1260-1274; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
@@ -380,13 +380,13 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių kovas su kalavijuočiais.
     - t-007
 
 - c-009

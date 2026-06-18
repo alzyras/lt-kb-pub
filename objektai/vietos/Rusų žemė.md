@@ -29,19 +29,20 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   teiginys: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys pataisytas į aiškią, pilną formą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Rusų žemė'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Rusų žemė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
 
 <a id="claim-t-187313"></a>
 - t-002
@@ -49,19 +50,20 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   teiginys: 'Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Rusų žemės apžiūra palikta su metraščio atribucija, nes tai kronikos vartojama politinė-geografinė formuluotė. Nepridėta metų ar titulų, kurių nereikia teiginiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Rusų žemė; llm_object: Polockas; llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Rusų žemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Jogailaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Aleksandras Jogailaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
 
 <a id="claim-t-187315"></a>
 - t-003
@@ -69,19 +71,20 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   teiginys: 'Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis „čia“ ir sukonkretintas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Rusų žemė; llm_object: Polockas; llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Rusų žemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=64db1ab14348a4aaf41e09346fcc94b60bbbff6ba0932bd7eebb1503805df7cf; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: valde_teritorija -> Rusų žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Rusų žemė buvo Vytautui duota ir jis siekė ją pasilaikyti.
 
 <a id="claim-t-187647"></a>
 - t-004
@@ -91,19 +94,20 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas titulas, kuriam šiame profilyje reikėtų atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Rusų žemė; llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Rusų žemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
 
 ## Reikšmingi paminėjimai
 
@@ -129,24 +133,24 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras Jogailaitis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Jogailaitis: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Aleksandras Jogailaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=64db1ab14348a4aaf41e09346fcc94b60bbbff6ba0932bd7eebb1503805df7cf; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: valde_teritorija -> Rusų žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Rusų žemė buvo Vytautui duota ir jis siekė ją pasilaikyti.
     - t-004
 
 - c-002
@@ -168,21 +172,25 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2d996013017798f53f6f929d39be53824932a3be709beb8b3cead07f07415; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusų žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusų žemė" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusų žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandro vykimą apžiūrėti Rusų žemės.
+
+## Ryšiai
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Rusų žemė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Rusų žemė

@@ -52,7 +52,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112337
   teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir paliktas citatos paremtas faktas apie Voluinę.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Palenkė; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Kijevas; mentioned_place: Palenkė; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Voluinė priklausė Lenkija'
   pagrindžia:
     - c-009
 
@@ -72,7 +73,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - t-004
   global_id: t-112340
   teiginys: 'Ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė tuo metu buvo valdoma lenkų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Voluinė; llm_object: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1452 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -83,7 +85,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112341
   teiginys: 'Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa; mentioned_place: Ostrohas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa; mentioned_place: Ostrohas; llm_object: Voluinė'
+  semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] valdė Voluinė; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] valdė Voluinė'
   pagrindžia:
     - c-008
 
@@ -110,7 +113,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112344
   teiginys: 'Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti glaustesnį teiginį apie Voluinę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; llm_object: Lietuva'
+  semantiniai_rysiai: 'Voluinė priklausė Lietuva'
   pagrindžia:
     - c-007
 
@@ -140,7 +144,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112347
   teiginys: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.'
   sudarymo_pagrindimas: 'Reikia pataisyti stilių ir vietininkus, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Voluinė; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Olyka priklausė Voluinė'
   pagrindžia:
     - c-020
 
@@ -168,7 +173,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - t-014
   global_id: t-112351
   teiginys: 'Vytauto laikais LDK pilys statytos ir rusėniškose žemėse, tarp jų Voluinėje, Lucke.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Voluinė; mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Luckas priklausė Voluinė; [[objektai/daiktai/Pilys|Pilys]] priklausė Voluinė'
   pagrindžia:
     - c-010
 
@@ -177,7 +183,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112352
   teiginys: 'Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų laiko įvardį ir pataisyti rašybą.'
-  susije_objektai: 'territory: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Voluinė; llm_object: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1452 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų laiko įvardį ir pataisyti rašybą.'
@@ -189,7 +196,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112354
   teiginys: 'Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Alšėnai; mentioned_place: Ašmena'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Alšėnai; mentioned_place: Ašmena'
   pagrindžia:
     - c-017
 
@@ -198,7 +205,8 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112356
   teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir aiškiai susieja Voluinę su gotikos sklaida.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Naugardukas; mentioned_place: Ukraina; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Naugardukas; mentioned_place: Ukraina; mentioned_place: Vilnius; llm_object: Ukraina'
+  semantiniai_rysiai: 'Voluinė priklausė Ukraina'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -217,19 +225,20 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112358
   teiginys: 'Vytauto laikais gotikinė pilis buvo statoma ir Voluinės Lucke.'
   sudarymo_pagrindimas: 'Ilgas sąrašinis teiginys sutrumpintas iki fakto apie Voluinę.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Voluinė; mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Luckas priklausė Voluinė'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Voluinę buvus Lietuvos politinėje įtakoje; tai artimiausia priklausymo semantikai.
 
 <a id="claim-t-112359"></a>
 - t-021
@@ -242,13 +251,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Voluinė buvo prijungta prie Lietuvos.
 
 <a id="claim-t-112360"></a>
 - t-022
@@ -261,13 +270,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: 80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: valde -> Voluinė: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Radvilos įvardyti kaip Voluinėje valdas įgiję didikai.
 
 <a id="claim-t-112362"></a>
 - t-023
@@ -300,13 +309,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Voluinė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai pateikia Lucką kaip vietą Voluinėje.
 
 <a id="claim-t-112364"></a>
 - t-025
@@ -319,20 +328,21 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91335ed8ecfdc4a3258f80c404a216daccfef050d777c6ca9129ea3754d5df5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
+  ryšio_patikimumas: priklause -> Ukraina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Voluinę kaip Ukrainos Voluinę.
 
 <a id="claim-t-112365"></a>
 - t-026
   global_id: t-112365
   teiginys: '1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.'
   sudarymo_pagrindimas: 'Pridėta citatoje nurodyta data, kad faktas būtų tikslesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Ukraina; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Ukraina; mentioned_place: Vitebskas'
+  semantiniai_rysiai: 'Voluinė priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėta citatoje nurodyta data, kad faktas būtų tikslesnis.'
@@ -341,13 +351,15 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Voluinės vaivadija įtraukta į sričių sąrašą, kurios buvo prijungtos prie Lenkijos.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93460|Liubartas]]: Liubartas per kovas su lenkais atlaikė Voluinę.
@@ -449,6 +461,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 - susijęs iš [[objektai/zodynas/ulonai.md#claim-t-86620|ulonai]]: Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.
+- susijęs iš Ostrohas: Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.
+- susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
+- susijęs iš Vyšnivecis: Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.
+- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
+- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
+- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
+- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -483,13 +502,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Voluinė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai pateikia Lucką kaip vietą Voluinėje.
     - t-004
     - t-015
 
@@ -656,13 +675,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Voluinę buvus Lietuvos politinėje įtakoje; tai artimiausia priklausymo semantikai.
     - t-014
 
 - c-011
@@ -716,13 +735,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: 80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: valde -> Voluinė: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Radvilos įvardyti kaip Voluinėje valdas įgiję didikai.
     - t-001
     - t-007
 
@@ -788,13 +807,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Voluinės vaivadija įtraukta į sričių sąrašą, kurios buvo prijungtos prie Lenkijos.
     - t-006
 
 - c-016
@@ -855,13 +874,13 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91335ed8ecfdc4a3258f80c404a216daccfef050d777c6ca9129ea3754d5df5d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
+  ryšio_patikimumas: priklause -> Ukraina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Voluinę kaip Ukrainos Voluinę.
     - t-009
 
 - c-019
@@ -904,11 +923,25 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voluinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voluinė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Voluinė buvo prijungta prie Lietuvos.
     - t-011
+
+## Ryšiai
+- [[objektai/asmenys/Švitrigaila]] valde Voluinė
+- [[objektai/vietos/Olyka]] priklause Voluinė
+- [[objektai/vietos/Luckas]] priklause Voluinė
+- Voluinė priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Boleslovas]] valde Voluinė
+- [[objektai/asmenys/Gediminas]] uzeme Voluinė
+- Voluinė priklause [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Chodkevičiai]] valde Voluinė
+- [[objektai/grupes/Radvilos]] valde Voluinė
+- Voluinė priklause [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Vyšnivecis]] priklause Voluinė
+- [[objektai/daiktai/Pilys]] priklause Voluinė

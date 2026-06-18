@@ -29,25 +29,27 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   global_id: t-179438
   teiginys: 'Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu kontekstiniu junginiu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rygiečiai|Rygiečiai]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46190d7614c113dab63bd4171ee5281e79eb1059ec2c4bd50bf0596d2984983a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygiečiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta Gedimino ir rygiečių sąjunga.
 
 <a id="claim-t-179439"></a>
 - t-002
   global_id: t-179439
   teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Daugavgryva; mentioned_place: Dauguva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Daugavgryva; mentioned_place: Dauguva; mentioned_place: Livonija; llm_object: Daugavgryva'
+  semantiniai_rysiai: '[[objektai/grupes/Rygiečiai|Rygiečiai]] buvo sąjungininkas su [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/grupes/Rygiečiai|Rygiečiai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Rygiečiai|Rygiečiai]] puolė Daugavgryva'
   pagrindžia:
     - c-001
     - c-002
@@ -68,13 +70,19 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34d9ca2f4e72e8caa31c828026cda188b8a613a0c91ebe0368e46eafe885261a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygiečiai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste rygiečiai apibūdinti kaip ordino priešai.
+- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186404|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama principu „mano priešo priešas yra mano draugas“.
+- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186406|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.
+- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186407|„mano priešo priešas yra mano draugas“]]: Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius.
+- susijęs iš [[objektai/posakiai/„mano priešo priešas yra mano draugas“.md#claim-t-186405|„mano priešo priešas yra mano draugas“]]: Ivinskis posakiu „mano priešo priešas yra mano draugas“ apibūdino lietuvių ir rygiečių sąjungos pagrindą.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179429|Livonijos ordinas]]: Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.
+- susijęs iš [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.).md#claim-t-28852|Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]: 1298 m. pavasarį lietuviai ir rygiečiai prie Neuermühleno sudegino Ordino medžiagą, skirtą rygiečių laivybai Dauguva sustabdyti.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71515|Jakštas, J]]: J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
 - susijęs iš [[objektai/autoriai/K. Forstreuter.md#claim-t-100105|K. Forstreuter]]: K. Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.
 - susijęs iš [[objektai/autoriai/Kurt Forstreuter.md#claim-t-100101|Kurt Forstreuter]]: Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.
@@ -102,6 +110,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 - susijęs iš Dancigas: Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš Rostokas: Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku.
+- susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185672|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: 1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -162,22 +171,33 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=46190d7614c113dab63bd4171ee5281e79eb1059ec2c4bd50bf0596d2984983a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygiečiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyta Gedimino ir rygiečių sąjunga.
     - t-002
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34d9ca2f4e72e8caa31c828026cda188b8a613a0c91ebe0368e46eafe885261a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=119
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygiečiai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste rygiečiai apibūdinti kaip ordino priešai.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Rygiečiai
+- Rygiečiai buvo_sajungininkas_su [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas]] buvo_sajungininkas_su Rygiečiai
+- Rygiečiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Rygiečiai prekiavo_su [[objektai/vietos/Lietuva]]
+- Rygiečiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Rygiečiai puole [[objektai/vietos/Daugavgryva]]
+- [[objektai/asmenys/Vytenis]] buvo_sajungininkas_su Rygiečiai
+- Rygiečiai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]

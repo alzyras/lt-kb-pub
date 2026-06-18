@@ -32,7 +32,8 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   global_id: t-101707
   teiginys: '1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus Stasio Raštikio vizitus.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]] keliavo į Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1938 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus Stasio Raštikio vizitus.'
@@ -120,13 +121,13 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e77d4be63d9fe3c2114693ee93aa4876a6986f9e9bbf2cf372419e41df9a1656; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stasys Raštikis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasys Raštikis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stasys Raštikis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Raštikis oficialiai lankėsi Lenkijoje.
 
 <a id="claim-t-101712"></a>
 - t-006
@@ -253,13 +254,13 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e77d4be63d9fe3c2114693ee93aa4876a6986f9e9bbf2cf372419e41df9a1656; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stasys Raštikis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasys Raštikis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stasys Raštikis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Raštikis oficialiai lankėsi Lenkijoje.
     - t-002
 
 - c-003
@@ -454,3 +455,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   ryšio_subjekto_parinkimas: Stasys Raštikis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=100
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasys Raštikis" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Stasys Raštikis keliavo_i [[objektai/vietos/Lenkija]]

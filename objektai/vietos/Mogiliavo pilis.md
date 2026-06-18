@@ -22,19 +22,20 @@ tags:
   global_id: t-86089
   teiginys: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
   sudarymo_pagrindimas: 'Teiginys išlaiko citatos faktą apie žemes prie Mogiliavo pilies.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; llm_object: Mogiliavo pilis'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] valdė Mogiliavo pilis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 707596-708210; hash=71b4326c6616a58fd3aec107e118c46a883b9a4eb4680bd813ba95d085c82a91; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mogiliavo pilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mogiliavo pilis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Mogiliavo pilis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mogiliavo pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +67,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 707596-708210; hash=71b4326c6616a58fd3aec107e118c46a883b9a4eb4680bd813ba95d085c82a91; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mogiliavo pilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mogiliavo pilis" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Mogiliavo pilis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mogiliavo pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos.
+
+## Ryšiai
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] valde Mogiliavo pilis

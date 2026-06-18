@@ -41,20 +41,21 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9306b853fd0388920029cd59fc5c49f1b3c7d290a7a3655af81210879cac2e9c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių tautininkų sąjunga" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių tautininkų sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata apibūdina Smetoną kaip tautininkų lyderį; ryšys artimiausias politiniam susiejimui.
 
 <a id="claim-t-44994"></a>
 - t-002
   global_id: t-44994
   teiginys: 'LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie tautininkų lyderį ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių tautininkų sąjunga|Lietuvių tautininkų sąjunga]] buvo sąjungininkas su [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -220,13 +221,13 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9306b853fd0388920029cd59fc5c49f1b3c7d290a7a3655af81210879cac2e9c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių tautininkų sąjunga" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių tautininkų sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata apibūdina Smetoną kaip tautininkų lyderį; ryšys artimiausias politiniam susiejimui.
     - t-004
 
 - c-005
@@ -263,3 +264,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   ryšio_subjekto_parinkimas: Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių tautininkų sąjunga" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Lietuvių tautininkų sąjunga buvo_sajungininkas_su [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

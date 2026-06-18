@@ -33,26 +33,28 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   global_id: t-59876
   teiginys: 'Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo bandymą ir vėlesnį pilies sudeginimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Medraba; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'llm_object: Medraba; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Medraba; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Medraba; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] užėmė Medraba'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gime -> Austrija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Austrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Bertoldo kilmę iš Austrijos.
 
 <a id="claim-t-59877"></a>
 - t-002
   global_id: t-59877
   teiginys: '1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
-  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda'
+  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; llm_object: Junigeda; llm_object: Kolainiai'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Junigeda; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Kolainiai'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
@@ -61,39 +63,41 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 557028-557803; hash=ecb37398754b38c4d861223f7779891ee5fb3a0393cfc76d20b6d46efbd754dc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas Briuhavenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas Briuhavenas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Bertoldas Briuhavenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Ragainė: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai.
 
 <a id="claim-t-59878"></a>
 - t-003
   global_id: t-59878
   teiginys: 'Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pareigų pasikeitimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Ragainė; llm_object: Ragainė'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] valdė Ragainė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9efce24a191c07ae2821254d9f6a2a987c4632d006b0faae14dcde42937209c5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumas: puole -> Junigeda: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad po Kolainių sudeginimo jo pajėgos patraukė į Junigedą ir ją nusiaubė.
 
 <a id="claim-t-59879"></a>
 - t-004
   global_id: t-59879
   teiginys: '1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]]; mentioned_place: Goliubo pilis; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
+  susije_objektai: 'llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]]; mentioned_place: Goliubo pilis; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] keliavo į Livonija'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
@@ -102,20 +106,21 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medraba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Bertoldas po nesėkmingo statybos trukdymo puolė Medrabos pilį.
 
 <a id="claim-t-59880"></a>
 - t-005
   global_id: t-59880
   teiginys: '1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Austrija; llm_object: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] gimė Austrija; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] gynė Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
@@ -124,32 +129,33 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d83dd3c83b6acdbc3d54397275ee883c84598d773e2a2fdf40e34a1ab9c38e82; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bertoldas įsakė kariuomenei traukti link Lietuvos.
 
 <a id="claim-t-59881"></a>
 - t-006
   global_id: t-59881
   teiginys: 'Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.'
   sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo įsakymą ir žygio tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Pilėnai'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] siuntė į Lietuva'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c3741e5684273f7bee483abc063ebfe388e475ddb26c7408f59202a40b6c4d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Hohenlohė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Hohenlohė tiesiogiai pasiuntė Bertoldą į pagalbą Livonijos broliams.
 
 ## Reikšmingi paminėjimai
 
@@ -192,13 +198,13 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9efce24a191c07ae2821254d9f6a2a987c4632d006b0faae14dcde42937209c5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumas: puole -> Junigeda: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad po Kolainių sudeginimo jo pajėgos patraukė į Junigedą ir ją nusiaubė.
     - t-002
 
 - c-003
@@ -226,13 +232,13 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 557028-557803; hash=ecb37398754b38c4d861223f7779891ee5fb3a0393cfc76d20b6d46efbd754dc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas Briuhavenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas Briuhavenas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Bertoldas Briuhavenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Ragainė: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai.
     - t-004
 
 - c-004
@@ -256,13 +262,13 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medraba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Bertoldas po nesėkmingo statybos trukdymo puolė Medrabos pilį.
     - t-005
 
 - c-005
@@ -285,13 +291,13 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d83dd3c83b6acdbc3d54397275ee883c84598d773e2a2fdf40e34a1ab9c38e82; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bertoldas įsakė kariuomenei traukti link Lietuvos.
     - t-006
 
 - c-006
@@ -310,21 +316,33 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c3741e5684273f7bee483abc063ebfe388e475ddb26c7408f59202a40b6c4d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Livonija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Hohenlohė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Hohenlohė tiesiogiai pasiuntė Bertoldą į pagalbą Livonijos broliams.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas, vadinamas Briuhavenu" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gime -> Austrija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Austrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Bertoldo kilmę iš Austrijos.
+
+## Ryšiai
+- Bertoldas, vadinamas Briuhavenu gime [[objektai/vietos/Austrija]]
+- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Medraba]]
+- Bertoldas, vadinamas Briuhavenu siunte_i [[objektai/vietos/Lietuva]]
+- Bertoldas, vadinamas Briuhavenu gyne [[objektai/vietos/Ragainė]]
+- Bertoldas, vadinamas Briuhavenu valde [[objektai/vietos/Ragainė]]
+- Bertoldas, vadinamas Briuhavenu kariavo_pries [[objektai/grupes/Lietuviai]]
+- Bertoldas, vadinamas Briuhavenu keliavo_i [[objektai/vietos/Livonija]]
+- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Junigeda]]
+- Bertoldas, vadinamas Briuhavenu puole [[objektai/vietos/Kolainiai]]
+- Bertoldas, vadinamas Briuhavenu uzeme [[objektai/vietos/Medraba]]

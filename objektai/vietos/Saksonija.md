@@ -40,7 +40,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - t-002
   global_id: t-174025
   teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
-  susije_objektai: 'location: Liubekas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liubekas; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
+- susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 - susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
@@ -119,6 +121,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
+- susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,3 +163,8 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Karolis XII]] surenge_zygi_i Saksonija
+- [[objektai/vietos/Vitchendorfas]] priklause Saksonija
+- [[objektai/asmenys/Gebhardas]] gime Saksonija

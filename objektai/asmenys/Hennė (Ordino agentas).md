@@ -51,19 +51,20 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-002
   global_id: t-35090
   teiginys: 'Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Hennė (Ordino agentas)|Hennė (Ordino agentas)]] rėmė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 662458-662691; hash=1db4d020d4b4f6fc8cfd1f9cec3c907b1e82210e1eb4044dd256c2f63991efe4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumas: reme -> Vokiečiai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennė (Ordino agentas)" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Buvimas vokiečių agentu rodo veikimą vokiečių naudai, bet santykis nėra suformuluotas kaip tiesioginis rėmimas.
 
 <a id="claim-t-35091"></a>
 - t-003
@@ -91,19 +92,20 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir paliktas aiškus faktas apie Hennę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Hennė (Ordino agentas)|Hennė (Ordino agentas)]] rėmė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 662349-662643; hash=f83e48778ba2d4802ee978553e0cfc9e57158597d2c910d434a20d6417ec5ff1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumas: reme -> Vokiečiai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennė (Ordino agentas)" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Agento apibūdinimas pagrindžia atsargų rėmimo ar veikimo vokiečių naudai ryšį.
 
 <a id="claim-t-184261"></a>
 - t-005
@@ -163,13 +165,13 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 662458-662691; hash=1db4d020d4b4f6fc8cfd1f9cec3c907b1e82210e1eb4044dd256c2f63991efe4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumas: reme -> Vokiečiai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennė (Ordino agentas)" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Buvimas vokiečių agentu rodo veikimą vokiečių naudai, bet santykis nėra suformuluotas kaip tiesioginis rėmimas.
     - t-001
 
 - c-003
@@ -245,13 +247,13 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 662349-662643; hash=f83e48778ba2d4802ee978553e0cfc9e57158597d2c910d434a20d6417ec5ff1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumas: reme -> Vokiečiai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennė (Ordino agentas)" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hennė (Ordino agentas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Agento apibūdinimas pagrindžia atsargų rėmimo ar veikimo vokiečių naudai ryšį.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 689315-689685; hash=9672517817af869320d278bbdb5cb7e9ade17a76cc943179d12dcc86b73bc47a; match=whitespace_regex
@@ -263,3 +265,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   ryšio_subjekto_parinkimas: Hennė (Ordino agentas): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hennė (Ordino agentas)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Hennė (Ordino agentas) reme [[objektai/grupes/Vokiečiai]]

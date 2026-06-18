@@ -41,19 +41,19 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   global_id: t-178764
   teiginys: 'Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, vietą ir bazilijonų įkurdinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Medininkai; llm_object: Medininkai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 531930-532166; hash=970811443e22c311721aa9c0d4e9f3a231cd90e8b064541bd99a007093d01578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
+  ryšio_patikimumas: pastate -> Medininkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilijonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilijonų ordinas" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cerkvės statyba lokalizuota prie Medininkų vartų; kandidatuose nėra pačios cerkvės, todėl ryšys su vieta yra apytikris.
 
 <a id="claim-t-178765"></a>
 - t-003
@@ -175,13 +175,13 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   irodymo_stiprumas: 0.00
   saltinio_vieta: 531930-532166; hash=970811443e22c311721aa9c0d4e9f3a231cd90e8b064541bd99a007093d01578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
+  ryšio_patikimumas: pastate -> Medininkai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bazilijonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bazilijonų ordinas" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cerkvės statyba lokalizuota prie Medininkų vartų; kandidatuose nėra pačios cerkvės, todėl ryšys su vieta yra apytikris.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ffef290f4336a54f07ab4506dbdf53a28bf5335e5334de42567a03bd4394b571; match=fallback; occurrences=0

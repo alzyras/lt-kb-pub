@@ -66,7 +66,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-003
   global_id: t-181164
   teiginys: '1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.'
-  susije_objektai: 'mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'llm_object: SSRS; llm_object: Vokietija; mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  semantiniai_rysiai: 'Liublinas priklausė Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -85,7 +86,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-005
   global_id: t-181168
   teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija'
+  susije_objektai: 'llm_object: Vokietija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija'
+  semantiniai_rysiai: 'Lietuva priklausė Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -169,7 +171,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-181176
   teiginys: '1939 m. rugsėjo 28 d. slaptu Reicho ir SSRS protokolu Lietuvai patekus į SSRS įtakos sferą, Vokietijos spaudimas Lietuvai baigėsi.'
   sudarymo_pagrindimas: 'Perrašyta glaustai ir pašalinta šnekamoji citatos formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'llm_object: SSRS; llm_object: Vokietija; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: SSRS'
+  semantiniai_rysiai: 'Liublinas priklausė Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaustai ir pašalinta šnekamoji citatos formuluotė.'
@@ -244,7 +247,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-181181
   teiginys: '1939 m. rugpjūčio 23 d. Vokietijos ir SSRS slaptasis protokolas Lietuvą priskyrė Vokietijos įtakos sferai.'
   sudarymo_pagrindimas: 'Pašalintas ilgas kontekstas ir nutrūkusi pabaiga.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija'
+  susije_objektai: 'llm_object: Vokietija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija'
+  semantiniai_rysiai: 'Lietuva priklausė Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas ilgas kontekstas ir nutrūkusi pabaiga.'
@@ -296,13 +300,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokietija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad įtakos sferų pasidalijime Lietuva atiteko Vokietijai.
 
 <a id="claim-t-181185"></a>
 - t-019
@@ -314,13 +318,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos patekimą į SSRS įtakos sferą.
 
 <a id="claim-t-181186"></a>
 - t-020
@@ -367,7 +371,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-181188
   teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir aiškiai perteikia Vokietijos poziciją dėl Klaipėdos krašto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnius; llm_object: Rytprūsiai'
+  semantiniai_rysiai: 'Vokietija priklausė Rytprūsiai'
   pagrindžia:
     - c-026
 
@@ -437,7 +442,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-181194
   teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.'
   sudarymo_pagrindimas: 'Sakinys yra gramatiškas ir aiškiai susijęs su lietuvių išvežimu į Vokietiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Vokietija'
   pagrindžia:
     - c-015
 
@@ -464,7 +470,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-181196
   teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje.'
   sudarymo_pagrindimas: 'Citata palaiko trumpą faktą, o pradiniame teiginyje buvo nuorodos ir OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]]'
+  susije_objektai: 'llm_object: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] gyveno Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko trumpą faktą, o pradiniame teiginyje buvo nuorodos ir OCR triukšmo.'
@@ -519,13 +526,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karolis Tryrietis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karolis Tryrietis: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Karolis Tryrietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vokietija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karolis Tryrietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Karolis Tryrietis tuo metu buvo Vokietijoje.
 
 <a id="claim-t-181201"></a>
 - t-033
@@ -583,7 +590,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-038
   global_id: t-181206
   teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]]'
+  susije_objektai: 'llm_object: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] gyveno Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -644,13 +652,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos teritorijos patekimą į SSRS įtakos sferą.
 
 <a id="claim-t-183107"></a>
 - t-042
@@ -673,6 +681,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
+- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56968|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
+- susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56969|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-20467|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.
+- susijęs iš Kelnas: Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.
+- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59944|Poponas iš Osternos]]: Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.
+- susijęs iš Šeinfeldas: 1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-183271|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
@@ -816,6 +832,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš Šveicarija: Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54804|Cechas]]: Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje.
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
+- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45356|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.
+- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45357|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
@@ -1330,6 +1348,12 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-183478|tautų apsisprendimo teisė tautų apsisprendimo principas]]: 1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
+- susijęs iš Klaipėda: 1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.
+- susijęs iš Liublino vaivadija: 1939 m. rugsėjo 28 d. slaptuoju Reicho ir SSRS protokolu Vokietija už Lietuvos patekimą į SSRS įtakos sferą gavo Liublino vaivadiją.
+- susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
+- susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
+- susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
+- susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1451,13 +1475,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karolis Tryrietis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karolis Tryrietis: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Karolis Tryrietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vokietija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karolis Tryrietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Karolis Tryrietis tuo metu buvo Vokietijoje.
     - t-041
 
 - c-006
@@ -1490,13 +1514,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos teritorijos patekimą į SSRS įtakos sferą.
     - t-040
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363075-363463; hash=edeeb5c2cfd7c0f066f93d7280771084bcb6752bf1878df77d314feb64b58c45; match=whitespace_regex
@@ -1524,13 +1548,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Lietuvos patekimą į SSRS įtakos sferą.
     - t-012
 
 - c-008
@@ -2061,13 +2085,13 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokietija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad įtakos sferų pasidalijime Lietuva atiteko Vokietijai.
     - t-042
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a054745d76a5e8975546a820a78b400bb756d8d9bdaf55cff390c5c6abd337ae; match=fallback; occurrences=0
@@ -2079,3 +2103,19 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   ryšio_subjekto_parinkimas: Vokietija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokietija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] gime Vokietija
+- [[objektai/vietos/Lietuva]] prekiavo_su Vokietija
+- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Vokietija
+- [[objektai/vietos/Šeinfeldas]] priklause Vokietija
+- [[objektai/vietos/Lietuva]] priklause Vokietija
+- [[objektai/vietos/Liublinas]] priklause Vokietija
+- [[objektai/asmenys/Karolis Tryrietis]] gyveno Vokietija
+- [[objektai/grupes/Lietuviai]] keliavo_i Vokietija
+- [[objektai/vietos/Klaipėda]] priklause Vokietija
+- [[objektai/vietos/Liublino vaivadija]] priklause Vokietija
+- [[objektai/vietos/Ruhro sritis]] priklause Vokietija
+- Vokietija priklause [[objektai/vietos/Rytprūsiai]]
+- Vokietija prekiavo_su [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Henrikas I Paukštininkas]] valde Vokietija

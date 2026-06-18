@@ -58,7 +58,8 @@ Nenurodyta
   global_id: t-77011
   teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -67,7 +68,8 @@ Nenurodyta
   global_id: t-77012
   teiginys: 'Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.'
   sudarymo_pagrindimas: 'Pradinis teiginys menkai siejosi su objekto pavadinimu, todėl sukonkretintas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; llm_object: Lietuva'
+  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-003
 
@@ -76,7 +78,8 @@ Nenurodyta
   global_id: t-77013
   teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -172,3 +175,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Minsko Lietuva priklause [[objektai/vietos/Lietuva]]

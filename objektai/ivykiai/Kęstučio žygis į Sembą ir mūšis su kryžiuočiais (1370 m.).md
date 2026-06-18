@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas neaiškus įvardis ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: Semba; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 437223-437773; hash=9b84ad589392eabeeeaf848542e3d5a8d72bd32d6f5690ae350b9aeef142d175; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis vadovauja kariuomenei ir nusprendžia žygio tikslą Sembą.
 
 <a id="claim-t-185735"></a>
 - t-002
@@ -62,19 +62,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]; [[objektai/asmenys/Kęstutis|Kęstutis]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]; [[objektai/asmenys/Algirdas|Algirdas]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 438452-439353; hash=7cdee5613249dcf4054422bfa2ec87dcfae126cb5d3c8de0ae4990cf87da77ab; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Kryžiuočių nuostoliai mūšyje tiesiogiai rodo jų dalyvavimą šiame mūšyje.
 
 ## Reikšmingi paminėjimai
 
@@ -131,21 +132,26 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 437223-437773; hash=9b84ad589392eabeeeaf848542e3d5a8d72bd32d6f5690ae350b9aeef142d175; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis vadovauja kariuomenei ir nusprendžia žygio tikslą Sembą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 438452-439353; hash=7cdee5613249dcf4054422bfa2ec87dcfae126cb5d3c8de0ae4990cf87da77ab; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Kryžiuočių nuostoliai mūšyje tiesiogiai rodo jų dalyvavimą šiame mūšyje.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] dalyvavo_musyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)

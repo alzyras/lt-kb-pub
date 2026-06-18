@@ -30,7 +30,8 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   global_id: t-19943
   teiginys: '1928 m. gegužės 15 d. A. Smetona, pritariamas viso Ministerių kabineto, nauja konstitucija įteisino savo viršenybę prieš Seimą.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą ir aiškiau susieta su Ministerių kabinetu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  semantiniai_rysiai: '[[objektai/grupes/Ministerių kabinetas|Ministerių kabinetas]] rėmė [[objektai/asmenys/A. Smetona|A. Smetona]]'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau pagal citatą ir aiškiau susieta su Ministerių kabinetu.'
@@ -58,13 +59,13 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa4aff94578607dd51b5a53eedd71854ff55a9d8b3fedce3609a4dffdaf81cf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ministerių kabinetas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ministerių kabinetas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> A. Smetona: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ministerių kabinetas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad A. Smetona veikė pritariamas viso Ministerių kabineto.
 
 ## Reikšmingi paminėjimai
 
@@ -102,13 +103,13 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa4aff94578607dd51b5a53eedd71854ff55a9d8b3fedce3609a4dffdaf81cf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ministerių kabinetas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ministerių kabinetas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> A. Smetona: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ministerių kabinetas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad A. Smetona veikė pritariamas viso Ministerių kabineto.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c037e6ed11d365dc31ad9260f4eabfffd02819b6816aedaf5377533e9994d9ce; match=fallback; occurrences=0
@@ -120,3 +121,6 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
   ryšio_subjekto_parinkimas: Ministerių kabinetas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ministerių kabinetas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Ministerių kabinetas reme [[objektai/asmenys/A. Smetona]]

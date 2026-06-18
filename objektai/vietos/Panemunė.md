@@ -54,6 +54,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   ryšio_subjekto_parinkimas: Panemunė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Panemunė" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.
+- susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 - susijęs iš Gardinas: Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
@@ -71,6 +73,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 - susijęs iš Veliuona: Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.
 - susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
 - susijęs iš Vilnius: Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.
+- susijęs iš Gardinas: Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.
+- susijęs iš Rambynas: Panemunėje esama Rambyno (žr.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -114,3 +118,9 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   ryšio_subjekto_parinkimas: Panemunė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Panemunė" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Panemunė
+- [[objektai/asmenys/Švitrigaila]] puole Panemunė
+- [[objektai/vietos/Rambynas]] priklause Panemunė
+- Panemunė priklause [[objektai/grupes/Kryžiuočių ordinas]]

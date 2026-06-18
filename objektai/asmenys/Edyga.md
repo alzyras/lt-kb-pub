@@ -40,20 +40,21 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75278f33222cc331b126432a9b04c476ca3a053fd446fcf72b72b0b74811c63b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edyga" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus.
 
 <a id="claim-t-63558"></a>
 - t-002
   global_id: t-63558
   teiginys: 'Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_place: Vorskla; llm_object: Kijevas; llm_object: Podolė; llm_object: Luckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Edyga|Edyga]] puolė Kijevas; [[objektai/asmenys/Edyga|Edyga]] puolė Podolė; [[objektai/asmenys/Edyga|Edyga]] puolė Luckas'
   temporaliniai_duomenys: 'įvykio data: 1414-1416; įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir paremtas citata.'
@@ -86,6 +87,9 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-183694|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.
 - susijęs iš Kijevas: 1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78883|chanas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
+- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183763|Timūr-Kutlukas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
+- susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-40468|Timūr-Kutlukas]]: Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -128,13 +132,13 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=75278f33222cc331b126432a9b04c476ca3a053fd446fcf72b72b0b74811c63b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edyga" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus.
     - t-002
 
 - c-003
@@ -182,3 +186,9 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   ryšio_subjekto_parinkimas: Edyga: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuvos jungtinės pajėgos: mention_match, group, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edyga" parinktas kaip owner_note_path. Targetas "Lietuvos jungtinės pajėgos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Totorių pajėgos]] priklause Edyga
+- Edyga puole [[objektai/vietos/Kijevas]]
+- Edyga puole [[objektai/vietos/Podolė]]
+- Edyga puole [[objektai/vietos/Luckas]]

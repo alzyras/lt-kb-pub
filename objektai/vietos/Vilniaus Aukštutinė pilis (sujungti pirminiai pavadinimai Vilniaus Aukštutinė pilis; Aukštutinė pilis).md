@@ -39,39 +39,40 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8dd715ea5d3b22a45dd87b645c89537cedf25008edcc5bfcb8ee24032d8b3b30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštutinė pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukštutinė pilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Aukštutinė pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas pastatydino Aukštutinę mūro pilį.
 
 <a id="claim-t-85845"></a>
 - t-002
   global_id: t-85845
   teiginys: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
   sudarymo_pagrindimas: 'Patikslintas sapno aiškinimo subjektas.'
-  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis); mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] pastatė Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 252103-253217; hash=11c7f83f753e77288916c0b04bcc5036514b42c9b53a22d1bb4254f869c5e18e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Polockas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skirgailą kaip Polocko valdovą.
 
 <a id="claim-t-85846"></a>
 - t-003
   global_id: t-85846
   teiginys: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -115,20 +116,20 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Dmitrijus Kaributas pateikiamas kaip vienas Algirdo sūnų.
 
 <a id="claim-t-85849"></a>
 - t-006
   global_id: t-85849
   teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Polockas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -230,13 +231,13 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 252103-253217; hash=11c7f83f753e77288916c0b04bcc5036514b42c9b53a22d1bb4254f869c5e18e; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Polockas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skirgailą kaip Polocko valdovą.
     - t-003
 
 - c-003
@@ -290,13 +291,13 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Dmitrijus Kaributas pateikiamas kaip vienas Algirdo sūnų.
     - t-001
 
 - c-005
@@ -319,13 +320,13 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8dd715ea5d3b22a45dd87b645c89537cedf25008edcc5bfcb8ee24032d8b3b30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštutinė pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukštutinė pilis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Aukštutinė pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas pastatydino Aukštutinę mūro pilį.
     - t-007
 
 - c-006
@@ -417,3 +418,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   ryšio_subjekto_parinkimas: Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Manvydas: mention_match, person, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)" parinktas kaip owner_note_path. Targetas "Manvydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Gediminas]] pastate Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)

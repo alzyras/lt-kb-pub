@@ -121,3 +121,6 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Rumbaudas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

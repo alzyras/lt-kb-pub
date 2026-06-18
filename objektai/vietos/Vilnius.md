@@ -54,7 +54,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-001
   global_id: t-10864
   teiginys: '1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] gyveno Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
@@ -159,7 +159,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181640
   teiginys: '1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad pagrindinis faktas būtų apie Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: SSRS; llm_object: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad pagrindinis faktas būtų apie Vilnių.'
@@ -224,7 +224,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181644
   teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas, todėl sutrumpintas nepridedant naujų faktų.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; llm_object: Lietuva'
+  semantiniai_rysiai: 'Vilnius priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas, todėl sutrumpintas nepridedant naujų faktų.'
@@ -268,7 +269,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181646
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie prekybą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Maskva; llm_object: Ryga'
+  semantiniai_rysiai: 'Vilnius prekiavo su Ryga; Vilnius prekiavo su Maskva'
   pagrindžia:
     - c-053
   irodymo_stiprumas: 0.00
@@ -286,7 +288,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-017
   global_id: t-181647
   teiginys: '1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]] gyveno Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1544 m.; valdymo laikotarpis: 1548 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -307,7 +310,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181648
   teiginys: 'Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia išplėsti veikėją ir sutvarkyti OCR.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Husitai|Husitai]]'
   pagrindžia:
     - c-213
   irodymo_stiprumas: 0.00
@@ -419,7 +422,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181657
   teiginys: 'Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė ištrauka nutrūksta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; mentioned_place: Viena; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: 'Vilnius priklausė [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-101
 
@@ -448,7 +452,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181659
   teiginys: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.'
   sudarymo_pagrindimas: 'Išplėstas įvardis ir sakinys padarytas glaustesnis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius; [[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas įvardis ir sakinys padarytas glaustesnis.'
@@ -520,32 +525,33 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 66082-66347; hash=a18435be97c1dc7c5087e85a003555813db3460e6cb167f61e1fac4a182231e1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusėnai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stačiatikiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilniuje buvo stačiatikių gyvenama miesto dalis.
 
 <a id="claim-t-181663"></a>
 - t-031
   global_id: t-181663
   teiginys: 'XIV a. Vilniuje turėjo būti susiformavusi rusėnų pusė, stačiatikių gyvenama miesto dalis.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir aiškiai apibūdina XIV a. Vilniaus miesto dalį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Stačiatikiai|Stačiatikiai]] gyveno Vilnius'
   pagrindžia:
     - c-171
   irodymo_stiprumas: 0.00
   saltinio_vieta: 73232-73391; hash=e9c813b7560691e0139708ee8ffe231344b05d219adc5d7be44f55fffb6738f3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jogailos atvykimą į Vilnių.
 
 <a id="claim-t-181664"></a>
 - t-032
@@ -574,7 +580,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181665
   teiginys: 'Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos vertinimu apie atvykimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Krimas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Krimas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos vertinimu apie atvykimą.'
@@ -596,7 +603,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181666
   teiginys: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pataisyti OCR.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bomannas|Bomannas]]; mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Vroclavas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Bomannas|Bomannas]]; mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Vroclavas'
+  semantiniai_rysiai: '[[objektai/asmenys/Bomannas|Bomannas]] gyveno Vilnius'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikia pataisyti OCR.'
@@ -640,7 +648,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181669
   teiginys: 'Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia pataisyti OCR.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilniaus ginklų liejykla; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_place: Podolė; mentioned_place: Ukraina; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilniaus ginklų liejykla; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_place: Podolė; mentioned_place: Ukraina; mentioned_place: Vengrija; llm_object: Vilnius'
+  semantiniai_rysiai: 'Vilniaus ginklų liejykla priklausė Vilnius'
   pagrindžia:
     - c-129
   irodymo_stiprumas: 0.00
@@ -746,7 +755,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-042
   global_id: t-181678
   teiginys: 'Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
@@ -773,7 +782,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181680
   teiginys: 'Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos apibūdinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-127
   irodymo_stiprumas: 0.00
@@ -912,7 +921,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181689
   teiginys: 'Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.'
   sudarymo_pagrindimas: 'Pridėtas citatoje esantis kontekstas, kad data būtų aiškesnė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas citatoje esantis kontekstas, kad data būtų aiškesnė.'
@@ -961,13 +971,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a57d96805fcfb536a29039ce7a3e1e0e4f19a3068977c54300476a99ab7e2ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Jogailos vykimą į Lietuvą krikšto tikslu.
 
 <a id="claim-t-181695"></a>
 - t-056
@@ -1068,7 +1078,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181703
   teiginys: 'Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Jogailos atvykimą į Vilnių.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1386 m.; kelionės data: 1387 m.; kelionės data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata apie Jogailos atvykimą į Vilnių.'
@@ -1112,7 +1123,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181705
   teiginys: 'Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vilnių ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Gardinas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]] keliavo į Vilnius'
   pagrindžia:
     - c-182
   irodymo_stiprumas: 0.00
@@ -1178,13 +1190,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=edab165c2937372dc44167d3a07c3333df26e76a678ae790705a002645f78074; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kazokai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina kazokus rusų sąjungininkais.
 
 <a id="claim-t-181711"></a>
 - t-069
@@ -1237,13 +1249,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bauskė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bauskė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Respublikonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad respublikonų kariuomenės dalinys įžengė į Vilnių.
 
 <a id="claim-t-181716"></a>
 - t-072
@@ -1278,13 +1290,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 609065-610407; hash=89c90bc3cbf5c12b06964bf267fb5a6bcca7a8936c15b4dc30a929a7ad50a977; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini rusų puolimą prieš Vilnių.
 
 <a id="claim-t-181718"></a>
 - t-074
@@ -1297,13 +1309,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e6e0d37e1257d5ee4118f1a27b7d8bdd89d375873f8ca8e9751624f5bd5e3a73; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad lietuviai puolė, o veiksmas siejamas su Vilniumi.
 
 <a id="claim-t-181719"></a>
 - t-075
@@ -1329,7 +1341,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181720
   teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Ašmena; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Ašmena; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1654-1655; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
@@ -1340,7 +1352,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-077
   global_id: t-181721
   teiginys: 'Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Podolė; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1345 m.; įvykio data: apie 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -1351,19 +1363,19 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181722
   teiginys: 'Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares.'
   sudarymo_pagrindimas: 'Sutvarkyta nutrūkusi citata ir paliktas tik citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-220
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cec97574cbc0d7c2d7c65c49ddedfe3d82a971d449a63f346a54774221793f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alytus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alytus: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai nurodyta, kad lietuviai puolė Vilniaus kryptimi.
 
 <a id="claim-t-181723"></a>
 - t-079
@@ -1379,20 +1391,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 780962-781272; hash=66be5e6b9ee42a4ec0b014f9d3e0acf19ffad96fdb9bc1ba374c0562b7ff4f4d; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giedraičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai užėmė Vilnių.
 
 <a id="claim-t-181724"></a>
 - t-080
   global_id: t-181724
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje minimą kunigaikščių atvykimą.'
-  susije_objektai: 'location: Maskva; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Valakija'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Valakija'
+  semantiniai_rysiai: '[[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje minimą kunigaikščių atvykimą.'
@@ -1481,7 +1494,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181732
   teiginys: 'Dėl netvarkos Vilniaus administracijoje Žygimantas Senasis įvedė naują ir griežtą miesto tvarką.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį ir sklandesnį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] keliavo į Vilnius'
   pagrindžia:
     - c-168
   irodymo_stiprumas: 0.00
@@ -1500,7 +1514,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181733
   teiginys: '1919 m. balandžio 19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš miesto.'
   sudarymo_pagrindimas: 'Ištaisyta citatos OCR klaida ir išlaikytas pilnas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Giedraičiai'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Giedraičiai'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ištaisyta citatos OCR klaida ir išlaikytas pilnas faktas.'
@@ -1509,13 +1524,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanulas: 0.83
+  ryšio_patikimumas: uzeme -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hanulas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Hanulas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad Jogaila atėjo į Vilnių ir jį paėmė; objektas „jį“ nurodo Vilnių.
 
 <a id="claim-t-181734"></a>
 - t-089
@@ -1555,13 +1570,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bead4ed4003d0da07dc010c26996a8514238a0303c4423169952bb6620a14841; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Vilnių valdys pats Jogaila.
 
 <a id="claim-t-181737"></a>
 - t-092
@@ -1594,7 +1609,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181739
   teiginys: '1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė prasideda kontekstiniu junginiu ir yra per ilga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]] gyveno Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1544 m.; valdymo laikotarpis: 1823 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė prasideda kontekstiniu junginiu ir yra per ilga.'
@@ -1624,7 +1640,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181743
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia sutrumpinti.'
-  susije_objektai: 'mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]'
+  susije_objektai: 'llm_object: Pskovas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]'
+  semantiniai_rysiai: 'Vilnius prekiavo su Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį, bet reikia sutrumpinti.'
@@ -1657,7 +1674,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181748
   teiginys: 'Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia išvalyti OCR.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Vilnius'
   pagrindžia:
     - c-057
 
@@ -1675,7 +1693,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181750
   teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako citatoje minimą sutarties sudarymą Vilniuje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Naugardas; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_place: Naugardas; mentioned_place: Ryga; llm_object: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]] keliavo į Vilnius; [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]] keliavo į Vilnius; Vilnius prekiavo su Ryga'
   pagrindžia:
     - c-136
 
@@ -1684,7 +1703,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181752
   teiginys: '1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]] mirė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1580 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
@@ -1696,7 +1716,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181754
   teiginys: 'Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR skaidymus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva; llm_object: Ašmena'
   pagrindžia:
     - c-190
 
@@ -1743,7 +1763,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181759
   teiginys: 'Aleksandras, pasirinkęs Vilnių nuolatine gyvenamąja vieta ir laikęs prabangų dvarą, atgaivino sostinę.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia sutvarkyti sakinio formą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] mirė Vilnius'
   pagrindžia:
     - c-188
 
@@ -1752,7 +1773,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181762
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad šis nesutaria su bendruomene ir neturi gaisrui gesinti reikmenų.'
   sudarymo_pagrindimas: 'Teiginys paremtas citatoje išvardytais karaliaus priekaištais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1524 m.; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citatoje išvardytais karaliaus priekaištais.'
@@ -1764,7 +1786,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181763
   teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje aprašytą kryžiuočių atsitraukimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Vilnius'
   pagrindžia:
     - c-034
 
@@ -1782,7 +1805,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181765
   teiginys: 'Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.'
   sudarymo_pagrindimas: 'Pradžia „Tais laikais“ yra per daug kontekstinė.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]] mirė Vilnius'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -1864,13 +1888,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cf4bdcd3abf2a6bedae3b32b873887c923dabef9588bd7247de2ac093c9e7524; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad rusų valdžia kontroliavo Vilniaus miestą.
 
 <a id="claim-t-181770"></a>
 - t-119
@@ -1904,7 +1928,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181772
   teiginys: '1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą be nutrūkusios pabaigos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena'
   temporaliniai_duomenys: 'sutarties data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį faktą be nutrūkusios pabaigos.'
@@ -1913,12 +1937,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Jašiūnai: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_targeto_parinkimas: Jašiūnai: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Jašiūnai" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Jašiūnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jašiūnai: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jašiūnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-181773"></a>
 - t-122
@@ -1934,13 +1959,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=96631ff1572485b0090ba767989e90d0fc8831b9be659d44e6e85d1dbdc53617; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Gediminas įkūrė Vilnių; artimiausias leistinas santykis yra „pastate“.
 
 <a id="claim-t-181774"></a>
 - t-123
@@ -2032,7 +2057,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-128
   global_id: t-181780
   teiginys: '1578 m. Vilniaus jėzuitai paprašė leisti įkurti Vilniuje akademiją, o Steponas Batoras tam pritarė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1578 m.; įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -2071,7 +2096,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181782
   teiginys: '1655 m. rusams užėmus Vilnių, gaisras mieste siautė net 17 dienų.'
   sudarymo_pagrindimas: 'Citata geriau palaiko konkretesnį teiginį apie Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata geriau palaiko konkretesnį teiginį apie Vilnių.'
@@ -2093,7 +2119,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181784
   teiginys: 'Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.'
   sudarymo_pagrindimas: 'Sakinys yra faktinis, gramatiškas ir aiškiai mini organizacijos įkūrimą Vilniuje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės armija|Lietuvos laisvės armija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės armija|Lietuvos laisvės armija]]; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos laisvės armija|Lietuvos laisvės armija]] priklausė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra faktinis, gramatiškas ir aiškiai mini organizacijos įkūrimą Vilniuje.'
@@ -2102,13 +2129,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodoma, kad Gediminas valdė, o kontekstas yra Lietuva.
 
 <a id="claim-t-181785"></a>
 - t-132
@@ -2175,7 +2202,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181789
   teiginys: '1920 m. liepos 15 d. į Vilnių Lietuvos kariuomenė įžengė po Raudonosios armijos kavalerijos korpusų.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiksliai perteikia Vilniaus užėmimo seką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiksliai perteikia Vilniaus užėmimo seką.'
@@ -2194,13 +2222,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48d707276c4d472ccdd71b8e3a3726f902c6a4a89569afb60be6fe1f6dd90211; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.79
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilniaus prastuomenė tiesiogiai atliko smurtinį veiksmą prieš pranciškonų vienuolyną; vienuolyno objektas nėra kandidatuose, todėl artimiausias kanoninis objektas yra ordinas.
 
 <a id="claim-t-181791"></a>
 - t-137
@@ -2216,13 +2244,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3975c0a9c89a3657086ef6e7cca156ebdbc10aa488192975a095a6628554f7c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: „Šio valdovo“ kontekste nurodo Algirdą, kuris išgelbėdavo miestą, t. y. Vilnių.
 
 <a id="claim-t-181792"></a>
 - t-138
@@ -2235,13 +2263,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25b5c8485fe061245321b8c61de599b959f9485cd763287f2e1390a3a044039a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Trakai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta Kęstučio gynyba Trakuose.
 
 <a id="claim-t-181793"></a>
 - t-139
@@ -2257,13 +2285,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniuje vykusius mainus su Maskvos pirkliais.
 
 <a id="claim-t-181794"></a>
 - t-140
@@ -2342,13 +2370,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40de44ccce2b0ee216f080f31b219b0d282ffa3aa7b1a14fe05954ccef40237a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=112
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Ordino riterių smūgį Lietuvai.
 
 <a id="claim-t-181799"></a>
 - t-144
@@ -2378,7 +2406,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-146
   global_id: t-181801
   teiginys: 'Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Možaiskas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Možaiskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] gynė Vilnius'
   pagrindžia:
     - c-055
 
@@ -2395,7 +2424,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181803
   teiginys: 'Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.'
   sudarymo_pagrindimas: 'Citata palaiko pilną teiginį apie Vilniaus rūmus ir miesto vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]] mirė Vilnius'
   pagrindžia:
     - c-024
 
@@ -2404,7 +2434,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181804
   teiginys: 'Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys.'
   sudarymo_pagrindimas: 'Citata pagrindžia apibūdinimą ir trijų pilių faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: 'Vilnius priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-196
 
@@ -2434,7 +2465,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181807
   teiginys: 'Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] pastatė Vilnius'
   pagrindžia:
     - c-149
 
@@ -2538,7 +2570,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-159
   global_id: t-181814
   teiginys: '1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
-  susije_objektai: 'location: Jašiūnai; mentioned_place: Jašiūnai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
+  susije_objektai: 'mentioned_place: Jašiūnai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -2655,7 +2687,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181821
   teiginys: 'Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] puolė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -2686,13 +2719,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cd5c4e87d046d278671444d323c216efb0e10904c4f61ee47c450b4458e1e49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokietija: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos patekimą į Vokietijos okupaciją.
 
 <a id="claim-t-181823"></a>
 - t-167
@@ -2720,7 +2753,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181824
   teiginys: '1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiksliai perteikia citatos informaciją apie Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba|Lietuvos tautinė aukščiausioji taryba]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba|Lietuvos tautinė aukščiausioji taryba]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] valdė miestą Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiksliai perteikia citatos informaciją apie Vilnių.'
@@ -2748,20 +2782,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e4db486e43f21e7782d43a1daaab0ffc900122596143ff7eb534c97b02173bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste tiesiogiai minimas lietuvių ir lenkų disputas dėl Vilniaus ir Rytų Lietuvos.
 
 <a id="claim-t-181826"></a>
 - t-170
   global_id: t-181826
   teiginys: 'Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia įvardyti laikotarpį ir išvalyti OCR.'
-  susije_objektai: 'location: Krokuva; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas Marija|Jonas Marija]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Stanislovas Ratka|Stanislovas Ratka]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Inovroclavas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas Marija|Jonas Marija]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Stanislovas Ratka|Stanislovas Ratka]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Inovroclavas; mentioned_place: Lietuva'
   pagrindžia:
     - c-081
   irodymo_stiprumas: 0.00
@@ -2786,13 +2820,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282680-282947; hash=5d4b74c146a46461a205c4b0a757789c9eb1d54451109fd5ce0c53289c3ce1a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Lietuvos kariuomenė įžengė į Vilnių; leistinas artimiausias judėjimo santykis yra keliavo_i.
 
 <a id="claim-t-181828"></a>
 - t-172
@@ -2805,13 +2839,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vilnius atiteko Lenkijai.
 
 <a id="claim-t-181829"></a>
 - t-173
@@ -2853,20 +2887,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310688-311084; hash=31e1846513843aa12a8af86061ac20ecb79c070a869c14d337896212709e9f52; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai minima Lietuvos suverenumo pozicija Vilniuje.
 
 <a id="claim-t-181832"></a>
 - t-176
   global_id: t-181832
   teiginys: '1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.'
   sudarymo_pagrindimas: 'Citata kalba apie išduotą dokumentą, todėl teiginys patikslintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dobrynė; mentioned_place: Kernavė'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dobrynė; mentioned_place: Kernavė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] valdė miestą Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata kalba apie išduotą dokumentą, todėl teiginys patikslintas.'
@@ -2888,7 +2923,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181833
   teiginys: '1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Kaunas; mentioned_place: Lentvaris; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Kaunas; mentioned_place: Lentvaris; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
@@ -2957,13 +2993,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98b286895748348df0e48461e2567fe092ec4f3be38e21b713706e8e7df7e885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės įžengimą į Vilnių.
 
 <a id="claim-t-181837"></a>
 - t-181
@@ -2998,20 +3034,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414965-415369; hash=42424665fe3381760761108c655746c4f7f512c65b2c62e3e1cd125d5e54017c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos laisvės armija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: LLA įkurta Vilniuje; leistino „įkurta vietoje“ predikato nėra, todėl naudojamas artimiausias lokacinis ryšys.
 
 <a id="claim-t-181839"></a>
 - t-183
   global_id: t-181839
   teiginys: '1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus ir tiesiogiai patvirtintas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaunas; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaunas; mentioned_place: Čikaga; llm_object: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1915 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus ir tiesiogiai patvirtintas citata.'
@@ -3032,7 +3068,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-184
   global_id: t-181840
   teiginys: '1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -3040,20 +3077,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: priklause -> Maskva: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos Helsinkio grupė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Grupės pavadinimas ir įkūrimas Maskvoje tiesiogiai sieja ją su Maskva.
 
 <a id="claim-t-181841"></a>
 - t-185
   global_id: t-181841
   teiginys: 'Lenkai nusprendė pasinaudoti spraga bolševikų pozicijose ir surengti stambią puolamąją operaciją Vilniui užimti.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį sakinį be perteklinių ir ne visai tikslių formuluočių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį sakinį be perteklinių ir ne visai tikslių formuluočių.'
@@ -3065,7 +3103,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181842
   teiginys: 'Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Žygimanto veiksmą Vilniaus atžvilgiu.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_author: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; territory: Trakai'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_author: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena'
   pagrindžia:
     - c-095
   irodymo_stiprumas: 0.00
@@ -3084,7 +3122,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181843
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
@@ -3124,13 +3163,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 525268-526094; hash=02b5d256448d4f5b10bccfc8fd5f5283312a0c441c2b939013349b9ae0f683c8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai liko Vilniuje kaip gyventojai.
 
 <a id="claim-t-181846"></a>
 - t-190
@@ -3167,13 +3206,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 532307-532582; hash=bd356b22fa86d28d214ea9d5c1f51f208f559f39ba5f5df0f811086c295a6cf4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Džordžas Bušas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Džordžas Bušas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Džordžas Bušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad NATO sąjunga pasiryžusi ginti nares; kontekste kalbama apie Lietuvą.
 
 <a id="claim-t-181848"></a>
 - t-192
@@ -3257,7 +3296,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-196
   global_id: t-181852
   teiginys: 'Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Maskva; mentioned_place: Krimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Maskva; mentioned_place: Krimas; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -3277,13 +3317,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4aa4d91fc4e7e76828ca4940b3c2abf48f7232854f825a5e495946913f69d138; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: uzeme -> Vilnius: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=97
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė kalba apie ketinimą užimti Vilnių, ne patį įvykusį užėmimą, todėl pasitikėjimas vidutinis.
 
 <a id="claim-t-181855"></a>
 - t-198
@@ -3360,7 +3400,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181859
   teiginys: '1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Jogailos atvykimą į Vilnių.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Viena; llm_object: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1386 m.; kelionės data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie Jogailos atvykimą į Vilnių.'
@@ -3398,13 +3438,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Gedimino sutartį su Lokietka.
 
 <a id="claim-t-181862"></a>
 - t-205
@@ -3430,7 +3470,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181863
   teiginys: '1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia sutrumpinti ir užbaigti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] apgulė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1568 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikia sutrumpinti ir užbaigti.'
@@ -3461,13 +3502,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Bajerburgas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Gediminas buvo nužudytas prie Bajerburgo pilies.
 
 <a id="claim-t-181865"></a>
 - t-208
@@ -3512,7 +3553,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181867
   teiginys: 'Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pataisyti OCR ir aiškiau susieti su Vilniumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] valdė miestą Vilnius'
   pagrindžia:
     - c-082
   irodymo_stiprumas: 0.00
@@ -3636,7 +3678,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181874
   teiginys: '1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės.'
   sudarymo_pagrindimas: 'Pradinis tekstas sujungė sakinio fragmentą ir nuotraukos antraštę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas sujungė sakinio fragmentą ir nuotraukos antraštę.'
@@ -3683,13 +3725,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 149631-150520; hash=f3e36cc25177b11f2ccbf6754a82001d59728d53eeb0b896fa1222e29902bef8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: priklause -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vilnius Gedimino laiške įvardytas kaip jo karališkasis miestas.
 
 <a id="claim-t-181877"></a>
 - t-220
@@ -3724,13 +3766,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 172291-173034; hash=8aaeff8b69977a6be93dc3d3118fcbc4905f714fa6003a43a1f25e74e2265bfc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: priklause -> Gediminas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys nurodo, kad Vilnius Gedimino laiške minimas kaip valdovo miestas.
 
 <a id="claim-t-181879"></a>
 - t-222
@@ -3829,7 +3871,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181886
   teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas, paliktas citatos paremtas faktas apie Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir antraštės triukšmas, paliktas citatos paremtas faktas apie Vilnių.'
@@ -3887,13 +3930,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 268461-268832; hash=ab65fa94ddc4b120d5668a266563be70f9b86b58d73e31d0417d989dd044ce57; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: priklause -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilnius apibūdintas kaip miestas lietuvių žemėse.
 
 <a id="claim-t-181890"></a>
 - t-233
@@ -3906,32 +3949,33 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini kryžiuočius po Vilniaus pilies apsupties.
 
 <a id="claim-t-181891"></a>
 - t-234
   global_id: t-181891
   teiginys: 'Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti puslapio ir OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: 'Vilnius priklausė [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-065
   irodymo_stiprumas: 0.00
   saltinio_vieta: 297260-298180; hash=34208c6a84fe34b45d984189bcb1dbd4ef0c9111c81b76370b6736156b72470c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skirgaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skirgaila: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vilniaus prekybą sieja su Livonijos miestais.
 
 <a id="claim-t-181892"></a>
 - t-235
@@ -3969,20 +4013,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301465-302023; hash=a20999fb00e312147d68f9beb54038182acbc897107c79d0ac529669d1518aad; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių pusės magistras su kariauna patraukė į Vilnių, todėl tai laikytina kariniu žygiu.
 
 <a id="claim-t-181895"></a>
 - t-237
   global_id: t-181895
   teiginys: '1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir atitinka citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vitebskas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir atitinka citatos faktus.'
@@ -4042,7 +4087,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181898
   teiginys: 'Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti perteklinį kontekstą ir OCR.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Bajerburgas; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-063
   irodymo_stiprumas: 0.00
@@ -4060,7 +4105,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - t-241
   global_id: t-181899
   teiginys: '1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baiga; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Trakai; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baiga; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1377 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -4121,13 +4166,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pskovas: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Joachimas Pavlovičius: nearest_actor, person, gap=27
-  ryšio_targeto_parinkimas: Pskovas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Joachimas Pavlovičius" parinktas kaip nearest_actor. Targetas "Pskovas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Joachimas Pavlovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Joachimas Pavlovičius įvardytas tarp Pskovo pasiuntinių, atvykusių į Vilnių.
 
 <a id="claim-t-181905"></a>
 - t-246
@@ -4140,20 +4185,21 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.93
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Tverės ir Riazanės kunigaikščiai" parinktas kaip nearest_actor. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių.
 
 <a id="claim-t-181906"></a>
 - t-247
   global_id: t-181906
   teiginys: '1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir sutampa su citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius; [[objektai/asmenys/Jogaila|Jogaila]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir sutampa su citatos turiniu.'
@@ -4175,7 +4221,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181907
   teiginys: 'Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra skyriaus antraščių sąrašas; citata remia vieną aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Vilniaus pilis'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Vilniaus pilis'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vilnius'
   pagrindžia:
     - c-083
   irodymo_stiprumas: 0.00
@@ -4194,7 +4241,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181908
   teiginys: 'Per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai, o lenkų Vilniuje liko 20 procentų.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir aiškiai perteikia citatos faktą apie Vilniaus demografiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Rytprūsiai; mentioned_place: Varšuva; mentioned_place: Šalčininkai'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Rytprūsiai; mentioned_place: Varšuva; mentioned_place: Šalčininkai'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Vilnius; [[objektai/grupes/Lietuviai|Lietuviai]] gyveno Vilnius'
   pagrindžia:
     - c-064
   irodymo_stiprumas: 0.00
@@ -4235,7 +4283,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181910
   teiginys: '1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė forma per ilga ir nutrūkusi.'
-  susije_objektai: 'location: Pskovas; mentioned_person: [[objektai/asmenys/Ivanas Sidorovičius|Ivanas Sidorovičius]]; mentioned_person: [[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]]; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Ivanas Sidorovičius|Ivanas Sidorovičius]]; mentioned_person: [[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]]; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]] keliavo į Vilnius; [[objektai/asmenys/Ivanas Sidorovičius|Ivanas Sidorovičius]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ivanas Sidorovičius keliavo į Pskovas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė forma per ilga ir nutrūkusi.'
@@ -4244,20 +4293,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Švitrigailos atvykimą į Vilnių.
 
 <a id="claim-t-181911"></a>
 - t-252
   global_id: t-181911
   teiginys: 'Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje minima Vilniuje gauta žinia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Podolės bajorai|Podolės bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Podolės bajorai|Podolės bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; llm_object: Lenkija; llm_object: Lietuva'
   pagrindžia:
     - c-203
   irodymo_stiprumas: 0.00
@@ -4285,13 +4334,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Podolė buvo perduota Lenkijai.
 
 <a id="claim-t-181914"></a>
 - t-254
@@ -4307,32 +4356,33 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo bojarinai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo bojarinai: mention_match, group, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo bojarinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo bojarinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad bojarinai buvo pasiųsti iš Didžiojo Naugardo į Vilnių.
 
 <a id="claim-t-181915"></a>
 - t-255
   global_id: t-181915
   teiginys: 'Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir teiginys paverstas pilnu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Bauskė; mentioned_place: Druja'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Bauskė; mentioned_place: Druja'
+  semantiniai_rysiai: '[[objektai/grupes/Respublikonai|Respublikonai]] keliavo į Vilnius'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bomannas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bomannas: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bomannas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bomannas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bomannas tiesiogiai įvardytas kaip Vilniaus miestietis.
 
 <a id="claim-t-181916"></a>
 - t-256
@@ -4348,13 +4398,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba3de85ae7275437ec4dca699518f513168809db0aceaad248510d924977df3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Trakai: 0.82
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=45
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-181917"></a>
 - t-257
@@ -4368,13 +4418,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440842-441472; hash=be955f63351833bb8accf276144f2b6aea4c6c8bbbd67b64ebd8330aaab98d94; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumas: buvo_priesas -> Švitrigaila: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys mini Žygimanto ir Švitrigailos grupuočių kovą, todėl jų politinė priešprieša tiesiogiai paremta.
 
 <a id="claim-t-181918"></a>
 - t-258
@@ -4454,13 +4504,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Vilniaus prekybinius ryšius su Pskovu.
 
 <a id="claim-t-181923"></a>
 - t-263
@@ -4476,7 +4526,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181925
   teiginys: 'Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatoje aprašytą Vilniaus vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1544 m.; įvykio data: 1548 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atitinka citatoje aprašytą Vilniaus vaidmenį.'
@@ -4525,13 +4576,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478204-478688; hash=3af5de45bff085919a80828bee8975401d665903dd3659876c36a65c5f0b918d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos pastaba tiesiogiai nurodo Elenos mirtį Vilniuje.
 
 <a id="claim-t-181931"></a>
 - t-269
@@ -4565,7 +4616,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181933
   teiginys: 'Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškių įvardžių ir perteklinių detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krimas; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Vilnius; [[objektai/grupes/Bajorai|Bajorai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra neaiškių įvardžių ir perteklinių detalių.'
@@ -4574,13 +4626,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Žygimantas Senasis buvo atvykęs ir lankėsi Vilniuje.
 
 <a id="claim-t-181934"></a>
 - t-272
@@ -4683,13 +4735,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552492-553254; hash=608d4b877fb16f875fa0a0fcf4c9f47f17f84073e2f5291fa6a5bced8405f4b4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=25
-  ryšio_targeto_parinkimas: Krokuva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Krokuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-181940"></a>
 - t-278
@@ -4722,13 +4774,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 556537-557107; hash=42f2a9ab4c145cb5379ed51ba0523304e6a75a5654803b2ed33b0862c8bc65cb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys lokalizuoja ginklų liejyklą prie Vilniaus pilies, todėl ji siejama su Vilniumi.
 
 <a id="claim-t-181942"></a>
 - t-280
@@ -4753,7 +4805,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181943
   teiginys: '1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lenkija; mentioned_place: Suvalkai'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lenkija; mentioned_place: Suvalkai'
+  semantiniai_rysiai: 'Vilnius priklausė Lenkija; [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]] keliavo į Vilnius; [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]] užėmė Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus ir tiesiogiai paremtas citata.'
@@ -4762,13 +4815,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 160654-161211; hash=c6b0d8e4bb577ffa9b503ee8bf7d4da7f7157b215c318506ffdfe4209b6bd5a8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas apgulė Vilniaus miestą.
 
 <a id="claim-t-181945"></a>
 - t-282
@@ -4897,7 +4950,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   global_id: t-181951
   teiginys: 'Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.'
   sudarymo_pagrindimas: 'Pašalinta dviguba neiginio konstrukcija, išlaikant citatos prasmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Livonija; llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Viena'
+  semantiniai_rysiai: 'Vilnius prekiavo su Prūsija; Vilnius prekiavo su Livonija; Vilnius prekiavo su Naugardas'
   pagrindžia:
     - c-091
   irodymo_stiprumas: 0.00
@@ -4949,13 +5003,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8ed0e21b347b4391d3bbe84ec465ac25d76ab6b47ec2336a25a3a5006b9a9276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurgis Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurgis Astikas: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jurgis Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nukirsdinimas Vilniaus turguje tiesiogiai pagrindžia Jurgio Astiko mirties vietą Vilniuje.
 
 <a id="claim-t-185180"></a>
 - t-295
@@ -4965,7 +5019,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų veiksmą be neparemto asmens vardo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-260
   irodymo_stiprumas: 0.00
@@ -5052,7 +5106,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie vienuolių įkurdinimą Vilniuje ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Goštautas|Petras Goštautas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie vienuolių įkurdinimą Vilniuje ir atitinka citatą.'
@@ -5083,13 +5138,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7750aa3873fa077132cc9cf43f3e4d38104821015e9351431b4f93821af315b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad rusai užėmė Vilnių.
 
 <a id="claim-t-185186"></a>
 - t-301
@@ -5099,7 +5154,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia išplėsti dalyvius ir suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Vilnius'
   pagrindžia:
     - c-266
 
@@ -5111,7 +5167,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Jogailos veiksmą ir Vytauto įkalinimą Vilniuje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Krėva'
   pagrindžia:
     - c-267
   irodymo_stiprumas: 0.00
@@ -5144,7 +5200,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą ir jo kontekstą.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-269
   irodymo_stiprumas: 0.00
@@ -5178,7 +5234,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Kazimiero atvykimą į Vilnių ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-271
   irodymo_stiprumas: 0.00
@@ -5293,7 +5349,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta iki esminio seimo fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vitebskas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vitebskas; mentioned_place: Volynė; llm_object: [[objektai/asmenys/Kiška|Kiška]]'
   pagrindžia:
     - c-277
 
@@ -5349,19 +5405,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikalinga atribucija dėl metraštinio pasakojimo ir gimininės perspektyvos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] užėmė Vilnius'
   pagrindžia:
     - c-280
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302251-302491; hash=c06c1d7ba01a7c4b23d6aaa9752e6f101de833fd2219ac16d825856a306aae31; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaunutis (valdovas, XIV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jaunutis (valdovas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užėmė Vilnių.
 
 <a id="claim-t-187671"></a>
 - t-316
@@ -5371,19 +5428,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta ir išvengta neatribuuoto titulo vartojimo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Vilnius'
   pagrindžia:
     - c-281
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135662-136155; hash=f33d9af3bf896da2c65716978a229b76bc23a4a548743eae80138533f55ff502; match=word_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila buvo pripažintas didžiuoju kunigaikščiu Vilniuje.
 
 <a id="claim-t-187672"></a>
 - t-317
@@ -5393,19 +5451,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Papildytas citatoje aiškiai nurodytas rezultatas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] apgulė Vilnius'
   pagrindžia:
     - c-282
   irodymo_stiprumas: 0.00
   saltinio_vieta: 160654-161211; hash=c6b0d8e4bb577ffa9b503ee8bf7d4da7f7157b215c318506ffdfe4209b6bd5a8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas apgulė Vilniaus miestą.
 
 <a id="claim-t-187673"></a>
 - t-318
@@ -5459,19 +5518,19 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Giminaičiai ir kelionės tikslas palikti kaip faktinė citatos informacija, o moralizuotas priėmimo apibūdinimas atribuuotas metraščiui. Nepridėta tikslių metų, nes citata jų nepateikia.'
-  susije_objektai: 'family: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai'
   pagrindžia:
     - c-285
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256914-257492; hash=930d7f670b008df633902faac3f33234332449de960b3ed27d4112848a3ae4f9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Barbora Radvilaitė: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: nearest_family_person, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas" parinktas kaip nearest_actor. Targetas "Barbora Radvilaitė" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187676"></a>
 - t-321
@@ -5503,19 +5562,20 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikalinga atribucija dėl poleminio pasakojimo apie Jogailos veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] užėmė Vilnius'
   pagrindžia:
     - c-287
   irodymo_stiprumas: 0.00
   saltinio_vieta: 303628-304781; hash=ca218daf9580d36a6ca7814170b609fe1803eb57e8563f18798cfab545ca8cdf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užėmė Vilnių.
 
 <a id="claim-t-187678"></a>
 - t-323
@@ -5534,13 +5594,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 602732-602833; hash=9739e694a9d30f616b2184fbb12d075760147999d583decd7c13eb639a1592ac; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.95
+  ryšio_patikimumas: gyveno -> Vilnius: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Gediminas: nearest_actor, person, gap=10
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Gediminas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Gedimino gyvenimą Vilniuje.
 
 <a id="claim-t-187679"></a>
 - t-324
@@ -5550,7 +5610,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginyje išskleistas Elenos titulinis apibūdinimas iš citatos ir patikslinta jungtuvių vieta. Poleminių ar religinių vertinimų nepridėta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1495 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginyje išskleistas Elenos titulinis apibūdinimas iš citatos ir patikslinta jungtuvių vieta. Poleminių ar religinių vertinimų nepridėta.'
@@ -5559,63 +5620,216 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607711-607869; hash=a0edcf9294640fe4ea9d2a994c494c522ea123ebebac30ce4f8d6c2caf22290a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176387|Gediminas]]: Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176387|Gediminas]]: Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184511|Kryžiuočių ordinas]]: Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108326|Pranciškonų ordinas]]: Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Elenos atvykimą į Vilnių, nors kandidato pavadinimas yra dviprasmis.
+- susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
+- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
+- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-34795|Jaunė (Jievna)]]: Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.
+- susijęs iš [[objektai/asmenys/Parulis.md#claim-t-87926|Parulis]]: 1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui, kad palūkanos būtų mokamos Švč. Trejybės špitolei.
+- susijęs iš [[objektai/grupes/Silezijos ir Vroclavo gyventojai.md#claim-t-86825|Silezijos ir Vroclavo gyventojai]]: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.
+- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
+- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
+- susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179660|Skirgaila]]: 1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios neatiduoti Vilniaus ir kitų miestų.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176719|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.
+- susijęs iš [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą).md#claim-t-31438|Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]: 1344-1345 m. žiemą Kęstutis, susitaręs su broliu, užėmė Vilnių ir suėmė Jaunutį.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179643|Skirgaila]]: 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
+- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186668|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.
+- susijęs iš [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.).md#claim-t-37194|Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 16–17 d. lenkai užėmė Lydą, o balandžio 19–21 d. po sunkių kovų užėmė Vilnių ir išstūmė iš jo bolševikus.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
+- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.
+- susijęs iš [[objektai/asmenys/Joachimas Pavlovičius.md#claim-t-87910|Joachimas Pavlovičius]]: Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184373|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.
+- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-40223|Jonas Mejenas]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-184377|Skirgaila]]: 1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
+- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179712|Švitrigaila]]: Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172932|M. Strijkovskis Stryjkowski]]: Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.
+- susijęs iš [[objektai/grupes/Rusijos kariuomenės korpusas.md#claim-t-41133|Rusijos kariuomenės korpusas]]: Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117307|Vokiečiai]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.
+- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.).md#claim-t-28835|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]: 1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.
+- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186671|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais ir laikė tai išdavyste.
+- susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75151|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga).md#claim-t-75153|Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
+- susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
+- susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
+- susijęs iš Krokuva: Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54941|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82177|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82287|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.
+- susijęs iš [[objektai/asmenys/Klemensas iš Moskoževo.md#claim-t-35189|Klemensas iš Moskoževo]]: Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.
+- susijęs iš [[objektai/asmenys/Senda Berenson-Abbot.md#claim-t-78070|Senda Berenson-Abbot]]: Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.
+- susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86985|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75351|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75354|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir viešai pakartas Vilniuje.
+- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
+- susijęs iš [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika.md#claim-t-75395|Sukilėlių partizaninio karo nedidelių antpuolių taktika]]: Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas Sierakauskas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.
+- susijęs iš Žąsliai: Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo.
+- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36795|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
+- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36797|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
+- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
+- susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
+- susijęs iš [[objektai/asmenys/Geremferdenas.md#claim-t-87503|Geremferdenas]]: Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173250|Vladislovas Jogaila]]: 1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.
+- susijęs iš [[objektai/grupes/Jono Mejeno divizija.md#claim-t-40902|Jono Mejeno divizija]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/grupes/Šv. Bazilijaus ordinas.md#claim-t-86841|Šv. Bazilijaus ordinas]]: Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
+- susijęs iš [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis).md#claim-t-54709|Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]: 1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas.
+- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186668|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
+- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
+- susijęs iš Hlebovičiaus Vytauto gyvenimo aprašymas: Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.
+- susijęs iš Pskovas: Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.
+- susijęs iš Vilniaus ginklų liejykla: 1579 m. rengiantis žygiui į Livoniją Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.
+- susijęs iš Vilniaus ginklų liejykla: 1579 m. rengiantis žygiui į Livoniją, Vilniaus ginklų liejykla liejo pabūklus pagal geriausius pavyzdžius.
+- susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.
+- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
+- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173243|Vladislovas Jogaila]]: Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.
+- susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
+- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172875|J. Dlugošas]]: J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
+- susijęs iš [[objektai/grupes/Rusų pirkliai.md#claim-t-86771|Rusų pirkliai]]: Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75352|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje.
+- susijęs iš [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais.md#claim-t-87151|Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]: Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.
+- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82288|Elena (vyskupas, XV–XVI a.)]]: 1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82296|Elžbieta]]: Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82299|Elžbieta]]: Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių.
-- susijęs iš [[objektai/asmenys/Geremferdenas.md#claim-t-87503|Geremferdenas]]: Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
-- susijęs iš [[objektai/asmenys/Joachimas Pavlovičius.md#claim-t-87910|Joachimas Pavlovičius]]: Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173339|Žygimantas Senasis]]: Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113196|Pskovo respublika]]: Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
-- susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74141|JAV lietuviai]]: 00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.
-- susijęs iš Kijevas: Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.
-- susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
-- susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
-- susijęs iš [[objektai/asmenys/Jokūbas I.md#claim-t-87708|Jokūbas I]]: Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.
-- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
-- susijęs iš [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas.md#claim-t-40903|Jozefo Grabinskio Jėgerių batalionas]]: Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.
-- susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.).md#claim-t-28835|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]: 1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas, Jogailos suėmimas ir Vaidilos nubaudimas.md#claim-t-185733|Kęstučio Vilniaus užėmimas, Jogailos suėmimas ir Vaidilos nubaudimas]]: Kęstučio kariai užėmė Vilniaus pilis, apsupo valdovo rūmus ir suėmė Jogailą, Julijoną bei Mariją.
-- susijęs iš Anglija: Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.
-- susijęs iš Trakai: Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus.
-- susijęs iš Vilniaus kraštas: Apie 100 000 lietuvių gyveno Vilniaus krašte.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
-- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-40223|Jonas Mejenas]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
-- susijęs iš [[objektai/grupes/Jono Mejeno divizija.md#claim-t-40902|Jono Mejeno divizija]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
-- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
-- susijęs iš [[objektai/asmenys/Stanislovas Ostrorogas.md#claim-t-186257|Stanislovas Ostrorogas]]: Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys.
-- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
-- susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
-- susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
-- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-87673|Fridrichas]]: Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.
-- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184373|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.
-- susijęs iš Trakai: Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179643|Skirgaila]]: 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
+- susijęs iš [[objektai/asmenys/Klemensas Moskorzewskis.md#claim-t-30333|Klemensas Moskorzewskis]]: Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių.
+- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184869|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.
+- susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-87889|Zbignevas Olesnickis (vyskupas)]]: Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
+- susijęs iš [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis.md#claim-t-87075|Dengtos rogės ir vežimai su atsargomis]]: Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.
+- susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86759|Lenkijos senatas]]: Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.).md#claim-t-28877|Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]: 1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
+- susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
+- susijęs iš Rotušės aikštė: Balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82180|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.
+- susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176287|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
+- susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
+- susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185940|Augustas]]: Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.
+- susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/asmenys/Daugirdas.md#claim-t-186102|Daugirdas]]: Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
+- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
+- susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
+- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-183744|Jonas Mejenas]]: Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas.
+- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-40223|Jonas Mejenas]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-40224|Jonas Mejenas]]: Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184749|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82625|Mykolas Glinskis]]: Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179671|Skirgaila]]: Skirgailai buvo pavesta valdyti Vilniaus sritis.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186514|Teodoras Narbutas]]: Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.
+- susijęs iš [[objektai/asmenys/Vladislavas Ačalovas.md#claim-t-40514|Vladislavas Ačalovas]]: Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176669|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila.
+- susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64422|Zigmantas Sierakauskas]]: Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172933|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
+- susijęs iš [[objektai/daiktai/Aleksandro lektika.md#claim-t-54484|Aleksandro lektika]]: Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.
+- susijęs iš [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas.md#claim-t-40829|76-osios oro desanto divizijos 234-asis pulkas]]: Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.
+- susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
+- susijęs iš [[objektai/grupes/Jono Mejeno divizija.md#claim-t-40902|Jono Mejeno divizija]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179002|Kryžiuočių ordinas]]: Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.
+- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
+- susijęs iš [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus.md#claim-t-87204|Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]: Pskovo pasiuntiniai Vilniuje sumokėjo Vytautui 1 000 sidabro rublių už belaisvių paleidimą, o vėliau pridėjo dar 250 rublių.
+- susijęs iš [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus.md#claim-t-87205|Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]: Pskovo pasiuntiniai Vilniuje mokėjo Vytautui sidabrą už belaisvių paleidimą, tačiau belaisviai paleisti tik pridėjus dar 250 rublių.
+- susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87213|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: 1452 m. vasarį Lucke mirusio Švitrigailos kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
+- susijęs iš [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje.md#claim-t-87214|Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]: Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape.
+- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-05349|Lietuvos krikšto apeigos]]: Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.
+- susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš 1536 m. Žygimanto Senojo Vilniaus miesto įstatymai: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus, pritarus karalienei Bonai.
+- susijęs iš Lietuvos Metraštis: Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.
+- susijęs iš Ašmena: Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado.
+- susijęs iš Ašmena: Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.
+- susijęs iš Baltoji Rusia: Baltojoje Rusioje buvo kilę bruzdėjimų, kuriuos Jogaila numaldė prieš grįždamas į Vilnių.
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
-- susijęs iš Ašmena: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus.
-- susijęs iš Ašmena: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
+- susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
+- susijęs iš Kaunas: 1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link.
+- susijęs iš Lenkija: 1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.
+- susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
+- susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
+- susijęs iš Minskas: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
+- susijęs iš Svečių namai Vilniuje: Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.
+- susijęs iš Svyro stovykla: 1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre.
+- susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.
+- susijęs iš Voluinė: Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.
+- susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36803|kunigaikštija]]: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
+- susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86488|monopolis privati prekyba]]: Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo bojarinai.md#claim-t-86789|Didžiojo Naugardo bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179001|Kryžiuočių ordinas]]: Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.
+- susijęs iš Pskovas: Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
+- susijęs iš [[objektai/asmenys/Andrius (Vilniaus vyskupas).md#claim-t-186178|Andrius (Vilniaus vyskupas)]]: Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113789|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.
+- susijęs iš [[objektai/asmenys/Ivanas Sidorovičius.md#claim-t-87909|Ivanas Sidorovičius]]: Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.
+- susijęs iš [[objektai/asmenys/Jonas Ritvianskis.md#claim-t-186217|Jonas Ritvianskis]]: Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas.
+- susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
+- susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-81901|Grzybowski]]: Grzybowskis teigė, kad Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į Kristaus tikėjimą.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45535|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45536|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
+- susijęs iš [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d.md#claim-t-45537|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]: 1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.
+- susijęs iš [[objektai/grupes/Rusų pirkliai.md#claim-t-86770|Rusų pirkliai]]: Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172825|Vilniaus miestiečių luomas]]: Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
+- susijęs iš [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais.md#claim-t-87273|Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]: 1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams.
+- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
+- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87168|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.
+- susijęs iš Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus: Išstudijavę Jano Lasickio knygą apie dievus, šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/asmenys/Romain Garry.md#claim-t-19205|Romain Garry]]: Romain Garry užaugo Vilniuje ir tapo dukartiniu Gonkūrų premijos laureatu.
+- susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
+- susijęs iš [[objektai/zodynas/etatiniai vienetai.md#claim-t-42450|etatiniai vienetai]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
+- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82429|Jonas Olesnickis]]: Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.
+- susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82434|Jonas Olesnickis]]: Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.
+- susijęs iš [[objektai/asmenys/Jonas Zabžezinskis.md#claim-t-87419|Jonas Zabžezinskis]]: Jonas Zabžezinskis lydėjo paliegusį karalių Aleksandrą, kai šis ponų patarimu buvo nugabentas į Vilnių.
+- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
+- susijęs iš [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra).md#claim-t-87894|Zofija (Jurgio Sniadeckio dukra)]]: 1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
+- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
+- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179115|Kryžiuočių ordinas]]: Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.
+- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172817|Vilniaus magistratas]]: 1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą.
+- susijęs iš [[objektai/grupes/oji rezervo divizija.md#claim-t-80644|oji rezervo divizija]]: Sukilėliams delsiant pulti Vilnių, prie miesto artėjo rusų 1-oji rezervo divizija.
+- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-81752|Šubravcų draugija]]: Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
+- susijęs iš [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje.md#claim-t-185792|Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]: Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
+- susijęs iš Ašmena: 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.
+- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
+- susijęs iš Kardinalija: Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
+- susijęs iš Naugardukas: Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.
+- susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
+- susijęs iš Trakai: Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.
+- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
+- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
+- susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113651|Magdeburgo teisės]]: Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.
+- susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77997|A. Voldemaras]]: A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78001|A. Voldemaras]]: Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.
@@ -7657,6 +7871,31 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/špitolė prieglauda.md#claim-t-86431|špitolė prieglauda]]: Švč. Trejybės prieglauda Vilniuje garsėjo labdaringa veikla.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185334|žygūnas]]: Karalius skubiai išsiuntė žygūnus pranešti iš Vilniaus išvykusiems kunigaikščiams, kad durininkas už neapdairumą bus nubaustas mirtimi.
+- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
+- susijęs iš Lentvaris: Balandžio 3-8 d. pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
+- susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.
+- susijęs iš Žirmūnai: 1962–1969 m. Vilniuje pastatyti Žirmūnai buvo pirmasis stambiaplokščių daugiabučių mikrorajonas.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
+- susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87583|Sudimantas]]: Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172976|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172977|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.
+- susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179097|Kryžiuočių ordinas]]: Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108288|Pranciškonų ordinas]]: Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
+- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55109|Šubravcų draugija]]: Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
+- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55110|Šubravcų draugija]]: Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186575|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraštis pasakoja, kad Kęstutis po Algirdo mirties pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
+- susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186576|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraščio pasakojime Kęstutis po Algirdo mirties 1377 m. pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75305|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
+- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš Naugardukas: Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.
+- susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
@@ -10724,6 +10963,276 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-187537|žirgininkas]]: Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
+- susijęs iš [[objektai/asmenys/Stanislovas Ostrorogas.md#claim-t-186257|Stanislovas Ostrorogas]]: Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86895|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte.
+- susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185635|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.
+- susijęs iš [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių.md#claim-t-186573|Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]: Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Petras Goštautas atsivedė į Vilnių kitus pranciškonus.
+- susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
+- susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
+- susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.
+- susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183834|komtūras]]: Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.
+- susijęs iš [[objektai/zodynas/patepimas į valdžią.md#claim-t-86606|patepimas į valdžią]]: Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181560|Abraomas Kulvietis]]: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75891|Julija Žymantienė-Žemaitė]]: 1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.
+- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75892|Julija Žymantienė-Žemaitė]]: 1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.
+- susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
+- susijęs iš [[objektai/asmenys/Pisonas.md#claim-t-186248|Pisonas]]: Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą.
+- susijęs iš [[objektai/asmenys/Vinrichas Kniprodė.md#claim-t-87590|Vinrichas Kniprodė]]: Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176768|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173332|Žygimantas Senasis]]: 1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173334|Žygimantas Senasis]]: 1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172936|M. Strijkovskis Stryjkowski]]: Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.
+- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86989|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.
+- susijęs iš [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai.md#claim-t-87112|Kęstučio laidotuvių rūbai ir ginklai]]: Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.
+- susijęs iš [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-40822|2-oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172109|Jėzuitų ordinas]]: Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172132|Jėzuitų ordinas]]: Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178806|Kryžiuočių ordinas]]: Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179050|Kryžiuočių ordinas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179128|Lenkai]]: Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.
+- susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179317|Lietuviai]]: Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.
+- susijęs iš [[objektai/grupes/Maskvos, totorių ir valakų pirkliai.md#claim-t-86811|Maskvos, totorių ir valakų pirkliai]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187741|Pranciškonų ordinas]]: Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.
+- susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
+- susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186647|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-55124|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-81826|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186749|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186751|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35897|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.
+- susijęs iš [[objektai/ivykiai/Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.).md#claim-t-185659|Vytauto mėginimas klasta užgrobti Vilnių ir antras perėjimas pas kryžiuočius (1389 m.)]]: Vytautas pirmiausia nutarė klasta užgrobti Vilnių, pasinaudodamas gandais apie Henriko ir Ringailės santuoką.
+- susijęs iš [[objektai/paprociai/Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį.md#claim-t-87268|Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį]]: Gindamas Vilnių Olesnickis įsakė sudeginti likusius miesto namus, o gyventojus su manta ir maisto atsargomis iškeldinti į Žemutinę pilį.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
+- susijęs iš Lietuvos Metraštis: Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.
+- susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
+- susijęs iš Klaipėda: Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine.
+- susijęs iš Krokuva: Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.
+- susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
+- susijęs iš Maskva: Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje.
+- susijęs iš Podolė: Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.
+- susijęs iš Silezija: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.
+- susijęs iš Silezija: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
+- susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
+- susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš Šv. Mykolo bažnyčia Vilniuje: Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.
+- susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86488|monopolis privati prekyba]]: Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.
+- susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
+- susijęs iš Druja: Sapiegų senjorai Vilniuje paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
+- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82257|Dobrogostas]]: 1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.
+- susijęs iš [[objektai/asmenys/Gotfridas Lindenas.md#claim-t-87509|Gotfridas Lindenas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184723|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-184577|Pranciškonų ordinas]]: Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės.
+- susijęs iš [[objektai/grupes/Vilniaus rusinai.md#claim-t-86775|Vilniaus rusinai]]: Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.
+- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
+- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
+- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.).md#claim-t-86948|Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]: 1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.
+- susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113789|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.
+- susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
+- susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40373|Nikolajus Arsenjevas]]: Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.
+- susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87576|Snorro Sturleson]]: Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176687|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.
+- susijęs iš [[objektai/asmenys/Česchonis.md#claim-t-87896|Česchonis]]: Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.
+- susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
+- susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87034|Rittersverderio pilis ir laikini įtvirtinimai]]: Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.
+- susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87035|Svečių namai rusų pirkliams Vilniuje]]: Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu.
+- susijęs iš [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas.md#claim-t-40829|76-osios oro desanto divizijos 234-asis pulkas]]: Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.
+- susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54837|Dievo Kūno arkibrolija]]: Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179042|Kryžiuočių ordinas]]: 1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.
+- susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179137|Lenkai]]: Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.
+- susijęs iš [[objektai/grupes/Maskvos pasiuntiniai.md#claim-t-86810|Maskvos pasiuntiniai]]: 1494 m. Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.
+- susijęs iš [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai.md#claim-t-86813|Naugardo, Pskovo, Rygos ir Maskvos pirkliai]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
+- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86689|Vilniaus gyventojai]]: Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
+- susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20460|Reformacijos pradžia Lietuvoje]]: Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos.md#claim-t-87272|Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]: Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.
+- susijęs iš [[objektai/paprociai/Panedėlio už grieką laikymas.md#claim-t-07797|Panedėlio už grieką laikymas]]: Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.
+- susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
+- susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
+- susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
+- susijęs iš Druja: Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
+- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
+- susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
+- susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
+- susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
+- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54805|Cechas]]: Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
+- susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86552|svečiai Svečių namai]]: Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.
+- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-184717|Jaunutis (valdovas, XIV a.)]]: Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.
+- susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
+- susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
+- susijęs iš [[objektai/daiktai/Deglas.md#claim-t-81844|Deglas]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.
+- susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87064|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.
+- susijęs iš [[objektai/grupes/107-oji motošaulių divizija.md#claim-t-40821|107-oji motošaulių divizija]]: 1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
+- susijęs iš [[objektai/grupes/Maskvos, totorių ir valakų pirkliai.md#claim-t-86811|Maskvos, totorių ir valakų pirkliai]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186626|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.
+- susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186627|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.
+- susijęs iš [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais.md#claim-t-87150|Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir pagal pagonių paprotį turėjo būti sudeginti su jo naudotais daiktais.
+- susijęs iš Krokuva: 1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.
+- susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių.
+- susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
+- susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
+- susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
+- susijęs iš Išganytojo (Spaso) bažnyčia Vilniuje: 1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.
+- susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75995|Petras Kriaučiūnas]]: Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114110|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.
+- susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
+- susijęs iš [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba.md#claim-t-77828|Lietuvos tautinė aukščiausioji taryba]]: 1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba.
+- susijęs iš [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“.md#claim-t-86776|Vilniaus rusų vienuoliai „čiornai“]]: Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną.
+- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.).md#claim-t-86893|Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]: Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.
+- susijęs iš [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą.md#claim-t-87201|Apgulties logistika blokuojant maisto tiekimą]]: Prie Vilniaus stovyklą įsirengęs magistras turėjo siųsti keturis pulkus saugoti maisto parūpinti išleistų dalinių.
+- susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87202|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.
+- susijęs iš [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije.md#claim-t-35996|deržati mi jeho vyše vseje našeje bratije]]: Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.
+- susijęs iš Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams: Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje.
+- susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
+- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54806|Cechas]]: Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių.
+- susijęs iš [[objektai/zodynas/posadnikas bojarinas vietininkas.md#claim-t-86609|posadnikas bojarinas vietininkas]]: 1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.
+- susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
+- susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87583|Sudimantas]]: Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05216|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą.
+- susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86717|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.
+- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26900|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).
+- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
+- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
+- susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
+- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54975|Kazimieras Karigaila]]: Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.
+- susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184881|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.
+- susijęs iš [[objektai/autoriai/Janas Lasickis Joh. Lasicius.md#claim-t-88066|Janas Lasickis Joh. Lasicius]]: Šubravcų draugijos nariai, išstudijavę Jano Lasickio knygą apie žemaičių dievus, pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87024|Bombardos, patrankos ir artilerijos karo mašinos]]: Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.
+- susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
+- susijęs iš [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas.md#claim-t-40903|Jozefo Grabinskio Jėgerių batalionas]]: Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.
+- susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01343|Kalvinai]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179138|Lenkai]]: Nepriklausomybės pradžioje dalis Vilniaus krašto lenkų komunistinių funkcionierių planavo teritorinę autonomiją.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179206|Lenkai]]: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179424|Livonijos ordinas]]: Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35897|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87234|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.
+- susijęs iš Knyga su Lietuvos Metrikos archyvo sąrašu: Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.
+- susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
+- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173189|Kazimieras Karigaila]]: Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.
+- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54976|Kazimieras Karigaila]]: Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį.
+- susijęs iš [[objektai/autoriai/Walsinghamas.md#claim-t-88085|Walsinghamas]]: Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
+- susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23202|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.
+- susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-24543|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.
+- susijęs iš [[objektai/asmenys/Jonas Lasavičius.md#claim-t-87724|Jonas Lasavičius]]: Jonas Lasavičius buvo iš Vilniaus kilęs lietuvis, 1462-1481 m. Vilniaus vyskupas, katedroje įrengęs Vyskupų koplyčią.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176628|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114103|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
+- susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01342|Kalvinai]]: 1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti.
+- susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86745|Mamoničių giminė]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.
+- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86696|Vilniaus gyventojai]]: Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.
+- susijęs iš [[objektai/grupes/Žygimanto šalininkai.md#claim-t-86780|Žygimanto šalininkai]]: Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.
+- susijęs iš [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.).md#claim-t-24531|Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]: Vilniuje buvo pašalintas Lenino paminklas.
+- susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
+- susijęs iš Visų Šventųjų bažnyčia: Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
+- susijęs iš Šv. Dvasios dominikonų bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
+- susijęs iš Lindenblatt Jahrbücher: Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113972|Steponas Batoras]]: Steponas Batoras patvirtino Vilniui suteiktas privilegijas ir prižiūrėjo, kaip vykdomi jo sprendimai.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
+- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
+- susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
+- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
+- susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
+- susijęs iš Vroclavas: 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
+- susijęs iš Vroclavas: 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
+- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
+- susijęs iš Minskas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173225|Vladislovas Jogaila]]: Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.
+- susijęs iš [[objektai/asmenys/Volfgangas Auksakalys.md#claim-t-87887|Volfgangas Auksakalys]]: Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.
+- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172075|Anglai]]: Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.
+- susijęs iš [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas.md#claim-t-86802|Lietuvių kunigaikščių ir bajorų visuotinis seimas]]: Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.
+- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-182592|Stačiatikiai]]: Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams.
+- susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
+- susijęs iš [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją.md#claim-t-185664|Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]: Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.
+- susijęs iš Livonija: Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.
+- susijęs iš Minskas: Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.
+- susijęs iš Silezija: Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.
+- susijęs iš Šv. Dvasios dominikonų vienuolynas Vilniuje: Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.
+- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
+- susijęs iš [[objektai/asmenys/Henrikas Plauenas.md#claim-t-87689|Henrikas Plauenas]]: Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54987|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172961|Mykolas Lietuvis]]: Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.
+- susijęs iš [[objektai/grupes/Laikinoji LDK vyriausybė.md#claim-t-19771|Laikinoji LDK vyriausybė]]: Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.
+- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
+- susijęs iš Knyga su Lietuvos Metrikos archyvo sąrašu: Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.
+- susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
+- susijęs iš [[objektai/asmenys/Petras Pliuščius.md#claim-t-87927|Petras Pliuščius]]: Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.
+- susijęs iš [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga.md#claim-t-86998|Pabūklai, bombardos, patrankos ir artilerijos įranga]]: Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.
+- susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86721|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.
+- susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-55149|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: 1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.
+- susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86472|klebonija]]: Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176314|Birutė]]: Birutė iš jų bus išmokęs skaityti ir rašyti.
+- susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
+- susijęs iš [[objektai/asmenys/Klemensas Moskorzewskis.md#claim-t-30333|Klemensas Moskorzewskis]]: Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173207|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.
+- susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
+- susijęs iš [[objektai/asmenys/Štagelis.md#claim-t-87935|Štagelis]]: Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.
+- susijęs iš [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia.md#claim-t-19583|Pranciškonų kankinių palaidojimo vietos koplyčia]]: XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178823|Kryžiuočių ordinas]]: 1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.
+- susijęs iš [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas.md#claim-t-78196|Leibgvardijos lietuviškasis pėstininkų pulkas]]: Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.
+- susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86719|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
+- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
+- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
+- susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
+- susijęs iš [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių.md#claim-t-186571|Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]: Lietuvos metraštis pasakoja, kad Petras Goštautas pranciškonams įkūrė vienuolyną Smėlynėje prie Vingrių.
+- susijęs iš Verkiai: 1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.
+- susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
+- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
+- susijęs iš [[objektai/asmenys/Petras Timofiejevas Mstislavliškis.md#claim-t-87831|Petras Timofiejevas Mstislavliškis]]: 1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.
+- susijęs iš [[objektai/asmenys/Vendrichovskis.md#claim-t-87881|Vendrichovskis]]: Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus.
+- susijęs iš [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus.md#claim-t-87104|Šach Achmedo palapinės prie Vilniaus]]: Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.
+- susijęs iš Jašiūnai: 1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
+- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
+- susijęs iš [[objektai/daiktai/Pilaitės kunigaikščių pilis.md#claim-t-87088|Pilaitės kunigaikščių pilis]]: Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.
+- susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86729|Krymo orda]]: Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.
+- susijęs iš [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais.md#claim-t-87260|Apgultos pilies išardų taisymas laikinais užtaisais]]: Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87374|Manvydas]]: Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.
+- susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46282|Petras Klimas]]: Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys.
+- susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
+- susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
+- susijęs iš Vitebskas: Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -10781,13 +11290,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478204-478688; hash=3af5de45bff085919a80828bee8975401d665903dd3659876c36a65c5f0b918d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos pastaba tiesiogiai nurodo Elenos mirtį Vilniuje.
     - t-191
 
 - c-003
@@ -10804,13 +11313,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 532307-532582; hash=bd356b22fa86d28d214ea9d5c1f51f208f559f39ba5f5df0f811086c295a6cf4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Džordžas Bušas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Džordžas Bušas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Džordžas Bušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad NATO sąjunga pasiryžusi ginti nares; kontekste kalbama apie Lietuvą.
     - t-289
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607711-607869; hash=a0edcf9294640fe4ea9d2a994c494c522ea123ebebac30ce4f8d6c2caf22290a; match=whitespace_regex
@@ -10837,13 +11346,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 525268-526094; hash=02b5d256448d4f5b10bccfc8fd5f5283312a0c441c2b939013349b9ae0f683c8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai liko Vilniuje kaip gyventojai.
     - t-237
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302430-302899; hash=f22fa4cef8f511fab690076037daed4b5cd8cfeca56023f2b29cb4aa9b6e86b3; match=whitespace_regex
@@ -10934,13 +11443,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a57d96805fcfb536a29039ce7a3e1e0e4f19a3068977c54300476a99ab7e2ea; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Jogailos vykimą į Lietuvą krikšto tikslu.
     - t-123
 
 - c-008
@@ -11021,13 +11530,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e4db486e43f21e7782d43a1daaab0ffc900122596143ff7eb534c97b02173bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste tiesiogiai minimas lietuvių ir lenkų disputas dėl Vilniaus ir Rytų Lietuvos.
     - t-160
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ea8ea2af0a189e66ba1ee5dd30118064869bd6c4df20d5180680c22265a75f47; match=fallback; occurrences=0
@@ -11197,13 +11706,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bomannas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bomannas: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bomannas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bomannas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bomannas tiesiogiai įvardytas kaip Vilniaus miestietis.
     - t-261
 
 - c-018
@@ -11351,13 +11860,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345364-345898; hash=cc052e57dafdb9faee60a3c1bac1af3538325052ec8ae0ec1672f49180ec1835; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Husitai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Husitai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Husitai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Husitai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata teigia, kad husitai naudojosi Vytauto globa.
     - t-088
 
 - c-022
@@ -11373,13 +11882,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanulas: 0.83
+  ryšio_patikimumas: uzeme -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hanulas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Hanulas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad Jogaila atėjo į Vilnių ir jį paėmė; objektas „jį“ nurodo Vilnių.
     - t-001
 
 - c-023
@@ -11415,13 +11924,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Žygimantas Senasis buvo atvykęs ir lankėsi Vilniuje.
     - t-114
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ac7611794297a74f5714169c6284f6cabc8c9397d7e8b6285aa5932d708292e; match=fallback; occurrences=0
@@ -11536,13 +12045,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Vilniaus prekybinius ryšius su Pskovu.
     - t-124
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e8c9b18aa854863984cecdd2a863375545e9292d62e33af9fe8d671a0b4e0117; match=fallback; occurrences=0
@@ -11865,13 +12374,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bead4ed4003d0da07dc010c26996a8514238a0303c4423169952bb6620a14841; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai sakoma, kad Vilnių valdys pats Jogaila.
     - t-095
 
 - c-040
@@ -12235,12 +12744,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Jašiūnai: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_targeto_parinkimas: Jašiūnai: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Jašiūnai" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Jašiūnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jašiūnai: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jašiūnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-030
 
 - c-053
@@ -12262,13 +12772,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 66082-66347; hash=a18435be97c1dc7c5087e85a003555813db3460e6cb167f61e1fac4a182231e1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusėnai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stačiatikiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vilniuje buvo stačiatikių gyvenama miesto dalis.
     - t-016
 
 - c-054
@@ -12514,13 +13024,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282680-282947; hash=5d4b74c146a46461a205c4b0a757789c9eb1d54451109fd5ce0c53289c3ce1a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Lietuvos kariuomenė įžengė į Vilnių; leistinas artimiausias judėjimo santykis yra keliavo_i.
     - t-172
 
 - c-063
@@ -12557,13 +13067,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vilnius atiteko Lenkijai.
     - t-231
     - t-240
 
@@ -12661,13 +13171,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 297260-298180; hash=34208c6a84fe34b45d984189bcb1dbd4ef0c9111c81b76370b6736156b72470c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skirgaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Skirgaila: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vilniaus prekybą sieja su Livonijos miestais.
     - t-126
 
 - c-067
@@ -12805,13 +13315,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40de44ccce2b0ee216f080f31b219b0d282ffa3aa7b1a14fe05954ccef40237a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=112
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Ordino riterių smūgį Lietuvai.
     - t-259
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460524-461077; hash=c4e668a60df346aa5bc528cd655046815a146f7b751fd1762f4f54b5d4dbb26e; match=whitespace_regex
@@ -12926,13 +13436,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310688-311084; hash=31e1846513843aa12a8af86061ac20ecb79c070a869c14d337896212709e9f52; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai minima Lietuvos suverenumo pozicija Vilniuje.
     - t-045
 
 - c-075
@@ -13204,13 +13714,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414965-415369; hash=42424665fe3381760761108c655746c4f7f512c65b2c62e3e1cd125d5e54017c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos laisvės armija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: LLA įkurta Vilniuje; leistino „įkurta vietoje“ predikato nėra, todėl naudojamas artimiausias lokacinis ryšys.
     - t-280
 
 - c-085
@@ -13288,13 +13798,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 552492-553254; hash=608d4b877fb16f875fa0a0fcf4c9f47f17f84073e2f5291fa6a5bced8405f4b4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=25
-  ryšio_targeto_parinkimas: Krokuva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Krokuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-108
 
 - c-088
@@ -13394,13 +13904,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 172291-173034; hash=8aaeff8b69977a6be93dc3d3118fcbc4905f714fa6003a43a1f25e74e2265bfc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: priklause -> Gediminas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys nurodo, kad Vilnius Gedimino laiške minimas kaip valdovo miestas.
     - t-288
 
 - c-092
@@ -13450,13 +13960,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=48d707276c4d472ccdd71b8e3a3726f902c6a4a89569afb60be6fe1f6dd90211; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.79
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilniaus prastuomenė tiesiogiai atliko smurtinį veiksmą prieš pranciškonų vienuolyną; vienuolyno objektas nėra kandidatuose, todėl artimiausias kanoninis objektas yra ordinas.
     - t-156
 
 - c-094
@@ -13693,13 +14203,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e6e0d37e1257d5ee4118f1a27b7d8bdd89d375873f8ca8e9751624f5bd5e3a73; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad lietuviai puolė, o veiksmas siejamas su Vilniumi.
     - t-153
 
 - c-100
@@ -13851,13 +14361,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 609065-610407; hash=89c90bc3cbf5c12b06964bf267fb5a6bcca7a8936c15b4dc30a929a7ad50a977; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini rusų puolimą prieš Vilnių.
     - t-068
 
 - c-106
@@ -13882,13 +14392,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=edab165c2937372dc44167d3a07c3333df26e76a678ae790705a002645f78074; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kazokai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina kazokus rusų sąjungininkais.
     - t-028
 
 - c-107
@@ -14030,13 +14540,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Didžiojo Naugardo bojarinai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Didžiojo Naugardo bojarinai: mention_match, group, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo bojarinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiojo Naugardo bojarinai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad bojarinai buvo pasiųsti iš Didžiojo Naugardo į Vilnių.
     - t-216
   irodymo_stiprumas: 0.00
   saltinio_vieta: 130957-131502; hash=05b6b1b20f2575a8fddf97d4266177ee6f8b1d679130f790bcb45f552bd13abb; match=whitespace_regex
@@ -14123,13 +14633,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodoma, kad Gediminas valdė, o kontekstas yra Lietuva.
     - t-188
 
 - c-115
@@ -14175,13 +14685,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Švitrigailos atvykimą į Vilnių.
     - t-004
 
 - c-117
@@ -14242,13 +14752,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=96631ff1572485b0090ba767989e90d0fc8831b9be659d44e6e85d1dbdc53617; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Gediminas įkūrė Vilnių; artimiausias leistinas santykis yra „pastate“.
     - t-222
 
 - c-120
@@ -14380,13 +14890,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini kryžiuočius po Vilniaus pilies apsupties.
     - t-043
 
 - c-125
@@ -14723,13 +15233,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pskovas: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Joachimas Pavlovičius: nearest_actor, person, gap=27
-  ryšio_targeto_parinkimas: Pskovas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Joachimas Pavlovičius" parinktas kaip nearest_actor. Targetas "Pskovas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Joachimas Pavlovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Joachimas Pavlovičius įvardytas tarp Pskovo pasiuntinių, atvykusių į Vilnių.
     - t-054
 
 - c-136
@@ -14966,24 +15476,24 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba3de85ae7275437ec4dca699518f513168809db0aceaad248510d924977df3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Trakai: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Švitrigaila: nearest_actor, person, gap=45
-  ryšio_targeto_parinkimas: Trakai: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Švitrigaila" parinktas kaip nearest_actor. Targetas "Trakai" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people, multiple_competing_places.
-    - t-232
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268461-268832; hash=ab65fa94ddc4b120d5668a266563be70f9b86b58d73e31d0417d989dd044ce57; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+    - t-232
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 268461-268832; hash=ab65fa94ddc4b120d5668a266563be70f9b86b58d73e31d0417d989dd044ce57; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Lietuviai: 0.72
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilnius apibūdintas kaip miestas lietuvių žemėse.
     - t-020
 
 - c-145
@@ -15312,13 +15822,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25b5c8485fe061245321b8c61de599b959f9485cd763287f2e1390a3a044039a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Trakai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta Kęstučio gynyba Trakuose.
     - t-099
 
 - c-158
@@ -15784,13 +16294,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 73232-73391; hash=e9c813b7560691e0139708ee8ffe231344b05d219adc5d7be44f55fffb6738f3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jogailos atvykimą į Vilnių.
     - t-026
 
 - c-173
@@ -16264,13 +16774,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Bajerburgas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Gediminas buvo nužudytas prie Bajerburgo pilies.
     - t-110
 
 - c-189
@@ -16362,13 +16872,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Podolė buvo perduota Lenkijai.
     - t-166
 
 - c-193
@@ -16387,13 +16897,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7cd5c4e87d046d278671444d323c216efb0e10904c4f61ee47c450b4458e1e49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokietija: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos patekimą į Vokietijos okupaciją.
     - t-021
 
 - c-194
@@ -16481,13 +16991,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Gedimino sutartį su Lokietka.
     - t-149
 
 - c-197
@@ -16544,13 +17054,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.93
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Tverės ir Riazanės kunigaikščiai" parinktas kaip nearest_actor. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tverės ir Riazanės kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių.
     - t-154
 
 - c-199
@@ -16690,13 +17200,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98b286895748348df0e48461e2567fe092ec4f3be38e21b713706e8e7df7e885; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės įžengimą į Vilnių.
     - t-252
 
 - c-204
@@ -16881,13 +17391,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 160654-161211; hash=c6b0d8e4bb577ffa9b503ee8bf7d4da7f7157b215c318506ffdfe4209b6bd5a8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas apgulė Vilniaus miestą.
     - t-092
 
 - c-210
@@ -16954,13 +17464,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 780962-781272; hash=66be5e6b9ee42a4ec0b014f9d3e0acf19ffad96fdb9bc1ba374c0562b7ff4f4d; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giedraičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai užėmė Vilnių.
     - t-080
 
 - c-212
@@ -17063,13 +17573,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniuje vykusius mainus su Maskvos pirkliais.
     - t-075
 
 - c-216
@@ -17130,13 +17640,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440842-441472; hash=be955f63351833bb8accf276144f2b6aea4c6c8bbbd67b64ebd8330aaab98d94; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumas: buvo_priesas -> Švitrigaila: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys mini Žygimanto ir Švitrigailos grupuočių kovą, todėl jų politinė priešprieša tiesiogiai paremta.
     - t-077
 
 - c-218
@@ -17207,13 +17717,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bauskė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bauskė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Respublikonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad respublikonų kariuomenės dalinys įžengė į Vilnių.
     - t-078
 
 - c-221
@@ -17232,13 +17742,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cec97574cbc0d7c2d7c65c49ddedfe3d82a971d449a63f346a54774221793f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alytus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alytus: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai nurodyta, kad lietuviai puolė Vilniaus kryptimi.
     - t-094
 
 - c-222
@@ -17589,13 +18099,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4aa4d91fc4e7e76828ca4940b3c2abf48f7232854f825a5e495946913f69d138; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: uzeme -> Vilnius: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=97
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė kalba apie ketinimą užimti Vilnių, ne patį įvykusį užėmimą, todėl pasitikėjimas vidutinis.
     - t-034
 
 - c-236
@@ -17639,13 +18149,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301465-302023; hash=a20999fb00e312147d68f9beb54038182acbc897107c79d0ac529669d1518aad; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių pusės magistras su kariauna patraukė į Vilnių, todėl tai laikytina kariniu žygiu.
     - t-178
 
 - c-238
@@ -17698,13 +18208,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3975c0a9c89a3657086ef6e7cca156ebdbc10aa488192975a095a6628554f7c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: „Šio valdovo“ kontekste nurodo Algirdą, kuris išgelbėdavo miestą, t. y. Vilnių.
     - t-037
 
 - c-240
@@ -17940,13 +18450,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 149631-150520; hash=f3e36cc25177b11f2ccbf6754a82001d59728d53eeb0b896fa1222e29902bef8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: priklause -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vilnius Gedimino laiške įvardytas kaip jo karališkasis miestas.
     - t-184
 
 - c-250
@@ -17971,13 +18481,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: priklause -> Maskva: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos Helsinkio grupė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Grupės pavadinimas ir įkūrimas Maskvoje tiesiogiai sieja ją su Maskva.
     - t-283
 
 - c-251
@@ -18052,13 +18562,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 556537-557107; hash=42f2a9ab4c145cb5379ed51ba0523304e6a75a5654803b2ed33b0862c8bc65cb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus ginklų liejykla: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys lokalizuoja ginklų liejyklą prie Vilniaus pilies, todėl ji siejama su Vilniumi.
     - t-118
 
 - c-254
@@ -18078,13 +18588,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cf4bdcd3abf2a6bedae3b32b873887c923dabef9588bd7247de2ac093c9e7524; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad rusų valdžia kontroliavo Vilniaus miestą.
     - t-039
 
 - c-255
@@ -18168,13 +18678,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dac1d7340d706cd270b1582946b0a502d2232922131ea857b7be0cdb1eaa55f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Stepono Batoro atvykimą į Vilnių.
     - t-292
 
 - c-258
@@ -18236,13 +18746,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e796291b3cc810827a8b7f7406ff4b4ac76027556d33c74416a4f6db177b9b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zigmantas Augustas apsigyveno Vilniuje.
     - t-294
 
 - c-260
@@ -18269,13 +18779,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8ed0e21b347b4391d3bbe84ec465ac25d76ab6b47ec2336a25a3a5006b9a9276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurgis Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurgis Astikas: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jurgis Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nukirsdinimas Vilniaus turguje tiesiogiai pagrindžia Jurgio Astiko mirties vietą Vilniuje.
     - t-295
 
 - c-261
@@ -18467,13 +18977,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7750aa3873fa077132cc9cf43f3e4d38104821015e9351431b4f93821af315b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad rusai užėmė Vilnių.
     - t-301
 
 - c-267
@@ -18914,13 +19424,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302251-302491; hash=c06c1d7ba01a7c4b23d6aaa9752e6f101de833fd2219ac16d825856a306aae31; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaunutis (valdovas, XIV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jaunutis (valdovas, XIV a.): mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Jaunutis (valdovas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užėmė Vilnių.
     - t-316
 
 - c-282
@@ -18945,13 +19455,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135662-136155; hash=f33d9af3bf896da2c65716978a229b76bc23a4a548743eae80138533f55ff502; match=word_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila buvo pripažintas didžiuoju kunigaikščiu Vilniuje.
     - t-317
 
 - c-283
@@ -18973,13 +19483,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 160654-161211; hash=c6b0d8e4bb577ffa9b503ee8bf7d4da7f7157b215c318506ffdfe4209b6bd5a8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas apgulė Vilniaus miestą.
     - t-318
 
 - c-284
@@ -19083,13 +19593,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256914-257492; hash=930d7f670b008df633902faac3f33234332449de960b3ed27d4112848a3ae4f9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Barbora Radvilaitė: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas: nearest_actor, person, gap=7
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: nearest_family_person, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas" parinktas kaip nearest_actor. Targetas "Barbora Radvilaitė" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-321
 
 - c-287
@@ -19147,13 +19657,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 303628-304781; hash=ca218daf9580d36a6ca7814170b609fe1803eb57e8563f18798cfab545ca8cdf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kęstutis užėmė Vilnių.
     - t-323
 
 - c-289
@@ -19170,61 +19680,338 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   irodymo_stiprumas: 0.00
   saltinio_vieta: 602732-602833; hash=9739e694a9d30f616b2184fbb12d075760147999d583decd7c13eb639a1592ac; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.95
+  ryšio_patikimumas: gyveno -> Vilnius: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Gediminas: nearest_actor, person, gap=10
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Gediminas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Gedimino gyvenimą Vilniuje.
     - t-324
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607711-607869; hash=a0edcf9294640fe4ea9d2a994c494c522ea123ebebac30ce4f8d6c2caf22290a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnius" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Elenos atvykimą į Vilnių, nors kandidato pavadinimas yra dviprasmis.
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_palaidotas Vilnius
-- [[objektai/asmenys/Gediminas]] mire Vilnius
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Vilnius
-- [[objektai/asmenys/Liudvikas (Torunės komtūras)]] gyveno Vilnius
-- [[objektai/grupes/Pranciškonų ordinas]] gyveno Vilnius
-- [[objektai/vietos/Ašmena]] priklause Vilnius
-- [[objektai/asmenys/Elžbieta]] keliavo_i Vilnius
-- [[objektai/asmenys/Geremferdenas]] keliavo_i Vilnius
-- [[objektai/asmenys/Jadvyga Jogailienė]] keliavo_i Vilnius
+- [[objektai/asmenys/Jascha Heifetz]] gime Vilnius
+- [[objektai/asmenys/Gediminas]] gyveno Vilnius
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] gyveno Vilnius
+- [[objektai/asmenys/Jaunė (Jievna)]] gyveno Vilnius
+- [[objektai/asmenys/Parulis]] gyveno Vilnius
+- [[objektai/grupes/Silezijos ir Vroclavo gyventojai]] keliavo_i Vilnius
+- [[objektai/asmenys/Jadvyga]] keliavo_i Vilnius
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] buvo_valdovas Vilnius
+- [[objektai/asmenys/Jedigėjus]] siunte_i Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde_miesta Vilnius
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] uzeme Vilnius
+- [[objektai/grupes/Rusai]] uzeme Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_palaidotas Vilnius
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vilnius
+- [[objektai/grupes/Lenkai]] uzeme Vilnius
+- [[objektai/grupes/Rusijos kariuomenė]] uzeme Vilnius
+- [[objektai/asmenys/Tautvilas]] mire Vilnius
+- [[objektai/asmenys/Zigmantas Augustas]] gyveno Vilnius
 - [[objektai/asmenys/Joachimas Pavlovičius]] keliavo_i Vilnius
-- [[objektai/vietos/Kijevas]] priklause Vilnius
-- [[objektai/grupes/Pskovo respublika]] keliavo_i Vilnius
+- [[objektai/grupes/Jono Mejeno divizija]] gyne Vilnius
+- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Vilnius
+- [[objektai/grupes/Rusijos kariuomenės korpusas]] puole Vilnius
+- [[objektai/grupes/Rygos pirkliai]] prekiavo_su Vilnius
+- [[objektai/asmenys/Tautvila]] mire Vilnius
+- [[objektai/grupes/Totorių pajėgos]] uzeme Vilnius
+- Vilnius priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Žygimantas]] uzeme Vilnius
+- [[objektai/asmenys/Aleksandras Jogailaitis]] mire Vilnius
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] mire Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Vilnius
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_palaidotas Vilnius
+- [[objektai/asmenys/Senda Berenson-Abbot]] gime Vilnius
+- [[objektai/asmenys/Vilhelmas fon Helfelšteinas]] surenge_zygi_i Vilnius
+- [[objektai/asmenys/Zigmantas Sierakauskas]] mire Vilnius
+- [[objektai/asmenys/Aleksandras Jogailaitis]] gyveno Vilnius
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Vilnius
+- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]] mire Vilnius
+- [[objektai/asmenys/Gediminas]] pastate Vilnius
+- [[objektai/asmenys/Geremferdenas]] keliavo_i Vilnius
+- [[objektai/asmenys/Jurgis Astikas]] mire Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Vilnius
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Vilnius
+- [[objektai/grupes/Lietuviai]] puole Vilnius
+- [[objektai/grupes/Respublikonai]] keliavo_i Vilnius
+- [[objektai/grupes/Rusijos kariuomenės korpusas]] keliavo_i Vilnius
+- [[objektai/asmenys/Steponas Batoras]] keliavo_i Vilnius
+- [[objektai/grupes/Totoriai]] gyveno Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)]]
+- [[objektai/asmenys/Vladislovas Jogaila]] keliavo_i Vilnius
+- [[objektai/grupes/Šv. Bazilijaus ordinas]] gyveno Vilnius
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Vilnius
+- [[objektai/asmenys/Abraomas Kulvietis]] keliavo_i Vilnius
+- [[objektai/asmenys/Aleksandras Vygantas]] gyveno Vilnius
+- [[objektai/grupes/Pranciškonų ordinas]] keliavo_i Vilnius
+- [[objektai/grupes/Rusai]] puole Vilnius
+- [[objektai/grupes/Rusų pirkliai]] keliavo_i Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Maskva]]
+- Vilnius prekiavo_su [[objektai/vietos/Naugardas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] siunte_i Vilnius
+- [[objektai/asmenys/Elžbieta]] keliavo_i Vilnius
+- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] uzeme Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Vilnius
+- [[objektai/grupes/Lenkijos senatas]] siunte_i Vilnius
+- [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]] keliavo_i Vilnius
+- [[objektai/vietos/Rotušės aikštė]] priklause Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Vilnius
+- [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]] keliavo_i Vilnius
+- [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]] siunte_i Vilnius
+- [[objektai/asmenys/Aleksandras]] keliavo_i Vilnius
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Vilnius
+- [[objektai/asmenys/Algardas Hohenšteino grafas]] mire Vilnius
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_miesta Vilnius
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]] keliavo_i Vilnius
+- [[objektai/asmenys/Augustas]] keliavo_i Vilnius
+- [[objektai/grupes/Bernardinų ordinas]] keliavo_i Vilnius
+- [[objektai/asmenys/Chariničius]] keliavo_i Vilnius
+- [[objektai/asmenys/Daugirdas]] keliavo_i Vilnius
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]] keliavo_i Vilnius
+- [[objektai/asmenys/Gregorijus Cemblakas]] keliavo_i Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Vilnius
+- [[objektai/asmenys/Jonas Laskis]] keliavo_i Vilnius
+- [[objektai/asmenys/Jonas Mejenas]] gyne Vilnius
+- [[objektai/grupes/Jėzuitų ordinas]] keliavo_i Vilnius
+- [[objektai/asmenys/Kazimieras Jogailaitis]] gyveno Vilnius
+- [[objektai/asmenys/Kazimieras Jogailaitis]] keliavo_i Vilnius
+- [[objektai/grupes/Kazokai]] uzeme Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Vilnius
+- [[objektai/asmenys/Liucijanas Želigovskis]] uzeme Vilnius
+- [[objektai/asmenys/Mykolas Glinskis]] keliavo_i Vilnius
+- [[objektai/grupes/Pskoviečiai]] keliavo_i Vilnius
+- [[objektai/asmenys/Skirgaila]] valde_teritorija Vilnius
+- [[objektai/asmenys/Teodoras Narbutas]] siunte_i Vilnius
+- [[objektai/grupes/Totoriai]] uzeme Vilnius
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Vilnius
+- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Vilnius
+- [[objektai/grupes/Vilniaus gyventojai]] gyveno Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Gdanskas]]
+- Vilnius prekiavo_su [[objektai/vietos/Livonija]]
+- Vilnius prekiavo_su [[objektai/vietos/Prūsija]]
+- Vilnius prekiavo_su [[objektai/vietos/Pskovas]]
+- Vilnius prekiavo_su [[objektai/vietos/Ryga]]
+- Vilnius prekiavo_su [[objektai/vietos/Silezija]]
+- [[objektai/asmenys/Vladislavas Ačalovas]] keliavo_i Vilnius
+- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Vilnius
+- [[objektai/asmenys/Švitrigaila]] buvo_palaidotas Vilnius
+- [[objektai/grupes/Želigovskininkai]] uzeme Vilnius
+- [[objektai/asmenys/Žygimantas]] buvo_palaidotas Vilnius
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] keliavo_i Vilnius
+- [[objektai/asmenys/Žygimantas Senasis]] keliavo_i Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] siunte_i Vilnius
+- [[objektai/vietos/Pskovas]] prekiavo_su Vilnius
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyne Vilnius
+- [[objektai/asmenys/Andrius (Vilniaus vyskupas)]] gime Vilnius
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]] priklause Vilnius
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] gyveno Vilnius
+- [[objektai/asmenys/Ivanas Sidorovičius]] keliavo_i Vilnius
+- [[objektai/asmenys/Jonas Ritvianskis]] keliavo_i Vilnius
+- [[objektai/asmenys/Liucijanas Želigovskis]] keliavo_i Vilnius
+- [[objektai/grupes/Vilniaus miestiečių luomas]] gyne Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Karaliaučius]]
+- [[objektai/grupes/Šubravcų draugija]] gyveno Vilnius
+- [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]] gyveno Vilnius
+- [[objektai/asmenys/Romain Garry]] gyveno Vilnius
+- Vilnius priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Bomannas]] gyveno Vilnius
+- [[objektai/asmenys/Jonas Zabžezinskis]] keliavo_i Vilnius
+- [[objektai/vietos/Karalių koplyčia Vilniuje]] priklause Vilnius
+- [[objektai/vietos/Kardinalija]] priklause Vilnius
+- [[objektai/grupes/Lenkai]] gyveno Vilnius
+- [[objektai/grupes/Stačiatikiai]] gyveno Vilnius
+- [[objektai/asmenys/Sudimantas]] gyne Vilnius
+- [[objektai/grupes/Vilniaus magistratas]] valde_miesta Vilnius
+- [[objektai/daiktai/Vytis]] priklause Vilnius
+- [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra)]] gyveno Vilnius
+- [[objektai/grupes/oji rezervo divizija]] keliavo_i Vilnius
+- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] buvo_palaidotas Vilnius
+- [[objektai/vietos/Žirmūnai]] priklause Vilnius
+- [[objektai/grupes/7-ojo fuzilierių regimento]] puole Vilnius
+- [[objektai/asmenys/Dobrogostas]] keliavo_i Vilnius
+- [[objektai/asmenys/Gediminas]] valde_miesta Vilnius
+- [[objektai/asmenys/Jadvyga Jogailienė]] keliavo_i Vilnius
+- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Vilnius
+- [[objektai/grupes/Pranciškonų ordinas]] gyveno Vilnius
+- [[objektai/grupes/Rusai]] valde_miesta Vilnius
+- [[objektai/grupes/Vokiečiai]] keliavo_i Vilnius
+- [[objektai/asmenys/Gotfridas Lindenas]] puole Vilnius
+- [[objektai/grupes/Lenkai]] gyne Vilnius
+- [[objektai/asmenys/Petras Goštautas]] keliavo_i Vilnius
+- [[objektai/asmenys/Stanislovas Ostrorogas]] keliavo_i Vilnius
+- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]] gyne Vilnius
+- [[objektai/asmenys/Abraomas Kulvietis]] gyveno Vilnius
+- [[objektai/asmenys/Gotfridas Lindenas]] surenge_zygi_i Vilnius
+- [[objektai/asmenys/Ivanas Jermoliničius]] keliavo_i Vilnius
+- [[objektai/asmenys/Julija Žymantienė-Žemaitė]] keliavo_i Vilnius
+- [[objektai/grupes/Lenkai]] keliavo_i Vilnius
+- [[objektai/grupes/Lenkijos karalystės kariuomenė]] puole Vilnius
+- [[objektai/grupes/Lietuviai]] gyne Vilnius
+- [[objektai/grupes/Livonijos ordinas]] apgule Vilnius
+- [[objektai/asmenys/Mikalojus Michalovskis]] keliavo_i Vilnius
+- [[objektai/asmenys/Petras Goštautas]] siunte_i Vilnius
+- [[objektai/asmenys/Pisonas]] keliavo_i Vilnius
+- [[objektai/grupes/Rusai]] gyveno Vilnius
+- [[objektai/vietos/Silezija]] prekiavo_su Vilnius
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Vilnius
+- [[objektai/vietos/Vilniaus ginklų liejykla]] priklause Vilnius
+- [[objektai/grupes/Vilniaus rusinai]] gyveno Vilnius
+- [[objektai/asmenys/Vinrichas Kniprodė]] surenge_zygi_i Vilnius
+- [[objektai/grupes/Vokiečiai]] uzeme Vilnius
+- [[objektai/grupes/Vokiečių amatininkai Vilniuje]] gyveno Vilnius
+- [[objektai/vietos/Šv. Mykolo bažnyčia Vilniuje]] priklause Vilnius
+- [[objektai/vietos/Šv. Jono bažnyčia]] priklause Vilnius
+- [[objektai/vietos/Šv. Jono bažnyčia Vilniuje]] priklause Vilnius
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] gyne Vilnius
+- [[objektai/asmenys/Skirgaila]] gyne Vilnius
+- [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]] keliavo_i Vilnius
+- [[objektai/asmenys/Abraomas Kulvietis]] pastate Vilnius
+- [[objektai/daiktai/Antspaudas]] priklause Vilnius
+- [[objektai/asmenys/Boleslovas Švitrigaila]] apgule Vilnius
+- [[objektai/grupes/Dievo Kūno arkibrolija]] gyveno Vilnius
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Vilnius
+- [[objektai/vietos/Karališkasis malūnas Vilniuje]] priklause Vilnius
+- [[objektai/grupes/Krymo totoriai]] puole Vilnius
+- [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]] puole Vilnius
+- [[objektai/grupes/Lietuviai]] gyveno Vilnius
+- [[objektai/grupes/Maskvos pasiuntiniai]] keliavo_i Vilnius
+- [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai]] prekiavo_su Vilnius
+- [[objektai/asmenys/Nikolajus Arsenjevas]] gyne Vilnius
+- [[objektai/asmenys/Rumbautas]] keliavo_i Vilnius
+- [[objektai/grupes/Rusai]] keliavo_i Vilnius
+- [[objektai/vietos/Rūdninkų vartai ir Rūdninkų gatvė Vilniuje]] priklause Vilnius
+- [[objektai/grupes/Sapiegos]] keliavo_i Vilnius
+- [[objektai/asmenys/Snorro Sturleson]] keliavo_i Vilnius
+- [[objektai/grupes/Totoriai]] keliavo_i Vilnius
+- [[objektai/grupes/Vilniaus gyventojai]] gyne Vilnius
+- [[objektai/grupes/Vilniaus miesto cechai]] priklause Vilnius
+- Vilnius prekiavo_su [[objektai/grupes/Rusai]]
+- Vilnius prekiavo_su [[objektai/vietos/Smolenskas]]
+- Vilnius prekiavo_su [[objektai/vietos/Černigovas]]
+- Vilnius priklause [[objektai/asmenys/Gediminas]]
 - [[objektai/vietos/Vingrių šaltiniai]] priklause Vilnius
 - [[objektai/vietos/Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)]] priklause Vilnius
-- [[objektai/asmenys/Žygimantas Senasis]] keliavo_i Vilnius
-- [[objektai/grupes/JAV lietuviai]] gyveno Vilnius
-- [[objektai/asmenys/Jokūbas I]] valde_teritorija Vilnius
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] mire Vilnius
-- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]] priklause Vilnius
-- [[objektai/grupes/Vilniaus magistratas]] valde_teritorija Vilnius
-- Vilnius priklause [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Gediminas]] gyveno Vilnius
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] uzeme Vilnius
-- [[objektai/grupes/Lietuviai]] gyveno Vilnius
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Vilnius
-- [[objektai/asmenys/Žygimantas]] uzeme Vilnius
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] buvo_palaidotas Vilnius
-- [[objektai/asmenys/Jonas Mejenas]] gyne Vilnius
-- [[objektai/grupes/Jono Mejeno divizija]] gyne Vilnius
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Vilnius
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] gyveno Vilnius
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Vilnius
-- [[objektai/grupes/Lietuviai]] keliavo_i Vilnius
-- [[objektai/asmenys/Fridrichas]] keliavo_i Vilnius
-- [[objektai/asmenys/Jadvyga]] keliavo_i Vilnius
-- [[objektai/asmenys/Švitrigaila]] uzeme Vilnius
-- [[objektai/asmenys/Augustas]] keliavo_i Vilnius
-- [[objektai/grupes/Totoriai]] uzeme Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Vilnius
+- [[objektai/asmenys/Česchonis]] gyveno Vilnius
+- [[objektai/grupes/107-oji motošaulių divizija]] gyveno Vilnius
+- [[objektai/grupes/Bajorai]] keliavo_i Vilnius
+- [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]] prekiavo_su Vilnius
+- [[objektai/asmenys/Stanislovas Ratka]] keliavo_i Vilnius
+- [[objektai/vietos/Vengrija]] prekiavo_su Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Gniezno]]
+- Vilnius prekiavo_su [[objektai/vietos/Lietuva]]
+- Vilnius prekiavo_su [[objektai/vietos/Tverė]]
+- [[objektai/grupes/Vokiečiai]] surenge_zygi_i Vilnius
+- [[objektai/vietos/Vroclavas]] prekiavo_su Vilnius
+- [[objektai/asmenys/Hanulas]] valde_miesta Vilnius
+- [[objektai/asmenys/Mykolas Rusalka]] keliavo_i Vilnius
+- [[objektai/vietos/Vilniaus miesto vartai]] priklause Vilnius
+- [[objektai/asmenys/Engelhardas Rabė]] surenge_zygi_i Vilnius
+- [[objektai/asmenys/Gediminas]] keliavo_i Vilnius
+- [[objektai/asmenys/Jonas Marija]] keliavo_i Vilnius
+- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Vilnius
+- [[objektai/asmenys/L. Želigovskis]] keliavo_i Vilnius
+- [[objektai/asmenys/Petras Kriaučiūnas]] keliavo_i Vilnius
+- [[objektai/grupes/Rusai]] prekiavo_su Vilnius
+- [[objektai/asmenys/Silvestras Levontjevičius]] keliavo_i Vilnius
+- [[objektai/grupes/Vilniaus miesto auksakalių cechas]] priklause Vilnius
+- [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]] gyveno Vilnius
+- [[objektai/asmenys/Vladislovas Jogaila]] pastate Vilnius
+- [[objektai/grupes/Vokiečiai]] prekiavo_su Vilnius
+- [[objektai/vietos/Žemutinė pilis Kreivoji pilis|Žemutinė pilis Kreivoji pilis (pilis)]] priklause Vilnius
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] buvo_palaidotas Vilnius
+- [[objektai/asmenys/Hanulas, arba Hanka]] valde_miesta Vilnius
+- [[objektai/vietos/Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje)]] priklause Vilnius
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]] gyne Vilnius
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Vilnius
+- [[objektai/grupes/Žydai]] gyveno Vilnius
+- [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Vilnius
+- [[objektai/asmenys/Janas Filipovičius]] valde_teritorija Vilnius
+- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]] gyne Vilnius
+- [[objektai/grupes/Kalvinai]] gyveno Vilnius
+- [[objektai/asmenys/Kazimieras Karigaila]] gyne Vilnius
+- [[objektai/grupes/Liuterionys]] gyveno Vilnius
+- [[objektai/asmenys/Martynas Ostrovskis]] keliavo_i Vilnius
+- [[objektai/grupes/Totoriai]] puole Vilnius
+- [[objektai/vietos/Vidurinė Lietuva]] priklause Vilnius
+- Vilnius priklause [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]] puole Vilnius
+- [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]] priklause Vilnius
+- [[objektai/asmenys/Švitrigaila]] puole Vilnius
+- [[objektai/asmenys/Kazimieras Karigaila]] mire Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Vilnius
+- [[objektai/asmenys/Jonas Kristupas Glaubicas]] gyveno Vilnius
+- [[objektai/asmenys/Jonas Lasavičius]] gime Vilnius
+- [[objektai/vietos/Kauno Vilniaus pirklių prekių sandėlis]] priklause Vilnius
+- [[objektai/daiktai/Lenino paminklas Vilniuje]] priklause Vilnius
+- [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]] keliavo_i Vilnius
+- [[objektai/grupes/Totoriai]] siunte_i Vilnius
+- [[objektai/vietos/Visų Šventųjų bažnyčia]] priklause Vilnius
+- [[objektai/asmenys/Vladislovas Jogaila]] valde_miesta Vilnius
+- [[objektai/asmenys/Žygimantas]] valde_miesta Vilnius
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] valde_miesta Vilnius
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Vilnius
+- [[objektai/asmenys/Andrius Volanas]] gyveno Vilnius
+- [[objektai/asmenys/Bona Sforca]] pastate Vilnius
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] pastate Vilnius
+- [[objektai/asmenys/Steponas Batoras]] valde_miesta Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Vilnius
+- [[objektai/grupes/Lietuvos laisvės armija]] priklause Vilnius
+- [[objektai/grupes/Anglai]] puole Vilnius
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] siunte_i Vilnius
+- [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]] gyveno Vilnius
+- [[objektai/vietos/Livonija]] prekiavo_su Vilnius
+- [[objektai/asmenys/Vladislovas Jogaila]] uzeme Vilnius
+- [[objektai/asmenys/Volfgangas Auksakalys]] gyveno Vilnius
+- [[objektai/vietos/Šv. Dvasios dominikonų vienuolynas Vilniuje]] priklause Vilnius
+- [[objektai/asmenys/Henrikas Plauenas]] keliavo_i Vilnius
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] valde_miesta Vilnius
+- [[objektai/vietos/Kauno gubernija]] priklause Vilnius
+- [[objektai/grupes/Laikinoji LDK vyriausybė]] priklause Vilnius
+- [[objektai/daiktai/Vėliavos]] priklause Vilnius
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]] valde_miesta Vilnius
+- [[objektai/asmenys/Petras Pliuščius]] valde_miesta Vilnius
+- [[objektai/asmenys/Vinrichas Kniprodė]] puole Vilnius
+- [[objektai/asmenys/Donatas Malinauskas]] gyveno Vilnius
+- [[objektai/grupes/Jėzuitų ordinas]] gyveno Vilnius
+- [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]] keliavo_i Vilnius
+- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Vilnius
+- [[objektai/asmenys/Motiejus]] valde_miesta Vilnius
+- [[objektai/asmenys/Petras Goštautas]] pastate Vilnius
+- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]] priklause Vilnius
+- [[objektai/vietos/Verkiai]] priklause Vilnius
+- Vilnius prekiavo_su [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Vokietija]] prekiavo_su Vilnius
+- [[objektai/asmenys/Šach Achmedas]] keliavo_i Vilnius
+- [[objektai/asmenys/Štagelis]] gyveno Vilnius
+- [[objektai/asmenys/Klemensas Moskorzewskis]] gyne Vilnius
+- [[objektai/asmenys/Stanislovas Sabina]] valde_miesta Vilnius
+- [[objektai/vietos/Vitebskas]] priklause Vilnius
+- [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]] gyveno Vilnius
+- [[objektai/asmenys/Vendrichovskis]] gyveno Vilnius
+- [[objektai/asmenys/Aleksandras Balinskis]] mire Vilnius
+- [[objektai/asmenys/Šach Achmedas]] gyveno Vilnius
+- [[objektai/grupes/Krymo orda]] keliavo_i Vilnius
+- [[objektai/asmenys/Petras iš Kustynės]] gyveno Vilnius
+- [[objektai/vietos/Pilaitė]] priklause Vilnius
+- [[objektai/asmenys/Kasparas Bekešas]] buvo_palaidotas Vilnius
+- [[objektai/asmenys/Manvydas]] gyveno Vilnius
+- [[objektai/asmenys/Petras Klimas]] gyveno Vilnius
+- [[objektai/asmenys/Petras Roizijus]] gyveno Vilnius
+- [[objektai/asmenys/Švitrigaila]] surenge_zygi_i Vilnius

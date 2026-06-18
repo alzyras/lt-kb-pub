@@ -29,7 +29,8 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   global_id: t-88520
   teiginys: 'Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'llm_object: Sirija; mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: Palestina; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/grupes/Gruzinai|Gruzinai]]; llm_object: [[objektai/grupes/Saracėnai|Saracėnai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Armėnai|Armėnai]] surengė žygį į Sirija; [[objektai/grupes/Armėnai|Armėnai]] surengė žygį į Palestina; [[objektai/grupes/Armėnai|Armėnai]] buvo sąjungininkas su [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/grupes/Armėnai|Armėnai]] buvo sąjungininkas su [[objektai/grupes/Gruzinai|Gruzinai]]; [[objektai/grupes/Armėnai|Armėnai]] kariavo prieš [[objektai/grupes/Saracėnai|Saracėnai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -73,19 +74,21 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gruzinai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Armėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gruzinai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Armėnai" parinktas kaip owner_note_path. Targetas "Gruzinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Armėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo žygį į Siriją.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117317|Vokiečiai]]: Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-183197|Vokiečiai]]: Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.
 - susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
 - susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
+- susijęs iš [[objektai/grupes/Gruzinai.md#claim-t-62591|Gruzinai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -118,13 +121,13 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gruzinai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Armėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gruzinai: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Armėnai" parinktas kaip owner_note_path. Targetas "Gruzinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Sirija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Armėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sirija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo žygį į Siriją.
     - t-002
 
 - c-003
@@ -160,3 +163,13 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   ryšio_subjekto_parinkimas: Armėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=8
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Armėnai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Armėnai gyveno [[objektai/vietos/Lietuva]]
+- Armėnai surenge_zygi_i [[objektai/vietos/Sirija]]
+- Armėnai surenge_zygi_i [[objektai/vietos/Palestina]]
+- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Armėnai
+- Armėnai buvo_sajungininkas_su [[objektai/grupes/Totoriai]]
+- Armėnai buvo_sajungininkas_su [[objektai/grupes/Gruzinai]]
+- [[objektai/grupes/Gruzinai]] buvo_sajungininkas_su Armėnai
+- Armėnai kariavo_pries [[objektai/grupes/Saracėnai]]

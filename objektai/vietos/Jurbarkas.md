@@ -102,6 +102,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   ryšio_subjekto_parinkimas: Jurbarkas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bokštai: mention_match, place, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
@@ -133,6 +134,8 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - susijęs iš Veliuona: Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.
 - susijęs iš Žemaitija: Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų.
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12313|Laivai]]: 1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.
+- susijęs iš [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis).md#claim-t-95965|Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]: Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -235,4 +238,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurbarkas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] uzeme Jurbarkas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] apgule Jurbarkas
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Jurbarkas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Jurbarkas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Jurbarkas

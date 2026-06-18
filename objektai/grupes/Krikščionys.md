@@ -22,7 +22,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   global_id: t-07840
   teiginys: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
   sudarymo_pagrindimas: 'Citata remia konkretų veiksmą, o ne tik bendrą vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; llm_object: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Krikščionys|Krikščionys]] puolė [[objektai/grupes/Kalnėnai|Kalnėnai]]; [[objektai/grupes/Krikščionys|Krikščionys]] kariavo prieš [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-001
 
@@ -40,13 +41,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131568-132226; hash=36882709618c65c76385ef0f9cbf40242857a97a9a99fd61d99c7b7f7daa67f7; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumas: puole -> Kalnėnai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalnėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas sako, kad krikščionys kardu vertė krikštytis lietuvį, kalnėną ar žemaitį; iš leistinų objektų yra Kalnėnai.
 
 <a id="claim-t-184482"></a>
 - t-003
@@ -113,6 +114,8 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Fridrichas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
+- susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
 - susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74516|Lenkų krikščionys demokratai]]: Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
 - susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74517|Lenkų krikščionys demokratai]]: Vilniaus vyskupijoje lenkų krikščionys demokratai vadovavosi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
 - susijęs iš [[objektai/grupes/Lietuvių krikščionys demokratai.md#claim-t-74627|Lietuvių krikščionys demokratai]]: Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
@@ -243,6 +246,10 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101614|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -301,13 +308,13 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131568-132226; hash=36882709618c65c76385ef0f9cbf40242857a97a9a99fd61d99c7b7f7daa67f7; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumas: puole -> Kalnėnai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalnėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas sako, kad krikščionys kardu vertė krikštytis lietuvį, kalnėną ar žemaitį; iš leistinų objektų yra Kalnėnai.
     - t-003
 
 - c-004
@@ -380,3 +387,17 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Fridrichas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Krikščionys gyveno [[objektai/vietos/Tripolis]]
+- Krikščionys gyveno [[objektai/vietos/Jeruzalė]]
+- Krikščionys kariavo_pries [[objektai/grupes/Saracėnai]]
+- [[objektai/grupes/Galindai]] kariavo_pries Krikščionys
+- [[objektai/asmenys/Gediminas]] kariavo_pries Krikščionys
+- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]
+- [[objektai/asmenys/Sventopelkas]] kariavo_pries Krikščionys
+- Krikščionys reme [[objektai/grupes/Lietuviai]]
+- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
+- Krikščionys puole [[objektai/grupes/Kalnėnai]]
+- Krikščionys kariavo_pries [[objektai/grupes/Kalnėnai]]

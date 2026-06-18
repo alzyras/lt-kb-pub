@@ -68,7 +68,8 @@ Politinė grupuotė.
 - t-003
   global_id: t-45271
   teiginys: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Vilnius; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; llm_object: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Vilnius; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; [[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -79,7 +80,8 @@ Politinė grupuotė.
   global_id: t-45272
   teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
   sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; llm_object: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; [[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
@@ -154,3 +156,9 @@ Politinė grupuotė.
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- Voldemarininkai reme [[objektai/asmenys/A. Voldemaras]]
+- Voldemarininkai buvo_sajungininkas_su [[objektai/grupes/Šaulių sąjunga]]
+- Voldemarininkai buvo_sajungininkas_su [[objektai/grupes/Jaunieji tautininkai]]
+- Voldemarininkai reme [[objektai/asmenys/Augustinas Voldemaras]]

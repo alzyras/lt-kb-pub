@@ -30,8 +30,8 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   global_id: t-35056
   teiginys: 'Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą faktą.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Elžbieta Granauskaitė|Elžbieta Granauskaitė]] vedė [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elžbieta Granauskaitė|Elžbieta Granauskaitė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Elžbieta Granauskaitė|Elžbieta Granauskaitė]]'
   temporaliniai_duomenys: 'įvykio data: 1417 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą faktą.'
@@ -40,13 +40,13 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e4a9cd70e5fcf650b4447b1860817b7b169cd68be157ee5b70681ecb75b08f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Jogaila (kunigaikštis, XIV–XV a.): 0.90
+  ryšio_patikimumas: vede -> Elžbieta Granauskaitė: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Elžbieta Granauskaitė: owner_note_path, person, gap=5
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_person_after_predicate, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Elžbieta Granauskaitė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elžbieta Granauskaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila vedė Elžbietą Granauskaitę.
 
 ## Reikšmingi paminėjimai
 
@@ -70,13 +70,13 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e4a9cd70e5fcf650b4447b1860817b7b169cd68be157ee5b70681ecb75b08f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Jogaila (kunigaikštis, XIV–XV a.): 0.90
+  ryšio_patikimumas: vede -> Elžbieta Granauskaitė: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Elžbieta Granauskaitė: owner_note_path, person, gap=5
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_person_after_predicate, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Elžbieta Granauskaitė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elžbieta Granauskaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila vedė Elžbietą Granauskaitę.
 
 ## Ryšiai
-- Elžbieta Granauskaitė vede [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Elžbieta Granauskaitė

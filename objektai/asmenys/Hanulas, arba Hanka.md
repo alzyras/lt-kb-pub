@@ -29,7 +29,8 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
   global_id: t-87511
   teiginys: 'Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tinkamai perteikia citatoje nurodytą vardo bei pareigų vartoseną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_place: Vilnius; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Hanulas, arba Hanka|Hanulas, arba Hanka]] valdė miestą Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tinkamai perteikia citatoje nurodytą vardo bei pareigų vartoseną.'
@@ -38,13 +39,13 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104153-104614; hash=559f78fd6abaaedf69a1f8ad4b1f6a18396d22c8791dd8c2eefffb193d2af664; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanulas: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hanulas, arba Hanka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hanulas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hanulas, arba Hanka" parinktas kaip owner_note_path. Targetas "Hanulas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanulas, arba Hanka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus seniūno pareigos pagrindžia valdymo ryšį su Vilniumi, nors tai pareiginė formuluotė.
 
 ## Reikšmingi paminėjimai
 
@@ -75,10 +76,13 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104153-104614; hash=559f78fd6abaaedf69a1f8ad4b1f6a18396d22c8791dd8c2eefffb193d2af664; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanulas: 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hanulas, arba Hanka: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hanulas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hanulas, arba Hanka" parinktas kaip owner_note_path. Targetas "Hanulas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanulas, arba Hanka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus seniūno pareigos pagrindžia valdymo ryšį su Vilniumi, nors tai pareiginė formuluotė.
+
+## Ryšiai
+- Hanulas, arba Hanka valde_miesta [[objektai/vietos/Vilnius]]

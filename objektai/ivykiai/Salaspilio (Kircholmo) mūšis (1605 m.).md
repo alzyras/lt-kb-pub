@@ -45,19 +45,20 @@ Nenurodyta
   global_id: t-10278
   teiginys: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434385-434628; hash=f61e6eaffda5f5fc2a252e80fe99760457164639c7c5678e998f74df693cd855; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Liuneburgietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: A. Liuneburgietis: mention_match, person, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "A. Liuneburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Švedų kavalerija tiesiogiai minima Salaspilio mūšio veiksmuose.
 
 <a id="claim-t-10279"></a>
 - t-002
@@ -103,19 +104,19 @@ Nenurodyta
   global_id: t-10281
   teiginys: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Dambrava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Dambrava; llm_object: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434042-434383; hash=b5635196965a598004051b0908764e67c44a4c4bf9fe143f40fe5c5940540d95; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: puole -> Švedai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaina: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vainos kavalerijos ataka vyksta prieš švedų pėstininkų rikiuotę, minimą tame pačiame epizode.
 
 <a id="claim-t-10282"></a>
 - t-005
@@ -143,7 +144,8 @@ Nenurodyta
   teiginys: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; [[objektai/grupes/Švedai|Švedai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -161,21 +163,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435465-435931; hash=9c7f5a85b4fb89804ad1ec4e0370cf7a738a3cf9af0be40cfc6fa89c594ecb25; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Kontekste kita kariuomenė yra švedai, todėl jų dalyvavimas mūšyje tiesiogiai paremtas epizodu.
 
 <a id="claim-t-186373"></a>
 - t-008
   global_id: t-186373
   teiginys: 'Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'event: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; [[objektai/grupes/Rusėnai|Rusėnai]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -195,7 +196,8 @@ Nenurodyta
   teiginys: '1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus.'
@@ -227,13 +229,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenės pergalė prieš švedus tiesiogiai nurodo karinę priešpriešą.
 - susijęs iš [[objektai/asmenys/Laurencijus Bojeris.md#claim-t-39773|Laurencijus Bojeris]]: Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje.
 - susijęs iš Karolomachija: 1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis.
 - susijęs iš Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda): „Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.
@@ -304,13 +306,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434042-434383; hash=b5635196965a598004051b0908764e67c44a4c4bf9fe143f40fe5c5940540d95; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: puole -> Švedai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaina: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vainos kavalerijos ataka vyksta prieš švedų pėstininkų rikiuotę, minimą tame pačiame epizode.
     - t-001
 
 - c-004
@@ -337,13 +339,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434385-434628; hash=f61e6eaffda5f5fc2a252e80fe99760457164639c7c5678e998f74df693cd855; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Liuneburgietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: A. Liuneburgietis: mention_match, person, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "A. Liuneburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Švedų kavalerija tiesiogiai minima Salaspilio mūšio veiksmuose.
     - t-007
 
 - c-005
@@ -369,13 +371,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435465-435931; hash=9c7f5a85b4fb89804ad1ec4e0370cf7a738a3cf9af0be40cfc6fa89c594ecb25; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Kontekste kita kariuomenė yra švedai, todėl jų dalyvavimas mūšyje tiesiogiai paremtas epizodu.
     - t-010
 
 - c-006
@@ -394,13 +396,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 158938-159155; hash=a0cea0f2fd6975fa4012d9751a7e2a47f4913bdd02818a7f232d6781c894f88e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuvos kariuomenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuvos kariuomenė: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Lietuvos kariuomenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenės pergalė prieš švedus tiesiogiai nurodo karinę priešpriešą.
     - t-005
 
 - c-007
@@ -493,5 +495,7 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
+- [[objektai/grupes/Švedai]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
+- [[objektai/asmenys/A. Liuneburgietis]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)
-- [[objektai/grupes/Rusėnai]] dalyvavo_musyje Salaspilio (Kircholmo) mūšis (1605 m.)

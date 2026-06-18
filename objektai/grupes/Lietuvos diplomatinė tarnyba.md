@@ -40,20 +40,20 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=751980e056dcf994cc4c62edbcab8d955b19e3036ad9186d7dc0a19aaeb2c649; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos diplomatinė tarnyba: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos diplomatinė tarnyba" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Klivlandas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Klivlandas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo A. Smetonos žūties vietą Klivlande.
 
 <a id="claim-t-19868"></a>
 - t-002
   global_id: t-19868
   teiginys: 'Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Klivlandas'
+  susije_objektai: 'llm_object: Klivlandas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Klivlandas'
   temporaliniai_duomenys: 'įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -173,13 +173,13 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=751980e056dcf994cc4c62edbcab8d955b19e3036ad9186d7dc0a19aaeb2c649; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos diplomatinė tarnyba: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos diplomatinė tarnyba" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Klivlandas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Klivlandas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo A. Smetonos žūties vietą Klivlande.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 461879-462592; hash=6d2f8f5024d7c735dbeca90ec483fd9ebdbdc5f7c9ec9c8a63055f871c25f85f; match=whitespace_regex

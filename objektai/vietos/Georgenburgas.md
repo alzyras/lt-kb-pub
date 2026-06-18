@@ -32,7 +32,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   global_id: t-67966
   teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Georgenburgo blokadą ir vokiečių veiksmus.'
-  susije_objektai: 'mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Georgenburgas; mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] apgulė Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Georgenburgo blokadą ir vokiečių veiksmus.'
@@ -41,20 +42,21 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Georgenburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad kryžiuočiai statė Georgenburgą.
 
 <a id="claim-t-67967"></a>
 - t-002
   global_id: t-67967
   teiginys: 'Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Ordino spaudimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Durbė; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Georgenburgas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Durbė; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] apgulė Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Ordino spaudimą.'
@@ -63,20 +65,21 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Georgenburgas apibūdintas kaip lietuvių blokuojamas, tai atitinka apgulties santykį.
 
 <a id="claim-t-67968"></a>
 - t-003
   global_id: t-67968
   teiginys: '1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Imsrė; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Georgenburgas; mentioned_place: Jurbarkas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Imsrė; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -85,18 +88,22 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=125
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Georgenburgas apibūdintas kaip lietuvių blokuojamas, tai atitinka apgulties santykį.
+- susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
+- susijęs iš Mituva: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo, arba Jurbarko, pilį.
+- susijęs iš Imsrė: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį.
 - susijęs iš Imsrė: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį.
 - susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš Mituva: 1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo, arba Jurbarko, pilį.
+- susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178899|Kryžiuočių ordinas]]: Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
@@ -116,6 +123,11 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - susijęs iš Žiemgala: 1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš Žiemgala: 1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 - susijęs iš [[objektai/zodynas/donacija.md#claim-t-32772|donacija]]: Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.
+- susijęs iš Durbė: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
+- susijęs iš Klaipėda: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
+- susijęs iš Klaipėda: Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes.
+- susijęs iš Durbė: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
+- susijęs iš Žagarė: Kryžiuočiams nepavyko paimti Tervetės pilies, buvusios į šiaurę nuo Žagarės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -145,13 +157,13 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Georgenburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad kryžiuočiai statė Georgenburgą.
     - t-002
 
 - c-002
@@ -172,13 +184,13 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Georgenburgas apibūdintas kaip lietuvių blokuojamas, tai atitinka apgulties santykį.
     - t-003
 
 - c-003
@@ -205,21 +217,27 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=125
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Georgenburgas apibūdintas kaip lietuvių blokuojamas, tai atitinka apgulties santykį.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 87524-87979; hash=a8b0870426e5002c414f8bab74c2672a882c8371a4abffba954cc66401f1d5e9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Georgenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Georgenburgas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Georgenburgas apibūdintas kaip lietuvių blokuojamas, tai atitinka apgulties santykį.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Georgenburgas
+- [[objektai/grupes/Lietuviai]] apgule Georgenburgas
+- [[objektai/grupes/Vokiečiai]] gyne Georgenburgas
+- Georgenburgas priklause [[objektai/vietos/Karšuvos sritis]]

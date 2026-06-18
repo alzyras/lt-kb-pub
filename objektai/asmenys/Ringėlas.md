@@ -37,6 +37,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   ryšio_targeto_parinkimas: Semba: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ringėlas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
+- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
 - susijęs iš [[objektai/zodynas/kiemai habitaciones curia.md#claim-t-184005|kiemai habitaciones curia]]: Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
 ## Reikšmingi paminėjimai
 
@@ -97,3 +98,6 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   ryšio_subjekto_parinkimas: Ringėlas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Semba: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ringėlas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Gedūnas]] buvo_brolis Ringėlas

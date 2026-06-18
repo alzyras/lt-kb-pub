@@ -56,19 +56,20 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir parėmė Vytauto žygius prieš totorius.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas V|Martynas V]] paskyrė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Martynas V|Martynas V]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas V: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru.
 
 <a id="claim-t-184435"></a>
 - t-003
@@ -142,13 +143,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas V: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru.
 
 <a id="claim-t-184439"></a>
 - t-007
@@ -156,8 +157,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   teiginys: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Martyną V ir atitinka citatą.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Martynas V|Martynas V]] paskyrė [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1417 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Martyną V ir atitinka citatą.'
@@ -166,13 +166,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Martynas iš Golino: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=33
-  ryšio_targeto_parinkimas: Martynas iš Golino: nearest_after_predicate, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184442"></a>
 - t-010
@@ -180,7 +180,8 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, aiškus ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas V|Martynas V]] paskyrė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Martynas V|Martynas V]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, aiškus ir paremtas citatos duomenimis.'
@@ -189,13 +190,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Martynas iš Golino: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=33
-  ryšio_targeto_parinkimas: Martynas iš Golino: nearest_after_predicate, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184443"></a>
 - t-011
@@ -368,13 +369,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas V: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru.
     - t-010
 
 - c-005
@@ -392,13 +393,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Martynas iš Golino: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=33
-  ryšio_targeto_parinkimas: Martynas iš Golino: nearest_after_predicate, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=87242fe90723da73d704963566d8e479ddfda434dcb857c3c6ede158ec39dace; match=fallback; occurrences=0
@@ -497,13 +498,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3cca5a6b6a081d0cfdea50bccec852a3cd45b0c9ae9797e374ec8805403e9acd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Martynas iš Golino: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=33
-  ryšio_targeto_parinkimas: Martynas iš Golino: nearest_after_predicate, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-009
@@ -549,13 +550,13 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martynas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas V: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Martynas V paskyrė Vytautą vikaru.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9b4f8d8688e831b749fe9fa54943809a7699f4afda4197d466b38d87aa0d660a; match=fallback; occurrences=0
@@ -580,4 +581,5 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas V" parinktas kaip owner_note_path. Targetas "Breslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Martynas V paskyre [[objektai/asmenys/Martynas iš Golino]]
+- Martynas V paskyre [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Martynas V reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

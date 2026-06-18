@@ -77,3 +77,6 @@ amziai:
   ryšio_subjekto_parinkimas: JAV Kongresas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Baltija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV Kongresas" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- JAV Kongresas priklause [[objektai/vietos/JAV]]

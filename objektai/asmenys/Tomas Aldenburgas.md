@@ -31,26 +31,28 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   global_id: t-87584
   teiginys: 'Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.'
   sudarymo_pagrindimas: 'Citata rodo, kad veikė ne vienas Tomas Aldenburgas, todėl reikia nurodyti grupę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Natanga; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Natanga; mentioned_place: Ragainė; mentioned_place: Semba; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas Aldenburgas|Tomas Aldenburgas]] puolė [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126914-127644; hash=edc28fbdbea24470403716f039f847f60fe1c002c0022391b0430fe7430c8be6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Aldenburgas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Aldenburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Aldenburgas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tomas Aldenburgas puolė Gedimino pilies papilį; objektas yra Gedimino, nes konkretaus papilio objekto naudoti negalima.
 
 <a id="claim-t-87585"></a>
 - t-002
   global_id: t-87585
   teiginys: '1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.'
   sudarymo_pagrindimas: 'Citata palaiko datą, pareigas ir puolimą, bet pradinė formuluotė nutrūkusi ir triukšminga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilniaus pilis; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva; mentioned_place: Natanga; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilniaus pilis; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva; mentioned_place: Natanga; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas Aldenburgas|Tomas Aldenburgas]] puolė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko datą, pareigas ir puolimą, bet pradinė formuluotė nutrūkusi ir triukšminga.'
@@ -59,13 +61,13 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128178-128627; hash=4d2d7021e04728b5668070cc6d830bdb969ce6cb5ad7f2a8ca28b91d0e739ac8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Aldenburgas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Aldenburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Aldenburgas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tomas Aldenburgas įsiveržė į Gedimino pilies papilį; tiesioginio papilio objekto nėra, todėl naudojamas Gediminas kaip susijęs asmuo.
 - susijęs iš Gedimino pilis Castrum Gedemini: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
@@ -119,21 +121,25 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126914-127644; hash=edc28fbdbea24470403716f039f847f60fe1c002c0022391b0430fe7430c8be6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Aldenburgas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Aldenburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Aldenburgas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tomas Aldenburgas puolė Gedimino pilies papilį; objektas yra Gedimino, nes konkretaus papilio objekto naudoti negalima.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128178-128627; hash=4d2d7021e04728b5668070cc6d830bdb969ce6cb5ad7f2a8ca28b91d0e739ac8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas Aldenburgas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Aldenburgas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas Aldenburgas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tomas Aldenburgas įsiveržė į Gedimino pilies papilį; tiesioginio papilio objekto nėra, todėl naudojamas Gediminas kaip susijęs asmuo.
+
+## Ryšiai
+- Tomas Aldenburgas puole [[objektai/vietos/Gedimino pilis Castrum Gedemini]]
+- Tomas Aldenburgas puole [[objektai/asmenys/Gediminas]]

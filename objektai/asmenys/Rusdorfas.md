@@ -70,6 +70,7 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Rusdorfas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=51
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusdorfas" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40517|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: 1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113833|Julijona (Vytauto žmona)]]: 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113837|Julijona (Vytauto žmona)]]: 1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.
@@ -165,3 +166,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Rusdorfas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=51
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusdorfas" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] sudare_sutarti_su Rusdorfas

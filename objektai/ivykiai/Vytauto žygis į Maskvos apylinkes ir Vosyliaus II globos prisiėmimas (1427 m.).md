@@ -45,38 +45,38 @@ Nenurodyta
   global_id: t-35919
   teiginys: 'Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Donas; mentioned_place: Maskva; mentioned_place: Minskas'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Donas; mentioned_place: Maskva; mentioned_place: Minskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350158-350633; hash=b10c309040c67b6880c77ac5b96802dec2ba96b426ce0ad7c67ff326c6c66d60; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Donas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vytauto žygį į Maskvos apylinkes.
 
 <a id="claim-t-35920"></a>
 - t-002
   global_id: t-35920
   teiginys: 'Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Pronskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Pronskas; llm_object: Maskva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc04081615b4c79b828538263341aa206bd4ea650365bd6b0032f9de0b4a19fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: valde -> Maskva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas tapo Maskvos kunigaikštijos protektoriumi; tai artima valdymo santykiui.
 
 ## Reikšmingi paminėjimai
 
@@ -120,21 +120,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350158-350633; hash=b10c309040c67b6880c77ac5b96802dec2ba96b426ce0ad7c67ff326c6c66d60; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Donas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Vytauto žygį į Maskvos apylinkes.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc04081615b4c79b828538263341aa206bd4ea650365bd6b0032f9de0b4a19fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: valde -> Maskva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas tapo Maskvos kunigaikštijos protektoriumi; tai artima valdymo santykiui.

@@ -43,19 +43,19 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   global_id: t-88047
   teiginys: 'Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Jerošiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 203946-204808; hash=1268ee1c10a706c859d0a8d0138c52f3a06538b0ac4eb0cd3e395f4857351d97; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rygos miestiečiai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerošinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Rygos miestiečiai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerošinas" parinktas kaip owner_note_path. Targetas "Rygos miestiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygos miestiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Rygos gyventojai aprašomi kaip konfliktuojantys su Ordino broliais.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172868|J. Dlugošas]]: Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88021|Jerošinas Jeroschin]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -135,10 +135,10 @@ Vėliau viskas byloja, jog Gediminas per pasiun­ tinius nurodė, kaip sako Jero
   irodymo_stiprumas: 0.00
   saltinio_vieta: 203946-204808; hash=1268ee1c10a706c859d0a8d0138c52f3a06538b0ac4eb0cd3e395f4857351d97; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rygos miestiečiai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerošinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Rygos miestiečiai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerošinas" parinktas kaip owner_note_path. Targetas "Rygos miestiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygos miestiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Rygos gyventojai aprašomi kaip konfliktuojantys su Ordino broliais.

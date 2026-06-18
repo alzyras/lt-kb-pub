@@ -41,13 +41,13 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilis (pilis)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Medvėgalis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad žemaičiai gynėsi Medvėgalyje.
 
 <a id="claim-t-179908"></a>
 - t-002
@@ -85,26 +85,27 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   global_id: t-179910
   teiginys: 'Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir pakankamai tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Ragainė; mentioned_place: Semba; llm_object: Gedimino pilis'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]] puolė Gedimino pilis'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 658658-659637; hash=d5f50b45d0f6bd28df10b9d3a5a20d3f2c72d1577ca9d32f9abc3ac91da8cdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gedimino pilis (pilis): 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gedimino pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Slaptas priėjimas prie pilies ir jos gynimas rodo puolimo veiksmą, nors pilis nebuvo paimta.
 
 <a id="claim-t-179913"></a>
 - t-005
   global_id: t-179913
   teiginys: 'Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria informaciją Guillaume de Machaut pasakojimui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukaimis; mentioned_place: Gegužkalnis; mentioned_place: Medvėgalis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
+  susije_objektai: 'llm_object: Medvėgalis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukaimis; mentioned_place: Gegužkalnis; mentioned_place: Medvėgalis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
   temporaliniai_duomenys: 'įvykio data: 1357 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstai priskiria informaciją Guillaume de Machaut pasakojimui.'
@@ -171,13 +172,13 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilis (pilis)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Medvėgalis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad žemaičiai gynėsi Medvėgalyje.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eb42944692a22614f1463df6f990754740ae2fe627c31fa8210eb9d0bc100c06; match=fallback; occurrences=0
@@ -210,13 +211,13 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   irodymo_stiprumas: 0.00
   saltinio_vieta: 658658-659637; hash=d5f50b45d0f6bd28df10b9d3a5a20d3f2c72d1577ca9d32f9abc3ac91da8cdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gedimino pilis (pilis): 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedimino pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gedimino pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Slaptas priėjimas prie pilies ir jos gynimas rodo puolimo veiksmą, nors pilis nebuvo paimta.
     - t-005
 
 - c-004
@@ -245,3 +246,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino pilis (pilis)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+
+## Ryšiai
+- Gedimino pilis (pilis) priklause [[objektai/vietos/Pagraudė]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Gedimino pilis (pilis)

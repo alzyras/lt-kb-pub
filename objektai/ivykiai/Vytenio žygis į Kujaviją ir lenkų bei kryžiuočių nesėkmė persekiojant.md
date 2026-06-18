@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie žygį ir nesėkmingą persekiojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kujavija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 284063-284927; hash=3dc1f38006576d9a81b60b1b16ecdfb5dda7a715ebcd85f1dfb5656c383f5e7c; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Vytenis nuniokojo Kujaviją.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +88,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 284063-284927; hash=3dc1f38006576d9a81b60b1b16ecdfb5dda7a715ebcd85f1dfb5656c383f5e7c; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Vytenis nuniokojo Kujaviją.

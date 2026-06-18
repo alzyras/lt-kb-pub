@@ -39,6 +39,7 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   ryšio_targeto_parinkimas: Gotai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feletėjas" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
+- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,3 +79,6 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   ryšio_subjekto_parinkimas: Feletėjas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gotai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feletėjas" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Fridrichas]] buvo_sunus Feletėjas

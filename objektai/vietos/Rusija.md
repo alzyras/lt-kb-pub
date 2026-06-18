@@ -236,7 +236,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-180524
   teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti karalių ir išlaikyti tikslų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Rusija; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Švedija; llm_object: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] siuntė į Rusija'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiai įvardyti karalių ir išlaikyti tikslų faktą.'
@@ -267,13 +268,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2fcc5e6971d4a193ab269572057a960411a9849f0500217f57a0009bfae1469; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusijos kariuomenės įžengimas prie Polocko rodo karinį judėjimą į šią vietą.
 
 <a id="claim-t-180529"></a>
 - t-015
@@ -312,7 +313,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-180531
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.'
   sudarymo_pagrindimas: 'Pašalinta neaiški pradžia ir sutrumpintas teiginys iki pagrindinio fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Targovica; llm_object: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta neaiški pradžia ir sutrumpintas teiginys iki pagrindinio fakto.'
@@ -356,7 +357,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-180536
   teiginys: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   sudarymo_pagrindimas: 'Teiginys tikslus, datuotas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tikslus, datuotas ir paremtas citata.'
@@ -372,9 +373,34 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu.
-- susijęs iš Livonija: 1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.
+- susijęs iš Andrusavos taika (1667 m.): 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
+- susijęs iš [[objektai/asmenys/Karolis XII.md#claim-t-171586|Karolis XII]]: Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.
+- susijęs iš [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.).md#claim-t-39123|Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]: 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
+- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45784|autokratinė monarchinė imperija]]: 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
+- susijęs iš [[objektai/asmenys/Fiodoras.md#claim-t-40106|Fiodoras]]: Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija.
+- susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-12172|Jadvyga Jogailienė]]: Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176425|Jadvyga Jogailienė]]: Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176429|Jadvyga Jogailienė]]: Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.
+- susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.
+- susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.
+- susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje.
+- susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.
+- susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
+- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
+- susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
+- susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
+- susijęs iš [[objektai/autoriai/Mickevičius.md#claim-t-05717|Mickevičius]]: Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
+- susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82105|Variagai]]: Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.
+- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63725|Jonas Mačiulis-Maironis]]: Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.
+- susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79227|Vladislovas Vaza]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.
+- susijęs iš [[objektai/grupes/Lietuvių Tautos Taryba.md#claim-t-01389|Lietuvių Tautos Taryba (institucija)]]: 1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.
+- susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-183226|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.
+- susijęs iš Lietuvos Statutai: Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.
 - susijęs iš [[objektai/asmenys/A. Suvorovas.md#claim-t-18745|A. Suvorovas]]: A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82167|Aleksandras II]]: Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.
 - susijęs iš [[objektai/asmenys/Aleksandras III.md#claim-t-18775|Aleksandras III]]: Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.
@@ -640,6 +666,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/rusinimas.md#claim-t-22287|rusinimas]]: Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
 - susijęs iš [[objektai/zodynas/zemstvos.md#claim-t-77810|zemstvos]]: Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
+- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184427|Petras I Didysis]]: 1721 m. Petras I Didysis paskelbė Rusiją imperija.
+- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
+- susijęs iš Švedija: 1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.
+- susijęs iš Švedija: 1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.
 - susijęs iš [[objektai/asmenys/Adolfas Jofė.md#claim-t-18755|Adolfas Jofė]]: Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18759|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-183518|Aleksandras I]]: Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.
@@ -1324,6 +1354,34 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-183488|„lenkų pradai“ „rusų pradai“]]: Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22360|„lenkų pradai“ „rusų pradai“]]: Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
+- susijęs iš [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“.md#claim-t-20842|„Iš tikrųjų jokia kita pasaulio kalba...“]]: Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.
+- susijęs iš Kauno gubernija: Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
+- susijęs iš Šiaurės Vakarų kraštas: Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraštu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
+- susijęs iš Andrusavos taika (1667 m.): Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
+- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
+- susijęs iš [[objektai/grupes/Nepriklausomų Valstybių Sandrauga.md#claim-t-19957|Nepriklausomų Valstybių Sandrauga]]: Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117394|Žydai]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117403|Žydai]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-20466|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: 1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją.
+- susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
+- susijęs iš [[objektai/zodynas/interliudas.md#claim-t-22167|interliudas]]: 1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.
+- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184428|Petras I Didysis]]: Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.
+- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54214|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.
+- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54217|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai.
+- susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
+- susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
+- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-183270|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: 1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc.
+- susijęs iš Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.): Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
+- susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
+- susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-71739|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
+- susijęs iš Annales Quedlinburgenses: „Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų.
+- susijęs iš Veližas: Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.
+- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186389|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
+- susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-186390|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
+- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1482,13 +1540,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   irodymo_stiprumas: 0.00
   saltinio_vieta: 586400-587138; hash=68e7d6db43ee25453e27f00ca009befd2fc6c31e2a0b8b0b11271634eeffe5ca; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Rusija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Stepono Batoro pasiuntinybės siuntimą į Rusiją.
     - t-010
 
 - c-007
@@ -1565,13 +1623,13 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2fcc5e6971d4a193ab269572057a960411a9849f0500217f57a0009bfae1469; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusijos kariuomenės įžengimas prie Polocko rodo karinį judėjimą į šią vietą.
     - t-018
 
 - c-010
@@ -1771,4 +1829,36 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusija" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Švedai]] uzeme Rusija
+- [[objektai/vietos/Smolenskas]] priklause Rusija
+- [[objektai/asmenys/Karolis XII]] puole Rusija
+- [[objektai/vietos/Lietuva]] priklause Rusija
+- [[objektai/vietos/Kijevas]] priklause Rusija
+- [[objektai/grupes/Riurikaičių dinastija]] valde Rusija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde Rusija
+- [[objektai/grupes/Napoleono kariuomenė]] surenge_zygi_i Rusija
+- [[objektai/grupes/Krymo totoriai]] puole Rusija
+- [[objektai/asmenys/Steponas Batoras]] siunte_i Rusija
+- [[objektai/asmenys/Aleksejus Michailovičius]] buvo_valdovas Rusija
+- [[objektai/vietos/Užnemunė]] priklause Rusija
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]] keliavo_i Rusija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] valde_teritorija Rusija
+- [[objektai/asmenys/Riurikas]] keliavo_i Rusija
+- [[objektai/grupes/Lietuviai]] gyveno Rusija
+- [[objektai/grupes/Žydai]] gyveno Rusija
+- [[objektai/asmenys/Petras I Didysis]] valde Rusija
+- [[objektai/asmenys/Kristupas Radvila]] keliavo_i Rusija
+- [[objektai/vietos/Kauno gubernija]] priklause Rusija
+- [[objektai/vietos/Šiaurės Vakarų kraštas]] priklause Rusija
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]] keliavo_i Rusija
+- [[objektai/vietos/Ukraina]] priklause Rusija
+- [[objektai/vietos/Lietuva]] prekiavo_su Rusija
+- [[objektai/asmenys/Radvila]] surenge_zygi_i Rusija
+- [[objektai/grupes/Rusai]] keliavo_i Rusija
+- Rusija prekiavo_su [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Radvilos]] puole Rusija
+- Rusija priklause [[objektai/asmenys/Jadvyga]]
+- [[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba (institucija)]] gyveno Rusija
+- [[objektai/asmenys/Brunonas]] mire Rusija
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]] gyne Rusija
+- [[objektai/grupes/Totoriai]] gyveno Rusija
+- [[objektai/asmenys/Borisas Jelcinas]] gyne Rusija

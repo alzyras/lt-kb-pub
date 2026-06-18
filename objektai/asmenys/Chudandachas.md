@@ -30,7 +30,8 @@ periodo_grupes:
   global_id: t-34713
   teiginys: 'Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Užvolgio totoriai|Užvolgio totoriai]]; mentioned_place: Odojevas; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Odojevas; llm_object: Riazanė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Užvolgio totoriai|Užvolgio totoriai]]; mentioned_place: Odojevas; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Chudandachas|Chudandachas]] puolė Riazanė; [[objektai/asmenys/Chudandachas|Chudandachas]] puolė Odojevas'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'
@@ -39,13 +40,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chudandachas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chudandachas" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Odojevas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chudandachas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Chudandacho vedami totoriai užpuolė Odojevo kunigaikščius.
 - susijęs iš [[objektai/grupes/Užvolgio totoriai.md#claim-t-34369|Užvolgio totoriai]]: 1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chudandachas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chudandachas" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Odojevas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chudandachas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Chudandacho vedami totoriai užpuolė Odojevo kunigaikščius.
+
+## Ryšiai
+- Chudandachas puole [[objektai/vietos/Odojevas]]
+- Chudandachas puole [[objektai/vietos/Riazanė]]

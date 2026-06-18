@@ -23,19 +23,20 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   global_id: t-86305
   teiginys: 'Pernava nurodyta kaip viena iš Livonijos pilių.'
   sudarymo_pagrindimas: 'Citata pateikia Pernavą Livonijos pilių sąraše; pašalintas puslapio triukšmas.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Viena; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Viena; llm_object: Livonija; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Pernava priklausė Livonija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pernava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pernava" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pernava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pernava įvardyta kaip viena iš Livonijos pilių, todėl priklausomybės ryšys yra tiesiogiai pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -75,10 +76,13 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pernava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pernava" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pernava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pernava įvardyta kaip viena iš Livonijos pilių, todėl priklausomybės ryšys yra tiesiogiai pagrįstas.
+
+## Ryšiai
+- Pernava priklause [[objektai/vietos/Livonija]]

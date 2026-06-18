@@ -97,8 +97,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177263
   teiginys: 'Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į pilną sakinį ir paremtas citata.'
-  susije_objektai: 'owner: Hamburgas; mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
-  semantiniai_rysiai: 'Krokuva priklausė Hamburgas'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krokuva priklausė Hamburgas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutvarkytas į pilną sakinį ir paremtas citata.'
@@ -110,7 +109,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177264
   teiginys: 'Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet reikėjo pataisyti OCR ir sakinio formą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Krokuva'
   pagrindžia:
     - c-014
 
@@ -216,7 +216,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177280
   teiginys: '1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Krokuva; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio konteksto.'
@@ -228,7 +229,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177282
   teiginys: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-041
 
@@ -266,7 +267,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-024
   global_id: t-177288
   teiginys: '1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krėva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -286,7 +288,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177290
   teiginys: 'Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.'
   sudarymo_pagrindimas: 'Patikslintas tikslas ir suformuotas savarankiškas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Vilnius'
   pagrindžia:
     - c-040
   irodymo_stiprumas: 0.00
@@ -391,20 +393,20 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8583156a81df3ac987af65a865bbc8de6cbf802d5bda406b40a04d6ddd9d6797; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Rusijos kariuomenė užėmė Vilnių.
 
 <a id="claim-t-177297"></a>
 - t-032
   global_id: t-177297
   teiginys: '1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.'
   sudarymo_pagrindimas: 'Pradinis teiginys klaidingai nurodė atvykimą į Krokuvą; citata kalba apie atvykimą į Vilnių.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys klaidingai nurodė atvykimą į Krokuvą; citata kalba apie atvykimą į Vilnių.'
@@ -464,13 +466,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 776338-776559; hash=d10a92b2a7fe5ff4aaf41f6c1ba20e2b1084e64e3095f052dba938212c5c5008; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Delegacija buvo vadovaujama Skirgailos ir veikė Krokuvoje, todėl galima atsargi kelionės į Krokuvą kraštinė.
 
 <a id="claim-t-177304"></a>
 - t-037
@@ -529,13 +531,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d757697dfa2bffcdc126a39617f7df75b53fbe081cb87ceb96bbfee22364c8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Vytautas sugrįžo į Lietuvą.
 
 <a id="claim-t-177308"></a>
 - t-041
@@ -614,7 +616,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177313
   teiginys: 'Po paskutinio pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus grįžo į Lietuvą.'
   sudarymo_pagrindimas: 'Pirminis tekstas turi OCR triukšmo ir perteklinio aiškinimo, bet citata remia aiškų faktą.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Krokuva; llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Krokuva'
   temporaliniai_duomenys: 'kelionės data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas turi OCR triukšmo ir perteklinio aiškinimo, bet citata remia aiškų faktą.'
@@ -663,20 +666,20 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Jogaila išvyko į Krokuvą.
 
 <a id="claim-t-177317"></a>
 - t-049
   global_id: t-177317
   teiginys: 'Po paskutinio savo pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus sugrįžo į Lietuvą.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, kad kalbama apie Vytauto pralaimėjimą, ir pašalinti silpną formuluotę „greitai“.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'kelionės data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti, kad kalbama apie Vytauto pralaimėjimą, ir pašalinti silpną formuluotę „greitai“.'
@@ -685,12 +688,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e6e2607fe78153cb9b89e62b94342e1e47410190c001e8624360c69aa26f217; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos bajorai minimi tarp kartu su Jogaila į Vilnių atvykusiųjų.
 
 <a id="claim-t-177318"></a>
 - t-050
@@ -845,19 +849,20 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=077c1462a31aa53d33086bdcd1b2838497e82e25c11ce09be8009c96e64380cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aleksandras Balinskis nurodytas tarp iš Krokuvos atvykusių gydytojų; kryptis iš Krokuvos, ne į ją.
 
 <a id="claim-t-177329"></a>
 - t-058
   global_id: t-177329
   teiginys: 'Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Krokuva; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -882,13 +887,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad į Krokuvą buvo išsiųsti lenkų ponai, nors claim_text kalba apie kitą, nepagrįstą faktą.
 
 <a id="claim-t-177331"></a>
 - t-060
@@ -922,7 +927,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   global_id: t-177335
   teiginys: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
   sudarymo_pagrindimas: 'Pašalinta neaiški kontekstinė pradžia „Panašiu metu“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cėsiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Sandomiras'
+  susije_objektai: 'llm_object: Sandomiras; llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cėsiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Sandomiras'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Krokuva'
   pagrindžia:
     - c-030
 
@@ -943,7 +949,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija ir paliktas aiškus citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-044
   irodymo_stiprumas: 0.00
@@ -1011,7 +1017,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie Aleksandro kelionę į Krokuvą ir vainikavimą joje. Citata tiesiogiai pateikia tas pačias datas ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Melnikas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Melnikas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas sakinys apie Aleksandro kelionę į Krokuvą ir vainikavimą joje. Citata tiesiogiai pateikia tas pačias datas ir rezultatą.'
@@ -1020,17 +1027,26 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Lenkijos karalystė: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.
-- susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aleksandras išvyko į Krokuvą.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176415|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga).md#claim-t-86949|Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184266|Jogaila (kunigaikštis, XIV–XV a.)]]: 1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186790|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.
+- susijęs iš [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje.md#claim-t-185881|Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]: Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
+- susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
-- susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
+- susijęs iš Melnikas: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
+- susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
+- susijęs iš Kujavija: Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54931|Aleksandras Balinskis]]: Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.
@@ -1166,6 +1182,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113650|Magdeburgo teisės]]: Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54941|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82177|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
@@ -1438,6 +1455,20 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/zodynas/supirkinėtojai ir padienininkai.md#claim-t-86618|supirkinėtojai ir padienininkai]]: 1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.
 - susijęs iš [[objektai/zodynas/vaitas.md#claim-t-86557|vaitas]]: Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
+- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
+- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
+- susijęs iš [[objektai/daiktai/Zigmanto Augusto antkapis.md#claim-t-01248|Zigmanto Augusto antkapis]]: Zigmanto Augusto antkapis yra Krokuvos katedroje.
+- susijęs iš Buda: 1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje sutarė dėl vėliau Kriavo akte pažadėtų sąlygų.
+- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63796|Karigaila]]: Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
+- susijęs iš [[objektai/asmenys/Petras Kustynia.md#claim-t-87827|Petras Kustynia]]: Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m.
+- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
+- susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82241|Bodzanta (arkivyskupas, XIV a.)]]: 1386 m. vasario 15 d. Krokuvos katedroje Gniezno vyskupas Bodzanta pakrikštijo Jogailą Vladislovo vardu.
+- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176410|Jadvyga]]: Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.
+- susijęs iš [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas.md#claim-t-01875|Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]: Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186771|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1469,24 +1500,24 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8583156a81df3ac987af65a865bbc8de6cbf802d5bda406b40a04d6ddd9d6797; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Rusijos kariuomenė užėmė Vilnių.
     - t-036
   irodymo_stiprumas: 0.00
   saltinio_vieta: 776338-776559; hash=d10a92b2a7fe5ff4aaf41f6c1ba20e2b1084e64e3095f052dba938212c5c5008; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Delegacija buvo vadovaujama Skirgailos ir veikė Krokuvoje, todėl galima atsargi kelionės į Krokuvą kraštinė.
     - t-033
 
 - c-003
@@ -1577,12 +1608,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e6e2607fe78153cb9b89e62b94342e1e47410190c001e8624360c69aa26f217; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.76
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos bajorai minimi tarp kartu su Jogaila į Vilnių atvykusiųjų.
     - t-046
 
 - c-007
@@ -1633,13 +1665,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=077c1462a31aa53d33086bdcd1b2838497e82e25c11ce09be8009c96e64380cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aleksandras Balinskis nurodytas tarp iš Krokuvos atvykusių gydytojų; kryptis iš Krokuvos, ne į ją.
     - t-055
   irodymo_stiprumas: 0.00
   saltinio_vieta: 442693-443166; hash=d260b8a44268054924937dddb792908aa19d129b824165b61ae28f63b5140035; match=whitespace_regex
@@ -2005,13 +2037,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad į Krokuvą buvo išsiųsti lenkų ponai, nors claim_text kalba apie kitą, nepagrįstą faktą.
     - t-035
 
 - c-022
@@ -2543,13 +2575,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Jogaila išvyko į Krokuvą.
     - t-011
 
 - c-043
@@ -2585,13 +2617,13 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8d757697dfa2bffcdc126a39617f7df75b53fbe081cb87ceb96bbfee22364c8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.93
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Vytautas sugrįžo į Lietuvą.
     - t-064
 
 - c-045
@@ -2688,16 +2720,36 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krokuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krokuva" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aleksandras išvyko į Krokuvą.
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Krokuva
-- [[objektai/asmenys/Augustas]] keliavo_i Krokuva
+- [[objektai/asmenys/Jadvyga Jogailienė]] keliavo_i Krokuva
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Krokuva
-- Krokuva priklause [[objektai/vietos/Hamburgas]]
+- [[objektai/asmenys/Aleksandras]] keliavo_i Krokuva
+- [[objektai/grupes/Lietuviai]] puole Krokuva
+- [[objektai/grupes/Maskvos pasiuntiniai]] keliavo_i Krokuva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Krokuva
+- [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Krokuva
+- [[objektai/asmenys/Konradas]] buvo_valdovas Krokuva
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Krokuva
+- [[objektai/asmenys/Borisas Karijotaitis]] keliavo_i Krokuva
+- [[objektai/asmenys/Motiejus iš Blonios]] keliavo_i Krokuva
+- [[objektai/asmenys/Skirgaila]] keliavo_i Krokuva
+- [[objektai/daiktai/Zigmanto Augusto antkapis]] priklause Krokuva
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] keliavo_i Krokuva
+- [[objektai/asmenys/Karigaila]] keliavo_i Krokuva
+- [[objektai/daiktai/Kryžius]] priklause Krokuva
+- [[objektai/asmenys/Petras Kustynia]] gyveno Krokuva
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] surenge_zygi_i Krokuva
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]] keliavo_i Krokuva
+- [[objektai/asmenys/Jadvyga]] keliavo_i Krokuva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Krokuva
+- [[objektai/grupes/Lenkai]] keliavo_i Krokuva
+- [[objektai/asmenys/Petras Goštautas]] gyveno Krokuva
+- [[objektai/asmenys/Jonas Olbrachtas]] keliavo_i Krokuva

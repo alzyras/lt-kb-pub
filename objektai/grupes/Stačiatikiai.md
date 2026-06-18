@@ -39,7 +39,8 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   global_id: t-182592
   teiginys: 'Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nusako stačiatikių padėtį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] rėmė [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; [[objektai/grupes/Stačiatikiai|Stačiatikiai]] gyveno Vilnius'
   pagrindžia:
     - c-003
 
@@ -72,7 +73,8 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis tekstas yra sakinio fragmentas be aiškaus veiksnio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
+  susije_objektai: 'llm_object: Konstanca; mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
+  semantiniai_rysiai: '[[objektai/grupes/Stačiatikiai|Stačiatikiai]] keliavo į Konstanca'
   temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra sakinio fragmentas be aiškaus veiksnio.'
@@ -89,7 +91,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176309|Algirdas (Lietuvos valdovas)]]: Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35042|Bonifacas IX]]: Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
@@ -307,6 +308,8 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169931|rusėnų kalba LDK raštų kalba]]: Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
+- susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -403,4 +406,9 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Stačiatikiai
+- Stačiatikiai gyveno [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Gediminas]] reme Stačiatikiai
+- Stačiatikiai keliavo_i [[objektai/vietos/Konstanca]]
+- Stačiatikiai gyveno [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Stačiatikiai
+- Stačiatikiai gyveno [[objektai/vietos/Lenkija]]

@@ -156,3 +156,8 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
   ryšio_subjekto_parinkimas: Ulrichas Bajeris: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Sūduviai: mention_match, group, gap=83
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrichas Bajeris" parinktas kaip owner_note_path. Targetas "Sūduviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ulrichas Bajeris surenge_zygi_i [[objektai/vietos/Sūduva]]
+- Ulrichas Bajeris puole [[objektai/vietos/Sūduva]]
+- Ulrichas Bajeris puole [[objektai/grupes/Sūduviai]]

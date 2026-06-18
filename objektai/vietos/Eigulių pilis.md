@@ -27,7 +27,8 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 - t-001
   global_id: t-32154
   teiginys: '1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.'
-  susije_objektai: 'mentioned_place: Eiguliai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaimas; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Eiguliai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaimas; mentioned_place: Kaunas; llm_object: Eigulių pilis'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Eigulių pilis'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -35,13 +36,13 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c29ec0b216d0cb8317e08e359d0b2b046a580a4b76c79afec9549c9365704960; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eiguliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eigulių pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Eiguliai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eigulių pilis (pilis)" parinktas kaip owner_note_path. Targetas "Eiguliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos sutarties pasirašymą su Ordinu.
 
 ## Reikšmingi paminėjimai
 
@@ -62,10 +63,13 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c29ec0b216d0cb8317e08e359d0b2b046a580a4b76c79afec9549c9365704960; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eiguliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eigulių pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Eiguliai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eigulių pilis (pilis)" parinktas kaip owner_note_path. Targetas "Eiguliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos sutarties pasirašymą su Ordinu.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Eigulių pilis (pilis)

@@ -25,7 +25,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citatos tekstu.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]'
+  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] puolė Smolenskas'
   pagrindžia:
     - c-001
 
@@ -43,13 +44,13 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   irodymo_stiprumas: 0.00
   saltinio_vieta: 996862-997240; hash=6224c856ae298712c0bbba9065301fb81ea4cfe5ccb05837dac036c574b3e535; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Smolenskas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad maskvėnai užpuolė Smolenską.
 
 <a id="claim-t-184572"></a>
 - t-003
@@ -59,7 +60,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išlaikyta citatos paremta esmė ir pataisyti OCR iškraipymai.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius; llm_object: Livonija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -81,19 +82,20 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą maskvėnų žygio mastą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: Livonija; llm_object: Dorpatas; llm_object: Viljandis; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Livonija; [[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Viljandis; [[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Dorpatas; [[objektai/grupes/Maskvėnai|Maskvėnai]] surengė žygį į Livonija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Augusto žygį į Livoniją.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184753|Kazimieras Jogailaitis]]: Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.
@@ -143,6 +145,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš Tverė: Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09885|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186031|Andrejus Kurbskis]]: Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.
@@ -245,6 +248,12 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185341|skitai]]: Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas.
 - susijęs iš [[objektai/zodynas/taikytojas.md#claim-t-185370|taikytojas]]: Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius.
 - susijęs iš [[objektai/zodynas/žirgininkas.md#claim-t-185418|žirgininkas]]: Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
+- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185885|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113890|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185885|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113895|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.
+- susijęs iš [[objektai/paprociai/Padėkos pamaldos už karinę pergalę.md#claim-t-185879|Padėkos pamaldos už karinę pergalę]]: Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -311,13 +320,13 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   irodymo_stiprumas: 0.00
   saltinio_vieta: 996862-997240; hash=6224c856ae298712c0bbba9065301fb81ea4cfe5ccb05837dac036c574b3e535; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Smolenskas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad maskvėnai užpuolė Smolenską.
     - t-003
 
 - c-004
@@ -350,13 +359,39 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Augusto žygį į Livoniją.
 
 ## Ryšiai
+- Maskvėnai puole [[objektai/vietos/Smolenskas]]
+- Maskvėnai uzeme [[objektai/vietos/Dorpatas]]
 - Maskvėnai uzeme [[objektai/vietos/Viljandis]]
+- Maskvėnai uzeme [[objektai/vietos/Livonija]]
+- Maskvėnai puole [[objektai/vietos/Lietuva]]
+- Maskvėnai dalyvavo_musyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- Maskvėnai uzeme [[objektai/vietos/Rohačevas]]
+- Maskvėnai puole [[objektai/vietos/Vitebskas]]
+- Maskvėnai puole [[objektai/vietos/Minskas]]
+- Maskvėnai puole [[objektai/vietos/Viazma]]
+- [[objektai/grupes/Lietuviai]] puole Maskvėnai
+- Maskvėnai surenge_zygi_i [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Maskvėnai
+- Maskvėnai dalyvavo_musyje [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]
+- Maskvėnai kariavo_pries [[objektai/grupes/Lietuvos kariuomenė]]
+- Maskvėnai puole [[objektai/vietos/Dorpatas]]
+- Maskvėnai keliavo_i [[objektai/vietos/Maskva]]
+- Maskvėnai puole [[objektai/vietos/Tykioji Sosna]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]] kariavo_pries Maskvėnai
+- Maskvėnai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Maskvėnai buvo_sajungininkas_su [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Maskvėnai
+- Maskvėnai buvo_priesas [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]] kariavo_pries Maskvėnai
+- [[objektai/vietos/Maskva]] priklause Maskvėnai
+- Maskvėnai kariavo_pries [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- Maskvėnai uzeme [[objektai/vietos/Viazma]]

@@ -33,7 +33,8 @@ periodo_grupes:
   global_id: t-40177
   teiginys: '1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Estija; mentioned_place: Kuršas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Estija; mentioned_place: Kuršas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] sudarė sutartį su [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1234 m.; įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -42,13 +43,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7dece6b62e615c5bc8aca21ed8ad96dc5e4930be54b65cd31638a37aec23d19c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaroslavas (rusų kunigaikštis, 1234 m.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaroslavas (rusų kunigaikštis, 1234 m.)" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kalavijuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas (rusų kunigaikštis, 1234 m.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jaroslavas sudarė taiką su kalavijuočiais.
 
 ## Reikšmingi paminėjimai
 
@@ -76,10 +77,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7dece6b62e615c5bc8aca21ed8ad96dc5e4930be54b65cd31638a37aec23d19c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaroslavas (rusų kunigaikštis, 1234 m.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaroslavas (rusų kunigaikštis, 1234 m.)" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kalavijuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas (rusų kunigaikštis, 1234 m.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jaroslavas sudarė taiką su kalavijuočiais.
+
+## Ryšiai
+- Jaroslavas (rusų kunigaikštis, 1234 m.) sudare_sutarti_su [[objektai/grupes/Kalavijuočių ordinas]]

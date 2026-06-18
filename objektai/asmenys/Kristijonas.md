@@ -68,8 +68,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   global_id: t-93430
   teiginys: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.'
   sudarymo_pagrindimas: 'Reikia pašalinti vertinamąjį žodį ir aiškiau sutelkti teiginį į Kristijoną.'
-  susije_objektai: 'family: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Europa; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kristijonas|Kristijonas]] buvo brolis [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Europa; mentioned_place: Livonija'
   pagrindžia:
     - c-006
 
@@ -126,13 +125,13 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76b1651685eec6beea943728ca678352391e1906c9fd0e80d4b61caf9af3f7b6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Mindaugas (valdovas, XIII a.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_family_person, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93437"></a>
 - t-008
@@ -161,8 +160,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys per ilgas ir turi vertinamąją formuluotę, todėl sutrumpintas iki aiškaus fakto apie Kristijoną.'
-  susije_objektai: 'family: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kristijonas|Kristijonas]] buvo brolis [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -175,6 +173,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kujavija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60511|Powierski J]]: J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.
@@ -221,6 +220,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - susijęs iš Mazovija: Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
 - susijęs iš Mozūrai: Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
+- susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
+- susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -325,13 +326,13 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76b1651685eec6beea943728ca678352391e1906c9fd0e80d4b61caf9af3f7b6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Mindaugas (valdovas, XIII a.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_family_person, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -429,5 +430,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijonas" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Kristijonas dalyvavo_musyje [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]
-- Kristijonas buvo_brolis [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/vietos/Lubavos žemė]] priklause Kristijonas
+- Kristijonas gyveno [[objektai/vietos/Santyras]]
+- Kristijonas gyveno [[objektai/vietos/Prūsija]]
+- Kristijonas valde [[objektai/vietos/Lanzanija]]
+- Kristijonas valde [[objektai/vietos/Lubava]]
+- [[objektai/grupes/Dobrinės ordinas]] priklause Kristijonas

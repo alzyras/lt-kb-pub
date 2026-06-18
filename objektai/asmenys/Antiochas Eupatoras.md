@@ -21,20 +21,20 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   global_id: t-60238
   teiginys: 'Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima papildomą kontekstą apie kitas kautynes.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]]; llm_object: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]] kariavo prieš [[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4acf23847fa4e16ed003e88ca582ef0197c72731862f23846f04ec5d550028a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Judas Makabėjus: 0.91
+  ryšio_patikimumas: kariavo_pries -> Antiochas Eupatoras: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Antiochas Eupatoras: owner_note_path, person, gap=10
-  ryšio_targeto_parinkimas: Judas Makabėjus: counterparty_iteration, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Antiochas Eupatoras" parinktas kaip owner_note_path. Targetas "Judas Makabėjus" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Antiochas Eupatoras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Judas Makabėjus kovojo su Antiochu Eupatoru.
 
 ## Reikšmingi paminėjimai
 
@@ -58,13 +58,13 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4acf23847fa4e16ed003e88ca582ef0197c72731862f23846f04ec5d550028a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Judas Makabėjus: 0.91
+  ryšio_patikimumas: kariavo_pries -> Antiochas Eupatoras: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Antiochas Eupatoras: owner_note_path, person, gap=10
-  ryšio_targeto_parinkimas: Judas Makabėjus: counterparty_iteration, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Antiochas Eupatoras" parinktas kaip owner_note_path. Targetas "Judas Makabėjus" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Antiochas Eupatoras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Judas Makabėjus kovojo su Antiochu Eupatoru.
 
 ## Ryšiai
-- Antiochas Eupatoras kariavo_pries [[objektai/asmenys/Judas Makabėjus]]
+- [[objektai/asmenys/Judas Makabėjus]] kariavo_pries Antiochas Eupatoras

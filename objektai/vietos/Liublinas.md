@@ -40,7 +40,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   global_id: t-173685
   teiginys: '1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'location: Lenkija; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Valkaviskas'
+  susije_objektai: 'llm_object: Liublinas; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Valkaviskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Liublinas'
   temporaliniai_duomenys: 'kelionės data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -49,13 +50,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 788084-788227; hash=4a2334e29eb85e5c0b59e4db0b05e0ce165ad8d0ab3ca3ef29dfee43bfca35f7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.93
+  ryšio_patikimumas: keliavo_i -> Liublinas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Jogailos nuvykimą į Liubliną.
 
 <a id="claim-t-173687"></a>
 - t-002
@@ -191,7 +192,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   global_id: t-173696
   teiginys: '1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant skliaustus ir paverčiant teiginį sklandžiu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: Liublinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] gyveno Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant skliaustus ir paverčiant teiginį sklandžiu sakiniu.'
@@ -221,13 +223,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 265155-265313; hash=43a08a5735c281ed7d6cf2a08e9a6a679378d268c13c9fa2f7c7804c8375b333; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumas: gyveno -> Liublinas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublinas" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: „Stovėjo Liubline“ rodo laikiną buvimą vietoje, bet nėra tiesioginis gyvenimo faktas.
 
 <a id="claim-t-185020"></a>
 - t-015
@@ -237,7 +239,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liubliną ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Rusai|Rusai]]; llm_object: Liublinas'
+  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] valdė miestą Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Liubliną ir tiksliai perteikia citatos faktą.'
@@ -275,6 +278,12 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_subjekto_parinkimas: Liublinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Parčevas: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublinas" parinktas kaip owner_note_path. Targetas "Parčevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
+- susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
+- susijęs iš [[objektai/asmenys/Teodoras Vodka.md#claim-t-186260|Teodoras Vodka]]: Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.
+- susijęs iš [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi.md#claim-t-28815|Jogailos išrinkimas Lenkijos karaliumi]]: 1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi.
+- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 - susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101648|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101652|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo.
@@ -521,6 +530,8 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 - susijęs iš [[objektai/zodynas/statuto dėsniai.md#claim-t-70336|statuto dėsniai]]: Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.
 - susijęs iš [[objektai/zodynas/valstybingumo sąmonė.md#claim-t-28564|valstybingumo sąmonė]]: Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
+- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -552,13 +563,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 788084-788227; hash=4a2334e29eb85e5c0b59e4db0b05e0ce165ad8d0ab3ca3ef29dfee43bfca35f7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.93
+  ryšio_patikimumas: keliavo_i -> Liublinas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo Jogailos nuvykimą į Liubliną.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=752615ccc6d0e93cbebbe13da0002def371bce17473271225e45d54623244953; match=fallback; occurrences=0
@@ -782,13 +793,13 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 265155-265313; hash=43a08a5735c281ed7d6cf2a08e9a6a679378d268c13c9fa2f7c7804c8375b333; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumas: gyveno -> Liublinas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liublinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublinas" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: „Stovėjo Liubline“ rodo laikiną buvimą vietoje, bet nėra tiesioginis gyvenimo faktas.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=752615ccc6d0e93cbebbe13da0002def371bce17473271225e45d54623244953; match=fallback; occurrences=0
@@ -877,3 +888,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   ryšio_subjekto_parinkimas: Liublinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Parčevas: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liublinas" parinktas kaip owner_note_path. Targetas "Parčevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Liublinas
+- [[objektai/grupes/Lietuviai]] puole Liublinas
+- Liublinas priklause [[objektai/vietos/Vokietija]]
+- [[objektai/asmenys/Teodoras Vodka]] keliavo_i Liublinas
+- [[objektai/grupes/Jotvingiai]] puole Liublinas
+- [[objektai/asmenys/Petras Semaška]] keliavo_i Liublinas
+- [[objektai/asmenys/Pavlikas]] keliavo_i Liublinas
+- [[objektai/grupes/Rusai]] valde_miesta Liublinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] gyveno Liublinas

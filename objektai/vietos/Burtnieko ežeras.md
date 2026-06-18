@@ -21,19 +21,19 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - t-001
   global_id: t-32097
   teiginys: 'XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
+  susije_objektai: 'llm_object: Vidžemė; llm_object: Latgalija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burtnieko ežeras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burtnieko ežeras" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vidžemė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vidžemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai apibūdina rytinę Vidžemės dalį kaip latvių gyvenamą.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +57,10 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burtnieko ežeras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burtnieko ežeras" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vidžemė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vidžemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai apibūdina rytinę Vidžemės dalį kaip latvių gyvenamą.

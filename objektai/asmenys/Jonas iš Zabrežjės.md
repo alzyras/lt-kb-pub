@@ -139,3 +139,6 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   ryšio_subjekto_parinkimas: Jonas iš Zabrežjės: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas iš Zabrežjės" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas iš Zabrežjės valde [[objektai/vietos/Merkinė]]

@@ -60,13 +60,13 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c18302ea61ff8852e20bae335f8ed1c4961fad4a9328999595693d2acc5546a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Litvakai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apibrėžimas nurodo litvako kilmę iš Lietuvos, todėl tai atsargiai siejama su gyvenamąja vieta.
 
 <a id="claim-t-45105"></a>
 - t-003
@@ -94,7 +94,8 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - t-004
   global_id: t-45106
   teiginys: 'Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Liublinas; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Litvakai|Litvakai]] gyveno Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -320,10 +321,13 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c18302ea61ff8852e20bae335f8ed1c4961fad4a9328999595693d2acc5546a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Litvakai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apibrėžimas nurodo litvako kilmę iš Lietuvos, todėl tai atsargiai siejama su gyvenamąja vieta.
+
+## Ryšiai
+- Litvakai gyveno [[objektai/vietos/Lietuva]]

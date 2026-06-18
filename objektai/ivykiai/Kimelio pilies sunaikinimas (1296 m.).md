@@ -45,7 +45,7 @@ Nenurodyta
   teiginys: '1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą.'
-  susije_objektai: 'mentioned_place: Kimelis; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kimelis; mentioned_place: Kimelis; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kimelio pilies sunaikinimas (1296 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kimelio pilies sunaikinimas (1296 m.)" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kimelis: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +88,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kimelio pilies sunaikinimas (1296 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kimelio pilies sunaikinimas (1296 m.)" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kimelis: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu.

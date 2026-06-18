@@ -78,3 +78,6 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
   ryšio_subjekto_parinkimas: Janas Filipovičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Janas Filipovičius" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Janas Filipovičius valde_teritorija [[objektai/vietos/Vilnius]]

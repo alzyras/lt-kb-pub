@@ -31,7 +31,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   global_id: t-182781
   teiginys: '1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, susiejantis įvykį su Suvalkais.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)|Pilypavo mūšis (1656 m. spalio 22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Pilypavas; mentioned_place: Prostkai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_event: [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)|Pilypavo mūšis (1656 m. spalio 22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Pilypavas; mentioned_place: Prostkai'
   temporaliniai_duomenys: 'įvykio data: 1656 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, susiejantis įvykį su Suvalkais.'
@@ -60,6 +60,9 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-183747|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-183747|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
@@ -170,6 +173,9 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101614|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-183477|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.
 - susijęs iš [[objektai/zodynas/zemstvos.md#claim-t-77810|zemstvos]]: Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49403|K. Škirpa]]: K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.
+- susijęs iš Nalepa J., Stabo: J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.
+- susijęs iš Lenkijos karalystė: Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -219,3 +225,9 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/asmenys/K. Škirpa]] puole Suvalkai
+- Suvalkai priklause [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Jotvingiai]] gyveno Suvalkai
+- [[objektai/vietos/Suvalkija]] priklause Suvalkai

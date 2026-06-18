@@ -46,19 +46,21 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti Vytautą ir veiksmą.'
-  susije_objektai: 'mentioned_place: Donas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas'
+  susije_objektai: 'llm_object: Azovas; mentioned_place: Donas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Azovas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 615631-615952; hash=af127c1f3a91b4fd35971303ad9c8ae52dfc3bd53c9cfb830a41d1630fc62c9d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Donas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Azovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Azovas" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Azovas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Azovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas patraukė į Azovą.
+- susijęs iš Kijevas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
 - susijęs iš Kijevas: Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
@@ -120,10 +122,13 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   irodymo_stiprumas: 0.00
   saltinio_vieta: 615631-615952; hash=af127c1f3a91b4fd35971303ad9c8ae52dfc3bd53c9cfb830a41d1630fc62c9d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Donas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Azovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Azovas" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Azovas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Azovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas patraukė į Azovą.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Azovas

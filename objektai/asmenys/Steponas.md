@@ -157,3 +157,14 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   ryšio_subjekto_parinkimas: Steponas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Steponas keliavo_i [[objektai/vietos/Kolomyja]]
+- Steponas buvo_valdovas [[objektai/vietos/Moldavija]]
+- Steponas gyveno [[objektai/vietos/Putna]]
+- Steponas puole [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
+- Steponas surenge_zygi_i [[objektai/vietos/Tamovas]]
+- Steponas gyne [[objektai/vietos/Sučiava]]
+- Steponas surenge_zygi_i [[objektai/vietos/Kamenecas]]
+- Steponas surenge_zygi_i [[objektai/vietos/Lvovas]]
+- Steponas valde [[objektai/vietos/Moldavija]]

@@ -60,8 +60,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   global_id: t-86735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Vytautą, o citata leidžia suformuluoti faktą apie Mazovijos kunigaikščius.'
-  susije_objektai: 'location: Mazovija; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Mazovija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Mazovija; llm_object: Trakai; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Trakai; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia apie Vytautą, o citata leidžia suformuluoti faktą apie Mazovijos kunigaikščius.'
@@ -89,13 +89,13 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Mazovija: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: owner_note_path, group, gap=7
-  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mazovijos kunigaikščiai" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mazovijos kunigaikščiai minimi tarp atvykusių į Trakus.
 
 <a id="claim-t-187731"></a>
 - t-004
@@ -105,8 +105,8 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'territory: Mazovija; territory: Drohičinas; mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Palenkė; mentioned_place: Bielsko; mentioned_place: Melnikas'
-  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Mazovija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] užėmė Drohičinas'
+  susije_objektai: 'mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Palenkė; mentioned_place: Bielsko; mentioned_place: Melnikas; llm_object: Palenkė'
+  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] užėmė Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
@@ -115,14 +115,13 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   irodymo_stiprumas: 0.00
   saltinio_vieta: 544269-544686; hash=bd4d998f276cfccd92d5dd8a132ad4bdcdae9abb2811e622ada2bd7c1e8768be; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 1.00
+  ryšio_patikimumas: uzeme -> Palenkė: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: owner_after_title, group, gap=10
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Bielsko: candidate; Drohičinas: candidate; Melnikas: candidate; Palenkė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Mazovijos kunigaikščiai" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Bielsko.md", "selected": false, "strategy": "candidate", "title": "Bielsko", "type": "place"}, {"distance_to_predicate": 61, "match_index": 72, "path": "objektai/vietos/Drohičinas.md", "selected": false, "strategy": "candidate", "title": "Drohičinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Melnikas.md", "selected": false, "strategy": "candidate", "title": "Melnikas", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užimta Drohičino žemė apibūdinta kaip esanti Palenkėje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
@@ -235,13 +234,13 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Mazovija: 0.96
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: owner_note_path, group, gap=7
-  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mazovijos kunigaikščiai" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mazovijos kunigaikščiai minimi tarp atvykusių į Trakus.
     - t-001
 
 - c-004
@@ -273,15 +272,15 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   irodymo_stiprumas: 0.00
   saltinio_vieta: 544269-544686; hash=bd4d998f276cfccd92d5dd8a132ad4bdcdae9abb2811e622ada2bd7c1e8768be; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 1.00
+  ryšio_patikimumas: uzeme -> Palenkė: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: owner_after_title, group, gap=10
-  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Bielsko: candidate; Drohičinas: candidate; Melnikas: candidate; Palenkė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Mazovijos kunigaikščiai" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Bielsko.md", "selected": false, "strategy": "candidate", "title": "Bielsko", "type": "place"}, {"distance_to_predicate": 61, "match_index": 72, "path": "objektai/vietos/Drohičinas.md", "selected": false, "strategy": "candidate", "title": "Drohičinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Melnikas.md", "selected": false, "strategy": "candidate", "title": "Melnikas", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mazovijos kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užimta Drohičino žemė apibūdinta kaip esanti Palenkėje.
 
 ## Ryšiai
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Mazovija]]
-- Mazovijos kunigaikščiai uzeme [[objektai/vietos/Drohičinas]]
+- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Trakai]]
+- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Vilnius]]
+- Mazovijos kunigaikščiai uzeme [[objektai/vietos/Palenkė]]

@@ -64,6 +64,9 @@ amziai:
   ryšio_subjekto_parinkimas: Gilgenburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Drevenca: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gilgenburgas" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184221|Lietuviai]]: Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.
 - susijęs iš [[objektai/autoriai/Ambrassat A.md#claim-t-64541|Ambrassat A]]: A. Ambrassat darbu remiamasi teigiant, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179345|Lietuviai]]: Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.
 - susijęs iš Ambrassat A. Die Provinz Ostpreussen: Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.
@@ -120,3 +123,8 @@ amziai:
   ryšio_subjekto_parinkimas: Gilgenburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Drevenca: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gilgenburgas" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Gilgenburgas
+- [[objektai/grupes/Lietuviai]] uzeme Gilgenburgas
+- [[objektai/grupes/Lietuviai]] keliavo_i Gilgenburgas

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-59490
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia datą, veikėjus, pilies būklę ir sudeginimą.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė; llm_object: Bisenė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia datą, veikėjus, pilies būklę ir sudeginimą.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 656590-657213; hash=d61659692a7528a1ea4accd47a7d4c8f9dc8f01778456f41cfed52b4f77be640; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenės pilies sudeginimas (1316 m. balandžio 4 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Fridrichas Kvicas minimas kaip vienas iš brolių, patraukusių link Bisenės pilies.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 656590-657213; hash=d61659692a7528a1ea4accd47a7d4c8f9dc8f01778456f41cfed52b4f77be640; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenės pilies sudeginimas (1316 m. balandžio 4 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Bisenė: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Fridrichas Kvicas minimas kaip vienas iš brolių, patraukusių link Bisenės pilies.

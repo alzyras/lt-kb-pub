@@ -58,38 +58,38 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-002
   global_id: t-54805
   teiginys: 'Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821103-821791; hash=7e8b19dc2f6074bb9ffb50c6a8574ff79ef6f68c30f2554334855b760f7c5a2f; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Vilniaus miesto auksakalių cechas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miesto auksakalių cechas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vilniaus miesto auksakalių cechas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto auksakalių cechas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pats kandidato pavadinimas ir claimas nurodo, kad tai Vilniaus miesto auksakalių cechas, todėl grupė siejama su Vilniumi.
 
 <a id="claim-t-54806"></a>
 - t-003
   global_id: t-54806
   teiginys: 'Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių.'
   sudarymo_pagrindimas: 'Citata nepagrindžia valdovo patvirtinimo, todėl teiginys susiaurintas iki paremtų faktų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto auksakalių cechas|Vilniaus miesto auksakalių cechas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto auksakalių cechas|Vilniaus miesto auksakalių cechas]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 824001-824717; hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto cechai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vilniaus miesto cechus, todėl jų priklausymas Vilniui yra pagrįstas.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55092|Vilniaus miesto auksakalių cechas]]: Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.
 ## Reikšmingi paminėjimai
@@ -139,13 +139,13 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821103-821791; hash=7e8b19dc2f6074bb9ffb50c6a8574ff79ef6f68c30f2554334855b760f7c5a2f; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Vilniaus miesto auksakalių cechas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilniaus miesto auksakalių cechas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vilniaus miesto auksakalių cechas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.74
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto auksakalių cechas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pats kandidato pavadinimas ir claimas nurodo, kad tai Vilniaus miesto auksakalių cechas, todėl grupė siejama su Vilniumi.
     - t-001
 
 - c-003
@@ -182,10 +182,10 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 824001-824717; hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=whitespace_regex
   sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miesto cechai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vilniaus miesto cechus, todėl jų priklausymas Vilniui yra pagrįstas.

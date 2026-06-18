@@ -42,19 +42,20 @@ Nenurodyta
   global_id: t-59712
   teiginys: 'S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako S. Grunau aprašytą šventąjį ąžuolą ir stabus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Romuva; llm_object: Romuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Šventasis ąžuolas|Šventasis ąžuolas]] priklausė Romuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 218890-219486; hash=3a999e78296ce2766777d45185b7fcaa0f36ecae3de3e33343ef6e8996a75772; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventasis ąžuolas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventasis ąžuolas" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Romuva: 0.77
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventasis ąžuolas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šventasis ąžuolas tiesiogiai lokalizuojamas Romuvoje.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
 - susijęs iš [[objektai/autoriai/Иванов В. В.md#claim-t-60643|Иванов В. В]]: V. V. Ivanovo ir V. N. Toporovo tyrimai siejami su aiškinimu, kad Romovės šventasis ąžuolas buvo tridalio pasaulio medžio simbolis.
 ## Reikšmingi paminėjimai
@@ -78,10 +79,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 218890-219486; hash=3a999e78296ce2766777d45185b7fcaa0f36ecae3de3e33343ef6e8996a75772; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventasis ąžuolas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventasis ąžuolas" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Romuva: 0.77
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventasis ąžuolas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šventasis ąžuolas tiesiogiai lokalizuojamas Romuvoje.
+
+## Ryšiai
+- Šventasis ąžuolas priklause [[objektai/vietos/Romuva]]

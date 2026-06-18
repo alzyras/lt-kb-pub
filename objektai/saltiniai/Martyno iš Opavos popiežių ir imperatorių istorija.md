@@ -36,7 +36,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   global_id: t-60879
   teiginys: 'Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija; llm_object: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1278 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą.'
@@ -45,13 +45,13 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 71302-71643; hash=2d71e639a5591e1d69975c5da13ae485c371c351634687737a39a5609a88ea6e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Čekija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Opavos (arkivyskupas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Asmuo tiesiogiai apibūdinamas kaip Čekijos vienuolis, todėl siejamas su Čekija.
 
 <a id="claim-t-60880"></a>
 - t-002
@@ -332,13 +332,13 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 71302-71643; hash=2d71e639a5591e1d69975c5da13ae485c371c351634687737a39a5609a88ea6e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Čekija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Opavos (arkivyskupas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Asmuo tiesiogiai apibūdinamas kaip Čekijos vienuolis, todėl siejamas su Čekija.
     - t-009
 
 - c-006

@@ -51,19 +51,20 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardis išplėstas, pašalinta OCR ir eilutės lūžio žala.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Unitai|Unitai]] gyveno Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Unitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Unitai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Unitai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo unitų bazilijonų vienuolynų buvimą Lietuvoje; tai netiesiogiai remia unitų institucijų buvimą Lietuvoje.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178763|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-182884|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
@@ -123,11 +124,16 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Unitai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Unitai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Unitai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo unitų bazilijonų vienuolynų buvimą Lietuvoje; tai netiesiogiai remia unitų institucijų buvimą Lietuvoje.
     - t-001
+
+## Ryšiai
+- Unitai priklause [[objektai/grupes/Rusų stačiatikių bažnyčia]]
+- Unitai gyveno [[objektai/vietos/Galicija]]
+- Unitai gyveno [[objektai/vietos/Lietuva]]

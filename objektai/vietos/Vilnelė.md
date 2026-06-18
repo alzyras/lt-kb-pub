@@ -74,7 +74,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   global_id: t-85118
   teiginys: 'Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Manvydo rūmai; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Manvydo rūmai; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -213,13 +213,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Manvydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnelė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Manvydas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnelė" parinktas kaip owner_note_path. Targetas "Manvydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Manvydas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydo rūmai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavadinimas ir sakinys tiesiogiai sieja rūmus su Manvydu.
 
 <a id="claim-t-85126"></a>
 - t-011
@@ -497,13 +497,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Manvydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilnelė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Manvydas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilnelė" parinktas kaip owner_note_path. Targetas "Manvydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Manvydas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydo rūmai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavadinimas ir sakinys tiesiogiai sieja rūmus su Manvydu.
     - t-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: 235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex

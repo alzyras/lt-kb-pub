@@ -39,19 +39,19 @@ Nenurodyta
   teiginys: 'Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo negramatiškas; citata tiesiogiai palaiko pataisytą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Noihauzas; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Noihauzas; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; llm_object: Semba'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumas: puole -> Semba: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Noihauzo pilies pastatymas Kuršių nerijoje (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Noihauzo pilies pastatymas Kuršių nerijoje (pilis)" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo grėsmę, kad lietuviai veržiasi į Sembą; tai nėra faktinis puolimas šiame epizode, todėl pasitikėjimas vidutinis.
 
 ## Reikšmingi paminėjimai
 
@@ -79,10 +79,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumas: puole -> Semba: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Noihauzo pilies pastatymas Kuršių nerijoje (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Noihauzo pilies pastatymas Kuršių nerijoje (pilis)" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo grėsmę, kad lietuviai veržiasi į Sembą; tai nėra faktinis puolimas šiame epizode, todėl pasitikėjimas vidutinis.

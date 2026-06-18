@@ -32,6 +32,13 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
 - susijęs iš [[objektai/autoriai/A. Vanagas.md#claim-t-184448|A. Vanagas]]: A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.
 - susijęs iš [[objektai/autoriai/Zimmermann P.md#claim-t-60828|Zimmermann P]]: P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
@@ -54,3 +61,8 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Skalviai]] uzeme Labguva
+- [[objektai/grupes/Skalviai]] surenge_zygi_i Labguva
+- [[objektai/grupes/Skalviai]] puole Labguva

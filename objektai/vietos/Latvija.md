@@ -82,6 +82,12 @@ amziai:
   ryšio_subjekto_parinkimas: Latvija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74923|Sovietų Sąjunga]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
+- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
+- susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175530|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175544|Kalavijuočių ordinas]]: 1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175546|Kalavijuočių ordinas]]: 1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.
 - susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
 - susijęs iš [[objektai/asmenys/J. Tūbelis.md#claim-t-78056|J. Tūbelis]]: J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
@@ -125,6 +131,7 @@ amziai:
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
+- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/Aleksandras Lukašenka.md#claim-t-17438|Aleksandras Lukašenka]]: Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75720|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vykdomojo Komiteto biuro narys.
@@ -251,6 +258,10 @@ amziai:
 - susijęs iš [[objektai/zodynas/getas.md#claim-t-22151|getas]]: 1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.
 - susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 - susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
+- susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
+- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
+- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -333,3 +344,13 @@ amziai:
   ryšio_subjekto_parinkimas: Latvija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=61
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvija" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sovietų Sąjunga]] uzkariavo Latvija
+- [[objektai/grupes/Sovietų Sąjunga]] uzeme Latvija
+- [[objektai/grupes/Kalavijuočių ordinas]] gyveno Latvija
+- [[objektai/vietos/Priekulė]] priklause Latvija
+- [[objektai/grupes/Lybiai]] gyveno Latvija
+- Latvija priklause [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]] priklause Latvija
+- Latvija priklause [[objektai/vietos/SSRS]]

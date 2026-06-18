@@ -30,7 +30,8 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   global_id: t-85928
   teiginys: '1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.'
   sudarymo_pagrindimas: 'Patikslintas asmens inicialas pagal citatą ir sakinys padarytas sklandesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Terespolis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Terespolis; llm_object: Jašiūnai'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] valdė Jašiūnai; [[objektai/grupes/Radvilos|Radvilos]] valdė Jašiūnai'
   temporaliniai_duomenys: 'įvykio data: 1811 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas asmens inicialas pagal citatą ir sakinys padarytas sklandesnis.'
@@ -39,20 +40,21 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 3561-3770; hash=84e4f1f7ebff2928a067687d011d4741a5f2c5ad37c053c01c6cd763c9edbfd8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: valde -> Jašiūnai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad I. Balinskis perėmė Jašiūnus; kandidatuose atitinkamas Balinskio asmens įrašas yra Aleksandras Balinskis.
 
 <a id="claim-t-85929"></a>
 - t-002
   global_id: t-85929
   teiginys: '1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Išplėstas asmens vardas ir sakinys suformuluotas enciklopediškai.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; llm_object: Jašiūnai; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] gyveno Jašiūnai'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas asmens vardas ir sakinys suformuluotas enciklopediškai.'
@@ -61,20 +63,21 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 16857-17035; hash=d77ab0968921e33790ef586eada68f9a449d615fff3e8452121296fd4c33f6e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: gyveno -> Jašiūnai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Balinskis apsigyveno Jašiūnų dvare, bet kandidato vardas nesutampa su teksto Michału Balinskiu.
 
 <a id="claim-t-85930"></a>
 - t-003
   global_id: t-85930
   teiginys: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą mirties bei palaidojimo informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; llm_object: Jašiūnai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] buvo palaidotas Jašiūnai'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą mirties bei palaidojimo informaciją.'
@@ -83,13 +86,13 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: buvo_palaidotas -> Jašiūnai: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo palaidojimą Jašiūnų dvare, bet kandidatuose asmens vardas nesutampa su M. Balinskiu.
 
 <a id="claim-t-85931"></a>
 - t-004
@@ -109,9 +112,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ašmena: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
-- susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
-- susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
@@ -151,13 +151,13 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 3561-3770; hash=84e4f1f7ebff2928a067687d011d4741a5f2c5ad37c053c01c6cd763c9edbfd8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: valde -> Jašiūnai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad I. Balinskis perėmė Jašiūnus; kandidatuose atitinkamas Balinskio asmens įrašas yra Aleksandras Balinskis.
     - t-003
 
 - c-003
@@ -174,13 +174,13 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcfec3980e87b117a23aa3dafb1f5667da4ad9bb33901b4d01a7a130d7a90e7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: buvo_palaidotas -> Jašiūnai: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo palaidojimą Jašiūnų dvare, bet kandidatuose asmens vardas nesutampa su M. Balinskiu.
     - t-002
 
 - c-004
@@ -205,13 +205,13 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 16857-17035; hash=d77ab0968921e33790ef586eada68f9a449d615fff3e8452121296fd4c33f6e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
+  ryšio_patikimumas: gyveno -> Jašiūnai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jašiūnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jašiūnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Balinskis apsigyveno Jašiūnų dvare, bet kandidato vardas nesutampa su teksto Michału Balinskiu.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 515115-515678; hash=1b409e648477f87e38236948c2711f422cc4d7ce6604838cdb254d5d2c914741; match=whitespace_regex
@@ -225,5 +225,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jašiūnai" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Balinskis]] mire Jašiūnai
+- [[objektai/asmenys/Aleksandras Balinskis]] valde Jašiūnai
+- [[objektai/grupes/Radvilos]] valde Jašiūnai
+- [[objektai/asmenys/Aleksandras Balinskis]] gyveno Jašiūnai
 - [[objektai/asmenys/Aleksandras Balinskis]] buvo_palaidotas Jašiūnai

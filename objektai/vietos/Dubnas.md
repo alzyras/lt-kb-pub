@@ -59,6 +59,8 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
 - susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86473|klebonija]]: Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78616|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78618|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,3 +95,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   ryšio_subjekto_parinkimas: Dubnas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubnas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Radvilos]] puole Dubnas

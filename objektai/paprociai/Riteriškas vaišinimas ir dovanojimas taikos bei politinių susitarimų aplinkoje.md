@@ -44,19 +44,19 @@ Nenurodyta
   global_id: t-87249
   teiginys: 'Po taikos sutarties maršalas, arkikomtūras ir aukštesnieji vokiečių riteriai buvo pakviesti į Vilniaus ir Trakų pilis, pavaišinti ir apdovanoti.'
   sudarymo_pagrindimas: 'Citata palaiko vaišinimo ir dovanojimo faktą, bet pradinį teiginį reikėjo sutrumpinti ir sutelkti į paprotį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_place: Trakai; mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_place: Trakai; mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 92594-93145; hash=ed0b2056997544e89e40ab34b88236babc7ccc4939ff38de4d33eb7011bfa17b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arkikomtūras: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Arkikomtūras: mention_match, thing, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje" parinktas kaip owner_note_path. Targetas "Arkikomtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje kryžiuočiai leidžiasi į derybas su Algirdu, po kurių sudaroma taikos sutartis.
 
 ## Reikšmingi paminėjimai
 
@@ -82,10 +82,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 92594-93145; hash=ed0b2056997544e89e40ab34b88236babc7ccc4939ff38de4d33eb7011bfa17b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arkikomtūras: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Arkikomtūras: mention_match, thing, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje" parinktas kaip owner_note_path. Targetas "Arkikomtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje kryžiuočiai leidžiasi į derybas su Algirdu, po kurių sudaroma taikos sutartis.

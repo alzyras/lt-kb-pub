@@ -52,6 +52,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
 - susijęs iš Tvankstė (pilis): Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
+- susijęs iš [[objektai/posakiai/O trečių vasarų.md#claim-t-186892|O trečių vasarų]]: Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,3 +103,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   ryšio_subjekto_parinkimas: Upytė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dlugošas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Upytė" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Upytė

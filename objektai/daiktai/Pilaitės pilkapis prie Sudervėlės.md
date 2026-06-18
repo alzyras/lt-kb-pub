@@ -44,19 +44,20 @@ Nenurodyta
   global_id: t-87090
   teiginys: 'Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį tekstą reikia išvalyti nuo OCR triukšmo ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Sudervėlė; llm_object: Pilaitė'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės|Pilaitės pilkapis prie Sudervėlės]] priklausė Sudervėlė; [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės|Pilaitės pilkapis prie Sudervėlės]] priklausė Pilaitė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės pilkapis prie Sudervėlės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės pilkapis prie Sudervėlės" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fraze „lietuvių sumuštų kryžiuočių“ tiesiogiai nurodo lietuvių ir kryžiuočių karinį susidūrimą.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +82,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės pilkapis prie Sudervėlės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės pilkapis prie Sudervėlės" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fraze „lietuvių sumuštų kryžiuočių“ tiesiogiai nurodo lietuvių ir kryžiuočių karinį susidūrimą.
+
+## Ryšiai
+- Pilaitės pilkapis prie Sudervėlės priklause [[objektai/vietos/Sudervėlė]]
+- Pilaitės pilkapis prie Sudervėlės priklause [[objektai/vietos/Pilaitė]]

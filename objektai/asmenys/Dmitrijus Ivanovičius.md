@@ -31,8 +31,8 @@ periodo_grupes:
   global_id: t-40085
   teiginys: 'Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
-  susije_objektai: 'territory: Maskva; mentioned_place: Tverė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Michailas Aleksandrovičius|Michailas Aleksandrovičius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Maskva'
+  susije_objektai: 'llm_object: Tverė; llm_object: Maskva; mentioned_place: Tverė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Michailas Aleksandrovičius|Michailas Aleksandrovičius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] puolė Tverė; [[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Maskva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1368 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
@@ -41,14 +41,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d24448638edbba9090f17153ac84cce014e4ef215e972bcfa56a0e7b1636390; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: puole -> Tverė: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Nemunas: candidate; Tverė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dmitrijus Ivanovičius" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Nemunas.md", "selected": false, "strategy": "candidate", "title": "Nemunas", "type": "place"}, {"distance_to_predicate": 91, "match_index": 108, "path": "objektai/vietos/Tverė.md", "selected": false, "strategy": "candidate", "title": "Tverė", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
 
 ## Reikšmingi paminėjimai
 
@@ -102,26 +101,25 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d24448638edbba9090f17153ac84cce014e4ef215e972bcfa56a0e7b1636390; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: puole -> Tverė: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Nemunas: candidate; Tverė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dmitrijus Ivanovičius" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Nemunas.md", "selected": false, "strategy": "candidate", "title": "Nemunas", "type": "place"}, {"distance_to_predicate": 91, "match_index": 108, "path": "objektai/vietos/Tverė.md", "selected": false, "strategy": "candidate", "title": "Tverė", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 183641-184145; hash=e5529cb0a173bad2e4fae628de21ffb34866666f07d2376139b47016625b2583; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: puole -> Tverė: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Bizantija: candidate; Konstantinopolis: candidate; Lietuva: candidate; Tverė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dmitrijus Ivanovičius" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Bizantija.md", "selected": false, "strategy": "candidate", "title": "Bizantija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Konstantinopolis.md", "selected": false, "strategy": "candidate", "title": "Konstantinopolis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
 
 ## Ryšiai
+- Dmitrijus Ivanovičius puole [[objektai/vietos/Tverė]]
 - Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Maskva]]

@@ -161,7 +161,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   global_id: t-96101
   teiginys: 'Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mstislavlis; mentioned_place: Pinskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mstislavlis; mentioned_place: Pinskas; llm_object: Mstislavlis; llm_object: Pinskas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -208,13 +208,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 816651-817027; hash=d760a67233404d6258ae71e3626c54816213c09500493277503d0677c2a207ff; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Podolė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminaičiai valdė Podolėje.
 
 <a id="claim-t-96105"></a>
 - t-011
@@ -296,20 +296,20 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 528663-529249; hash=2e3143f0be91fbfda47a52d10396328ae22c81063cea3d7e38fa40f8467b2250; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.85
+  ryšio_patikimumas: valde_teritorija -> Mstislavlis: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mstislavlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po kunigaikštijų panaikinimo tekstas nurodo, kad Gediminaičiai liko nepajudinti Mstislavlyje, todėl tai laikytina išlikusiu valdymu.
 
 <a id="claim-t-96111"></a>
 - t-016
   global_id: t-96111
   teiginys: 'Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per daug apibendrina aprūpinimą valdomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Turovas; mentioned_place: Volinija; mentioned_place: Zaslavlis; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Polesė'
+  susije_objektai: 'llm_object: Podolė; llm_object: Volinija; llm_object: Zaslavlis; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Turovas; mentioned_place: Volinija; mentioned_place: Zaslavlis; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Polesė; llm_object: Pinskas; llm_object: Turovas'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -898,13 +898,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 816651-817027; hash=d760a67233404d6258ae71e3626c54816213c09500493277503d0677c2a207ff; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Podolė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminaičiai valdė Podolėje.
     - t-001
 
 - c-017
@@ -1009,13 +1009,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 816651-817027; hash=d760a67233404d6258ae71e3626c54816213c09500493277503d0677c2a207ff; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Podolė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminaičiai valdė Podolėje.
     - t-009
 
 - c-021
@@ -1083,13 +1083,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 528663-529249; hash=2e3143f0be91fbfda47a52d10396328ae22c81063cea3d7e38fa40f8467b2250; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.85
+  ryšio_patikimumas: valde_teritorija -> Mstislavlis: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gediminaičių dinastija: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminaičių dinastija" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mstislavlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Po kunigaikštijų panaikinimo tekstas nurodo, kad Gediminaičiai liko nepajudinti Mstislavlyje, todėl tai laikytina išlikusiu valdymu.
     - t-022
 
 - c-024

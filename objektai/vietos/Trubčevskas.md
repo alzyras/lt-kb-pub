@@ -55,6 +55,7 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.
 - susijęs iš [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.).md#claim-t-100031|Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]: Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais.
 - susijęs iš Perejeslavlis: Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.
+- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,3 +83,6 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
   ryšio_subjekto_parinkimas: Trubčevskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brianskas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trubčevskas" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Andrius Vingaudas]] buvo_valdovas Trubčevskas

@@ -39,7 +39,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   global_id: t-176612
   teiginys: 'Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.'
   sudarymo_pagrindimas: 'Reikia pataisyti valdymą ir aiškiau suformuluoti Sofijos prašymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Minskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Minskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] buvo duktė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -56,7 +57,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-004
   global_id: t-176614
   teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] buvo duktė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -216,3 +218,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   ryšio_subjekto_parinkimas: Sofija (Vytauto duktė): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija (Vytauto duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Sofija (Vytauto duktė) buvo_dukte [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sofija (Vytauto duktė) keliavo_i [[objektai/vietos/Pskovas]]
+- Sofija (Vytauto duktė) keliavo_i [[objektai/vietos/Pernu]]

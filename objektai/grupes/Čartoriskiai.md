@@ -28,6 +28,7 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
+- susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
 - susijęs iš Klevanė: Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.
 - susijęs iš Pulavai: Pulavuose Čartoriskiai turėjo vieną iš žymių Lenkijos dvarų.
@@ -57,6 +58,7 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22336|tėvonija]]: Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas.
+- susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,3 +81,9 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Jekaterina II]] reme Čartoriskiai
+- Čartoriskiai siunte_i [[objektai/vietos/Petrapilis]]
+- [[objektai/asmenys/Jekaterina II]] buvo_priesas Čartoriskiai
+- Čartoriskiai valde_teritorija [[objektai/vietos/Klevanė]]

@@ -90,13 +90,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 125956-126423; hash=7fbd79bbd4d11d3bdadcc69bb6ebd65e03a732adacc8d199736495dc89d01110; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Livonija minima tarp Ordino gautų valdų.
 
 <a id="claim-t-89823"></a>
 - t-005
@@ -108,19 +108,20 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126449-127167; hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas iš Zalcos relikviją pasiuntė į Elbingo pilį.
 
 <a id="claim-t-89824"></a>
 - t-006
   global_id: t-89824
   teiginys: 'Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Elbingas; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] siuntė į Elbingas'
   pagrindžia:
     - c-002
 
@@ -140,7 +141,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   global_id: t-89826
   teiginys: 'Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas'
+  susije_objektai: 'llm_object: Elbingas; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] siuntė į Elbingas'
   pagrindžia:
     - c-003
     - c-004
@@ -169,7 +171,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   global_id: t-89828
   teiginys: 'Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Elbingas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] siuntė į Elbingas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -188,20 +191,20 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   global_id: t-89829
   teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas cituojamas biografinis faktas.'
-  susije_objektai: 'location: Barleta; burial_place: Barleta; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] mirė Barleta; [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] buvo palaidotas Barleta'
+  susije_objektai: 'llm_object: Barleta; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] buvo palaidotas Barleta'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126449-127167; hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Hermanas iš Zalcos pasiuntė relikviją į Elbingą.
 
 <a id="claim-t-89830"></a>
 - t-012
@@ -214,13 +217,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126790-127726; hash=87067bda539f69f30f6f607c4b2c0457c48a3ad3fb273a706defce9668004f11; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas iš Zalcos relikviją pasiuntė į Elbingo pilį.
 
 <a id="claim-t-89831"></a>
 - t-013
@@ -255,19 +258,19 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   global_id: t-89833
   teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys kalbėjo apie kitą Hermaną, todėl perrašyta pagal citatos dalį apie note objektą.'
-  susije_objektai: 'location: Barleta; burial_place: Barleta; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84d20f423ea50b7304d94a0fc260791cab157445a4ba961538daf6e14a29d609; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Barleta: 0.97
+  ryšio_patikimumas: buvo_palaidotas -> Barleta: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=94
-  ryšio_targeto_parinkimas: Barleta: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Barleta" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barleta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Hermano iš Zalcos palaidojimo vietą.
 
 <a id="claim-t-89834"></a>
 - t-016
@@ -314,7 +317,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - t-018
   global_id: t-89836
   teiginys: 'Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Vengrija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -370,6 +373,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - susijęs iš Lenkija: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.
 - susijęs iš Salernas: Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje.
 - susijęs iš Štarkenbergas: Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.
+- susijęs iš [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu.md#claim-t-62806|Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -482,13 +486,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126790-127726; hash=87067bda539f69f30f6f607c4b2c0457c48a3ad3fb273a706defce9668004f11; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas iš Zalcos relikviją pasiuntė į Elbingo pilį.
     - t-017
 
 - c-006
@@ -520,36 +524,36 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126449-127167; hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Hermanas iš Zalcos pasiuntė relikviją į Elbingą.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 126449-127167; hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas iš Zalcos relikviją pasiuntė į Elbingo pilį.
     - t-001
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 125956-126423; hash=7fbd79bbd4d11d3bdadcc69bb6ebd65e03a732adacc8d199736495dc89d01110; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Livonija minima tarp Ordino gautų valdų.
     - t-009
 
 - c-007
@@ -602,13 +606,13 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84d20f423ea50b7304d94a0fc260791cab157445a4ba961538daf6e14a29d609; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Barleta: 0.97
+  ryšio_patikimumas: buvo_palaidotas -> Barleta: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): owner_note_path, person, gap=94
-  ryšio_targeto_parinkimas: Barleta: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Barleta" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barleta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Hermano iš Zalcos palaidojimo vietą.
     - t-014
 
 - c-009
@@ -719,9 +723,17 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip owner_note_path. Targetas "Hermanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Barleta]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_palaidotas [[objektai/vietos/Barleta]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_brolis [[objektai/asmenys/Hermanas]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Salernas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_palaidotas [[objektai/vietos/Salernas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo_i [[objektai/vietos/Prūsija]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_palaidotas [[objektai/vietos/Barleta]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastate [[objektai/vietos/Kulmas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyre [[objektai/asmenys/Ditrichas iš Bernheimo]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Elbingas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyre [[objektai/asmenys/Hermanas Balkas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Livonija]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Kulmas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo_musyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- [[objektai/asmenys/Popiežius Honorijus III]] paskyre Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
+- [[objektai/asmenys/Fridrichas II]] paskyre Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Kulmo žemė]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siunte_i [[objektai/vietos/Prūsija]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastate [[objektai/vietos/Štarkenbergas]]

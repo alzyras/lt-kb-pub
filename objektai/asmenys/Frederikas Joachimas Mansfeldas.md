@@ -48,7 +48,8 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 - t-002
   global_id: t-40108
   teiginys: '1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga; llm_object: Daugavgryva'
+  semantiniai_rysiai: '[[objektai/asmenys/Frederikas Joachimas Mansfeldas|Frederikas Joachimas Mansfeldas]] užėmė Daugavgryva'
   temporaliniai_duomenys: 'įvykio data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,13 +57,13 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7b8a164d5b517d5f3696a26dc5b0eb965afc46132055d620acc1900103c4846a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Daugavgryva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Daugavgryva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mansfeldo vadovaujamas korpusas užėmė Daugavgryvos pilį, todėl veiksmas priskiriamas jo vadovavimui.
 
 ## Reikšmingi paminėjimai
 
@@ -111,10 +112,13 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7b8a164d5b517d5f3696a26dc5b0eb965afc46132055d620acc1900103c4846a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Daugavgryva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Daugavgryva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mansfeldo vadovaujamas korpusas užėmė Daugavgryvos pilį, todėl veiksmas priskiriamas jo vadovavimui.
+
+## Ryšiai
+- Frederikas Joachimas Mansfeldas uzeme [[objektai/vietos/Daugavgryva]]

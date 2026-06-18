@@ -207,12 +207,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   global_id: t-80783
   teiginys: 'Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas III|Zigmantas III]] buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   temporaliniai_duomenys: 'įvykio data: 1587 m.; įvykio data: 1592 m.; įvykio data: 1594 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata.'
   pagrindžia:
     - c-009
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169842|Liublino unija (1569 m.)]]: 1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78950|Augustas II]]: 1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.
@@ -371,6 +373,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26555|senalietuviai jaunalietuviai]]: XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169851|Liublino unija (1569 m.)]]: 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-183260|Liublino unija (1569 m.)]]: 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45927|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.
@@ -675,6 +679,9 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70348|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
 - susijęs iš [[objektai/zodynas/suverenumas.md#claim-t-32810|suverenumas]]: Tarybiniai istorikai 1940 m. laikė Lietuvos Tarybų Respublikos suverenumo įvykdymu.
 - susijęs iš [[objektai/zodynas/šturmovcai.md#claim-t-42530|šturmovcai]]: Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.
+- susijęs iš [[objektai/daiktai/Husaro krūtinšarvis ir antpetis.md#claim-t-39252|Husaro krūtinšarvis ir antpetis]]: XVII a. husaro krūtinšarvis ir antpetis priklausė Abiejų Tautų Respublikos karybos aplinkai.
+- susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86828|Stepono Batoro vengrų kariuomenė]]: Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.
+- susijęs iš [[objektai/daiktai/Karacenos šarvų komplektas.md#claim-t-40724|Karacenos šarvų komplektas]]: Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -919,3 +926,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   statusas: verified
   pagrindžia:
     - t-008
+
+## Ryšiai
+- [[objektai/asmenys/Zigmantas III]] buvo_valdovas Abiejų Tautų Respublika
+- [[objektai/vietos/Lenkija]] priklause Abiejų Tautų Respublika
+- [[objektai/vietos/Lietuva]] priklause Abiejų Tautų Respublika
+- [[objektai/asmenys/Gabrielius Bekešas]] reme Abiejų Tautų Respublika
+- [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]] priklause Abiejų Tautų Respublika
+- Abiejų Tautų Respublika prekiavo_su [[objektai/vietos/Amsterdamas]]
+- [[objektai/daiktai/Karacenos šarvų komplektas]] priklause Abiejų Tautų Respublika
+- Abiejų Tautų Respublika priklause [[objektai/vietos/Lenkija]]
+- Abiejų Tautų Respublika priklause [[objektai/vietos/Lietuva]]

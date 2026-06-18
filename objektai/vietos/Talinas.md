@@ -84,12 +84,13 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   global_id: t-136212
   teiginys: '1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs, bet citata leidžia jį perrašyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Piarnu; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Salacgryva'
+  susije_objektai: 'llm_object: Piarnu; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Piarnu; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Salacgryva'
   temporaliniai_duomenys: 'įvykio data: 1609 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs, bet citata leidžia jį perrašyti.'
   pagrindžia:
     - c-001
+- susijęs iš Hermano bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 - susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-40102|Ernestas fon Racburgas]]: Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.
 - susijęs iš Molotovo–Ribentropo paktas: 1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino.
@@ -107,6 +108,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš Tartai: Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
+- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-183737|Eilartas fon Hobergas]]: Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
+- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -210,3 +213,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- [[objektai/vietos/Hermano bokštas]] priklause Talinas
+- Talinas priklause [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Eilartas fon Hobergas]] valde_miesta Talinas

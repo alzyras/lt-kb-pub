@@ -82,7 +82,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   global_id: t-103040
   teiginys: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kardinalija'
+  susije_objektai: 'llm_object: Kardinalija; mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kardinalija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] gyveno Kardinalija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -282,13 +283,13 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600697-601161; hash=c3d092fabe6b27b406d5728162a5e4411b77470d190250710db1dd80c9c8f7a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Radvila (vyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Kardinalija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kardinalija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kardinolas Radvila kurį laiką pats gyveno dalyje, susijusioje su Kardinalija.
 
 <a id="claim-t-103054"></a>
 - t-018
@@ -513,24 +514,24 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600697-601161; hash=c3d092fabe6b27b406d5728162a5e4411b77470d190250710db1dd80c9c8f7a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Radvila (vyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Kardinalija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kardinalija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kardinolas Radvila kurį laiką pats gyveno dalyje, susijusioje su Kardinalija.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600697-601161; hash=c3d092fabe6b27b406d5728162a5e4411b77470d190250710db1dd80c9c8f7a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Radvila (vyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Kardinalija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kardinalija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kardinolas Radvila kurį laiką pats gyveno dalyje, susijusioje su Kardinalija.
     - t-008
 
 - c-005
@@ -870,3 +871,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   ryšio_subjekto_parinkimas: Jurgis Radvila (vyskupas, XVI a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Radvila: mention_match, person, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Radvila (vyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jurgis Radvila (vyskupas, XVI a.) gyveno [[objektai/vietos/Kardinalija]]
+- Jurgis Radvila (vyskupas, XVI a.) reme [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

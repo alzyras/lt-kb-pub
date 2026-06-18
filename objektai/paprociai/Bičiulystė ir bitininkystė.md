@@ -89,19 +89,19 @@ Nenurodyta
   global_id: t-97126
   teiginys: 'Šalia žemdirbystės, gyvulininkystės, bitininkystės, medžioklės ir žvejybos Lietuvoje buvo puoselėjamas amatas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir remiasi citata, kurioje bitininkystė minima tarp lietuvių užsiėmimų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Jotvingija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Jotvingija; llm_object: Jotvingija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d2d0b6e065b1a18dcb92d8ae42f435e393eb68cd251c14b4b698ccbadfd8bf0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Jotvingija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bičiulystė ir bitininkystė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bičiulystė ir bitininkystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini jotvingius Jotvingijos bado kontekste; tai leidžia atsargiai sieti grupę su vieta.
 
 <a id="claim-t-97127"></a>
 - t-004
@@ -253,13 +253,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d2d0b6e065b1a18dcb92d8ae42f435e393eb68cd251c14b4b698ccbadfd8bf0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Jotvingija: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bičiulystė ir bitininkystė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bičiulystė ir bitininkystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini jotvingius Jotvingijos bado kontekste; tai leidžia atsargiai sieti grupę su vieta.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 382276-382568; hash=3effd17d6c1d06a82277f727823689e210b145b401a8248f830417c7db777234; match=exact

@@ -103,6 +103,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   ryšio_subjekto_parinkimas: Rudava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudava" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
 - susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66862|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Rūdavos mūšis 1370 m. vasario 17 d. prie Rudavos, netoli Karaliaučiaus, baigėsi dideliu lietuvių pralaimėjimu.
 - susijęs iš Semba: Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
@@ -113,6 +114,8 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
 - susijęs iš Medenava: Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.
 - susijęs iš Sambija: 1370 m. vasarį lietuviai mažais būreliais nusiaubė kelias Sambijos krašto sritis.
+- susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
+- susijęs iš Semba: Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -222,3 +225,6 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   ryšio_subjekto_parinkimas: Rudava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Rudava

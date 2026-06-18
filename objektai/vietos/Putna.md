@@ -28,19 +28,20 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Putna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Putna" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Putna: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Steponas apsistojo Putnos vienuolyne.
 
 <a id="claim-t-187304"></a>
 - t-002
@@ -48,19 +49,20 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   teiginys: 'Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys papildytas aiškiu predikatu ir sujungtas su vietovės funkcija pasakojime.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Putna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Putna" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Putna: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Steponas apsistojo prie Putnos.
 
 ## Reikšmingi paminėjimai
 
@@ -91,21 +93,24 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Putna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Putna" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Putna: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Steponas apsistojo prie Putnos.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Putna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Putna" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Putna: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Steponas apsistojo Putnos vienuolyne.
+
+## Ryšiai
+- [[objektai/asmenys/Steponas]] gyveno Putna

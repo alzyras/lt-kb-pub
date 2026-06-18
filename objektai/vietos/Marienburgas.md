@@ -52,7 +52,8 @@ rijenburgas.
   global_id: t-177684
   teiginys: '1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] keliavo į Marienburgas'
   temporaliniai_duomenys: 'įvykio data: 1400 m.; įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -162,7 +163,8 @@ rijenburgas.
   global_id: t-177694
   teiginys: 'Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.'
   sudarymo_pagrindimas: 'Citata tiesiogiai mini Marienburgą kaip Ordino administracinį centrą nuo 1309 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Marienburgas priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai mini Marienburgą kaip Ordino administracinį centrą nuo 1309 m.'
@@ -283,13 +285,13 @@ rijenburgas.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marienburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marienburgas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Marienburgas įvardytas kaip vienas Ordino administracinių centrų, todėl ryšys su Ordinu yra tiesioginis, nors tai ne paprasta nuosavybė.
 
 <a id="claim-t-187606"></a>
 - t-018
@@ -313,8 +315,17 @@ rijenburgas.
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=57
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marienburgas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179717|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179722|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.
+- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-184236|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge.
+- susijęs iš [[objektai/asmenys/Heinemanas (Marienburgo brolis).md#claim-t-60303|Heinemanas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį.
+- susijęs iš [[objektai/zodynas/šeimynykštis famulus.md#claim-t-58885|šeimynykštis famulus]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
+- susijęs iš [[objektai/zodynas/šeimynykštis.md#claim-t-58947|šeimynykštis]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
+- susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
+- susijęs iš [[objektai/daiktai/Karo pabūklai.md#claim-t-59688|Karo pabūklai]]: Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.
+- susijęs iš [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga).md#claim-t-92948|Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]: Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88529|Bartai]]: Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
 - susijęs iš [[objektai/asmenys/Henrikas von Plauen.md#claim-t-30262|Henrikas von Plauen]]: Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
@@ -400,6 +411,9 @@ rijenburgas.
 - susijęs iš [[objektai/zodynas/rūmininkas vyno pilstytojas.md#claim-t-36826|rūmininkas vyno pilstytojas]]: Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju.
 - susijęs iš [[objektai/zodynas/šeimynykštis famulus.md#claim-t-58885|šeimynykštis famulus]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
 - susijęs iš [[objektai/zodynas/šeimynykštis.md#claim-t-58947|šeimynykštis]]: Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.
+- susijęs iš [[objektai/asmenys/Henrikas von Plauen.md#claim-t-30262|Henrikas von Plauen]]: Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179695|Švitrigaila]]: 1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą.
+- susijęs iš Bajerburgas: 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -754,13 +768,13 @@ rijenburgas.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marienburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marienburgas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Marienburgas įvardytas kaip vienas Ordino administracinių centrų, todėl ryšys su Ordinu yra tiesioginis, nors tai ne paprasta nuosavybė.
     - t-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: 147730-148041; hash=4eeb855430a3c1cf83e885e04fda05422a8a689be7cec2516b5362925549008a; match=whitespace_regex
@@ -776,4 +790,11 @@ rijenburgas.
 ## Ryšiai
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] gyveno Marienburgas
 - [[objektai/asmenys/Švitrigaila]] keliavo_i Marienburgas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Marienburgas
+- [[objektai/asmenys/Heinemanas (Marienburgo brolis)]] gyveno Marienburgas
 - [[objektai/asmenys/Fridrichas (Marienburgo brolis)]] gyveno Marienburgas
+- [[objektai/grupes/Bajorai]] keliavo_i Marienburgas
+- [[objektai/asmenys/Divanas]] puole Marienburgas
+- Marienburgas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Henrikas von Plauen]] gyne Marienburgas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Marienburgas

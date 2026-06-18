@@ -22,19 +22,20 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   global_id: t-21761
   teiginys: 'Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet „ginčai“ yra sklandesnė enciklopedinė formuluotė nei „disputai“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vokietija; llm_object: Ruro kraštas'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] siuntė į Ruro kraštas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76130ddf4674e10874d13a313e152ab112b37d855459776331ee695325029470; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.83
+  ryšio_patikimumas: siunte_i -> Ruro kraštas (kraštas): 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ruro kraštas (kraštas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ruro kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ruro kraštas (kraštas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dalinių įvedimas į Ruro kraštą tiesiogiai rodo prancūzų karinį nukreipimą į šią vietą.
 
 ## Reikšmingi paminėjimai
 
@@ -71,21 +72,24 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=76130ddf4674e10874d13a313e152ab112b37d855459776331ee695325029470; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.83
+  ryšio_patikimumas: siunte_i -> Ruro kraštas (kraštas): 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ruro kraštas (kraštas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ruro kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ruro kraštas (kraštas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dalinių įvedimas į Ruro kraštą tiesiogiai rodo prancūzų karinį nukreipimą į šią vietą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 306908-307244; hash=2a4197201d24c8bfcc3f0eec3259c1b158bad0c13330e956e433ac309e15b7e1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumas: siunte_i -> Ruro kraštas (kraštas): 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ruro kraštas (kraštas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ruro kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ruro kraštas (kraštas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prancūzų dalinių įvedimas į Ruro kraštą pagrindžia karinį siuntimo į vietą santykį.
+
+## Ryšiai
+- [[objektai/grupes/Prancūzai]] siunte_i Ruro kraštas (kraštas)

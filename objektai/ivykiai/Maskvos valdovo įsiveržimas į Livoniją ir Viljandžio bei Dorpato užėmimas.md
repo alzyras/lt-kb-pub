@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palenkė'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palenkė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1246565-1247289; hash=c713d8b8c2b022e231530fcf2c8b80d8f27b61b0dd6f6d2d56f717a27aaa5917; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Ivano įsiveržimą į Livoniją.
 
 <a id="claim-t-185751"></a>
 - t-002
@@ -56,19 +56,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys faktinis, bet formuluotė su „žygiu“ negramatiška.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: Dorpatas; llm_object: Viljandis; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]; llm_object: Livonija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247390-1247761; hash=b69fb1503738c0654262bac87d7ba30f36aba107fcedad505bfd1b27910dc862; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Dorpatas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų.
 
 ## Reikšmingi paminėjimai
 
@@ -119,21 +119,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1246565-1247289; hash=c713d8b8c2b022e231530fcf2c8b80d8f27b61b0dd6f6d2d56f717a27aaa5917; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Ivano įsiveržimą į Livoniją.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1247390-1247761; hash=b69fb1503738c0654262bac87d7ba30f36aba107fcedad505bfd1b27910dc862; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Dorpatas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų.

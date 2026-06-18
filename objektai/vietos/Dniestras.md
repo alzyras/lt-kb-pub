@@ -29,25 +29,26 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   global_id: t-83302
   teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė, kad sakinys būtų sklandesnis ir tiksliau atitiktų citatą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dniestras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dniestras" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dniestras: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dniestras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių persikėlimą per Dniestrą.
 
 <a id="claim-t-83303"></a>
 - t-002
   global_id: t-83303
   teiginys: 'Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Chotinas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; llm_object: Dniestras; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Chotinas; mentioned_place: Podolė; llm_object: [[objektai/grupes/Kazokai|Kazokai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] keliavo į Dniestras'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -120,11 +121,14 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dniestras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dniestras" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dniestras: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dniestras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo totorių persikėlimą per Dniestrą.
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] keliavo_i Dniestras

@@ -150,3 +150,6 @@ tags:
   ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Lietuvos kunigaikštystė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+
+## Ryšiai
+- Didžioji Lietuvos kunigaikštystė priklause [[objektai/vietos/Lenkija]]

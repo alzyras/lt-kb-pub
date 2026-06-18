@@ -42,7 +42,8 @@ atnaujinta: ''
   global_id: t-08030
   teiginys: 'Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.'
   sudarymo_pagrindimas: 'Citata pagrindžia tautos pasitraukimą į Žaliąją ir Juodąją girias.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Dabą|Dabą]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Dabą|Dabą]]; mentioned_place: Lietuva; llm_object: Žalioji giria'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Žalioji giria; [[objektai/grupes/Lietuviai|Lietuviai]] gyveno Žalioji giria'
   pagrindžia:
     - c-003
 
@@ -101,3 +102,7 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Žalioji giria
+- [[objektai/grupes/Lietuviai]] gyveno Žalioji giria

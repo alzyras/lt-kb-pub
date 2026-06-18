@@ -30,7 +30,8 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   global_id: t-87572
   teiginys: '1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, sakinys suformuluotas pilnai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rogvoldovičiai|Rogvoldovičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rogvoldovičiai|Rogvoldovičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Polockas; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Rostislavas Rogvoldovičius|Rostislavas Rogvoldovičius]] keliavo į Polockas'
   temporaliniai_duomenys: 'įvykio data: 1129 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir OCR triukšmas, sakinys suformuluotas pilnai.'
@@ -39,13 +40,13 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121859-122058; hash=b4083480e1cdfc4b6e09f787b164cb038a3ea8ac4e7ef2944a7407c181ce9542; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rogvoldovičiai: 0.85
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rostislavas Rogvoldovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rogvoldovičiai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rostislavas Rogvoldovičius" parinktas kaip owner_note_path. Targetas "Rogvoldovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rostislavas Rogvoldovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Rostislavo priverstinį išvykimą iš Polocko; leidžiamose rūšyse artimiausias yra keliavimo ryšys su vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +66,13 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 121859-122058; hash=b4083480e1cdfc4b6e09f787b164cb038a3ea8ac4e7ef2944a7407c181ce9542; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rogvoldovičiai: 0.85
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rostislavas Rogvoldovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rogvoldovičiai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rostislavas Rogvoldovičius" parinktas kaip owner_note_path. Targetas "Rogvoldovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rostislavas Rogvoldovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Rostislavo priverstinį išvykimą iš Polocko; leidžiamose rūšyse artimiausias yra keliavimo ryšys su vieta.
+
+## Ryšiai
+- Rostislavas Rogvoldovičius keliavo_i [[objektai/vietos/Polockas]]

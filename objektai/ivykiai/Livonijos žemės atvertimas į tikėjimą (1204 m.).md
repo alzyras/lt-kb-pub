@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi boilerplate ir nutrūkusią nuorodą, bet citata aiškiai remia faktą.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Ryga; llm_object: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1204 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi boilerplate ir nutrūkusią nuorodą, bet citata aiškiai remia faktą.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694471-694667; hash=2ae136434aa0ede56fb11f313c91330a8d59509a8da0319042384e05242abf9c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: priklause -> Ryga: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos žemės atvertimas į tikėjimą (1204 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos žemės atvertimas į tikėjimą (1204 m.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apibūdina Livoniją kaip Rygos provincijos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694471-694667; hash=2ae136434aa0ede56fb11f313c91330a8d59509a8da0319042384e05242abf9c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: priklause -> Ryga: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos žemės atvertimas į tikėjimą (1204 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos žemės atvertimas į tikėjimą (1204 m.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apibūdina Livoniją kaip Rygos provincijos žemę.

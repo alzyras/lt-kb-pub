@@ -76,7 +76,7 @@ Nenurodyta
 - t-004
   global_id: t-176200
   teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Drevenca'
+  susije_objektai: 'llm_object: Drevenca; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Drevenca'
   pagrindžia:
     - c-002
 

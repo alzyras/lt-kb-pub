@@ -28,7 +28,8 @@ amziai:
   global_id: t-20114
   teiginys: 'Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   sudarymo_pagrindimas: 'Išplėsta inicialu pažymėta pavardė ir sakinys paliktas pilnas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Želigovskininkai|Želigovskininkai]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėsta inicialu pažymėta pavardė ir sakinys paliktas pilnas.'
@@ -37,13 +38,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Želigovskininkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želigovskininkai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini želigovskininkų judėjimą į Lietuvos teritoriją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 - susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.
 - susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
@@ -57,6 +58,7 @@ amziai:
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
 - susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179169|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,10 +84,15 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Želigovskininkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želigovskininkai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini želigovskininkų judėjimą į Lietuvos teritoriją.
+
+## Ryšiai
+- Želigovskininkai uzeme [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Želigovskininkai
+- Želigovskininkai keliavo_i [[objektai/vietos/Lietuva]]

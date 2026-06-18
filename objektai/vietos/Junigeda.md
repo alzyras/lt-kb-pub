@@ -252,6 +252,18 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   ryšio_subjekto_parinkimas: Junigeda: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Karolis: mention_match, person, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigeda" parinktas kaip owner_note_path. Targetas "Karolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66576|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: 1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.).md#claim-t-185809|Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]: Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.
+- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
+- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
+- susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
+- susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
+- susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.
+- susijęs iš [[objektai/asmenys/Heinmanas, vardu Kindas.md#claim-t-60304|Heinmanas, vardu Kindas]]: Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
@@ -282,6 +294,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.).md#claim-t-59449|Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]: 1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.).md#claim-t-59450|Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]: Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59877|Bertoldas, vadinamas Briuhavenu]]: 1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60107|Ditrichas iš Ezbeko]]: Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.
 - susijęs iš [[objektai/asmenys/Heinmanas, vardu Kindas.md#claim-t-60304|Heinmanas, vardu Kindas]]: Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.
@@ -307,6 +320,11 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58780|papilys]]: 1293 m. magistras užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58799|pilėnas pilėnai]]: 1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59877|Bertoldas, vadinamas Briuhavenu]]: 1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.
+- susijęs iš [[objektai/ivykiai/Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.).md#claim-t-59528|Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.)]]: 1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66575|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -624,3 +642,19 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   ryšio_subjekto_parinkimas: Junigeda: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Laivai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigeda" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Karolis]] puole Junigeda
+- [[objektai/grupes/Lietuviai]] pastate Junigeda
+- [[objektai/asmenys/Bertoldas Briuhavenas]] surenge_zygi_i Junigeda
+- [[objektai/asmenys/Henrikas Cutsvertas]] keliavo_i Junigeda
+- [[objektai/asmenys/Konradas Štangė]] keliavo_i Junigeda
+- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] puole Junigeda
+- [[objektai/asmenys/Verneris (Ragainės komtūras)]] puole Junigeda
+- [[objektai/asmenys/Heinmanas, vardu Kindas]] mire Junigeda
+- [[objektai/asmenys/Karolis (didysis magistras)]] gyne Junigeda
+- [[objektai/asmenys/Karolis (didysis magistras)]] puole Junigeda
+- [[objektai/vietos/Veliuona]] priklause Junigeda
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Junigeda
+- [[objektai/grupes/Lietuviai]] gyne Junigeda
+- [[objektai/asmenys/Bertoldas]] puole Junigeda

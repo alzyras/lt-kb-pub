@@ -50,7 +50,8 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   global_id: t-82987
   teiginys: '1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
+  susije_objektai: 'llm_object: Švedija; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]] keliavo į Švedija'
   temporaliniai_duomenys: 'kelionės data: 1598 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -62,7 +63,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   global_id: t-82988
   teiginys: '1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę.'
@@ -135,3 +136,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Zigmantas Vaza keliavo_i [[objektai/vietos/Švedija]]
+- Zigmantas Vaza siunte_i [[objektai/vietos/Kamenecas]]

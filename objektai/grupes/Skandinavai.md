@@ -32,9 +32,11 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   global_id: t-66129
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie skandinavus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija; llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Skandinavai|Skandinavai]] puolė [[objektai/grupes/Kuršiai|Kuršiai]]'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179490|Laivai]]: Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
@@ -70,3 +72,9 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Kuršiai]] kariavo_pries Skandinavai
+- Skandinavai puole [[objektai/grupes/Kuršiai]]
+- Skandinavai prekiavo_su [[objektai/vietos/Bizantija]]
+- Skandinavai gyveno [[objektai/vietos/Lietuva]]

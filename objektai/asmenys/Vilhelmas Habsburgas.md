@@ -32,8 +32,7 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   global_id: t-64242
   teiginys: 'Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   sudarymo_pagrindimas: 'Citata patvirtina faktą apie Vilhelmą Habsburgą, o OCR triukšmas pašalintas.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas Habsburgas|Vilhelmas Habsburgas]] vedė [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -61,13 +60,13 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a60880cbafd2f19f815bdc010c611579f54e6ff03bd4451690cb60357c72b058; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Jogaila (kunigaikštis, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Vilhelmas Habsburgas: owner_note_path, person, gap=29
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Vilhelmas Habsburgas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmas Habsburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas Habsburgas" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64244"></a>
 - t-003
@@ -155,13 +154,13 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a60880cbafd2f19f815bdc010c611579f54e6ff03bd4451690cb60357c72b058; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Jogaila (kunigaikštis, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Vilhelmas Habsburgas: owner_note_path, person, gap=29
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Vilhelmas Habsburgas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Habsburgai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmas Habsburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Habsburgai: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas Habsburgas" parinktas kaip owner_note_path. Targetas "Habsburgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=482de563d0d23bd9fb93f7f012ce4f336bd7d501db4297c998ef4efb1c97e8dc; match=fallback; occurrences=0
@@ -173,6 +172,3 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   ryšio_subjekto_parinkimas: Vilhelmas Habsburgas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas Habsburgas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
-## Ryšiai
-- Vilhelmas Habsburgas vede [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

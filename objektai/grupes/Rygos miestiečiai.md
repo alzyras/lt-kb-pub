@@ -131,3 +131,6 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   ryšio_subjekto_parinkimas: Rygos miestiečiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=55
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos miestiečiai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Rygos miestiečiai buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]

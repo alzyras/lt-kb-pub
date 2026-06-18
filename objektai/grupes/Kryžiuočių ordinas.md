@@ -142,7 +142,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178806
   teiginys: 'Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.'
   sudarymo_pagrindimas: 'Pataisyta citatai artimesnė formuluotė ir žodis „grobuoniškus“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Vilnius'
   pagrindžia:
     - c-099
 
@@ -182,20 +183,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27aa88b058fe6a8baa565e5924bdfed11bafacc92ff415070bbc572a352fe2e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Ordino žygius į Lietuvą.
 
 <a id="claim-t-178812"></a>
 - t-016
   global_id: t-178812
   teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio triukšmas ir tiksliau atkurta citatos formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Griunvaldas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Griunvaldas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas šaltinio triukšmas ir tiksliau atkurta citatos formuluotė.'
@@ -216,7 +218,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-017
   global_id: t-178813
   teiginys: 'Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -224,13 +227,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d6e57579ee1305d520cb330ada3521f468f5a2ba34e4995f3d756a447fbda93a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: paskyre -> Kryžiuočių ordinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridricho II privilegija suteikė Ordinui teises, todėl relation_kind paskyre geriausiai atitinka veiksmą.
 
 <a id="claim-t-178814"></a>
 - t-018
@@ -259,7 +262,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178815
   teiginys: 'Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Vysla; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   pagrindžia:
     - c-117
   irodymo_stiprumas: 0.00
@@ -287,19 +291,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 628917-629306; hash=5dd36f5c95b1de5b95e8a31aa2f4bafbca3015569b0f64f8e701417135f558e6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubysa: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai minimi plėšę Dubysos žemupį.
 
 <a id="claim-t-178817"></a>
 - t-021
   global_id: t-178817
   teiginys: 'Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.'
-  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Ragainė; llm_object: Kernavė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Vilnius; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kernavė'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -307,13 +312,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=374f6c1847513738c7c10cbe4d42b1efdc81f5c263ab6306f7d4e3fe1efb3b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Gediminas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sutartis apibūdinta kaip sudaryta prieš Gediminą.
 
 <a id="claim-t-178819"></a>
 - t-022
@@ -327,13 +332,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsų kryžiuočiai tiesiogiai nurodyti išgriovę Kauno pilį.
 
 <a id="claim-t-178820"></a>
 - t-023
@@ -403,7 +408,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178823
   teiginys: '1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, išsamus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, išsamus ir tiesiogiai paremtas citata.'
@@ -503,19 +508,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-031
   global_id: t-178832
   teiginys: 'Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-114
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01956c0700e5a1da8816119bc98711b8b508b867f486747b08de2c0a371f2394; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Žemaičiai buvo daugiausia puolami kryžiuočių kontekste.
 
 <a id="claim-t-178833"></a>
 - t-032
@@ -544,8 +550,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178834
   teiginys: 'Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, sakinys jau turėjo aiškų palaikomą faktą.'
-  susije_objektai: 'territory: Kernavė; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė'
+  susije_objektai: 'llm_object: Kernavė; llm_object: Maišiagala; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Maišiagala'
   pagrindžia:
     - c-168
   irodymo_stiprumas: 0.00
@@ -703,7 +709,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178845
   teiginys: 'Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1385 m.; įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į savarankišką sakinį.'
@@ -737,7 +744,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178849
   teiginys: '1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir pagrįstas citatos duomenimis.'
-  susije_objektai: 'mentioned_place: Vaikiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Vildenbergas; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Vaikiai; mentioned_place: Vaikiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Vildenbergas; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir pagrįstas citatos duomenimis.'
@@ -873,7 +880,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178857
   teiginys: 'Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Kristburgo atstatymą Ordino iniciatyva.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kristburgas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vokietija; llm_object: Pamedė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Kristburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Pamedė'
   pagrindžia:
     - c-194
 
@@ -888,13 +896,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a4dadf24e1734521dadfd545c2cc6501814673fd40ce6f64755499598828324; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini nepavykusį Vilniaus apsiautimą Ordino veiksmų kontekste.
 
 <a id="claim-t-178860"></a>
 - t-052
@@ -923,7 +931,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178861
   teiginys: 'Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti note objektą ir sutrumpinti teiginį.'
-  susije_objektai: 'mentioned_place: Karaliaučius; mentioned_event: Torno taika (1411 m.); mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Torno'
+  susije_objektai: 'mentioned_place: Karaliaučius; mentioned_event: Torno taika (1411 m.); mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Torno; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] priklausė Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1772 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti note objektą ir sutrumpinti teiginį.'
@@ -932,13 +941,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435257-435893; hash=d4b9ff32f05f8d8ded4239a93fb09b89ec2b88e14861a10218969b05c62d2483; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vytauto kampanija prieš Ordiną ir apskundimas pasauliui rodo politinį priešiškumą.
 
 <a id="claim-t-178862"></a>
 - t-054
@@ -964,7 +973,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178864
   teiginys: 'XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija; llm_object: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsija; [[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata.'
@@ -995,7 +1005,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178866
   teiginys: 'Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.'
   sudarymo_pagrindimas: 'Teiginys tinkamai perteikia citatoje minimą kryžiuočių nuomonę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Livonija; mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija; llm_object: Dorpatas'
   pagrindžia:
     - c-067
   irodymo_stiprumas: 0.00
@@ -1071,20 +1081,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 721693-721960; hash=7f27c35019409df8a05550b7a4bf1f64bf5d54c2ea21c8a2c9d46eb77e49e752; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vytautas sudarė kampaniją prieš Ordiną, todėl tiesiogiai palaikomas priešiškumo ryšys.
 
 <a id="claim-t-178872"></a>
 - t-062
   global_id: t-178872
   teiginys: 'Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Gardinas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
@@ -1093,13 +1104,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e875907dc7094424cf4795b174fe7f3018c36b077eacf3c7fcfcd1dc5ab0f6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuvos Didžioji Kunigaikštija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos Didžioji Kunigaikštija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino pavojus LDK tiesiogiai nurodo priešišką santykį.
 
 <a id="claim-t-178873"></a>
 - t-063
@@ -1133,13 +1144,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 32331-32720; hash=275e5fe5c732d96bb5d9b8ebd2022de9362728c70ad8f996cdc410378ad5e5c4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordinas tiesiogiai nurodytas nukariavęs prūsus.
 
 <a id="claim-t-178875"></a>
 - t-065
@@ -1151,21 +1162,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc1e052bc75febcab2942b414b45e0b72d165c721324307277f688ef3f60fc70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mozūrija: 0.99
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_after_title, group, gap=40
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Dauguva: candidate; Kulmas: candidate; Prūsai: candidate; Vysla: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dauguva.md", "selected": false, "strategy": "candidate", "title": "Dauguva", "type": "place"}, {"distance_to_predicate": 63, "match_index": 82, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 97, "match_index": 116, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordinas pajungė prūsus.
 
 <a id="claim-t-178876"></a>
 - t-066
   global_id: t-178876
   teiginys: '1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Ordino brolių veiksmą ir datą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Marienverderis; mentioned_place: Salos; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Marienverderis; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Marienverderis; mentioned_place: Salos; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Marienverderis'
   temporaliniai_duomenys: 'pastatymo data: 1233 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Ordino brolių veiksmą ir datą.'
@@ -1251,13 +1262,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=542b0b51807a32dc7ad2e532101ccc78b6c61a2016d60ede98ae60aa08d8c7bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordino pasiuntiniai dalyvavo Lucko suvažiavime, todėl palaikomas atvykimo į Lucką ryšys.
 
 <a id="claim-t-178884"></a>
 - t-073
@@ -1319,7 +1330,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178890
   teiginys: '1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, veikėją, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Bajerburgas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, veikėją, vietą ir veiksmą.'
@@ -1346,20 +1357,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsų kryžiuočiai tiesiogiai nurodyti išgriovę Kauno pilį.
 
 <a id="claim-t-178894"></a>
 - t-080
   global_id: t-178894
   teiginys: '1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia pilies pastatymo faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
+  susije_objektai: 'llm_object: Elbingas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Elbingas'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia pilies pastatymo faktą.'
@@ -1432,7 +1444,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178898
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys silpnai susietas su note objektu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Štarkenbergas; llm_object: Štarkenbergas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Štarkenbergas'
   pagrindžia:
     - c-082
   irodymo_stiprumas: 0.00
@@ -1463,7 +1476,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178900
   teiginys: '1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti ryšį su Teutonų ordinu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Ryga priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti ryšį su Teutonų ordinu.'
@@ -1481,20 +1495,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01956c0700e5a1da8816119bc98711b8b508b867f486747b08de2c0a371f2394; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaičiai buvo puolami kryžiuočių kontekste.
 
 <a id="claim-t-178902"></a>
 - t-088
   global_id: t-178902
   teiginys: 'Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą.'
   sudarymo_pagrindimas: 'Pašalinta neaiški pradžia ir pataisyta OCR klaida „kompaniją“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-128
   irodymo_stiprumas: 0.00
@@ -1640,7 +1655,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-103
   global_id: t-178925
   teiginys: 'Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas kišosi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-149
 
@@ -1670,8 +1686,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178930
   teiginys: '1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.'
   sudarymo_pagrindimas: 'Citata pagrindžia Baigos užėmimą ir brolių įsikūrimą.'
-  susije_objektai: 'territory: Baiga; mentioned_place: Baiga; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Baiga'
+  susije_objektai: 'llm_object: Baiga; mentioned_place: Baiga; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Baiga; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Baiga'
   temporaliniai_duomenys: 'įvykio data: 1239 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Baigos užėmimą ir brolių įsikūrimą.'
@@ -1727,7 +1743,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-112
   global_id: t-178938
   teiginys: 'Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: Bisenė; mentioned_place: Bisenė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Bisenė'
   pagrindžia:
     - c-150
 
@@ -1744,7 +1761,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178940
   teiginys: 'Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas ir nutrūkęs; paliktas svarbiausias faktas apie Ordiną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Dubysa; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Dubysa; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] rėmė [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-103
 
@@ -1753,7 +1771,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178942
   teiginys: 'Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintos perteklinės detalės.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-113
 
@@ -1796,7 +1814,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-120
   global_id: t-178954
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kaunas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -1825,7 +1844,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178957
   teiginys: 'Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie Ordino veiklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Prūsai; llm_object: Prūsai; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai'
   pagrindžia:
     - c-069
   irodymo_stiprumas: 0.00
@@ -1844,7 +1864,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178959
   teiginys: 'Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.'
   sudarymo_pagrindimas: 'Citata remia faktą apie Ordino pilių statybą po pasidavimo.'
-  susije_objektai: 'mentioned_place: Kroicburgas; mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kroicburgas; llm_object: Rezlis; llm_object: Vizenburgas; mentioned_place: Kroicburgas; mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Kroicburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Vizenburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Rezlis'
   pagrindžia:
     - c-053
   irodymo_stiprumas: 0.00
@@ -1907,58 +1928,61 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claimas tiesiogiai įvardija Gedimino sutartį su Lokietka.
 
 <a id="claim-t-178968"></a>
 - t-129
   global_id: t-178968
   teiginys: 'Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia žygį ir rezultatą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Višogrudas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Višogrudas; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Višogrudas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Višogrudas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Lenkija'
   pagrindžia:
     - c-093
   irodymo_stiprumas: 0.00
   saltinio_vieta: 78811-79453; hash=90cc6029d585264022608e56e98cdd357f18200ebafc3a125251bcd33009c638; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: valde -> Vitebskas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Algirdas siejamas su viešpatavimu Vitebske.
 
 <a id="claim-t-178970"></a>
 - t-130
   global_id: t-178970
   teiginys: 'Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą Vytauto laikyseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-032
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c99cb02808678bcac2f235645346e330b879d36249974bae430965458945dd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotfridas Lindenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gotfridas Lindenas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gotfridas Lindenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Lindenas aprašomas kaip karine jėga veržęsis iki Vilniaus tvirtovių.
 
 <a id="claim-t-178971"></a>
 - t-131
   global_id: t-178971
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, datą, veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kaunas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, datą, veiksmą ir rezultatą.'
@@ -1967,13 +1991,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a04796cdf8d3cd628eeebefefec94ed06f138f3d1f3910f0cb44a40e189f564; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsijos ordino didysis magistras pasiuntė žmones užimti Vilniaus.
 
 <a id="claim-t-178972"></a>
 - t-132
@@ -1986,13 +2010,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ed0b2056997544e89e40ab34b88236babc7ccc4939ff38de4d33eb7011bfa17b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekste nurodoma, kad kryžiuočiai leidosi į derybas su Algirdu; vėliau minima taikos sutartis.
 
 <a id="claim-t-178973"></a>
 - t-133
@@ -2013,13 +2037,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ee880f3c0445455c7ff2bfea3d1d7d49cedef7c0db6ead99aa22b2a8d08440; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Trakai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad kryžiuočių kariauna apsupo Trakų pilį.
 
 <a id="claim-t-178976"></a>
 - t-135
@@ -2035,20 +2059,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0390ce0f08abe84abc5b986cb2b2fd494b1140d5f6787e75e5b240f67fc1a8bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino riteriai puolė į mūšį ir buvo lietuvių atremti, todėl ryšys rodo karinę priešpriešą.
 
 <a id="claim-t-178977"></a>
 - t-136
   global_id: t-178977
   teiginys: 'Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.'
   sudarymo_pagrindimas: 'OCR triukšmas pašalintas, teiginys sutrumpintas iki pagrindinio fakto.'
-  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Bajerburgo pilis; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Bajerburgo pilis; mentioned_place: Nemunas; mentioned_place: Veliuona; llm_object: Bajerburgo pilis'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Bajerburgo pilis'
   temporaliniai_duomenys: 'pastatymo data: 1337 m.; pastatymo data: apie 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'OCR triukšmas pašalintas, teiginys sutrumpintas iki pagrindinio fakto.'
@@ -2057,31 +2082,32 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111788-112545; hash=b28e48a790b5865116dc216e9fa309f23a7c5dc793985f5f8f266ff738f8f1d6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kernavė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai minima, kad kryžiuočiai rengė kasmetinius žygius iki Vilniaus.
 
 <a id="claim-t-178978"></a>
 - t-137
   global_id: t-178978
   teiginys: 'XIV a. nuolatiniai Kryžiuočių ordino žygiai į Lietuvą vertė kraštą gyventi tarsi nuolatinio karo stovykloje.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Lietuva'
   pagrindžia:
     - c-177
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2c6fca22587b9f760a3fbd8ca7c6c614fdfa8a9846a14134cdc3ff78ee915bc5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino riterių smūgis Lietuvai reiškia karinį veiksmą prieš Lietuvą.
 
 <a id="claim-t-178979"></a>
 - t-138
@@ -2097,8 +2123,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178980
   teiginys: '1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.'
   sudarymo_pagrindimas: 'Citata pagrindžia pagalbos atvykimą Ordino broliams.'
-  susije_objektai: 'location: Austrija; mentioned_place: Austrija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Austrija'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
   temporaliniai_duomenys: 'kelionės data: 1244 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pagalbos atvykimą Ordino broliams.'
@@ -2126,13 +2151,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=531e63c3c7b4dc92b41dab8ba6ccef37964d0a4595e922a1fde5cf2a8c01d100; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaikiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vaikiai: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Vaikiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vaikiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas nuvedė būrį į Vaikius.
 
 <a id="claim-t-178982"></a>
 - t-141
@@ -2145,32 +2170,33 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=287b6590d47866f713d32981a95f932e27bfc2918a9518d06315c32312f1cb6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai teigia, kad kryžiuočių kariauna puolė Bisenės pilį.
 
 <a id="claim-t-178983"></a>
 - t-142
   global_id: t-178983
   teiginys: 'Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.'
   sudarymo_pagrindimas: 'Iš ilgo sakinio išskirtas aiškus, citatos remiamas faktas.'
-  susije_objektai: 'mentioned_place: Pomeranija; mentioned_place: Vancka; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Poterbergas; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Vancka; mentioned_place: Pomeranija; mentioned_place: Vancka; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Poterbergas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] valdė teritoriją Vancka'
   pagrindžia:
     - c-052
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0716cfdfffecaf9a9b3fdbdb5d0fdcde546dfd1f662e09204f45c52eb4ef33b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje lietuvių pulkas tiesiogiai įsiveržia į Livoniją.
 
 <a id="claim-t-178984"></a>
 - t-143
@@ -2230,7 +2256,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178988
   teiginys: 'Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata palaiko aiškų pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   pagrindžia:
     - c-162
   irodymo_stiprumas: 0.00
@@ -2255,13 +2282,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jordanas iš Pelplino minimas tarp asmenų, stojusių ginti kryžiuočių.
 
 <a id="claim-t-178992"></a>
 - t-148
@@ -2287,7 +2314,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178993
   teiginys: 'Kairysis kryžiuočių sparnas prieš lietuvių pulkus buvo sudarytas iš stiprių dalinių.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-106
   irodymo_stiprumas: 0.00
@@ -2306,7 +2334,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178994
   teiginys: 'Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba maištaujančiais Rusios kunigaikščiais.'
   sudarymo_pagrindimas: 'Išskleistas veikėjas ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-133
   irodymo_stiprumas: 0.00
@@ -2325,7 +2354,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178995
   teiginys: 'Kryžiuočių ordinas, neįstengęs vienu dideliu žygiu pavergti Lietuvos, ėmė puldinėti ją nedideliais pasienio pilių būriais.'
   sudarymo_pagrindimas: 'Pirminis teiginys nepasako, kokia buvo naujoji taktika.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
@@ -2369,13 +2399,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ordino brolis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ordino brolis: mention_match, thing, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Ordino brolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai minima Ordino užkariavimų Prūsijoje argumentacija.
 
 <a id="claim-t-178999"></a>
 - t-154
@@ -2388,39 +2418,41 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=70eef3cadd31e692fc640750fbea5ba9eea5bf5bbb496f7beb3fcce6dbbc6cf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie prūsų žemių užkariavimą.
 
 <a id="claim-t-179001"></a>
 - t-155
   global_id: t-179001
   teiginys: 'Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną ir Redigerį Elnerį užimti Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baiga; mentioned_place: Prūsija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baiga; mentioned_place: Prūsija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Vilnius'
   pagrindžia:
     - c-115
   irodymo_stiprumas: 0.00
   saltinio_vieta: 32636-33060; hash=4dbf4c1267a472721996b7a6fa8d22c6acaa26a8b5e16113509a98686384625c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Ordino puolimą Gardino apylinkėse.
 
 <a id="claim-t-179003"></a>
 - t-157
   global_id: t-179003
   teiginys: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata leidžia jį užbaigti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-129
   irodymo_stiprumas: 0.00
@@ -2493,7 +2525,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-161
   global_id: t-179007
   teiginys: 'Vytautas pakėlė Lietuvos vardą sudarydamas kampaniją prieš Ordiną, po kurios Ordinas buvo diskredituotas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -2533,7 +2566,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-163
   global_id: t-179010
   teiginys: '1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'sutarties data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -2576,7 +2609,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179014
   teiginys: 'Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.'
   sudarymo_pagrindimas: 'Nutrūkęs sąrašas perrašytas į vientisą sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-114
 
@@ -2621,7 +2655,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179019
   teiginys: 'Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą apie Ordino veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Metenburgas; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Metenburgas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Metenburgas; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Metenburgas'
   pagrindžia:
     - c-143
 
@@ -2630,7 +2665,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179020
   teiginys: 'Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir perteikia citatos priežastinį ryšį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rudamina; mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rudamina; mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_place: Trakai; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] sudarė sutartį su [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-098
   irodymo_stiprumas: 0.00
@@ -2657,8 +2693,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179023
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau, pašalinant perteklinę formuluotę.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Vysla; llm_object: Prūsai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Mozūrija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1230 m.; įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau, pašalinant perteklinę formuluotę.'
@@ -2702,7 +2738,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179026
   teiginys: 'Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje aprašytu mūšiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-061
 
@@ -2729,7 +2766,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-177
   global_id: t-179029
   teiginys: '1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Mozūrija; mentioned_place: Palestina'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Mozūrija; mentioned_place: Palestina; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas II|Fridrichas II]] paskyrė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1226 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -2791,7 +2829,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-181
   global_id: t-179033
   teiginys: 'Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: Vitebskas'
   pagrindžia:
     - c-139
 
@@ -2806,13 +2844,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=21d030a1ef20d7829708d55c2e7ec14170242194e9d44f9a964b158cad26b9e3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienverderis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Marienverderis: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Marienverderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Marienverderis: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Marienverderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad magistras ir broliai pastatė pilį ir pavadino ją Marienverderiu.
 
 <a id="claim-t-179038"></a>
 - t-183
@@ -2831,7 +2869,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179039
   teiginys: '1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų mūšio epizodą apie Ordino brolius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; llm_object: Pomeranija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pomeranija'
   temporaliniai_duomenys: 'įvykio data: 1245 m.; įvykio data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų mūšio epizodą apie Ordino brolius.'
@@ -2853,7 +2892,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179042
   teiginys: '1383 m. Kryžiuočių ordino kariauna su Vytautu ir jo šalininkais rugsėjo 11 d. apsupo Trakų pilį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, veikėjus ir veiksmą.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Trakai; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, veikėjus ir veiksmą.'
@@ -2875,19 +2915,20 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179044
   teiginys: 'XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, ką reiškia „čia“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsai; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai'
   pagrindžia:
     - c-138
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Elbingas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad magistras su broliais pastatė pilį ir pavadino ją Elbingu.
 
 <a id="claim-t-179045"></a>
 - t-187
@@ -2900,20 +2941,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 227576-227915; hash=8d91d996a8ca9ad3ab63e03843c417c3fc64c2b3eb4d1fd24610d9d4dcf86531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Baiga: 1.00
+  ryšio_patikimumas: uzeme -> Baiga: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=26
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai užėmė Baigos pilį.
 
 <a id="claim-t-179047"></a>
 - t-188
   global_id: t-179047
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė stilistika.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pašalinta perteklinė stilistika.'
@@ -2935,26 +2977,27 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179048
   teiginys: 'Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.'
   sudarymo_pagrindimas: 'Nutrūkęs tekstas perrašytas į pilną sakinį, nepridedant naujų faktų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-197
   irodymo_stiprumas: 0.00
   saltinio_vieta: 270742-271781; hash=2d72a095326b7a45582202e00df24b8590a7e6753190d07b8e45b7f959c4fdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kroicburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kroicburgo pilį.
 
 <a id="claim-t-179050"></a>
 - t-190
   global_id: t-179050
   teiginys: 'Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir atitinka citatoje aprašytą žygį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Trakai; llm_object: Vilnius'
   pagrindžia:
     - c-196
 
@@ -2969,13 +3012,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302471-303285; hash=f3e6c6de5fedb51048c7f5639a7f21b5bd44fe28bdd08b748d2f11f9a43443c6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Austrija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=28
-  ryšio_targeto_parinkimas: Austrija: nearest_after_predicate, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179057"></a>
 - t-193
@@ -3000,7 +3043,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-194
   global_id: t-179061
   teiginys: 'Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-149
 
@@ -3038,7 +3082,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179067
   teiginys: 'Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_person: [[objektai/asmenys/Zigmantas I|Zigmantas I]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_person: [[objektai/asmenys/Zigmantas I|Zigmantas I]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija; llm_object: Luckas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Luckas'
   temporaliniai_duomenys: 'įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -3047,13 +3092,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 329536-330479; hash=c7ecbc6c9dd3bc2be411f26178d22d3be8dd83e9b2cf2426d764378e73772a1e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kristburgas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kristburgo pilį.
 
 <a id="claim-t-179069"></a>
 - t-200
@@ -3091,7 +3136,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179071
   teiginys: 'Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-092
 
@@ -3118,7 +3163,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-205
   global_id: t-179074
   teiginys: 'Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.'
-  susije_objektai: 'mentioned_place: Dubysa; mentioned_place: Varniai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Dubysa; llm_object: Varniai; mentioned_place: Dubysa; mentioned_place: Varniai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Dubysa; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Varniai'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -3157,7 +3203,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179076
   teiginys: 'Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.'
   sudarymo_pagrindimas: 'Ilgas fragmentas perrašytas į aiškų sakinį apie Ordino riterių veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: Vitebskas'
   pagrindžia:
     - c-139
 
@@ -3186,8 +3232,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179081
   teiginys: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1330 m.; įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citata.'
@@ -3226,7 +3271,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-215
   global_id: t-179086
   teiginys: 'XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; llm_object: Prūsai; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-088
 
@@ -3235,8 +3280,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179087
   teiginys: '1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, konkretus ir paremtas citata.'
-  susije_objektai: 'territory: Vengrija; mentioned_place: Burcos žemė; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Vengrija'
+  susije_objektai: 'mentioned_place: Burcos žemė; mentioned_place: Vengrija; llm_object: Burcos žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Burcos žemė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1211 m.; valdymo laikotarpis: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vengrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, konkretus ir paremtas citata.'
@@ -3245,20 +3290,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Prūsijos magistras su broliais užbaigia statyti pilį, kuri tame pačiame fragmente pavadinama Štarkenbergu.
 
 <a id="claim-t-179088"></a>
 - t-217
   global_id: t-179088
   teiginys: '1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] siuntė į Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiksliai perteikia citatos informaciją.'
@@ -3278,7 +3324,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-219
   global_id: t-179092
   teiginys: 'Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas; mentioned_object: [[objektai/zodynas/legatai|legatai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] buvo priešas [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-047
 
@@ -3296,7 +3343,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179097
   teiginys: 'Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, išlaikytas citatos paremtas faktas apie kryžiuočių veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Vilnius'
   pagrindžia:
     - c-062
 
@@ -3330,7 +3378,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179103
   teiginys: 'Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą nuomonę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Livonija; mentioned_author: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]]; llm_object: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija'
   pagrindžia:
     - c-067
 
@@ -3347,26 +3395,28 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179105
   teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir pakankamai tikslus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-218
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d090b20132791bf63b319ec668680ccd80e4488ac4bf46a6698268a4b09bedcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pomeranija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Vancka: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vancka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Teutonų ordino broliai pasiliko Vanckos kraštą.
 
 <a id="claim-t-179107"></a>
 - t-228
   global_id: t-179107
   teiginys: 'XIV a. nuolatiniai Ordino žygiai į Lietuvą vertė kraštą gyventi lyg nuolatinio karo stovykloje.'
   sudarymo_pagrindimas: 'Pašalinta archajiška pradžia ir sutrumpinta formuluotė.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Lietuva'
   pagrindžia:
     - c-177
 
@@ -3387,7 +3437,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179109
   teiginys: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]'
+  susije_objektai: 'llm_object: Prūsai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užkariavo Prūsai; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Prūsija'
   pagrindžia:
     - c-175
 
@@ -3404,7 +3455,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179114
   teiginys: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir perteklinė pastaba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; llm_object: Nemunas'
   temporaliniai_duomenys: 'įvykio data: po 1282 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir perteklinė pastaba.'
@@ -3416,7 +3467,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179115
   teiginys: 'Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.'
   sudarymo_pagrindimas: 'Ilgas fragmentas perrašytas į vieną aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Vilnius'
   pagrindžia:
     - c-109
 
@@ -3440,13 +3492,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 567800-568716; hash=b85cc0f2bbb089e8bd4fc194a46df754b141393598e2fa40048c670fccadf7ca; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai teigia, kad Gerhardas atvyko į Prūsiją.
 
 <a id="claim-t-179119"></a>
 - t-236
@@ -3492,7 +3544,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-239
   global_id: t-179123
   teiginys: '1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Vengrija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -3535,7 +3588,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai autoriaus moralinis vertinimas, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krėva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krėva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-224
 
@@ -3571,7 +3625,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pataisyta linksnio klaida ir išlaikyta citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Mazovija; llm_object: Bartenšteinas'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] priklausė Bartenšteinas'
   pagrindžia:
     - c-227
 
@@ -3610,7 +3665,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio baigtį ir žuvusius ordino narius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Burchardas Aremas|Burchardas Aremas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Burchardas Aremas|Burchardas Aremas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1297 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako mūšio baigtį ir žuvusius ordino narius.'
@@ -3637,7 +3693,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie kryžiuočių veiksmus.'
-  susije_objektai: 'mentioned_place: Pilėnai; mentioned_place: Veliuona'
+  susije_objektai: 'llm_object: Pilėnai; mentioned_place: Pilėnai; mentioned_place: Veliuona; llm_object: Veliuona'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Pilėnai; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Veliuona'
   pagrindžia:
     - c-232
 
@@ -3671,7 +3728,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR antraštės triukšmas ir sukonkretintas objektas.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
+  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Kaunas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kaunas'
   pagrindžia:
     - c-234
 
@@ -3683,7 +3741,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata apie kryžiuočių veiksmus.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Pieštvė'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Pieštvė; llm_object: Pieštvė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pieštvė'
   pagrindžia:
     - c-235
 
@@ -3695,7 +3754,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, paramą, veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Pernarava; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Pernarava; llm_object: Pernarava; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pernarava'
   pagrindžia:
     - c-236
 
@@ -3725,13 +3785,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 752026-753024; hash=c90ac7a1dc953e6144d4ae7eb2436d2c58b248f7f03680d96ee10dafee061598; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Višogrudas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Višogrudas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Ordino kariuomenė apsupo Višogrudo pilį.
 
 <a id="claim-t-184504"></a>
 - t-263
@@ -3762,13 +3822,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417208-417782; hash=83de1754370acad8740e596245a0a7c49e6d63e7b64c0b0c149712d1e675ab14; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas teigia, kad Rygos miestiečiai patikėjo miestą Teutonų ordino magistrui ir broliams.
 
 <a id="claim-t-184506"></a>
 - t-265
@@ -3784,13 +3844,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 492253-492468; hash=d9026856cca4b609abd394f2ebc2053f82698d9b185074e18f6c6934ba72ec77; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas iš Endorfo: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=7
-  ryšio_targeto_parinkimas: Jonas iš Endorfo: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Jonas iš Endorfo" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184507"></a>
 - t-266
@@ -3815,8 +3875,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas kontekstas ir pašalintas antraštės triukšmas.'
-  susije_objektai: 'territory: Veliuona; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Veliuona'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena'
   pagrindžia:
     - c-243
 
@@ -3828,7 +3887,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą; pašalintas nutrūkęs sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Prūsija; mentioned_place: Milanas'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Prūsija; mentioned_place: Milanas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-244
 
@@ -3852,8 +3912,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą; pataisyta OCR klaida ir sutrumpinta.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė'
   pagrindžia:
     - c-246
 
@@ -3916,7 +3975,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Plockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'sutarties data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -3925,13 +3985,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417208-417782; hash=83de1754370acad8740e596245a0a7c49e6d63e7b64c0b0c149712d1e675ab14; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Jogaila sudarė sutartis su kryžiuočiais.
 
 <a id="claim-t-187713"></a>
 - t-275
@@ -3949,16 +4009,159 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 492253-492468; hash=d9026856cca4b609abd394f2ebc2053f82698d9b185074e18f6c6934ba72ec77; match=whitespace_regex
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Gregorijus XII.md#claim-t-35086|Gregorijus XII]]: Gregorijus XII rėmė Vytautą prieš Ordiną.
-- susijęs iš Durbė: Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.
+- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176126|Žemaičiai]]: 1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
+- susijęs iš Santoko pilis Dobrine: Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.
+- susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179391|Livonijos ordinas]]: Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176159|Žemaičiai]]: 1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.
+- susijęs iš [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos.md#claim-t-66570|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]: 1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.
+- susijęs iš Odojevas: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.
+- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
+- susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179316|Lietuviai]]: Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.
+- susijęs iš [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.).md#claim-t-62876|Medininkų žemės mūšis (1320 m. liepos 27 d.)]]: 1320 m. liepos 27 d. Medininkų žemėje Lietuvos kariuomenė sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
+- susijęs iš [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.).md#claim-t-185671|Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]: Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.
+- susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš Oliva: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.
+- susijęs iš Salyne: 1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio.
+- susijęs iš Skirsnemunė: 1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.
+- susijęs iš Smalininkai: Sienos linija nuo Šešupės buvo nuvesta tiesiai į Nemuną prie Smalininkų, o iš ten į Palangą.
+- susijęs iš Žemaitija: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
+- susijęs iš [[objektai/autoriai/prof. kunigas Dr. J. Fijalek.md#claim-t-35494|prof. kunigas Dr. J. Fijalek]]: Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50800|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes.
+- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66524|Dovydiškių sutarties sudarymas]]: 1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89389|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos.
+- susijęs iš Olivos kronika: Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175202|Herkus Mantas]]: Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176679|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176875|Zigmantas Liuksemburgietis]]: Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184596|Žemaičiai]]: Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.
+- susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89392|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-183291|Žalgirio mūšis (1410 m.)]]: 1410 m. Žalgirio mūšyje jungtinė Lenkijos ir Lietuvos kariuomenė sutriuškino Vokiečių ordiną.
+- susijęs iš [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose.md#claim-t-62707|Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]: Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.
+- susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
+- susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
+- susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
+- susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176667|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
+- susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169682|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169694|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
+- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66525|Dovydiškių sutarties sudarymas]]: 1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.
+- susijęs iš [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.).md#claim-t-28867|Trakų paliaubos (1379 m. rugsėjo 29 d.)]]: 1379 m. rugsėjo 29 d. Trakuose Kęstutis ir Jogaila su kryžiuočiais sudarė dešimties metų paliaubas dėl Palenkės ir Gardino žemės.
+- susijęs iš Eigulių pilis (pilis): 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.
+- susijęs iš Kulautuva: Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.
+- susijęs iš Kulmo žemė: Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.
+- susijęs iš Nevėžis: 1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.
+- susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.
+- susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176352|Gediminas]]: Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176357|Gediminas]]: 1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.
+- susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
+- susijęs iš [[objektai/asmenys/Mykolas (Kujavijos vyskupas).md#claim-t-60390|Mykolas (Kujavijos vyskupas)]]: Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
-- susijęs iš Grabova: 1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-10104|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, suvienijęs jėgas su Jogailos vedama Lenkijos kariuomene, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.
+- susijęs iš [[objektai/autoriai/Jan Fijałek.md#claim-t-35446|Jan Fijałek]]: Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+- susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179207|Lenkai]]: Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179421|Livonijos ordinas]]: Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89393|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.
+- susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185674|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas.
+- susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-183692|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
+- susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-67075|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
+- susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-67077|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.
+- susijęs iš 1432 m. Lietuvos ir lietuviškos Rusios priesaika Prūsijos ordinui dėl Švitrigailos sutarties: 1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė Prūsijos ordinui laikytis Švitrigailos sutarties.
+- susijęs iš Lietuvos TSR Istorijos Šaltiniai: Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.
+- susijęs iš Lietuvos TSR Istorijos Šaltiniai: Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+- susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
+- susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
+- susijęs iš Drezdenka: Naujame dokumente Drezdenka buvo priskirta prie lenkų pasienio punktų, turėjusių priklausyti kryžiuočiams.
+- susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
+- susijęs iš Griunvaldas: 1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
+- susijęs iš Kulmija: 1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.
+- susijęs iš Leipūnos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.
+- susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
+- susijęs iš Mozūrija: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Mozūrija.
+- susijęs iš Nemunas: Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.
+- susijęs iš Neris Vilija: Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.
+- susijęs iš Palenkė: Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.
+- susijęs iš Skirsnemunė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.
+- susijęs iš Skirsnemunė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.
+- susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
+- susijęs iš Veliuona: Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
+- susijęs iš Žemaitija: 1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją.
+- susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185353|ariergardas]]: Maustas, Sudargas ir Masius puldinėjo atsitraukiančios kryžiuočių kariuomenės ariergardą, siekdami laimėti laiko lietuvių ir žemaičių pajėgoms.
+- susijęs iš [[objektai/zodynas/žygis.md#claim-t-182995|žygis]]: Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102848|Dusburgas]]: 1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175531|Kalavijuočių ordinas]]: Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179324|Lietuviai]]: Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35833|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis.md#claim-t-185728|Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]: Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.
+- susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
+- susijęs iš Nevėžis: 1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.
+- susijęs iš Valakija: Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.
+- susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89351|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89354|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
+- susijęs iš [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.).md#claim-t-95972|Ordino išvijimas iš Žemaičių krašto (1401 m.)]]: 1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.
+- susijęs iš Hartmano iš Heldrungeno Pranešimas: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.
+- susijęs iš Burcos žemė: Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę.
+- susijęs iš Racionžas: 1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05169|Gediminas]]: Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+- susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59968|Hartmanas iš Heldrungeno]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.
+- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59969|Henrikas iš Hohenlohės]]: Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113898|Mindaugas (valdovas, XIII a.)]]: 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.
+- susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59999|Pipinas]]: Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176664|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176743|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis.
+- susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
+- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171490|Henrikas Latvis]]: Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.
+- susijęs iš [[objektai/autoriai/Hermanas iš Vartbergės.md#claim-t-62615|Hermanas iš Vartbergės]]: Hermano iš Vartbergės kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181459|Petras Dusburgietis]]: Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.
+- susijęs iš [[objektai/autoriai/R. Jasas.md#claim-t-64832|R. Jasas]]: R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108293|Pranciškonų ordinas]]: Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.
+- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179439|Rygiečiai]]: Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176163|Žemaičiai]]: Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.
+- susijęs iš [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai.md#claim-t-35814|1401 m. Vytauto pasižadėjimai Lenkijai]]: 1401 m. Vytautas davė Lenkijai naujų pasižadėjimų, siekdamas paramos kovai su Ordinu dėl žemaičių.
+- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
+- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.).md#claim-t-86946|Gedimino sąjunga su Lenkija (1325 m.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66881|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.
+- susijęs iš [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.).md#claim-t-86970|Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]: 1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59727|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
+- susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176226|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.
+- susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-184349|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
+- susijęs iš [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos.md#claim-t-28929|Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]: Nuo Astravo taikos metų Vytautas ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki Lucko suvažiavimo 1429).
+- susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186378|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu.
+- susijęs iš Lietuvių tautos istorijos šaltiniai: Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Įžanginiame straipsnyje Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama kaip ypač svarbi tarp XIII-XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.
+- susijęs iš Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis: 1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.
+- susijęs iš Vytauto raštas imperatoriui Zigmantui: Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.
+- susijęs iš Golubovas: Per karą iš apgultų pilių buvo paimtas tik Golubovas.
+- susijęs iš Karaliaučius: Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.
+- susijęs iš Rusnė: Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių.
+- susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
+- susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
+- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš Širvintos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
@@ -4613,6 +4816,28 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42523|vyskupo teisėjas]]: Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-184378|Vladislovas Lokietka]]: Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Jurgis Butrimas.md#claim-t-186117|Jurgis Butrimas]]: Jurgis Butrimas, turėjęs didelių turtų Žemaitijoje, pasiūlė savo pagalbą kryžiuočiams.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
+- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176694|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184892|Vytenis]]: Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176120|Žemaičiai]]: Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185597|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Vytautas įsakė maršalui Rumbaudui skubiai sutelkti kariuomenę ir išvyti kryžiuočius iš visos Žemaitijos.
+- susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35879|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59726|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
+- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
+- susijęs iš Heilsbergas: Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.
+- susijęs iš Michalovos žemės: Vytauto požiūriu Michalovos sritys turėjo likti Ordinui, nes jis nenorėjo visiško Lenkijos susitaikymo su Ordinu.
+- susijęs iš Mozūrija: 1432 m. Švitrigaila sustiprino ryšius su Mozūrija, Naugardu, Pskovu, Odojevo ir Tverės kunigaikščiais.
+- susijęs iš Nemunas: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
+- susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
+- susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
+- susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
@@ -6123,6 +6348,180 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/zodynas/žygio vora.md#claim-t-185362|žygio vora]]: Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.
 - susijęs iš [[objektai/zodynas/žygis.md#claim-t-182995|žygis]]: Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185332|žygūnas]]: Karalius per žygūną pareikalavo, kad kryžiuočiai nelaužytų susitarimo ir nedarytų skriaudų.
+- susijęs iš [[objektai/asmenys/Falkenbergas.md#claim-t-34787|Falkenbergas]]: Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
+- susijęs iš [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės.md#claim-t-87090|Pilaitės pilkapis prie Sudervėlės]]: Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184548|Lietuviai]]: Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.
+- susijęs iš 1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu: 1323 m. Gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės apėmė Aukštaičių ir Žemaičių kraštus.
+- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
+- susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
+- susijęs iš [[objektai/asmenys/Nameisis.md#claim-t-60394|Nameisis]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.
+- susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-184808|Nodamas]]: Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173241|Vladislovas Jogaila]]: Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.
+- susijęs iš [[objektai/autoriai/Barzdaitis J.md#claim-t-60675|Barzdaitis J]]: Barzdaitis Vytenio epizodą siejo su raginimu lietuviams ir pavergtiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.
+- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
+- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172931|M. Strijkovskis Stryjkowski]]: Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.
+- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184563|Kalavijuočių ordinas]]: Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.
+- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179438|Rygiečiai]]: Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176130|Žemaičiai]]: Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-182932|Žemaičiai]]: Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.
+- susijęs iš [[objektai/ivykiai/Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.).md#claim-t-185697|Bresto pasitarimas ir sprendimas pradėti bendrą karą prieš kryžiuočius (1410 m.)]]: Lietuvos Braste Jogaila, Vytautas ir skitų chanas nusprendė visomis jėgomis pradėti bendrą karą prieš kryžiuočius.
+- susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100022|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
+- susijęs iš [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.).md#claim-t-62816|Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.
+- susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
+- susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185684|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Prūsai ir žemaičiai prie Liubavos iš pasalų užpuolė grobio ieškojusius kryžiuočius ir padarė jiems didelį pralaimėjimą.
+- susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176226|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.
+- susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176227|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.
+- susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176227|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.
+- susijęs iš 1380 m. vasario mėnesio paliaubos su Livonijos ordinu: 1380 m. vasarį sudarytos paliaubos su Livonijos ordinu neapėmė Žemaičių ir kitų Kęstučio žemių.
+- susijęs iš Eilėtoji Livonijos kronika: Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.
+- susijęs iš Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a: R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.
+- susijęs iš Vytauto lotyniški ir vokiški Žemaitijos atskyrimo raštai (1405 m.): Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Lietuvos ir prijungiama prie kryžiuočių valdų.
+- susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.
+- susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.
+- susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
+- susijęs iš Ragainė: Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.
+- susijęs iš Raseiniai: Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.
+- susijęs iš Trakų pilis (pilis): Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.
+- susijęs iš Trakų pilis (pilis): Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.
+- susijęs iš Žemaitija: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
+- susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88008|Stryjkowski Strijkovskis]]: Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš Kulmas: 1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179670|Skirgaila]]: Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
+- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97213|Romas Batūra]]: Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89339|Žiemgaliai]]: Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89355|Žiemgaliai]]: Žiemgaliai vėl sukilo, nepakęsdami griežtos kryžiuočių valdžios.
+- susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66423|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasarį Jogaila vienas sudarė paliaubas su Livonijos ordinu, iš jų išskirdamas Žemaičius ir kitas Kęstučio žemes.
+- susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66424|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasario paliaubos su Livonijos ordinu neapėmė Žemaičių ir kitų Kęstučio žemių, todėl Ordinas galėjo jas pulti.
+- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
+- susijęs iš 1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu: 1323 m. spalio 2 d. Gedimino sutartyje su Livonijos ordinu minimas Aukštaičių kraštas.
+- susijęs iš Spitenbergas: Spitenbergas buvo maža kryžiuočių pilis, kurios tikslesnė vieta Pamedėje nenustatyta.
+- susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
+- susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-183756|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.
+- susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40366|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176354|Gediminas]]: Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184719|Jogaila (kunigaikštis, XIV–XV a.)]]: Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Vilhelmas (dekanas).md#claim-t-60462|Vilhelmas (dekanas)]]: Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184886|Vytenis]]: Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.
+- susijęs iš [[objektai/autoriai/Vygandas iš Marburgo.md#claim-t-62663|Vygandas iš Marburgo]]: Vygando iš Marburgo XIV a. kronika laikoma svarbiu šaltiniu Lietuvos XIII-XIV a. feodalinio laikotarpio istorijai nušviesti.
+- susijęs iš [[objektai/daiktai/Malūnas.md#claim-t-35536|Malūnas]]: Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
+- susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81463|Lietuvos jėzuitų kolegijos]]: Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175124|Sūduviai-jotvingiai]]: 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89245|Sūduviai]]: 1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176116|Žemaičiai]]: Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176131|Žemaičiai]]: 1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176149|Žemaičiai]]: Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.
+- susijęs iš [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md#claim-t-185506|Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]: Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
+- susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
+- susijęs iš [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.).md#claim-t-100056|Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]: 1404 m. Raciąže Vytautas pažadėjo Ordinui pildyti Salyno taikos sąlygas, kad galėtų vėl veikti rytuose.
+- susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.).md#claim-t-89407|Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]: 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.
+- susijęs iš [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika.md#claim-t-77955|Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]: Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.
+- susijęs iš [[objektai/posakiai/kein Soule sie karten wider.md#claim-t-28705|kein Soule sie karten wider]]: Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
+- susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
+- susijęs iš Ariogala: Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.
+- susijęs iš Brodnica: Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.
+- susijęs iš Fridbergas Vytėnai: Fridbergu vadinta kryžiuočių pilis stovėjo už 2 mylių nuo Veliuonos žemyn Nemuno tėkme.
+- susijęs iš Nemunas: Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš Rudamina: Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė.
+- susijęs iš Rusia Rusios žemės: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
+- susijęs iš Rusia: Algirdo ekspedicijos į Rusią iš lietuvių reikalavo mažiau jėgų negu kruvini mūšiai su Ordinu.
+- susijęs iš Sedlcai: Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo.
+- susijęs iš Vysla: Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/činšas.md#claim-t-82132|činšas]]: Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.
+- susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
+- susijęs iš [[objektai/autoriai/Jerošinas.md#claim-t-88047|Jerošinas]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179229|Lietuviai]]: Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185655|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.
+- susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
+- susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-183841|Karolis Tryrietis]]: Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę.
+- susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89340|Žiemgaliai]]: Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89346|Žiemgaliai]]: Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas.
+- susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05291|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą.
+- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66538|Gedimino sąjunga su Lenkija]]: 1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.
+- susijęs iš [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.).md#claim-t-62828|Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]: 1323 m. Žemaitijos lietuviai sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
+- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
+- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66870|Salyno sutartis]]: Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.
+- susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59728|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186401|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186402|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.
+- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186403|„Lietuvos karaliaus sūnus“]]: Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.
+- susijęs iš Durbė: Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.
+- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
+- susijęs iš Tverė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais.
+- susijęs iš [[objektai/zodynas/kustodas ir gvardijonas.md#claim-t-86635|kustodas ir gvardijonas]]: Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.
+- susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87504|Gotardas Ketleris]]: Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
+- susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87410|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.
+- susijęs iš [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.).md#claim-t-62787|Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]: 1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos.
+- susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.).md#claim-t-185599|Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)]]: Po pralaimėjimo kryžiuočiai traukėsi iš priešo šalies, bet lietuviai iš anksto užtvėrė miškų takus.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
+- susijęs iš Marienburgas: Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.
+- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
+- susijęs iš Šešupė: Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.
+- susijęs iš [[objektai/zodynas/lėnas.md#claim-t-70216|lėnas]]: Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
+- susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.
+- susijęs iš Kulmo žemė: Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.
+- susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184718|Jazbutas]]: Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.
+- susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
+- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35834|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. sutartis rodė, kad Jogaila užmezgė dar artimesnius santykius su Vokiečių ordinu.
+- susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
+- susijęs iš 1323 m. Vilniaus sutartis: 1323 m. Vilniaus sutartis Balińskio pasakojime pateikiama kaip pirmasis autentiškas Vilniaus miesto ir Gedimino sostinės paliudijimas.
+- susijęs iš 1323 m. Vilniaus sutartis: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku Vilniaus kaip Gedimino sostinės paliudijimu.
+- susijęs iš Gardinas: Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.
+- susijęs iš Gardinas: Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.
+- susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
+- susijęs iš Nevėžis: Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
+- susijęs iš Vilnius: Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.
+- susijęs iš [[objektai/zodynas/latrunkuliai.md#claim-t-58913|latrunkuliai]]: Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai.
+- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185657|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89836|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.
+- susijęs iš [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.).md#claim-t-185805|Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]: Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
+- susijęs iš [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.).md#claim-t-62940|Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]: 1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.
+- susijęs iš Nevėžis: 1398 m. Vytautas užrašė Ordinui Žemaičių kraštą iki Nevėžio upės.
+- susijęs iš Sudervėlė: Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš Viznos apylinkės: Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo.
+- susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179275|Lietuviai]]: Lietuvių kariuomenės sugrįžimas į mūšį tada, kai laimė sviro kryžiuočiams, laikytas nepaprastu karo taktikos reiškiniu.
+- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
+- susijęs iš [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu.md#claim-t-26373|Derybos Salyne su Vokiečių ordinu]]: 1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.
+- susijęs iš [[objektai/posakiai/kiekvienam geros valios žmogui.md#claim-t-59115|kiekvienam geros valios žmogui]]: Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.
+- susijęs iš Nevėžis: Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio.
+- susijęs iš [[objektai/zodynas/žygio vora.md#claim-t-185362|žygio vora]]: Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.
+- susijęs iš [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.).md#claim-t-31432|Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]: 1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+- susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
+- susijęs iš [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.).md#claim-t-34564|Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]: 1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai.
+- susijęs iš [[objektai/asmenys/Aleksandras V.md#claim-t-35010|Aleksandras V]]: Aleksandras V rėmė Vytautą prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-184690|Derska]]: Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę.
+- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176859|Zbignievas Olesnickis]]: Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54967|Fridrichas (Rygos arkivyskupas)]]: Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89716|Fridrichas (Rygos arkivyskupas)]]: Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176877|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.
+- susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
+- susijęs iš [[objektai/ivykiai/Jogailos brolių sukilimas.md#claim-t-01626|Jogailos brolių sukilimas (sukilimas)]]: Jogaila artinosi su kryžiuočiais, nes ieškojo paramos prieš vyresniuosius brolius, nepripažinusius jo valdžios.
+- susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -6454,13 +6853,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01956c0700e5a1da8816119bc98711b8b508b867f486747b08de2c0a371f2394; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaičiai buvo puolami kryžiuočių kontekste.
     - t-167
 
 - c-018
@@ -6560,13 +6959,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d6e57579ee1305d520cb330ada3521f468f5a2ba34e4995f3d756a447fbda93a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: paskyre -> Kryžiuočių ordinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridricho II privilegija suteikė Ordinui teises, todėl relation_kind paskyre geriausiai atitinka veiksmą.
     - t-222
 
 - c-023
@@ -6793,13 +7192,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c99cb02808678bcac2f235645346e330b879d36249974bae430965458945dd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotfridas Lindenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gotfridas Lindenas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gotfridas Lindenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gotfridas Lindenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gotfridas Lindenas aprašomas kaip karine jėga veržęsis iki Vilniaus tvirtovių.
     - t-201
 
 - c-034
@@ -6871,13 +7270,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsų kryžiuočiai tiesiogiai nurodyti išgriovę Kauno pilį.
     - t-192
     - t-092
 
@@ -6922,13 +7321,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=70eef3cadd31e692fc640750fbea5ba9eea5bf5bbb496f7beb3fcce6dbbc6cf2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie prūsų žemių užkariavimą.
     - t-081
 
 - c-039
@@ -6998,13 +7397,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=374f6c1847513738c7c10cbe4d42b1efdc81f5c263ab6306f7d4e3fe1efb3b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Gediminas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sutartis apibūdinta kaip sudaryta prieš Gediminą.
     - t-020
 
 - c-041
@@ -7029,13 +7428,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 628917-629306; hash=5dd36f5c95b1de5b95e8a31aa2f4bafbca3015569b0f64f8e701417135f558e6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Dubysa: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai minimi plėšę Dubysos žemupį.
     - t-140
 
 - c-042
@@ -7059,13 +7458,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=531e63c3c7b4dc92b41dab8ba6ccef37964d0a4595e922a1fde5cf2a8c01d100; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaikiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vaikiai: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Vaikiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vaikiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas fon Vildenbergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Fridrichas fon Vildenbergas nuvedė būrį į Vaikius.
     - t-045
 
 - c-043
@@ -7113,13 +7512,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302471-303285; hash=f3e6c6de5fedb51048c7f5639a7f21b5bd44fe28bdd08b748d2f11f9a43443c6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Austrija: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=28
-  ryšio_targeto_parinkimas: Austrija: nearest_after_predicate, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-083
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=53c9a727b13c9dd1c72495baa48a05b498cdd1fa835bcb4c78ad6cfba0401121; match=fallback; occurrences=0
@@ -7171,13 +7570,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsų kryžiuočiai tiesiogiai nurodyti išgriovę Kauno pilį.
     - t-098
     - t-245
 
@@ -7349,13 +7748,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0716cfdfffecaf9a9b3fdbdb5d0fdcde546dfd1f662e09204f45c52eb4ef33b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje lietuvių pulkas tiesiogiai įsiveržia į Livoniją.
     - t-125
 
 - c-054
@@ -7465,24 +7864,24 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ea6610e95f1911222b3bdc0e8bb78fa00b7c8c8389659ad8c1d0e574197933c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste kryžiuočių sparnas pastatytas prieš lietuvių pulkus, todėl ryšys žymi karinę priešpriešą.
     - t-124
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=790880af2d23c4372aa78c74b5e5e7eaaa4837672baa43d43241f863d6bf8c3e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Teutonų ordinas pavergė prūsus; tai atitinka užkariavimo semantiką.
     - t-060
 
 - c-057
@@ -7637,13 +8036,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 329536-330479; hash=c7ecbc6c9dd3bc2be411f26178d22d3be8dd83e9b2cf2426d764378e73772a1e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kristburgas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kristburgo pilį.
     - t-175
 
 - c-062
@@ -7758,13 +8157,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435257-435893; hash=d4b9ff32f05f8d8ded4239a93fb09b89ec2b88e14861a10218969b05c62d2483; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vytauto kampanija prieš Ordiną ir apskundimas pasauliui rodo politinį priešiškumą.
     - t-111
 
 - c-067
@@ -7934,13 +8333,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0390ce0f08abe84abc5b986cb2b2fd494b1140d5f6787e75e5b240f67fc1a8bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino riteriai puolė į mūšį ir buvo lietuvių atremti, todėl ryšys rodo karinę priešpriešą.
     - t-184
 
 - c-072
@@ -8151,13 +8550,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e875907dc7094424cf4795b174fe7f3018c36b077eacf3c7fcfcd1dc5ab0f6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuvos Didžioji Kunigaikštija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos Didžioji Kunigaikštija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino pavojus LDK tiesiogiai nurodo priešišką santykį.
     - t-173
 
 - c-080
@@ -8457,13 +8856,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claimas tiesiogiai įvardija Gedimino sutartį su Lokietka.
     - t-078
 
 - c-092
@@ -8541,13 +8940,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 78811-79453; hash=90cc6029d585264022608e56e98cdd357f18200ebafc3a125251bcd33009c638; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: valde -> Vitebskas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Algirdas siejamas su viešpatavimu Vitebske.
     - t-214
 
 - c-095
@@ -8997,13 +9396,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a04796cdf8d3cd628eeebefefec94ed06f138f3d1f3910f0cb44a40e189f564; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsijos ordino didysis magistras pasiuntė žmones užimti Vilniaus.
     - t-233
 
 - c-110
@@ -9145,13 +9544,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01956c0700e5a1da8816119bc98711b8b508b867f486747b08de2c0a371f2394; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žemaičiai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Žemaičiai buvo daugiausia puolami kryžiuočių kontekste.
     - t-166
 
 - c-115
@@ -9188,13 +9587,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 32636-33060; hash=4dbf4c1267a472721996b7a6fa8d22c6acaa26a8b5e16113509a98686384625c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Ordino puolimą Gardino apylinkėse.
     - t-030
   irodymo_stiprumas: 0.00
   saltinio_vieta: 814093-814461; hash=0a0b5ea6468c520e7144a2a5d67dbf3ecfd4c307cb6bb7ab6810ce75d5b46793; match=exact
@@ -9226,13 +9625,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19ee880f3c0445455c7ff2bfea3d1d7d49cedef7c0db6ead99aa22b2a8d08440; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Trakai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad kryžiuočių kariauna apsupo Trakų pilį.
     - t-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f2c748ffa1e32694d67eb1d72c9c5e8a584d5035e7440c8af6f79a1f22b3fa03; match=fallback; occurrences=0
@@ -9325,13 +9724,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a4dadf24e1734521dadfd545c2cc6501814673fd40ce6f64755499598828324; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini nepavykusį Vilniaus apsiautimą Ordino veiksmų kontekste.
     - t-048
 
 - c-121
@@ -9425,13 +9824,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 721693-721960; hash=7f27c35019409df8a05550b7a4bf1f64bf5d54c2ea21c8a2c9d46eb77e49e752; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vytautas sudarė kampaniją prieš Ordiną, todėl tiesiogiai palaikomas priešiškumo ryšys.
     - t-004
     - t-212
 
@@ -9762,13 +10161,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Elbingas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad magistras su broliais pastatė pilį ir pavadino ją Elbingu.
     - t-207
     - t-181
 
@@ -9955,13 +10354,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=287b6590d47866f713d32981a95f932e27bfc2918a9518d06315c32312f1cb6e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai teigia, kad kryžiuočių kariauna puolė Bisenės pilį.
     - t-182
 
 - c-148
@@ -10002,13 +10401,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=21d030a1ef20d7829708d55c2e7ec14170242194e9d44f9a964b158cad26b9e3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienverderis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Marienverderis: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Marienverderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Marienverderis: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Marienverderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad magistras ir broliai pastatė pilį ir pavadino ją Marienverderiu.
     - t-107
 
 - c-149
@@ -10305,13 +10704,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111788-112545; hash=b28e48a790b5865116dc216e9fa309f23a7c5dc793985f5f8f266ff738f8f1d6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kernavė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai minima, kad kryžiuočiai rengė kasmetinius žygius iki Vilniaus.
     - t-187
 
 - c-161
@@ -10336,13 +10735,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 227576-227915; hash=8d91d996a8ca9ad3ab63e03843c417c3fc64c2b3eb4d1fd24610d9d4dcf86531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Baiga: 1.00
+  ryšio_patikimumas: uzeme -> Baiga: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=26
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai užėmė Baigos pilį.
     - t-086
 
 - c-162
@@ -10373,13 +10772,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ed0b2056997544e89e40ab34b88236babc7ccc4939ff38de4d33eb7011bfa17b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Algirdas (Lietuvos valdovas): 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekste nurodoma, kad kryžiuočiai leidosi į derybas su Algirdu; vėliau minima taikos sutartis.
     - t-146
 
 - c-163
@@ -10442,13 +10841,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Prūsijos magistras su broliais užbaigia statyti pilį, kuri tame pačiame fragmente pavadinama Štarkenbergu.
     - t-229
 
 - c-165
@@ -10544,13 +10943,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 32331-32720; hash=275e5fe5c732d96bb5d9b8ebd2022de9362728c70ad8f996cdc410378ad5e5c4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordinas tiesiogiai nurodytas nukariavęs prūsus.
     - t-033
 
 - c-169
@@ -10606,13 +11005,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 567800-568716; hash=b85cc0f2bbb089e8bd4fc194a46df754b141393598e2fa40048c670fccadf7ca; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gerhardas (valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gerhardas (valdovas): mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gerhardas (valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai teigia, kad Gerhardas atvyko į Prūsiją.
     - t-147
 
 - c-171
@@ -10634,13 +11033,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Jordanas iš Pelplino minimas tarp asmenų, stojusių ginti kryžiuočių.
     - t-218
 
 - c-172
@@ -10817,13 +11216,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2c6fca22587b9f760a3fbd8ca7c6c614fdfa8a9846a14134cdc3ff78ee915bc5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino riterių smūgis Lietuvai reiškia karinį veiksmą prieš Lietuvą.
     - t-073
     - t-015
 
@@ -10850,13 +11249,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27aa88b058fe6a8baa565e5924bdfed11bafacc92ff415070bbc572a352fe2e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Ordino žygius į Lietuvą.
     - t-148
 
 - c-180
@@ -11079,14 +11478,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc1e052bc75febcab2942b414b45e0b72d165c721324307277f688ef3f60fc70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mozūrija: 0.99
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.84
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_after_title, group, gap=40
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Dauguva: candidate; Kulmas: candidate; Prūsai: candidate; Vysla: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dauguva.md", "selected": false, "strategy": "candidate", "title": "Dauguva", "type": "place"}, {"distance_to_predicate": 63, "match_index": 82, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 97, "match_index": 116, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordinas pajungė prūsus.
     - t-098
 
 - c-190
@@ -11137,13 +11535,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ordino brolis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ordino brolis: mention_match, thing, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Ordino brolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai minima Ordino užkariavimų Prūsijoje argumentacija.
     - t-104
 
 - c-192
@@ -11317,13 +11715,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=542b0b51807a32dc7ad2e532101ccc78b6c61a2016d60ede98ae60aa08d8c7bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordino pasiuntiniai dalyvavo Lucko suvažiavime, todėl palaikomas atvykimo į Lucką ryšys.
     - t-189
 
 - c-198
@@ -11350,13 +11748,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 270742-271781; hash=2d72a095326b7a45582202e00df24b8590a7e6753190d07b8e45b7f959c4fdf4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Kroicburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Ordino broliai pastatė Kroicburgo pilį.
     - t-018
 
 - c-199
@@ -11949,13 +12347,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d090b20132791bf63b319ec668680ccd80e4488ac4bf46a6698268a4b09bedcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pomeranija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Vancka: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vancka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Teutonų ordino broliai pasiliko Vanckos kraštą.
     - t-242
 
 - c-220
@@ -12481,13 +12879,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 752026-753024; hash=c90ac7a1dc953e6144d4ae7eb2436d2c58b248f7f03680d96ee10dafee061598; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Višogrudas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Višogrudas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Ordino kariuomenė apsupo Višogrudo pilį.
     - t-263
 
 - c-240
@@ -12537,13 +12935,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417208-417782; hash=83de1754370acad8740e596245a0a7c49e6d63e7b64c0b0c149712d1e675ab14; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas teigia, kad Rygos miestiečiai patikėjo miestą Teutonų ordino magistrui ir broliams.
     - t-265
 
 - c-242
@@ -12573,13 +12971,13 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 492253-492468; hash=d9026856cca4b609abd394f2ebc2053f82698d9b185074e18f6c6934ba72ec77; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas iš Endorfo: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=7
-  ryšio_targeto_parinkimas: Jonas iš Endorfo: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Jonas iš Endorfo" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-266
 
 - c-243
@@ -12802,35 +13200,353 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 417208-417782; hash=83de1754370acad8740e596245a0a7c49e6d63e7b64c0b0c149712d1e675ab14; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių ordinas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Jogaila sudarė sutartis su kryžiuočiais.
     - t-275
   irodymo_stiprumas: 0.00
   saltinio_vieta: 492253-492468; hash=d9026856cca4b609abd394f2ebc2053f82698d9b185074e18f6c6934ba72ec77; match=whitespace_regex
   sprendimo_priezastis: auto
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] kariavo_pries Kryžiuočių ordinas
-- Kryžiuočių ordinas gyveno [[objektai/vietos/Vilnius]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Vengrija]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Dobė]]
+- Kryžiuočių ordinas apgule [[objektai/vietos/Bisenė]]
+- Kryžiuočių ordinas gyne [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Žemaitija]]
+- [[objektai/grupes/Kalavijuočių ordinas]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas pastate [[objektai/vietos/Kristburgas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Christmemelio pilis|Christmemelio pilis (pilis)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Dobrynė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Lietuva]]
+- Kryžiuočių ordinas puole [[objektai/asmenys/Skirgaila]]
 - Kryžiuočių ordinas uzeme [[objektai/vietos/Baiga]]
-- [[objektai/asmenys/Vytenis]] kariavo_pries Kryžiuočių ordinas
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Mozūrija]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Veliuona]]
-- [[objektai/asmenys/Aleksandras V]] reme Kryžiuočių ordinas
-- [[objektai/asmenys/Gregorijus XII]] reme Kryžiuočių ordinas
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Austrija]]
-- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Kryžiuočių ordinas
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Barleta]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Dobrynė]]
+- [[objektai/asmenys/Paulius iš Olivos]] gyne Kryžiuočių ordinas
+- [[objektai/vietos/Santoko pilis Dobrine]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Sudargas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] sudare_sutarti_su Kryžiuočių ordinas
+- Kryžiuočių ordinas pastate [[objektai/vietos/Georgenburgas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Kroicburgas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Marienverderis]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Bisenė]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Lietuva]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
 - Kryžiuočių ordinas uzeme [[objektai/vietos/Kernavė]]
+- [[objektai/grupes/Livonijos ordinas]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Švitrigaila]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Jordanas iš Pelplino]] reme Kryžiuočių ordinas
+- [[objektai/vietos/Klaipėda]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Kaunas]]
+- Kryžiuočių ordinas apgule [[objektai/vietos/Trakai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Elbingas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Gotesverderis]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Lietuviai]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Veliuona]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Prūsija]]
+- Kryžiuočių ordinas uzkariavo [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Lietuviai]] puole Kryžiuočių ordinas
+- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Paulius iš Olivos]] reme Kryžiuočių ordinas
+- [[objektai/vietos/Sūduva]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Vytenis]] puole Kryžiuočių ordinas
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/vietos/Žemaitija]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Žemaičių kraštas|Žemaičių kraštas (kraštas)]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
+- Kryžiuočių ordinas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Malburgas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Rezlis]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Torunė]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Vizenburgas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Kimelis]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Lenkai]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Vilnius]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Maišiagala]]
 - [[objektai/grupes/Lietuviai]] kariavo_pries Kryžiuočių ordinas
-- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Sventopelkas]] sudare_sutarti_su Kryžiuočių ordinas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Kryžiuočių ordinas
-- Kryžiuočių ordinas susije_su [[objektai/asmenys/Jonas iš Endorfo]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Kryžiuočių ordinas
+- [[objektai/asmenys/Gediminas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Herkus Mantas]] kariavo_pries Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Višogrudas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Metenburgas]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Pamaris]]
+- [[objektai/vietos/Prūsai]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] puole Kryžiuočių ordinas
+- Kryžiuočių ordinas kariavo_pries [[objektai/grupes/Lenkai]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Prūsija]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Dubingiai]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Medininkai]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Šešuoliai]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Žemaičiai]]
+- Kryžiuočių ordinas siunte_i [[objektai/vietos/Lenkija]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Vaikiai]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Vilnius]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Jurbarkas]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Pršemyslas Otokaras II]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/grupes/Anglų riteriai]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/vietos/Drezdenka]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Vilnius]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- Kryžiuočių ordinas gyne [[objektai/vietos/Drevenca]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Livonija]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Papartėnai]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Ukmergės apylinkė]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Ventės ragas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Aukaimis]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Gardinas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Karšuva]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Kaunas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Medininkų žemė]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Barta]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Naujasis Kaunas]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Pomeranija]]
+- Kryžiuočių ordinas uzkariavo [[objektai/vietos/Prūsai]]
+- Kryžiuočių ordinas valde_teritorija [[objektai/vietos/Vancka]]
+- [[objektai/vietos/Kulmas]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Kulmija]] priklause Kryžiuočių ordinas
+- [[objektai/daiktai/Laivai]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Lenkai]] puole Kryžiuočių ordinas
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Kryžiuočių ordinas
+- [[objektai/grupes/Livonijos ordinas]] reme Kryžiuočių ordinas
+- [[objektai/vietos/Lubava]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Pipinas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Sudargas]] puole Kryžiuočių ordinas
+- [[objektai/grupes/Sūduviai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Pilėnai]]
+- Kryžiuočių ordinas siunte_i [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Sventopelkas]] puole Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Peštvė]]
+- Kryžiuočių ordinas buvo_sajungininkas_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- Kryžiuočių ordinas gyveno [[objektai/vietos/Baiga]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Medininkų valsčius]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pagraudė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pamedė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Peštvė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pograuda]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Upytės pavietas]]
+- [[objektai/asmenys/Leopoldas]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Švitrigaila]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/vietos/Baiga]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Burcos žemė]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Elbingas]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas puole [[objektai/vietos/Kymel]]
+- [[objektai/grupes/Kuršiai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/vietos/Livonija]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Žiemgaliai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Gediminas]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/grupes/Kalavijuočių ordinas]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/vietos/Karaliaučius]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas kariavo_pries [[objektai/grupes/Sembai]]
+- Kryžiuočių ordinas pastate [[objektai/daiktai/Malūnas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Dubysa]]
+- Kryžiuočių ordinas puole [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Mederaba]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Semba]]
+- Kryžiuočių ordinas reme [[objektai/asmenys/Andrius Vingaudas]]
+- Kryžiuočių ordinas reme [[objektai/asmenys/Pelužis]]
+- Kryžiuočių ordinas sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Ašmena]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Klaipėda]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Veliuona]]
+- Kryžiuočių ordinas uzkariavo [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Lenkai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/vietos/Marienburgas]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Kryžiuočių ordinas
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/grupes/Pranciškonų ordinas]] reme Kryžiuočių ordinas
+- [[objektai/vietos/Rusnė]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Rygiečiai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/vietos/Heilsbergas]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/asmenys/Jurgis Butrimas]] reme Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Veliuona]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Trakai]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pernarava]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pomeranija]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Varniai]]
+- Kryžiuočių ordinas reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Eiguliai]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Kimelis]]
+- [[objektai/asmenys/Mata]] reme Kryžiuočių ordinas
+- [[objektai/vietos/Michalovos žemės]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Rumbaudas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Sventopelkas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Vytenis]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/asmenys/Falkenbergas]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Gediminas]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Martynas iš Golino]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Skirgaila]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/grupes/Bartai]] kariavo_pries Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
+- Kryžiuočių ordinas buvo_priesas [[objektai/asmenys/Gediminas]]
+- Kryžiuočių ordinas buvo_priesas [[objektai/grupes/Lenkai]]
+- Kryžiuočių ordinas buvo_priesas [[objektai/grupes/Lietuviai]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- Kryžiuočių ordinas gyne [[objektai/grupes/Totoriai]]
+- Kryžiuočių ordinas kariavo_pries [[objektai/asmenys/Karigaila]]
+- Kryžiuočių ordinas kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas kariavo_pries [[objektai/grupes/Žemaičiai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Bajerburgas]]
+- Kryžiuočių ordinas priklause [[objektai/vietos/Lenkija]]
+- Kryžiuočių ordinas puole [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Gaižuva]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pačtuva]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Pieštvė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Tervetė]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Varniai]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Aukaimis]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Putvė]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Zlotorija]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Nameisis]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Nodamas]] puole Kryžiuočių ordinas
+- [[objektai/vietos/Ragainė]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Rygiečiai]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/asmenys/Vladislovas Jogaila]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/vietos/Žemaičių žemė]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Nemunas]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Bajerburgo pilis]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Pieštvė]]
+- [[objektai/vietos/Spitenbergas]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Žiemgaliai]] buvo_priesas Kryžiuočių ordinas
+- Kryžiuočių ordinas puole [[objektai/vietos/Kernavė]]
+- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/vietos/Ariogala]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Fridbergas Vytėnai]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Kolainių pilis|Kolainių pilis (pilis)]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Konradas]] paskyre Kryžiuočių ordinas
+- Kryžiuočių ordinas buvo_sajungininkas_su [[objektai/grupes/Vytauto šalininkai]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- Kryžiuočių ordinas gyveno [[objektai/vietos/Burcos žemė]]
+- Kryžiuočių ordinas gyveno [[objektai/vietos/Vartenbergas]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Svecė]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Trapėnai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Štarkenbergas]]
+- Kryžiuočių ordinas puole [[objektai/asmenys/Divanas]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Ryga]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Sūduvos prūsai]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Totoriai]]
+- Kryžiuočių ordinas reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Kryžiuočių ordinas siunte_i [[objektai/vietos/Gardinas]]
+- Kryžiuočių ordinas sudare_sutarti_su [[objektai/asmenys/Germantas]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Kaunas]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
+- Kryžiuočių ordinas uzkariavo [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Nemunas]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Prūsija]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Sedlcai]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas puole [[objektai/vietos/Upytė]]
+- [[objektai/grupes/Rygos miestiečiai]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/grupes/Baltai]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Fridrichas II]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Karolis Tryrietis]] gyne Kryžiuočių ordinas
+- Kryžiuočių ordinas pastate [[objektai/vietos/Marijenburgas]]
+- Kryžiuočių ordinas puole [[objektai/asmenys/Dabaras]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Eigulių pilis|Eigulių pilis (pilis)]]
+- [[objektai/grupes/Lenkai]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_priesas Kryžiuočių ordinas
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Gotardas Ketleris]] buvo_valdovas Kryžiuočių ordinas
+- Kryžiuočių ordinas apgule [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Kvedenava]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Prūsija]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Ariogala]]
+- Kryžiuočių ordinas puole [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Palenkė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Vaikiai]]
+- Kryžiuočių ordinas sudare_sutarti_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Kolainiai]]
+- [[objektai/asmenys/Mikalojus Moskoževskis]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Nodamas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/vietos/Šešupė]] priklause Kryžiuočių ordinas
+- [[objektai/vietos/Kulmo žemė]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Anglai]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/asmenys/Fridrichas II]] paskyre Kryžiuočių ordinas
+- [[objektai/asmenys/Jazbutas]] puole Kryžiuočių ordinas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/vietos/Kaunas]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas buvo_priesas [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- Kryžiuočių ordinas gyveno [[objektai/vietos/Bajerburgas]]
+- Kryžiuočių ordinas kariavo_pries [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Šiauliai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Baiga]]
+- Kryžiuočių ordinas pastate [[objektai/daiktai/Mūrinė pilis]]
+- Kryžiuočių ordinas prekiavo_su [[objektai/vietos/Europa]]
+- Kryžiuočių ordinas priklause [[objektai/vietos/Bartenšteinas]]
+- Kryžiuočių ordinas reme [[objektai/asmenys/Švitrigaila]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Mederaba]]
+- [[objektai/vietos/Panemunė]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Surminas]] kariavo_pries Kryžiuočių ordinas
+- [[objektai/asmenys/Vaclovas]] reme Kryžiuočių ordinas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Kryžiuočių ordinas
+- [[objektai/grupes/Žemaičiai]] prekiavo_su Kryžiuočių ordinas
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Ryga]] priklause Kryžiuočių ordinas
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Pamedė]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Pilaitė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Drohičinas]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia]]
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Kryžiuočių ordinas
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Dubysa]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Įsrutis]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Šalčininkai]]
+- Kryžiuočių ordinas gyne [[objektai/vietos/Prūsija]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Alna]]
+- Kryžiuočių ordinas priklause [[objektai/vietos/Nemunas]]
+- Kryžiuočių ordinas puole [[objektai/grupes/Rygos kapitula]]
+- [[objektai/vietos/Lietuva]] priklause Kryžiuočių ordinas
+- [[objektai/grupes/Žiemgaliai]] priklause Kryžiuočių ordinas
+- [[objektai/asmenys/Aleksandras V]] buvo_priesas Kryžiuočių ordinas
+- Kryžiuočių ordinas gyne [[objektai/vietos/Trakai]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Livonija]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Prūsai]]
+- [[objektai/asmenys/Derska]] buvo_sajungininkas_su Kryžiuočių ordinas
+- [[objektai/asmenys/Zbignievas Olesnickis]] puole Kryžiuočių ordinas
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]] buvo_priesas Kryžiuočių ordinas
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
+- Kryžiuočių ordinas pastate [[objektai/vietos/Skalvos žemė]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Ašmena]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Livonija]]
+- Kryžiuočių ordinas puole [[objektai/vietos/Prūsai]]
+- [[objektai/asmenys/Paulius Rusdorfas]] sudare_sutarti_su Kryžiuočių ordinas
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]] reme Kryžiuočių ordinas
+- Kryžiuočių ordinas priklause [[objektai/vietos/Jeruzalė]]
+- Kryžiuočių ordinas puole [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- Kryžiuočių ordinas uzeme [[objektai/vietos/Prieglius]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] reme Kryžiuočių ordinas
+- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Luckas]]
+- Kryžiuočių ordinas surenge_zygi_i [[objektai/vietos/Ragainė]]

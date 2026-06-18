@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-67016
   teiginys: '1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai pagrįstas citata apie 1409 m. sukilimo veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Skirsnemunė'
+  susije_objektai: 'llm_object: Skirsnemunė; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Skirsnemunė'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai pagrįstas citata apie 1409 m. sukilimo veiksmus.'

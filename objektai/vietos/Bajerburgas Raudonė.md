@@ -31,7 +31,7 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   global_id: t-86002
   teiginys: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinėje pretenzijoje buvo puslapio triukšmo ir nutrūkusi sintaksė.'
-  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Bajerburgas'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o pradinėje pretenzijoje buvo puslapio triukšmo ir nutrūkusi sintaksė.'
@@ -59,13 +59,13 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajerburgas Raudonė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas Raudonė" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bajerburgas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas su kariuomene pasiekė Bajerburgą ir ten sustojo.
 
 <a id="claim-t-86004"></a>
 - t-003
@@ -215,10 +215,10 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajerburgas Raudonė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajerburgas Raudonė" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bajerburgas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas su kariuomene pasiekė Bajerburgą ir ten sustojo.

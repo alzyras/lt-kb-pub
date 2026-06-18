@@ -30,7 +30,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Živinbudas|Živinbudas]]; llm_object: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Pajauta|Pajauta]] buvo žmona [[objektai/asmenys/Živinbudas|Živinbudas]]; [[objektai/asmenys/Živinbudas|Živinbudas]] vedė [[objektai/asmenys/Pajauta|Pajauta]]'
   temporaliniai_duomenys: 'įvykio data: 1089 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių.'
@@ -39,13 +40,16 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pajauta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pajauta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Živinbudas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pajauta atiduota Živinbudui į žmonas.
+- susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
+- susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
+- susijęs iš Žaslių ežeras: Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
 - susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
@@ -80,10 +84,16 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pajauta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pajauta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Živinbudas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Živinbudas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pajauta atiduota Živinbudui į žmonas.
+
+## Ryšiai
+- Pajauta buvo_dukte [[objektai/asmenys/Kernius]]
+- [[objektai/asmenys/Kukovaitis]] buvo_sunus Pajauta
+- Pajauta buvo_zmona [[objektai/asmenys/Živinbudas]]
+- [[objektai/asmenys/Živinbudas]] vede Pajauta

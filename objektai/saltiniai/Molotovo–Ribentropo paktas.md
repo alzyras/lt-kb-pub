@@ -145,7 +145,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   global_id: t-24565
   teiginys: '1940 m. birželio 15 d., realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupavo ir aneksavo Lietuvos Respubliką.'
   sudarymo_pagrindimas: 'Teiginys perrašytas iš lentelės fragmento į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas iš lentelės fragmento į pilną sakinį.'

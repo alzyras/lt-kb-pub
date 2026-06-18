@@ -39,7 +39,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   global_id: t-182828
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Baltija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 
@@ -48,7 +48,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   global_id: t-182830
   teiginys: '1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį su papildoma svarbia detale apie 44 brolius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Natanga; mentioned_place: Vilniaus pilis; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas Aldenburgas|Tomas Aldenburgas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Natanga; mentioned_place: Vilniaus pilis; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas Aldenburgas|Tomas Aldenburgas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį su papildoma svarbia detale apie 44 brolius.'
@@ -63,7 +63,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, vietą ir laiką.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Vėluva; llm_object: Dobrynė'
   pagrindžia:
     - c-004
 
@@ -75,7 +75,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-005
 
@@ -87,7 +88,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena; mentioned_place: Baiga'
+  susije_objektai: 'llm_object: Baiga; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena; mentioned_place: Baiga'
   pagrindžia:
     - c-006
 
@@ -114,7 +115,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas į pilną sakinį be nutrūkusio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; llm_object: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-008
 
@@ -126,7 +128,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškius įvardžius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Viena; llm_object: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] siuntė į Semba'
   pagrindžia:
     - c-009
 
@@ -150,7 +153,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškia laiko nuoroda, todėl perrašytas į savarankišką sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]'
+  susije_objektai: 'llm_object: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-011
 
@@ -162,7 +166,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas apie Sembą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rudava; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rudava; llm_object: Semba; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: Rudava'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-012
 
@@ -201,7 +206,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: Semba; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] puolė Semba'
   pagrindžia:
     - c-014
 
@@ -219,10 +225,44 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir antraštės triukšmas, palikta šaltinio remiama faktinė esmė.'
   pagrindžia:
     - c-015
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
+- susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą.md#claim-t-62493|Sūduvių ir lietuvių antpuolis prieš Sembą]]: Sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembą, dešimt dienų degindami sodybas bei kitą už pilių buvusį turtą.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš Vėluva: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.
+- susijęs iš [[objektai/autoriai/Voigt J.md#claim-t-64867|Voigt J]]: J. Voigtas cituojamas dėl Romuvos paieškų ir Romehnen vietovės Semboje siejimo su šventa kulto vieta.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89249|Sūduviai]]: Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
+- susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
+- susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62918|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš Žemaitija: Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
+- susijęs iš [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.).md#claim-t-31432|Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]: 1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+- susijęs iš Romehnen: Vėlesnė Romehnen Semboje (jos vak.
+- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
+- susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175113|Sūduviai-jotvingiai]]: Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-183909|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių kariuomenė beveik 14 dienų žygiavo per Sembą nuo vieno pasienio iki kito ir atsitraukdama patyrė sunkių nuostolių.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
+- susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo.md#claim-t-62247|Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]: Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.
+- susijęs iš [[objektai/ivykiai/Žemaičių žygis į Sembą (1308 m.).md#claim-t-185843|Žemaičių žygis į Sembą (1308 m.)]]: 1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.
+- susijęs iš [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams.md#claim-t-62180|Žirgų plauko spalvos tabu iš pagarbos dievams]]: Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
+- susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
+- susijęs iš Rinava: Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90004|Pelužis]]: Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
-- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89388|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.
-- susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179309|Lietuviai]]: Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.).md#claim-t-185734|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]: Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.
+- susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
+- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
+- susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59834|Ditrichas (Sembos fogtas)]]: Ditrichas Sembos fogtu buvo 1278-1292 m.
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
@@ -327,6 +367,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
 - susijęs iš Žemaitija: Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje.
 - susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42511|stabmeldys]]: Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.
+- susijęs iš Klaipėda: 1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
+- susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.).md#claim-t-89407|Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]: 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
@@ -553,6 +595,28 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42523|vyskupo teisėjas]]: Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
 - susijęs iš [[objektai/zodynas/šikšnogalis diržas.md#claim-t-58932|šikšnogalis diržas]]: Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172978|Vygandas Marburgietis]]: Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.
+- susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
+- susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
+- susijęs iš Kuršas: Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.
+- susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
+- susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
+- susijęs iš Fišhauzenas: Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje.
+- susijęs iš Medenava: Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.
+- susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
+- susijęs iš Lochštetė: Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.
+- susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
+- susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
+- susijęs iš [[objektai/autoriai/Faber K.md#claim-t-60698|Faber K]]: Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.
+- susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
+- susijęs iš Abenda: Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje.
+- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
+- susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
+- susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
+- susijęs iš Aistmarios: Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -858,5 +922,37 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-015
 
 ## Ryšiai
+- Semba priklause [[objektai/vietos/Žemaitija]]
+- [[objektai/grupes/Lietuviai]] puole Semba
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Semba
+- [[objektai/grupes/Sūduviai]] puole Semba
+- [[objektai/grupes/Skalviai]] puole Semba
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Semba
+- [[objektai/grupes/Nadruviai]] puole Semba
+- [[objektai/vietos/Romehnen]] priklause Semba
+- [[objektai/asmenys/Gediminas]] puole Semba
+- [[objektai/asmenys/Dargis]] gyveno Semba
+- [[objektai/asmenys/Henrikas Stange]] surenge_zygi_i Semba
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Semba
+- [[objektai/vietos/Pabečiai]] priklause Semba
+- [[objektai/vietos/Rinava]] priklause Semba
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]] puole Semba
+- [[objektai/grupes/Žemaičiai]] puole Semba
 - [[objektai/grupes/Livonijos ordinas]] keliavo_i Semba
 - [[objektai/asmenys/Pelužis]] keliavo_i Semba
+- [[objektai/asmenys/Vytenis]] puole Semba
+- [[objektai/asmenys/Henrikas Stange]] puole Semba
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Semba
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Semba
+- [[objektai/asmenys/Otokaras II]] puole Semba
+- [[objektai/grupes/Sūduviai]] surenge_zygi_i Semba
+- [[objektai/grupes/Vokiečiai]] puole Semba
+- [[objektai/asmenys/Konradas]] gyne Semba
+- [[objektai/vietos/Lochštetė]] priklause Semba
+- [[objektai/vietos/Fišhauzenas]] priklause Semba
+- [[objektai/vietos/Medenava]] priklause Semba
+- [[objektai/asmenys/Konradas]] siunte_i Semba
+- [[objektai/asmenys/Laukstetas]] gyveno Semba
+- [[objektai/vietos/Abenda]] priklause Semba
+- [[objektai/asmenys/Glapas]] puole Semba
+- [[objektai/vietos/Aistmarios]] priklause Semba

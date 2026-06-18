@@ -53,6 +53,7 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
 - susijęs iš Podolė: Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.
 - susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
 - susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,3 +86,6 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
   ryšio_subjekto_parinkimas: Parčevas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parčevas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Parčevas

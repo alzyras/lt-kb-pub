@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus įvykio teiginys.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polona'
+  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polona'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 611932-612541; hash=dd5277ee0029a57875b73178287cdda652cde31d552ea6e81ce5436f2940f4b1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Smolensko prijungimas prie Lietuvos apgaunant Glėbą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolensko prijungimas prie Lietuvos apgaunant Glėbą" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 611932-612541; hash=dd5277ee0029a57875b73178287cdda652cde31d552ea6e81ce5436f2940f4b1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Smolensko prijungimas prie Lietuvos apgaunant Glėbą: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolensko prijungimas prie Lietuvos apgaunant Glėbą" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską.

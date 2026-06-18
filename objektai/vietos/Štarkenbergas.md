@@ -41,20 +41,21 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44248db3811fad85b4630d5d78510a0e957b73833839265ac392dc095b1b7a52; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.83
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim priskiria įsakymą didžiajam magistrui, nors kandidato pavadinimas nėra tas pats kaip Anonas.
 
 <a id="claim-t-58491"></a>
 - t-002
   global_id: t-58491
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies statybos įsakymą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Štarkenbergas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] pastatė Štarkenbergas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -96,6 +97,11 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui.md#claim-t-91912|Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]: Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas.
 - susijęs iš Štraisbergas: Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58798|pilėnas pilėnai]]: Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178898|Kryžiuočių ordinas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje.
+- susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-183975|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.
+- susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-89424|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.
+- susijęs iš [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas.md#claim-t-89425|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]: Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.
+- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58798|pilėnas pilėnai]]: Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -135,13 +141,13 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44248db3811fad85b4630d5d78510a0e957b73833839265ac392dc095b1b7a52; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.83
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim priskiria įsakymą didžiajam magistrui, nors kandidato pavadinimas nėra tas pats kaip Anonas.
     - t-002
 
 - c-003
@@ -183,3 +189,8 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   ryšio_subjekto_parinkimas: Štarkenbergas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Marija: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergas" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Štarkenbergas
+- [[objektai/grupes/Teutonai]] pastate Štarkenbergas
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] pastate Štarkenbergas

@@ -40,20 +40,20 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: kariavo_pries -> Algirdas (Lietuvos valdovas): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Karinio susidūrimo aprašymas prie Strėvos rodo Kryžiuočių ordino priešpriešą Algirdo kariuomenei.
 
 <a id="claim-t-69973"></a>
 - t-002
   global_id: t-69973
   teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Strėva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Strėva; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: po 1351 m.; įvykio data: 1351 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -123,13 +123,13 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: kariavo_pries -> Algirdas (Lietuvos valdovas): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Karinio susidūrimo aprašymas prie Strėvos rodo Kryžiuočių ordino priešpriešą Algirdo kariuomenei.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4a76e4cf7a278e9efd307147396fffadac962dbc2f8f3ced39c46f09c5644fd2; match=fallback; occurrences=0

@@ -30,7 +30,7 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   global_id: t-47471
   teiginys: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
   sudarymo_pagrindimas: 'Pašalinta fragmentiška konstrukcija ir daugtaškis.'
-  susije_objektai: 'mentioned_place: Paryžius; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; llm_object: Paryžius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
@@ -59,6 +59,12 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
 - susijęs iš Paryžius: Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.
 - susijęs iš Rokiškis: Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78707|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78711|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą.
+- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
+- susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
+- susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
+- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,3 +78,9 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] puole Zarasai
+- [[objektai/grupes/Ukmergės rinktinė]] keliavo_i Zarasai
+- [[objektai/asmenys/K. Ladyga]] siunte_i Zarasai
+- [[objektai/asmenys/A. Voldemaras]] keliavo_i Zarasai

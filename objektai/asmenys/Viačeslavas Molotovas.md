@@ -40,13 +40,13 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cda34d05003c854e22e0e31a4d1edfd41534939b60f2977d01ff76597cc8339d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viačeslavas Molotovas" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos teritorija pateko į SSRS įtakos sferą.
 
 <a id="claim-t-64237"></a>
 - t-002
@@ -72,7 +72,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   global_id: t-64238
   teiginys: '1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir perkrautas, bet citata pagrindžia sutrumpintą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys; llm_object: [[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]] paskyrė [[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir perkrautas, bet citata pagrindžia sutrumpintą faktą.'
@@ -116,7 +117,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   global_id: t-64240
   teiginys: '1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi šaltinio fragmentų, bet citata leidžia suformuluoti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Liublinas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Liublinas; mentioned_place: Vokietija; llm_object: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi šaltinio fragmentų, bet citata leidžia suformuluoti pilną faktą.'
@@ -125,13 +126,13 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c349383807d03dd314aebb7c5d0fbda125e02da11fcd12fea447353551b09d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumas: paskyre -> Juozas Urbšys: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viačeslavas Molotovas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Molotovas tiesiogiai įteikė ultimatumą Urbšiui, tačiau relation_kind tik apytikriai atitinka politinį veiksmą.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66771|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169961|Antanas Merkys]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.
 - susijęs iš Maskva: Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą.
@@ -234,13 +235,13 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c349383807d03dd314aebb7c5d0fbda125e02da11fcd12fea447353551b09d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumas: paskyre -> Juozas Urbšys: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viačeslavas Molotovas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Molotovas tiesiogiai įteikė ultimatumą Urbšiui, tačiau relation_kind tik apytikriai atitinka politinį veiksmą.
     - t-003
 
 - c-005
@@ -273,10 +274,13 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cda34d05003c854e22e0e31a4d1edfd41534939b60f2977d01ff76597cc8339d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viačeslavas Molotovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viačeslavas Molotovas" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos teritorija pateko į SSRS įtakos sferą.
+
+## Ryšiai
+- Viačeslavas Molotovas paskyre [[objektai/asmenys/Juozas Urbšys]]

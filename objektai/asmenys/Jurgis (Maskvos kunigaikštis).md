@@ -23,21 +23,19 @@ tags:
   global_id: t-87738
   teiginys: 'Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Jurgio išsigelbėjimą su Švitrigaila.'
-  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis (Maskvos kunigaikštis)|Jurgis (Maskvos kunigaikštis)]] buvo valdovas Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 446937-447389; hash=d9ecc286ba5c2ba03e56c953aef7342a1acbbd0c2f17788c1c299d34518dedf6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Jurgis (Maskvos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Mstislavlis: candidate; Silezija: candidate; Ukmergė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Jurgis (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mstislavlis.md", "selected": false, "strategy": "candidate", "title": "Mstislavlis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Silezija.md", "selected": false, "strategy": "candidate", "title": "Silezija", "type": "place"}, {"distance_to_predicate": 94, "match_index": 103, "path": "objektai/vietos/Ukmergė.md", "selected": false, "strategy": "candidate", "title": "Ukmergė", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Ukmergė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,14 +59,10 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 446937-447389; hash=d9ecc286ba5c2ba03e56c953aef7342a1acbbd0c2f17788c1c299d34518dedf6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Jurgis (Maskvos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Mstislavlis: candidate; Silezija: candidate; Ukmergė: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Jurgis (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mstislavlis.md", "selected": false, "strategy": "candidate", "title": "Mstislavlis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Silezija.md", "selected": false, "strategy": "candidate", "title": "Silezija", "type": "place"}, {"distance_to_predicate": 94, "match_index": 103, "path": "objektai/vietos/Ukmergė.md", "selected": false, "strategy": "candidate", "title": "Ukmergė", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Jurgis (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
+  ryšio_patikimumas: susije_su -> Ukmergė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

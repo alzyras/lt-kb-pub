@@ -35,19 +35,20 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginys: 'Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir perteklinis šaltinio įvadas.'
-  susije_objektai: 'location: Ispanija; mentioned_person: [[objektai/asmenys/Almimolinas|Almimolinas]]; mentioned_place: Ispanija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Saracėnai|Saracėnai]]; llm_object: Ispanija; mentioned_person: [[objektai/asmenys/Almimolinas|Almimolinas]]; mentioned_place: Ispanija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Almimolinas|Almimolinas]] buvo valdovas [[objektai/grupes/Saracėnai|Saracėnai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694037-694443; hash=a9378459d9bdf4c7e70585e496075215b76fb9a7bd77fcc009abc4674ab167eb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ispanija: 0.93
+  ryšio_patikimumas: buvo_valdovas -> Saracėnai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Almimolinas: nearest_actor, person, gap=33
-  ryšio_targeto_parinkimas: Ispanija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Almimolinas" parinktas kaip nearest_actor. Targetas "Ispanija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Almimolinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste Almimolinas tiesiogiai vadinamas saracėnų valdovu.
 
 <a id="claim-t-63211"></a>
 - t-002
@@ -88,6 +89,8 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   ryšio_subjekto_parinkimas: Saracėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=56
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saracėnai" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
+- susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/asmenys/Ferdinandas (Kastilijos karalius).md#claim-t-60114|Ferdinandas (Kastilijos karalius)]]: Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55045|Mūro sienos ir miesto sienos]]: Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.
@@ -118,6 +121,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54794|Municipalinė teisėtvarka]]: Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
+- susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -154,13 +158,13 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   irodymo_stiprumas: 0.00
   saltinio_vieta: 694037-694443; hash=a9378459d9bdf4c7e70585e496075215b76fb9a7bd77fcc009abc4674ab167eb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ispanija: 0.93
+  ryšio_patikimumas: buvo_valdovas -> Saracėnai: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Almimolinas: nearest_actor, person, gap=33
-  ryšio_targeto_parinkimas: Ispanija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Almimolinas" parinktas kaip nearest_actor. Targetas "Ispanija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Almimolinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste Almimolinas tiesiogiai vadinamas saracėnų valdovu.
     - t-002
 
 - c-003
@@ -205,3 +209,15 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   ryšio_subjekto_parinkimas: Saracėnai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=56
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saracėnai" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Almimolinas]] buvo_valdovas Saracėnai
+- Saracėnai uzkariavo [[objektai/vietos/Ispanija]]
+- Saracėnai uzeme [[objektai/vietos/Maljorka]]
+- Saracėnai uzeme [[objektai/vietos/Menorka]]
+- [[objektai/grupes/Krikščionys]] kariavo_pries Saracėnai
+- Saracėnai valde [[objektai/vietos/Maljorka]]
+- Saracėnai valde [[objektai/vietos/Menorka]]
+- [[objektai/grupes/Totoriai]] puole Saracėnai
+- Saracėnai puole [[objektai/vietos/Italija]]
+- [[objektai/grupes/Armėnai]] kariavo_pries Saracėnai

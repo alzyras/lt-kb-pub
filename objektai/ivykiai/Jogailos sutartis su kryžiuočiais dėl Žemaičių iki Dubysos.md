@@ -44,7 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-66570
   teiginys: '1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Dubysa; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Dubysa; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -52,13 +52,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=058d288885b971ef7f143b791c55a749a7421991ac1ef88a08138831e0797270; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos sutartį su kryžiuočiais.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=058d288885b971ef7f143b791c55a749a7421991ac1ef88a08138831e0797270; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos sutartį su kryžiuočiais.

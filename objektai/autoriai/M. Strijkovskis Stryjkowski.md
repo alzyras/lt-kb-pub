@@ -77,13 +77,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128628-130752; hash=6e97b8e7faaee1626c9fe5cb26eab2a2c01605457c8a515e9e2e44aad5410036; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskis Stryjkowski" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus įkūrimas tekste aiškiai priskiriamas Gediminui.
 
 <a id="claim-t-172920"></a>
 - t-007
@@ -178,7 +178,7 @@ periodo_grupes:
   global_id: t-172931
   teiginys: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Strijkovskio užuominą į mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Sudervėlė; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Sudervėlė; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -197,7 +197,7 @@ periodo_grupes:
   global_id: t-172932
   teiginys: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio ir OCR triukšmas, paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Polockas; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Polockas; mentioned_place: Vorskla'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
@@ -216,7 +216,7 @@ periodo_grupes:
   global_id: t-172933
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   sudarymo_pagrindimas: 'Citata remia glaustą teiginį apie Strijkovskio kronikos pasakojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
@@ -254,7 +254,7 @@ periodo_grupes:
   global_id: t-172936
   teiginys: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie autoriaus netikslų tapatinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Nemunas; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Nemunas; mentioned_place: Smolenskas; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -637,13 +637,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128628-130752; hash=6e97b8e7faaee1626c9fe5cb26eab2a2c01605457c8a515e9e2e44aad5410036; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskis Stryjkowski" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vilniaus įkūrimas tekste aiškiai priskiriamas Gediminui.
     - t-007
 
 - c-007
@@ -970,13 +970,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskis Stryjkowski" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė apie lietuvių sumuštus kryžiuočius tiesiogiai rodo karinę priešpriešą.
     - t-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=157aa6df253ed7122b0ccce14d2be47c92d740c2001ebb32ea4ca3fbe8c89a4c; match=fallback; occurrences=0
@@ -992,24 +992,24 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266353-267108; hash=49d6d73ff348403cabb397da6e29e68bee764e2e31407578e6b81102034d658f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskis Stryjkowski" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aprašoma, kad kryžiuočių pajėgos prie Vilniaus apsupo miestą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=becd4b33642fd9208e4a8e462a98c5f057ef40d3ffb3017dbdc2d985a84e3a78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Strijkovskis Stryjkowski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Strijkovskis Stryjkowski" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Kęstutis puolė Vilnių.
     - t-008
 
 - c-015

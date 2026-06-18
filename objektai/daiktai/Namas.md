@@ -64,6 +64,11 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Namas: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kalnėnai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Namas" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
+- susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
+- susijęs iš [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu.md#claim-t-87081|Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams apsistoti.
+- susijęs iš [[objektai/zodynas/kustodas.md#claim-t-86532|kustodas]]: Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas, pardavęs karalienei Elenai paveldėtą sklypą Vilniaus pilyje.
 - susijęs iš [[objektai/asmenys/Andrejus Stankovičius.md#claim-t-87620|Andrejus Stankovičius]]: Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų.
 - susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173137|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.
@@ -333,6 +338,9 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/virvės ištempimas.md#claim-t-86626|virvės ištempimas]]: Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-183837|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-82136|činšas]]: Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.
+- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
+- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš Jeruzalė: Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -383,3 +391,24 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Namas: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Kalnėnai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Namas" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] pastate Namas
+- Namas priklause [[objektai/grupes/Savickiai]]
+- Namas priklause [[objektai/asmenys/Česchonis]]
+- Namas priklause [[objektai/grupes/Neliubovičiai]]
+- Namas priklause [[objektai/asmenys/Povilas Piestavičius]]
+- Namas priklause [[objektai/asmenys/Erazmas Bretneris]]
+- Namas priklause [[objektai/grupes/Zalivskiai]]
+- Namas priklause [[objektai/asmenys/Parulis]]
+- Namas priklause [[objektai/asmenys/Cimermanas]]
+- Namas priklause [[objektai/asmenys/Mikalojus Radvila]]
+- Namas priklause [[objektai/asmenys/Sebastijonas Vitinskis]]
+- [[objektai/asmenys/Celestinas III]] pastate Namas
+- Namas priklause [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
+- Namas priklause [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/asmenys/Popiežius Celestinas III]] pastate Namas
+- Namas priklause [[objektai/grupes/Teutonai]]
+- Namas priklause [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
+- Namas priklause [[objektai/asmenys/Paulius Bochenas]]
+- Namas priklause [[objektai/vietos/Valerijono bursos]]

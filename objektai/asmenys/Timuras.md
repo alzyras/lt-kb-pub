@@ -29,7 +29,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - t-001
   global_id: t-30397
   teiginys: 'Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Timuras|Timuras]] puolė [[objektai/asmenys/Tochtamišas|Tochtamišas]]; [[objektai/asmenys/Timuras|Timuras]] rėmė [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,13 +38,13 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c15562ccfce0d17794bec5997a321d048415cfc543aec2be7d099ded80f1fc14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tochtamišas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timuras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Tochtamišas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timuras" parinktas kaip owner_note_path. Targetas "Tochtamišas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tochtamišas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Timuras sumušė Tochtamišą.
 
 <a id="claim-t-30398"></a>
 - t-002
@@ -110,10 +111,15 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c15562ccfce0d17794bec5997a321d048415cfc543aec2be7d099ded80f1fc14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tochtamišas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Timuras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Tochtamišas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Timuras" parinktas kaip owner_note_path. Targetas "Tochtamišas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tochtamišas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Timuras sumušė Tochtamišą.
+
+## Ryšiai
+- Timuras puole [[objektai/asmenys/Tochtamišas]]
+- Timuras reme [[objektai/asmenys/Tochtamišas]]
+- Timuras kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -31,7 +31,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   global_id: t-60446
   teiginys: 'Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.'
   sudarymo_pagrindimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] buvo sūnus [[objektai/asmenys/Hertvigas|Hertvigas]]; [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] mirė Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
@@ -40,13 +41,13 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gebhardas iš Manstfeldo: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gebhardas iš Manstfeldo: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip owner_note_path. Targetas "Gebhardas iš Manstfeldo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Hertvigas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hertvigas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Tomas buvo Hertvigo sūnus.
 - susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
 - susijęs iš [[objektai/autoriai/A. Triller.md#claim-t-60668|A. Triller]]: A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.
 - susijęs iš [[objektai/autoriai/C. P. Woelky.md#claim-t-60682|C. P. Woelky]]: C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.
@@ -750,10 +751,15 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gebhardas iš Manstfeldo: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gebhardas iš Manstfeldo: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip owner_note_path. Targetas "Gebhardas iš Manstfeldo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Hertvigas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Hertvigas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Tomas buvo Hertvigo sūnus.
+
+## Ryšiai
+- Tomas (Hertvigo iš Pokarvių sūnus) buvo_sunus [[objektai/asmenys/Hertvigas]]
+- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Lenčica]]
+- Tomas (Hertvigo iš Pokarvių sūnus) mire [[objektai/vietos/Prūsija]]

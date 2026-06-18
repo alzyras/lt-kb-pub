@@ -43,19 +43,20 @@ Nenurodyta
   global_id: t-87089
   teiginys: 'XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo gremėzdiškas ir turėjo neenciklopedinių formuluočių.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Pilaitė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Pilaitė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Sudervėlė; mentioned_place: Vilnius; llm_object: Pilaitė'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė|Pilaitės malūnas, kalvė ir lentpjūvė]] priklausė Pilaitė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136201-136693; hash=73f8b67a120ad366043e6392d716a7eda828d62923e997e07ab98ab4dc44ba6b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: priklause -> Pilaitė: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės malūnas, kalvė ir lentpjūvė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės malūnas, kalvė ir lentpjūvė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilaitės malūnas, kalvė ir lentpjūvė: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim įvardija Pilaitės kaimą, o citata sako, kad tame kaime buvo malūnas, kalvė ir lentpjūvė.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +81,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136201-136693; hash=73f8b67a120ad366043e6392d716a7eda828d62923e997e07ab98ab4dc44ba6b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: priklause -> Pilaitė: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilaitės malūnas, kalvė ir lentpjūvė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitės malūnas, kalvė ir lentpjūvė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilaitės malūnas, kalvė ir lentpjūvė: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim įvardija Pilaitės kaimą, o citata sako, kad tame kaime buvo malūnas, kalvė ir lentpjūvė.
+
+## Ryšiai
+- Pilaitės malūnas, kalvė ir lentpjūvė priklause [[objektai/vietos/Pilaitė]]

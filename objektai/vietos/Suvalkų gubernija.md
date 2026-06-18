@@ -27,8 +27,8 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   global_id: t-15332
   teiginys: 'Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; owner: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Užnemunė'
-  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Suvalkų gubernija; Užnemunė priklausė Suvalkų gubernija'
+  susije_objektai: 'llm_object: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Užnemunė'
+  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Suvalkų gubernija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuva priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus faktas.'
@@ -37,14 +37,15 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5d2333bdab4ae779ddbf901464c02086a59b25ef72c6932ad6c4ba00be309ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Suvalkų gubernija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; locative_penalty
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Lietuvos Užnemunė: source_before_predicate, place, gap=18
-  ryšio_targeto_parinkimas: Suvalkų gubernija: owner_note_path, place, gap=10
-  ryšio_slopinti_kandidatai: Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lietuvos Užnemunė" parinktas kaip source_before_predicate. Targetas "Suvalkų gubernija" parinktas kaip owner_note_path aplink predikatą "priklause". Atmesti kandidatai: {"distance_to_predicate": 18, "match_index": 13, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, locative_penalty.
+  ryšio_patikimumas: priklause -> Suvalkų gubernija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Suvalkų gubernija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos Užnemunės priklausymą Suvalkų gubernijai.
+- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
+- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 ## Reikšmingi paminėjimai
@@ -67,15 +68,13 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5d2333bdab4ae779ddbf901464c02086a59b25ef72c6932ad6c4ba00be309ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Suvalkų gubernija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; locative_penalty
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Lietuvos Užnemunė: source_before_predicate, place, gap=18
-  ryšio_targeto_parinkimas: Suvalkų gubernija: owner_note_path, place, gap=10
-  ryšio_slopinti_kandidatai: Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lietuvos Užnemunė" parinktas kaip source_before_predicate. Targetas "Suvalkų gubernija" parinktas kaip owner_note_path aplink predikatą "priklause". Atmesti kandidatai: {"distance_to_predicate": 18, "match_index": 13, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, locative_penalty.
+  ryšio_patikimumas: priklause -> Suvalkų gubernija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos Užnemunė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Suvalkų gubernija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos Užnemunės priklausymą Suvalkų gubernijai.
 
 ## Ryšiai
 - [[objektai/vietos/Lietuvos Užnemunė]] priklause Suvalkų gubernija
-- [[objektai/vietos/Užnemunė]] priklause Suvalkų gubernija

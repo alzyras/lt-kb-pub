@@ -31,7 +31,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - t-001
   global_id: t-26605
   teiginys: 'Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_author: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Mindaugas Tamošaitis|Mindaugas Tamošaitis]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_author: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Mindaugas Tamošaitis|Mindaugas Tamošaitis]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Rusija'
   temporaliniai_duomenys: 'įvykio data: iki 2004 m.; įvykio data: 1009 m.; įvykio data: 1795-1915; įvykio data: 1915 m.; įvykio data: 1918-1940; įvykio data: po 1940 m.; įvykio data: 1940 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -47,13 +47,13 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85be16995f461bcb3e7668c5e756a4d60c99c153747d6c475c2c0062c5254e9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Kulakauskas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Kulakauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai mini lietuvių gyvenimą Rusijos imperijoje.
 
 <a id="claim-t-169887"></a>
 - t-003
@@ -121,13 +121,13 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85be16995f461bcb3e7668c5e756a4d60c99c153747d6c475c2c0062c5254e9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Rusija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Kulakauskas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Kulakauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai mini lietuvių gyvenimą Rusijos imperijoje.
     - t-001
 
 - c-003

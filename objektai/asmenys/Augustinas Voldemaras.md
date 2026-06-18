@@ -137,7 +137,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   global_id: t-75772
   teiginys: '1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_place: Ženeva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_place: Ženeva; llm_object: Ženeva'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]] keliavo į Ženeva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -251,19 +252,20 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Paryžius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustinas Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad A. Voldemaras buvo ištremtas į Paryžių.
 
 <a id="claim-t-75778"></a>
 - t-012
   global_id: t-75778
   teiginys: 'A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Paryžius; mentioned_place: Zarasai'
+  susije_objektai: 'llm_object: Paryžius; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Paryžius; mentioned_place: Zarasai'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]] keliavo į Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -333,13 +335,13 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Pilsudskis: 0.85
+  ryšio_patikimumas: keliavo_i -> Ženeva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: J. Pilsudskis: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "J. Pilsudskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustinas Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ženeva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: A. Voldemaras dalyvavo Ženevoje vykusiame susidūrime Tautų Sąjungoje.
 
 <a id="claim-t-75782"></a>
 - t-016
@@ -384,7 +386,8 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   global_id: t-75784
   teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata tiesiogiai patvirtina pataisytą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Zarasai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Zarasai'
+  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] rėmė [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata tiesiogiai patvirtina pataisytą sakinį.'
@@ -413,13 +416,13 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Augustinas Voldemaras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voldemarininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Augustinas Voldemaras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Voldemarininkai veikė siekdami sugrąžinti Voldemarą į valdžią, tai yra aiški politinė parama.
 
 <a id="claim-t-75786"></a>
 - t-020
@@ -549,13 +552,13 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Pilsudskis: 0.85
+  ryšio_patikimumas: keliavo_i -> Ženeva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: J. Pilsudskis: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "J. Pilsudskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustinas Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ženeva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: A. Voldemaras dalyvavo Ženevoje vykusiame susidūrime Tautų Sąjungoje.
     - t-004
 
 - c-005
@@ -704,13 +707,13 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Paryžius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustinas Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad A. Voldemaras buvo ištremtas į Paryžių.
     - t-007
 
 - c-010
@@ -934,3 +937,9 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   ryšio_subjekto_parinkimas: Augustinas Voldemaras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Voldemaras" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Augustinas Voldemaras keliavo_i [[objektai/vietos/Kaunas]]
+- Augustinas Voldemaras keliavo_i [[objektai/vietos/Paryžius]]
+- [[objektai/grupes/Voldemarininkai]] reme Augustinas Voldemaras
+- Augustinas Voldemaras keliavo_i [[objektai/vietos/Ženeva]]

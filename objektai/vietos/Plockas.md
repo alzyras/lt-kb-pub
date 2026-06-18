@@ -61,7 +61,8 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta autorinė įžanga ir pataisytos OCR klaidos, faktas liko paremtas citata.'
-  susije_objektai: 'territory: Sochačevas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija; mentioned_place: Sochačevas'
+  susije_objektai: 'llm_object: Plockas; llm_object: Sochačevas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija; mentioned_place: Sochačevas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Plockas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -74,8 +75,9 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   ryšio_subjekto_parinkimas: Plockas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Plockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vaclovas (Vanka).md#claim-t-60452|Vaclovas (Vanka)]]: Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.
 - susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176332|Gediminas]]: Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.
@@ -224,5 +226,4 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Plockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Vaclovas (Vanka)]] buvo_valdovas Plockas
 - [[objektai/grupes/Lietuviai]] uzeme Plockas

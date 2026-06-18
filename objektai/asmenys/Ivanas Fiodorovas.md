@@ -28,7 +28,8 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   global_id: t-23198
   teiginys: 'Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.'
   sudarymo_pagrindimas: 'Citata palaiko išsamesnį enciklopedinį sakinį apie jo vaidmenį ir priglobimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Zabluduvas; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Zabluduvas; mentioned_place: Nesvyžius; llm_object: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] rėmė [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko išsamesnį enciklopedinį sakinį apie jo vaidmenį ir priglobimą.'
@@ -37,19 +38,20 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žodis „priglobė“ tiesiogiai rodo Chodkevičių paramą ar globą Ivanui Fiodorovui.
 
 <a id="claim-t-23199"></a>
 - t-002
   global_id: t-23199
   teiginys: 'Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį.'
-  susije_objektai: 'mentioned_place: Zabluduvas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_place: Zabluduvas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; llm_object: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] rėmė [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -57,20 +59,21 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zabluduvas: 0.85
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Zabluduvas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Zabluduvas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Priglobimas tiesiogiai pagrindžia Chodkevičių globą Ivanui Fiodorovui.
 
 <a id="claim-t-23200"></a>
 - t-003
   global_id: t-23200
   teiginys: '1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti dalyvinę konstrukciją su Ivanu Fiodorovu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas; llm_object: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] rėmė [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti dalyvinę konstrukciją su Ivanu Fiodorovu.'
@@ -79,20 +82,21 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Chodkevičiai priglobė Ivaną Fiodorovą.
 
 <a id="claim-t-26597"></a>
 - t-004
   global_id: t-26597
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas; llm_object: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] rėmė [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]'
   temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
@@ -101,14 +105,16 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Chodkevičių priglobimas yra tiesioginis paramos Ivanui Fiodorovui teiginys.
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
+- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
+- susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
 - susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
 ## Reikšmingi paminėjimai
 
@@ -129,43 +135,46 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Žodis „priglobė“ tiesiogiai rodo Chodkevičių paramą ar globą Ivanui Fiodorovui.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zabluduvas: 0.85
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Zabluduvas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Zabluduvas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Priglobimas tiesiogiai pagrindžia Chodkevičių globą Ivanui Fiodorovui.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Chodkevičių priglobimas yra tiesioginis paramos Ivanui Fiodorovui teiginys.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumas: reme -> Ivanas Fiodorovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ivanas Fiodorovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Fiodorovas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ivanas Fiodorovas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Chodkevičiai priglobė Ivaną Fiodorovą.
+
+## Ryšiai
+- [[objektai/grupes/Chodkevičiai]] reme Ivanas Fiodorovas

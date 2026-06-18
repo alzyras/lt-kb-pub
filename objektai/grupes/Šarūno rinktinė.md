@@ -33,7 +33,7 @@ amziai:
   global_id: t-49114
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; llm_object: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -72,13 +72,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d0bddba6068b3bd9638b07f4da3d5990442f5b96fc8cc813c58617d6d42932a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKVD: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarūno rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: NKVD: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarūno rinktinė" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje NKVD susirėmimas siejamas su įvykiais, įvardytais kaip Šimonių girios apgultis.
 
 ## Reikšmingi paminėjimai
 
@@ -104,13 +104,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d0bddba6068b3bd9638b07f4da3d5990442f5b96fc8cc813c58617d6d42932a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKVD: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarūno rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: NKVD: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarūno rinktinė" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje NKVD susirėmimas pateikiamas tame pačiame Šimonių girios apgulties kontekste.
     - t-001
 
 - c-002
@@ -204,10 +204,10 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d0bddba6068b3bd9638b07f4da3d5990442f5b96fc8cc813c58617d6d42932a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKVD: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarūno rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: NKVD: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarūno rinktinė" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje NKVD susirėmimas siejamas su įvykiais, įvardytais kaip Šimonių girios apgultis.

@@ -49,7 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-19534
   teiginys: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Žydai|Žydai]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Išsaugotos Toros|Išsaugotos Toros]] priklausė [[objektai/grupes/Žydai|Žydai]]'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -82,3 +83,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Ryšiai
+- Išsaugotos Toros priklause [[objektai/grupes/Žydai]]

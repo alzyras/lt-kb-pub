@@ -121,6 +121,9 @@ Nenurodyta
 - susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Štuthofas: Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą.
 - susijęs iš Štuthofas: 1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą.
+- susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78675|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
+- susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78676|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
+- susijęs iš [[objektai/grupes/LLKS gynybos pajėgos.md#claim-t-40978|LLKS gynybos pajėgos]]: 1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,3 +146,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]] priklause Lietuvos laisvės kovos sąjūdis
+- [[objektai/grupes/LLKS gynybos pajėgos]] priklause Lietuvos laisvės kovos sąjūdis

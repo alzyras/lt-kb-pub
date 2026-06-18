@@ -400,3 +400,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   ryšio_subjekto_parinkimas: Lietuvos didikai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=49
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos didikai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos didikai keliavo_i [[objektai/vietos/Lenkija]]
+- Lietuvos didikai buvo_priesas [[objektai/grupes/Katalikų Bažnyčia]]

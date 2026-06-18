@@ -39,19 +39,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; mentioned_place: Veližas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas'
+  susije_objektai: 'llm_object: Veližas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; mentioned_place: Veližas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; llm_object: Naugardas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovo pasidavimas Vytautui ir vietininko paskyrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovo pasidavimas Vytautui ir vietininko paskyrimas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Veližas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas paėmė Veližą.
 
 <a id="claim-t-186599"></a>
 - t-002
@@ -65,13 +65,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovo pasidavimas Vytautui ir vietininko paskyrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovo pasidavimas Vytautui ir vietininko paskyrimas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Pskoviečiai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pskoviečiai norėjo Vytauto kaip valdovo.
 
 <a id="claim-t-186600"></a>
 - t-003
@@ -79,7 +79,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė įvardinė konstrukcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -125,13 +125,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovo pasidavimas Vytautui ir vietininko paskyrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovo pasidavimas Vytautui ir vietininko paskyrimas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Veližas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas paėmė Veližą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=fallback; occurrences=0
@@ -147,10 +147,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pskovo pasidavimas Vytautui ir vietininko paskyrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovo pasidavimas Vytautui ir vietininko paskyrimas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Pskoviečiai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pskoviečiai norėjo Vytauto kaip valdovo.

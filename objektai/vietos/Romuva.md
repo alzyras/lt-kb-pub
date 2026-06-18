@@ -28,19 +28,20 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de23168ae4121b5db08997e53c7f7914aaf8be62a55ca74316b418708a8b7677; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuva" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Romuvą esant Nadruvoje.
 
 <a id="claim-t-84716"></a>
 - t-002
   global_id: t-84716
   teiginys: 'Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.'
-  susije_objektai: 'mentioned_place: Nadruva; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
+  susije_objektai: 'llm_object: Nadruva; mentioned_place: Nadruva; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
+  semantiniai_rysiai: 'Romuva priklausė Nadruva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -91,19 +92,20 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia interpretacinį teiginį, todėl pridėta šaltinio autorystė.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nadruva'
+  susije_objektai: 'llm_object: Nadruva; mentioned_place: Lietuva; mentioned_place: Nadruva'
+  semantiniai_rysiai: 'Romuva priklausė Nadruva'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36682-36986; hash=ed8064a9ddc8fe3dfac49ca34c40ab66158c82a1d7ae93d4ded76066df3b72eb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Romuva buvo Nadruvoje.
 - susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64574|Dundulienė P]]: Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64663|Jurginis J]]: J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.
@@ -153,6 +155,7 @@ tags:
 - susijęs iš Romehnen: Vėlesnė Romehnen Semboje (jos vak.
 - susijęs iš [[objektai/zodynas/amfiktionija.md#claim-t-23432|amfiktionija]]: Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
+- susijęs iš [[objektai/daiktai/Šventasis ąžuolas.md#claim-t-59712|Šventasis ąžuolas]]: S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -231,13 +234,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de23168ae4121b5db08997e53c7f7914aaf8be62a55ca74316b418708a8b7677; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuva" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Romuvą esant Nadruvoje.
     - t-004
 
 - c-005
@@ -281,13 +284,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36682-36986; hash=ed8064a9ddc8fe3dfac49ca34c40ab66158c82a1d7ae93d4ded76066df3b72eb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Romuva buvo Nadruvoje.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36988-37338; hash=bd3ed4d5893afd434d32ff294066bafc36fb390911e43460b1a5d904f41bda59; match=exact
@@ -299,3 +302,8 @@ tags:
   ryšio_subjekto_parinkimas: Romuva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Aukuras: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romuva" parinktas kaip owner_note_path. Targetas "Aukuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Romuva priklause [[objektai/vietos/Nadruva]]
+- [[objektai/daiktai/Šventasis ąžuolas]] priklause Romuva
+- Romuva priklause [[objektai/grupes/Baltai]]

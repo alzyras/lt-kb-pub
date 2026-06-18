@@ -26,7 +26,9 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     - c-001
 - susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
+- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
 - susijęs iš Balnininkai: Lenkų pajėgos per puolimą priartėjo prie Videniškio ir Gelogalių, o paskui judėjo Balnininkų link.
+- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,3 +59,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]] keliavo_i Videniškis

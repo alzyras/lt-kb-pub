@@ -46,19 +46,19 @@ Nenurodyta
   global_id: t-86967
   teiginys: 'Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko glaustą teiginį apie Vytauto pralaimėjimą, nuostolius ir pasitraukimą į Trakus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Trakai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104679-105289; hash=8a0574e3bfad4db905df5406894cefca863420eddf861d0d40f091d5195c0c8f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto pralaimėjimas netoli Vilniaus (1382 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto pralaimėjimas netoli Vilniaus (1382 m.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad po pralaimėjimo Vytautas pasitraukė į Trakų pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -90,10 +90,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104679-105289; hash=8a0574e3bfad4db905df5406894cefca863420eddf861d0d40f091d5195c0c8f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto pralaimėjimas netoli Vilniaus (1382 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto pralaimėjimas netoli Vilniaus (1382 m.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad po pralaimėjimo Vytautas pasitraukė į Trakų pilį.

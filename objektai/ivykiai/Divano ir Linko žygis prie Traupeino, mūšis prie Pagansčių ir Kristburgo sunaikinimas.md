@@ -48,7 +48,8 @@ Nenurodyta
   global_id: t-66519
   teiginys: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kaimas; mentioned_place: Pagansčiai; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Prūsai; mentioned_place: Zirgūna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kaimas; mentioned_place: Pagansčiai; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Prūsai; mentioned_place: Zirgūna; llm_object: [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Krikščionys|Krikščionys]] dalyvavo mūšyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -67,7 +68,7 @@ Nenurodyta
   global_id: t-66520
   teiginys: 'Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai; llm_object: Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
@@ -76,13 +77,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Divano puolimą Kulmo žemėje.
 
 <a id="claim-t-66521"></a>
 - t-003
@@ -95,13 +96,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439276-440118; hash=a7fceb861f19c27ac10d013855a2fde98d8239a7dd3920df8f412293ce563e0b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Krikščionys tiesiogiai minimi kaip užpultoji pusė mūšyje.
 
 <a id="claim-t-66522"></a>
 - t-004
@@ -198,13 +199,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Divano puolimą Kulmo žemėje.
     - t-001
 
 - c-003
@@ -238,10 +239,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439276-440118; hash=a7fceb861f19c27ac10d013855a2fde98d8239a7dd3920df8f412293ce563e0b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumas: dalyvavo_musyje -> Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Krikščionys tiesiogiai minimi kaip užpultoji pusė mūšyje.
+
+## Ryšiai
+- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas

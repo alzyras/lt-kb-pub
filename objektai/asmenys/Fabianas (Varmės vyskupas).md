@@ -53,6 +53,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173308|Žygimantas Senasis]]: 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš Žygimanto Senojo laiškas Andriui Kopernikui dėl Varmės kapitulos (1514 m. gegužės 6 d.): Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.
+- susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,3 +102,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Fabianas (Varmės vyskupas): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabianas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Varmės kapitula]] paskyre Fabianas (Varmės vyskupas)

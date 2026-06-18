@@ -35,7 +35,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   global_id: t-109254
   teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretesnį faktą apie JAV sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; mentioned_place: Baltija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; llm_object: JAV; mentioned_place: Baltija; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/JAV Kongresas|JAV Kongresas]] priklausė JAV'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti konkretesnį faktą apie JAV sprendimą.'
@@ -57,7 +58,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   global_id: t-109255
   teiginys: 'Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių.'
   sudarymo_pagrindimas: 'Sukoncentruota į JAV ir pašalinta kitų šalių detalė, svarbesnė kitų vietų teiginiams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija; llm_object: JAV'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į JAV'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -88,7 +90,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   global_id: t-109257
   teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; mentioned_place: Baltija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; llm_object: JAV; mentioned_place: Baltija; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/JAV Kongresas|JAV Kongresas]] priklausė JAV'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -97,13 +100,13 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460933-461317; hash=0225b7fdd84af004613cdb0d446aa5eedb3b0af622cea1e165ff50b73d35d667; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> JAV Kongresas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: JAV: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: JAV Kongresas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV" parinktas kaip owner_note_path. Targetas "JAV Kongresas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> JAV: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: JAV Kongresas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: JAV: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Institucijos pavadinimas tiesiogiai sieja Kongresą su JAV.
 
 <a id="claim-t-109258"></a>
 - t-005
@@ -250,13 +253,13 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460933-461317; hash=0225b7fdd84af004613cdb0d446aa5eedb3b0af622cea1e165ff50b73d35d667; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> JAV Kongresas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: JAV: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: JAV Kongresas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV" parinktas kaip owner_note_path. Targetas "JAV Kongresas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> JAV: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: JAV Kongresas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: JAV: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Institucijos pavadinimas tiesiogiai sieja Kongresą su JAV.
     - t-001
 
 - c-005
@@ -316,10 +319,14 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460933-461317; hash=0225b7fdd84af004613cdb0d446aa5eedb3b0af622cea1e165ff50b73d35d667; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> JAV Kongresas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: JAV: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: JAV Kongresas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV" parinktas kaip owner_note_path. Targetas "JAV Kongresas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> JAV: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: JAV Kongresas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: JAV: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas tiesiogiai rodo Kongreso institucinį ryšį su JAV.
+
+## Ryšiai
+- [[objektai/grupes/JAV Kongresas]] priklause JAV
+- [[objektai/grupes/Lietuviai]] keliavo_i JAV

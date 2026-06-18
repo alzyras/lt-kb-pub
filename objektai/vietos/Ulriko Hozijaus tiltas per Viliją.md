@@ -32,7 +32,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   global_id: t-86154
   teiginys: 'Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.'
   sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir nepakankamai aiškiai susietas su tilto objektu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilija; mentioned_place: Vilnius; llm_object: Ulriko Hozijaus tiltas per Viliją'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Ulriko Hozijaus tiltas per Viliją'
   pagrindžia:
     - c-002
 
@@ -110,3 +111,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulriko Hozijaus tiltas per Viliją" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Ulrikas Hozijus]] pastate Ulriko Hozijaus tiltas per Viliją

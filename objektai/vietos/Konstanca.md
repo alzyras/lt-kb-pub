@@ -40,13 +40,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0410311a5151af017d88e26aafbafa3a94199d7f4ba2748e8575bb9aff8ee1fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstanca: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstanca" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstanca: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas siuntė delegaciją į Konstancą.
 
 <a id="claim-t-68241"></a>
 - t-002
@@ -74,7 +74,8 @@ amziai:
   global_id: t-68242
   teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.'
   sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatą ir išlaikytas faktinis turinys.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Konstanca; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Konstanca'
   temporaliniai_duomenys: 'įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys patikslintas pagal citatą ir išlaikytas faktinis turinys.'
@@ -83,6 +84,11 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 954345-954521; hash=1df7d9256fe961760e45f0a70749a48fc14ed0a1c98c11707639ff4b7103f5c4; match=whitespace_regex
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
+- susijęs iš [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje.md#claim-t-20184|G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]: 1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.
+- susijęs iš [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika.md#claim-t-77955|Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]: Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176644|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176676|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
 - susijęs iš [[objektai/asmenys/Gr. Camblakas.md#claim-t-30257|Gr. Camblakas]]: Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą.
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176495|Jonas XXIII]]: Lietuvai ir Lenkijai palankus antipopiežius Jonas XXIII, kuris imperatorių Zigmantą buvo prašęs sušaukti šį susirinkimą, Konstancoje buvo atstatytas ir įmestas kalėjiman.
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
@@ -108,6 +114,10 @@ amziai:
 - susijęs iš [[objektai/posakiai/Žemaičių skundas.md#claim-t-184365|Žemaičių skundas]]: Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi kieta ordino priespauda ir jo žiaurumais.
 - susijęs iš [[objektai/posakiai/Žemaičių skundas.md#claim-t-28750|Žemaičių skundas]]: 1416 m. Konstancoje įteiktame „Žemaičių skunde“ išsamiai išvardytos ordino riterių skriaudos.
 - susijęs iš [[objektai/zodynas/konsiliumas.md#claim-t-70190|konsiliumas]]: Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.
+- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
+- susijęs iš [[objektai/asmenys/Mikalojus Sepienskis.md#claim-t-29043|Mikalojus Sepienskis]]: 1415 m. į Konstancą atsiųstiems 60 pakrikštytų žemaičių bajorų vadovavo ir Vytauto sekretorius lenkas Mikalojus Sepienskis.
+- susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
+- susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -161,13 +171,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0410311a5151af017d88e26aafbafa3a94199d7f4ba2748e8575bb9aff8ee1fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstanca: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstanca" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstanca: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas siuntė delegaciją į Konstancą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=986092ad05f96089732a9aa3e0edd54d073b3e51ad5d9f6b031d9311eb45ac28; match=fallback; occurrences=0
@@ -179,3 +189,10 @@ amziai:
   ryšio_subjekto_parinkimas: Konstanca: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jonas XXIII: mention_match, person, gap=72
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstanca" parinktas kaip owner_note_path. Targetas "Jonas XXIII" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Konstanca
+- [[objektai/grupes/Stačiatikiai]] keliavo_i Konstanca
+- [[objektai/asmenys/Mikalojus Sepienskis]] keliavo_i Konstanca
+- [[objektai/asmenys/Jurgis Galminas]] keliavo_i Konstanca
+- [[objektai/asmenys/Jurgis Gedgaudas]] keliavo_i Konstanca

@@ -59,7 +59,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   global_id: t-20809
   teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   sudarymo_pagrindimas: 'Citata nepateikia 1919 m. datos, bet pagrindžia savanorių skaičių ir žemės pažadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

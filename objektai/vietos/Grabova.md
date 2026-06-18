@@ -32,7 +32,7 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   global_id: t-67983
   teiginys: '1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai perteikia citatoje minimus Vytauto prekybos reikalus Grabovoje.'
-  susije_objektai: 'object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1414-1418; įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir aiškiai perteikia citatoje minimus Vytauto prekybos reikalus Grabovoje.'
@@ -49,13 +49,13 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a89041dba122abdbae7b20fe2f31349ecee724306c0a29027c3581928a49a7e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kryžiuočių ordinas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: nearest_after_predicate, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Kryžiuočių ordinas" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Augustavas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grabova: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Augustavas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grabova" parinktas kaip owner_note_path. Targetas "Augustavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Augustavas: Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
 ## Reikšmingi paminėjimai
@@ -100,10 +100,10 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a89041dba122abdbae7b20fe2f31349ecee724306c0a29027c3581928a49a7e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kryžiuočių ordinas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: nearest_after_predicate, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Kryžiuočių ordinas" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Augustavas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grabova: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Augustavas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grabova" parinktas kaip owner_note_path. Targetas "Augustavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -40,8 +40,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93420
   teiginys: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   sudarymo_pagrindimas: 'Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos.'
-  susije_objektai: 'location: Kulmas; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Kulmas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kulmas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos.'
@@ -59,22 +58,20 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=011ec592b2e47b683fadb16d5f6f26ee10c5ad8bd7eea3bf9f9cd4279989652c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mozūrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Kulmas: candidate; Prūsai: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 56, "match_index": 67, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93423"></a>
 - t-004
   global_id: t-93423
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.'
   sudarymo_pagrindimas: 'Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_place: Mozūrija'
   temporaliniai_duomenys: 'valdymo pradžia: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas.'
@@ -85,8 +82,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - t-005
   global_id: t-93424
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Mozūrija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -124,20 +120,19 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93426
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, ką Konradas pakvietė.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Mozūrija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=43
-  ryšio_targeto_parinkimas: Kulmas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
 - susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
@@ -183,14 +178,13 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=011ec592b2e47b683fadb16d5f6f26ee10c5ad8bd7eea3bf9f9cd4279989652c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mozūrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Kulmas: candidate; Prūsai: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 56, "match_index": 67, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -228,13 +222,13 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=43
-  ryšio_targeto_parinkimas: Kulmas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7550b52f89566620f5ec2f13f9217d6beae58e72a297245a03d37fb4575872d5; match=fallback; occurrences=0
@@ -326,14 +320,13 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=011ec592b2e47b683fadb16d5f6f26ee10c5ad8bd7eea3bf9f9cd4279989652c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mozūrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Kulmas: candidate; Prūsai: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 56, "match_index": 67, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-008
@@ -378,15 +371,10 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=011ec592b2e47b683fadb16d5f6f26ee10c5ad8bd7eea3bf9f9cd4279989652c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Mozūrija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Mozūrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Kulmas: candidate; Prūsai: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mozūrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 56, "match_index": 67, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsai.md", "selected": false, "strategy": "candidate", "title": "Prūsai", "type": "place"}, {"distance_to_predicate": 112, "match_index": 123, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Kulmas]]
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Mozūrijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Mozūrijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

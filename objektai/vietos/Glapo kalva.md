@@ -23,19 +23,20 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   global_id: t-58554
   teiginys: 'Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į pilną sakinį apie vietovardžio kilmę ir įvykį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; llm_object: Glapo kalva'
+  semantiniai_rysiai: '[[objektai/asmenys/Glapas|Glapas]] mirė Glapo kalva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.85
+  ryšio_patikimumas: mire -> Glapo kalva: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo kalva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo kalva" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pakorimas ant Glapo kalvos leidžia fiksuoti Glapo mirties vietą.
 
 <a id="claim-t-58555"></a>
 - t-002
@@ -55,9 +56,11 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   ryšio_subjekto_parinkimas: Glapo kalva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo kalva" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Karaliaučius: Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89789|Glapas]]: Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66554|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva.
 - susijęs iš Karaliaučius: Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89789|Glapas]]: Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,13 +93,13 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.85
+  ryšio_patikimumas: mire -> Glapo kalva: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo kalva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo kalva" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pakorimas ant Glapo kalvos leidžia fiksuoti Glapo mirties vietą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432215-432525; hash=dc0daea80676cad9c69034103934076e9763f46e0ae89873c6b02a6f3b82af53; match=exact
@@ -108,3 +111,6 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
   ryšio_subjekto_parinkimas: Glapo kalva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo kalva" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Glapas]] mire Glapo kalva

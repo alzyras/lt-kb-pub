@@ -23,19 +23,20 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
   global_id: t-60138
   teiginys: 'Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu, ragino apsuptuosius gintis ir gesino piliai padegti pakištus degalus.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai apibendrina citatoje nurodytus Henriko Tupadelio veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=478493997f8bc57d954152f11f52e0970968284cfb9958dbaea7261977cf0fd0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Tupadelis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Tupadelis" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Tupadelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad Henrikas nukovė lietuvių vadą, todėl palaikomas konfliktas su lietuviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62956|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.
 - susijęs iš [[objektai/zodynas/balista balistininkas arbaletas.md#claim-t-58846|balista balistininkas arbaletas]]: Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.
@@ -63,10 +64,14 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=478493997f8bc57d954152f11f52e0970968284cfb9958dbaea7261977cf0fd0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Tupadelis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Tupadelis" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Tupadelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad Henrikas nukovė lietuvių vadą, todėl palaikomas konfliktas su lietuviais.
+
+## Ryšiai
+- Henrikas Tupadelis gyne [[objektai/vietos/Vėluva]]
+- Henrikas Tupadelis kariavo_pries [[objektai/grupes/Lietuviai]]

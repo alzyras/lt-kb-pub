@@ -72,7 +72,7 @@ Nenurodyta
   global_id: t-187502
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Morta|Morta]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -99,13 +99,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo krikštas (krikštas): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo krikštas (krikštas)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Mortą tiesiogiai įvardija Mindaugo žmona.
 
 <a id="claim-t-187505"></a>
 - t-005

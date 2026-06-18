@@ -43,19 +43,19 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8fbf620f6171dd1e5ee710e9ba77ba0c7603101860117cec6871bf568053be27; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio mūšis: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio mūšis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kazokai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Jonas Karolis Chodkevičius dalyvavo kariniuose veiksmuose prieš kazokus.
 
 <a id="claim-t-41579"></a>
 - t-002
   global_id: t-41579
   teiginys: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Europa; mentioned_place: Ukraina'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Europa; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'mūšio data: 1560-1621; mūšio data: 1595-1596; mūšio data: 1596 m.; mūšio data: 1600-1605; mūšio data: 1605 m.; mūšio data: 1605-1621; mūšio data: 1619 m.; mūšio data: apie 1619 m.; mūšio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip mūšio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -175,10 +175,10 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8fbf620f6171dd1e5ee710e9ba77ba0c7603101860117cec6871bf568053be27; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salaspilio mūšis: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salaspilio mūšis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kazokai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Jonas Karolis Chodkevičius dalyvavo kariniuose veiksmuose prieš kazokus.

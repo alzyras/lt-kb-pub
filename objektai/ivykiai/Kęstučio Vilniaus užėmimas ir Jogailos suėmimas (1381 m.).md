@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-28835
   teiginys: '1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
-  susije_objektai: 'territory: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
@@ -54,11 +54,11 @@ Nenurodyta
   sprendimo_priezastis: auto
   ryšio_patikimumas: uzeme -> Vilnius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=16
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje ir citatoje nurodyta, kad Kęstutis užėmė Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -81,8 +81,8 @@ Nenurodyta
   sprendimo_priezastis: auto
   ryšio_patikimumas: uzeme -> Vilnius: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=16
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje ir citatoje nurodyta, kad Kęstutis užėmė Vilnių.

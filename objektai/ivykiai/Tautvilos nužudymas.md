@@ -36,19 +36,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas kvietimo tikslas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos nužudymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos nužudymas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Polockas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Treniota tiesiogiai siunčia pasiuntinius į Polocką.
 
 <a id="claim-t-186566"></a>
 - t-002
@@ -56,19 +56,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Kėslai ir pasekmė yra metraštinė interpretacija, todėl priskirta šaltiniui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Polockas; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Treniota: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos nužudymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Treniota: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos nužudymas" parinktas kaip owner_note_path. Targetas "Treniota" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Treniota kunigaikščiavo Lietuvos žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -94,21 +94,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos nužudymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos nužudymas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Polockas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Treniota tiesiogiai siunčia pasiuntinius į Polocką.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b8955ebfa3a52bb4553f507bbd71a92fb906e3198b997309956c9198fd6dd9c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Treniota: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilos nužudymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Treniota: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos nužudymas" parinktas kaip owner_note_path. Targetas "Treniota" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Treniota kunigaikščiavo Lietuvos žemėje.

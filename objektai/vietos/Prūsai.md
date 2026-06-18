@@ -59,9 +59,17 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89161|Pagudėnai]]: Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.
-- susijęs iš Kulmas: Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113900|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113923|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.
+- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+- susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183144|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
+- susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178815|Kryžiuočių ordinas]]: Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179109|Kryžiuočių ordinas]]: Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.
+- susijęs iš Karaliaučius: 1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.
+- susijęs iš Karaliaučius: Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60088|Bansas]]: Bansas norėjo viešai turėti dvi žmonas, o broliams tai uždraudus sukurstė beveik visus prūsus atsimesti nuo krikščionybės.
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
@@ -426,6 +434,11 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70380|vakariniai baltai]]: Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70381|vakariniai baltai]]: Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.
 - susijęs iš [[objektai/zodynas/vitingas.md#claim-t-03226|vitingas]]: Vitingais buvo vadinami senųjų prūsų bajorai, pasidavę ordinui ir jam tarnavę.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179044|Kryžiuočių ordinas]]: XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
+- susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56966|Agota (kunigaikščio žmona, XIII a.)]]: Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
@@ -1085,6 +1098,23 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185371|įgula]]: Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58819|šeimyna familia domus]]: Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
+- susijęs iš Vaistotpilis: Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas.
+- susijęs iš Kulmo žemė: XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.
+- susijęs iš Raseiniai: Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.
+- susijęs iš [[objektai/ivykiai/Kęstučio suėmimas ir nužudymas po susitikimo su Jogaila.md#claim-t-186674|Kęstučio suėmimas ir nužudymas po susitikimo su Jogaila]]: Lietuvos metraštis pasakoja, kad po Kęstučio nužudymo Vytautas buvo paimtas į nelaisvę, bet pabėgo pas Prūsų Ordino didįjį magistrą.
+- susijęs iš [[objektai/ivykiai/Vytauto pabėgimas į Prūsų ordiną.md#claim-t-186677|Vytauto pabėgimas į Prūsų ordiną]]: Lietuvos metraštis pasakoja, kad po Kęstučio ir Vytauto motinos nužudymo Vytautas pabėgo iš nelaisvės pas Prūsų Ordino didįjį magistrą.
+- susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
+- susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
+- susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
+- susijęs iš Karaliaučius: 1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.
+- susijęs iš [[objektai/asmenys/Volradas Nuostabusis.md#claim-t-60469|Volradas Nuostabusis]]: Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje nurodyta, kad didžiausia trečioji kronikos dalis skirta prūsų žemių užkariavimui ir kovai prieš Lietuvą.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
+- susijęs iš Ortelsburgas: Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.
+- susijęs iš Livonija: Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.
+- susijęs iš Livonija: Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos.
+- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1138,6 +1168,22 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
     - t-003
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] gyveno Prūsai
-- [[objektai/grupes/Lenkai]] gyveno Prūsai
-- [[objektai/grupes/Vokietijos maldininkai]] keliavo_i Prūsai
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Prūsai
+- Prūsai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Prūsai
+- [[objektai/asmenys/Vaidotas (Butauto sūnus)]] keliavo_i Prūsai
+- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]] keliavo_i Prūsai
+- [[objektai/grupes/Vokiečių ordinas]] uzkariavo Prūsai
+- [[objektai/grupes/Žemaičiai]] prekiavo_su Prūsai
+- [[objektai/grupes/Teutonai]] uzkariavo Prūsai
+- [[objektai/vietos/Vaistotpilis]] priklause Prūsai
+- [[objektai/vietos/Kulmo žemė]] priklause Prūsai
+- [[objektai/grupes/Lenkai]] puole Prūsai
+- [[objektai/grupes/Totoriai]] puole Prūsai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Prūsai
+- [[objektai/grupes/Lietuviai]] puole Prūsai
+- [[objektai/asmenys/Volradas Nuostabusis]] puole Prūsai
+- [[objektai/asmenys/Skomantas]] keliavo_i Prūsai
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Prūsai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Prūsai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Prūsai

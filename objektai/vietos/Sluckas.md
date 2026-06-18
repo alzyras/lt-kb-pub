@@ -322,12 +322,14 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   ryšio_subjekto_parinkimas: Sluckas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Protestantai: mention_match, group, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sluckas" parinktas kaip owner_note_path. Targetas "Protestantai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187761|Slucko kunigaikščiai Olelkaičiai]]: Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184670|Algirdas (Lietuvos valdovas)]]: Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.
-- susijęs iš [[objektai/asmenys/Simonas Olelkaitis.md#claim-t-186078|Simonas Olelkaitis]]: Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.
+- susijęs iš [[objektai/asmenys/Burnaš Girėjus.md#claim-t-186189|Burnaš Girėjus]]: Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
+- susijęs iš [[objektai/asmenys/Biti Girėjus.md#claim-t-186184|Biti Girėjus]]: Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
+- susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185696|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
+- susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/asmenys/Biti Girėjus.md#claim-t-186184|Biti Girėjus]]: Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš [[objektai/asmenys/Burnaš Girėjus.md#claim-t-186189|Burnaš Girėjus]]: Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
 - susijęs iš [[objektai/asmenys/Gurka.md#claim-t-186206|Gurka]]: Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
+- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187761|Slucko kunigaikščiai Olelkaičiai]]: Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d.
 - susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš [[objektai/grupes/Vilniaus lietuvių seimas.md#claim-t-185439|Vilniaus lietuvių seimas (seimas, XV a.)]]: Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.
@@ -422,6 +424,19 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
 - susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
+- susijęs iš Dniepras: Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.
+- susijęs iš Minskas: 1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.
+- susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
+- susijęs iš [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.).md#claim-t-41286|Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]: Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
+- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187761|Slucko kunigaikščiai Olelkaičiai]]: Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d.
+- susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
+- susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
+- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89431|Mūro sienos ir miesto sienos]]: 1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171401|Totoriai]]: Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką.
+- susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
+- susijęs iš [[objektai/zodynas/dvarionis.md#claim-t-187548|dvarionis]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.
+- susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -801,6 +816,11 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sluckas" parinktas kaip owner_note_path. Targetas "Protestantai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]] susije_su Sluckas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Sluckas
-- [[objektai/asmenys/Simonas Olelkaitis]] buvo_valdovas Sluckas
+- [[objektai/asmenys/Burnaš Girėjus]] puole Sluckas
+- [[objektai/asmenys/Biti Girėjus]] puole Sluckas
+- [[objektai/grupes/Totoriai]] keliavo_i Sluckas
+- [[objektai/grupes/Totoriai]] puole Sluckas
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Sluckas
+- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]] valde_miesta Sluckas
+- [[objektai/grupes/Lietuviai]] siunte_i Sluckas
+- [[objektai/grupes/Rusai]] siunte_i Sluckas

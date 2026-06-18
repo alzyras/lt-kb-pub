@@ -32,7 +32,7 @@ amziai:
   global_id: t-42479
   teiginys: '1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie maršalo vadovautą kariuomenę ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Ariogala; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vaikiai; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Medininkai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Ariogala; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vaikiai; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie maršalo vadovautą kariuomenę ir atitinka citatą.'
@@ -61,13 +61,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=90a08eca465d90bcd45a81b6911e79b32d3359dc79e43567383255f3b9e6a255; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medininkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Kryžiuočių kariuomenė niokojo Medininkų žemę; tai karinis puolimas.
 
 <a id="claim-t-183717"></a>
 - t-003
@@ -102,19 +102,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rūmų maršalo veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Viena; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Viena; mentioned_place: Žemaitija; llm_object: Žemaitija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giliginas: 0.85
+  ryšio_patikimumas: valde_teritorija -> Žemaitija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Giliginas: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Giliginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Trobius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Žemaitija patikėta Trobiui, todėl tai pagrindžia jo valdymo ryšį su Žemaitija.
 
 <a id="claim-t-184628"></a>
 - t-005
@@ -124,19 +124,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytenio tapimą maršalu vadintu pareigūnu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lauras|Lauras]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Lauras|Lauras]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257992-258733; hash=3c97fb687e961a29adcac288e4590c9eb63b8fcf33e8004254feba561f76a7a4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lauras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lauras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Lauras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Traidenio žygį į Prūsiją.
 
 <a id="claim-t-184629"></a>
 - t-006
@@ -146,19 +146,19 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lietuvos maršalo Rumbaudo pasiuntimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Korčinas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Korčinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Korčinas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Korčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Vytautas siuntė pasiuntinius į Korčino seimą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89685|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
@@ -382,13 +382,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=90a08eca465d90bcd45a81b6911e79b32d3359dc79e43567383255f3b9e6a255; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medininkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Kryžiuočių kariuomenė niokojo Medininkų žemę; tai karinis puolimas.
     - t-003
 
 - c-003
@@ -449,13 +449,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giliginas: 0.85
+  ryšio_patikimumas: valde_teritorija -> Žemaitija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Giliginas: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Giliginas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Trobius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Žemaitija patikėta Trobiui, todėl tai pagrindžia jo valdymo ryšį su Žemaitija.
     - t-005
 
 - c-005
@@ -480,21 +480,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257992-258733; hash=3c97fb687e961a29adcac288e4590c9eb63b8fcf33e8004254feba561f76a7a4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lauras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lauras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Lauras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Traidenio žygį į Prūsiją.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Korčinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Korčinas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maršalas" parinktas kaip owner_note_path. Targetas "Korčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad Vytautas siuntė pasiuntinius į Korčino seimą.

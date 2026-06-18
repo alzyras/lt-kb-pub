@@ -29,7 +29,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   global_id: t-32372
   teiginys: '1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo, arba Jurbarko, pilį.'
   sudarymo_pagrindimas: 'Sutrumpinta ir pašalinta perteklinė formuluotė, paliekant citatos remiamą faktą.'
-  susije_objektai: 'mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Georgenburgas; mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalinta perteklinė formuluotė, paliekant citatos remiamą faktą.'
@@ -38,13 +38,13 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mituva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mituva" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Georgenburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai statė Georgenburgo pilį.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.
 - susijęs iš Tarasenka P. Lietuvos archeologijos medžiaga: P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile.
 - susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
@@ -85,10 +85,10 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mituva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mituva" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Georgenburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai statė Georgenburgo pilį.

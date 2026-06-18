@@ -121,13 +121,13 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fbfa7c6996b2ae38fecc7f6441a1507eb14f2e2fa8a83048ecdc172980b8466; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus katedra: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas buvo pastatęs naują katedrą.
 
 <a id="claim-t-110153"></a>
 - t-007
@@ -291,7 +291,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   global_id: t-110164
   teiginys: 'Vilniaus katedra sudegė 1399 metais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Vilniaus katedra; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Vilniaus katedra'
   temporaliniai_duomenys: 'įvykio data: 1531 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -313,7 +314,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   global_id: t-110165
   teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Vilniaus katedra; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Vilniaus katedra'
   temporaliniai_duomenys: 'įvykio data: 1531 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą.'
@@ -368,6 +370,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Brasta: Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.
@@ -375,9 +378,13 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - susijęs iš Labanoras: Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
+- susijęs iš Tauragnų pilis (pilis): Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.
+- susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
 - susijęs iš Drohičinas: Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.
 - susijęs iš Tauragnų pilis (pilis): Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.
 - susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86473|klebonija]]: Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.
+- susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
+- susijęs iš Labanoras: Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -482,13 +489,13 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fbfa7c6996b2ae38fecc7f6441a1507eb14f2e2fa8a83048ecdc172980b8466; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vilniaus katedra: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas buvo pastatęs naują katedrą.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c8a0b9f01308e9bbb6d447ec1a42aefdef4fa85efeff95e6f0eeaa38f5f420a; match=fallback; occurrences=0
@@ -824,3 +831,12 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   ryšio_subjekto_parinkimas: Vilniaus katedra: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Vilniaus katedra
+- [[objektai/vietos/Dambrava]] priklause Vilniaus katedra
+- [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]] priklause Vilniaus katedra
+- [[objektai/vietos/Verkiai]] priklause Vilniaus katedra
+- [[objektai/vietos/Bokštai]] priklause Vilniaus katedra
+- [[objektai/vietos/Tauragnai]] priklause Vilniaus katedra
+- [[objektai/vietos/Labanoras]] priklause Vilniaus katedra

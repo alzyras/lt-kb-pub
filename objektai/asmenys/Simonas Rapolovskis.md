@@ -33,8 +33,7 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   global_id: t-87852
   teiginys: 'Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Rapolovskio vaidmenį Elenos palydoje.'
-  susije_objektai: 'location: Maskva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Simonas Rapolovskis|Simonas Rapolovskis]] keliavo į Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Rapolovskio vaidmenį Elenos palydoje.'
@@ -43,13 +42,13 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Simonas Rapolovskis: owner_note_path, person, gap=72
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Simonas Rapolovskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Simonas Rapolovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Rapolovskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,13 +80,10 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Simonas Rapolovskis: owner_note_path, person, gap=72
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Simonas Rapolovskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Simonas Rapolovskis keliavo_i [[objektai/vietos/Maskva]]
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Simonas Rapolovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Rapolovskis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

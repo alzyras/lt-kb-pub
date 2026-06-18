@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinio konteksto; citata palaiko aiškų sakinį apie žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Dorpatas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Dorpatas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; llm_object: Dorpatas'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi perteklinio konteksto; citata palaiko aiškų sakinį apie žygį.'
@@ -57,13 +57,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd649cc16052216ba63030ea1af4e2acf19a52444f9b6251cad1c2f810af2be5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
+  ryšio_patikimumas: puole -> Dorpatas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos žygis į Dorpato vyskupo valdas (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dorpato vyskupo valdų nusiaubimas tiesiogiai rodo karinį puolimą prieš Dorpato valdas.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +88,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd649cc16052216ba63030ea1af4e2acf19a52444f9b6251cad1c2f810af2be5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
+  ryšio_patikimumas: puole -> Dorpatas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos žygis į Dorpato vyskupo valdas (1322 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dorpato vyskupo valdų nusiaubimas tiesiogiai rodo karinį puolimą prieš Dorpato valdas.

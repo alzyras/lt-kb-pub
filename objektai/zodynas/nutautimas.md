@@ -23,7 +23,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   global_id: t-100285
   teiginys: 'Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas.'
   sudarymo_pagrindimas: 'Teiginys perteikia vertinamąją interpretaciją, todėl reikalinga šaltinio atribucija ir tvarkingesnė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS; llm_object: SSRS'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -51,13 +51,13 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51c9f792995d6b132f3ef13e045462a187d746b5e1a0697a82a82ef01e3f2146; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> SSRS: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: nutautimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nutautimas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje.
 
 ## Reikšmingi paminėjimai
 
@@ -107,10 +107,10 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=51c9f792995d6b132f3ef13e045462a187d746b5e1a0697a82a82ef01e3f2146; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> SSRS: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: nutautimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nutautimas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata kalba apie SSRS lietuvių būklę, todėl remia lietuvių gyvenimą ar buvimą SSRS erdvėje.

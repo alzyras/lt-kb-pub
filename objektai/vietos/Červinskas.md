@@ -29,7 +29,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   global_id: t-178755
   teiginys: 'Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, teiginys tik išvalytas ir sugramatintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: Červinskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vengrai|Vengrai]] keliavo į Červinskas'
   pagrindžia:
     - c-001
 
@@ -54,6 +55,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - susijęs iš Sviečė: Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių.
 - susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
 - susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185649|Treniotos žygis į Mazoviją (1264 m.)]]: Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185650|Treniotos žygis į Mazoviją (1264 m.)]]: Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,3 +96,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Vengrai]] keliavo_i Červinskas
+- [[objektai/asmenys/Treniota]] puole Červinskas

@@ -183,3 +183,6 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.) keliavo_i [[objektai/vietos/Mogiliovcai]]

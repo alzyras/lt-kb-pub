@@ -22,19 +22,20 @@ tags:
 - t-001
   global_id: t-40100
   teiginys: 'Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas; llm_object: Talinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Eilartas fon Hobergas|Eilartas fon Hobergas]] valdė miestą Talinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eilartas fon Hobergas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Eilartas įvardytas danų vietininku Taline, todėl valdžios ryšys su miestu yra tiesiogiai numanomas.
 
 <a id="claim-t-183737"></a>
 - t-002
@@ -44,19 +45,20 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys apima kelis asmenis; perrašyta sutelkiant teiginį į Eilartą fon Hobergą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas; llm_object: Talinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Eilartas fon Hobergas|Eilartas fon Hobergas]] valdė miestą Talinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.83
+  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eilartas fon Hobergas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Eilartas apibūdintas kaip vietininkas Taline, tad santykis su miesto valdymu yra pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -95,21 +97,24 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.83
+  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eilartas fon Hobergas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Eilartas apibūdintas kaip vietininkas Taline, tad santykis su miesto valdymu yra pagrįstas.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumas: valde_miesta -> Talinas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eilartas fon Hobergas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Eilartas fon Hobergas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Eilartas įvardytas danų vietininku Taline, todėl valdžios ryšys su miestu yra tiesiogiai numanomas.
+
+## Ryšiai
+- Eilartas fon Hobergas valde_miesta [[objektai/vietos/Talinas]]

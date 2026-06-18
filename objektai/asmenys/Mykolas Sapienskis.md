@@ -31,7 +31,7 @@ periodo_grupes:
 - t-001
   global_id: t-35256
   teiginys: 'Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.'
-  susije_objektai: 'location: Konstancija; mentioned_place: Konstancija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Konstancija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: Konstancija'
   semantiniai_rysiai: '[[objektai/asmenys/Mykolas Sapienskis|Mykolas Sapienskis]] keliavo į Konstancija'
   temporaliniai_duomenys: 'kelionės data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Konstancija“, o ne visam objekto laikotarpiui.'
@@ -40,13 +40,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4200835d0a4bef210f9424aedc21fad8899a2b4ea1fd72bc3c2e766e446699a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstancija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mykolas Sapienskis: owner_note_path, person, gap=68
-  ryšio_targeto_parinkimas: Konstancija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mykolas Sapienskis" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Konstancija: 0.74
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Sapienskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sapienskis vadovavo delegacijai, kuri atvyko į Konstanciją.
 
 ## Reikšmingi paminėjimai
 
@@ -72,13 +72,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4200835d0a4bef210f9424aedc21fad8899a2b4ea1fd72bc3c2e766e446699a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstancija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Mykolas Sapienskis: owner_note_path, person, gap=68
-  ryšio_targeto_parinkimas: Konstancija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Mykolas Sapienskis" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Konstancija: 0.74
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Sapienskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sapienskis vadovavo delegacijai, kuri atvyko į Konstanciją.
 
 ## Ryšiai
 - Mykolas Sapienskis keliavo_i [[objektai/vietos/Konstancija]]

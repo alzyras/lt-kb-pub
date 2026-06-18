@@ -76,3 +76,6 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
   ryšio_subjekto_parinkimas: Losičiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Horodiščė: mention_match, place, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Losičiai" parinktas kaip owner_note_path. Targetas "Horodiščė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Losičiai priklause [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

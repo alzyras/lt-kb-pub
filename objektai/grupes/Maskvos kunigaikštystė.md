@@ -33,7 +33,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-001
   global_id: t-92733
   teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo priešas [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]]'
   temporaliniai_duomenys: 'įvykio data: 1349 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -63,21 +64,21 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237cceed8fc6462acb6edde5be37739aab1efbf37fe8819e11ad9a1c11cec4d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Maskvos kunigaikštystė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Algirdą ir Maskvos kunigaikščius priešais.
 
 <a id="claim-t-92735"></a>
 - t-003
   global_id: t-92735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   sudarymo_pagrindimas: 'Ilgas sąrašinis fragmentas sutrumpintas į pilną faktą apie Maskvos kunigaikštystės valdovą.'
-  susije_objektai: 'territory: Maskva; location: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] susiję su Maskva; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius; llm_object: Trakai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Trakai; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas sąrašinis fragmentas sutrumpintas į pilną faktą apie Maskvos kunigaikštystės valdovą.'
@@ -123,14 +124,13 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_after_title, group, gap=16
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate; Mazovija: candidate; Prūsija: candidate; Riazanė: candidate; Trakai: candidate; Tverė: candidate; Valakija: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mazovija.md", "selected": false, "strategy": "candidate", "title": "Mazovija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra, todėl siejama su jo atstovaujama kunigaikštyste.
 
 <a id="claim-t-92738"></a>
 - t-006
@@ -143,14 +143,13 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_after_title, group, gap=16
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate; Mazovija: candidate; Prūsija: candidate; Riazanė: candidate; Trakai: candidate; Tverė: candidate; Valakija: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mazovija.md", "selected": false, "strategy": "candidate", "title": "Mazovija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra.
 
 ## Reikšmingi paminėjimai
 
@@ -193,13 +192,13 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237cceed8fc6462acb6edde5be37739aab1efbf37fe8819e11ad9a1c11cec4d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Maskvos kunigaikštystė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Algirdą ir Maskvos kunigaikščius priešais.
     - t-005
 
 - c-003
@@ -220,14 +219,13 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_after_title, group, gap=16
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate; Mazovija: candidate; Prūsija: candidate; Riazanė: candidate; Trakai: candidate; Tverė: candidate; Valakija: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mazovija.md", "selected": false, "strategy": "candidate", "title": "Mazovija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra, todėl siejama su jo atstovaujama kunigaikštyste.
     - t-004
 
 - c-004
@@ -316,14 +314,13 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: owner_after_title, group, gap=16
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=16
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Livonija: candidate; Mazovija: candidate; Prūsija: candidate; Riazanė: candidate; Trakai: candidate; Tverė: candidate; Valakija: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Mazovija.md", "selected": false, "strategy": "candidate", "title": "Mazovija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.62
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 689184-689626; hash=7cefa2c109c52bd45a626af75383f8908738103673ea5b5e0eea06d0f7435a66; match=ocr_normalized
@@ -411,4 +408,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_priesas Maskvos kunigaikštystė
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Trakai]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Vilnius]]

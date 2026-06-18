@@ -51,6 +51,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
+- susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
+- susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
 - susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172930|M. Strijkovskis Stryjkowski]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172907|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.
@@ -91,3 +93,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   saltinio_vieta: hash=2a707fd3f84bf9f46ed94e795898bc8542693f3d1dfff24a4167ef3665591b3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]] vede Ringailė
+- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]] vede Ringailė

@@ -42,19 +42,20 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   global_id: t-60186
   teiginys: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Derska|Derska]]; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Gardinas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Pagudė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Derska|Derska]]; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Numa|Numa]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Numa|Numa]] gyveno Pagudė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547304-547975; hash=ea9fbd7484355820826b95b7a4b8711ee670696ac0dfba5aba864f0605bf1934; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Derska: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Numa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Derska: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Numa" parinktas kaip owner_note_path. Targetas "Derska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Numa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Numa kartu su Derska išžudė lietuvius.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-184473|Bartai]]: Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.
@@ -118,10 +119,15 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   irodymo_stiprumas: 0.00
   saltinio_vieta: 547304-547975; hash=ea9fbd7484355820826b95b7a4b8711ee670696ac0dfba5aba864f0605bf1934; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Derska: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Numa: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Derska: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Numa" parinktas kaip owner_note_path. Targetas "Derska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Numa: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Numa kartu su Derska išžudė lietuvius.
+
+## Ryšiai
+- Numa puole [[objektai/grupes/Lietuviai]]
+- Numa gyveno [[objektai/vietos/Pagudė]]
+- Numa reme [[objektai/grupes/Bartai]]

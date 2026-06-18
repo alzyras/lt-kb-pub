@@ -31,7 +31,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   global_id: t-49111
   teiginys: 'Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo, todėl jis perrašytas kaip savarankiškas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaunas; mentioned_place: Lietuva; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Tauro apygarda|Tauro apygarda]] gyveno Kaunas'
   temporaliniai_duomenys: 'įvykio data: po 1947 m.; įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo, todėl jis perrašytas kaip savarankiškas faktas.'
@@ -81,13 +82,13 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d08ad225a157b17c90d5b490fd8b30b0aa7871efd1017ed2cd2a1c3641305a97; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
+  ryšio_patikimumas: gyveno -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tauro apygarda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauro apygarda" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tauro apygarda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Tauro apygardos Birutės rinktinė veikė apie Kauną; tai vietos ryšys su apygarda per jos rinktinę.
 - susijęs iš Suvalkija: Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.
 ## Reikšmingi paminėjimai
 
@@ -126,13 +127,13 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d08ad225a157b17c90d5b490fd8b30b0aa7871efd1017ed2cd2a1c3641305a97; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
+  ryšio_patikimumas: gyveno -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tauro apygarda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauro apygarda" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tauro apygarda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Tauro apygardos Birutės rinktinė veikė apie Kauną; tai vietos ryšys su apygarda per jos rinktinę.
     - t-001
 
 - c-003
@@ -188,3 +189,6 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   ryšio_subjekto_parinkimas: Tauro apygarda: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Aleksandras Grybinas-Faustas: mention_match, person, gap=54
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tauro apygarda" parinktas kaip owner_note_path. Targetas "Aleksandras Grybinas-Faustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Tauro apygarda gyveno [[objektai/vietos/Kaunas]]

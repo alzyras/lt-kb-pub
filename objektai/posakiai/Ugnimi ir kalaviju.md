@@ -28,19 +28,19 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, turi aiškų veikėją ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras'
+  susije_objektai: 'llm_object: Sandomiras; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ugnimi ir kalaviju: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ugnimi ir kalaviju" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Sandomiras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sandomiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Vytenis nuvedė kariuomenę į Sandomiro žemę.
 
 <a id="claim-t-185465"></a>
 - t-002
@@ -50,19 +50,19 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškus, citata paremtas faktas.'
-  susije_objektai: 'territory: Sochačevas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Plockas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija; mentioned_place: Sochačevas'
+  susije_objektai: 'llm_object: Plockas; llm_object: Sochačevas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Plockas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija; mentioned_place: Sochačevas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269576-270353; hash=cadf19be1498cef4018ffc02f45e6bdb00bfcf321130743a1250f97d6c2323f8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Sochačevas: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Sochačevas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Sochačevas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Plockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Plockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad lietuviai užėmė Plocko apygardas.
 
 <a id="claim-t-185466"></a>
 - t-003
@@ -177,13 +177,13 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ugnimi ir kalaviju: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ugnimi ir kalaviju" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Sandomiras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sandomiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Vytenis nuvedė kariuomenę į Sandomiro žemę.
     - t-002
 
 - c-003
@@ -221,13 +221,13 @@ Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269576-270353; hash=cadf19be1498cef4018ffc02f45e6bdb00bfcf321130743a1250f97d6c2323f8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Sochačevas: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=10
-  ryšio_targeto_parinkimas: Sochačevas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Sochačevas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: uzeme -> Plockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Plockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad lietuviai užėmė Plocko apygardas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 942548-943387; hash=10eb7f0797048c879b42280c84c86b326a1ee1c35a7509c5a4fb09f2106bac87; match=exact

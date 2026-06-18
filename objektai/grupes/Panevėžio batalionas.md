@@ -83,3 +83,8 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
   ryšio_subjekto_parinkimas: Panevėžio batalionas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vėliavos: mention_match, thing, gap=70
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Panevėžio batalionas" parinktas kaip owner_note_path. Targetas "Vėliavos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Panevėžio batalionas puole [[objektai/grupes/Bermontininkai]]
+- Panevėžio batalionas kariavo_pries [[objektai/grupes/Bermontininkai]]
+- Panevėžio batalionas uzeme [[objektai/vietos/Meškuičiai]]

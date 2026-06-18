@@ -51,7 +51,8 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-003
   global_id: t-47985
   teiginys: 'VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  susije_objektai: 'llm_object: Apuolės pilis; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Apuolės pilis'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -92,3 +93,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Švedai]] uzeme Apuolės pilis (pilis)

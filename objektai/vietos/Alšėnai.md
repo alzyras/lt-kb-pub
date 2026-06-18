@@ -43,23 +43,21 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neatributuotas valdovo titulas, faktas išlaikytas pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Voložinas'
+  susije_objektai: 'llm_object: Alšėnai; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Voložinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Alšėnai'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 215886-216451; hash=789f37cce39af305ce45a3cb559388c998992747f131634c57639a6a9a1a45a3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alšėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alšėnai" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jonas (Alšėnų kunigaikštis).md#claim-t-87710|Jonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.
-- susijęs iš [[objektai/asmenys/Jurgis Algimantaitis.md#claim-t-186223|Jurgis Algimantaitis]]: Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
+  ryšio_patikimumas: keliavo_i -> Alšėnai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alšėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus.
+- susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
 - susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184744|Julijona (Vytauto žmona)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
@@ -182,15 +180,14 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 215886-216451; hash=789f37cce39af305ce45a3cb559388c998992747f131634c57639a6a9a1a45a3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alšėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alšėnai" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Alšėnai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alšėnai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus.
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas (Alšėnų kunigaikštis)]] buvo_valdovas Alšėnai
-- [[objektai/asmenys/Jurgis Algimantaitis]] buvo_valdovas Alšėnai
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] buvo_valdovas Alšėnai
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Alšėnai
+- [[objektai/asmenys/Povilas Algimantas]] buvo_valdovas Alšėnai

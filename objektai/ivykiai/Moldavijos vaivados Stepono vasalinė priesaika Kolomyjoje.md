@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kolomyja: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolomyja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Stepono atvykimą į Kolomyją.
 
 <a id="claim-t-186762"></a>
 - t-002
@@ -88,7 +88,7 @@ Nenurodyta
   teiginys: 'Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  susije_objektai: 'llm_object: Kolomyja; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
@@ -204,10 +204,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kolomyja: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kolomyja: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Stepono atvykimą į Kolomyją.

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   teiginys: 'Vygando iš Marburgo XIV a. kronika laikoma svarbiu šaltiniu Lietuvos XIII-XIV a. feodalinio laikotarpio istorijai nušviesti.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pagrindžia kronikos reikšmę, bet pradinis teiginys buvo gramatiškai netvarkingas ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia kronikos reikšmę, bet pradinis teiginys buvo gramatiškai netvarkingas ir per ilgas.'
@@ -41,13 +41,13 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vygandas iš Marburgo: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vygandas iš Marburgo" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata kalba apie lietuvių kovą prieš Kryžiuočių ordiną.
 
 ## Reikšmingi paminėjimai
 
@@ -74,10 +74,10 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vygandas iš Marburgo: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vygandas iš Marburgo" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata kalba apie lietuvių kovą prieš Kryžiuočių ordiną.

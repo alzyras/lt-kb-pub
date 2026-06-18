@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citatoje nurodytais veiksmais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Kijevas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Kijevas; mentioned_place: Polockas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 772319-772952; hash=22691942d8d8bcec2dd4c22f039f7cffe4cf10866b91b5fcf15e2220530c16e9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Gardinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Žygimantas be kraujo praliejimo paėmė Gardiną.
 
 ## Reikšmingi paminėjimai
 
@@ -83,10 +83,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 772319-772952; hash=22691942d8d8bcec2dd4c22f039f7cffe4cf10866b91b5fcf15e2220530c16e9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Gardinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Žygimantas be kraujo praliejimo paėmė Gardiną.

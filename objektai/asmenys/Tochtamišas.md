@@ -34,7 +34,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   global_id: t-111432
   teiginys: '1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Tochtamišas|Tochtamišas]] gyveno Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'
@@ -43,39 +44,40 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c15562ccfce0d17794bec5997a321d048415cfc543aec2be7d099ded80f1fc14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timuras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tochtamišas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Timuras: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišas" parinktas kaip owner_note_path. Targetas "Timuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tochtamišas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad vėliau Timuras sumušė Tochtamišą.
 
 <a id="claim-t-111433"></a>
 - t-002
   global_id: t-111433
   teiginys: 'Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Tochtamišą su Timūr-Kutluko reikalavimu Vytautui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Tochtamišas|Tochtamišas]] buvo priešas [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 860445-860585; hash=60e9deea9ba11cf978a134025e625865ccdb4f63390e5ad25676b85cd6bdc487; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tochtamišas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Tochtamišas prisiglaudė Lietuvoje.
 
 <a id="claim-t-111435"></a>
 - t-003
   global_id: t-111435
   teiginys: 'Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
   sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu fragmentu; citata pagrindžia aiškų teiginį apie Tochtamišo totorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Vilnius; llm_object: Kijevas'
   pagrindžia:
     - c-002
 
@@ -96,7 +98,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   global_id: t-111437
   teiginys: 'Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Timuras|Timuras]] puolė [[objektai/asmenys/Tochtamišas|Tochtamišas]]; [[objektai/asmenys/Timuras|Timuras]] rėmė [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
@@ -112,6 +115,12 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   ryšio_subjekto_parinkimas: Tochtamišas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Dniepras: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišas" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82654|Saladinas]]: Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.
+- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82655|Saladinas]]: Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
+- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186382|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.
+- susijęs iš [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“.md#claim-t-186383|„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]: Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.
+- susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30397|Timuras]]: Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė.
+- susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30397|Timuras]]: Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė.
 - susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82654|Saladinas]]: Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.
 - susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30397|Timuras]]: Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė.
 - susijęs iš [[objektai/daiktai/Tochtamišo jarlykas.md#claim-t-100065|Tochtamišo jarlykas]]: 1393 m. gegužės 20 d. Tochtamišas siuntė Jogailai jarlyką, kviesdamas sąjungai prieš bendrus priešus ir siūlydamas pagalbą.
@@ -147,6 +156,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - susijęs iš Vorskla: Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.
 - susijęs iš Vorskla: Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.
 - susijęs iš [[objektai/zodynas/emyras.md#claim-t-183709|emyras]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
+- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05239|Auksinė Orda]]: Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -184,13 +194,13 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c15562ccfce0d17794bec5997a321d048415cfc543aec2be7d099ded80f1fc14; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timuras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tochtamišas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Timuras: mention_match, person, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišas" parinktas kaip owner_note_path. Targetas "Timuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Tochtamišas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timuras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad vėliau Timuras sumušė Tochtamišą.
     - t-003
 
 - c-003
@@ -269,10 +279,19 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   irodymo_stiprumas: 0.00
   saltinio_vieta: 860445-860585; hash=60e9deea9ba11cf978a134025e625865ccdb4f63390e5ad25676b85cd6bdc487; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tochtamišas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Tochtamišas prisiglaudė Lietuvoje.
+
+## Ryšiai
+- Tochtamišas buvo_priesas [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/asmenys/Saladinas]] buvo_sunus Tochtamišas
+- [[objektai/asmenys/Timūr-Kutlukas]] buvo_priesas Tochtamišas
+- Tochtamišas gyveno [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Timuras]] puole Tochtamišas
+- [[objektai/asmenys/Timuras]] reme Tochtamišas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Tochtamišas

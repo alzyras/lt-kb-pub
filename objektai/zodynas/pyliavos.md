@@ -71,7 +71,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   global_id: t-101600
   teiginys: 'Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, sakinys suformuluotas gramatiškai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/NKVD|NKVD]]'
   temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, sakinys suformuluotas gramatiškai.'
@@ -80,19 +80,19 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a72080207e0ac75412f7a4be25f00e88b29d00b0c96509436b4ce96f0c37c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pyliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pyliavos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai nurodo, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.
 
 <a id="claim-t-101601"></a>
 - t-005
   global_id: t-101601
   teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/NKVD|NKVD]]'
   temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -100,13 +100,13 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a72080207e0ac75412f7a4be25f00e88b29d00b0c96509436b4ce96f0c37c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pyliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pyliavos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai nurodo, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.
 
 ## Reikšmingi paminėjimai
 
@@ -201,21 +201,21 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a72080207e0ac75412f7a4be25f00e88b29d00b0c96509436b4ce96f0c37c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pyliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pyliavos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai nurodo, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a72080207e0ac75412f7a4be25f00e88b29d00b0c96509436b4ce96f0c37c59; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pyliavos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pyliavos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai nurodo, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.

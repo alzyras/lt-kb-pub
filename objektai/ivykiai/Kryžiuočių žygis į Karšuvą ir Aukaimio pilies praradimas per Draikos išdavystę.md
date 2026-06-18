@@ -56,19 +56,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį sakinį su aiškiais veikėjais ir veiksmu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 309499-310206; hash=1f00ca59f89324b0f9d2b62b3d29cd12d76d827a19a30baf8be530fdf012834c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Draika: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Draika: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Piną kaip Draikos sūnų.
 
 ## Reikšmingi paminėjimai
 
@@ -131,10 +131,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 309499-310206; hash=1f00ca59f89324b0f9d2b62b3d29cd12d76d827a19a30baf8be530fdf012834c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Draika: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Draika: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Piną kaip Draikos sūnų.

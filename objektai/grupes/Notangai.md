@@ -60,7 +60,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78395
   teiginys: '1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir įtraukia antraštę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Kroicburgas; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Kroicburgas; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Kroicburgas; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] apgulė Kroicburgas; [[objektai/grupes/Notangai|Notangai]] puolė Kroicburgas'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir įtraukia antraštę.'
@@ -108,13 +109,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 190968-191198; hash=f1a72c8fc8a9718f2c56bd989e664a9eebd5a218c0fce136fba2648293133b7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prieglius: 1.00
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Prieglius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Prieglius: nearest_after_predicate, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Prieglius: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78398"></a>
 - t-005
@@ -146,13 +147,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
 
 <a id="claim-t-78400"></a>
 - t-007
@@ -181,19 +182,20 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78401
   teiginys: 'Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 380137-380749; hash=b082dba1133dc541832e743446b2e5afaafb9f3decbf829c7277810589680119; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teutonų paėmimas į nelaisvę po skerdynių rodo notangų karinę priešpriešą teutonams.
 
 <a id="claim-t-78402"></a>
 - t-009
@@ -228,20 +230,21 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d733622b06b2676e0a77fe9d989f958577cf5ba14c8d40574fd0bd9a93258a21; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai apsupo Kroicburgo pilį.
 
 <a id="claim-t-78404"></a>
 - t-011
   global_id: t-78404
   teiginys: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, datuotas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_place: Notanga; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Bisenė; mentioned_place: Bisenė; mentioned_place: Notanga; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] puolė Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, datuotas ir paremtas citata.'
@@ -250,13 +253,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427337-427992; hash=40bb5acd073737dc8abe7db1effba5dab7c530e247f22ff7c176d99feba07921; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko iš Šenenbergo dalyvavimą Herkaus Manto nužudyme.
 
 <a id="claim-t-78405"></a>
 - t-012
@@ -272,21 +275,20 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427337-427992; hash=40bb5acd073737dc8abe7db1effba5dab7c530e247f22ff7c176d99feba07921; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Helvigas iš Goldbacho: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Helvigo iš Goldbacho dalyvavimą Herkaus Manto nužudyme.
 
 <a id="claim-t-78406"></a>
 - t-013
   global_id: t-78406
   teiginys: 'Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.'
   sudarymo_pagrindimas: 'Reikia susieti teritorijos faktą su note objektu.'
-  susije_objektai: 'location: Prieglius; mentioned_place: Prieglius'
-  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] gyveno Prieglius'
+  susije_objektai: 'mentioned_place: Prieglius'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -327,7 +329,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78408
   teiginys: 'Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti Herkų Mantą su notangais ir įtraukti citatoje nurodytą įvykio baigtį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -346,26 +348,28 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78409
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo notangų pasirinktą vadą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] paskyrė [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=439a3f93ed59ae4a3bb274a47953bea42bde3890f3088ef759397dc78ce1e62e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Notangos vyrai užpuolė Bisenės pilį.
 
 <a id="claim-t-78410"></a>
 - t-017
   global_id: t-78410
   teiginys: '1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėjus ir žygio kryptį, kaip citatoje.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Medininkai; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] surengė žygį į Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėjus ir žygio kryptį, kaip citatoje.'
@@ -374,20 +378,20 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Medininkai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Notangos vyrai žygiavo į Medininkų valsčių.
 
 <a id="claim-t-78411"></a>
 - t-018
   global_id: t-78411
   teiginys: 'Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -419,6 +423,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Baiga: Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.
+- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
+- susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
+- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
+- susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-62899|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
+- susijęs iš Baiga: Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Govina.md#claim-t-60295|Govina]]: Govina kartu su Stanta, Trinta, Misinu ir kitais rengė notangų žygį bei jam vadovavo.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175202|Herkus Mantas]]: Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.
@@ -511,6 +523,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš Vizenburgas: Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184002|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
+- susijęs iš [[objektai/asmenys/Štenkelis iš Bentheimo.md#claim-t-60476|Štenkelis iš Bentheimo]]: Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -587,13 +600,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427337-427992; hash=40bb5acd073737dc8abe7db1effba5dab7c530e247f22ff7c176d99feba07921; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Helvigas iš Goldbacho: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Helvigo iš Goldbacho dalyvavimą Herkaus Manto nužudyme.
     - t-016
 
 - c-004
@@ -622,13 +635,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=439a3f93ed59ae4a3bb274a47953bea42bde3890f3088ef759397dc78ce1e62e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Notangos vyrai užpuolė Bisenės pilį.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 392757-393246; hash=52cef272ae39d1a8703310d56fbd5f6a4909d480b1270659f1844d0902c1148e; match=exact
@@ -716,13 +729,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 190968-191198; hash=f1a72c8fc8a9718f2c56bd989e664a9eebd5a218c0fce136fba2648293133b7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prieglius: 1.00
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Prieglius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=9
-  ryšio_targeto_parinkimas: Prieglius: nearest_after_predicate, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Prieglius: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-008
@@ -795,13 +808,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d733622b06b2676e0a77fe9d989f958577cf5ba14c8d40574fd0bd9a93258a21; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai apsupo Kroicburgo pilį.
     - t-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=fallback; occurrences=0
@@ -884,13 +897,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Medininkai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Notangos vyrai žygiavo į Medininkų valsčių.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7feab7a6e7ccfca1b97dde9d1827ce04915ba77db2aee14abf71714151e49e1c; match=fallback; occurrences=0
@@ -996,13 +1009,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 427337-427992; hash=40bb5acd073737dc8abe7db1effba5dab7c530e247f22ff7c176d99feba07921; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko iš Šenenbergo dalyvavimą Herkaus Manto nužudyme.
     - t-008
 
 - c-017
@@ -1020,24 +1033,37 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 380137-380749; hash=b082dba1133dc541832e743446b2e5afaafb9f3decbf829c7277810589680119; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teutonų paėmimas į nelaisvę po skerdynių rodo notangų karinę priešpriešą teutonams.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notangai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangai" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
 
 ## Ryšiai
-- Notangai gyveno [[objektai/vietos/Prieglius]]
+- Notangai apgule [[objektai/vietos/Kroicburgas]]
+- Notangai puole [[objektai/vietos/Kroicburgas]]
+- Notangai puole [[objektai/vietos/Bisenė]]
+- Notangai paskyre [[objektai/asmenys/Herkus Mantas]]
+- Notangai surenge_zygi_i [[objektai/vietos/Medininkai]]
+- [[objektai/asmenys/Pobravas]] buvo_sajungininkas_su Notangai
+- Notangai puole [[objektai/vietos/Baiga]]
+- Notangai paskyre [[objektai/asmenys/Hirtshalsas]]
+- Notangai paskyre [[objektai/asmenys/Sabinas]]
+- Notangai surenge_zygi_i [[objektai/vietos/Bartenšteinas]]
+- Notangai puole [[objektai/vietos/Bartenšteinas]]
+- Notangai kariavo_pries [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Štenkelis iš Bentheimo]] kariavo_pries Notangai
+- Notangai priklause [[objektai/grupes/Teutonai]]

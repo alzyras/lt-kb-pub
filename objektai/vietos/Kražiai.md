@@ -44,6 +44,9 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   ryšio_subjekto_parinkimas: Kražiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kražiai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
+- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-183228|Kražių įvykiai]]: 1893 m. Kražių įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.
+- susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-20232|Kražių įvykiai]]: Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.
 - susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-183228|Kražių įvykiai]]: 1893 m. Kražių įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.
 - susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-20232|Kražių įvykiai]]: Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
@@ -53,6 +56,8 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
 - susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 - susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
+- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
+- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
 - susijęs iš [[objektai/autoriai/L. Vladimirovas.md#claim-t-30785|L. Vladimirovas]]: L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179537|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
@@ -107,3 +112,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   ryšio_subjekto_parinkimas: Kražiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kražiai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kazokai]] puole Kražiai

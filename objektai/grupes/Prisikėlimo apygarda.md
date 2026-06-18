@@ -113,6 +113,8 @@ amziai:
 - susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
+- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
+- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -227,3 +229,6 @@ amziai:
   ryšio_subjekto_parinkimas: Prisikėlimo apygarda: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kęstučio apygarda: mention_match, group, gap=12
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisikėlimo apygarda" parinktas kaip owner_note_path. Targetas "Kęstučio apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/P. Lukšio rinktinė]] priklause Prisikėlimo apygarda

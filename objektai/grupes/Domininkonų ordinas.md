@@ -35,7 +35,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-001
   global_id: t-112507
   teiginys: 'Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Lietuva; llm_object: Ryga; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]] gyveno Ryga'
   pagrindžia:
     - c-007
 
@@ -56,7 +57,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-112511
   teiginys: 'Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Šventoji'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -83,7 +84,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-112514
   teiginys: 'Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, bet citata leidžia suformuluoti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_place: Šventoji'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -127,13 +128,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9edc54aa420e21d4541323d4a1da3a5bca98aa7fc5f5894f86884d7c4c75b583; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Domininkonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Domininkonų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Ryga: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Domininkonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad domininkonai veikė Rygoje.
 
 <a id="claim-t-112518"></a>
 - t-009
@@ -167,13 +168,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bonifacas IX: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Domininkonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Bonifacas IX: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Domininkonų ordinas" parinktas kaip owner_note_path. Targetas "Bonifacas IX" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Gregorijus (Vladimiro vyskupas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gregorijus (Vladimiro vyskupas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bonifacas IX vyskupu paskyrė Gregorijų.
 
 <a id="claim-t-112520"></a>
 - t-011
@@ -222,6 +223,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, o pradinis sakinys buvo fragmentiškas.'
   pagrindžia:
     - c-005
+- susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
@@ -278,13 +280,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bonifacas IX: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Domininkonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Bonifacas IX: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Domininkonų ordinas" parinktas kaip owner_note_path. Targetas "Bonifacas IX" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Gregorijus (Vladimiro vyskupas): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bonifacas IX: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gregorijus (Vladimiro vyskupas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bonifacas IX vyskupu paskyrė Gregorijų.
     - t-003
     - t-006
 
@@ -424,13 +426,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9edc54aa420e21d4541323d4a1da3a5bca98aa7fc5f5894f86884d7c4c75b583; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Domininkonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Domininkonų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Ryga: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Domininkonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad domininkonai veikė Rygoje.
     - t-001
 
 - c-008
@@ -561,3 +563,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   ryšio_subjekto_parinkimas: Domininkonų ordinas: owner_note_path, group
   ryšio_targeto_parinkimas: Gotlandas: mention_match, place, gap=73
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Domininkonų ordinas" parinktas kaip owner_note_path. Targetas "Gotlandas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Domininkonų ordinas
+- Domininkonų ordinas gyveno [[objektai/vietos/Ryga]]

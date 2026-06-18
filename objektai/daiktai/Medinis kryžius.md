@@ -44,19 +44,20 @@ Nenurodyta
   global_id: t-59693
   teiginys: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata leidžia aiškiai įvardyti Ruseinį ir kryžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena; llm_object: [[objektai/daiktai/Medinis kryžius|Medinis kryžius]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Ruseinis|Ruseinis]] pastatė [[objektai/daiktai/Medinis kryžius|Medinis kryžius]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumas: pastate -> Medinis kryžius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medinis kryžius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medinis kryžius" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medinis kryžius: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Ruseinis pasirūpino medinio kryžiaus padirbdinimu.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +82,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumas: pastate -> Medinis kryžius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medinis kryžius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medinis kryžius" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medinis kryžius: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Ruseinis pasirūpino medinio kryžiaus padirbdinimu.
+
+## Ryšiai
+- [[objektai/asmenys/Ruseinis]] pastate Medinis kryžius

@@ -52,7 +52,7 @@ Nenurodyta
   teiginys: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai negrabokas ir perkrautas detalėmis, o citata leidžia glaustesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Lietuva; llm_object: Vorskla'
   pagrindžia:
     - c-002
 
@@ -71,13 +71,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217652-218060; hash=3d611c93c1dde839cec3196a54823625826868ff22bd4d6d252b9ded9c57b4e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vorskla: 0.85
+  ryšio_patikimumas: gyveno -> Vorskla: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (1399 m. rugpjūčio 12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vorskla: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (1399 m. rugpjūčio 12 d.)" parinktas kaip owner_note_path. Targetas "Vorskla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trumpalaikis kariuomenės stovėjimas prie Vorsklos tiesiogiai nurodytas, bet relacija „gyveno“ čia tik apytiksliai atitinka buvimą vietoje.
 
 <a id="claim-t-183677"></a>
 - t-003
@@ -87,7 +87,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją Detmaro Liubeko kronikos tęsiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -233,13 +233,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217652-218060; hash=3d611c93c1dde839cec3196a54823625826868ff22bd4d6d252b9ded9c57b4e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vorskla: 0.85
+  ryšio_patikimumas: gyveno -> Vorskla: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (1399 m. rugpjūčio 12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vorskla: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (1399 m. rugpjūčio 12 d.)" parinktas kaip owner_note_path. Targetas "Vorskla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trumpalaikis kariuomenės stovėjimas prie Vorsklos tiesiogiai nurodytas, bet relacija „gyveno“ čia tik apytiksliai atitinka buvimą vietoje.
     - t-003
 
 - c-008

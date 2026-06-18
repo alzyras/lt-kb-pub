@@ -31,7 +31,8 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   global_id: t-19156
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Mindaugą, todėl perrašytas kaip faktas apie Mortą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Morta|Morta]] buvo žmona [[objektai/asmenys/Mindaugas|Mindaugas]]'
   temporaliniai_duomenys: 'įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau akcentuoja Mindaugą, todėl perrašytas kaip faktas apie Mortą.'
@@ -40,13 +41,19 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=21653e9619074d8e578a0b8693e99c61c85bb5d11293b2c30af852d92c7cc3c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Morta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Morta" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Mindaugas (valdovas, XIII a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Morta tiesiogiai įvardyta Mindaugo žmona.
+- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
+- susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-183266|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
+- susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66790|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
+- susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187502|Mindaugo krikštas (krikštas)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113909|Mindaugas (valdovas, XIII a.)]]: 1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.
+- susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71757|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.
 - susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71757|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-183266|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
@@ -75,10 +82,14 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=21653e9619074d8e578a0b8693e99c61c85bb5d11293b2c30af852d92c7cc3c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Morta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Morta" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Mindaugas (valdovas, XIII a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Morta tiesiogiai įvardyta Mindaugo žmona.
+
+## Ryšiai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_vyras Morta
+- Morta buvo_zmona [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

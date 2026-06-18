@@ -52,7 +52,7 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pridėtas trūkstamas skyrybos ženklas ir išlaikyta komentaro atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1385 m.; įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas trūkstamas skyrybos ženklas ir išlaikyta komentaro atribucija.'
@@ -61,13 +61,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai pagrindžia Jogailos santuokos ryšį.
 
 <a id="claim-t-186715"></a>
 - t-002
@@ -75,7 +75,7 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistos citatoje pateiktos konkrečios datos ir palikta atribucija komentarui. Titulas „Lenkijos karalius“ išlaikytas kaip komentaro formuluotės dalis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Alšėnai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]; llm_object: Krokuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Alšėnai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1385 m.; kelionės data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistos citatoje pateiktos konkrečios datos ir palikta atribucija komentarui. Titulas „Lenkijos karalius“ išlaikytas kaip komentaro formuluotės dalis.'
@@ -84,13 +84,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=49
-  ryšio_targeto_parinkimas: Krokuva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Krokuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo, kad Jogaila važiavo į Krokuvą.
 
 <a id="claim-t-186716"></a>
 - t-003
@@ -98,7 +98,7 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir paremtas komentaro citata.'
-  susije_objektai: 'location: Krokuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Krokuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1385 m.; kelionės data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatinis ir paremtas komentaro citata.'
@@ -107,13 +107,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai nusako santuoką.
 
 ## Reikšmingi paminėjimai
 
@@ -139,32 +139,32 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.93
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=49
-  ryšio_targeto_parinkimas: Krokuva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Krokuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo, kad Jogaila važiavo į Krokuvą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai nusako santuoką.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d36dd720cc27d06e43e0d90423c67be1cc12bb8d18e72e0367902bd39f828992; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jungtuvės su Jadvyga tiesiogiai pagrindžia Jogailos santuokos ryšį.

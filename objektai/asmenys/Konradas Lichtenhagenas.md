@@ -87,3 +87,6 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
   ryšio_subjekto_parinkimas: Konradas Lichtenhagenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Lichtenhagenas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Konradas Lichtenhagenas keliavo_i [[objektai/vietos/Lietuva]]

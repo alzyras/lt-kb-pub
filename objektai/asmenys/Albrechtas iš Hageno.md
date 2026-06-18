@@ -31,19 +31,20 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   global_id: t-60004
   teiginys: 'Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Albrechto vaidmenį, bet pradiniame teiginyje yra neaiškių įvardžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; llm_object: [[objektai/grupes/Skalviai|Skalviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Konradas|Konradas]] buvo sąjungininkas su [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] gynė [[objektai/grupes/Skalviai|Skalviai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas iš Hageno" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Albrechtas gynė pilį nuo lietuvių karaliaus karių, todėl priešprieša su lietuviais pagrįsta.
 
 <a id="claim-t-60005"></a>
 - t-002
@@ -59,20 +60,21 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d165c4f6ca6f0fd1bb18a3c9914d8ab0210b40fa6c0d9b4e9d0052f78e17f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas iš Hageno" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas iš Hageno tiesiogiai nurodytas kaip Sudargo kiemo užpuolikas.
 
 <a id="claim-t-60006"></a>
 - t-003
   global_id: t-60006
   teiginys: 'Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų veiksmą, o pradinį tekstą reikia sutrumpinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] puolė [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -171,21 +173,28 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d165c4f6ca6f0fd1bb18a3c9914d8ab0210b40fa6c0d9b4e9d0052f78e17f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas iš Hageno" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas iš Hageno tiesiogiai nurodytas kaip Sudargo kiemo užpuolikas.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas iš Hageno" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Albrechtas gynė pilį nuo lietuvių karaliaus karių, todėl priešprieša su lietuviais pagrįsta.
+
+## Ryšiai
+- Albrechtas iš Hageno puole [[objektai/asmenys/Sudargas]]
+- Albrechtas iš Hageno puole [[objektai/vietos/Gardinas]]
+- Albrechtas iš Hageno kariavo_pries [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Konradas]] buvo_sajungininkas_su Albrechtas iš Hageno
+- Albrechtas iš Hageno gyne [[objektai/grupes/Skalviai]]

@@ -29,20 +29,20 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a78fb682d3a5742baea88ad6979a5d4d05ba0f1798d94112ec6c1e64dc10729; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timūr-Kutlukas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: chanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Timūr-Kutlukas: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "chanas" parinktas kaip owner_note_path. Targetas "Timūr-Kutlukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timūr-Kutlukas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pokalbis vyksta prieš mūšį tarp Vytauto ir chano Timūr-Kutluko, todėl priešiškumas numanomas iš tiesioginio mūšio konteksto.
 
 <a id="claim-t-78882"></a>
 - t-002
   global_id: t-78882
   teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti chaną ir sutvarkyti sakinio formą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -61,19 +61,19 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   global_id: t-78883
   teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir pagrįstas citatoje pateikta totorių pajėgų sudėtimi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Edyga|Edyga]]; llm_object: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: chanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "chanas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Edyga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad totorių pajėgas sudarė Edygos kariai.
 - susijęs iš [[objektai/asmenys/Timuras.md#claim-t-30397|Timuras]]: Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87418|Šach Achmedas]]: Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.
 - susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-182858|Vytauto ženklas]]: Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.
@@ -183,13 +183,13 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a78fb682d3a5742baea88ad6979a5d4d05ba0f1798d94112ec6c1e64dc10729; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Timūr-Kutlukas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: chanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Timūr-Kutlukas: mention_match, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "chanas" parinktas kaip owner_note_path. Targetas "Timūr-Kutlukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Timūr-Kutlukas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pokalbis vyksta prieš mūšį tarp Vytauto ir chano Timūr-Kutluko, todėl priešiškumas numanomas iš tiesioginio mūšio konteksto.
     - t-002
 
 - c-003
@@ -226,10 +226,10 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217119-217419; hash=41a4ab9bc5ccba646c997209fd6583b6a46792023ac99c1883cc2f9c840383a7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: chanas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "chanas" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Edyga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totorių pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Edyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad totorių pajėgas sudarė Edygos kariai.

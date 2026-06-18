@@ -170,3 +170,6 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   ryšio_subjekto_parinkimas: Lenkų bajorija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=6
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkų bajorija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lenkų bajorija sudare_sutarti_su [[objektai/grupes/Švedai]]

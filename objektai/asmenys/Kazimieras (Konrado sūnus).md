@@ -33,7 +33,7 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   global_id: t-60355
   teiginys: 'Kazimieras pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.'
   sudarymo_pagrindimas: 'Citata pagrindžia Kazimiero pritarimą kartu su kitais Konrado šeimos nariais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Kazimiero pritarimą kartu su kitais Konrado šeimos nariais.'
@@ -42,13 +42,13 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 141821-143066; hash=61d35884a445e2172105b8dcc3b3434a098eaaa3bd8e45e834924b9d3226a9ec; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras (Konrado sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Konrado sūnus)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Lubavos žemės buvo atiduotos Teutonų ordinui.
 
 ## Reikšmingi paminėjimai
 
@@ -82,10 +82,10 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 141821-143066; hash=61d35884a445e2172105b8dcc3b3434a098eaaa3bd8e45e834924b9d3226a9ec; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras (Konrado sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Konrado sūnus)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Lubavos žemės buvo atiduotos Teutonų ordinui.

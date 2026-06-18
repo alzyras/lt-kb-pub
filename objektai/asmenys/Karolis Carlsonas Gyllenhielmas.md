@@ -33,7 +33,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   global_id: t-79073
   teiginys: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1574-1650; įvykio data: 1616 m.; įvykio data: 1620 m.; įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -61,13 +61,13 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=badf7dd0e8f4ff1dfa4b25bc1acd1171f152b2d7a11eeeae889bb2c2d35eb2eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karolis Carlsonas Gyllenhielmas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Carlsonas Gyllenhielmas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini švedų kariuomenę, veikusią prieš lietuvius.
 
 <a id="claim-t-79075"></a>
 - t-003
@@ -158,13 +158,13 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=badf7dd0e8f4ff1dfa4b25bc1acd1171f152b2d7a11eeeae889bb2c2d35eb2eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karolis Carlsonas Gyllenhielmas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Carlsonas Gyllenhielmas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini švedų kariuomenę, veikusią prieš lietuvius.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bd47587b11838f65edaafe1c79f131304080bc7e7bcff9b1efde40719b6aa34d; match=fallback; occurrences=0

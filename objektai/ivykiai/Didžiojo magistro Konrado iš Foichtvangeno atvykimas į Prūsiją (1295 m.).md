@@ -45,7 +45,7 @@ Nenurodyta
   teiginys: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
-  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_place: Kimelis'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_place: Kimelis; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'kelionės data: 1295 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c9a469b8d897b2408ccf1a2322febcf9257137525cdde04f066f4d63c51bf50; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip nearest_actor. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Foichtvangeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado atvykimą į Prūsijos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1c9a469b8d897b2408ccf1a2322febcf9257137525cdde04f066f4d63c51bf50; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip nearest_actor. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas iš Foichtvangeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado atvykimą į Prūsijos žemę.

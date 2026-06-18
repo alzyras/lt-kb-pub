@@ -80,7 +80,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177910
   teiginys: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, teiginys pritaikytas Podolei.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija'
   pagrindžia:
     - c-014
 
@@ -88,7 +88,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-005
   global_id: t-177911
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lenkija'
   pagrindžia:
     - c-007
 
@@ -118,7 +118,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177914
   teiginys: '1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Algirdo pergalę ir Podolės laimėjimą.'
-  susije_objektai: 'mentioned_place: Dniestras; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Būgas; mentioned_place: Dniepras'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: Podolė; mentioned_place: Dniestras; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Būgas; mentioned_place: Dniepras; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Podolė'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Algirdo pergalę ir Podolės laimėjimą.'
@@ -139,7 +140,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177916
   teiginys: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra konteksto fragmentas; citata pagrindžia autorinės pozicijos apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Volinija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Volinija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-026
 
@@ -148,19 +149,20 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177917
   teiginys: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir citata tiesiogiai patvirtina Kijevo kunigaikštystės įjungimą kartu su Podole.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota; llm_object: Bakota'
+  semantiniai_rysiai: 'Podolė priklausė Lietuva'
   pagrindžia:
     - c-020
   irodymo_stiprumas: 0.00
   saltinio_vieta: 458730-459079; hash=7cd5e13a4fd57258420b2289d4ee54e78d9deea7417d80d0eaaf8e946fb46cc1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kamenecas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Vaza: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zigmantas Vaza nurodė kariuomenei telktis prie Kameneco, todėl siuntimo į vietą ryšys pagrįstas.
 
 <a id="claim-t-177918"></a>
 - t-012
@@ -176,13 +178,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd5fbe369e8b5c555672f96f2058d3453284e1e248bf5fe9fa446c27f8e3cfbe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: keliavo_i -> Kamenecas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kariuomenė atžygiavo į stovyklą netoli Podolės Kameneco; pats Orininas nėra kandidatuose, todėl Kamenecas naudojamas kaip artimiausia leidžiama vieta.
 
 <a id="claim-t-177920"></a>
 - t-013
@@ -198,19 +200,20 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje kazokai apibūdinti kaip svarbi jėga ginantis Podolei nuo totorių.
 
 <a id="claim-t-177921"></a>
 - t-014
   global_id: t-177921
   teiginys: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Chotinas; mentioned_place: Dniestras'
+  susije_objektai: 'llm_object: Podolė; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Chotinas; mentioned_place: Dniestras'
+  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] gynė Podolė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -241,7 +244,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-017
   global_id: t-177926
   teiginys: 'Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Chotinas; mentioned_place: Dniestras'
+  susije_objektai: 'llm_object: Podolė; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Chotinas; mentioned_place: Dniestras'
+  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] gynė Podolė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -263,7 +267,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-019
   global_id: t-177928
   teiginys: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Podolė priklausė Lenkija; Podolė priklausė Lietuva'
   pagrindžia:
     - c-021
 
@@ -272,7 +277,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177929
   teiginys: '1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   sudarymo_pagrindimas: 'Reikia papildyti metus ir patikslinti veikėją iš citatos.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]'
+  susije_objektai: 'mentioned_place: Kamenecas; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; llm_object: Kamenecas'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia papildyti metus ir patikslinti veikėją iš citatos.'
@@ -281,69 +286,71 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cecc5ded9f21aa11cbfddb7f383afb94c7ff1fcea4c9c55ca7f3601c063665a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniestras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dniestras: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Dniestras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdą sumušus totorius.
 
 <a id="claim-t-177930"></a>
 - t-021
   global_id: t-177930
   teiginys: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, veiksmą ir rezultatą, paremtą citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Podolė priklausė Lenkija'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723547-723761; hash=93429871d359cd169ec15cbdb8b43d9d5f6102d7255f692e27088ad60688f396; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karijotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Karijotą kaip Algirdo brolį.
 
 <a id="claim-t-177931"></a>
 - t-022
   global_id: t-177931
   teiginys: 'Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Podolę ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; llm_object: Podolė'
+  semantiniai_rysiai: '[[objektai/grupes/Karijotaičiai|Karijotaičiai]] gyveno Podolė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Podolė buvo įjungta į Lietuvos valstybę.
 
 <a id="claim-t-177932"></a>
 - t-023
   global_id: t-177932
   teiginys: 'Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]]; mentioned_place: Lietuva; mentioned_place: Turkija'
+  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Lenkija; llm_object: Kamenecas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]]; mentioned_place: Lietuva; mentioned_place: Turkija'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kazokai citatoje tiesiogiai apibūdinti kaip svarbi gynybinė jėga Podolei.
 
 <a id="claim-t-177933"></a>
 - t-024
@@ -378,13 +385,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Podolė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją.
 
 <a id="claim-t-177935"></a>
 - t-026
@@ -412,7 +419,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-027
   global_id: t-177938
   teiginys: 'Tuo metu Vytautas paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Podolė'
   pagrindžia:
     - c-004
 
@@ -421,7 +429,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177939
   teiginys: 'Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.'
   sudarymo_pagrindimas: 'Citata pateikia šį teiginį kaip kitų autorių pasakojimą, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia šį teiginį kaip kitų autorių pasakojimą, todėl reikia aiškios atribucijos.'
@@ -430,13 +438,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f26b5ce23a7b4ebcfd9e69d9dde30130c6b4f997ddfd4443cc106a203436f13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo pranciškonų atvykimą į Vilnių.
 
 <a id="claim-t-177940"></a>
 - t-029
@@ -462,7 +470,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177941
   teiginys: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą apie Algirdą, Podoliją ir Dniepro žemupį.'
-  susije_objektai: 'mentioned_place: Dniepras; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: Podolė; mentioned_place: Dniepras; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; llm_object: Dniepras'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Podolė'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą apie Algirdą, Podoliją ir Dniepro žemupį.'
@@ -512,19 +521,20 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177945
   teiginys: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas šaltinio remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Podolė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Podolės atplėšimą nuo Lietuvos ir perdavimą Lenkijai.
 
 <a id="claim-t-177946"></a>
 - t-035
@@ -610,7 +620,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Vytauto veiksmą su Podolės prijungimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Podolė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Podolė'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -632,7 +643,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyta OCR klaida.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lietuva; mentioned_place: Lvovas'
+  susije_objektai: 'llm_object: Podolė; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lietuva; mentioned_place: Lvovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas|Boleslovas]] surengė žygį į Podolė'
   pagrindžia:
     - c-032
   irodymo_stiprumas: 0.00
@@ -688,7 +700,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tinkamai nurodo lietuvių poziciją dėl Podolės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: 'Podolė priklausė Lenkija; Podolė priklausė Lietuva'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
@@ -779,24 +792,48 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Titulas ir kronikos pasakojimas turi būti pateikti su atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vladimiras'
+  susije_objektai: 'llm_object: Podolė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vladimiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Podolė'
   pagrindžia:
     - c-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167687-168010; hash=5a08f4ea590f95a02ec774332e2360ca00544a1e2abd795a7884eceabf648e77; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
+  ryšio_patikimumas: surenge_zygi_i -> Podolė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto žygį į Podolės žemę.
+- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
+- susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
+- susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
 - susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
+- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186701|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
+- susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės.md#claim-t-186702|Teodoro Karijotaičio pašalinimas iš Podolės]]: Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.
+- susijęs iš Voluinė: Ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė tuo metu buvo valdoma lenkų.
 - susijęs iš Voluinė: Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.
-- susijęs iš Lvovas: Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184748|Kazimieras Didysis]]: Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.
+- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
+- susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
+- susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184822|Petras Goštautas]]: Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.
+- susijęs iš [[objektai/asmenys/Spytekas iš Melštyno.md#claim-t-40426|Spytekas iš Melštyno]]: Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių.
+- susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
+- susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
+- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
+- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
+- susijęs iš Braclavo sritis: Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse.
+- susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78880|baskakas]]: Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
+- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
+- susijęs iš Volynė: Visos Lietuvos valdos Volynėje buvo žiauriai nuniokotos, o lenkų įgulų ginamos gyvenvietės Podolėje didesnių nuostolių nepatyrė.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-28992|Borisas Karijotaitis]]: Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40083|D. Osten-Sakenas]]: Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai.
@@ -883,6 +920,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
 - susijęs iš [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai.md#claim-t-22096|dalinių kunigaikštijų sistema vietininkai]]: Vytautas 1394 m. panaikino Kijevo kunigaikštiją, o 1395 m. paskyrė savo vietininką Podolėje.
+- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184748|Kazimieras Didysis]]: Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
@@ -1057,6 +1097,17 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184646|vietininkas]]: Vėl prijungus Podolę prie Lietuvos, pilyse ir miestuose buvo paliktos lietuvių įgulos ir lietuvių kilmės vietininkai.
 - susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
+- susijęs iš [[objektai/grupes/Podolės bajorai.md#claim-t-86817|Podolės bajorai]]: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijai.
+- susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
+- susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176742|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
+- susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
+- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1136,13 +1187,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Podolė buvo įjungta į Lietuvos valstybę.
     - t-027
     - t-034
 
@@ -1179,24 +1230,24 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Podolės atplėšimą nuo Lietuvos ir perdavimą Lenkijai.
     - t-028
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f26b5ce23a7b4ebcfd9e69d9dde30130c6b4f997ddfd4443cc106a203436f13; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo pranciškonų atvykimą į Vilnių.
     - t-033
 
 - c-006
@@ -1215,13 +1266,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3eebb5ddbcaedd189cf0c2ea659fd4efb084dc958bd117ede7b9ee4c6c690acf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: priklause -> Lenkija: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Švitrigaila atsisakė Kameneco Lenkijos labui, todėl tekstas pagrindžia Kameneco perėjimą Lenkijos naudai.
     - t-012
 
 - c-007
@@ -1240,13 +1291,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fd5fbe369e8b5c555672f96f2058d3453284e1e248bf5fe9fa446c27f8e3cfbe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumas: keliavo_i -> Kamenecas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kariuomenė atžygiavo į stovyklą netoli Podolės Kameneco; pats Orininas nėra kandidatuose, todėl Kamenecas naudojamas kaip artimiausia leidžiama vieta.
     - t-005
 
 - c-008
@@ -1398,13 +1449,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Podolė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją.
     - t-004
 
 - c-015
@@ -1560,13 +1611,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5cecc5ded9f21aa11cbfddb7f383afb94c7ff1fcea4c9c55ca7f3601c063665a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniestras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dniestras: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Dniestras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdą sumušus totorius.
     - t-007
     - t-023
 
@@ -1589,13 +1640,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kazokai citatoje tiesiogiai apibūdinti kaip svarbi gynybinė jėga Podolei.
     - t-011
 
 - c-021
@@ -1624,24 +1675,24 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 458730-459079; hash=7cd5e13a4fd57258420b2289d4ee54e78d9deea7417d80d0eaaf8e946fb46cc1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kamenecas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Vaza: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kamenecas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zigmantas Vaza nurodė kariuomenei telktis prie Kameneco, todėl siuntimo į vietą ryšys pagrįstas.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: 723547-723761; hash=93429871d359cd169ec15cbdb8b43d9d5f6102d7255f692e27088ad60688f396; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karijotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Karijotą kaip Algirdo brolį.
     - t-019
 
 - c-022
@@ -1695,13 +1746,13 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje kazokai apibūdinti kaip svarbi jėga ginantis Podolei nuo totorių.
     - t-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bdb120a14ddb33d299942873819c7011702ba24854331b3784e5d7abbac8a018; match=fallback; occurrences=0
@@ -2123,18 +2174,46 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 167687-168010; hash=5a08f4ea590f95a02ec774332e2360ca00544a1e2abd795a7884eceabf648e77; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Podolė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto žygį į Podolės žemę.
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Podolė
-- [[objektai/asmenys/Daugirdas Gedgaila]] valde_teritorija Podolė
-- [[objektai/grupes/Lenkai]] valde_teritorija Podolė
 - Podolė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Rusai]] keliavo_i Podolė
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Podolė
+- [[objektai/asmenys/Boleslovas]] surenge_zygi_i Podolė
+- [[objektai/asmenys/Fiodoras Ostrogiškis]] puole Podolė
+- [[objektai/asmenys/Nestanas]] valde Podolė
+- [[objektai/asmenys/Daugirdas Gedgaila]] valde Podolė
+- [[objektai/grupes/Karijotaičiai]] gyne Podolė
+- [[objektai/grupes/Lenkai]] valde Podolė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Podolė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Podolė
+- [[objektai/grupes/Karijotaičiai]] keliavo_i Podolė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Podolė
+- [[objektai/grupes/Totoriai]] puole Podolė
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Podolė
+- [[objektai/asmenys/Borisas Karijotaitis]] gyveno Podolė
+- Podolė priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Spytekas iš Melštyno]] valde_teritorija Podolė
+- [[objektai/asmenys/Spytkas iš Melsztyno]] valde_teritorija Podolė
+- [[objektai/vietos/Braclavo sritis]] priklause Podolė
+- [[objektai/grupes/Kazokai]] gyne Podolė
+- [[objektai/grupes/Gediminaičiai]] valde_teritorija Podolė
+- [[objektai/grupes/Lenkai]] gyne Podolė
+- [[objektai/vietos/Podolės Kamenecas]] priklause Podolė
 - [[objektai/asmenys/Kazimieras Didysis]] uzeme Podolė
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] gyveno Podolė
+- [[objektai/vietos/Kamenecas]] priklause Podolė
+- [[objektai/grupes/Podolės bajorai]] uzeme Podolė
+- [[objektai/grupes/Krymo totoriai]] puole Podolė
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] valde_teritorija Podolė
+- [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis)]] valde Podolė
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Podolė
+- [[objektai/asmenys/Edyga]] puole Podolė
+- [[objektai/grupes/Karijotaičiai]] valde_teritorija Podolė
+- [[objektai/grupes/Karijotaičiai]] gyveno Podolė

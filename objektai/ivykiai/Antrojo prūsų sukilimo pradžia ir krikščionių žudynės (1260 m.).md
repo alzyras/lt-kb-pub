@@ -52,20 +52,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374135-375104; hash=df4be47cf3c49fdb7e66e0c302b5713b4d8b881164bf01f9aa4cc97a77308b6c; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai savo kariuomenės vadu išsirinko Herkų Mantą.
 
 <a id="claim-t-66455"></a>
 - t-002
   global_id: t-66455
   teiginys: '1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Aistmarios; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Aistmarios; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir remiasi citata.'
@@ -129,13 +129,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374135-375104; hash=df4be47cf3c49fdb7e66e0c302b5713b4d8b881164bf01f9aa4cc97a77308b6c; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad notangai savo kariuomenės vadu išsirinko Herkų Mantą.
     - t-003
 
 - c-002

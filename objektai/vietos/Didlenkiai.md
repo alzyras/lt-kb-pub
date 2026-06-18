@@ -131,3 +131,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   ryšio_subjekto_parinkimas: Didlenkiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mažlenkiai: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didlenkiai" parinktas kaip owner_note_path. Targetas "Mažlenkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Didlenkiai priklause [[objektai/vietos/Lenkija]]

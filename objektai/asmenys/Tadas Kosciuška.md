@@ -151,3 +151,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Tadas Kosciuška paskyre [[objektai/asmenys/Mykolas Velhorskis]]

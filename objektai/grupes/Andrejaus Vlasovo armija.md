@@ -21,19 +21,20 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   global_id: t-19632
   teiginys: 'Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Andrejaus Vlasovo armija|Andrejaus Vlasovo armija]] kariavo prieš [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5bac17ee17c027735d9a98f7b82c2dba6c07fb9f81c786e15ca98181870577cd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrejaus Vlasovo armija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrejaus Vlasovo armija" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Žydai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrejaus Vlasovo armija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad armijos daliniai buvo panaudoti akcijose prieš žydus.
 
 ## Reikšmingi paminėjimai
 
@@ -54,10 +55,13 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5bac17ee17c027735d9a98f7b82c2dba6c07fb9f81c786e15ca98181870577cd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrejaus Vlasovo armija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrejaus Vlasovo armija" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Žydai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrejaus Vlasovo armija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad armijos daliniai buvo panaudoti akcijose prieš žydus.
+
+## Ryšiai
+- Andrejaus Vlasovo armija kariavo_pries [[objektai/grupes/Žydai]]

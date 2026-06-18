@@ -30,7 +30,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   global_id: t-36338
   teiginys: '1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1427 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -39,13 +39,13 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=73bce3cecb56b81c0f62c2b5704a7d2a3c354cfb679ef27a7f6f2d484b41be78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Machmetas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Machmetas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas palaikė Machmetą.
 
 <a id="claim-t-184994"></a>
 - t-002
@@ -55,20 +55,25 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie žygį į Krymą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kafos gyventojai|Kafos gyventojai]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kafos gyventojai|Kafos gyventojai]]; llm_object: Krymas'
+  semantiniai_rysiai: '[[objektai/grupes/Kafos gyventojai|Kafos gyventojai]] keliavo į Krymas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 902210-902534; hash=c94ab38901a7d2e3398929ede863b47c4325911291252dc2d9e043d285595836; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Krymas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafos gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo numatytą Kafos gyventojų judėjimą su raiteliais į Krymą.
+- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31498|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.
+- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
+- susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186695|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
@@ -252,6 +257,12 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185341|skitai]]: Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
+- susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
+- susijęs iš [[objektai/posakiai/gerai užrakinamus Krymo vartus.md#claim-t-78923|gerai užrakinamus Krymo vartus]]: Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“.
+- susijęs iš [[objektai/posakiai/gerai užrakinamus Krymo vartus.md#claim-t-78924|gerai užrakinamus Krymo vartus]]: Totoriai turėjo „gerai užrakinamus Krymo vartus“ – įtvirtintą Perekopo sąsmauką, saugojusią sunkiai pasiekiamą jų bazę.
+- susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
+- susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171420|Totoriai]]: Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -291,24 +302,29 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=73bce3cecb56b81c0f62c2b5704a7d2a3c354cfb679ef27a7f6f2d484b41be78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Machmetas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Machmetas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas palaikė Machmetą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 902210-902534; hash=c94ab38901a7d2e3398929ede863b47c4325911291252dc2d9e043d285595836; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Krymas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafos gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo numatytą Kafos gyventojų judėjimą su raiteliais į Krymą.
 
 ## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Krymas
 - [[objektai/asmenys/Gilbert de Lannoy]] keliavo_i Krymas
+- [[objektai/asmenys/Kutlubugas]] valde Krymas
+- [[objektai/asmenys/Devletberdi]] valde Krymas
+- [[objektai/grupes/Totoriai]] gyveno Krymas
+- [[objektai/grupes/Kafos gyventojai]] keliavo_i Krymas

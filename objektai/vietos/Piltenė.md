@@ -31,7 +31,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43827
   teiginys: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  susije_objektai: 'llm_object: Kuršas; mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  semantiniai_rysiai: 'Piltenė priklausė Kuršas'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,18 +40,22 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Piltenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Piltenė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kuršas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Piltenė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Piltenė tiesiogiai apibrėžta kaip buvusios Kuršo vyskupystės žemės.
+- susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
+- susijęs iš Hermano Vartbergės Livonijos kronika: „Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.
+- susijęs iš Hermano Vartbergės Livonijos kronika: „Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.
 - susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
 - susijęs iš Hermano Vartbergės Livonijos kronika: „Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181470|Petras Dusburgietis]]: Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.
 - susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
+- susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,10 +80,15 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Piltenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Piltenė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kuršas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Piltenė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Piltenė tiesiogiai apibrėžta kaip buvusios Kuršo vyskupystės žemės.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Piltenė
+- [[objektai/grupes/Lietuviai]] apgule Piltenė
+- Piltenė priklause [[objektai/vietos/Kuršas]]

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-66828
   teiginys: 'Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.'
   sudarymo_pagrindimas: 'Teiginyje yra vertinamųjų ir neaiškių fragmentų, citata pagrindžia konkretesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kulmas; llm_object: Pamedė; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -57,38 +57,38 @@ Nenurodyta
   global_id: t-66829
   teiginys: 'Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Baiga; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baiga; mentioned_place: Pomeranija; mentioned_place: Vysla; llm_object: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 277907-279071; hash=7014f6548a29a0db026a3ff232d755a7c43c57498f08fafa3afabf9f684c9e17; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=106
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sąjungos tikslas buvo jėga išvaryti Teutonų ordino brolius iš Prūsijos.
 
 <a id="claim-t-66830"></a>
 - t-003
   global_id: t-66830
   teiginys: 'Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, o citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija; mentioned_place: Elbingas; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija; mentioned_place: Elbingas; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 281228-282212; hash=fd13023f46516d00afbc033dddf78043a23fed841405648cefcd9be9bf1c5e16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sventopelko įsakymas tiesiogiai nukreipė naujakrikščius sukilti prieš ordino brolius.
 
 <a id="claim-t-66831"></a>
 - t-004
@@ -208,32 +208,32 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 281228-282212; hash=fd13023f46516d00afbc033dddf78043a23fed841405648cefcd9be9bf1c5e16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sventopelko įsakymas tiesiogiai nukreipė naujakrikščius sukilti prieš ordino brolius.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 277907-279071; hash=7014f6548a29a0db026a3ff232d755a7c43c57498f08fafa3afabf9f684c9e17; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=106
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sąjungos tikslas buvo jėga išvaryti Teutonų ordino brolius iš Prūsijos.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282957-283465; hash=18838510d38a2d43a7955624c0db92cd2c7f63e39caf7dc2b0ae38992267aaba; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sventopelko įsibrovimą į Kulmo žemę.

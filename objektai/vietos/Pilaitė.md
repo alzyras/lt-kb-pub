@@ -37,7 +37,13 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   ryšio_subjekto_parinkimas: Pilaitė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=76
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
+- susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
+- susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
+- susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-184071|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
+- susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-60293|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
 - susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-184071|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
 - susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-60293|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
@@ -55,6 +61,7 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 - susijęs iš Bajorų pilaitė: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58786|kuoras propugnaculum pilaitė]]: Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje.
+- susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186091|Šindekopfas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
@@ -81,6 +88,11 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 - susijęs iš Torunė: Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
+- susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
+- susijęs iš [[objektai/daiktai/Pilaitės kunigaikščių pilis.md#claim-t-87088|Pilaitės kunigaikščių pilis]]: Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.
+- susijęs iš Norkyčiai: Senieji Norkyčiai buvo Auksinės vingyje, 6–7 km žemiau minimos vietos, o vėliau gyvenvietė perkelta 2 km į šiaurę.
+- susijęs iš [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės.md#claim-t-87090|Pilaitės pilkapis prie Sudervėlės]]: Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė.md#claim-t-87089|Pilaitės malūnas, kalvė ir lentpjūvė]]: XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -120,4 +132,16 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilaitė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/grupes/Pagudėnai]] puole Pilaitė
+- Pilaitė priklause [[objektai/asmenys/Fričinskis]]
 - [[objektai/asmenys/Pipinas]] gyveno Pilaitė
+- [[objektai/asmenys/Giunteris iš Regenšteino]] puole Pilaitė
+- [[objektai/asmenys/Šindekopfas]] uzeme Pilaitė
+- Pilaitė priklause [[objektai/vietos/Torunė]]
+- [[objektai/grupes/Sūduviai]] puole Pilaitė
+- [[objektai/grupes/Pagudėnai]] uzeme Pilaitė
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Pilaitė
+- [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Pilaitė
+- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]] priklause Pilaitė
+- [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]] priklause Pilaitė
+- Pilaitė priklause [[objektai/vietos/Vilnius]]

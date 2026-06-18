@@ -22,7 +22,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   global_id: t-67441
   teiginys: 'Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Dovydo Gardiniškio pareigas šaltinyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Dovydas Gardiniškis|Dovydas Gardiniškis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Dovydas Gardiniškis|Dovydas Gardiniškis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

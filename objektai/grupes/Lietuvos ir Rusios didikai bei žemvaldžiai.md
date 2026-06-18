@@ -42,6 +42,7 @@ tags:
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. Vilniaus akte Lietuvos ir Rusios didikai prisiekė ištikimybę Jogailai ir pagalbą prieš bendrą karaliaus bei Lenkijos priešą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179717|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179722|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.
+- susijęs iš [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos.md#claim-t-87216|Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]: Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,3 +77,7 @@ tags:
   ryšio_subjekto_parinkimas: Lietuvos ir Rusios didikai bei žemvaldžiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=79
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Rusios didikai bei žemvaldžiai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos ir Rusios didikai bei žemvaldžiai reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]] buvo_sajungininkas_su Lietuvos ir Rusios didikai bei žemvaldžiai

@@ -75,6 +75,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   ryšio_subjekto_parinkimas: Višogrudas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Višogrudas" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
+- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
@@ -182,3 +184,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   ryšio_subjekto_parinkimas: Višogrudas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Višogrudas" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Višogrudas
+- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Višogrudas

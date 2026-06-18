@@ -109,7 +109,8 @@ Mackevičius, vėliau K.
   global_id: t-75699
   teiginys: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citatos turiniu.'
@@ -131,19 +132,20 @@ Mackevičius, vėliau K.
   global_id: t-75700
   teiginys: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Mackevičiaus paskyrimą vadovauti kolonai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]] paskyrė [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0f52dab6eacf18a4a093e5a0355584cab5a26486a4546ea6d2ae5fcb63a2934d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Mackevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mackevičius išvedė sukilėlius į Vidurio Lietuvą; tai palaiko krypties į Lietuvą ryšį.
 
 <a id="claim-t-75701"></a>
 - t-008
@@ -290,13 +292,13 @@ Mackevičius, vėliau K.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0f52dab6eacf18a4a093e5a0355584cab5a26486a4546ea6d2ae5fcb63a2934d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Mackevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mackevičius išvedė sukilėlius į Vidurio Lietuvą; tai palaiko krypties į Lietuvą ryšį.
     - t-003
 
 - c-006
@@ -385,10 +387,14 @@ Mackevičius, vėliau K.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0678b329effbb2ea57d044138c100b63598fca6d6c718d5ed6234f6ce79ae15; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Antanas Mackevičius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Antanas Mackevičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sierakauskas tiesiogiai pavedė Mackevičiui vadovauti kolonai.
+
+## Ryšiai
+- [[objektai/asmenys/Zigmantas Sierakauskas]] paskyre Antanas Mackevičius
+- Antanas Mackevičius keliavo_i [[objektai/vietos/Lietuva]]

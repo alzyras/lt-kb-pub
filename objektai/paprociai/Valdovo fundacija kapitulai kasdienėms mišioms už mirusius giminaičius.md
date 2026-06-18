@@ -52,26 +52,26 @@ Nenurodyta
   global_id: t-87229
   teiginys: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra citatos fragmentas, o šaltinis leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 308512-309783; hash=f28e04c8376f8af561202be60e54e3ea76665bd727361a0f086927db9cd3d0f6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cudzeniškiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Cudzeniškiai: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius" parinktas kaip owner_note_path. Targetas "Cudzeniškiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Karigaila tiesiogiai nurodytas kaip Vytauto miręs brolis.
 
 <a id="claim-t-87230"></a>
 - t-002
   global_id: t-87230
   teiginys: '1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Cudzeniškiai; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ašmena; mentioned_place: Dinaburgas; mentioned_place: Medininkai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Cudzeniškiai; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ašmena; mentioned_place: Dinaburgas; mentioned_place: Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
@@ -80,13 +80,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310407-310766; hash=a80d0285279b760f555993838a1ad1dffc744aca084b159ca727bbc0ed2a744d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Karigaila: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius" parinktas kaip owner_note_path. Targetas "Karigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Karigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Kazimieras Karigaila įvardytas kaip Vytauto brolis.
 
 ## Reikšmingi paminėjimai
 
@@ -162,21 +162,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 310407-310766; hash=a80d0285279b760f555993838a1ad1dffc744aca084b159ca727bbc0ed2a744d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Karigaila: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius" parinktas kaip owner_note_path. Targetas "Karigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Karigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Kazimieras Karigaila įvardytas kaip Vytauto brolis.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 308512-309783; hash=f28e04c8376f8af561202be60e54e3ea76665bd727361a0f086927db9cd3d0f6; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Cudzeniškiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Cudzeniškiai: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius" parinktas kaip owner_note_path. Targetas "Cudzeniškiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Karigaila tiesiogiai nurodytas kaip Vytauto miręs brolis.

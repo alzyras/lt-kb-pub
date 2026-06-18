@@ -60,19 +60,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519162-519588; hash=1a9ac33253e4410edbc23bedada7a09570f78411bfe6961124a26d211bc84945; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brasta" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Lietuvos Brasta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo švedų apsiaustą Lietuvos Brastą.
 
 <a id="claim-t-79642"></a>
 - t-003
   global_id: t-79642
   teiginys: '1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.'
-  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: Lietuvos Brasta; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] apgulė Lietuvos Brasta; [[objektai/grupes/Švedai|Švedai]] užėmė Lietuvos Brasta'
   temporaliniai_duomenys: 'įvykio data: 1656 m.; įvykio data: 1657 m.; įvykio data: 1696 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -230,13 +231,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519162-519588; hash=1a9ac33253e4410edbc23bedada7a09570f78411bfe6961124a26d211bc84945; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Brasta: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brasta" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Lietuvos Brasta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo švedų apsiaustą Lietuvos Brastą.
     - t-001
 
 - c-005
@@ -272,3 +273,7 @@ amziai:
   ryšio_subjekto_parinkimas: Lietuvos Brasta: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Brasta" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Švedai]] apgule Lietuvos Brasta
+- [[objektai/grupes/Švedai]] uzeme Lietuvos Brasta

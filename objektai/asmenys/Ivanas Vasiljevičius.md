@@ -215,4 +215,5 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Vasiljevičius" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Maskva]]
+- Ivanas Vasiljevičius valde [[objektai/vietos/Viazma]]
+- Ivanas Vasiljevičius siunte_i [[objektai/vietos/Smolenskas]]

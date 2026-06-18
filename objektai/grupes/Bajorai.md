@@ -200,7 +200,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-183652|Bajorų konfederacija]]: Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.
 - susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
 - susijęs iš [[objektai/asmenys/Joachimas (Pskovo vietininkas).md#claim-t-87706|Joachimas (Pskovo vietininkas)]]: 1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.
@@ -375,6 +374,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
 - susijęs iš [[objektai/zodynas/visuotinis bajorijos stojimas.md#claim-t-03225|visuotinis bajorijos stojimas]]: Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185336|žygūnas]]: Glinskis nusiuntė slaptų žygūnų būrį, kad dovanomis ir pažadais kurstytų įgulą bei bajorus ir palaužtų jų ištikimybę.
+- susijęs iš [[objektai/daiktai/Habdankas.md#claim-t-186863|Habdankas]]: Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
@@ -821,6 +821,14 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - susijęs iš [[objektai/zodynas/činšas.md#claim-t-182992|činšas]]: Po sukilimo valdžia konfiskuotų bajorų ir dvasininkų dvarų žemę išdalijo valstiečiams, reikalaudama mokėti palyginti mažą činšą.
 - susijęs iš [[objektai/zodynas/činšininkai.md#claim-t-03231|činšininkai]]: Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius.
 - susijęs iš [[objektai/zodynas/įkaitai.md#claim-t-182994|įkaitai]]: Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.
+- susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170053|Jekaterina II]]: Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92961|Herbai]]: Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
+- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
+- susijęs iš [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio.md#claim-t-185710|Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]: Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos bei Žygimanto Kęstutaičio.
+- susijęs iš Žemaitija: Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.
+- susijęs iš Žemaitija: Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173316|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173323|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1106,4 +1114,22 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajorai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Bajorų konfederacija]] kariavo_pries Bajorai
+- Bajorai priklause [[objektai/grupes/Lietuvos kariuomenė]]
+- Bajorai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Bajorai keliavo_i [[objektai/vietos/Marienburgas]]
+- Bajorai keliavo_i [[objektai/vietos/Tilžė]]
+- [[objektai/daiktai/Habdankas]] priklause Bajorai
+- [[objektai/asmenys/Jekaterina II]] reme Bajorai
+- Bajorai priklause [[objektai/asmenys/Gabrielius Bekešas]]
+- Bajorai reme [[objektai/grupes/Lietuviai]]
+- Bajorai priklause [[objektai/vietos/Lietuva]]
+- Bajorai priklause [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Herbai]] priklause Bajorai
+- [[objektai/daiktai/Pilys]] priklause Bajorai
+- [[objektai/asmenys/Švitrigaila]] reme Bajorai
+- Bajorai keliavo_i [[objektai/vietos/Vilnius]]
+- Bajorai reme [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Bajorai reme [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/asmenys/Žygimantas Senasis]] buvo_priesas Bajorai
+- Bajorai gyveno [[objektai/vietos/Lietuva]]
+- Bajorai surenge_zygi_i [[objektai/vietos/Mstislavlis]]

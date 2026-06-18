@@ -228,3 +228,6 @@ tags:
   ryšio_subjekto_parinkimas: Tochtamišo totoriai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Tochtamišas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamišo totoriai" parinktas kaip owner_note_path. Targetas "Tochtamišas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Tochtamišo totoriai gyveno [[objektai/vietos/Kijevas]]

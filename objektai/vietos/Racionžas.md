@@ -32,7 +32,7 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   global_id: t-178158
   teiginys: '1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis „Todėl“ ir patikslintas sutarties objektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis žodis „Todėl“ ir patikslintas sutarties objektas.'
@@ -41,13 +41,13 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257720-258069; hash=5d14ba22179c6e112341deeb14891a9326a0a3bbcc41948fed5b00a9f31a0a99; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Racionžas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Racionžas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Žemaičiai buvo atiduoti ordinui.
 - susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
 - susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176128|Žemaičiai]]: Racionžo taikoje Vytautas pažadėjo metus neleisti pirkliams prekiauti su Žemaičiais ir įvežti jiems druskos, javų bei geležies.
@@ -78,10 +78,10 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257720-258069; hash=5d14ba22179c6e112341deeb14891a9326a0a3bbcc41948fed5b00a9f31a0a99; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Racionžas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Racionžas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Žemaičiai buvo atiduoti ordinui.

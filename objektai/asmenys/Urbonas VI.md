@@ -173,3 +173,6 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Urbonas VI paskyre [[objektai/asmenys/Dobrogostas]]

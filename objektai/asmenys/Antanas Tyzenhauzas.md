@@ -108,7 +108,8 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   global_id: t-46010
   teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Anglija; mentioned_place: Anglija; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]] siuntė į Anglija'
   pagrindžia:
     - c-006
 
@@ -117,7 +118,8 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   global_id: t-46011
   teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Anglija; mentioned_place: Anglija; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]] siuntė į Anglija'
   pagrindžia:
     - c-005
 
@@ -250,3 +252,6 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+- Antanas Tyzenhauzas (ūkio reformų veikėjas) siunte_i [[objektai/vietos/Anglija]]

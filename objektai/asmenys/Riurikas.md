@@ -91,3 +91,6 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   ryšio_subjekto_parinkimas: Riurikas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=44
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Riurikas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Riurikas keliavo_i [[objektai/vietos/Rusija]]

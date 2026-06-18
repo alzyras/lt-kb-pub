@@ -30,13 +30,13 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=160fb31d2242dba95348dcf908fabc73cdafe10f939c5bbe33bdae25c8bc77f6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narimantas Gediminaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas Gediminaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Algirdas (Lietuvos valdovas): 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas Gediminaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Narimantas buvo Algirdo brolis.
 
 <a id="claim-t-40369"></a>
 - t-002
@@ -62,7 +62,8 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40370
   teiginys: 'Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas į aiškesnį sakinį su veikėju ir objektu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] buvo brolis [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] buvo brolis [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -163,10 +164,14 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=160fb31d2242dba95348dcf908fabc73cdafe10f939c5bbe33bdae25c8bc77f6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narimantas Gediminaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narimantas Gediminaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_brolis -> Algirdas (Lietuvos valdovas): 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas Gediminaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Narimantas buvo Algirdo brolis.
+
+## Ryšiai
+- Narimantas Gediminaitis buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Narimantas Gediminaitis buvo_brolis [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

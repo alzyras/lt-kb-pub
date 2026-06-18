@@ -62,20 +62,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=fallback; occurrences=0
   sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Giedraičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Artilerija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Artilerija" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose.
 
 <a id="claim-t-187516"></a>
 - t-002
   global_id: t-187516
   teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Giedraičiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Giedraičiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -304,10 +304,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=fallback; occurrences=0
   sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Giedraičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Artilerija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Artilerija" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose.

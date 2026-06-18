@@ -46,6 +46,7 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Natanga" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
 - susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87584|Tomas Aldenburgas]]: Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
@@ -90,3 +91,6 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
   ryšio_subjekto_parinkimas: Natanga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Natanga" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytenis]] puole Natanga

@@ -72,7 +72,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Isteris'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Isteris; llm_object: Isteris'
+  semantiniai_rysiai: '[[objektai/grupes/Herulai|Herulai]] gyveno Isteris'
   temporaliniai_duomenys: 'įvykio data: 553 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
@@ -81,13 +82,13 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88169-88687; hash=58483b00412e0bcfdca507eefc5e270ca60e07a61399cff98a543d7934e6ac41; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumas: gyveno -> Isteris: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gotai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Isteris: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad dalis herulų įsikūrė prie Dunojaus.
 
 <a id="claim-t-184477"></a>
 - t-004
@@ -110,6 +111,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Italija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
 - susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
@@ -260,13 +262,13 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88169-88687; hash=58483b00412e0bcfdca507eefc5e270ca60e07a61399cff98a543d7934e6ac41; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumas: gyveno -> Isteris: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gotai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herulai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Isteris: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad dalis herulų įsikūrė prie Dunojaus.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 92439-93121; hash=03cc19561ed752ea8dbe26e11235e30806fc4bb85d70aaabc7721427dd7ef8e0; match=exact
@@ -278,3 +280,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Italija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Odoakras]] buvo_valdovas Herulai
+- Herulai buvo_sajungininkas_su [[objektai/grupes/Romėnai]]
+- Herulai gyveno [[objektai/vietos/Isteris]]

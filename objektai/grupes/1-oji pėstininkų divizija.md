@@ -21,38 +21,39 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   global_id: t-40818
   teiginys: 'Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Dubingiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Balnininkai'
+  susije_objektai: 'llm_object: [[objektai/grupes/1-oji pėstininkų divizija|1-oji pėstininkų divizija]]; mentioned_place: Dubingiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Balnininkai'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] puolė [[objektai/grupes/1-oji pėstininkų divizija|1-oji pėstininkų divizija]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37e293f019c3f1c0f3da0de605ed7a49ed66b977952005a92ae533c8063be276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-oji pėstininkų divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-oji pėstininkų divizija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai rodo lenkų kavalerijos veiksmą prieš lietuvių pozicijas.
 
 <a id="claim-t-40819"></a>
 - t-002
   global_id: t-40819
   teiginys: 'Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu.'
   sudarymo_pagrindimas: 'Perrašyta, kad faktas aiškiau sietųsi su I divizija ir būtų pašalintas neaiškumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Nastopka|S. Nastopka]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Nastopka|S. Nastopka]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=015ab23c8a92713b992728e7bc21a50f4e22f5452cbe51b4460967528b775d6c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubingiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-oji pėstininkų divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dubingiai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-oji pėstininkų divizija" parinktas kaip owner_note_path. Targetas "Dubingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> 1-oji pėstininkų divizija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: 1-oji pėstininkų divizija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo puolimą į 1-osios pėstininkų divizijos užimamą barą.
 - susijęs iš [[objektai/asmenys/S. Nastopka.md#claim-t-40411|S. Nastopka]]: S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.
 ## Reikšmingi paminėjimai
 
@@ -90,21 +91,24 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=37e293f019c3f1c0f3da0de605ed7a49ed66b977952005a92ae533c8063be276; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-oji pėstininkų divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-oji pėstininkų divizija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai rodo lenkų kavalerijos veiksmą prieš lietuvių pozicijas.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=015ab23c8a92713b992728e7bc21a50f4e22f5452cbe51b4460967528b775d6c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubingiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-oji pėstininkų divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dubingiai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-oji pėstininkų divizija" parinktas kaip owner_note_path. Targetas "Dubingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> 1-oji pėstininkų divizija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: 1-oji pėstininkų divizija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo puolimą į 1-osios pėstininkų divizijos užimamą barą.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] puole 1-oji pėstininkų divizija

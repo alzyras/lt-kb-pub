@@ -28,7 +28,8 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   global_id: t-58693
   teiginys: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Frankfurtas prie Oderio; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] surengė žygį į Frankfurtas prie Oderio'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -37,13 +38,13 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36685-36949; hash=58d73535ee3b46de071a85fab3bb73237a18d250817911f9dbd2c92b22655d73; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Frankfurtas prie Oderio: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frankfurtas prie Oderio" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Frankfurtas prie Oderio: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Frankfurtas prie Oderio: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos kariuomenės žygį, pasiekusį Frankfurtą prie Oderio.
 
 ## Reikšmingi paminėjimai
 
@@ -78,21 +79,24 @@ Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36685-36949; hash=58d73535ee3b46de071a85fab3bb73237a18d250817911f9dbd2c92b22655d73; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Frankfurtas prie Oderio: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frankfurtas prie Oderio" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Frankfurtas prie Oderio: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Frankfurtas prie Oderio: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos kariuomenės žygį, pasiekusį Frankfurtą prie Oderio.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 36418-36801; hash=e587aa7abed9cf34ff78f7e80d91edb5e51145f3ed45d79b6fdcb595a463e713; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Frankfurtas prie Oderio: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frankfurtas prie Oderio" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Frankfurtas prie Oderio: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Frankfurtas prie Oderio: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės žygį, pasiekusį Frankfurtą prie Oderio.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Frankfurtas prie Oderio

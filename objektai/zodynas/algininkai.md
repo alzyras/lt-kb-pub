@@ -45,19 +45,19 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant veiksmą su Minsko puolimu ir algininkais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Minskas'
+  susije_objektai: 'llm_object: Minskas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1068547-1069274; hash=f138cdabfcc7ac41d713e80a40764f4974ba1e8d8989f9a4edac33bc04a7bb6d; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Minskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską.
 
 <a id="claim-t-185365"></a>
 - t-003
@@ -89,19 +89,19 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas titulas, o sakinio branduolys paliktas apie algininkų išsiuntimą į pagalbą. Nepridėta totorių persekiojimo ir platesnės antraštės informacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas; llm_object: Naugardukas; llm_object: Sluckas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bobruiskas: 0.83
+  ryšio_patikimumas: puole -> Naugardukas: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Antraštė tiesiogiai mini totorių siautėjimą Naugarduko krašte.
 
 ## Reikšmingi paminėjimai
 
@@ -183,13 +183,13 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1068547-1069274; hash=f138cdabfcc7ac41d713e80a40764f4974ba1e8d8989f9a4edac33bc04a7bb6d; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Minskas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską.
     - t-003
 
 - c-004
@@ -228,10 +228,10 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bobruiskas: 0.83
+  ryšio_patikimumas: puole -> Naugardukas: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Antraštė tiesiogiai mini totorių siautėjimą Naugarduko krašte.

@@ -111,8 +111,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   global_id: t-116693
   teiginys: 'Hanzos miestų tinklui priklausė Kauno miestas.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Hanza kaip užrašo objektu.'
-  susije_objektai: 'owner: Kaunas; mentioned_place: Kaunas; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
-  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] priklausė Kaunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Kaunas; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
+  semantiniai_rysiai: 'Kaunas priklausė [[objektai/grupes/Hanza|Hanza]]'
   pagrindžia:
     - c-006
 
@@ -125,6 +125,9 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - c-009
 - susijęs iš Dorpatas: Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.
+- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
+- susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
+- susijęs iš Nemuno žiotys: Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176872|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
@@ -355,4 +358,9 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 
 ## Ryšiai
 - [[objektai/vietos/Dorpatas]] priklause Hanza
-- Hanza priklause [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kaunas]] priklause Hanza
+- [[objektai/vietos/Stralsundas]] priklause Hanza
+- [[objektai/vietos/Lietuva]] prekiavo_su Hanza
+- Hanza siunte_i [[objektai/vietos/Štetinas]]
+- Hanza valde [[objektai/vietos/Šiaurės jūra]]
+- Hanza valde [[objektai/vietos/Baltija]]

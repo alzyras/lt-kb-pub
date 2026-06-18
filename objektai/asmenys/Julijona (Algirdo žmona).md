@@ -151,7 +151,6 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   ryšio_subjekto_parinkimas: Julijona (Algirdo žmona): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Algirdo žmona)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113845|Julijona (Vytauto žmona)]]: Vytauto žmona kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113833|Julijona (Vytauto žmona)]]: 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113837|Julijona (Vytauto žmona)]]: 1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113842|Julijona (Vytauto žmona)]]: Kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą.
@@ -168,6 +167,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 - susijęs iš [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai.md#claim-t-87048|Karališkosios vaistinės vaistai ir gydomieji gėrimai]]: Didžioji kunigaikštienė Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo dovanų gydomųjų gėrimų.
 - susijęs iš [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai.md#claim-t-172863|Vaistinės prekės, vaistai ir gydomieji gėrimai]]: Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.
 - susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
+- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63795|Karigaila]]: Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -370,4 +370,4 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona (Algirdo žmona)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Julijona (Vytauto žmona)]] buvo_zmona Julijona (Algirdo žmona)
+- [[objektai/asmenys/Karigaila]] buvo_sunus Julijona (Algirdo žmona)

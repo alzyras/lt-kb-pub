@@ -64,7 +64,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180341
   teiginys: 'Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje aprašytą teritorijų išsidėstymą prie Nemuno žiočių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Kuršių marios; mentioned_place: Minija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Minija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Kuršių marios; mentioned_place: Minija; mentioned_place: Lietuva'
   pagrindžia:
     - c-032
 
@@ -125,7 +125,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180348
   teiginys: '1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.'
   sudarymo_pagrindimas: 'Pirminis teiginys per daug pažodinis ir turi perteklinių detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vokietija; llm_object: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per daug pažodinis ir turi perteklinių detalių.'
@@ -154,13 +154,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aprašo kryžiuočių karo veiksmą, kurio metu buvo išgriauta Kauno pilis.
 
 <a id="claim-t-180350"></a>
 - t-011
@@ -195,13 +195,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d60763e638f5b4807de7c5d7b9901926e210d620a5667bf896ced7498161fe30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Peštvė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Peštvė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja kryžiuočius su Peštvės pilies sudeginimu po karo veiksmų.
 
 <a id="claim-t-180352"></a>
 - t-013
@@ -239,7 +239,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180355
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.'
   sudarymo_pagrindimas: 'Citata pagrindžia kelionę Nemunu, o pradinis teiginys buvo per ilgas ir su OCR triukšmu.'
-  susije_objektai: 'location: Merkinė; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Kaunas; llm_object: Dubysa; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Merkinė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia kelionę Nemunu, o pradinis teiginys buvo per ilgas ir su OCR triukšmu.'
@@ -280,7 +280,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180357
   teiginys: 'Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.'
   sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir paremtas citata apie Vytauto pretenzijas iki Nemuno.'
-  susije_objektai: 'mentioned_place: Užnemunė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_place: Užnemunė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
@@ -298,7 +298,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-018
   global_id: t-180358
   teiginys: '1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Napoleono kariuomenė|Napoleono kariuomenė]]'
+  susije_objektai: 'llm_object: Rusija; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Napoleono kariuomenė|Napoleono kariuomenė]]'
   temporaliniai_duomenys: 'įvykio data: 1812 m.; įvykio data: 1827 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -306,13 +306,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje įvardyti Vytautas ir Jogaila, o vėliau nurodoma jų kelionė į Kauną.
 
 <a id="claim-t-180359"></a>
 - t-019
@@ -325,20 +325,20 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumas: pastate -> Veliuona: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vytauto pavedimą atstatyti sudegintą Veliuoną.
 
 <a id="claim-t-180360"></a>
 - t-020
   global_id: t-180360
   teiginys: 'Tyrimų duomenimis, Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į jo valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į aiškų teiginį apie Dusburgiečio vartoseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
@@ -365,7 +365,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180362
   teiginys: 'Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
   sudarymo_pagrindimas: 'Citata remia redakcinę interpretaciją, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: po 1282 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia redakcinę interpretaciją, todėl reikalinga atribucija.'
@@ -387,7 +387,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180363
   teiginys: 'Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų posakį „dar arčiau“, todėl perrašytas konkrečiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Marijenburgas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Marijenburgas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Bajerburgas; llm_object: Marijenburgas'
   pagrindžia:
     - c-017
 
@@ -395,7 +395,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-024
   global_id: t-180365
   teiginys: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Viena; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: po 1282 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -403,13 +403,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 191247-191349; hash=34d95c1104cc17c8ad11c714450da5d363006649d7bba482bcc539718f1525d7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Rusija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Napoleono kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Napoleono kariuomenės veiksmas buvo žygis į Rusiją.
 
 <a id="claim-t-180367"></a>
 - t-025
@@ -609,13 +609,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=814e798bb1b38ef3a02c72b20a59d96bec04484a254a26983d18aba37ec77e28; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Strėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas žadėjo Ordinui pagalbą, todėl ryšys „rėmė“ čia pagrįstas.
 
 <a id="claim-t-180383"></a>
 - t-040
@@ -679,7 +679,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-043
   global_id: t-180387
   teiginys: 'Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.'
-  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Kaunas; llm_object: Aukokalnis'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -716,7 +716,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-045
   global_id: t-180390
   teiginys: 'Vytautas laiške Prūsijos ordinui žadėjo pagalbą statant dvi pilis išilgai Nemuno iki Strėvos žiočių.'
-  susije_objektai: 'mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Šventoji'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Šventoji'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -772,7 +772,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - t-049
   global_id: t-180394
   teiginys: 'Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Peštvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Peštvė; llm_object: Peštvė'
   pagrindžia:
     - c-018
 
@@ -781,7 +781,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   global_id: t-180395
   teiginys: 'Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Veliuona; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Veliuona; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Lietuva; llm_object: Veliuona'
   pagrindžia:
     - c-033
 
@@ -805,13 +805,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 90999-91292; hash=1c503c29cc2f55a073aca806cdeccb9b503eef931ea1414f69ba3560b9c6b3e2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Užnemunė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Užnemunė: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Užnemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vytauto konfliktą su Ordinu, todėl priešpriešos ryšys pagrįstas.
 
 <a id="claim-t-180399"></a>
 - t-054
@@ -968,13 +968,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa1237d3673801579c7cb55a18aab6d3b36e489fbe17cc31257ee37569bcaeb0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vokiečių ordinas pradėjo pulti lietuvius.
 
 <a id="claim-t-185068"></a>
 - t-064
@@ -984,19 +984,19 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pašalina citatos triukšmą ir aiškiai perteikia paremtą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-049
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7bf6a5a9a6db31052fdffd77e547792865b6b131d815d01dd760cc540402894; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Prūsijos plotas apibūdinamas kaip Kryžiuočių ordino jau užkariautas.
 
 <a id="claim-t-185069"></a>
 - t-065
@@ -1100,18 +1100,16 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=116
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
-- susijęs iš Nadruva: Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno.
-- susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
+  ryšio_patikimumas: gyveno -> Minija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad skalviai gyveno Minijos žemupyje.
+- susijęs iš Salynas: Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.
+- susijęs iš Lamata: Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.
+- susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176353|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.
 - susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
 - susijęs iš [[objektai/asmenys/Konradas Wallenrodas.md#claim-t-30334|Konradas Wallenrodas]]: Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
@@ -1252,6 +1250,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
@@ -1673,6 +1672,28 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/zodynas/samdytiniai.md#claim-t-185412|samdytiniai]]: Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
+- susijęs iš Mažosios Lietuvos himnas: XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.
+- susijęs iš Mažosios Lietuvos himnas: Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
+- susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
+- susijęs iš [[objektai/asmenys/Vilhelmas fon Helfelšteinas.md#claim-t-80724|Vilhelmas fon Helfelšteinas]]: 1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.
+- susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
+- susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
+- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179114|Kryžiuočių ordinas]]: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89218|Skalviai]]: Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
+- susijęs iš Merkinė: Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89217|Skalviai]]: Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89220|Skalviai]]: Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.
+- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
+- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
+- susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
+- susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
+- susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
+- susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1983,13 +2004,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 90999-91292; hash=1c503c29cc2f55a073aca806cdeccb9b503eef931ea1414f69ba3560b9c6b3e2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Užnemunė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Užnemunė: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Užnemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vytauto konfliktą su Ordinu, todėl priešpriešos ryšys pagrįstas.
     - t-048
     - t-013
 
@@ -2059,13 +2080,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje įvardyti Vytautas ir Jogaila, o vėliau nurodoma jų kelionė į Kauną.
     - t-033
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aaadbd087c43b8aef616ab30a0a2bef0590cdd1b61bd6565af3e3d430b747633; match=fallback; occurrences=0
@@ -2282,13 +2303,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=814e798bb1b38ef3a02c72b20a59d96bec04484a254a26983d18aba37ec77e28; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Strėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas žadėjo Ordinui pagalbą, todėl ryšys „rėmė“ čia pagrįstas.
     - t-045
 
 - c-025
@@ -2440,24 +2461,24 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d60763e638f5b4807de7c5d7b9901926e210d620a5667bf896ced7498161fe30; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Peštvė: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Peštvė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sieja kryžiuočius su Peštvės pilies sudeginimu po karo veiksmų.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec33fc64ec7247b2a55e6438e38f18092380ae9708bd05ba42d1f64be6f3727e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kaunas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys aprašo kryžiuočių karo veiksmą, kurio metu buvo išgriauta Kauno pilis.
     - t-011
 
 - c-030
@@ -2652,13 +2673,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 191247-191349; hash=34d95c1104cc17c8ad11c714450da5d363006649d7bba482bcc539718f1525d7; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Rusija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Napoleono kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Napoleono kariuomenės veiksmas buvo žygis į Rusiją.
     - t-059
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c89589e87bd729094ceb9868505b8a89532fdff4af22d0fd07c310ed2a26d611; match=fallback; occurrences=0
@@ -2815,13 +2836,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumas: pastate -> Veliuona: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Vytauto pavedimą atstatyti sudegintą Veliuoną.
     - t-034
 
 - c-045
@@ -2956,13 +2977,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa1237d3673801579c7cb55a18aab6d3b36e489fbe17cc31257ee37569bcaeb0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=118
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vokiečių ordinas pradėjo pulti lietuvius.
     - t-064
 
 - c-050
@@ -2986,13 +3007,13 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7bf6a5a9a6db31052fdffd77e547792865b6b131d815d01dd760cc540402894; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje Prūsijos plotas apibūdinamas kaip Kryžiuočių ordino jau užkariautas.
     - t-065
 
 - c-051
@@ -3117,15 +3138,30 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nemunas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=116
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemunas" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Minija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad skalviai gyveno Minijos žemupyje.
 
 ## Ryšiai
+- [[objektai/vietos/Salynas]] priklause Nemunas
+- [[objektai/grupes/Lietuviai]] gyveno Nemunas
+- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Nemunas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Nemunas
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Nemunas
 - [[objektai/grupes/Lamatiečiai]] gyveno Nemunas
+- Nemunas priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Skalviai]] gyveno Nemunas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Nemunas
+- [[objektai/asmenys/Ditrichas iš Ezbeko]] keliavo_i Nemunas
+- [[objektai/asmenys/P. Liatukas]] gyne Nemunas
+- [[objektai/grupes/Vokiečių ordinas]] keliavo_i Nemunas
+- [[objektai/grupes/Kryžiuočių ordinas]] priklause Nemunas
+- [[objektai/vietos/Pieštvė]] priklause Nemunas
+- [[objektai/vietos/Paštuvos valsčius]] priklause Nemunas
+- [[objektai/vietos/Veliuona]] priklause Nemunas
+- [[objektai/vietos/Veliuonėlė]] priklause Nemunas
+- [[objektai/grupes/Vikingai]] keliavo_i Nemunas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Nemunas

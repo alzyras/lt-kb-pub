@@ -63,19 +63,19 @@ Nenurodyta
   global_id: t-87216
   teiginys: 'Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje aprašytą Vilniaus suvažiavimo priesaiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dinaburgas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dinaburgas; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322290-323352; hash=187b26d66a96ded0048d8acf040cd3a1e8dcc5b99e2e747d88e80a4b2a1e29b3; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuvos ir Rusios didikai bei žemvaldžiai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos ir Rusios didikai bei žemvaldžiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Priesaika dėl pagalbos prieš bendrą karaliaus ir Lenkijos Karūnos priešą rodo politinį-karinį bendrumą.
 
 ## Reikšmingi paminėjimai
 
@@ -152,10 +152,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322290-323352; hash=187b26d66a96ded0048d8acf040cd3a1e8dcc5b99e2e747d88e80a4b2a1e29b3; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuvos ir Rusios didikai bei žemvaldžiai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos ir Rusios didikai bei žemvaldžiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Priesaika dėl pagalbos prieš bendrą karaliaus ir Lenkijos Karūnos priešą rodo politinį-karinį bendrumą.

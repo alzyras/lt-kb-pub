@@ -30,7 +30,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40822
   teiginys: '2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados|2-oji ir 3-ioji Tautinės kavalerijos brigados]] gynė Vilnius; [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados|2-oji ir 3-ioji Tautinės kavalerijos brigados]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,13 +39,13 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0c09a0e4a585b241700774ea66f6b08cd1305080643edb536196e026f1acfa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 2-oji ir 3-ioji Tautinės kavalerijos brigados: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "2-oji ir 3-ioji Tautinės kavalerijos brigados" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 2-oji ir 3-ioji Tautinės kavalerijos brigados: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brigados buvo divizijos sudėtyje, kuri gynė Vilnių nuo rusų puolimo.
 - susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
 ## Reikšmingi paminėjimai
 
@@ -70,10 +71,14 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0c09a0e4a585b241700774ea66f6b08cd1305080643edb536196e026f1acfa7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 2-oji ir 3-ioji Tautinės kavalerijos brigados: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "2-oji ir 3-ioji Tautinės kavalerijos brigados" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 2-oji ir 3-ioji Tautinės kavalerijos brigados: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brigados buvo divizijos sudėtyje, kuri gynė Vilnių nuo rusų puolimo.
+
+## Ryšiai
+- 2-oji ir 3-ioji Tautinės kavalerijos brigados gyne [[objektai/vietos/Vilnius]]
+- 2-oji ir 3-ioji Tautinės kavalerijos brigados kariavo_pries [[objektai/grupes/Rusai]]

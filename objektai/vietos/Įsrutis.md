@@ -53,6 +53,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
+- susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
 - susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
 - susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
@@ -62,6 +63,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - susijęs iš Mežuotnės pilis (pilis): 1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.
 - susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
 - susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
+- susijęs iš Karaliaučius: Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,3 +103,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Svirdeika]] keliavo_i Įsrutis
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Įsrutis

@@ -138,3 +138,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
   ryšio_subjekto_parinkimas: Leningradas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=12
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leningradas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Leningradas prekiavo_su [[objektai/vietos/Lietuva]]

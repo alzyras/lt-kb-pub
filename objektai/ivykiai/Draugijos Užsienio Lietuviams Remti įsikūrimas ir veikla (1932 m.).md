@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-01610
   teiginys: '1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiau suformuluoti draugijos įsikūrimą ir tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau suformuluoti draugijos įsikūrimą ir tikslą.'
@@ -50,20 +50,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1330473-1330900; hash=91ebd5e9e124f1fbbeba872146fb4820a8544d5bc04fb1663049c56afe797482; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Draugija užsienio lietuviams remti: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Draugija užsienio lietuviams remti: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)" parinktas kaip owner_note_path. Targetas "Draugija užsienio lietuviams remti" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad draugija rėmė užsienyje gyvenančius lietuvius.
 
 <a id="claim-t-01611"></a>
 - t-002
   global_id: t-01611
   teiginys: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
   sudarymo_pagrindimas: 'Citata leidžia pakeisti santrumpą aiškiu organizacijos pavadinimu ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pakeisti santrumpą aiškiu organizacijos pavadinimu ir sutrumpinti sakinį.'
@@ -72,13 +72,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=adbd647a2849724915654c8d90bc073908f0d10228502f16a2940814cc86e803; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Draugija užsienio lietuviams remti: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Draugija užsienio lietuviams remti: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)" parinktas kaip owner_note_path. Targetas "Draugija užsienio lietuviams remti" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Draugija tiesiogiai rūpinosi užsienio lietuvių švietimu, tad rėmė lietuvius.
 
 ## Reikšmingi paminėjimai
 
@@ -114,21 +114,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=adbd647a2849724915654c8d90bc073908f0d10228502f16a2940814cc86e803; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Draugija užsienio lietuviams remti: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Draugija užsienio lietuviams remti: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)" parinktas kaip owner_note_path. Targetas "Draugija užsienio lietuviams remti" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Draugija tiesiogiai rūpinosi užsienio lietuvių švietimu, tad rėmė lietuvius.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1330473-1330900; hash=91ebd5e9e124f1fbbeba872146fb4820a8544d5bc04fb1663049c56afe797482; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Draugija užsienio lietuviams remti: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Draugija užsienio lietuviams remti: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)" parinktas kaip owner_note_path. Targetas "Draugija užsienio lietuviams remti" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lietuviai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draugija užsienio lietuviams remti: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad draugija rėmė užsienyje gyvenančius lietuvius.

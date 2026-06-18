@@ -30,7 +30,7 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   global_id: t-60975
   teiginys: 'Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie kronikos liudijimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -58,13 +58,13 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   irodymo_stiprumas: 0.00
   saltinio_vieta: 368446-368809; hash=fed47164a38c57e11beb354baa5677866448ec8856a1968ccd2a5cf3e119b283; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Estai: 0.85
+  ryšio_patikimumas: reme -> Lietuviai: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eiliuotoji Livonijos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Estai: mention_match, group, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eiliuotoji Livonijos kronika" parinktas kaip owner_note_path. Targetas "Estai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata kuršių veiksmus aiškiai įvardija kaip pagalbą lietuviams.
 
 ## Reikšmingi paminėjimai
 
@@ -111,10 +111,10 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   irodymo_stiprumas: 0.00
   saltinio_vieta: 368446-368809; hash=fed47164a38c57e11beb354baa5677866448ec8856a1968ccd2a5cf3e119b283; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Estai: 0.85
+  ryšio_patikimumas: reme -> Lietuviai: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Eiliuotoji Livonijos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Estai: mention_match, group, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eiliuotoji Livonijos kronika" parinktas kaip owner_note_path. Targetas "Estai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata kuršių veiksmus aiškiai įvardija kaip pagalbą lietuviams.

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-75097
   teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.'
   sudarymo_pagrindimas: 'Papildyta citatoje nurodytu informacijos teikimu ir patikslintas žurnalo leidimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; llm_object: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Papildyta citatoje nurodytu informacijos teikimu ir patikslintas žurnalo leidimas.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Tomas Venclova: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Disidentinio judėjimo pradžia Lietuvoje (1960 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=151
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Disidentinio judėjimo pradžia Lietuvoje (1960 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranas Morkus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tomas Venclova: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Abu asmenys kartu įvardyti kaip pirmieji lietuviai disidentai, veikę su Maskvos disidentais.
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74671|Lietuvos disidentai]]: Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104184|disidentai disidentinis judėjimas kitaminčiai]]: Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš [[objektai/asmenys/Aleksandras Štromas.md#claim-t-18780|Aleksandras Štromas]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.
@@ -93,10 +93,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Tomas Venclova: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Disidentinio judėjimo pradžia Lietuvoje (1960 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=151
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Disidentinio judėjimo pradžia Lietuvoje (1960 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranas Morkus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tomas Venclova: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Abu asmenys kartu įvardyti kaip pirmieji lietuviai disidentai, veikę su Maskvos disidentais.

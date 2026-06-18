@@ -35,7 +35,7 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
   global_id: t-42443
   teiginys: 'Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, kuriame demobilizacija aiškiai susieta su Ladygos veikla.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]; mentioned_place: Rusija; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]; mentioned_place: Rusija; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.; įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, kuriame demobilizacija aiškiai susieta su Ladygos veikla.'
@@ -44,13 +44,13 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=af00a11861a99072b48212909b6016646992fdd52e5efdab3b27b7000926f2af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: demobilizacija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "demobilizacija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazys Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Kazio Ladygos judėjimą į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės).md#claim-t-20312|Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]: Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.
 - susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
 - susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101653|Josifas Stalinas]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
@@ -87,10 +87,10 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=af00a11861a99072b48212909b6016646992fdd52e5efdab3b27b7000926f2af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: demobilizacija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "demobilizacija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazys Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Kazio Ladygos judėjimą į Lietuvą.

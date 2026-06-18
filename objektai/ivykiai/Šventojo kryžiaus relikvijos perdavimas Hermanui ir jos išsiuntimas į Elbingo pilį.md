@@ -41,20 +41,20 @@ Nenurodyta
   teiginys: 'Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta; citata pagrindžia relikvijos perdavimą Hermanui ir išsiuntimą į Elbingą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Elbingas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Prūsija; llm_object: [[objektai/asmenys/Hermanas|Hermanas]]'
   pagrindžia:
     - c-001
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Hermanas relikviją išsiuntė į Elbingo pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -99,21 +99,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Hermanas relikviją išsiuntė į Elbingo pilį.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Elbingas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Hermanas relikviją išsiuntė į Elbingo pilį.

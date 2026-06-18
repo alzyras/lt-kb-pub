@@ -22,19 +22,20 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   teiginys: 'Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir sugramatintas pagal komentaro formuluotę.'
-  susije_objektai: 'mentioned_place: Černigovas; mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'llm_object: Černigovas; mentioned_place: Černigovas; mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Luckas; llm_object: Lietuva'
+  semantiniai_rysiai: 'Novosilė priklausė Černigovas; Novosilė priklausė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Černigovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Novosilė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Černigovas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Novosilė" parinktas kaip owner_note_path. Targetas "Černigovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Černigovas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Novosilę kaip buvusį Černigovo kunigaikštystės miestą.
 
 <a id="claim-t-187272"></a>
 - t-002
@@ -42,19 +43,20 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   teiginys: 'Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citatos lokalizacija.'
-  susije_objektai: 'mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Černigovas; llm_object: Lietuva'
+  semantiniai_rysiai: 'Novosilė priklausė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Donas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Novosilė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Novosilė" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja Novosilę LDK pakraštyje; leidžiamas kandidatas LDK vietai yra Lietuva.
 
 ## Reikšmingi paminėjimai
 
@@ -76,21 +78,25 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Černigovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Novosilė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Černigovas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Novosilė" parinktas kaip owner_note_path. Targetas "Černigovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Černigovas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Novosilę kaip buvusį Černigovo kunigaikštystės miestą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7dcb473aba8ab7ff633427c1f66d774cb6f716edb49be880ae8c93d98b793e0; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Donas: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Novosilė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Novosilė" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Novosilė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja Novosilę LDK pakraštyje; leidžiamas kandidatas LDK vietai yra Lietuva.
+
+## Ryšiai
+- Novosilė priklause [[objektai/vietos/Černigovas]]
+- Novosilė priklause [[objektai/vietos/Lietuva]]

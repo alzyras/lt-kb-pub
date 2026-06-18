@@ -63,7 +63,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179216
   teiginys: 'Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus vietos įvardis pagal citatą.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Gardinas'
   pagrindžia:
     - c-105
 
@@ -125,7 +126,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179220
   teiginys: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   sudarymo_pagrindimas: 'Religinio papročio aprašymas perrašytas glaustai ir be poleminės leksikos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; llm_object: Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Lenkija'
   pagrindžia:
     - c-041
     - c-053
@@ -176,7 +178,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179223
   teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir sutampa su citatoje nurodytu veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Livonija; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; llm_object: Dorpatas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Livonija; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Dorpatas'
   pagrindžia:
     - c-042
   irodymo_stiprumas: 0.00
@@ -195,7 +198,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179225
   teiginys: '1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir sklandžiau, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir sklandžiau, išlaikant citatos faktą.'
@@ -204,20 +208,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77af96e74bbc4f2bcdd071324657a041bedfb0eb8540c3948593614fdd394da2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kijevo Rusia: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini lietuvių ir Kijevo rusų karinius konfliktus.
 
 <a id="claim-t-179226"></a>
 - t-012
   global_id: t-179226
   teiginys: '1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Revelis; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; llm_object: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba; llm_object: Dobrynė; llm_object: Pskovas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Revelis; [[objektai/grupes/Lietuviai|Lietuviai]] gynė Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, faktinis ir tiksliai paremtas citata.'
@@ -226,13 +231,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 543345-543638; hash=946eee99be2973d3eb3cbec2488ed8fa98f5c21fd7f1c8a7530bad72eeea660f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo du lietuvių žygius į Prūsus.
 
 <a id="claim-t-179227"></a>
 - t-013
@@ -262,20 +267,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562101-562359; hash=482eaa28449d8daeba1f2a4cabea76522f33572cf0b354420d26922738512e7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai puolė Livonijos kryžiuočius.
 
 <a id="claim-t-179229"></a>
 - t-015
   global_id: t-179229
   teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie Lietuvos pulkų grįžimą į kovą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
 
@@ -308,13 +314,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61adeaff518e7a8ebf46e52dd10a91fdc6f948c927fccdcd48c1f06352ec9458; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata mūšio kontekste rodo lietuvių grįžimą į kovą, po kurio puolama kryžiuočių kariuomenė; tai palaiko karo prieš kryžiuočius ryšį.
 
 <a id="claim-t-179232"></a>
 - t-018
@@ -345,20 +351,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 16081-16568; hash=0bfb12b9774db9528ebacfa42e1ec047ef52333ee038fed017c1d3f6e015e4fd; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo žmones iš Lietuvos, aplinkinių vadintus leičiais; artimiausias leistinas ryšys yra gyvenimas/kilmė iš vietos.
 
 <a id="claim-t-179235"></a>
 - t-020
   global_id: t-179235
   teiginys: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėjus, veiksmus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-022
   irodymo_stiprumas: 0.00
@@ -377,7 +383,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179236
   teiginys: 'Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.'
   sudarymo_pagrindimas: 'Pirminė formuluotė labiau apie leidinio rengėjus, todėl perrašyta kaip faktas apie lietuvius.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Lietuva'
   pagrindžia:
     - c-075
   irodymo_stiprumas: 0.00
@@ -396,7 +403,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179237
   teiginys: 'Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Lenkija'
   pagrindžia:
     - c-071
   irodymo_stiprumas: 0.00
@@ -421,20 +429,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=656c2867ef612f3caa541ac21e0d2a0f2da3d7b88dea78733dc1e46da7c33ada; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.51
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad karaimai tapo artimosios sargybos tauta; tai palaiko gynimo ryšį su valdovu Vytautu, nors totoriai nėra kandidatų sąraše.
 
 <a id="claim-t-179239"></a>
 - t-024
   global_id: t-179239
   teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Kersovas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kersovas; mentioned_place: Kersovas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Viena; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kersovas; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Lenkija'
   pagrindžia:
     - c-041
   irodymo_stiprumas: 0.00
@@ -510,7 +519,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179243
   teiginys: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: Lubava; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Kristburgas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Lubava'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus.'
@@ -549,7 +559,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-031
   global_id: t-179248
   teiginys: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Mazovija; mentioned_place: Viena; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Prūsija'
   pagrindžia:
     - c-028
 
@@ -558,7 +569,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179250
   teiginys: 'Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi pabaiga ir aiškiau suformuluotas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kuršiai|Kuršiai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-098
   irodymo_stiprumas: 0.00
@@ -632,7 +644,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179254
   teiginys: 'Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nebuvo apie lietuvius; citata palaiko platesnį teiginį apie juos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Dobrynė; mentioned_place: Plockas'
+  susije_objektai: 'llm_object: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Dobrynė; mentioned_place: Plockas'
   pagrindžia:
     - c-101
   irodymo_stiprumas: 0.00
@@ -651,7 +663,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179255
   teiginys: '1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lenkija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lenkija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Dobrynė'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -673,7 +686,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179257
   teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.'
   sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimas ir perteklinės detalės.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vėluva; llm_object: Semba; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] apgulė Vėluva; [[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Semba'
   pagrindžia:
     - c-040
   irodymo_stiprumas: 0.00
@@ -711,7 +725,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179259
   teiginys: 'Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti ginčų šalį ir karaliaus garantiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] buvo priešas [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
@@ -730,8 +745,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179260
   teiginys: 'Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su lietuviais ir būtų glaustesnis.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; llm_object: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Lenkija; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Lenkija'
   pagrindžia:
     - c-051
   irodymo_stiprumas: 0.00
@@ -750,7 +765,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179265
   teiginys: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Notanga; mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Notanga; [[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Notanga'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
@@ -801,7 +817,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179272
   teiginys: 'Lietuviai ir lenkai įsakė savo kariuomenių būriams rengti puolimus, kad nukreiptų dėmesį nuo savęs.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir suformuluotas sklandžiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Červinskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Červinskas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-056
 
@@ -828,7 +845,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179275
   teiginys: 'Lietuvių kariuomenės sugrįžimas į mūšį tada, kai laimė sviro kryžiuočiams, laikytas nepaprastu karo taktikos reiškiniu.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas sklandus faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-050
   irodymo_stiprumas: 0.00
@@ -933,20 +951,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją.
 
 <a id="claim-t-179282"></a>
 - t-056
   global_id: t-179282
   teiginys: '1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys būtų sklandus ir aiškiai perteiktų įvykio eigą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė; llm_object: Bisenė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys būtų sklandus ir aiškiai perteiktų įvykio eigą.'
@@ -955,20 +974,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7dfe85aa1ba58332ce829287d31b32c29cd3e37c5c20e2ea62806ce24c70abe9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: puole -> Prūsija: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsija minima kaip kraštas, kurį užgriuvo lietuvių pulkas.
 
 <a id="claim-t-179283"></a>
 - t-057
   global_id: t-179283
   teiginys: 'Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.'
   sudarymo_pagrindimas: 'Ilgas kilmės pasakojimas sutrumpintas iki aiškaus teiginio apie lietuvius.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Baltija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] valdė teritoriją Baltija'
   pagrindžia:
     - c-095
 
@@ -977,7 +997,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179284
   teiginys: '1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, datuotas ir pagrįstas tinkama citata.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Medininkai; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, datuotas ir pagrįstas tinkama citata.'
@@ -989,20 +1009,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę.
 
 <a id="claim-t-179285"></a>
 - t-059
   global_id: t-179285
   teiginys: 'Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki aiškaus faktinio sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/kur akys veda, kur kojos neša|kur akys veda, kur kojos neša]]; mentioned_place: Drevanta; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Narevas; mentioned_place: Pagudė'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/kur akys veda, kur kojos neša|kur akys veda, kur kojos neša]]; mentioned_place: Drevanta; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Narevas; mentioned_place: Pagudė; llm_object: Kulmas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kulmas'
   pagrindžia:
     - c-081
 
@@ -1052,7 +1073,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179289
   teiginys: 'Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   sudarymo_pagrindimas: 'Pataisyta didžioji raidė ir pašalintas nereikalingas atribucijos boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; llm_object: Kulmas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Kulmas; llm_object: [[objektai/grupes/Baltai|Baltai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Kulmas; [[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Baltai|Baltai]]'
   temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisyta didžioji raidė ir pašalintas nereikalingas atribucijos boilerplate.'
@@ -1061,13 +1083,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 19177-19652; hash=e162e3fd2527e47a79dd083ef842ae14b9108e31bb59a80056ec73efac04b526; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kovą prieš Kryžiuočių ordiną.
 
 <a id="claim-t-179290"></a>
 - t-064
@@ -1079,13 +1101,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių karinį veiksmą prieš kryžiuočius.
 
 <a id="claim-t-179291"></a>
 - t-065
@@ -1111,7 +1133,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179292
   teiginys: 'XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
   sudarymo_pagrindimas: 'Pataisyta kalba ir sutrumpintas teiginys, išlaikant citatos sąlygą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]; mentioned_place: Kijevas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]; mentioned_place: Kijevas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Rusia; llm_object: [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]'
   temporaliniai_duomenys: 'įvykio data: 988 m; įvykio data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisyta kalba ir sutrumpintas teiginys, išlaikant citatos sąlygą.'
@@ -1132,7 +1155,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-067
   global_id: t-179293
   teiginys: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Lietuva'
   pagrindžia:
     - c-084
 
@@ -1141,7 +1165,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179294
   teiginys: 'Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau, pašalinant sunkų junginį ir išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lozana'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lozana; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] buvo priešas [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau, pašalinant sunkų junginį ir išlaikant citatos faktą.'
@@ -1150,13 +1175,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos raitelių puolimą Lenkijos žemėje.
 
 <a id="claim-t-179295"></a>
 - t-069
@@ -1173,7 +1198,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179296
   teiginys: '1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas nurodyta citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Kristburgas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lubava; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Kristburgas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Lubava; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Lubava'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas nurodyta citata.'
@@ -1182,32 +1208,32 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=05fb3bc890b18c02ce2cd25a4e8949085d20b488bd9b98c94801e5c5d000dc17; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Artimiausias tiesioginis karinis ryšys tarp leistinų kandidatų yra brolių pradėtas puolimas prieš lietuvius, bet broliai nėra kandidatuose; kuršiai puolė krikščionis, ne lietuvius, todėl šis ryšys atmestas kaip kraštinis.
 
 <a id="claim-t-179297"></a>
 - t-071
   global_id: t-179297
   teiginys: 'Balińskis Ordino riterių smūgį pagoniškai Lietuvai apibūdino kaip paskutinį.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku ir perteikia autoriaus vertinimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; llm_object: Lietuva'
   pagrindžia:
     - c-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=638b46aa4bcdcd37ef29f8165cf96398be77b8666cde298532889f258b1da593; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Vėluvos pilis buvo apsupta, lietuviai dalyvavo apgultyje.
 
 <a id="claim-t-179298"></a>
 - t-072
@@ -1219,13 +1245,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=478493997f8bc57d954152f11f52e0970968284cfb9958dbaea7261977cf0fd0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vėluva: 0.85
+  ryšio_patikimumas: gyne -> Vėluva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vėluva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Vėluva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Tupadelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Tupadelis aprašytas kaip padėjęs apsupties metu gintis Vėluvos pilies gynėjams.
 
 <a id="claim-t-179299"></a>
 - t-073
@@ -1244,20 +1270,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę.
 
 <a id="claim-t-179300"></a>
 - t-074
   global_id: t-179300
   teiginys: '1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba; llm_object: Medininkai'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir pagrįstas citata.'
@@ -1269,7 +1296,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179301
   teiginys: '1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.'
   sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimas ir nutrūkusi pabaiga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Abenda; mentioned_place: Lietuva; mentioned_place: Pabečiai; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Abenda; llm_object: Pabečiai; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Abenda; mentioned_place: Lietuva; mentioned_place: Pabečiai; mentioned_place: Semba; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Abenda; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Pabečiai'
   temporaliniai_duomenys: 'įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas skyriaus pavadinimas ir nutrūkusi pabaiga.'
@@ -1278,13 +1306,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kersovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kersovas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kersovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kersovas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kersovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos raitelių veiksmą Kersovu vadintoje žemės dalyje.
 
 <a id="claim-t-179302"></a>
 - t-076
@@ -1297,13 +1325,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519417-520078; hash=ae24a465c86717efb5543f10f4448c518541ab77ae7d8c47d2c14b7f64efeb6f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti kaip pagalbon pasitelkta puolimo prieš Sembą dalis.
 
 <a id="claim-t-179304"></a>
 - t-078
@@ -1319,13 +1347,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumas: puole -> Semba: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kaip pilies statybos tikslą nurodo užkirsti kelią lietuvių veržimuisi į Sembą.
 
 <a id="claim-t-179305"></a>
 - t-079
@@ -1338,13 +1366,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių karaliaus pajėgos tiesiogiai įsibrovė į Sembos žemę.
 
 <a id="claim-t-179306"></a>
 - t-080
@@ -1376,13 +1404,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jazbuto įsibrovimą į Lenkiją.
 
 <a id="claim-t-179308"></a>
 - t-082
@@ -1398,7 +1426,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179309
   teiginys: 'Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Semba; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-034
 
@@ -1407,7 +1436,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179310
   teiginys: 'Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Junigeda; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Medraba; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'llm_object: Junigeda; mentioned_place: Junigeda; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Medraba; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] pastatė Junigeda'
   pagrindžia:
     - c-048
 
@@ -1424,8 +1454,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179312
   teiginys: '1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: [[objektai/asmenys/Surminas|Surminas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] paskyrė [[objektai/asmenys/Surminas|Surminas]]'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai susiję su Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai atitinka citatos informaciją.'
@@ -1434,33 +1464,33 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9261d47e91f0fcf9389df92dc24677c5d7dc0ceb2a1a985d82d05c6c2f719fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 1.00
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Lietuviai: owner_after_title, group, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Lietuviai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos karaliaus sūnaus su kariuomene siuntimą į Lenkiją.
 
 <a id="claim-t-179313"></a>
 - t-087
   global_id: t-179313
   teiginys: 'Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir citata patvirtina lietuvių kariuomenės dalyvavimą.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Kulmas'
   pagrindžia:
     - c-047
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0b9be1c7907fa47ac91ec9bbc9e710aeb704d2a283ef07cae0af0b31c9c384ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Straisbergas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Straisbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Lietuvos vyrus kaip Straisbergo miesto puolėjus.
 
 <a id="claim-t-179315"></a>
 - t-089
@@ -1476,7 +1506,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179316
   teiginys: 'Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-082
 
@@ -1485,19 +1516,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179317
   teiginys: 'Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.'
   sudarymo_pagrindimas: 'Citata leidžia geriau sutelkti teiginį į lietuvius.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Verkiai'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Verkiai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gynė Vilnius'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3997fa70b9ff2c6aab69e4ed2eaa1c88f6caf478cb0ff7f2a94e16fe5acdddf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad iš Lietuvos atvykę plėšikautojai puolė Lubavos kaimus.
 
 <a id="claim-t-179318"></a>
 - t-092
@@ -1510,13 +1542,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f178f98be340a8de65b6ec3bc5173bfdd2004d2d9fdaefb1fc33d280efbaa40c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lubava: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo iš Lietuvos kilusių plėšikautojų įsibrovimą į Lubavos žemę.
 
 <a id="claim-t-179320"></a>
 - t-093
@@ -1535,7 +1567,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179322
   teiginys: 'Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.'
   sudarymo_pagrindimas: 'Iš ilgo sakinio išskirtas konkretus faktas apie lietuvių vadą.'
-  susije_objektai: 'mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena; llm_object: Vėluva'
   pagrindžia:
     - c-092
   irodymo_stiprumas: 0.00
@@ -1553,7 +1585,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-095
   global_id: t-179323
   teiginys: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Prūsai; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Semba; llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Prūsai; [[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Sūduviai|Sūduviai]]'
   temporaliniai_duomenys: 'įvykio data: 1262-1263; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -1561,20 +1594,21 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 623031-623583; hash=2b0cbb1730de2f07109fb3df4e33e59d748cf2e3e7bf0f129e5f4d1edb3acf97; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Gardinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos karalius pasiuntė karių ginti Gardino pilies; subjektas apibendrintas kaip lietuvių pusė.
 
 <a id="claim-t-179324"></a>
 - t-096
   global_id: t-179324
   teiginys: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie lietuvių puolimus Livonijoje ir Lenkijoje.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1306 m.; įvykio data: 1306 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie lietuvių puolimus Livonijoje ir Lenkijoje.'
@@ -1583,41 +1617,40 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Lietuviai: owner_after_title, group, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Nemunas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Lietuviai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 68, "match_index": 86, "path": "objektai/vietos/Nemunas.md", "selected": false, "strategy": "candidate", "title": "Nemunas", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Surminas: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lietuvių karalius ir Lietuva pasirinko Surminą užduočiai, todėl tai artima paskyrimui.
 
 <a id="claim-t-179325"></a>
 - t-097
   global_id: t-179325
   teiginys: 'Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata palaiko aiškų pilną sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
   pagrindžia:
     - c-068
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pateikta citata tiesiogiai remia Jazbuto žygį į Lenkiją, nors claim tekstas kalba apie kitą epizodą.
 
 <a id="claim-t-179326"></a>
 - t-098
   global_id: t-179326
   teiginys: 'Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas apie lietuvius.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Anglai|Anglai]]; counterparty: [[objektai/grupes/Anglų riteriai|Anglų riteriai]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Anglų riteriai|Anglų riteriai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Anglai|Anglai]]; [[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Anglų riteriai|Anglų riteriai]]; [[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Anglų riteriai|Anglų riteriai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Anglų riteriai|Anglų riteriai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-076
   irodymo_stiprumas: 0.00
@@ -1636,7 +1669,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179327
   teiginys: 'Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir aiškiai susijęs su lietuviais.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Noihauzas'
+  susije_objektai: 'mentioned_place: Semba; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Noihauzas; llm_object: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Semba'
   pagrindžia:
     - c-065
   irodymo_stiprumas: 0.00
@@ -1668,13 +1702,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204061-204339; hash=5d097478fef032b58d1bf9fbe14817793d112fac0005b71cc069a03c32007eb2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.83
+  ryšio_patikimumas: gyne -> Bisenė: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pamaininė sauga buvo prie Bisenės pilies ir atliko jos apsaugos funkciją.
 
 <a id="claim-t-179330"></a>
 - t-102
@@ -1686,13 +1720,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 657234-657786; hash=bf4358d498231f577217a15324bad190e188f3eb1654e8a4dfa51c3849ad7387; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.83
+  ryšio_patikimumas: gyne -> Medininkai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai persekiojo į Medininkų valsčių įsiveržusius Ragainės brolius, todėl ryšys su Medininkų gynyba yra tiesiogiai pagrįstas, bet ne įvardytas žodžiu „gynė“.
 
 <a id="claim-t-179332"></a>
 - t-103
@@ -1708,7 +1742,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179333
   teiginys: 'Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas; citata palaiko Gedimino titulą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-058
 
@@ -1734,7 +1769,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179336
   teiginys: 'Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, glaustas ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]'
+  susije_objektai: 'llm_object: Semba; mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Semba'
   pagrindžia:
     - c-074
 
@@ -1762,7 +1798,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179339
   teiginys: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Kulmas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Straisbergas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Kulmas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Straisbergas'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata.'
@@ -1829,13 +1866,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6944d963d6aa44c98651bcdb6c503c2b2b24acb74814eaf8ba3a4fe326bf25e3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo konfliktą tarp lietuvių ir lenkų.
 
 <a id="claim-t-179348"></a>
 - t-116
@@ -1863,19 +1900,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas konteksto stokojantis fragmentiškumas.'
-  susije_objektai: 'mentioned_place: Gilgenburgas'
+  susije_objektai: 'llm_object: Gilgenburgas; mentioned_place: Gilgenburgas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Gilgenburgas; [[objektai/grupes/Lietuviai|Lietuviai]] užėmė Gilgenburgas; [[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Gilgenburgas'
   pagrindžia:
     - c-106
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19452ca0923cda69ed07390989f6f866f72cbf2710072fba5c21f489068f2e64; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kova dėl Lietuvos valstybės interesų tiesiogiai sieja lietuvius su Lietuvos gynimu plačiąja prasme.
 
 <a id="claim-t-184541"></a>
 - t-121
@@ -1891,13 +1929,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: valde_teritorija -> Baltija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata teigia, kad lietuvių tauta užėmė Baltijos pakrantę, todėl tai remia teritorinio užėmimo ar valdymo ryšį.
 
 <a id="claim-t-184542"></a>
 - t-122
@@ -1929,7 +1967,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas moralizuojantis vertinimas ir OCR klaidos.'
-  susije_objektai: 'mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Poleksija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Poleksija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: 'Poleksija priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas moralizuojantis vertinimas ir OCR klaidos.'
@@ -1938,13 +1977,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino riterių smūgis pagoniškai Lietuvai tiesiogiai rodo karinį veiksmą prieš Lietuvą.
 
 <a id="claim-t-184544"></a>
 - t-124
@@ -1960,13 +1999,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją.
 
 <a id="claim-t-184545"></a>
 - t-125
@@ -1998,7 +2037,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; perrašyta į aiškų faktą.'
-  susije_objektai: 'mentioned_place: Mazovija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_place: Plockas; mentioned_place: Sochačevas'
+  susije_objektai: 'llm_object: Plockas; llm_object: Sochačevas; mentioned_place: Mazovija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_place: Plockas; mentioned_place: Sochačevas; llm_object: Mazovija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Sochačevas; [[objektai/grupes/Lietuviai|Lietuviai]] užėmė Plockas; [[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Mazovija'
   pagrindžia:
     - c-112
 
@@ -2010,19 +2050,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus citatos palaikomo fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-113
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ded139f73684adce7d08ea6806027d7f579b39607d2a9dc658e1883e2e41ec66; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas tiesiogiai prisistato lietuvių karaliumi.
 
 <a id="claim-t-184549"></a>
 - t-128
@@ -2032,7 +2073,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Junigeda; mentioned_place: Pieštvė; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Junigeda; mentioned_place: Pieštvė; mentioned_place: Ragainė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas Žakas|Konradas Žakas]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -2057,7 +2099,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti turiningesnį sakinį apie lietuvių raitelių pulką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] gynė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-115
 
@@ -2069,19 +2112,19 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir išlaikytas pagrindinis faktas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; llm_object: Lietuva'
   pagrindžia:
     - c-116
   irodymo_stiprumas: 0.00
   saltinio_vieta: 265048-265524; hash=b448284f349bc35949e493fde268c4dd24cfc7b9c664d632f52305afcb68301b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkų įgula kartu su lietuvių pajėgomis užsidarė Vilniaus tvirtovėse gynybai.
 
 <a id="claim-t-184552"></a>
 - t-131
@@ -2214,13 +2257,86 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bisenė: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59882|Liudvikas iš Libencelės]]: 1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
-- susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
+- susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
+- susijęs iš Nemunas: Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.
+- susijęs iš Nemunas: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
+- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60186|Numa]]: Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.
+- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-71821|Viskas yra viena, viena žemė ir tie patys žmonės]]: Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.
+- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-71822|Viskas yra viena, viena žemė ir tie patys žmonės]]: Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.
+- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175174|ginklanešiai]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
+- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175178|ginklanešys]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-184615|gurguolė]]: 1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį.
+- susijęs iš [[objektai/zodynas/neofitas.md#claim-t-179583|neofitas]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179114|Kryžiuočių ordinas]]: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179210|Lenkai]]: Žalgirio mūšyje dalis su lietuviais kovojusių kryžiuočių puolė lenkus.
+- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių.
+- susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87418|Šach Achmedas]]: Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.
+- susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49271|husarai]]: Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.
+- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
+- susijęs iš Poleksija: Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos kariai.
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
+- susijęs iš [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas.md#claim-t-79073|Karolis Carlsonas Gyllenhielmas]]: Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.
+- susijęs iš [[objektai/asmenys/Muka.md#claim-t-60177|Muka]]: 1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10167|Vėliavos]]: Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.
+- susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-71617|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.
+- susijęs iš [[objektai/grupes/Draugija užsienio lietuviams remti.md#claim-t-77822|Draugija užsienio lietuviams remti]]: Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187751|Totoriai]]: Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.
+- susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01610|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: 1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.
+- susijęs iš [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.).md#claim-t-185709|Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]: Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.
+- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš Pogulianka: Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka.
+- susijęs iš Ragainė: 1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.
+- susijęs iš Rudamina: Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių.
+- susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.
+- susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
+- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185596|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Kryžiuočiai Ragainėje užpuolė pagal sutartį gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė turtą.
+- susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą.md#claim-t-62493|Sūduvių ir lietuvių antpuolis prieš Sembą]]: Sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembą, dešimt dienų degindami sodybas bei kitą už pilių buvusį turtą.
+- susijęs iš [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.).md#claim-t-89407|Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]: 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.
+- susijęs iš [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.).md#claim-t-185673|Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]: Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.
+- susijęs iš [[objektai/ivykiai/Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis.md#claim-t-185835|Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis]]: Vytenis beveik tris mėnesius siaubė Prūsiją, kol kryžiuočiai užklupo grįžtančius lietuvius ir beveik visus išžudė.
+- susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86842|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186377|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: 1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.
+- susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186379|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: 1283 m. Dusburgas žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.
+- susijęs iš [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“.md#claim-t-186381|„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]: Dusburgas 1283 m. kronikoje žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.
+- susijęs iš [[objektai/zodynas/ariergardas.md#claim-t-185352|ariergardas]]: 1301 m. lenkų būrys pasivijo besitraukiančius lietuvius ir, tikėdamasis atsiimti grobį, smarkiai užpuolė ariergardą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108309|Pranciškonų ordinas]]: Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.
+- susijęs iš [[objektai/grupes/Švedų gvardijos kavalerija.md#claim-t-41215|Švedų gvardijos kavalerija]]: Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną.
+- susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
+- susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
+- susijęs iš Pilypavas: 1656 m. spalio 22 d. ties Pilypavu švedai ir brandenburgiečiai pasivijo lietuvius ir juos sumušė.
+- susijęs iš [[objektai/asmenys/Andrius fon Vestfalenas.md#claim-t-186179|Andrius fon Vestfalenas]]: Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.
+- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-184078|Henrikas iš Dobino]]: Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.
+- susijęs iš [[objektai/asmenys/Henrikas iš Dobino.md#claim-t-60134|Henrikas iš Dobino]]: Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.
+- susijęs iš [[objektai/asmenys/Hermanas.md#claim-t-183740|Hermanas]]: Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-184099|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63804|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
+- susijęs iš [[objektai/asmenys/Valteris Goldinas.md#claim-t-184138|Valteris Goldinas]]: 1300 m. Valteris Goldinas su ginklanešiais Notangoje pasivijo lietuvius ir nukovė visus, išskyrus tris.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172093|Dominikonų ordinas]]: Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.
+- susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-71615|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms.
+- susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-71616|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179164|Lenkai]]: Po Krėvos sutarties lenkų pareigūnai buvo siunčiami į Lietuvą, o lietuvių ir lenkų kariuomenės talkino viena kitai.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-183909|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių kariuomenė beveik 14 dienų žygiavo per Sembą nuo vieno pasienio iki kito ir atsitraukdama patyrė sunkių nuostolių.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
+- susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01611|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.
+- susijęs iš [[objektai/ivykiai/Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.).md#claim-t-185736|Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)]]: Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62904|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.
+- susijęs iš Giedraičiai: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
+- susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
+- susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
+- susijęs iš Polockas: Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.
+- susijęs iš Sūdavija: Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.
+- susijęs iš Šeškinės kalnas: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77966|A. Smetona]]: Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
@@ -4185,6 +4301,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/zodynas/Žiuponai.md#claim-t-07693|žiuponai]]: Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte.
 - susijęs iš [[objektai/zodynas/žygis.md#claim-t-182995|žygis]]: Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113454|Bombardos]]: Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59726|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
+- susijęs iš Suvalkai: 1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.
+- susijęs iš Veliuona: Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.
+- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186043|Henrikas fon Plockė]]: Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.
+- susijęs iš [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR).md#claim-t-182887|Draugija Užsienio Lietuviams Remti (DULR)]]: DULR rūpinosi lietuviškų mokyklų steigimu, mokytojų parūpinimu išeivių mokykloms ir knygų siuntimu bibliotekoms.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
+- susijęs iš Rudamina: Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77974|A. Smetona]]: A. Smetona vadovavo draugijai nuo karo nukentėjusiesiems šelpti ir į jos veiklą įtraukė kairės bei liberalų lyderius.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
@@ -6540,6 +6665,115 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/zodynas/šturmovcai.md#claim-t-42530|šturmovcai]]: Šturmovcai savo nesėkmę aiškino tuo, kad buvo atvežti tiesiai iš bolševikų fronto ir puolė taip pat kaip bolševikus.
 - susijęs iš [[objektai/zodynas/Žiuponai.md#claim-t-07692|žiuponai]]: Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.
+- susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168144|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
+- susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-182885|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
+- susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-183922|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: Po Glotavos antpuolio Valteris Goldinas užkirto lietuviams kelią ir nukovė visus, išskyrus tris.
+- susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66633|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos.
+- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
+- susijęs iš [[objektai/asmenys/Edigejus.md#claim-t-186198|Edigejus]]: Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.
+- susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-60298|Gundramas]]: 1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė.
+- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.
+- susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40819|1-oji pėstininkų divizija]]: Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179134|Lenkai]]: Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179135|Lenkai]]: Po personalinės unijos lenkų pareigūnai buvo siunčiami į Lietuvą su valdovo įgaliojimais, o lietuvių kariuomenė talkino lenkams.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175101|Sembai]]: Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89249|Sūduviai]]: Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
+- susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
+- susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1405 m.).md#claim-t-35877|Smolensko užėmimas (1405 m.)]]: 1405 m. Vytautas su didele kariuomene ir artilerija užpuolė Smolenską, o miestas buvo paimtas padedant lietuvių šalininkams.
+- susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01934|Bendri Lietuvos ir Lenkijos seimai]]: Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.
+- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.
+- susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70055|Vakarų Bažnyčios schizma]]: Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179026|Kryžiuočių ordinas]]: Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175113|Sūduviai-jotvingiai]]: Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.
+- susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62753|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: 1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.
+- susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
+- susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-184075|Gundramas]]: 1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių.
+- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-184065|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
+- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
+- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186043|Henrikas fon Plockė]]: Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.
+- susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176673|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.
+- susijęs iš [[objektai/asmenys/Žegota.md#claim-t-186271|Žegota]]: Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius.
+- susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168139|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.
+- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184588|Vokiečiai]]: Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.
+- susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10204|Biržų (Medeikių) mūšis (1863 m.)]]: Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.
+- susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
+- susijęs iš [[objektai/posakiai/„mūsų žydeliai“.md#claim-t-20920|„mūsų žydeliai“]]: Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.
+- susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
+- susijęs iš Martiniškiai: Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių baterija išvedė iš rikiuotės Martiniškių dvare išsidėsčiusią lenkų bateriją.
+- susijęs iš Praha: Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.
+- susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178993|Kryžiuočių ordinas]]: Kairysis kryžiuočių sparnas prieš lietuvių pulkus buvo sudarytas iš stiprių dalinių.
+- susijęs iš [[objektai/ivykiai/Vietinės rinktinės organizavimas ir nacių represinis jos likvidavimas (1944 m. pradžia).md#claim-t-20530|Vietinės rinktinės organizavimas ir nacių represinis jos likvidavimas (1944 m. pradžia)]]: 1944 m. pradžioje vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, veikiančią tik Lietuvos teritorijoje.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78708|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75371|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
+- susijęs iš Hermano Vartbergės Livonijos kronika: „Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.
+- susijęs iš Braclavas: 1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.
+- susijęs iš Vidiškis: Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
+- susijęs iš [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.).md#claim-t-41342|Pilypavo mūšis (1656 m. spalio 22 d.)]]: Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75371|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
+- susijęs iš Vitebskas: 1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.
+- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71640|Krymo totoriai]]: Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117406|Žydai]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
+- susijęs iš [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus.md#claim-t-07778|Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]: Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.
+- susijęs iš Bisenė: 1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.
+- susijęs iš Kaunas: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune.
+- susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
+- susijęs iš Lietuva: Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.
+- susijęs iš [[objektai/zodynas/balista balistininkas arbaletas.md#claim-t-58846|balista balistininkas arbaletas]]: Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.
+- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71640|Krymo totoriai]]: Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.
+- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09887|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.
+- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
+- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-184712|Henrikas Cutsvertas]]: Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.
+- susijęs iš [[objektai/asmenys/Henrikas Tupadelis.md#claim-t-60138|Henrikas Tupadelis]]: Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu, ragino apsuptuosius gintis ir gesino piliai padegti pakištus degalus.
+- susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
+- susijęs iš [[objektai/asmenys/Vigandas fon Baldersheimas.md#claim-t-186266|Vigandas fon Baldersheimas]]: Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184522|Lenkai]]: Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117310|Vokiečiai]]: Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-184227|Vokiečiai]]: Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.
+- susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182837|Vokiečių ordinas]]: Vokiečių ordinas turėjo didelę įtaką Vytauto laikų prekybai, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.
+- susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
+- susijęs iš [[objektai/ivykiai/Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu.md#claim-t-185806|Kazimiero konfliktas dėl Rusios ir sutartis su lietuvių valdovu (sutartis)]]: Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.
+- susijęs iš [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus.md#claim-t-185926|Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]: 1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
+- susijęs iš Mažosios Lietuvos himnas: XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.
+- susijęs iš Vilnius: Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
+- susijęs iš [[objektai/zodynas/flangas.md#claim-t-42453|flangas]]: Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
+- susijęs iš [[objektai/grupes/NKVD.md#claim-t-71681|NKVD]]: Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.
+- susijęs iš [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.).md#claim-t-41342|Pilypavo mūšis (1656 m. spalio 22 d.)]]: Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.
+- susijęs iš Kristburgas: 1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių.
+- susijęs iš [[objektai/zodynas/durtuvų kautynės.md#claim-t-80623|durtuvų kautynės]]: Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje nurodyta, kad didžiausia trečioji kronikos dalis skirta prūsų žemių užkariavimui ir kovai prieš Lietuvą.
+- susijęs iš [[objektai/grupes/Naikintojų batalionai.md#claim-t-19956|Naikintojų batalionai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.).md#claim-t-59490|Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.
+- susijęs iš [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus.md#claim-t-86873|Tartari, longe sunt Lituanis inferiores viribus]]: Teiginyje „Tartari, longe sunt Lituanis inferiores viribus“ totoriai jėga laikomi gerokai silpnesniais už lietuvius.
+- susijęs iš Bisenė: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir dar vienas brolis su Ragainės ginklanešiais sudegino tuščią Bisenės pilį iki pamatų.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89678|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89680|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
+- susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
+- susijęs iš Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
+- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71642|Krymo totoriai]]: Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179204|Lenkai]]: Lietuvių ir lenkų pasitarimuose lenkų delegacija atmetė pasiūlymus, nes nesutarta dėl Vilniaus ir Rytų Lietuvos priklausomybės.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185488|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai.
+- susijęs iš Vilnius: 1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės.
+- susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
+- susijęs iš [[objektai/asmenys/Philippe de Mezières.md#claim-t-100077|Philippe de Mezières]]: Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.
+- susijęs iš Vilnius: Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
+- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184487|Krymo totoriai]]: Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -6611,13 +6845,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 623031-623583; hash=2b0cbb1730de2f07109fb3df4e33e59d748cf2e3e7bf0f129e5f4d1edb3acf97; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Gardinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos karalius pasiuntė karių ginti Gardino pilies; subjektas apibendrintas kaip lietuvių pusė.
     - t-096
 
 - c-005
@@ -6639,14 +6873,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Lietuviai: owner_after_title, group, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Nemunas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Lietuviai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 68, "match_index": 86, "path": "objektai/vietos/Nemunas.md", "selected": false, "strategy": "candidate", "title": "Nemunas", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Surminas: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lietuvių karalius ir Lietuva pasirinko Surminą užduočiai, todėl tai artima paskyrimui.
     - t-035
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f694bb7a9806b4cb60e5d24d51b83eff490470a1d12ae307a899e53ea3655dae; match=fallback; occurrences=0
@@ -6860,13 +7093,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61adeaff518e7a8ebf46e52dd10a91fdc6f948c927fccdcd48c1f06352ec9458; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata mūšio kontekste rodo lietuvių grįžimą į kovą, po kurio puolama kryžiuočių kariuomenė; tai palaiko karo prieš kryžiuočius ryšį.
     - t-040
 
 - c-016
@@ -6897,13 +7130,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 533913-534601; hash=63ba53239e3b3716e34f72e9ff16e270774119f39fb2325baf8f9144483a22c2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abenda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abenda: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Abenda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Abenda: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Abenda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Abenda tiesiogiai įvardyta kaip vienas nusiaubtų valsčių.
     - t-048
 
 - c-017
@@ -6975,13 +7208,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių karinį veiksmą prieš kryžiuočius.
     - t-113
 
 - c-020
@@ -7026,24 +7259,24 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jazbuto įsibrovimą į Lenkiją.
     - t-071
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=638b46aa4bcdcd37ef29f8165cf96398be77b8666cde298532889f258b1da593; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Vėluvos pilis buvo apsupta, lietuviai dalyvavo apgultyje.
     - t-043
 
 - c-022
@@ -7088,13 +7321,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=656c2867ef612f3caa541ac21e0d2a0f2da3d7b88dea78733dc1e46da7c33ada; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.51
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad karaimai tapo artimosios sargybos tauta; tai palaiko gynimo ryšį su valdovu Vytautu, nors totoriai nėra kandidatų sąraše.
     - t-001
 
 - c-024
@@ -7165,13 +7398,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3997fa70b9ff2c6aab69e4ed2eaa1c88f6caf478cb0ff7f2a94e16fe5acdddf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad iš Lietuvos atvykę plėšikautojai puolė Lubavos kaimus.
     - t-109
 
 - c-027
@@ -7220,13 +7453,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77af96e74bbc4f2bcdd071324657a041bedfb0eb8540c3948593614fdd394da2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kijevo Rusia: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini lietuvių ir Kijevo rusų karinius konfliktus.
     - t-031
     - t-082
 
@@ -7269,13 +7502,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=05fb3bc890b18c02ce2cd25a4e8949085d20b488bd9b98c94801e5c5d000dc17; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Artimiausias tiesioginis karinis ryšys tarp leistinų kandidatų yra brolių pradėtas puolimas prieš lietuvius, bet broliai nėra kandidatuose; kuršiai puolė krikščionis, ne lietuvius, todėl šis ryšys atmestas kaip kraštinis.
     - t-042
 
 - c-031
@@ -7371,13 +7604,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=478493997f8bc57d954152f11f52e0970968284cfb9958dbaea7261977cf0fd0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vėluva: 0.85
+  ryšio_patikimumas: gyne -> Vėluva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vėluva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Vėluva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Tupadelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Tupadelis aprašytas kaip padėjęs apsupties metu gintis Vėluvos pilies gynėjams.
     - t-083
 
 - c-035
@@ -7464,13 +7697,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos raitelių puolimą Lenkijos žemėje.
     - t-044
 
 - c-039
@@ -7492,13 +7725,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 16081-16568; hash=0bfb12b9774db9528ebacfa42e1ec047ef52333ee038fed017c1d3f6e015e4fd; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo žmones iš Lietuvos, aplinkinių vadintus leičiais; artimiausias leistinas ryšys yra gyvenimas/kilmė iš vietos.
     - t-008
 
 - c-040
@@ -7594,13 +7827,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b1c8c48d4edf9c24205b03ceec5556917f5b481f58dcce992e78e16f40bbb092; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Anglai: 0.93
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=21
-  ryšio_targeto_parinkimas: Anglai: counterparty_iteration, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglų riteriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad anglų riteriai žygiuose kovėsi su lietuviais.
     - t-010
 
 - c-043
@@ -7670,13 +7903,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių karaliaus pajėgos tiesiogiai įsibrovė į Sembos žemę.
     - t-054
 
 - c-045
@@ -7788,13 +8021,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0b9be1c7907fa47ac91ec9bbc9e710aeb704d2a283ef07cae0af0b31c9c384ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Straisbergas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Straisbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Lietuvos vyrus kaip Straisbergo miesto puolėjus.
     - t-084
 
 - c-049
@@ -7871,13 +8104,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6944d963d6aa44c98651bcdb6c503c2b2b24acb74814eaf8ba3a4fe326bf25e3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo konfliktą tarp lietuvių ir lenkų.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40bf57d45c99e0fae144b0ef07b77193984941605120fb23c819956b7d4c32bd; match=fallback; occurrences=0
@@ -7921,13 +8154,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę.
     - t-041
 
 - c-052
@@ -7976,13 +8209,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją.
     - t-007
 
 - c-054
@@ -8056,13 +8289,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 657234-657786; hash=bf4358d498231f577217a15324bad190e188f3eb1654e8a4dfa51c3849ad7387; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.83
+  ryšio_patikimumas: gyne -> Medininkai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai persekiojo į Medininkų valsčių įsiveržusius Ragainės brolius, todėl ryšys su Medininkų gynyba yra tiesiogiai pagrįstas, bet ne įvardytas žodžiu „gynė“.
     - t-116
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259511-260322; hash=b674cc95fbe862bde5521b4456bb1b714a6a9711f705e19a3f93eb4c963d81e7; match=whitespace_regex
@@ -8199,13 +8432,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 229114-229506; hash=2902c20c811af68674961311dc3d35989de1f15e05379ea067f8ee46b06eb76d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Surašymo duomenys nurodo etninių lietuvių dalį dabartinės Lietuvos ribose.
     - t-052
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3b86ef673018d258033b4132fc74d2df36fab21c3617c3579e3e844ba0e3a9d0; match=fallback; occurrences=0
@@ -8303,13 +8536,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f178f98be340a8de65b6ec3bc5173bfdd2004d2d9fdaefb1fc33d280efbaa40c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lubava: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo iš Lietuvos kilusių plėšikautojų įsibrovimą į Lubavos žemę.
     - t-099
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9261d47e91f0fcf9389df92dc24677c5d7dc0ceb2a1a985d82d05c6c2f719fd; match=fallback; occurrences=0
@@ -8367,25 +8600,24 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę.
     - t-086
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9261d47e91f0fcf9389df92dc24677c5d7dc0ceb2a1a985d82d05c6c2f719fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 1.00
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Lietuviai: owner_after_title, group, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Lietuviai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos karaliaus sūnaus su kariuomene siuntimą į Lenkiją.
     - t-119
 
 - c-068
@@ -8425,13 +8657,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564165; hash=b465bdfc1f307c3992a3d253eecb688cbf790ecc73a90e17fb17977b115b0c7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pateikta citata tiesiogiai remia Jazbuto žygį į Lenkiją, nors claim tekstas kalba apie kitą epizodą.
     - t-033
 
 - c-069
@@ -8551,13 +8783,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę.
     - t-037
 
 - c-073
@@ -8609,13 +8841,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 19177-19652; hash=e162e3fd2527e47a79dd083ef842ae14b9108e31bb59a80056ec73efac04b526; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kovą prieš Kryžiuočių ordiną.
     - t-107
     - t-117
 
@@ -8749,13 +8981,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę.
     - t-078
 
 - c-079
@@ -8777,13 +9009,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dce9664d5c3595f4d53b59c235002859d1c1e32002df2b836d5ffd2d93f1cb71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumas: puole -> Semba: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas kaip pilies statybos tikslą nurodo užkirsti kelią lietuvių veržimuisi į Sembą.
     - t-030
 
 - c-080
@@ -8909,13 +9141,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę.
     - t-067
 
 - c-085
@@ -8957,13 +9189,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7dfe85aa1ba58332ce829287d31b32c29cd3e37c5c20e2ea62806ce24c70abe9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: puole -> Prūsija: 0.77
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Prūsija minima kaip kraštas, kurį užgriuvo lietuvių pulkas.
     - t-093
     - t-110
 
@@ -9019,13 +9251,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 543345-543638; hash=946eee99be2973d3eb3cbec2488ed8fa98f5c21fd7f1c8a7530bad72eeea660f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo du lietuvių žygius į Prūsus.
     - t-026
 
 - c-089
@@ -9077,13 +9309,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 204061-204339; hash=5d097478fef032b58d1bf9fbe14817793d112fac0005b71cc069a03c32007eb2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.83
+  ryšio_patikimumas: gyne -> Bisenė: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių pamaininė sauga buvo prie Bisenės pilies ir atliko jos apsaugos funkciją.
     - t-002
 
 - c-090
@@ -9138,24 +9370,24 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562101-562359; hash=482eaa28449d8daeba1f2a4cabea76522f33572cf0b354420d26922738512e7e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai puolė Livonijos kryžiuočius.
     - t-073
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę.
     - t-094
 
 - c-093
@@ -9239,13 +9471,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519417-520078; hash=ae24a465c86717efb5543f10f4448c518541ab77ae7d8c47d2c14b7f64efeb6f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti kaip pagalbon pasitelkta puolimo prieš Sembą dalis.
     - t-057
 
 - c-096
@@ -9399,13 +9631,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kersovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kersovas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kersovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kersovas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kersovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos raitelių veiksmą Kersovu vadintoje žemės dalyje.
     - t-036
 
 - c-102
@@ -9472,13 +9704,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=26feb7333d651cec9edd1a5112ead024e469d01de837c52e150d5316fc95e7f1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su lietuvių kariuomene įžengė į Dobrynės žemę.
     - t-053
 
 - c-105
@@ -9523,13 +9755,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto vadovaujamą įsiveržimą į Kulmo žemę.
     - t-003
 
 - c-106
@@ -9575,13 +9807,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=19452ca0923cda69ed07390989f6f866f72cbf2710072fba5c21f489068f2e64; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kova dėl Lietuvos valstybės interesų tiesiogiai sieja lietuvius su Lietuvos gynimu plačiąja prasme.
     - t-121
 
 - c-108
@@ -9613,13 +9845,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: valde_teritorija -> Baltija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata teigia, kad lietuvių tauta užėmė Baltijos pakrantę, todėl tai remia teritorinio užėmimo ar valdymo ryšį.
     - t-122
 
 - c-109
@@ -9684,13 +9916,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ordino riterių smūgis pagoniškai Lietuvai tiesiogiai rodo karinį veiksmą prieš Lietuvą.
     - t-124
 
 - c-111
@@ -9711,13 +9943,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Livonija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių pulko karinį įsiveržimą į Livoniją.
     - t-125
 
 - c-112
@@ -9811,13 +10043,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ded139f73684adce7d08ea6806027d7f579b39607d2a9dc658e1883e2e41ec66; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas tiesiogiai prisistato lietuvių karaliumi.
     - t-128
 
 - c-115
@@ -9912,13 +10144,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 265048-265524; hash=b448284f349bc35949e493fde268c4dd24cfc7b9c664d632f52305afcb68301b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkų įgula kartu su lietuvių pajėgomis užsidarė Vilniaus tvirtovėse gynybai.
     - t-131
 
 - c-118
@@ -10083,27 +10315,359 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuviai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Lietuviai
-- [[objektai/asmenys/Georgas Zauerveinas]] kariavo_pries Lietuviai
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]] kariavo_pries Lietuviai
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- Lietuviai gyveno [[objektai/vietos/Vilnius]]
 - Lietuviai uzeme [[objektai/vietos/Plockas]]
 - Lietuviai uzeme [[objektai/vietos/Sochačevas]]
-- [[objektai/grupes/Kalavijuočių ordinas]] kariavo_pries Lietuviai
-- Lietuviai kariavo_pries [[objektai/grupes/Anglai]]
-- Lietuviai kariavo_pries [[objektai/grupes/Anglų riteriai]]
-- Lietuviai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Lietuviai keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]] kariavo_pries Lietuviai
+- Lietuviai gyveno [[objektai/vietos/Vilniaus kraštas]]
+- Lietuviai reme [[objektai/grupes/Žiemgaliai]]
+- [[objektai/asmenys/Gediminas]] buvo_valdovas Lietuviai
+- Lietuviai kariavo_pries [[objektai/grupes/Totoriai]]
+- Lietuviai keliavo_i [[objektai/vietos/Venesuela]]
+- Lietuviai puole [[objektai/vietos/Livonija]]
+- Lietuviai puole [[objektai/vietos/Lubava]]
+- Lietuviai uzeme [[objektai/vietos/Padauguvio Sėla]]
+- [[objektai/grupes/Vokiečių ordinas]] puole Lietuviai
+- [[objektai/asmenys/Šach Achmedas]] reme Lietuviai
+- [[objektai/asmenys/Derska]] puole Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Rygiečiai]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- Lietuviai gyveno [[objektai/vietos/Daugpilis]]
+- Lietuviai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Lietuviai puole [[objektai/vietos/Dobrynė]]
+- Lietuviai puole [[objektai/vietos/Krokuva]]
+- Lietuviai puole [[objektai/vietos/Kujavija]]
+- Lietuviai puole [[objektai/vietos/Liublinas]]
+- Lietuviai puole [[objektai/vietos/Ragainė]]
+- Lietuviai puole [[objektai/vietos/Revelis]]
+- Lietuviai puole [[objektai/vietos/Sandomierius]]
+- Lietuviai puole [[objektai/vietos/Sandomiras]]
+- Lietuviai puole [[objektai/vietos/Semba]]
+- Lietuviai puole [[objektai/vietos/Straisbergas]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]] puole Lietuviai
+- [[objektai/asmenys/Markvardas iš Revelingės]] puole Lietuviai
+- [[objektai/asmenys/Numa]] puole Lietuviai
+- [[objektai/grupes/Žemaičiai]] priklause Lietuviai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Lietuviai
+- [[objektai/grupes/Lenkai]] puole Lietuviai
+- Lietuviai apgule [[objektai/vietos/Lunenburgas]]
 - Lietuviai apgule [[objektai/vietos/Vėluva]]
-- Lietuviai gyne [[objektai/vietos/Lietuva]]
-- Lietuviai keliavo_i [[objektai/vietos/Lenkija]]
-- Lietuviai apgule [[objektai/vietos/Prieglius]]
+- Lietuviai keliavo_i [[objektai/vietos/Brazilija]]
+- Lietuviai keliavo_i [[objektai/vietos/Urugvajus]]
+- Lietuviai puole [[objektai/vietos/Duobelės pilis|Duobelės pilis (pilis)]]
+- Lietuviai puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuviai puole [[objektai/vietos/Pskovas]]
+- Lietuviai puole [[objektai/vietos/Salacgryva]]
+- Lietuviai sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Lietuviai
+- Lietuviai gyne [[objektai/vietos/Smolenskas]]
+- Lietuviai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuviai keliavo_i [[objektai/vietos/Argentina]]
+- Lietuviai pastate [[objektai/vietos/Junigeda]]
+- Lietuviai puole [[objektai/vietos/Notanga]]
+- Lietuviai puole [[objektai/vietos/Vilnius]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Livonija]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Anglų riteriai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Lenkai]] buvo_sajungininkas_su Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Rusėnai]]
+- Lietuviai gyveno [[objektai/vietos/Niujorkas]]
+- Lietuviai gyveno [[objektai/vietos/Pensilvanija]]
+- Lietuviai keliavo_i [[objektai/vietos/Australija]]
+- Lietuviai puole [[objektai/vietos/Dorpato vyskupija]]
+- Lietuviai puole [[objektai/vietos/Gilgenburgas]]
+- Lietuviai puole [[objektai/vietos/Tverės sritis]]
+- Lietuviai puole [[objektai/grupes/Vokiečiai]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Lubava]]
+- Lietuviai uzeme [[objektai/vietos/Gostininas]]
+- Lietuviai uzeme [[objektai/vietos/Vyžuonos]]
+- [[objektai/grupes/Vengrai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/asmenys/Leontijus Bennigsenas]] puole Lietuviai
+- Lietuviai keliavo_i [[objektai/vietos/Kanada]]
+- Lietuviai prekiavo_su [[objektai/grupes/Normanai]]
+- Lietuviai puole [[objektai/vietos/Piltenė]]
+- Lietuviai puole [[objektai/vietos/Prūsija]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Kijevo Rusia]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Poleksija]] priklause Lietuviai
+- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]] reme Lietuviai
+- [[objektai/grupes/Draugija užsienio lietuviams remti]] reme Lietuviai
+- [[objektai/grupes/Jotvingiai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/grupes/Kazokai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Lenkai]] sudare_sutarti_su Lietuviai
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
+- Lietuviai gyne [[objektai/vietos/Kaunas]]
+- Lietuviai gyne [[objektai/vietos/Pilėnai]]
+- Lietuviai gyveno [[objektai/vietos/Anglija]]
+- Lietuviai kariavo_pries [[objektai/grupes/Kalavijuočių ordinas]]
+- Lietuviai prekiavo_su [[objektai/vietos/Prūsija]]
+- Lietuviai priklause [[objektai/grupes/Baltai]]
+- Lietuviai puole [[objektai/vietos/Dorpatas]]
+- Lietuviai puole [[objektai/vietos/Klaipėda]]
+- Lietuviai puole [[objektai/asmenys/Michailas Jaroslavičius]]
+- Lietuviai puole [[objektai/vietos/Revelio žemė]]
+- Lietuviai puole [[objektai/vietos/Sambija]]
+- Lietuviai sudare_sutarti_su [[objektai/grupes/Teutonai]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Semba]]
+- Lietuviai uzeme [[objektai/vietos/Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)]]
+- Lietuviai uzeme [[objektai/vietos/Gilgenburgas]]
+- Lietuviai valde [[objektai/vietos/Žemaitija]]
+- [[objektai/asmenys/Muka]] puole Lietuviai
+- [[objektai/grupes/Rusai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Totoriai]] puole Lietuviai
+- [[objektai/grupes/Vokiečiai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Švedai]] kariavo_pries Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Jotvingiai]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Lietuviai puole [[objektai/vietos/Glotava]]
+- Lietuviai puole [[objektai/vietos/Kersovas]]
+- [[objektai/asmenys/Brunonas]] puole Lietuviai
+- Lietuviai apgule [[objektai/vietos/Piltenė]]
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Rusai]]
+- Lietuviai gyne [[objektai/vietos/Bisenė]]
+- Lietuviai gyne [[objektai/grupes/Žydai]]
+- Lietuviai gyveno [[objektai/vietos/Europa]]
+- Lietuviai gyveno [[objektai/vietos/Kaunas]]
+- Lietuviai gyveno [[objektai/vietos/Nemunas]]
+- Lietuviai kariavo_pries [[objektai/asmenys/Švitrigaila]]
+- Lietuviai pastate [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
+- Lietuviai pastate [[objektai/daiktai/Sklandytuvai]]
+- Lietuviai prekiavo_su [[objektai/vietos/Livonija]]
+- Lietuviai priklause [[objektai/grupes/Lietuvos komunistų partija]]
+- Lietuviai puole [[objektai/vietos/Abenda]]
+- Lietuviai puole [[objektai/asmenys/Hermanas]]
+- Lietuviai puole [[objektai/vietos/Kristmemelis]]
+- Lietuviai puole [[objektai/vietos/Kulmas]]
+- Lietuviai puole [[objektai/vietos/Kuršas]]
+- Lietuviai puole [[objektai/vietos/Lenkija]]
+- Lietuviai puole [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]]
+- Lietuviai puole [[objektai/vietos/Pabečiai]]
+- Lietuviai puole [[objektai/grupes/Rusai]]
+- Lietuviai puole [[objektai/grupes/Totoriai]]
+- Lietuviai puole [[objektai/vietos/Vėluva]]
+- Lietuviai reme [[objektai/grupes/Lenkai]]
+- Lietuviai sudare_sutarti_su [[objektai/grupes/Lenkai]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Lenkija]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Mazovija]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Notanga]]
 - Lietuviai uzeme [[objektai/vietos/Baltija]]
-- Lietuviai uzeme [[objektai/vietos/Dubingiai]]
+- [[objektai/grupes/Sūduviai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/grupes/Vengrai]] sudare_sutarti_su Lietuviai
+- Lietuviai puole [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
+- [[objektai/grupes/Švedai]] puole Lietuviai
+- [[objektai/grupes/Švedų gvardijos kavalerija]] puole Lietuviai
+- [[objektai/asmenys/Andrius fon Vestfalenas]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Borisas Jelcinas]] reme Lietuviai
+- [[objektai/asmenys/Henrikas iš Dobino]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Henrikas iš Dobino]] puole Lietuviai
+- [[objektai/asmenys/Hermanas]] kariavo_pries Lietuviai
+- [[objektai/vietos/Jotvingija]] priklause Lietuviai
+- [[objektai/daiktai/Karinė ginkluotė]] priklause Lietuviai
+- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]] kariavo_pries Lietuviai
+- [[objektai/grupes/Lenkai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Lenkai]] reme Lietuviai
+- Lietuviai apgule [[objektai/vietos/Georgenburgas]]
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Pamarėnai]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- Lietuviai gyveno [[objektai/vietos/Rusija]]
+- Lietuviai kariavo_pries [[objektai/grupes/Kijevo Rusia]]
+- Lietuviai kariavo_pries [[objektai/grupes/Lenkai]]
+- Lietuviai keliavo_i [[objektai/vietos/Giedraičiai]]
+- Lietuviai keliavo_i [[objektai/vietos/Gilgenburgas]]
+- Lietuviai keliavo_i [[objektai/vietos/Rudava]]
+- Lietuviai puole [[objektai/asmenys/Gerhardas, pravarde Rudė]]
+- Lietuviai puole [[objektai/vietos/Kališo sritis]]
+- Lietuviai puole [[objektai/vietos/Kuršo žemė]]
+- Lietuviai puole [[objektai/vietos/Zavichostas]]
+- Lietuviai sudare_sutarti_su [[objektai/grupes/Valachai]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Dobrynė]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Vėluva]]
+- Lietuviai uzeme [[objektai/vietos/Baltijos jūra]]
+- Lietuviai uzeme [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Polockas]] priklause Lietuviai
+- [[objektai/grupes/Rusai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/vietos/Sūdavija]] priklause Lietuviai
+- [[objektai/asmenys/Valteris Goldinas]] puole Lietuviai
+- Lietuviai keliavo_i [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Veliuona]] priklause Lietuviai
+- [[objektai/asmenys/Henrikas fon Plockė]] puole Lietuviai
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- Lietuviai gyne [[objektai/vietos/Kuoknesė]]
+- Lietuviai kariavo_pries [[objektai/grupes/Armija Krajova]]
+- Lietuviai kariavo_pries [[objektai/grupes/Rusai]]
+- Lietuviai keliavo_i [[objektai/vietos/Vėluva]]
+- Lietuviai puole [[objektai/vietos/Liubava]]
+- Lietuviai puole [[objektai/grupes/Maskvėnai]]
+- Lietuviai puole [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]]
+- Lietuviai puole [[objektai/vietos/Vizna]]
+- Lietuviai siunte_i [[objektai/vietos/Trakai]]
+- Lietuviai uzeme [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Rusai]] puole Lietuviai
+- [[objektai/grupes/Sembai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]] reme Lietuviai
+- [[objektai/asmenys/Konradas Štangė]] puole Lietuviai
+- Lietuviai apgule [[objektai/vietos/Kristmemelis]]
+- Lietuviai puole [[objektai/vietos/Mazovija]]
+- [[objektai/asmenys/Andrius Vingaudas]] puole Lietuviai
+- [[objektai/grupes/Bajorai]] reme Lietuviai
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Edigejus]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Gundramas]] kariavo_pries Lietuviai
+- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Lietuviai
+- [[objektai/grupes/Kuršiai]] reme Lietuviai
+- Lietuviai buvo_priesas [[objektai/grupes/Vokiečiai]]
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Lietuviai gyne [[objektai/vietos/Gardinas]]
+- Lietuviai gyne [[objektai/vietos/Vilnius]]
+- Lietuviai gyveno [[objektai/vietos/Šiaurės Amerika]]
+- Lietuviai kariavo_pries [[objektai/grupes/Maskvėnai]]
+- Lietuviai kariavo_pries [[objektai/grupes/Švedai]]
+- Lietuviai keliavo_i [[objektai/vietos/Maskva]]
+- Lietuviai puole [[objektai/vietos/Bartos žemė]]
+- Lietuviai puole [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- Lietuviai puole [[objektai/grupes/Lenkai]]
+- Lietuviai puole [[objektai/vietos/Viznos apylinkės]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Nadruviai]] priklause Lietuviai
+- [[objektai/grupes/Prancūzai]] kariavo_pries Lietuviai
+- [[objektai/grupes/Skalviai]] priklause Lietuviai
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] puole Lietuviai
+- [[objektai/asmenys/Gundramas]] puole Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Vokiečiai]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
+- Lietuviai gyne [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
+- Lietuviai gyne [[objektai/vietos/Lojevka upė]]
+- Lietuviai gyveno [[objektai/vietos/Estija]]
+- Lietuviai gyveno [[objektai/vietos/Suomija]]
+- Lietuviai keliavo_i [[objektai/vietos/Dobryniaus]]
+- Lietuviai keliavo_i [[objektai/vietos/Kujavija]]
+- Lietuviai uzeme [[objektai/vietos/Paberžė]]
+- Lietuviai uzeme [[objektai/vietos/Piarnu]]
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]] gyne Lietuviai
+- [[objektai/asmenys/Fridrichas Kvicas]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Henrikas fon Plockė]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Ibrahimas]] kariavo_pries Lietuviai
+- [[objektai/grupes/J. Baranovskio brigada]] puole Lietuviai
+- [[objektai/asmenys/Jadvyga Jogailienė]] reme Lietuviai
+- [[objektai/asmenys/Konradas Žakas]] puole Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Sūduviai]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Penkių kaimų apiplėšimas Goliubo pilies apylinkėse|Penkių kaimų apiplėšimas Goliubo pilies apylinkėse (pilis)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
+- Lietuviai gyne [[objektai/vietos/Junigeda]]
+- Lietuviai gyne [[objektai/vietos/Pieštvė]]
+- Lietuviai gyne [[objektai/vietos/Pskovas]]
+- Lietuviai gyveno [[objektai/vietos/Peterburgas]]
+- Lietuviai gyveno [[objektai/vietos/SSRS]]
+- Lietuviai gyveno [[objektai/vietos/Vilnius]]
+- Lietuviai gyveno [[objektai/vietos/Voronežas]]
+- Lietuviai kariavo_pries [[objektai/asmenys/Hermanas]]
+- Lietuviai kariavo_pries [[objektai/grupes/Mongolai]]
+- Lietuviai keliavo_i [[objektai/vietos/Bartos žemė]]
+- Lietuviai keliavo_i [[objektai/vietos/Dauguva]]
+- Lietuviai keliavo_i [[objektai/vietos/JAV]]
+- Lietuviai keliavo_i [[objektai/vietos/Kijevas]]
+- Lietuviai keliavo_i [[objektai/vietos/Lentvaris]]
+- Lietuviai keliavo_i [[objektai/vietos/Vilnija]]
+- Lietuviai puole [[objektai/grupes/Sembai]]
+- Lietuviai siunte_i [[objektai/vietos/Smolenskas]]
+- Lietuviai uzeme [[objektai/vietos/Žąsliai]]
+- [[objektai/vietos/Magus]] priklause Lietuviai
+- [[objektai/asmenys/Ulrichas iš Drinlevės]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Lietuviai
+- [[objektai/asmenys/Žegota]] gyne Lietuviai
+- [[objektai/grupes/Žydai]] prekiavo_su Lietuviai
+- [[objektai/vietos/Braclavas]] priklause Lietuviai
+- [[objektai/grupes/Krikščionys]] reme Lietuviai
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Giedraičių kautynės]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- Lietuviai gyne [[objektai/grupes/Lenkai]]
+- Lietuviai gyveno [[objektai/vietos/Vilija]]
+- Lietuviai keliavo_i [[objektai/vietos/Žalioji giria]]
+- Lietuviai uzeme [[objektai/vietos/Daugai]]
+- [[objektai/grupes/Rygiečiai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/grupes/Vokiečiai]] reme Lietuviai
+- [[objektai/grupes/Lenkai]] buvo_priesas Lietuviai
+- Lietuviai keliavo_i [[objektai/vietos/Lomža]]
+- Lietuviai puole [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Maskvėnai]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Gediminas]] gyne Lietuviai
+- [[objektai/asmenys/Henrikas Tupadelis]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Konradas]] puole Lietuviai
+- Lietuviai buvo_sajungininkas_su [[objektai/grupes/Baltai]]
+- Lietuviai gyveno [[objektai/vietos/Zietela]]
+- Lietuviai reme [[objektai/grupes/Vokiečiai]]
+- Lietuviai buvo_priesas [[objektai/grupes/Lenkai]]
+- Lietuviai gyveno [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Petras Šuiskis]] kariavo_pries Lietuviai
+- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Lietuviai
+- [[objektai/asmenys/Albrechtas iš Hageno]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Ditrichas iš Altenburgo]] puole Lietuviai
+- [[objektai/asmenys/Georgas Zauerveinas]] gyne Lietuviai
+- [[objektai/asmenys/Henrikas Cutsvertas]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]] reme Lietuviai
+- Lietuviai gyne [[objektai/vietos/Kėdainiai]]
+- Lietuviai gyveno [[objektai/vietos/Dainava]]
+- Lietuviai gyveno [[objektai/vietos/Kaimas]]
+- Lietuviai gyveno [[objektai/vietos/Šveicarija]]
+- Lietuviai kariavo_pries [[objektai/asmenys/Fridrichas Kvicas]]
+- Lietuviai kariavo_pries [[objektai/asmenys/Fridrichas fon Quitzas]]
+- Lietuviai keliavo_i [[objektai/vietos/Mazovija]]
+- Lietuviai keliavo_i [[objektai/vietos/Sibiras]]
+- Lietuviai paskyre [[objektai/asmenys/Surminas]]
+- Lietuviai puole [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- Lietuviai puole [[objektai/vietos/Kaimas]]
+- Lietuviai puole [[objektai/vietos/Kristburgas]]
+- Lietuviai surenge_zygi_i [[objektai/vietos/Ragainė]]
+- Lietuviai uzeme [[objektai/vietos/Alytus]]
+- Lietuviai uzeme [[objektai/vietos/Birgelava]]
+- Lietuviai uzeme [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]]
+- Lietuviai valde_teritorija [[objektai/vietos/Baltija]]
+- [[objektai/asmenys/Otonas]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Vigandas fon Baldersheimas]] puole Lietuviai
+- [[objektai/vietos/Vilnius]] priklause Lietuviai
+- [[objektai/grupes/Vokiečių ordinas]] prekiavo_su Lietuviai
+- Lietuviai gyne [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] buvo_priesas Lietuviai
+- [[objektai/asmenys/Fridrichas Kvicas]] puole Lietuviai
+- [[objektai/grupes/Kuršiai]] puole Lietuviai
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- Lietuviai gyveno [[objektai/vietos/Žalioji giria]]
+- Lietuviai keliavo_i [[objektai/vietos/Aukaimis]]
+- [[objektai/grupes/NKVD]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] reme Lietuviai
+- Lietuviai gyne [[objektai/grupes/Krymo totoriai]]
+- Lietuviai gyne [[objektai/vietos/Medininkai]]
+- [[objektai/grupes/Naikintojų batalionai]] kariavo_pries Lietuviai
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] sudare_sutarti_su Lietuviai
+- [[objektai/asmenys/Klemensas VI]] kariavo_pries Lietuviai
+- Lietuviai keliavo_i [[objektai/vietos/Lozana]]
+- Lietuviai keliavo_i [[objektai/vietos/Zavichostas]]
+- Lietuviai puole [[objektai/grupes/Skalviai]]
+- [[objektai/asmenys/Paulius Vladimiri]] gyne Lietuviai
+- [[objektai/grupes/Krymo totoriai]] buvo_sajungininkas_su Lietuviai
+- Lietuviai kariavo_pries [[objektai/asmenys/Kaidanas]]
+- Lietuviai siunte_i [[objektai/vietos/Brasta]]
+- Lietuviai gyveno [[objektai/vietos/Prūsija]]
+- Lietuviai puole [[objektai/asmenys/Volkvinas]]
+- Lietuviai puole [[objektai/asmenys/Walenrodto]]
+- Lietuviai siunte_i [[objektai/vietos/Sluckas]]
+- Lietuviai gyne [[objektai/vietos/Šilginėliai]]
+- Lietuviai valde_teritorija [[objektai/vietos/Kauno gubernija]]
+- [[objektai/vietos/Stralsundas]] prekiavo_su Lietuviai
+- Lietuviai prekiavo_su [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Philippe de Mezières]] reme Lietuviai
+- Lietuviai gyne [[objektai/vietos/Palanga]]
+- [[objektai/asmenys/Švitrigaila]] kariavo_pries Lietuviai
+- [[objektai/grupes/Krymo totoriai]] puole Lietuviai
+- Lietuviai valde_teritorija [[objektai/vietos/Polockas]]

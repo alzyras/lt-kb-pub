@@ -30,7 +30,8 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Zemislovo valdas ir konfliktą su ordinu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija; mentioned_place: Lenčica'
+  susije_objektai: 'llm_object: Kujavija; llm_object: Lenčica; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija; mentioned_place: Lenčica'
+  semantiniai_rysiai: '[[objektai/asmenys/Zemislovas|Zemislovas]] valdė Kujavija; [[objektai/asmenys/Zemislovas|Zemislovas]] valdė Lenčica'
   temporaliniai_duomenys: 'įvykio data: 1269 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Zemislovo valdas ir konfliktą su ordinu.'
@@ -39,13 +40,13 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 209291-209563; hash=7d5653585fb9e86f87a673af4679aad97faf5193486a812e46000d4dec4d12a9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zemislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zemislovas" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kujavija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zemislovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zemislovas valdė Kujaviją.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,14 @@ Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 209291-209563; hash=7d5653585fb9e86f87a673af4679aad97faf5193486a812e46000d4dec4d12a9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zemislovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zemislovas" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kujavija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zemislovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zemislovas valdė Kujaviją.
+
+## Ryšiai
+- Zemislovas valde [[objektai/vietos/Kujavija]]
+- Zemislovas valde [[objektai/vietos/Lenčica]]

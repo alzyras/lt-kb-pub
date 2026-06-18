@@ -22,19 +22,19 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
   global_id: t-21669
   teiginys: 'Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai.'
   sudarymo_pagrindimas: 'Pašalinta gramatinė klaida ir perteklinė formuluotė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Voluinė; llm_object: Voluinė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumas: valde -> Voluinė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ostrohas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ostrohas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Radvilos čia, t. y. Voluinėje, įgijo valdas.
 - susijęs iš Klevanė: Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.
 - susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
 - susijęs iš Kovelis: Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.
@@ -74,10 +74,10 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumas: valde -> Voluinė: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ostrohas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ostrohas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Radvilos čia, t. y. Voluinėje, įgijo valdas.

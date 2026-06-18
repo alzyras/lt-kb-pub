@@ -70,19 +70,20 @@ periodo_grupes:
   global_id: t-87438
   teiginys: 'Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Rūdninkai; mentioned_place: Rūdninkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras IV|Kazimieras IV]] gyveno Rūdninkai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras IV" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rūdninkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Kazimieras dažnai būdavo Rūdninkuose.
 - susijęs iš [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.).md#claim-t-86952|Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]: 1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.
 ## Reikšmingi paminėjimai
 
@@ -151,13 +152,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras IV" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Rūdninkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Kazimieras dažnai būdavo Rūdninkuose.
     - t-002
 
 - c-003
@@ -198,3 +199,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Kazimieras IV: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=86
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras IV" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Kazimieras IV gyveno [[objektai/vietos/Rūdninkai]]

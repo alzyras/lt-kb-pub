@@ -43,8 +43,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   global_id: t-97456
   teiginys: 'Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra lentelės fragmentas; citata leidžia suformuluoti pilną faktą apie Kaributą.'
-  susije_objektai: 'territory: Naugardas; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Naugardas'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'valdymo pabaiga: iki 1393 m.; valdymo pabaiga: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kaributas valdė teritoriją Naugardas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra lentelės fragmentas; citata leidžia suformuluoti pilną faktą apie Kaributą.'
@@ -56,8 +55,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   global_id: t-97457
   teiginys: 'Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
   sudarymo_pagrindimas: 'Sustiprintas predikatas: asmuo ne tik minimas, bet nurodomas kaip liudininkas.'
-  susije_objektai: 'family: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] buvo sūnus [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] buvo sūnus [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -85,39 +84,41 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 103276-103684; hash=953e76a6a9a1709b0d63e542ba137332c67e158346da0a3d09862e56ce340bc3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Severskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kaributas tiesiogiai įvardytas kaip viešpatavęs Seversko kunigaikštystėje.
 
 <a id="claim-t-97459"></a>
 - t-005
   global_id: t-97459
   teiginys: 'Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį kontekstą ir paversti teiginį aiškiu sakiniu apie Kaributą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Jurbarkas; mentioned_place: Naugardas'
+  susije_objektai: 'llm_object: Jurbarkas; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Jurbarkas; mentioned_place: Naugardas; llm_object: Naugardas'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Kaributas|Kaributas]] valdė Naugardas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 230930-231338; hash=2d4efb405e7dfcefa6547f84f182087ed2f65a0f8a528700de4226f645dda5f8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: gyne -> Jogaila (kunigaikštis, XIV–XV a.): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogailą saugojo Kaributo vėliava, todėl ryšys su Kaributu yra per jo karinį vienetą.
 
 <a id="claim-t-97460"></a>
 - t-006
   global_id: t-97460
   teiginys: 'Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Kaributo veiksmus ir padėtį.'
-  susije_objektai: 'mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Severskas; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] valdė Severskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -136,21 +137,20 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   global_id: t-97461
   teiginys: 'Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] gynė [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Skirgaila: 0.95
+  ryšio_patikimumas: buvo_sunus -> Julijona: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Skirgaila: nearest_family_person, person, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Julijona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kaributas tiesiogiai įrašytas tarp Julijonos sūnų.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184692|Dimitras Kaributas]]: Dimitras Kaributas atsisakė mokėti Vytauto pasiuntinių reikalautus pinigus į Lietuvos didžiojo kunigaikščio iždą.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
 - susijęs iš [[objektai/asmenys/Lengvenis Algirdaitis.md#claim-t-47959|Lengvenis Algirdaitis]]: Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos.
@@ -166,6 +166,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
 - susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
 - susijęs iš Čekija: Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.
+- susijęs iš Praga: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184265|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila netrukus įsakė duoti ženklą mūšiui.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184770|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.
@@ -266,13 +267,13 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 103276-103684; hash=953e76a6a9a1709b0d63e542ba137332c67e158346da0a3d09862e56ce340bc3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Severskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kaributas tiesiogiai įvardytas kaip viešpatavęs Seversko kunigaikštystėje.
     - t-007
 
 - c-004
@@ -293,13 +294,13 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Skirgaila: 0.95
+  ryšio_patikimumas: buvo_sunus -> Julijona: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Skirgaila: nearest_family_person, person, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Julijona: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kaributas tiesiogiai įrašytas tarp Julijonos sūnų.
     - t-002
 
 - c-005
@@ -350,16 +351,23 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 230930-231338; hash=2d4efb405e7dfcefa6547f84f182087ed2f65a0f8a528700de4226f645dda5f8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: gyne -> Jogaila (kunigaikštis, XIV–XV a.): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaributas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaributas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Jogailą saugojo Kaributo vėliava, todėl ryšys su Kaributu yra per jo karinį vienetą.
 
 ## Ryšiai
-- Kaributas valde_teritorija [[objektai/vietos/Naugardas]]
-- Kaributas buvo_sunus [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Kaributas
-- [[objektai/asmenys/Prokopas]] kariavo_pries Kaributas
+- Kaributas buvo_sunus [[objektai/asmenys/Julijona]]
+- Kaributas keliavo_i [[objektai/vietos/Čekija]]
+- Kaributas kariavo_pries [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Kaributas reme [[objektai/grupes/Husitai]]
+- Kaributas valde [[objektai/vietos/Severskas]]
+- Kaributas buvo_sajungininkas_su [[objektai/asmenys/Prokopas]]
+- Kaributas buvo_priesas [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Kaributas keliavo_i [[objektai/vietos/Naugardukas]]
+- Kaributas valde [[objektai/vietos/Naugardas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Kaributas
+- Kaributas gyne [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

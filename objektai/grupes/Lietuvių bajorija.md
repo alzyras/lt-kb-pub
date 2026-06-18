@@ -68,25 +68,26 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   global_id: t-50696
   teiginys: 'Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas į aiškų faktą apie bajoriją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuvių bajorija|Lietuvių bajorija]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lietuvių bajorija|Lietuvių bajorija]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių bajorija: owner_note_path, group
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių bajorija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad prie Vytauto prisidėjo nemažai bajorų.
 
 <a id="claim-t-50697"></a>
 - t-004
   global_id: t-50697
   teiginys: 'Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -110,13 +111,13 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c228e754dc173cd4b3d061b950b9561a9bfe56bff63105a56b23f12062be3b6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbai: 0.85
+  ryšio_patikimumas: priklause -> Lietuvių bajorija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herbai: mention_match, thing, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių bajorija" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvių bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad bajorija gavo herbus; artimiausias leistinas ryšys yra herbų priklausymas bajorijai.
 - susijęs iš [[objektai/zodynas/sankcija.md#claim-t-36831|sankcija]]: Sankcija čia reiškė lietuvių bajorijos pritarimą unijai, gavus balsą valstybės reikaluose.
 ## Reikšmingi paminėjimai
 
@@ -184,24 +185,24 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c228e754dc173cd4b3d061b950b9561a9bfe56bff63105a56b23f12062be3b6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbai: 0.85
+  ryšio_patikimumas: priklause -> Lietuvių bajorija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių bajorija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Herbai: mention_match, thing, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių bajorija" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvių bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad bajorija gavo herbus; artimiausias leistinas ryšys yra herbų priklausymas bajorijai.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių bajorija: owner_note_path, group
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių bajorija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad prie Vytauto prisidėjo nemažai bajorų.
     - t-002
 
 - c-004
@@ -240,3 +241,6 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   ryšio_subjekto_parinkimas: Lietuvių bajorija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Herbai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių bajorija" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Herbai]] priklause Lietuvių bajorija

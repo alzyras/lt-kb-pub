@@ -32,26 +32,27 @@ periodo_grupes:
   global_id: t-19170
   teiginys: 'Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad aiškiai kalbėtų apie Netimerą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
+  semantiniai_rysiai: '[[objektai/asmenys/Netimeras|Netimeras]] buvo valdovas Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono kelionė į Lietuvą pasakyta tiesiogiai.
 
 <a id="claim-t-19171"></a>
 - t-002
   global_id: t-19171
   teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   sudarymo_pagrindimas: 'Pridėta vieta iš citatos ir pašalintas galimas neaiškumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėta vieta iš citatos ir pašalintas galimas neaiškumas.'
@@ -60,13 +61,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas Bonifacijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brunonas Bonifacijus: mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Brunonas Bonifacijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Netimeras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Netimeras tiesiogiai pavadintas Lietuvos „karaliumi“.
 
 <a id="claim-t-19172"></a>
 - t-003
@@ -98,7 +99,7 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir aiškiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir aiškiai pagrįstas citata.'
@@ -107,13 +108,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono kelionė į Lietuvą pasakyta tiesiogiai.
 - susijęs iš [[objektai/asmenys/Brunonas Bonifacijus.md#claim-t-18863|Brunonas Bonifacijus]]: Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75094|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
@@ -172,13 +173,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono kelionė į Lietuvą pasakyta tiesiogiai.
     - t-003
 
 - c-003
@@ -209,21 +210,24 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas Bonifacijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono kelionė į Lietuvą pasakyta tiesiogiai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas Bonifacijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brunonas Bonifacijus: mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Brunonas Bonifacijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Netimeras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Netimeras tiesiogiai pavadintas Lietuvos „karaliumi“.
+
+## Ryšiai
+- Netimeras buvo_valdovas [[objektai/vietos/Lietuva]]

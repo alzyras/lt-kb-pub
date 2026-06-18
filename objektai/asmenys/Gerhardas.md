@@ -24,39 +24,40 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   global_id: t-60121
   teiginys: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Gerhardo statusą ir veiklą pagal citatą.'
-  susije_objektai: 'location: Marienburgas; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_place: Marienburgas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Marienburgas; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_place: Marienburgas; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] gyveno Marienburgas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Marienburgas: 1.00
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Gerhardas (valdovas): owner_note_path, person, gap=10
-  ryšio_targeto_parinkimas: Marienburgas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Gerhardas (valdovas)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gerhardas gyveno Marienburgo pilyje.
 
 <a id="claim-t-60122"></a>
 - t-002
   global_id: t-60122
   teiginys: 'Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be perteklinės atribucijos.'
-  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9dc73084ea57fab6393e6bdf1ce074f645d00078e4b3a15c6237bfc4bd1c01ec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.93
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Teutonai: nearest_actor, group, gap=32
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Teutonai" parinktas kaip nearest_actor. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Gerhardas atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
@@ -123,24 +124,26 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9dc73084ea57fab6393e6bdf1ce074f645d00078e4b3a15c6237bfc4bd1c01ec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.93
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Teutonai: nearest_actor, group, gap=32
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Teutonai" parinktas kaip nearest_actor. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Gerhardas atvyko į Prūsijos žemę.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Marienburgas: 1.00
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Gerhardas (valdovas): owner_note_path, person, gap=10
-  ryšio_targeto_parinkimas: Marienburgas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Gerhardas (valdovas)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gerhardas gyveno Marienburgo pilyje.
 
 ## Ryšiai
 - Gerhardas (valdovas) gyveno [[objektai/vietos/Marienburgas]]
+- Gerhardas (valdovas) keliavo_i [[objektai/vietos/Prūsija]]
+- Gerhardas (valdovas) pastate [[objektai/daiktai/Karo pabūklai]]

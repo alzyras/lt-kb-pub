@@ -32,7 +32,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   global_id: t-60321
   teiginys: '1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Morungenas'
+  susije_objektai: 'llm_object: Morungenas; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Morungenas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]] pastatė Morungenas'
   temporaliniai_duomenys: 'pastatymo data: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną.'
@@ -41,13 +42,13 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b276d40561b02677328463b60951a2cf7a5f32095882da944149b1cb1786bae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Morungenas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morungenas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas pastatė Morungeno miestą.
 
 ## Reikšmingi paminėjimai
 
@@ -73,10 +74,13 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b276d40561b02677328463b60951a2cf7a5f32095882da944149b1cb1786bae; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Morungenas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morungenas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Hermanas pastatė Morungeno miestą.
+
+## Ryšiai
+- Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas) pastate [[objektai/vietos/Morungenas]]

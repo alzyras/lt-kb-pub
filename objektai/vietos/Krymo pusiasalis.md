@@ -21,19 +21,20 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
 - t-001
   global_id: t-41810
   teiginys: 'Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Perekopas; llm_object: Krymo pusiasalis'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Krymo pusiasalis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymo pusiasalis: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo pusiasalis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo pusiasalis" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymo pusiasalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymo pusiasalis įvardytas kaip pagrindinė totorių buveinė.
 
 ## Reikšmingi paminėjimai
 
@@ -61,10 +62,13 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumas: gyveno -> Krymo pusiasalis: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo pusiasalis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo pusiasalis" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Krymo pusiasalis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krymo pusiasalis įvardytas kaip pagrindinė totorių buveinė.
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] gyveno Krymo pusiasalis

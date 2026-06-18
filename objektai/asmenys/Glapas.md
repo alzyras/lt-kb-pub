@@ -33,19 +33,20 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   global_id: t-89789
   teiginys: 'Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.'
   sudarymo_pagrindimas: 'Teiginys perrašytas be neaiškaus įvardžio ir boilerplate.'
-  susije_objektai: 'mentioned_place: Glapo kalva; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]'
+  susije_objektai: 'mentioned_place: Glapo kalva; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; llm_object: Glapo kalva'
+  semantiniai_rysiai: '[[objektai/asmenys/Glapas|Glapas]] mirė Glapo kalva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Glapas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Varmiai išsirinko Glapą savo vadu ir vyresniuoju.
 
 <a id="claim-t-89790"></a>
 - t-002
@@ -99,20 +100,21 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapo kalva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Glapo kalva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Glapo kalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Glapo kalva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Glapas buvo pakartas ant kalvos, vėliau vadintos Glapo kalva.
 
 <a id="claim-t-89793"></a>
 - t-005
   global_id: t-89793
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Glapo išrinkimą, bet pradinis teiginys jo nepateikia kaip objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Glapas|Glapas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Varmiai|Varmiai]] paskyrė [[objektai/asmenys/Glapas|Glapas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -134,19 +136,20 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį apie Glapo veiksmą ir pašalinta šalutinė detalė.'
-  susije_objektai: 'mentioned_place: Brandenburgo pilis; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Brandenburgo pilis; mentioned_place: Brandenburgo pilis; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Glapas|Glapas]] užėmė Brandenburgo pilis'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 421591-421868; hash=24df58e0208340b67824667dd52864178f628c63fbdd3479131dea4ba5588cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brandenburgo pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brandenburgo pilis: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Brandenburgo pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brandenburgo pilis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brandenburgo pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Glapas su kariais atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60208|Steinavas]]: Steinavas buvo Glapo mėgtas valdinys, kurį varmių vadas daug kartų buvo išgelbėjęs iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
@@ -161,6 +164,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66553|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams.
 - susijęs iš [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę.md#claim-t-59080|atsiteisė blogu už gera ir neapykanta už meilę]]: Dusburgietis rašė, kad Glapo mėgtas valdinys Steinavas už patirtas malones atsiteisė blogu už gera ir neapykanta už meilę.
 - susijęs iš Karaliaučius: Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.
+- susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
+- susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
+- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -205,13 +211,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Glapas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Varmiai išsirinko Glapą savo vadu ir vyresniuoju.
     - t-004
 
 - c-003
@@ -235,13 +241,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapo kalva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Glapo kalva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Glapo kalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Glapo kalva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Glapas buvo pakartas ant kalvos, vėliau vadintos Glapo kalva.
     - t-003
 
 - c-004
@@ -297,10 +303,18 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 421591-421868; hash=24df58e0208340b67824667dd52864178f628c63fbdd3479131dea4ba5588cc3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brandenburgo pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brandenburgo pilis: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapas" parinktas kaip owner_note_path. Targetas "Brandenburgo pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Brandenburgo pilis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brandenburgo pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Glapas su kariais atvyko ir užėmė pilį.
+
+## Ryšiai
+- [[objektai/grupes/Varmiai]] paskyre Glapas
+- Glapas uzeme [[objektai/vietos/Brandenburgo pilis]]
+- Glapas mire [[objektai/vietos/Glapo kalva]]
+- Glapas mire [[objektai/vietos/Karaliaučius]]
+- [[objektai/asmenys/Steinavas]] buvo_priesas Glapas
+- Glapas puole [[objektai/vietos/Semba]]

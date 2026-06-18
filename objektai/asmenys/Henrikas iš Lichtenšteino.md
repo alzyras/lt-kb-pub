@@ -32,8 +32,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60025
   teiginys: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko atvykimą ir dalyvavimą žygyje.'
-  susije_objektai: 'location: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Austrija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Austrija; mentioned_place: Vokietija; llm_object: Prūsija; llm_object: Pomeranija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Prūsija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] surengė žygį į Pomeranija'
   temporaliniai_duomenys: 'kelionės data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Henriko atvykimą ir dalyvavimą žygyje.'
@@ -42,13 +42,13 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316479-317356; hash=5cb096124e23a3809bb69956350d4988f08bedb4bfddecb0f9467c982fde1343; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.80
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: owner_note_path, person, gap=34
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Henrikas iš Lichtenšteino" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kontekstas apie Prūsijos žemę ir atvykusį Henriką tiesiogiai remia atvykimą į Prūsiją.
 
 <a id="claim-t-60026"></a>
 - t-002
@@ -213,13 +213,13 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   irodymo_stiprumas: 0.00
   saltinio_vieta: 316479-317356; hash=5cb096124e23a3809bb69956350d4988f08bedb4bfddecb0f9467c982fde1343; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.80
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: owner_note_path, person, gap=34
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Henrikas iš Lichtenšteino" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kontekstas apie Prūsijos žemę ir atvykusį Henriką tiesiogiai remia atvykimą į Prūsiją.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 317933-318341; hash=9d1a05711f48b8a36fb4230f67ac2b334ceb1de5747c0a3d545dad507660e7fc; match=exact
@@ -233,4 +233,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Lichtenšteino" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Kulmas]]
 - Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Prūsija]]
+- Henrikas iš Lichtenšteino surenge_zygi_i [[objektai/vietos/Pomeranija]]

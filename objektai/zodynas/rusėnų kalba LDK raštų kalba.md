@@ -23,7 +23,7 @@ tags:
   global_id: t-169928
   teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria kalbos pavadinimo vertinimą filologams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -75,13 +75,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85296089069cf6736f549f145ecc061a5133ea0956ad8cc206eb7582f84a7a7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: rusėnų kalba LDK raštų kalba: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusėnai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "rusėnų kalba LDK raštų kalba" parinktas kaip owner_note_path. Targetas "Rusėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rusėnus apibrėžia kaip rytų slavus, gyvenusius Lenkijos valstybėje.
 
 ## Reikšmingi paminėjimai
 
@@ -167,10 +167,10 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85296089069cf6736f549f145ecc061a5133ea0956ad8cc206eb7582f84a7a7f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: rusėnų kalba LDK raštų kalba: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusėnai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "rusėnų kalba LDK raštų kalba" parinktas kaip owner_note_path. Targetas "Rusėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lenkija: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rusėnus apibrėžia kaip rytų slavus, gyvenusius Lenkijos valstybėje.

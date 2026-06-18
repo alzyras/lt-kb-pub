@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys yra aiški faktinė santrauka, tiesiogiai paremta citata.'
-  susije_objektai: 'territory: Daugpilis; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiški faktinė santrauka, tiesiogiai paremta citata.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 602084-602697; hash=d4f0b87d6193910521cc133d9f538adce359a0d25a41d948dc8c02b13b629700; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Daugpilis: 0.87
+  ryšio_patikimumas: susije_su -> Daugpilis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=49
-  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,10 +90,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 602084-602697; hash=d4f0b87d6193910521cc133d9f538adce359a0d25a41d948dc8c02b13b629700; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Daugpilis: 0.87
+  ryšio_patikimumas: susije_su -> Daugpilis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=49
-  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Daugpilis: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)" parinktas kaip owner_note_path. Targetas "Daugpilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

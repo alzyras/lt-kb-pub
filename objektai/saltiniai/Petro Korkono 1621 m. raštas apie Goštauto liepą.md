@@ -30,7 +30,7 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
   global_id: t-88462
   teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Korkonas|Petras Korkonas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Korkonas|Petras Korkonas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius; llm_object: Brasta; llm_object: Možaiskas'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą.'
@@ -39,13 +39,13 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3e4514d7ad2cfa9cd0b9e8cfb6ed248b8cf9c7b1c3c84678babd4779dd285a84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumas: valde -> Brasta: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petro Korkono 1621 m. raštas apie Goštauto liepą: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petro Korkono 1621 m. raštas apie Goštauto liepą" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3e4514d7ad2cfa9cd0b9e8cfb6ed248b8cf9c7b1c3c84678babd4779dd285a84; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumas: valde -> Brasta: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petro Korkono 1621 m. raštas apie Goštauto liepą: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petro Korkono 1621 m. raštas apie Goštauto liepą" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas.

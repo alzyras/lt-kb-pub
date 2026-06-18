@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-26375
   teiginys: '2002 m. lapkričio 23 d. Vilniuje Džordžas Bušas pareiškė, kad Lietuvos priešai taptų ir JAV priešais.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neišbaigtą citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/NATO|NATO]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/NATO|NATO]]; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi neišbaigtą citatą.'
@@ -53,13 +53,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 532307-532721; hash=c01c0486ecc3734525c0b86a0a59ae32ba99f5652ad17e47eaba8a49d362a814; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Džordžas Bušas: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Džordžas Bušas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)" parinktas kaip owner_note_path. Targetas "Džordžas Bušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje NATO sąjunga pristatoma kaip ginanti savo nares, o kontekstas tiesiogiai siejamas su Lietuvos saugumu.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 532307-532721; hash=c01c0486ecc3734525c0b86a0a59ae32ba99f5652ad17e47eaba8a49d362a814; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Džordžas Bušas: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Džordžas Bušas: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)" parinktas kaip owner_note_path. Targetas "Džordžas Bušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NATO: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje NATO sąjunga pristatoma kaip ginanti savo nares, o kontekstas tiesiogiai siejamas su Lietuvos saugumu.

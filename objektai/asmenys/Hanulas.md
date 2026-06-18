@@ -30,7 +30,8 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Vilnius; llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pomeranija; mentioned_place: Prūsija; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Hanulas|Hanulas]] keliavo į Lenkija; [[objektai/asmenys/Hanulas|Hanulas]] valdė miestą Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu.'
@@ -39,13 +40,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 487175-488296; hash=0823507a4bf9c3a7c862f4fcaca2b911df84e3062a934b4c60805c54c84696ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hanulas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hanulas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanulas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hanulas įvardytas tarp pasiuntinybės narių, siunčiamų į Lenkiją.
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
 - susijęs iš Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.
@@ -113,10 +114,15 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 487175-488296; hash=0823507a4bf9c3a7c862f4fcaca2b911df84e3062a934b4c60805c54c84696ed; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hanulas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hanulas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanulas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hanulas įvardytas tarp pasiuntinybės narių, siunčiamų į Lenkiją.
+
+## Ryšiai
+- Hanulas keliavo_i [[objektai/vietos/Lenkija]]
+- Hanulas reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Hanulas valde_miesta [[objektai/vietos/Vilnius]]

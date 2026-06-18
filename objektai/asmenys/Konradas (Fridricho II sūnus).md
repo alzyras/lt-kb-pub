@@ -31,7 +31,8 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   global_id: t-60359
   teiginys: '1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Apulija; mentioned_place: Neapolis; mentioned_place: Jeruzalė'
+  susije_objektai: 'llm_object: Apulija; llm_object: Neapolis; mentioned_place: Apulija; mentioned_place: Neapolis; mentioned_place: Jeruzalė'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Fridricho II sūnus)|Konradas (Fridricho II sūnus)]] puolė Apulija; [[objektai/asmenys/Konradas (Fridricho II sūnus)|Konradas (Fridricho II sūnus)]] puolė Neapolis'
   temporaliniai_duomenys: 'įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir atitinka citatos informaciją.'
@@ -40,13 +41,13 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Apulija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradas (Fridricho II sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Apulija: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Fridricho II sūnus)" parinktas kaip owner_note_path. Targetas "Apulija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Apulija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas (Fridricho II sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Apulija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Konradas užpuolė Apulijos karalystę.
 
 ## Reikšmingi paminėjimai
 
@@ -68,10 +69,14 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Apulija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradas (Fridricho II sūnus): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Apulija: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Fridricho II sūnus)" parinktas kaip owner_note_path. Targetas "Apulija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Apulija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas (Fridricho II sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Apulija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Konradas užpuolė Apulijos karalystę.
+
+## Ryšiai
+- Konradas (Fridricho II sūnus) puole [[objektai/vietos/Apulija]]
+- Konradas (Fridricho II sūnus) puole [[objektai/vietos/Neapolis]]

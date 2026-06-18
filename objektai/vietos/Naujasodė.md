@@ -35,6 +35,7 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
   ryšio_targeto_parinkimas: I brigada: mention_match, group, gap=82
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naujasodė" parinktas kaip owner_note_path. Targetas "I brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/I brigada.md#claim-t-40889|I brigada]]: I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje.
+- susijęs iš [[objektai/grupes/I brigada.md#claim-t-40889|I brigada]]: I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,3 +65,6 @@ Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolšev
   ryšio_subjekto_parinkimas: Naujasodė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: I brigada: mention_match, group, gap=82
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naujasodė" parinktas kaip owner_note_path. Targetas "I brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/I brigada]] puole Naujasodė

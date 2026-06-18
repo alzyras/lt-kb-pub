@@ -81,7 +81,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė formuluotė ir patikslintas sakinio savarankiškumas.'
-  susije_objektai: 'mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Veliuona; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Viena; llm_object: Pieštvė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Pieštvė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -94,6 +95,8 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   ryšio_subjekto_parinkimas: Pieštvė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pieštvė" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
 - susijęs iš [[objektai/asmenys/Kunonas (Brandenburgo komtūras).md#claim-t-60163|Kunonas (Brandenburgo komtūras)]]: Brolis Kunonas, Brandenburgo komtūras, su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
 - susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185555|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: 1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose.
@@ -124,6 +127,13 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184633|papilys]]: 1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58778|papilys]]: 1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
+- susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184500|Kryžiuočių ordinas]]: Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius.
+- susijęs iš [[objektai/ivykiai/Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.).md#claim-t-59528|Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.)]]: 1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.
+- susijęs iš [[objektai/ivykiai/Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.).md#claim-t-185823|Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)]]: Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.).md#claim-t-62843|Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]: 1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.
+- susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -235,3 +245,13 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   ryšio_subjekto_parinkimas: Pieštvė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pieštvė" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]] puole Pieštvė
+- [[objektai/asmenys/Ditrichas iš Ezbeko]] keliavo_i Pieštvė
+- [[objektai/asmenys/Otonas iš Bergo]] surenge_zygi_i Pieštvė
+- [[objektai/asmenys/Otonas iš Cedlico]] surenge_zygi_i Pieštvė
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Pieštvė
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pieštvė
+- [[objektai/grupes/Lietuviai]] gyne Pieštvė
+- Pieštvė priklause [[objektai/vietos/Nemunas]]

@@ -37,19 +37,20 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Druckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Šuiskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Druckas: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Šuiskis" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Druckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Šuiskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petro Šuiskio kariuomenė tiesiogiai traukė į Drucką.
 
 <a id="claim-t-40393"></a>
 - t-002
   global_id: t-40393
   teiginys: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
-  susije_objektai: 'mentioned_place: Druckas; mentioned_place: Polockas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Druckas; mentioned_place: Druckas; mentioned_place: Polockas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] keliavo į Druckas; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] surengė žygį į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -124,10 +125,16 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Druckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Šuiskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Druckas: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Šuiskis" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Druckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Šuiskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petro Šuiskio kariuomenė tiesiogiai traukė į Drucką.
+
+## Ryšiai
+- Petras Šuiskis keliavo_i [[objektai/vietos/Druckas]]
+- Petras Šuiskis dalyvavo_musyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- Petras Šuiskis kariavo_pries [[objektai/grupes/Lietuviai]]
+- Petras Šuiskis surenge_zygi_i [[objektai/vietos/Lietuva]]

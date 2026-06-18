@@ -38,7 +38,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113898
   teiginys: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Vėluva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
@@ -62,7 +63,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113900
   teiginys: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Prūsai; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -145,7 +146,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113909
   teiginys: '1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.'
   sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Voluinė; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Voluinė; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo vyras [[objektai/asmenys/Morta|Morta]]'
   temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
@@ -169,7 +171,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113911
   teiginys: 'Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Livonija'
   temporaliniai_duomenys: 'įvykio data: 1244 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą.'
@@ -193,7 +196,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113914
   teiginys: 'Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos tiesiogiai pagrįstas giminystės faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo sūnus [[objektai/asmenys/Maukoldas|Maukoldas]]'
   pagrindžia:
     - c-024
 
@@ -260,7 +264,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113923
   teiginys: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus.'
@@ -384,13 +388,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97dd5d43c903167272a43921a85518b51b2ebee245a96ea73bd495c2791e1a70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje.
 
 <a id="claim-t-113931"></a>
 - t-030
@@ -453,19 +457,20 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c30b67bb4d4a9d2f3e58bb6d8fe84fea258da9a9984e3856016a84a3424ed739; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai nukariavo prūsų gentis.
 
 <a id="claim-t-113936"></a>
 - t-034
   global_id: t-113936
   teiginys: 'Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo sūnus [[objektai/asmenys/Maukoldas|Maukoldas]]'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
@@ -487,7 +492,8 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir pakankamai tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Prūsija'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
@@ -509,19 +515,20 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Dauguva'
+  susije_objektai: 'llm_object: Mazovija; llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Dauguva; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Mazovija; [[objektai/grupes/Rusai|Rusai]] rėmė [[objektai/asmenys/Mindaugas|Mindaugas]]; [[objektai/asmenys/Mindaugas|Mindaugas]] buvo sąjungininkas su [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-027
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Morta tiesiogiai įvardyta Mindaugo žmona.
 
 <a id="claim-t-184789"></a>
 - t-039
@@ -544,10 +551,15 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-183554|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93430|Kristijonas]]: Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.
-- susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-183573|Vaišelga (kunigaikštis)]]: 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
+- susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
 - susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
+- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
+- susijęs iš [[objektai/asmenys/Morta.md#claim-t-19156|Morta]]: 1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.
+- susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71757|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.
+- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75375|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.
+- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75376|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.
+- susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184894|Zemovitas]]: Mindaugas, padedamas rusų, įsibrovė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18808|Andrius Štirlandas]]: Andrių Štirlandą Mindaugas papirko, o per savo pasiuntinį popiežiui išdėstė Lietuvai naudingesnes sąlygas.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
@@ -936,6 +948,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176251|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176264|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir savarankiškus kunigaikščius pakeitė nuo didžiojo kunigaikščio priklausomais vietininkais.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176267|vietininkas]]: Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus.
+- susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18809|Andrius Štirlandas]]: Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184684|Daumantas (kunigaikštis, XV a.)]]: Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1272,13 +1287,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97dd5d43c903167272a43921a85518b51b2ebee245a96ea73bd495c2791e1a70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje.
     - t-008
     - t-016
 
@@ -1375,13 +1390,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c30b67bb4d4a9d2f3e58bb6d8fe84fea258da9a9984e3856016a84a3424ed739; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai nukariavo prūsų gentis.
     - t-034
 
 - c-020
@@ -1601,13 +1616,13 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Morta tiesiogiai įvardyta Mindaugo žmona.
     - t-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46459-46846; hash=c9d49fd0d35407eb207b400e271ddf8020055f3e220ed70fffaf75d7ed928433; match=whitespace_regex
@@ -1621,10 +1636,36 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Totoriai]]
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Kristijonas]] buvo_brolis Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) valde_teritorija [[objektai/vietos/Pskovas]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] buvo_sunus Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Dniepras]]
+- Mindaugas (valdovas, XIII a.) buvo_sunus [[objektai/asmenys/Maukoldas]]
+- Mindaugas (valdovas, XIII a.) buvo_vyras [[objektai/asmenys/Morta]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Cesys]]
+- Mindaugas (valdovas, XIII a.) valde [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Morta]] buvo_zmona Mindaugas (valdovas, XIII a.)
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Semba]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Embutė]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Mazovija]]
+- Mindaugas (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Kuršas]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Kuršas]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Prūsija]]
+- Mindaugas (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Livonija]]
+- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Slanimas]]
+- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Valkaviskas]]
+- [[objektai/grupes/Rusai]] reme Mindaugas (valdovas, XIII a.)
+- [[objektai/asmenys/Gedvydas]] kariavo_pries Mindaugas (valdovas, XIII a.)
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Livonija]]
+- Mindaugas (valdovas, XIII a.) valde_miesta [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Tautvilas]] kariavo_pries Mindaugas (valdovas, XIII a.)
+- Mindaugas (valdovas, XIII a.) puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Brianskas]]
+- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Černigovas]]
+- [[objektai/asmenys/Andrius Štirlandas]] buvo_sajungininkas_su Mindaugas (valdovas, XIII a.)
+- Mindaugas (valdovas, XIII a.) buvo_sajungininkas_su [[objektai/grupes/Rusai]]
+- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Gardino žemė]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_priesas Mindaugas (valdovas, XIII a.)
+- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Mindaugas (valdovas, XIII a.) siunte_i [[objektai/vietos/Brianskas]]
+- Mindaugas (valdovas, XIII a.) uzeme [[objektai/vietos/Kuršas]]
+- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Lovičius]]
+- Mindaugas (valdovas, XIII a.) valde [[objektai/vietos/Kuršas]]

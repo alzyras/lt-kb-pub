@@ -74,3 +74,6 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
   ryšio_subjekto_parinkimas: I. Drakša: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Ginklai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "I. Drakša" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- I. Drakša pastate [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]

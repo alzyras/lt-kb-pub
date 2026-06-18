@@ -34,7 +34,8 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   global_id: t-171586
   teiginys: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
   sudarymo_pagrindimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
+  susije_objektai: 'llm_object: Rusija; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis XII|Karolis XII]] puolė Rusija'
   temporaliniai_duomenys: 'įvykio data: 1706 m.; įvykio data: 1708 m.; įvykio data: 1709 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
@@ -49,6 +50,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78950|Augustas II]]: 1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.
 - susijęs iš Altrandštato taika (1706 m.): 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
 - susijęs iš Altrandštatas: 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
@@ -92,3 +94,9 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Karolis XII puole [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Augustas II]] sudare_sutarti_su Karolis XII
+- Karolis XII surenge_zygi_i [[objektai/vietos/Saksonija]]
+- Karolis XII puole [[objektai/asmenys/Augustas II]]

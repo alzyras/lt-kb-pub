@@ -24,19 +24,20 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   global_id: t-60229
   teiginys: 'Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas'
+  susije_objektai: 'llm_object: Rizenburgas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Pamedės vyskupas)|Albrechtas (Pamedės vyskupas)]] pastatė Rizenburgas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dc2706377c8525b8b0403398f56c34d378b0801853ba9d6a4abe582df6fe29c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Pamedės vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Pamedės vyskupas)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Rizenburgas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Pamedės vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rizenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Albrechtas pastatė Rizenburgo pilį ir miestą.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dc2706377c8525b8b0403398f56c34d378b0801853ba9d6a4abe582df6fe29c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Pamedės vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Pamedės vyskupas)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Rizenburgas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Pamedės vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rizenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Albrechtas pastatė Rizenburgo pilį ir miestą.
+
+## Ryšiai
+- Albrechtas (Pamedės vyskupas) pastate [[objektai/vietos/Rizenburgas]]

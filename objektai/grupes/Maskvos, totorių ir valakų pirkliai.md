@@ -23,19 +23,20 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
   global_id: t-86811
   teiginys: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metų muges, galėjo mainytis prekėmis tik su Vilniaus pirkliais.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas vientisas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Vilnius; mentioned_place: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvos, totorių ir valakų pirkliai|Maskvos, totorių ir valakų pirkliai]] keliavo į Vilnius; [[objektai/grupes/Maskvos, totorių ir valakų pirkliai|Maskvos, totorių ir valakų pirkliai]] prekiavo su Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 538018-538728; hash=ed4463952a901185f2ab09b992d1ecacfa9180909888c31e7f76d9220c3e4f7d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos, totorių ir valakų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos, totorių ir valakų pirkliai" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pirkliai tiesiogiai apibūdinti kaip atvykstantys į Vilnių.
 - susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,15 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
   irodymo_stiprumas: 0.00
   saltinio_vieta: 538018-538728; hash=ed4463952a901185f2ab09b992d1ecacfa9180909888c31e7f76d9220c3e4f7d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos, totorių ir valakų pirkliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos, totorių ir valakų pirkliai" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pirkliai tiesiogiai apibūdinti kaip atvykstantys į Vilnių.
+
+## Ryšiai
+- Maskvos, totorių ir valakų pirkliai keliavo_i [[objektai/vietos/Vilnius]]
+- Maskvos, totorių ir valakų pirkliai gyveno [[objektai/vietos/Vilnius]]
+- Maskvos, totorių ir valakų pirkliai prekiavo_su [[objektai/vietos/Vilnius]]

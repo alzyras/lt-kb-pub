@@ -45,6 +45,7 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dainavos apygarda" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
+- susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,3 +75,6 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
   ryšio_subjekto_parinkimas: Dainavos apygarda: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Dainava: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dainavos apygarda" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/NKVD]] puole Dainavos apygarda

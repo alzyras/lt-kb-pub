@@ -145,7 +145,8 @@ Nenurodyta
   global_id: t-186818
   teiginys: 'Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Niurnbergas; mentioned_place: Trakai; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Niurnbergas; mentioned_place: Trakai; mentioned_place: Vokietija; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Karūna|Karūna]] priklausė [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -546,3 +547,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=54
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karūna" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-008
+
+## Ryšiai
+- Karūna priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Karūna priklause [[objektai/vietos/Lenkija]]

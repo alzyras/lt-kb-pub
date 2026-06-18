@@ -29,7 +29,7 @@ amziai:
   global_id: t-181977
   teiginys: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  susije_objektai: 'llm_object: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Luckas'
   pagrindžia:
     - c-001
 

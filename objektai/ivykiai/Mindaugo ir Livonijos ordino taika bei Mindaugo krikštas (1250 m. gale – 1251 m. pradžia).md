@@ -63,7 +63,7 @@ Nenurodyta
   global_id: t-71757
   teiginys: 'Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau pasakyti, kad žmona krikšto metu gavo Mortos vardą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: [[objektai/asmenys/Morta|Morta]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -93,13 +93,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb76dd3ec1d7708fbba5cb917e70674d961a066f112e62a9cb4c30c3a47c10e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mindaugo žmona gavo Mortos vardą.
 
 ## Reikšmingi paminėjimai
 
@@ -166,13 +166,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb76dd3ec1d7708fbba5cb917e70674d961a066f112e62a9cb4c30c3a47c10e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mindaugo žmona gavo Mortos vardą.
     - t-002
 
 - c-004
@@ -224,21 +224,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb76dd3ec1d7708fbba5cb917e70674d961a066f112e62a9cb4c30c3a47c10e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mindaugo žmona gavo Mortos vardą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acb76dd3ec1d7708fbba5cb917e70674d961a066f112e62a9cb4c30c3a47c10e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mindaugo žmona gavo Mortos vardą.

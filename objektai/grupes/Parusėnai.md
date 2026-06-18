@@ -26,7 +26,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - t-001
   global_id: t-07846
   teiginys: 'Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liepoja; mentioned_place: Medininkai; mentioned_place: Nemunas; mentioned_place: Rusnė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Parusėnai|Parusėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liepoja; mentioned_place: Medininkai; mentioned_place: Nemunas; mentioned_place: Rusnė; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] puolė [[objektai/grupes/Parusėnai|Parusėnai]]; [[objektai/grupes/Parusėnai|Parusėnai]] puolė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -36,7 +37,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   global_id: t-07847
   teiginys: '1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Parusėnai|Parusėnai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'pastatymo data: 1250 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes.'
@@ -89,3 +91,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Parusėnai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Lenkai]] puole Parusėnai
+- Parusėnai puole [[objektai/grupes/Lenkai]]

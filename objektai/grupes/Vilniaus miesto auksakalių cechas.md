@@ -164,3 +164,6 @@ Vilniaus miesto amatininkų cechas.
   ryšio_subjekto_parinkimas: Vilniaus miesto auksakalių cechas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Albertas Skvemevita: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miesto auksakalių cechas" parinktas kaip owner_note_path. Targetas "Albertas Skvemevita" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vilniaus miesto auksakalių cechas priklause [[objektai/vietos/Vilnius]]

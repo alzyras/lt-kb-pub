@@ -54,6 +54,7 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 - susijęs iš Punskas: Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 - susijęs iš Punskas: Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.
 - susijęs iš Punskas: Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.
+- susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,3 +74,6 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/K. Ramanauskas]] surenge_zygi_i Seinai

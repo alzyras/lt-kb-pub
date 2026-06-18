@@ -47,7 +47,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - t-002
   global_id: t-30957
   teiginys: 'Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: apie 675 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -55,13 +55,13 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d06ca31df76b40f4cd7655d74cb4349e86674f70b60bf901f24699b7f41f18b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rimberto, Rimbertas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rimberto, Rimbertas" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Švedai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad kuršiai anksčiau priklausė švedų valdžiai.
 
 <a id="claim-t-30958"></a>
 - t-003
@@ -150,10 +150,10 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d06ca31df76b40f4cd7655d74cb4349e86674f70b60bf901f24699b7f41f18b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rimberto, Rimbertas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rimberto, Rimbertas" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Švedai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad kuršiai anksčiau priklausė švedų valdžiai.

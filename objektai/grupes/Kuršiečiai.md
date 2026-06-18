@@ -23,19 +23,20 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   global_id: t-40966
   teiginys: 'Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.'
   sudarymo_pagrindimas: 'Teiginys išplėstas aiškiais vardais ir vieta, kuriuos patvirtina citata.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Dauguva; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kuršiečiai|Kuršiečiai]] keliavo į Dauguva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435152-435463; hash=4e84c51e0afb687dd0a3c1babde19a6a1d91d567c0bea8ef5190088b61f4cf0c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiečiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dauguva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad kuršiečiai perplaukė Dauguvą.
 
 <a id="claim-t-40967"></a>
 - t-002
@@ -96,13 +97,13 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435152-435463; hash=4e84c51e0afb687dd0a3c1babde19a6a1d91d567c0bea8ef5190088b61f4cf0c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršiečiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiečiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dauguva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kuršiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad kuršiečiai perplaukė Dauguvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=646ab71bf44412ba4b63c5ff786ba0b1b656207de987052855faedaeaa50ab74; match=fallback; occurrences=0
@@ -114,3 +115,6 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   ryšio_subjekto_parinkimas: Kuršiečiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiečiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Kuršiečiai keliavo_i [[objektai/vietos/Dauguva]]

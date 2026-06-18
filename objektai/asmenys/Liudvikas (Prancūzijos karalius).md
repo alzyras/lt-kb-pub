@@ -42,22 +42,20 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Prancūzija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Liudvikas (Prancūzijos karalius): owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Prancūzija: exact_title_context, place, gap=12
-  ryšio_slopinti_kandidatai: Konstantinopolis: candidate; Paryžius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Liudvikas (Prancūzijos karalius)" parinktas kaip owner_after_title. Targetas "Prancūzija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 58, "match_index": 79, "path": "objektai/vietos/Konstantinopolis.md", "selected": false, "strategy": "candidate", "title": "Konstantinopolis", "type": "place"}, {"distance_to_predicate": 77, "match_index": 98, "path": "objektai/vietos/Paryžius.md", "selected": false, "strategy": "candidate", "title": "Paryžius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas (Prancūzijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas (Prancūzijos karalius)" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60050"></a>
 - t-002
   global_id: t-60050
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
-  susije_objektai: 'territory: Prancūzija; mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Prancūzija'
+  susije_objektai: 'mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1239 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
@@ -127,14 +125,10 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Prancūzija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Liudvikas (Prancūzijos karalius): owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Prancūzija: exact_title_context, place, gap=12
-  ryšio_slopinti_kandidatai: Konstantinopolis: candidate; Paryžius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Liudvikas (Prancūzijos karalius)" parinktas kaip owner_after_title. Targetas "Prancūzija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 58, "match_index": 79, "path": "objektai/vietos/Konstantinopolis.md", "selected": false, "strategy": "candidate", "title": "Konstantinopolis", "type": "place"}, {"distance_to_predicate": 77, "match_index": 98, "path": "objektai/vietos/Paryžius.md", "selected": false, "strategy": "candidate", "title": "Paryžius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Prancūzija]]
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas (Prancūzijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas (Prancūzijos karalius)" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

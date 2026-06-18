@@ -58,6 +58,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=101
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnioveckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
+- susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
 - susijęs iš Klevanė: Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.
 - susijęs iš Klevanė: Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.
@@ -116,3 +117,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   ryšio_subjekto_parinkimas: Vyšnioveckiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=49
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnioveckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Vyšnivecis]] priklause Vyšnioveckiai
+- Vyšnioveckiai valde_teritorija [[objektai/vietos/Vyšnivecis]]

@@ -55,19 +55,20 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   global_id: t-90732
   teiginys: 'Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pilies pastatymo vietą ir tikslą.'
-  susije_objektai: 'mentioned_place: Kaustra; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Kaustra; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Varmė; llm_object: Notanga'
+  semantiniai_rysiai: 'Kroicburgas priklausė Notanga'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d635ef697f22ab37872c6b3d0b34ef3b2af2bc77f92330502f372bec6a0a101; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaustra: 0.85
+  ryšio_patikimumas: priklause -> Notanga: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaustra: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgas" parinktas kaip owner_note_path. Targetas "Kaustra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kroicburgo pilis tekste lokalizuota Notangos žemėje, todėl galima atsargi priklausymo kraštinė.
 
 <a id="claim-t-90733"></a>
 - t-003
@@ -96,7 +97,8 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   global_id: t-90734
   teiginys: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, o maisto pristigę broliai naktį slapta iš jos pasitraukė.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citatos duomenimis apie 1263 m. apgultį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Kroicburgas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] apgulė Kroicburgas; [[objektai/grupes/Notangai|Notangai]] puolė Kroicburgas'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citatos duomenimis apie 1263 m. apgultį.'
@@ -127,13 +129,13 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d733622b06b2676e0a77fe9d989f958577cf5ba14c8d40574fd0bd9a93258a21; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgas" parinktas kaip owner_note_path. Targetas "Kalavijai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad notangai apsupo Kroicburgo pilį.
 
 <a id="claim-t-90736"></a>
 - t-006
@@ -153,6 +155,11 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   ryšio_subjekto_parinkimas: Kroicburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgas" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Kaustra: Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį.
+- susijęs iš [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.).md#claim-t-62344|Kroicburgo pilies sugriovimas (1263 m.)]]: 1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59181|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai.
@@ -272,13 +279,13 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d635ef697f22ab37872c6b3d0b34ef3b2af2bc77f92330502f372bec6a0a101; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaustra: 0.85
+  ryšio_patikimumas: priklause -> Notanga: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaustra: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgas" parinktas kaip owner_note_path. Targetas "Kaustra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kroicburgo pilis tekste lokalizuota Notangos žemėje, todėl galima atsargi priklausymo kraštinė.
     - t-003
 
 - c-005
@@ -333,10 +340,16 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d733622b06b2676e0a77fe9d989f958577cf5ba14c8d40574fd0bd9a93258a21; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kroicburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgas" parinktas kaip owner_note_path. Targetas "Kalavijai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kroicburgas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kroicburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad notangai apsupo Kroicburgo pilį.
+
+## Ryšiai
+- [[objektai/grupes/Notangai]] apgule Kroicburgas
+- [[objektai/grupes/Notangai]] puole Kroicburgas
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Kroicburgas
+- Kroicburgas priklause [[objektai/vietos/Notanga]]

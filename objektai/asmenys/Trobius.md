@@ -192,3 +192,9 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   ryšio_subjekto_parinkimas: Trobius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trobius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Trobius buvo_brolis [[objektai/asmenys/Giliginas]]
+- Trobius valde [[objektai/vietos/Žemaitija]]
+- Trobius valde_teritorija [[objektai/vietos/Žemaitija]]
+- Trobius valde [[objektai/vietos/Lietuva]]

@@ -30,26 +30,28 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   global_id: t-58564
   teiginys: 'Karkuso, arba Karksio, pilis buvo Livonijoje, pietinėje Estijoje, į pietus nuo dabartinio Viljandžio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateikta lokalizacija.'
-  susije_objektai: 'mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Livonija; mentioned_place: Livonija'
+  semantiniai_rysiai: 'Karkuso pilis priklausė Livonija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: uzeme -> Karkuso pilis (pilis, XIII a.): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karkuso pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių karalius Vytenis užėmė Karkuso pilį; Vytenio kandidato nėra, todėl vartojamas tiesiogiai minimas lietuvių grupės kandidatas.
 
 <a id="claim-t-58565"></a>
 - t-002
   global_id: t-58565
   teiginys: '1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją, veiksmą ir Karkuso pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Ryga; llm_object: Karkuso pilis'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Karkuso pilis'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją, veiksmą ir Karkuso pilį.'
@@ -58,13 +60,13 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600872-601052; hash=b9a6d71a514eba8257580d92154f8a40ab0b410d519c84a51faf483189f1b968; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karkuso pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Karkuso pilį Livonijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -103,21 +105,25 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: uzeme -> Karkuso pilis (pilis, XIII a.): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karkuso pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad lietuvių karalius Vytenis užėmė Karkuso pilį; Vytenio kandidato nėra, todėl vartojamas tiesiogiai minimas lietuvių grupės kandidatas.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600872-601052; hash=b9a6d71a514eba8257580d92154f8a40ab0b410d519c84a51faf483189f1b968; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karkuso pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karkuso pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Karkuso pilį Livonijoje.
+
+## Ryšiai
+- Karkuso pilis (pilis, XIII a.) priklause [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Lietuviai]] uzeme Karkuso pilis (pilis, XIII a.)

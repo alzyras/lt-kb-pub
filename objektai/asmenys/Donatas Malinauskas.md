@@ -31,7 +31,8 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
   global_id: t-18878
   teiginys: 'Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, tačiau citata aiškiai pagrindžia asmens veiksmą ir datą.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, tačiau citata aiškiai pagrindžia asmens veiksmą ir datą.'
@@ -40,13 +41,13 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ee02576f017a7bff795f32bba5ae38b4dc58f5a712b1a25785af68807e9890e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Donatas Malinauskas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Donatas Malinauskas" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Donatas Malinauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Donatas Malinauskas nurodytas kaip Vilniuje veikęs deklaracijos surašymo metu, bet tai labiau laikinas buvimas nei nuolatinis gyvenimas.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78006|Jonas Basanavičius]]: 1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/autoriai/Stasys Šilingas.md#claim-t-63316|Stasys Šilingas]]: Stasys Šilingas su Jonu Basanavičiumi ir Donatu Malinausku 1914 m. liepą Vilniuje surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje.md#claim-t-20195|Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]: 1914 m. liepą Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas Vilniuje surašė Gintarinę deklaraciją, paskelbtą Rusijos Dūmoje rugpjūčio 4 d.
@@ -90,10 +91,13 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ee02576f017a7bff795f32bba5ae38b4dc58f5a712b1a25785af68807e9890e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Donatas Malinauskas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Donatas Malinauskas" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Donatas Malinauskas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Donatas Malinauskas nurodytas kaip Vilniuje veikęs deklaracijos surašymo metu, bet tai labiau laikinas buvimas nei nuolatinis gyvenimas.
+
+## Ryšiai
+- Donatas Malinauskas gyveno [[objektai/vietos/Vilnius]]

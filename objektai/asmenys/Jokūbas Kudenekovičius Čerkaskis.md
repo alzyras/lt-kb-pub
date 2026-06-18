@@ -52,7 +52,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   global_id: t-40212
   teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   sudarymo_pagrindimas: 'Perrašyta siekiant pašalinti neaiškią vietos nuorodą „kur“ ir išlaikyti citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Gardinas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Gardinas; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Radvilos|Radvilos]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] užėmė Gardinas; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] užėmė Vilnius; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] kariavo prieš [[objektai/grupes/Radvilos|Radvilos]]'
   temporaliniai_duomenys: 'įvykio data: 1660 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta siekiant pašalinti neaiškią vietos nuorodą „kur“ ir išlaikyti citatos faktus.'
@@ -61,13 +62,13 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510732-510964; hash=186b289a37eaa387edcb8c0777143c7b5276b28b2aac302863f9ed1db76fee90; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas Kudenekovičius Čerkaskis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Gardinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Čerkaskio dalyvavimą užimant Gardiną.
 
 <a id="claim-t-183743"></a>
 - t-003
@@ -77,19 +78,19 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir sutvarkyta sakinio struktūra.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Baltarusija; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Rusija; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Baltarusija; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510099-510552; hash=e9c6050d05af241350171248855189343788764525221805a5facff8c7d2bfa0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksejus Michailovičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksejus Michailovičius: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas Kudenekovičius Čerkaskis" parinktas kaip owner_note_path. Targetas "Aleksejus Michailovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Rusija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksejus Michailovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Aleksejų Michailovičių vadina caru, o kontekstas yra Rusijos kariuomenė.
 
 ## Reikšmingi paminėjimai
 
@@ -134,24 +135,24 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510732-510964; hash=186b289a37eaa387edcb8c0777143c7b5276b28b2aac302863f9ed1db76fee90; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas Kudenekovičius Čerkaskis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Gardinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Čerkaskio dalyvavimą užimant Gardiną.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510099-510552; hash=e9c6050d05af241350171248855189343788764525221805a5facff8c7d2bfa0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksejus Michailovičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksejus Michailovičius: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas Kudenekovičius Čerkaskis" parinktas kaip owner_note_path. Targetas "Aleksejus Michailovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Rusija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksejus Michailovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Aleksejų Michailovičių vadina caru, o kontekstas yra Rusijos kariuomenė.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 510099-510552; hash=e9c6050d05af241350171248855189343788764525221805a5facff8c7d2bfa0; match=exact
@@ -163,3 +164,8 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   ryšio_subjekto_parinkimas: Jokūbas Kudenekovičius Čerkaskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=81
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas Kudenekovičius Čerkaskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jokūbas Kudenekovičius Čerkaskis uzeme [[objektai/vietos/Gardinas]]
+- Jokūbas Kudenekovičius Čerkaskis uzeme [[objektai/vietos/Vilnius]]
+- Jokūbas Kudenekovičius Čerkaskis kariavo_pries [[objektai/grupes/Radvilos]]

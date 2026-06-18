@@ -31,26 +31,28 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   global_id: t-19026
   teiginys: 'Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Urbšį ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]] keliavo į Kaunas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9922e274167d4a20866e0174d73748a4ad93217de37239becaaeb0931fe4e8b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Juozas Urbšys buvo pakviestas atvykti į Maskvą ir išvyko.
 
 <a id="claim-t-19027"></a>
 - t-002
   global_id: t-19027
   teiginys: 'Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Kaunas; mentioned_place: Merkys'
+  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; mentioned_place: Kaunas; mentioned_place: Merkys'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]] siuntė į Maskva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -78,32 +80,33 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acfbf18a27d2a5183fe13043d336b38fadafba52cceaf7b9d7bbb420f8fcee5c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad J. Urbšiui reikėjo skristi į Kauną konsultuotis.
 
 <a id="claim-t-19029"></a>
 - t-004
   global_id: t-19029
   teiginys: 'Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.'
   sudarymo_pagrindimas: 'Reikia pakeisti įvardį aiškiu asmens vardu.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: SSRS; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Urbšys|Juozas Urbšys]] keliavo į Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4dc028bca02bd856245728cade306243d090f9c5b1e764322cde0eada76d771; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Maskva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad nutarta pasiųsti ministrą J. Urbšį į Maskvą.
 
 <a id="claim-t-19030"></a>
 - t-005
@@ -123,6 +126,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=53
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
 ## Reikšmingi paminėjimai
 
@@ -160,13 +164,13 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4dc028bca02bd856245728cade306243d090f9c5b1e764322cde0eada76d771; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Maskva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad nutarta pasiųsti ministrą J. Urbšį į Maskvą.
     - t-003
 
 - c-003
@@ -186,13 +190,13 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=acfbf18a27d2a5183fe13043d336b38fadafba52cceaf7b9d7bbb420f8fcee5c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad J. Urbšiui reikėjo skristi į Kauną konsultuotis.
     - t-001
 
 - c-004
@@ -211,13 +215,13 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9922e274167d4a20866e0174d73748a4ad93217de37239becaaeb0931fe4e8b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Urbšys: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Juozas Urbšys buvo pakviestas atvykti į Maskvą ir išvyko.
     - t-002
 
 - c-005
@@ -259,3 +263,9 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
   ryšio_subjekto_parinkimas: Juozas Urbšys: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=53
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Urbšys" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Juozas Urbšys siunte_i [[objektai/vietos/Maskva]]
+- Juozas Urbšys keliavo_i [[objektai/vietos/Kaunas]]
+- Juozas Urbšys keliavo_i [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Viačeslavas Molotovas]] paskyre Juozas Urbšys

@@ -189,13 +189,13 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0b01c2624a3129d616a6d3b716a18f5185fed671dd07fe84139ee65e4c2ab57; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Smetonos išvykimą į Berlyną.
 
 <a id="claim-t-170294"></a>
 - t-009
@@ -326,7 +326,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170303
   teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Berlynas; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
@@ -342,6 +343,9 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45487|Ginklai ir ginkluotė]]: 1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
@@ -439,6 +443,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-183412|dezertyrai]]: Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai.
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-22116|dezertyrai]]: Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis.md#claim-t-05602|poliublininis laikotarpis]]: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.
+- susijęs iš [[objektai/daiktai/Prūsijos žemės kronikos nuorašai.md#claim-t-59704|Prūsijos žemės kronikos nuorašai]]: M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -669,13 +674,13 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0b01c2624a3129d616a6d3b716a18f5185fed671dd07fe84139ee65e4c2ab57; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Smetonos išvykimą į Berlyną.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9faa9cb98ff04eaa1a8fae162c535b9fd1754d6735bc4065510328b84edd2710; match=fallback; occurrences=0
@@ -864,3 +869,8 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=109
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/A. Smetona]] keliavo_i Berlynas
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] keliavo_i Berlynas
+- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]] priklause Berlynas

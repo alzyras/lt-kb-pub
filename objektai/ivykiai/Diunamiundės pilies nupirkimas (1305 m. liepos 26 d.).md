@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; llm_object: Diunamiundė'
   temporaliniai_duomenys: 'įvykio data: 1305 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai remiasi citata.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Diunamiundė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Diunamiundė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)" parinktas kaip owner_note_path. Targetas "Diunamiundė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Diunamiundė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Po įsigijimo Diunamiundės pilis priklausė teutonų ordino broliams.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Diunamiundė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Diunamiundė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)" parinktas kaip owner_note_path. Targetas "Diunamiundė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Teutonai: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Diunamiundė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Po įsigijimo Diunamiundės pilis priklausė teutonų ordino broliams.

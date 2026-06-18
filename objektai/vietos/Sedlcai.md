@@ -24,38 +24,40 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   global_id: t-58722
   teiginys: 'Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos duomenimis apie kaimo vietą.'
-  susije_objektai: 'mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė'
+  susije_objektai: 'mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Sedlcai priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f966a5c8f6f09344ac8441923dd5da01650a6cca644d15bad89f788d43d91767; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sedlcai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sedlcai" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sedlcais pavadintas žemės plotas ar dvaras tiesiogiai lokalizuotas Kujavijoje.
 
 <a id="claim-t-58723"></a>
 - t-002
   global_id: t-58723
   teiginys: 'Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo fragmentiškas ir prasidėjo nuo konteksto vidurio.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Kujavija'
+  susije_objektai: 'llm_object: Kujavija; mentioned_place: Dobrynė; mentioned_place: Kujavija'
+  semantiniai_rysiai: 'Sedlcai priklausė Kujavija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 142095-142360; hash=bb9c1d166e4a993957a115393255a4d7fdc758c82716177082bfea6defa94f0a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Inovroclavas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sedlcai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Inovroclavas: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sedlcai" parinktas kaip owner_note_path. Targetas "Inovroclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sedlcai kaip palikimas atiteko kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
 - susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
 ## Reikšmingi paminėjimai
@@ -91,21 +93,26 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f966a5c8f6f09344ac8441923dd5da01650a6cca644d15bad89f788d43d91767; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sedlcai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sedlcai" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sedlcais pavadintas žemės plotas ar dvaras tiesiogiai lokalizuotas Kujavijoje.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 142095-142360; hash=bb9c1d166e4a993957a115393255a4d7fdc758c82716177082bfea6defa94f0a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Inovroclavas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sedlcai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Inovroclavas: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sedlcai" parinktas kaip owner_note_path. Targetas "Inovroclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sedlcai kaip palikimas atiteko kryžiuočiams.
+
+## Ryšiai
+- Sedlcai priklause [[objektai/vietos/Kujavija]]
+- Sedlcai priklause [[objektai/grupes/Dobrynės broliai]]
+- Sedlcai priklause [[objektai/grupes/Kryžiuočių ordinas]]

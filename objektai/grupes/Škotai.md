@@ -32,7 +32,8 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   global_id: t-86839
   teiginys: 'Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sugadintas OCR fragmentas, bet citata palaiko aiškų faktą apie škotus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Škotai|Škotai]] rėmė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sugadintas OCR fragmentas, bet citata palaiko aiškų faktą apie škotus.'
@@ -41,13 +42,13 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 287229-289327; hash=28abb5bc03bb266e56436ba0f84b5163500a0fa508e0032137f2d7821ecc41cb; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Škotai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Škotai" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vokiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Škotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Škotų savanoriai papildė vokiečių riterių būrius, todėl tai yra karinė parama.
 - susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
 - susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
@@ -60,6 +61,7 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.
+- susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -130,10 +132,14 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 287229-289327; hash=28abb5bc03bb266e56436ba0f84b5163500a0fa508e0032137f2d7821ecc41cb; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Škotai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Škotai" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vokiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Škotai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Škotų savanoriai papildė vokiečių riterių būrius, todėl tai yra karinė parama.
+
+## Ryšiai
+- [[objektai/grupes/Anglai]] buvo_priesas Škotai
+- Škotai reme [[objektai/grupes/Vokiečiai]]

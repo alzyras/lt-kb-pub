@@ -110,6 +110,8 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš [[objektai/zodynas/urėdas.md#claim-t-182985|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
+- susijęs iš [[objektai/zodynas/etmonas.md#claim-t-42451|etmonas]]: Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -145,3 +147,14 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   ryšio_subjekto_parinkimas: Radvila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Rumbaudas: mention_match, person, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radvila" parinktas kaip owner_note_path. Targetas "Rumbaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Radvila reme [[objektai/grupes/Vilniaus pirkliai]]
+- Radvila siunte_i [[objektai/vietos/Kopysė]]
+- Radvila dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- Radvila surenge_zygi_i [[objektai/vietos/Rusija]]
+- Radvila uzeme [[objektai/vietos/Jezeriščė]]
+- Radvila uzeme [[objektai/vietos/Usviatai]]
+- Radvila kariavo_pries [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Kristupas Radvila]] buvo_sunus Radvila
+- [[objektai/asmenys/Steponas Batoras]] paskyre Radvila

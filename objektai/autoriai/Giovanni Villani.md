@@ -32,7 +32,7 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   global_id: t-88057
   teiginys: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
   sudarymo_pagrindimas: 'Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; llm_object: [[objektai/grupes/Prancūzai|Prancūzai]]'
   temporaliniai_duomenys: 'įvykio data: 1346 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis.'
@@ -41,13 +41,13 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 228554-229058; hash=67cc9cffad0c8db87614b38f8a46794f0c0de560f3d4e4843cdc530b6201b21f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Giovanni Villani: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giovanni Villani" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Prancūzai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad anglai bombardomis apšaudė prancūzų karius.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 228554-229058; hash=67cc9cffad0c8db87614b38f8a46794f0c0de560f3d4e4843cdc530b6201b21f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Giovanni Villani: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giovanni Villani" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Prancūzai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad anglai bombardomis apšaudė prancūzų karius.

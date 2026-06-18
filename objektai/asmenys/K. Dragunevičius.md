@@ -27,19 +27,20 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99c008e52d14dbc158964e9b90423a6368fc6ad335859f484c1fbd4f497e46d5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Mikoliūnas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Dragunevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: J. Mikoliūnas: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Dragunevičius" parinktas kaip owner_note_path. Targetas "J. Mikoliūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kėdainiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Dragunevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: K. Dragunevičius tiesiogiai minimas Kėdainių gynybos epizode.
 
 <a id="claim-t-40247"></a>
 - t-002
   global_id: t-40247
   teiginys: 'K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Kėdainiai; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]] gynė Kėdainiai; [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -107,10 +108,14 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99c008e52d14dbc158964e9b90423a6368fc6ad335859f484c1fbd4f497e46d5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Mikoliūnas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Dragunevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: J. Mikoliūnas: mention_match, person, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Dragunevičius" parinktas kaip owner_note_path. Targetas "J. Mikoliūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Kėdainiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Dragunevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: K. Dragunevičius tiesiogiai minimas Kėdainių gynybos epizode.
+
+## Ryšiai
+- K. Dragunevičius gyne [[objektai/vietos/Kėdainiai]]
+- K. Dragunevičius dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

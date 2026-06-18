@@ -65,6 +65,7 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 - susijęs iš Skalva: 1253-1259 m. Mindaugo dokumentai liudija, kad Skalva tarptautinėje plotmėje laikyta Lietuvos valdovo žeme.
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
 - susijęs iš Zilija: Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.
+- susijęs iš [[objektai/autoriai/Ochmański J.md#claim-t-60619|Ochmański J]]: J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,3 +92,7 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
   ryšio_subjekto_parinkimas: Dainava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=114
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dainava" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Dainava priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]] gyveno Dainava

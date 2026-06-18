@@ -23,19 +23,20 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   global_id: t-60433
   teiginys: 'Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas enciklopediškiau ir be šnekamojo „kažkokio“.'
-  susije_objektai: 'mentioned_place: Kristburgas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kristburgas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Viena; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sirenas|Sirenas]] gyveno Kristburgas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440119-440634; hash=f97bad08a82e6930b3219cc5f829d7edbbba88de9a9760bbedba67c0573c5fb8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumas: gyveno -> Kristburgas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sirenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sirenas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sirenas nurodytas kaip tuo metu buvęs Kristburgo pilyje; tai trumpalaikė buvimo vieta, todėl ne visiškai tvirta gyvenimo relacija.
 
 <a id="claim-t-184125"></a>
 - t-002
@@ -45,20 +46,20 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Geriau išnaudotas citatos tęsinys apie Sireno veiksmą.'
-  susije_objektai: 'object: Kristburgas; mentioned_object: [[objektai/daiktai/Pilies vartai|Pilies vartai]]; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  susije_objektai: 'llm_object: Kristburgas; mentioned_object: [[objektai/daiktai/Pilies vartai|Pilies vartai]]; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Sirenas|Sirenas]] gynė Kristburgas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439866-440453; hash=b262b7894536877cdecafd3598bf481fc7aac4026367a92154069d0f6e540ce0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kristburgas: 1.00
+  ryšio_patikimumas: gyne -> Kristburgas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Sirenas: owner_note_path, person, gap=30
-  ryšio_targeto_parinkimas: Kristburgas: nearest_after_predicate, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Sirenas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sirenas tiesiogiai trukdė priešams įsibrauti į pilį, todėl gynė Kristburgą.
 
 ## Reikšmingi paminėjimai
 
@@ -97,24 +98,25 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 440119-440634; hash=f97bad08a82e6930b3219cc5f829d7edbbba88de9a9760bbedba67c0573c5fb8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumas: gyveno -> Kristburgas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sirenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sirenas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sirenas nurodytas kaip tuo metu buvęs Kristburgo pilyje; tai trumpalaikė buvimo vieta, todėl ne visiškai tvirta gyvenimo relacija.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439866-440453; hash=b262b7894536877cdecafd3598bf481fc7aac4026367a92154069d0f6e540ce0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kristburgas: 1.00
+  ryšio_patikimumas: gyne -> Kristburgas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Sirenas: owner_note_path, person, gap=30
-  ryšio_targeto_parinkimas: Kristburgas: nearest_after_predicate, place, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Sirenas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sirenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sirenas tiesiogiai trukdė priešams įsibrauti į pilį, todėl gynė Kristburgą.
 
 ## Ryšiai
 - Sirenas gyne [[objektai/vietos/Kristburgas]]
+- Sirenas gyveno [[objektai/vietos/Kristburgas]]

@@ -66,19 +66,20 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir pakankamai pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Rylskas; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brianskas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Rylskas; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brianskas; mentioned_place: Lietuva; llm_object: Seversko žemė'
+  semantiniai_rysiai: 'Naugardas priklausė Seversko žemė; Rylskas priklausė Seversko žemė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumas: priklause -> Seversko žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugardas išvardytas kaip Seversko žemės dalis.
 
 <a id="claim-t-185141"></a>
 - t-004
@@ -88,19 +89,20 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Krymas'
+  susije_objektai: 'llm_object: Seversko žemė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Krymas'
+  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] puolė Seversko žemė'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Seversko žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šich Achmetas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šich Achmetas tiesiogiai nurodytas kaip užpuolęs Seversko žemę.
 
 <a id="claim-t-185142"></a>
 - t-005
@@ -123,8 +125,10 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
+- susijęs iš Rylskas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
 - susijęs iš [[objektai/asmenys/Fiodoras Grigorovičius.md#claim-t-186201|Fiodoras Grigorovičius]]: Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.
 - susijęs iš [[objektai/asmenys/Stanislovas Strumila Petravičius.md#claim-t-186166|Stanislovas Strumila Petravičius]]: Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
 - susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
@@ -246,13 +250,13 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumas: priklause -> Seversko žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugardas išvardytas kaip Seversko žemės dalis.
     - t-004
 
 - c-005
@@ -276,13 +280,13 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Seversko žemė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šich Achmetas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Šich Achmetas tiesiogiai nurodytas kaip užpuolęs Seversko žemę.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1329306-1329653; hash=5ac83a71ab02a7875157bc4817e4f6fd2807f31bac863ed73774d658a2847456; match=exact
@@ -294,3 +298,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   ryšio_subjekto_parinkimas: Seversko žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemė" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Šich Achmetas]] puole Seversko žemė
+- [[objektai/vietos/Naugardas]] priklause Seversko žemė
+- [[objektai/vietos/Rylskas]] priklause Seversko žemė

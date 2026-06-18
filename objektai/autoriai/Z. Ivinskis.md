@@ -98,7 +98,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   global_id: t-05581
   teiginys: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   sudarymo_pagrindimas: 'Teiginys apie Z. Ivinskio interpretaciją tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -121,20 +121,20 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė apie glaudų politinį veikimą leidžia atsargiai fiksuoti politinę sąveiką tarp rygiečių ir Gedimino.
 
 <a id="claim-t-179567"></a>
 - t-007
   global_id: t-179567
   teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia Ivinskio interpretaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]'
+  susije_objektai: 'llm_object: Kuršas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
@@ -301,13 +301,13 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Gediminas: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rygiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė apie glaudų politinį veikimą leidžia atsargiai fiksuoti politinę sąveiką tarp rygiečių ir Gedimino.
     - t-007
 
 - c-007

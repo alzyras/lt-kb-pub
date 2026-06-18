@@ -68,6 +68,7 @@ amziai:
   ryšio_targeto_parinkimas: NKVD: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perloja" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
+- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63405|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.
 - susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
 - susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
@@ -77,6 +78,8 @@ amziai:
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-183662|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41086|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
 - susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
+- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-183662|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
+- susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41086|Marcinkonių batalionas]]: Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,3 +144,6 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Marcinkonių batalionas]] puole Perloja

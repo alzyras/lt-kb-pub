@@ -47,7 +47,8 @@ Nenurodyta
   teiginys: '1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo.'
-  susije_objektai: 'territory: Lietuva; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; llm_object: [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)|Vytenio užimta Karkuso pilis (1298 m.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] užėmė [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)|Vytenio užimta Karkuso pilis (1298 m.)]]'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo.'
@@ -56,14 +57,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vytenis: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Livonija: candidate; Ryga: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vytenis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Ryga.md", "selected": false, "strategy": "candidate", "title": "Ryga", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra.
 
 ## Reikšmingi paminėjimai
 
@@ -90,11 +90,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vytenis: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Livonija: candidate; Ryga: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vytenis" parinktas kaip nearest_actor_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Ryga.md", "selected": false, "strategy": "candidate", "title": "Ryga", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra.
+
+## Ryšiai
+- [[objektai/asmenys/Vytenis]] uzeme Vytenio užimta Karkuso pilis (1298 m.)

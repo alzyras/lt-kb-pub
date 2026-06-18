@@ -41,7 +41,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169144
   teiginys: 'Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atsargiai perteikia citatoje nurodytą lokalizacijos prielaidą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Nemunas; mentioned_place: Skalvių pilis'
+  susije_objektai: 'llm_object: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Nemunas; mentioned_place: Skalvių pilis'
+  semantiniai_rysiai: 'Skalvių pilis priklausė Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atsargiai perteikia citatoje nurodytą lokalizacijos prielaidą.'
@@ -62,7 +63,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169146
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatoje pateiktą pareiškimą.'
-  susije_objektai: 'mentioned_place: Karaliaučius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Karaliaučius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  semantiniai_rysiai: 'Ragainė priklausė Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatoje pateiktą pareiškimą.'
@@ -86,7 +88,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169148
   teiginys: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Ragainė nurodoma tarp Ordino administracinių centrų.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Ragainė priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Ragainė nurodoma tarp Ordino administracinių centrų.'
@@ -128,13 +131,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karaliaučius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karaliaučius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Karaliaučius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai.
 
 <a id="claim-t-169153"></a>
 - t-009
@@ -163,7 +166,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169154
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia 1412 m. Lietuvos bajorų pareiškimą apie Ragainę.'
-  susije_objektai: 'mentioned_place: Karaliaučius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Karaliaučius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  semantiniai_rysiai: 'Ragainė priklausė Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia 1412 m. Lietuvos bajorų pareiškimą apie Ragainę.'
@@ -172,13 +176,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259374-259656; hash=d96eb500c4fc001339a46feba27cb7f6a9ee5807ab433ea293d5db0c5a61b916; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ragainė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draika: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Draika buvo nuvestas į Ragainę.
 
 <a id="claim-t-169155"></a>
 - t-011
@@ -194,20 +198,21 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karaliaučius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karaliaučius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Karaliaučius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai.
 
 <a id="claim-t-169156"></a>
 - t-012
   global_id: t-169156
   teiginys: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Bertoldo vaidmenį Ragainėje ir vėlesnį paskyrimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]'
+  susije_objektai: 'llm_object: Ragainė; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas|Bertoldas]] valdė Ragainė'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
@@ -226,7 +231,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169157
   teiginys: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žygius iš Ragainės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1361 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie žygius iš Ragainės.'
@@ -269,13 +274,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ragainė įvardyta kaip Ordino administracinis centras.
 
 <a id="claim-t-169160"></a>
 - t-016
@@ -300,7 +305,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - t-017
   global_id: t-169161
   teiginys: 'Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_place: Aukaimis; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Ragainė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_place: Aukaimis; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Draika|Draika]] keliavo į Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -308,13 +314,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 486300-487040; hash=9e67d815c80c8871a4e1096ea174e3f4af718778d26692b434243c330998edd5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ragainė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja Skalvių pilį Ragainėje.
 
 <a id="claim-t-169162"></a>
 - t-018
@@ -361,7 +367,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169164
   teiginys: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia datą, veikėjus ir Ragainės pilies užpuolimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'llm_object: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1315 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia datą, veikėjus ir Ragainės pilies užpuolimą.'
@@ -370,13 +377,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1ea1353a2042acef83b9b1fdc0658b19f53c3c41e5801a0af5ad5f664786caec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Ragainė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai.
 
 <a id="claim-t-169165"></a>
 - t-021
@@ -408,7 +415,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; pasirinktas aiškus citatos faktas apie Ragainę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; llm_object: Ragainė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Ragainė'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -439,13 +447,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 651603-652182; hash=2e87a2d328b499113d15e9aefc9f4ef311e57fc3eca9bc65fbeaa8fa4768ea03; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ragainė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai užpuolė Ragainės pilį.
 
 <a id="claim-t-185120"></a>
 - t-024
@@ -458,6 +466,18 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kaunas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-020
+- susijęs iš [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.).md#claim-t-70964|Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius.
+- susijęs iš [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.).md#claim-t-62452|Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.
+- susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
+- susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
+- susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
+- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-184096|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
+- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-60351|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
+- susijęs iš [[objektai/asmenys/Otonas iš Bergo.md#claim-t-60401|Otonas iš Bergo]]: 1294 m. Otonas iš Bergo su Ditrichu iš Ezbeko ir Otonu iš Cedlico buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Otonas iš Cedlico.md#claim-t-60402|Otonas iš Cedlico]]: 1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59878|Bertoldas, vadinamas Briuhavenu]]: Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.
@@ -519,6 +539,8 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58802|pilėnas pilėnai]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-58882|pilėnas]]: 1301 m. Aukaimio pilėnas Draika norėjo išsižadėti stabų garbinimo ir slapta kreipėsi pagalbos į Ragainės komtūrą Folradą.
 - susijęs iš [[objektai/zodynas/stabų garbinimas stabmeldystė.md#claim-t-58925|stabų garbinimas stabmeldystė]]: 1301 m. Aukaimio pilėnas Draika panoro išsižadėti stabų garbinimo ir per sūnų Piną paprašė Ragainės komtūro Folrado pagalbos.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59878|Bertoldas, vadinamas Briuhavenu]]: Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
@@ -688,6 +710,22 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58779|papilys]]: 1317 m. Fridrichas iš Libencelės nesėkmingai bandė paimti Gedimino pilį, tačiau Ordino broliams pavyko sudeginti jos papilį.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
+- susijęs iš [[objektai/asmenys/Pinas.md#claim-t-60413|Pinas]]: Aukaimio pilėnas Draika slaptai pasiuntė savo sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš Skalvių pilis (pilis, XIII a.): Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
+- susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
+- susijęs iš [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje.md#claim-t-59718|Žuvų tvenkinys Ragainės pilyje (pilis)]]: Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-183959|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
+- susijęs iš [[objektai/paprociai/Burtų metimas prieš karo išpuolį.md#claim-t-62110|Burtų metimas prieš karo išpuolį]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.
+- susijęs iš [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus.md#claim-t-62672|Burtų traukimas prieš svarbesnius darbus]]: Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės.
+- susijęs iš Skalvių pilis (pilis, XIII a.): Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.
+- susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66825|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
+- susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62905|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: 1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais.
+- susijęs iš Aukaimio pilis (pilis): Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
+- susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -765,13 +803,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1ea1353a2042acef83b9b1fdc0658b19f53c3c41e5801a0af5ad5f664786caec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Ragainė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai.
     - t-005
 
 - c-005
@@ -831,13 +869,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ragainė įvardyta kaip Ordino administracinis centras.
     - t-019
 
 - c-008
@@ -947,13 +985,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259374-259656; hash=d96eb500c4fc001339a46feba27cb7f6a9ee5807ab433ea293d5db0c5a61b916; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ragainė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Draika: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Draika buvo nuvestas į Ragainę.
     - t-013
 
 - c-012
@@ -999,13 +1037,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karaliaučius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karaliaučius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Karaliaučius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 483705-485373; hash=f2a1efed55fa49c7b326950a1cf16c189d4eca7b2e08607c10c91705c6ee2381; match=whitespace_regex
@@ -1040,13 +1078,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 486300-487040; hash=9e67d815c80c8871a4e1096ea174e3f4af718778d26692b434243c330998edd5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ragainė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja Skalvių pilį Ragainėje.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 483705-485373; hash=f2a1efed55fa49c7b326950a1cf16c189d4eca7b2e08607c10c91705c6ee2381; match=whitespace_regex
@@ -1138,13 +1176,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karaliaučius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karaliaučius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Karaliaučius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Ragainė kitados priklausė Lietuvai.
     - t-012
 
 - c-019
@@ -1207,11 +1245,34 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 651603-652182; hash=2e87a2d328b499113d15e9aefc9f4ef311e57fc3eca9bc65fbeaa8fa4768ea03; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ragainė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Ragainė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai užpuolė Ragainės pilį.
     - t-024
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Ragainė
+- Ragainė priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Otonas iš Bergo]] siunte_i Ragainė
+- [[objektai/asmenys/Otonas iš Cedlico]] siunte_i Ragainė
+- [[objektai/asmenys/Bertoldas]] valde Ragainė
+- [[objektai/asmenys/Ditrichas iš Ezbeko]] gyne Ragainė
+- [[objektai/asmenys/Ditrichas iš Ezbeko]] siunte_i Ragainė
+- [[objektai/asmenys/Draika]] keliavo_i Ragainė
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] puole Ragainė
+- Ragainė priklause [[objektai/vietos/Skalva]]
+- [[objektai/vietos/Skalvių pilis|Skalvių pilis (pilis, XIII a.)]] priklause Ragainė
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] gyne Ragainė
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] valde Ragainė
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] surenge_zygi_i Ragainė
+- [[objektai/asmenys/Pinas]] keliavo_i Ragainė
+- Ragainė priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Aleksandras Karijotaitis]] puole Ragainė
+- [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]] priklause Ragainė
+- [[objektai/asmenys/Draika]] siunte_i Ragainė
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Ragainė
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Ragainė

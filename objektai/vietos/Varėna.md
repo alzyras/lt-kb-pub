@@ -32,7 +32,7 @@ amziai:
   global_id: t-172033
   teiginys: 'Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'location: Alytus; mentioned_place: Alytus; mentioned_place: Šeštokai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Šeštokai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,8 @@ amziai:
   global_id: t-172035
   teiginys: 'Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti veikėją ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Varėna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Varėna'
   pagrindžia:
     - c-004
 
@@ -50,7 +51,8 @@ amziai:
   global_id: t-172037
   teiginys: 'Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.'
   sudarymo_pagrindimas: 'Patikslintas kontekstas ir išlaikyta citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: 'Varėna priklausė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -62,6 +64,7 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172102|Husitai]]: 1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78692|Šarvuotasis traukinys Gediminas]]: Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66459|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
@@ -77,6 +80,7 @@ amziai:
 - susijęs iš Juodoji Ančia: Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 - susijęs iš Lazdijai: Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.
 - susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
+- susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41367|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -139,3 +143,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Husitai]] keliavo_i Varėna
+- [[objektai/grupes/Lenkai]] uzeme Varėna
+- Varėna priklause [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkai]] valde Varėna

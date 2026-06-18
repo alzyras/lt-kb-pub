@@ -50,7 +50,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78415
   teiginys: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata apie tikinčiuosius pamedėnus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena; llm_object: [[objektai/grupes/Pamedėnai|Pamedėnai]]; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė [[objektai/grupes/Pamedėnai|Pamedėnai]]'
   pagrindžia:
     - c-006
     - c-011
@@ -80,7 +81,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78419
   teiginys: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie pamedėnus, bet pradinėje formuluotėje trūko aiškaus objekto.'
-  susije_objektai: 'mentioned_place: Pamedė'
+  susije_objektai: 'llm_object: Pamedė; mentioned_place: Pamedė'
+  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Pamedė'
   pagrindžia:
     - c-009
 
@@ -89,7 +91,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78420
   teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pamedėną Joną ir jo pilį.'
-  susije_objektai: 'owner: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   semantiniai_rysiai: 'Belichovas priklausė [[objektai/grupes/Pamedėnai|Pamedėnai]]'
   pagrindžia:
     - c-010
@@ -105,13 +107,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a1c2fcc6f600c60fd41e230348f813b324e68832480c58c19069ea545fd7bc43; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pamedėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedėnai" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Pamedė: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pamedėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Pamedės žemės Reisių valsčiuje gyveno žmonės, teiginyje įvardyti kaip pamedėnai.
 
 <a id="claim-t-78422"></a>
 - t-007
@@ -149,13 +151,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0fefd5f7aeb38b4d9c493e13c7b46f187e7e18838f9a2ead1be96a0c02df6c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Belichovas: 0.83
+  ryšio_patikimumas: puole -> Pamedėnai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pamedėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Belichovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedėnai" parinktas kaip owner_note_path. Targetas "Belichovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamedėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim teigia, kad pagudėnai puolė pilaitę, kurioje gyveno pamedėnai; ryšys į pamedėnus remiasi apgyventos pilaitės puolimu.
 
 <a id="claim-t-78424"></a>
 - t-009
@@ -187,6 +189,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
 - susijęs iš [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu.md#claim-t-62688|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]: Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
 - susijęs iš Senasis Kristburgas: Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.
+- susijęs iš Senasis Kristburgas: Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
@@ -207,6 +210,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58845|atsimetėliai naujakrikščiai atsimetėliai]]: Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
+- susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -277,13 +282,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b0fefd5f7aeb38b4d9c493e13c7b46f187e7e18838f9a2ead1be96a0c02df6c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Belichovas: 0.83
+  ryšio_patikimumas: puole -> Pamedėnai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pamedėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Belichovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedėnai" parinktas kaip owner_note_path. Targetas "Belichovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamedėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim teigia, kad pagudėnai puolė pilaitę, kurioje gyveno pamedėnai; ryšys į pamedėnus remiasi apgyventos pilaitės puolimu.
     - t-007
 
 - c-004
@@ -412,13 +417,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a1c2fcc6f600c60fd41e230348f813b324e68832480c58c19069ea545fd7bc43; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pamedėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamedėnai" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Pamedė: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pamedėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Pamedės žemės Reisių valsčiuje gyveno žmonės, teiginyje įvardyti kaip pamedėnai.
     - t-009
 
 - c-009
@@ -495,3 +500,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Ryšiai
 - [[objektai/vietos/Belichovas]] priklause Pamedėnai
+- Pamedėnai gyveno [[objektai/vietos/Pamedė]]
+- [[objektai/vietos/Senasis Kristburgas]] priklause Pamedėnai
+- [[objektai/asmenys/Henrikas iš Veidos]] kariavo_pries Pamedėnai
+- [[objektai/grupes/Pagudėnai]] puole Pamedėnai
+- Pamedėnai gyveno [[objektai/vietos/Senasis Kristburgas]]

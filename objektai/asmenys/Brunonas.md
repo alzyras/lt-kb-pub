@@ -174,3 +174,10 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   ryšio_subjekto_parinkimas: Brunonas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunonas" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Brunonas puole [[objektai/grupes/Lietuviai]]
+- Brunonas keliavo_i [[objektai/vietos/Prieglius]]
+- Brunonas puole [[objektai/vietos/Treiderės upė]]
+- Brunonas mire [[objektai/vietos/Lietuva]]
+- Brunonas mire [[objektai/vietos/Rusija]]

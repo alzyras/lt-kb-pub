@@ -36,13 +36,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 555274-555738; hash=8a28a92b4195b8480f500f17f99e19908eaf4fbc515093ce148c69754e7e1971; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Šv. Onos bažnyčia Vilniuje: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Onos bažnyčia Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad karalius Žygimantas Augustas pradėjo statyti Šv. Onos bažnyčią.
 
 <a id="claim-t-174592"></a>
 - t-002
@@ -68,7 +68,8 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   global_id: t-174593
   teiginys: 'Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie statybos pradžią ir paskirtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  susije_objektai: 'llm_object: Šv. Onos bažnyčia Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Šv. Onos bažnyčia Vilniuje'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -210,13 +211,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 555274-555738; hash=8a28a92b4195b8480f500f17f99e19908eaf4fbc515093ce148c69754e7e1971; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Onos bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Šv. Onos bažnyčia Vilniuje: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Šv. Onos bažnyčia Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Quote tiesiogiai nurodo, kad karalius Žygimantas Augustas pradėjo statyti Šv. Onos bažnyčią.
     - t-005
 
 - c-004
@@ -315,3 +316,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=95
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Onos bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] pastate Šv. Onos bažnyčia Vilniuje

@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-01892
   teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citata, bet verta aiškiai įvardyti paliaubas pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: po 1629 m.; įvykio data: 1629 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, bet verta aiškiai įvardyti paliaubas pagal objekto pavadinimą.'
@@ -51,13 +51,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3ff47dd21a7d3d67e854cae5244cad9fb08f34115deede50cec5d405a0b89ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: sudare_sutarti_su -> Švedai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štumdorfo paliaubos (1635 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štumdorfo paliaubos (1635 m.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkų bajorija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paliaubos sudarytos su švedais, kurie tame pačiame kontekste įvardyti kaip kita šalis.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +80,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3ff47dd21a7d3d67e854cae5244cad9fb08f34115deede50cec5d405a0b89ff; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: sudare_sutarti_su -> Švedai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štumdorfo paliaubos (1635 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štumdorfo paliaubos (1635 m.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkų bajorija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Paliaubos sudarytos su švedais, kurie tame pačiame kontekste įvardyti kaip kita šalis.

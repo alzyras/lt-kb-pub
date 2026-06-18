@@ -39,20 +39,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e2c4b8462b12c859d34f828c5a6513e25ff1d98e81bef0937e19bec78e58efca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kražiai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kražiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kazokai šturmavo Kražių bažnyčią.
 
 <a id="claim-t-65305"></a>
 - t-002
   global_id: t-65305
   teiginys: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   sudarymo_pagrindimas: 'Originalas buvo fragmentiškas sąrašo elementas, todėl performuluotas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Švedai|Švedai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] puolė [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -71,19 +72,20 @@ amziai:
   global_id: t-65306
   teiginys: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta perteklinė skliaustinė detalė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; llm_object: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Ukraina'
+  semantiniai_rysiai: '[[objektai/grupes/Janičarai|Janičarai]] puolė [[objektai/grupes/Kazokai|Kazokai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eed62762cb00045bb04c59ce4a871e775c62cb960f0227fa351c587183a37afd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumas: puole -> Švedai: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos totoriai minimi tame pačiame sparne, kurio uždavinys buvo nublokšti švedus.
 
 <a id="claim-t-65307"></a>
 - t-004
@@ -99,20 +101,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e1f5b56b0936af7dfd89ac4008d05b8b279059da4b3b0e759489d2d2d44b8d2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Janičarai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Janičarai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Janičarai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kazokai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Janičarai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad janičarai atakavo Ukrainos kazokų stovyklą.
 
 <a id="claim-t-65308"></a>
 - t-005
   global_id: t-65308
   teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kazokų veiksmus Kražiuose.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Kražių skerdynėmis“|„Kražių skerdynėmis“]]; mentioned_place: Europa; mentioned_place: Kražiai'
+  susije_objektai: 'llm_object: Kražiai; llm_object: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Kražių skerdynėmis“|„Kražių skerdynėmis“]]; mentioned_place: Europa; mentioned_place: Kražiai'
+  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] puolė Kražiai; [[objektai/grupes/Kazokai|Kazokai]] dalyvavo mūšyje [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]'
   temporaliniai_duomenys: 'įvykio data: 1893 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kazokų veiksmus Kražiuose.'
@@ -150,6 +153,14 @@ amziai:
   ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
+- susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
+- susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
+- susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
+- susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/asmenys/Fulvio Ruggieri.md#claim-t-78983|Fulvio Ruggieri]]: Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą.
 - susijęs iš [[objektai/asmenys/Leontijus Bennigsenas.md#claim-t-40305|Leontijus Bennigsenas]]: Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
@@ -241,6 +252,8 @@ amziai:
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Vitebskas: Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.
+- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
+- susijęs iš Dniestras: Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -303,13 +316,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9e1f5b56b0936af7dfd89ac4008d05b8b279059da4b3b0e759489d2d2d44b8d2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Janičarai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Janičarai: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Janičarai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kazokai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Janičarai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad janičarai atakavo Ukrainos kazokų stovyklą.
     - t-002
 
 - c-004
@@ -362,13 +375,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eed62762cb00045bb04c59ce4a871e775c62cb960f0227fa351c587183a37afd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumas: puole -> Švedai: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos totoriai minimi tame pačiame sparne, kurio uždavinys buvo nublokšti švedus.
     - t-006
 
 - c-006
@@ -419,13 +432,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e2c4b8462b12c859d34f828c5a6513e25ff1d98e81bef0937e19bec78e58efca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kražiai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kražiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kazokai šturmavo Kražių bažnyčią.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 472094-472332; hash=568d9521dd9fcbce6830feaa1193b5466e8adc32e50f420172aca5eb69585b01; match=exact
@@ -439,5 +452,27 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Kazokai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- Kazokai uzeme [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]] buvo_sajungininkas_su Kazokai
+- Kazokai dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- Kazokai puole [[objektai/vietos/Kražių bažnyčia]]
+- Kazokai buvo_sajungininkas_su [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/grupes/Janičarai]] puole Kazokai
+- Kazokai buvo_sajungininkas_su [[objektai/grupes/Rusai]]
+- Kazokai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Kazokai puole [[objektai/vietos/Kražiai]]
+- Kazokai uzeme [[objektai/vietos/Vilnius]]
+- Kazokai gyne [[objektai/vietos/Podolė]]
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Kazokai
+- Kazokai kariavo_pries [[objektai/grupes/Totoriai]]
+- Kazokai reme [[objektai/asmenys/Leontijus Bennigsenas]]
+- Kazokai dalyvavo_musyje [[objektai/ivykiai/Kražių įvykiai]]
+- Kazokai keliavo_i [[objektai/vietos/Dniepras]]
+- Kazokai uzeme [[objektai/vietos/Kaunas]]
+- Kazokai uzeme [[objektai/vietos/Trakai]]
+- Kazokai surenge_zygi_i [[objektai/vietos/Mozyrius]]
+- Kazokai surenge_zygi_i [[objektai/vietos/Starodubas]]
+- Kazokai keliavo_i [[objektai/vietos/Lojevas]]
+- Kazokai puole [[objektai/vietos/Mozyrius]]
+- Kazokai puole [[objektai/vietos/Starodubas]]
+- [[objektai/grupes/Totoriai]] buvo_priesas Kazokai
+- Kazokai puole [[objektai/grupes/Švedai]]

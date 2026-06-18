@@ -30,8 +30,7 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   global_id: t-60453
   teiginys: '1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'territory: Čekija; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Dobrynė; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)|Vaclovas (Čekijos ir Lenkijos karalius)]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Dobrynė; mentioned_place: Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas (Čekijos ir Lenkijos karalius) buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
@@ -40,14 +39,13 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7feb1ddf1ef053ba926a82abd2dd27220f026fe7aca5c6bff0e52f5c14f52beb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vaclovas (Čekijos ir Lenkijos karalius): owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Dobrynė: candidate; Lenkija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vaclovas (Čekijos ir Lenkijos karalius)" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dobrynė.md", "selected": false, "strategy": "candidate", "title": "Dobrynė", "type": "place"}, {"distance_to_predicate": 35, "match_index": 52, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vaclovas (Čekijos ir Lenkijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaclovas (Čekijos ir Lenkijos karalius)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,14 +68,10 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7feb1ddf1ef053ba926a82abd2dd27220f026fe7aca5c6bff0e52f5c14f52beb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vaclovas (Čekijos ir Lenkijos karalius): owner_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Dobrynė: candidate; Lenkija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vaclovas (Čekijos ir Lenkijos karalius)" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dobrynė.md", "selected": false, "strategy": "candidate", "title": "Dobrynė", "type": "place"}, {"distance_to_predicate": 35, "match_index": 52, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Vaclovas (Čekijos ir Lenkijos karalius) buvo_valdovas [[objektai/vietos/Čekija]]
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vaclovas (Čekijos ir Lenkijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaclovas (Čekijos ir Lenkijos karalius)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

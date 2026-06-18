@@ -29,20 +29,21 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a53bd5f68b2d8b5c236f4ca81426e0f120d64b4ff40473161d514d0c0aa7a975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naudžiotas (karvedys): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naudžiotas (karvedys)" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Naudžiotas (karvedys): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naudžiotas (karvedys): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sembai tiesiogiai įvardyti kaip išsirinkę Naudžiotą karvedžiu.
 
 <a id="claim-t-60180"></a>
 - t-002
   global_id: t-60180
   teiginys: 'Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apkrautas kontekstu, citata remia glaustą faktą apie Naudžioto vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Naudžiotas|Naudžiotas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] paskyrė [[objektai/asmenys/Naudžiotas|Naudžiotas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -107,10 +108,13 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a53bd5f68b2d8b5c236f4ca81426e0f120d64b4ff40473161d514d0c0aa7a975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naudžiotas (karvedys): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naudžiotas (karvedys)" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Naudžiotas (karvedys): 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naudžiotas (karvedys): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sembai tiesiogiai įvardyti kaip išsirinkę Naudžiotą karvedžiu.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] paskyre Naudžiotas (karvedys)

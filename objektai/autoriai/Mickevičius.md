@@ -22,19 +22,19 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
   global_id: t-05717
   teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklines detales ir sutvarkyti enciklopedinę formą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]'
+  susije_objektai: 'llm_object: Rusija; mentioned_place: Kaunas; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; llm_object: Kaunas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=956b71ae7a9281068c2e29b0b26c2c884a02f1adbf6a7cde5df9fb037a9ffc3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mickevičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mickevičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Adomas Mickevičius (poetas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Adomas Mickevičius buvo ištremtas į Rusiją.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45926|Adomas Mickevičius (poetas)]]: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45930|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti.
@@ -75,10 +75,10 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=956b71ae7a9281068c2e29b0b26c2c884a02f1adbf6a7cde5df9fb037a9ffc3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mickevičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mickevičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Adomas Mickevičius (poetas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Adomas Mickevičius buvo ištremtas į Rusiją.

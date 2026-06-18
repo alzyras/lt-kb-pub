@@ -77,6 +77,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
 - susijęs iš [[objektai/autoriai/Bełch, St. J.md#claim-t-29306|Bełch, St. J]]: St. J. Bełchas 1956 m. paskelbė darbą „Falkenberg“ ir 1965 m. Londone išleistą veikalą apie Pauliaus Vladimiri doktriną.
 - susijęs iš [[objektai/autoriai/Schmalstieg W. R.md#claim-t-60785|Schmalstieg W. R]]: W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.
 - susijęs iš Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego: W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m.
@@ -170,3 +171,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   ryšio_subjekto_parinkimas: Londonas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ispanija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Londonas" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Antanas Kazimeras Žemaitis]] gime Londonas

@@ -46,13 +46,13 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b37e37c9d5027ce3d1bc83e521c36a215bfb11de253a2e606cd9caa33b533a73; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poznanė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poznanė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžioji Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Didžioji Lenkija buvo viena iš Lenkijos provincijų.
 
 <a id="claim-t-114852"></a>
 - t-002
@@ -179,7 +179,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-009
   global_id: t-114861
   teiginys: 'Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Viena; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; llm_object: Didžioji Lenkija'
+  semantiniai_rysiai: 'Poznanė priklausė Didžioji Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -470,13 +471,13 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b37e37c9d5027ce3d1bc83e521c36a215bfb11de253a2e606cd9caa33b533a73; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poznanė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poznanė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžioji Lenkija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Didžioji Lenkija buvo viena iš Lenkijos provincijų.
     - t-002
 
 - c-006
@@ -616,3 +617,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   ryšio_targeto_parinkimas: Gnieznas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poznanė" parinktas kaip owner_note_path. Targetas "Gnieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-013
+
+## Ryšiai
+- Poznanė priklause [[objektai/vietos/Didžioji Lenkija]]

@@ -33,26 +33,27 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-58379
   teiginys: 'Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas; citata pagrindžia puolimo rezultatą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]]; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  susije_objektai: 'llm_object: Bisenė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]]; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Bisenė; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] apgulė Bisenė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 645087-645516; hash=c8fde366335938d13a537ab6ace9858f6c6964230c9f5826af1a09328f5bbd16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Plockės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo ilgą Bisenės pilies puolimą.
 
 <a id="claim-t-58380"></a>
 - t-002
   global_id: t-58380
   teiginys: '1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas; citata pagrindžia asmenį, veiksmą, vietą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_place: Kristmemelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_place: Kristmemelis; llm_object: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir per ilgas; citata pagrindžia asmenį, veiksmą, vietą ir rezultatą.'
@@ -74,7 +75,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-58381
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir dar vienas brolis su Ragainės ginklanešiais sudegino tuščią Bisenės pilį iki pamatų.'
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškų žodį „broliai“ į citatoje nurodytus asmenis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Ragainė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Bisenė'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]] puolė Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti neaiškų žodį „broliai“ į citatoje nurodytus asmenis.'
@@ -83,13 +85,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8c9abe281789fc5462cfae9b4122c8eaf729f27e7178ac099ad6ba369f3bc87a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Fridrichas nužygiavo link Lietuvos.
 
 <a id="claim-t-58382"></a>
 - t-004
@@ -105,13 +107,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 656590-657213; hash=d61659692a7528a1ea4accd47a7d4c8f9dc8f01778456f41cfed52b4f77be640; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.83
+  ryšio_patikimumas: puole -> Lietuviai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridrichas Kvicas buvo tarp brolių, kurie susidūrė su lietuvių pamainine sauga ir nukovė šešis vyrus.
 
 <a id="claim-t-184933"></a>
 - t-005
@@ -121,7 +123,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: Bisenė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, veiksmą ir objektą.'
@@ -130,14 +133,25 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 356716-357304; hash=3ebd2107a72dcfa7eaf2f57ab2a7d10210bc6d023795306b0b5557a05a69ffbb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bisenė: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kryžiuočių pulkai apgulė Bisenės pilį.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86984|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178938|Kryžiuočių ordinas]]: Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66499|Bisenės pilies užkariavimas]]: Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
+- susijęs iš [[objektai/daiktai/Sunkieji ginklai.md#claim-t-87123|Sunkieji ginklai]]: Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66499|Bisenės pilies užkariavimas]]: Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.
+- susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59950|Ditrichas iš Altenburgo]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.
+- susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59950|Ditrichas iš Altenburgo]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59954|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: 1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius.
@@ -155,6 +169,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66500|Bisenės pilies užkariavimas]]: Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.
 - susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86984|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.
 - susijęs iš [[objektai/daiktai/Sunkieji ginklai.md#claim-t-87123|Sunkieji ginklai]]: Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
@@ -169,6 +184,16 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58772|papilys]]: 1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.
 - susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184635|pilėnas]]: Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs.
+- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59957|Fridrichas Kvicas]]: 1316 m. balandžio 4 d. Fridrichas Kvicas su Ditrichu iš Altenburgo, dar vienu broliu ir trimis Ragainės ginklanešiais patraukė link Bisenės pilies.
+- susijęs iš [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.).md#claim-t-185554|Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]: Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti.
+- susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
+- susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.).md#claim-t-59490|Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.
+- susijęs iš [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.).md#claim-t-59490|Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir jų palyda įėjo į tuščią Bisenės pilį ir ją sudegino.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179282|Lietuviai]]: 1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175084|Sembai]]: 1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185497|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -207,13 +232,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 656590-657213; hash=d61659692a7528a1ea4accd47a7d4c8f9dc8f01778456f41cfed52b4f77be640; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.83
+  ryšio_patikimumas: puole -> Lietuviai: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Fridrichas Kvicas buvo tarp brolių, kurie susidūrė su lietuvių pamainine sauga ir nukovė šešis vyrus.
     - t-001
 
 - c-003
@@ -238,13 +263,13 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 645087-645516; hash=c8fde366335938d13a537ab6ace9858f6c6964230c9f5826af1a09328f5bbd16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Plockės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo ilgą Bisenės pilies puolimą.
     - t-002
 
 - c-004
@@ -309,24 +334,38 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8c9abe281789fc5462cfae9b4122c8eaf729f27e7178ac099ad6ba369f3bc87a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Fridrichas nužygiavo link Lietuvos.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 356716-357304; hash=3ebd2107a72dcfa7eaf2f57ab2a7d10210bc6d023795306b0b5557a05a69ffbb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bisenė: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kryžiuočių pulkai apgulė Bisenės pilį.
 
 ## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Bisenė
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Bisenė
+- [[objektai/grupes/Notangai]] puole Bisenė
+- [[objektai/asmenys/Henrikas iš Plockės]] puole Bisenė
 - [[objektai/asmenys/Henrikas iš Plockės]] apgule Bisenė
+- [[objektai/asmenys/Konradas]] puole Bisenė
+- [[objektai/asmenys/Konradas]] uzeme Bisenė
+- [[objektai/grupes/Lietuviai]] gyne Bisenė
+- [[objektai/asmenys/Ditrichas iš Altenburgo]] keliavo_i Bisenė
+- [[objektai/asmenys/Ditrichas iš Altenburgo]] surenge_zygi_i Bisenė
+- [[objektai/asmenys/Fridrichas Kvicas]] surenge_zygi_i Bisenė
+- [[objektai/asmenys/Ditrichas iš Altenburgo]] uzeme Bisenė
+- [[objektai/asmenys/Fridrichas Kvicas]] uzeme Bisenė
+- [[objektai/asmenys/Fridrichas Kvicas]] puole Bisenė
+- [[objektai/grupes/Sembai]] puole Bisenė

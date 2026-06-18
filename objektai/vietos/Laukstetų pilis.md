@@ -24,19 +24,19 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   global_id: t-58765
   teiginys: 'Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas Stange|Henrikas Stange]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas Stange|Henrikas Stange]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3b9756bfa006fdc779ceb6d68658d38bb0e9cea81131876b15f5d7a20c00bdb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Girmava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laukstetų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Girmava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laukstetų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Girmava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Stange tiesiogiai minimas kaip su kariuomene patraukęs į karą prieš Sembą.
 - susijęs iš Lochštetė: Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.
 ## Reikšmingi paminėjimai
 
@@ -60,10 +60,10 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3b9756bfa006fdc779ceb6d68658d38bb0e9cea81131876b15f5d7a20c00bdb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Girmava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laukstetų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Girmava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laukstetų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Girmava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Henrikas Stange tiesiogiai minimas kaip su kariuomene patraukęs į karą prieš Sembą.

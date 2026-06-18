@@ -28,20 +28,19 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Ponų Tarybos narių politinę poziciją ir yra paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Melnikas; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]'
-  semantiniai_rysiai: '[[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba]] rėmė [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Melnikas; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 653139-653537; hash=e5b82d15f1b5aa6d66b8a1e5464e80e38cf22a31800721166b327c6ac3256964; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Aleksandras: 0.88
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_support_local_target
-  ryšio_subjekto_parinkimas: LDK Ponų Taryba (institucija, XV a.): owner_note_path, group, gap=24
-  ryšio_targeto_parinkimas: Aleksandras: nearest_after_predicate, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_support_local_target". Subjektas "LDK Ponų Taryba (institucija, XV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip nearest_after_predicate aplink predikatą "reme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK Ponų Taryba (institucija, XV a.): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK Ponų Taryba (institucija, XV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187765"></a>
 - t-002
@@ -126,13 +125,13 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 653139-653537; hash=e5b82d15f1b5aa6d66b8a1e5464e80e38cf22a31800721166b327c6ac3256964; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Aleksandras: 0.88
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_support_local_target
-  ryšio_subjekto_parinkimas: LDK Ponų Taryba (institucija, XV a.): owner_note_path, group, gap=24
-  ryšio_targeto_parinkimas: Aleksandras: nearest_after_predicate, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_support_local_target". Subjektas "LDK Ponų Taryba (institucija, XV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip nearest_after_predicate aplink predikatą "reme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK Ponų Taryba (institucija, XV a.): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK Ponų Taryba (institucija, XV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -170,6 +169,3 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   ryšio_subjekto_parinkimas: LDK Ponų Taryba (institucija, XV a.): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK Ponų Taryba (institucija, XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
-## Ryšiai
-- LDK Ponų Taryba (institucija, XV a.) reme [[objektai/asmenys/Aleksandras]]

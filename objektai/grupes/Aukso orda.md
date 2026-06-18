@@ -81,20 +81,21 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 133160-133368; hash=1986204c3aafce56fbf611eef1916dfe4171b443100ff95770be447948063be4; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aukso orda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aukso orda puolė Lietuvą.
 
 <a id="claim-t-187438"></a>
 - t-004
   global_id: t-187438
   teiginys: 'Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Irpenė; mentioned_place: Kijevas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Irpenė; mentioned_place: Kijevas; llm_object: Kijevas'
+  semantiniai_rysiai: 'Kijevas priklausė [[objektai/grupes/Aukso orda|Aukso orda]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -102,13 +103,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e56f01aadd4a8e8886b270eb7104d534394e5caffc6d006cc4421790d9fbd56; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aukso orda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Aukso orda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Kijevą kaip pavaldų Aukso ordai.
 
 <a id="claim-t-187439"></a>
 - t-005
@@ -199,7 +200,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   global_id: t-187444
   teiginys: 'Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1328 m.; įvykio data: 1328 m.; įvykio data: 1331 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -220,7 +221,8 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   global_id: t-187447
   teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Aukso orda|Aukso orda]] puolė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -268,13 +270,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 133160-133368; hash=1986204c3aafce56fbf611eef1916dfe4171b443100ff95770be447948063be4; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aukso orda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Aukso orda puolė Lietuvą.
     - t-013
 
 - c-003
@@ -348,13 +350,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135137-135435; hash=06582118317ebca70f003578c7a1b2efd401377233adb5db35a97c3e0cf67219; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Kryžiuočių ordiną su Lietuvos puolimais.
     - t-009
 
 - c-006
@@ -443,13 +445,13 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e56f01aadd4a8e8886b270eb7104d534394e5caffc6d006cc4421790d9fbd56; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Aukso orda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Aukso orda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Kijevą kaip pavaldų Aukso ordai.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24eac25a46ef73e0d1b4f51cc5e16e5e105d1cb51f54a1a55ea105c8bd527912; match=fallback; occurrences=0
@@ -488,3 +490,7 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
   ryšio_subjekto_parinkimas: Aukso orda: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Tochtamišas: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukso orda" parinktas kaip owner_note_path. Targetas "Tochtamišas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Aukso orda puole [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Kijevas]] priklause Aukso orda

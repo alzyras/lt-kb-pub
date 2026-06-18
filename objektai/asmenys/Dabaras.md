@@ -37,6 +37,7 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184056|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59912|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
 - susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
+- susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,3 +62,6 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
   ryšio_subjekto_parinkimas: Dabaras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dabaras" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Dabaras

@@ -115,7 +115,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia sutarties pasirašymo faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia sutarties pasirašymo faktą.'
@@ -124,13 +124,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 527681-528126; hash=081b2a363c4f5fb034cdaaeb6216f74953ee263a4b5cf6e13a839ac66ee9ddc6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Borisas Jelcinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Borisas Jelcinas: mention_match, person, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)" parinktas kaip owner_note_path. Targetas "Borisas Jelcinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Borisas Jelcinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Borisas Jelcinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad V. Landsbergis ir B. Jelcinas pasirašė tą pačią sutartį.
 
 ## Reikšmingi paminėjimai
 
@@ -231,10 +231,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 527681-528126; hash=081b2a363c4f5fb034cdaaeb6216f74953ee263a4b5cf6e13a839ac66ee9ddc6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Borisas Jelcinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Borisas Jelcinas: mention_match, person, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)" parinktas kaip owner_note_path. Targetas "Borisas Jelcinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Borisas Jelcinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Borisas Jelcinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad V. Landsbergis ir B. Jelcinas pasirašė tą pačią sutartį.

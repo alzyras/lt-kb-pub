@@ -33,7 +33,8 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   global_id: t-78004
   teiginys: 'Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas tiesiogiai apie Joną Basanavičių.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Užnemunė'
+  susije_objektai: 'llm_object: Praha; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Užnemunė; llm_object: Užnemunė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]] gyveno Praha; [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]] gimė Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir padarytas tiesiogiai apie Joną Basanavičių.'
@@ -42,13 +43,13 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: 225013-225397; hash=2dcf6b6e70ce9155b57a21d52efa2d47f7628e0db41041594c2a72965f1a478f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Praha: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jonas Basanavičius tuo metu gyveno Prahoje.
 
 <a id="claim-t-78005"></a>
 - t-002
@@ -175,13 +176,13 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: 225013-225397; hash=2dcf6b6e70ce9155b57a21d52efa2d47f7628e0db41041594c2a72965f1a478f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Praha: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jonas Basanavičius tuo metu gyveno Prahoje.
     - t-003
 
 - c-003
@@ -228,3 +229,7 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas Basanavičius gyveno [[objektai/vietos/Praha]]
+- Jonas Basanavičius gime [[objektai/vietos/Užnemunė]]

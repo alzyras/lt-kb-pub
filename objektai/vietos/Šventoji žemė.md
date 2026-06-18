@@ -37,13 +37,13 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumas: uzeme -> Šventoji žemė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
-  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Arabai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šventoji žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai.
 
 <a id="claim-t-58408"></a>
 - t-002
@@ -83,7 +83,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   global_id: t-58410
   teiginys: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pradinė formuluotė buvo fragmentiška ir su boilerplate.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Jeruzalė; llm_object: Šventoji žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Arabai|Arabai]] užėmė Šventoji žemė; [[objektai/grupes/Arabai|Arabai]] puolė Šventoji žemė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -171,13 +172,13 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumas: uzeme -> Šventoji žemė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
-  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Arabai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šventoji žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai.
     - t-004
 
 - c-004
@@ -211,3 +212,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7753f0ba97885141e47d112f9c190287ac90e869b214046206c9b71443575574; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Arabai]] uzeme Šventoji žemė
+- [[objektai/grupes/Arabai]] puole Šventoji žemė

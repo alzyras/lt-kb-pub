@@ -53,7 +53,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   global_id: t-85858
   teiginys: 'Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje.'
   sudarymo_pagrindimas: 'Citata aiškiai palaiko faktą, bet reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Tikocinas'
+  semantiniai_rysiai: '[[objektai/daiktai/Ginklai|Ginklai]] priklausė Tikocinas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -97,13 +98,13 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 676152-676641; hash=2b718f3c433748ed5a16f709b8ab86620927eaae6c6894a7dcbf4f627a49b2d4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumas: priklause -> Tikocinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tikocinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocinas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad ginklai turi likti Tikocine, valdovo nuosavoje pilyje; tai paremta kaip daiktų priklausymas ar priskyrimas vietai.
 
 <a id="claim-t-185158"></a>
 - t-005
@@ -126,6 +127,10 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   ryšio_subjekto_parinkimas: Tikocinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Poleksija: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocinas" parinktas kaip owner_note_path. Targetas "Poleksija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
+- susijęs iš [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje.md#claim-t-185792|Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]: Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
+- susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
@@ -157,6 +162,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - susijęs iš Vilnius: Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno.
 - susijęs iš [[objektai/zodynas/magistratas miesto valdyba.md#claim-t-86536|magistratas miesto valdyba]]: Dešimties lenkiškų grivinų bauda turėjo būti atnešta į bet kurio karaliaus valdų miesto pilies arba miesto valdybą.
 - susijęs iš [[objektai/zodynas/signetas.md#claim-t-86641|signetas]]: Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.
+- susijęs iš Lenkijos karalystė: Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei.
+- susijęs iš Lenkijos karalystė: Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -235,13 +242,13 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   irodymo_stiprumas: 0.00
   saltinio_vieta: 676152-676641; hash=2b718f3c433748ed5a16f709b8ab86620927eaae6c6894a7dcbf4f627a49b2d4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumas: priklause -> Tikocinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tikocinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocinas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ginklai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad ginklai turi likti Tikocine, valdovo nuosavoje pilyje; tai paremta kaip daiktų priklausymas ar priskyrimas vietai.
     - t-003
 
 - c-003
@@ -363,3 +370,8 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   ryšio_subjekto_parinkimas: Tikocinas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Poleksija: mention_match, place, gap=25
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocinas" parinktas kaip owner_note_path. Targetas "Poleksija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Petras Goštautas]] keliavo_i Tikocinas
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Tikocinas
+- [[objektai/daiktai/Ginklai]] priklause Tikocinas

@@ -136,8 +136,28 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   ryšio_subjekto_parinkimas: Švedai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
+- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-183124|Chodkevičiai]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49165|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-183652|Bajorų konfederacija]]: Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.
+- susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-40861|Bajorų konfederacija]]: Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Chodkevičius.md#claim-t-18977|Jonas Karolis Chodkevičius]]: 1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
+- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
+- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79153|Povilas Sapiega]]: Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
+- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19666|Chodkevičiai]]: 1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183158|Lietuvos kariuomenė]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186374|Salaspilio (Kircholmo) mūšis (1605 m.)]]: 1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183157|Lietuvos kariuomenė]]: 1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.
+- susijęs iš [[objektai/ivykiai/ATR karai su Švedija XVII a.md#claim-t-20159|ATR karai su Švedija XVII a]]: Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.
+- susijęs iš [[objektai/asmenys/Jonas Kazimieras Vaza.md#claim-t-39751|Jonas Kazimieras Vaza]]: Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.
+- susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
+- susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30955|Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
+- susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30957|Rimberto, Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
+- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78945|Augustas II]]: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
+- susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
+- susijęs iš Klaipėda: Prūsijoje kai kurie uostai, tarp jų Klaipėda, šešeriems metams buvo palikti švedams.
+- susijęs iš Kuršas: Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.
+- susijęs iš Livonija: 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78945|Augustas II]]: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
@@ -241,6 +261,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/zodynas/konfederacija.md#claim-t-182954|konfederacija]]: Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.
 - susijęs iš [[objektai/zodynas/konfederacija.md#claim-t-70189|konfederacija]]: Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.
 - susijęs iš [[objektai/zodynas/rokošas.md#claim-t-03147|rokošas]]: Zebžidovskio rokošas buvo vidaus karas Lenkijoje, vykęs tuo metu, kai Lietuvoje buvo ką tik aprimęs karas su švedais.
+- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas (1656 m.).md#claim-t-39089|Žemaičių sukilimas (1656 m.)]]: 1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.
+- susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš [[objektai/asmenys/A. Liuneburgietis.md#claim-t-39696|A. Liuneburgietis]]: Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
 - susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
@@ -373,6 +395,22 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/zodynas/ratukinė-kibirkštinė spyna.md#claim-t-42502|ratukinė-kibirkštinė spyna]]: XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
+- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
+- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49166|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.
+- susijęs iš Salacgryva: Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.
+- susijęs iš Salacgryva: Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.
+- susijęs iš Seeburgas: VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.
+- susijęs iš [[objektai/asmenys/Mykolas Pacas.md#claim-t-79142|Mykolas Pacas]]: Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.
+- susijęs iš [[objektai/zodynas/konfederacija.md#claim-t-70189|konfederacija]]: Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.
+- susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
+- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
+- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
+- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
+- susijęs iš [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.).md#claim-t-01892|Štumdorfo paliaubos (1635 m.)]]: Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.
+- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
+- susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
+- susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
+- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -498,7 +536,43 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedai" parinktas kaip owner_note_path. Targetas "Švedija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Švedai
+- Švedai apgule [[objektai/vietos/Brasta]]
+- Švedai uzeme [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]]
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Švedai
+- Švedai apgule [[objektai/vietos/Lietuvos Brasta]]
+- Švedai puole [[objektai/vietos/Lietuva]]
+- Švedai uzeme [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Bajorų konfederacija]] kariavo_pries Švedai
-- Švedai uzeme [[objektai/vietos/Kuoknesė]]
-- Švedai uzeme [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Švedai
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Švedai
+- [[objektai/grupes/Kuršiai]] priklause Švedai
+- Švedai dalyvavo_musyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- Švedai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Švedai puole [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Augustas II]] kariavo_pries Švedai
+- [[objektai/vietos/Klaipėda]] priklause Švedai
+- [[objektai/vietos/Livonija]] priklause Švedai
+- [[objektai/vietos/Ryga]] priklause Švedai
+- Švedai dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Švedai
+- [[objektai/asmenys/Petras I Didysis]] kariavo_pries Švedai
+- [[objektai/vietos/Seeburgas]] priklause Švedai
+- Švedai uzkariavo [[objektai/grupes/Kuršiai]]
+- Švedai valde [[objektai/vietos/Seeburgas]]
+- [[objektai/asmenys/Mykolas Pacas]] kariavo_pries Švedai
+- [[objektai/grupes/Sapiegos]] buvo_sajungininkas_su Švedai
+- [[objektai/vietos/Talinas]] priklause Švedai
+- Švedai kariavo_pries [[objektai/grupes/Rusai]]
+- Švedai uzeme [[objektai/vietos/Lietuvos Brasta]]
+- Švedai valde_miesta [[objektai/vietos/Klaipėda]]
+- [[objektai/asmenys/Vaina]] puole Švedai
+- Švedai gyveno [[objektai/vietos/Sauslaukė]]
+- [[objektai/grupes/Lenkų bajorija]] sudare_sutarti_su Švedai
+- Švedai puole [[objektai/vietos/Palanga]]
+- [[objektai/grupes/Lietuvos totoriai]] kariavo_pries Švedai
+- Švedai dalyvavo_musyje [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- [[objektai/asmenys/Augustas II]] puole Švedai
+- [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]] priklause Švedai
+- Švedai keliavo_i [[objektai/vietos/Gotlandas]]
+- [[objektai/grupes/Kazokai]] puole Švedai
+- [[objektai/grupes/Lietuvos totoriai]] puole Švedai

@@ -77,6 +77,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   ryšio_subjekto_parinkimas: Prienai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prienai" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
+- susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
+- susijęs iš Ašminta: 1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
 - susijęs iš [[objektai/asmenys/J. Butkus.md#claim-t-40153|J. Butkus]]: J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
@@ -98,6 +101,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 - susijęs iš Lentvaris: V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi.
 - susijęs iš Pagaršvio upelis: 1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.
 - susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
+- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -282,3 +286,8 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   ryšio_subjekto_parinkimas: Prienai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: NKGB: mention_match, group, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prienai" parinktas kaip owner_note_path. Targetas "NKGB" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/P. Liatukas]] siunte_i Prienai
+- [[objektai/vietos/Ašminta]] priklause Prienai
+- [[objektai/asmenys/A. Žemaitis]] keliavo_i Prienai

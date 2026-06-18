@@ -36,9 +36,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
   ryšio_subjekto_parinkimas: Salos: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Varpai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salos" parinktas kaip owner_note_path. Targetas "Varpai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12314|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179487|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.
-- susijęs iš [[objektai/zodynas/apsaugos raštas.md#claim-t-36762|apsaugos raštas]]: Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-64674|K. Hartknochas]]: K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.

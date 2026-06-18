@@ -35,7 +35,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   global_id: t-181459
   teiginys: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie kronikos reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie kronikos reikšmę.'
@@ -57,7 +57,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   global_id: t-181461
   teiginys: 'Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -68,19 +68,19 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - t-004
   global_id: t-181462
   teiginys: 'Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; llm_object: Prūsija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
 
 <a id="claim-t-181463"></a>
 - t-005
@@ -92,13 +92,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
 
 <a id="claim-t-181464"></a>
 - t-006
@@ -124,7 +124,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   global_id: t-181466
   teiginys: 'Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -174,13 +174,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 106132-106779; hash=b44fe44991890f348360f7a3b33a6bfc3c19e5d999398ab3e76eecc008e29b23; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Teutonų namų ordino broliai atsikėlė į Prūsijos žemę.
 
 <a id="claim-t-181469"></a>
 - t-011
@@ -196,13 +196,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
 
 <a id="claim-t-181470"></a>
 - t-012
@@ -215,13 +215,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 5243-6109; hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ištrauka tiesiogiai mini lietuvių kovą prieš Kryžiuočių ordiną.
 
 <a id="claim-t-181471"></a>
 - t-013
@@ -250,7 +250,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   global_id: t-181472
   teiginys: 'Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka Dusburgiečiui priskirtą informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; llm_object: Kuršas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Livonija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka Dusburgiečiui priskirtą informaciją.'
@@ -271,7 +271,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - t-015
   global_id: t-181473
   teiginys: 'Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -311,7 +311,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   global_id: t-181475
   teiginys: 'Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia atkurti pilną sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija; llm_object: Prūsija'
   pagrindžia:
     - c-009
 
@@ -326,13 +326,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 106132-106779; hash=b44fe44991890f348360f7a3b33a6bfc3c19e5d999398ab3e76eecc008e29b23; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Teutonų namų ordino broliai atsikėlė į Prūsijos žemę.
 
 <a id="claim-t-183995"></a>
 - t-019
@@ -348,13 +348,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f0c5619e500a0b5806a6c9f2187a51f27b21ee69111388c1624843d6f69cef8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste lietuviai tiesiogiai siejami su Kuršo žemės niokojimu.
 - susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175145|M. Perlbachas]]: M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.
 - susijęs iš [[objektai/autoriai/M. Poliakuvna.md#claim-t-64726|M. Poliakuvna]]: M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.
 - susijęs iš [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.).md#claim-t-59643|Akono (Akros) žlugimas (1291 m.)]]: Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.
@@ -457,13 +457,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 5243-6109; hash=c6213f961ad7f1df93e926c813ee0e229de60d57f6396847ddc90d769db80d72; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ištrauka tiesiogiai mini lietuvių kovą prieš Kryžiuočių ordiną.
     - t-016
 
 - c-003
@@ -570,13 +570,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 96887-97587; hash=290e88a394e3fa1ca25d26f4e8b423dbcf11c1e9adc605d82341de4bdbf05d0b; match=exact
@@ -592,13 +592,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
     - t-019
 
 - c-007
@@ -623,13 +623,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f0c5619e500a0b5806a6c9f2187a51f27b21ee69111388c1624843d6f69cef8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste lietuviai tiesiogiai siejami su Kuršo žemės niokojimu.
     - t-001
 
 - c-008
@@ -746,13 +746,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43ea5ff666663102b486204b77fd7c44f1222a6de069e4f8f2d86f4b97648851; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai kalbama apie kryžiuočių užkariavimus Prūsijoje.
     - t-018
 
 - c-011
@@ -779,24 +779,24 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 106132-106779; hash=b44fe44991890f348360f7a3b33a6bfc3c19e5d999398ab3e76eecc008e29b23; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Teutonų namų ordino broliai atsikėlė į Prūsijos žemę.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 106132-106779; hash=b44fe44991890f348360f7a3b33a6bfc3c19e5d999398ab3e76eecc008e29b23; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Dusburgietis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Dusburgietis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištraukoje nurodyta, kad Teutonų namų ordino broliai atsikėlė į Prūsijos žemę.
     - t-002
 
 - c-012

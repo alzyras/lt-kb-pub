@@ -31,20 +31,21 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos senatas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos senatas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos senatas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lenkijos senato siųsti asmenys atvyko į Vilnių.
 
 <a id="claim-t-86759"></a>
 - t-002
   global_id: t-86759
   teiginys: 'Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Lenkijos senato pasiuntinius ir jų grasinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Sandomiras'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Sandomiras'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkijos senatas|Lenkijos senatas]] siuntė į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -110,19 +111,20 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą apie senato sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkijos senatas|Lenkijos senatas]] siuntė į Lietuva'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos senatas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos senatas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos senatas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad senatas nutarė siųsti pasiuntinybę į Lietuvą.
 
 <a id="claim-t-184540"></a>
 - t-006
@@ -229,13 +231,13 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos senatas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos senatas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos senatas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lenkijos senato siųsti asmenys atvyko į Vilnių.
     - t-003
 
 - c-004
@@ -335,13 +337,13 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   irodymo_stiprumas: 0.00
   saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos senatas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos senatas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkijos senatas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad senatas nutarė siųsti pasiuntinybę į Lietuvą.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 775713-776434; hash=c1d5ef83832af67317a564a31dc7a04d161191fd809a46c952bf336a6dbea184; match=exact
@@ -353,3 +355,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   ryšio_subjekto_parinkimas: Lenkijos senatas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos senatas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Lenkijos senatas siunte_i [[objektai/vietos/Lietuva]]
+- Lenkijos senatas siunte_i [[objektai/vietos/Vilnius]]

@@ -23,20 +23,19 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   global_id: t-60478
   teiginys: 'Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas į aiškų faktą apie Konrado veiksmą ir rezultatą.'
-  susije_objektai: 'family: [[objektai/asmenys/Konradas|Konradas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Skalvių pilies gynėjas)|Konradas (Skalvių pilies gynėjas)]] buvo brolis [[objektai/asmenys/Konradas|Konradas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Konradas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Konradas (Skalvių pilies gynėjas): owner_note_path, person, gap=7
-  ryšio_targeto_parinkimas: Konradas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Konradas (Skalvių pilies gynėjas)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Skalvių pilies gynėjas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Skalvių pilies gynėjas)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,13 +59,10 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Konradas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Konradas (Skalvių pilies gynėjas): owner_note_path, person, gap=7
-  ryšio_targeto_parinkimas: Konradas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Konradas (Skalvių pilies gynėjas)" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
-
-## Ryšiai
-- Konradas (Skalvių pilies gynėjas) buvo_brolis [[objektai/asmenys/Konradas]]
+  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Skalvių pilies gynėjas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Skalvių pilies gynėjas)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

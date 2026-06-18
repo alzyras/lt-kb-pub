@@ -76,6 +76,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.
 - susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
 - susijęs iš Pabečiai: Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių.
+- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,3 +135,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   ryšio_subjekto_parinkimas: Kvedenava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: magistras: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kvedenava" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Kvedenava

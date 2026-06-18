@@ -43,19 +43,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir išvalytas išnašos ženklas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: Polockas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Naugardukas; llm_object: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 133715-134141; hash=ce92bbc354842e0753c3a5a353102ef0a91148f43eb8a3505e643a8856c2542b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Polockas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Polocko rusus.
 
 <a id="claim-t-185884"></a>
 - t-002
@@ -137,13 +137,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 133715-134141; hash=ce92bbc354842e0753c3a5a353102ef0a91148f43eb8a3505e643a8856c2542b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Polockas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Polocko rusus.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134142-134873; hash=64e1d5c667b4c6daf8bcdfc9ba4b8411c7c35f4e19faccf6c673fd7c869f1506; match=exact

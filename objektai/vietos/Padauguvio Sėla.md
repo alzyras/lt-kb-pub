@@ -21,18 +21,20 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   global_id: t-32431
   teiginys: 'Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Daugpilis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sėliai|Sėliai]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Padauguvis; mentioned_place: Aukštaičių žemė'
+  susije_objektai: 'llm_object: Padauguvio Sėla; llm_object: Daugpilis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sėliai|Sėliai]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Padauguvis; mentioned_place: Aukštaičių žemė; llm_object: Dauguva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Padauguvio Sėla'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa740f7e237eea740350f700c32f1c992735eb54b365683da2efc5273c809ed3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Daugpilis: 0.95
+  ryšio_patikimumas: uzeme -> Padauguvio Sėla: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Padauguvio Sėla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad lietuviai užėmė Padauguvio Sėlą.
 
 ## Reikšmingi paminėjimai
 
@@ -54,9 +56,13 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa740f7e237eea740350f700c32f1c992735eb54b365683da2efc5273c809ed3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Daugpilis: 0.95
+  ryšio_patikimumas: uzeme -> Padauguvio Sėla: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Padauguvio Sėla: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad lietuviai užėmė Padauguvio Sėlą.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] uzeme Padauguvio Sėla

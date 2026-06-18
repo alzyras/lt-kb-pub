@@ -50,6 +50,7 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74882|Oberostas]]: Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74881|Oberostas]]: 1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.
 - susijęs iš Kaunas: 1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.
+- susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,3 +81,6 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   ryšio_subjekto_parinkimas: Ėrichas Liudendorfas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Oberostas: mention_match, group, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ėrichas Liudendorfas" parinktas kaip owner_note_path. Targetas "Oberostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Paulius fon Hindenburgas]] buvo_sajungininkas_su Ėrichas Liudendorfas

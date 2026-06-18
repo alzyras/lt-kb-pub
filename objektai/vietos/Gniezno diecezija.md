@@ -24,19 +24,20 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   global_id: t-86185
   teiginys: 'Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.'
   sudarymo_pagrindimas: 'Pašalintas susimaišęs puslapio ir pastabų tekstas, paliktas pagrįstas faktas.'
-  susije_objektai: 'mentioned_place: Gniezno; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Klodovas; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gniezno; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Klodovas; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius; llm_object: Gniezno diecezija'
+  semantiniai_rysiai: 'Klodovas priklausė Gniezno diecezija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumas: priklause -> Gniezno diecezija: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gniezno diecezija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno diecezija" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klodovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno diecezija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klodovas lokalizuojamas Gniezno diecezijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +79,13 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumas: priklause -> Gniezno diecezija: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gniezno diecezija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno diecezija" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klodovas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno diecezija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Klodovas lokalizuojamas Gniezno diecezijoje.
+
+## Ryšiai
+- [[objektai/vietos/Klodovas]] priklause Gniezno diecezija

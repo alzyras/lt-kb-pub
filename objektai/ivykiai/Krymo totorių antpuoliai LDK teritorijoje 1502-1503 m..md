@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Komentaro atribucija nebūtina, o sakinys turi tiesiogiai apibūdinti antpuolius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Naugardukas; mentioned_place: Pripetė; mentioned_place: Vilnius; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Naugardukas; mentioned_place: Pripetė; mentioned_place: Vilnius; mentioned_place: Podolė; llm_object: Podolė; llm_object: Naugardukas; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1502 m.; įvykio data: po 1502 m.; įvykio data: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Komentaro atribucija nebūtina, o sakinys turi tiesiogiai apibūdinti antpuolius.'
@@ -58,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m." parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Podolė: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Krymo totorių vykdytą Podolės niokojimą.
 
 <a id="claim-t-186805"></a>
 - t-002
@@ -72,7 +72,7 @@ Nenurodyta
   teiginys: '1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Poveikio visuomenei vertinimą reikia palikti kaip komentaro interpretaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Vilnius; llm_object: Podolė; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1502 m.; įvykio data: po 1502 m.; įvykio data: 1502 m.; įvykio data: 1502-1503; įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Poveikio visuomenei vertinimą reikia palikti kaip komentaro interpretaciją.'
@@ -81,13 +81,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m." parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Podolė: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Krymo totorius su Podolės niokojimu.
 
 ## Reikšmingi paminėjimai
 
@@ -110,21 +110,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m." parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Podolė: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Krymo totorių vykdytą Podolės niokojimą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d65ecd5fe821af5539b3476a4d914d8d9864a6c26e28f2e3d6b09ae1d39456b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m." parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Podolė: 0.81
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krymo totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Krymo totorius su Podolės niokojimu.

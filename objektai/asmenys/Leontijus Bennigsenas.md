@@ -34,6 +34,7 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
   ryšio_subjekto_parinkimas: Leontijus Bennigsenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leontijus Bennigsenas" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
 - susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
 - susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
 - susijęs iš Pogulianka: Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka.
@@ -64,3 +65,7 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
   ryšio_subjekto_parinkimas: Leontijus Bennigsenas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leontijus Bennigsenas" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Leontijus Bennigsenas puole [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Kazokai]] reme Leontijus Bennigsenas

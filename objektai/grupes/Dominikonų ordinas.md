@@ -40,13 +40,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5438948cef2f515fb4df3858a98ad7b09aa31dc59ecde2ae17952a50a1f2c8ed; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Gediminas suteikė prieglobstį dominikonams, todėl tai yra parama ordinui.
 
 <a id="claim-t-172081"></a>
 - t-002
@@ -72,26 +72,28 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   global_id: t-172082
   teiginys: 'Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.'
   sudarymo_pagrindimas: 'Nutrūkusi citatos dalis paversta pilnu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 139001-139980; hash=51af2c3e85d31e7da4640da1de8c330eab73c043123e76bd1ea316ba2545237a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Gediminas tituluojamas lietuvių karaliumi, todėl siejamas kaip jų valdovas.
 
 <a id="claim-t-172083"></a>
 - t-004
   global_id: t-172083
   teiginys: 'Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią.'
   sudarymo_pagrindimas: 'Ilgas ir nutrūkęs fragmentas sutrumpintas iki paremto fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -110,7 +112,8 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   global_id: t-172084
   teiginys: 'Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą dominikonų pakvietimą ir fundaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] rėmė [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą dominikonų pakvietimą ir fundaciją.'
@@ -141,32 +144,33 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154246-155942; hash=39d7cffb07b715eb2253a0e0b7431bacbd45414b2be00c51d8cd13f2d5f0bda0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Dominikonų kvietimas ir pažadas duoti bažnyčią tiesiogiai rodo Gedimino paramą ordinui.
 
 <a id="claim-t-172086"></a>
 - t-007
   global_id: t-172086
   teiginys: 'Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi sakinio dalis ir OCR triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnelė; mentioned_place: Vokietija; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnelė; mentioned_place: Vokietija; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] rėmė [[objektai/grupes/Dominikonų ordinas|Dominikonų ordinas]]'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 196019-196499; hash=318556c25b434a668927c90491a61adb5534672af926a8d321a291feae544dfc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas dominikonų broliams suteikė religinės veiklos laisvę, todėl tiesiogiai juos rėmė.
 
 <a id="claim-t-172087"></a>
 - t-008
@@ -248,20 +252,20 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Aleksandras dominikonams atidavė kleboniją ir skyrė lėšų, todėl santykis yra tiesioginė parama.
 
 <a id="claim-t-172093"></a>
 - t-013
   global_id: t-172093
   teiginys: 'Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.'
   sudarymo_pagrindimas: 'Iš citatos suformuluotas konkretesnis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -490,13 +494,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5438948cef2f515fb4df3858a98ad7b09aa31dc59ecde2ae17952a50a1f2c8ed; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Gediminas suteikė prieglobstį dominikonams, todėl tai yra parama ordinui.
     - t-005
 
 - c-007
@@ -573,13 +577,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Aleksandras dominikonams atidavė kleboniją ir skyrė lėšų, todėl santykis yra tiesioginė parama.
     - t-006
 
 - c-009
@@ -623,13 +627,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 154246-155942; hash=39d7cffb07b715eb2253a0e0b7431bacbd45414b2be00c51d8cd13f2d5f0bda0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Dominikonų kvietimas ir pažadas duoti bažnyčią tiesiogiai rodo Gedimino paramą ordinui.
     - t-011
 
 - c-010
@@ -781,13 +785,13 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 196019-196499; hash=318556c25b434a668927c90491a61adb5534672af926a8d321a291feae544dfc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Dominikonų ordinas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dominikonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas dominikonų broliams suteikė religinės veiklos laisvę, todėl tiesiogiai juos rėmė.
     - t-013
 
 - c-014
@@ -821,10 +825,14 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   irodymo_stiprumas: 0.00
   saltinio_vieta: 139001-139980; hash=51af2c3e85d31e7da4640da1de8c330eab73c043123e76bd1ea316ba2545237a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dominikonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dominikonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Gediminas tituluojamas lietuvių karaliumi, todėl siejamas kaip jų valdovas.
+
+## Ryšiai
+- [[objektai/asmenys/Gediminas]] reme Dominikonų ordinas
+- [[objektai/asmenys/Aleksandras]] reme Dominikonų ordinas

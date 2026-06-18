@@ -720,3 +720,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   ryšio_targeto_parinkimas: Kryžius: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
+
+## Ryšiai
+- Valerijonas Protasevičius (vyskupas) buvo_priesas [[objektai/grupes/Protestantai]]

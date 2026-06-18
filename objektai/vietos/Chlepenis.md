@@ -35,13 +35,13 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Viazma: 0.85
+  ryšio_patikimumas: priklause -> Viazma: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chlepenis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viazma: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chlepenis" parinktas kaip owner_note_path. Targetas "Viazma" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chlepenis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Chlepenis apibūdinamas kaip Viazmos žemės miestas, todėl atsargiai fiksuojamas priklausymo vietai ryšys.
 
 <a id="claim-t-187214"></a>
 - t-002
@@ -49,7 +49,8 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   teiginys: 'Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia komentaro lokalizacinę informaciją.'
-  susije_objektai: 'mentioned_place: Viazma; mentioned_place: Volga'
+  susije_objektai: 'mentioned_place: Viazma; mentioned_place: Volga; llm_object: Viazma'
+  semantiniai_rysiai: 'Chlepenis priklausė Viazma'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -99,10 +100,13 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Viazma: 0.85
+  ryšio_patikimumas: priklause -> Viazma: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chlepenis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viazma: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chlepenis" parinktas kaip owner_note_path. Targetas "Viazma" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chlepenis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Chlepenis apibūdinamas kaip Viazmos žemės miestas, todėl atsargiai fiksuojamas priklausymo vietai ryšys.
+
+## Ryšiai
+- Chlepenis priklause [[objektai/vietos/Viazma]]

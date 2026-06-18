@@ -22,19 +22,19 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, bet citata palaiko faktą apie asmens veiksmus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Trizna: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Trizna" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos nusiaubimas tiesiogiai rodo Mechmeto Girėjaus puolimą.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +60,10 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Trizna: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Trizna" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvos nusiaubimas tiesiogiai rodo Mechmeto Girėjaus puolimą.

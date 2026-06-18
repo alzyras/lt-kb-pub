@@ -100,7 +100,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   global_id: t-60856
   teiginys: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie Olivos kronikoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Oliva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Pamedė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Oliva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Pamedė'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -144,13 +144,13 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 296785-297478; hash=5c0330f5b79c2793d673d52b6d491b6cd0e61c6ec38aafe5ad92b9fcd82780d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=114
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Sventopelkas buvo sudaręs paliaubas su Ordinu.
 
 <a id="claim-t-60860"></a>
 - t-008
@@ -227,13 +227,13 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 296785-297478; hash=5c0330f5b79c2793d673d52b6d491b6cd0e61c6ec38aafe5ad92b9fcd82780d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=114
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Sventopelkas buvo sudaręs paliaubas su Ordinu.
     - t-008
 
 - c-003

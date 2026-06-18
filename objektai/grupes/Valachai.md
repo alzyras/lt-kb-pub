@@ -34,6 +34,8 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   ryšio_subjekto_parinkimas: Valachai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=67
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valachai" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
+- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
@@ -50,6 +52,7 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 - susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185501|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.
 - susijęs iš [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio.md#claim-t-185923|Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]: Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.
 - susijęs iš Parčevas: Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl amžinos taikos.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,3 +77,8 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   ryšio_subjekto_parinkimas: Valachai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=67
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valachai" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] sudare_sutarti_su Valachai
+- [[objektai/grupes/Vengrai]] sudare_sutarti_su Valachai
+- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Valachai

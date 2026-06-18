@@ -29,7 +29,7 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   global_id: t-28705
   teiginys: 'Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.'
   sudarymo_pagrindimas: 'Pradinis tekstas neturi pilno predikato, o citata leidžia aiškiai nusakyti įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas neturi pilno predikato, o citata leidžia aiškiai nusakyti įvykį.'
@@ -38,13 +38,13 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468744-469081; hash=bb380af6e1e556f5c23b8c26bd593b92c59c6bffe3a4dcd5f47ac7848d74c706; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kein Soule sie karten wider: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kein Soule sie karten wider" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje sakoma, kad Vykinto vadovaujami žemaičių būriai sumušė riterius / kryžiuočius.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66882|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: 1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.
 ## Reikšmingi paminėjimai
 
@@ -64,10 +64,10 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468744-469081; hash=bb380af6e1e556f5c23b8c26bd593b92c59c6bffe3a4dcd5f47ac7848d74c706; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kein Soule sie karten wider: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kein Soule sie karten wider" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje sakoma, kad Vykinto vadovaujami žemaičių būriai sumušė riterius / kryžiuočius.

@@ -102,6 +102,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173124|Bona Sforca]]: Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
@@ -247,3 +248,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=42
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Augustas]] buvo_sunus Bona
+- Bona keliavo_i [[objektai/vietos/Italija]]
+- Bona gyveno [[objektai/vietos/Merkys]]
+- Bona buvo_priesas [[objektai/asmenys/Papakoda]]

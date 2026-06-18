@@ -22,20 +22,21 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Retorinis klausimas perrašytas į aiškų faktinį sakinį.'
-  susije_objektai: 'territory: Palenkė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Palenkė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
+  susije_objektai: 'llm_object: Palenkė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Palenkė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   semantiniai_rysiai: '[[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]] užėmė Palenkė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 824422-824869; hash=42ff24bb4d4985aace0e3e9095afce9955d92ebf1da2c270f0afca14ed40b41b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Palenkė: 0.98
+  ryšio_patikimumas: uzeme -> Palenkė: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: owner_note_path, person, gap=14
-  ryšio_targeto_parinkimas: Palenkė: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Jurgis Nosuta" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Jurgis Nosuta užėmė Palenkę.
+- susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
 - susijęs iš Drohičinas: Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
@@ -68,13 +69,17 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   irodymo_stiprumas: 0.00
   saltinio_vieta: 824422-824869; hash=42ff24bb4d4985aace0e3e9095afce9955d92ebf1da2c270f0afca14ed40b41b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Palenkė: 0.98
+  ryšio_patikimumas: uzeme -> Palenkė: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Jurgis Nosuta: owner_note_path, person, gap=14
-  ryšio_targeto_parinkimas: Palenkė: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Jurgis Nosuta" parinktas kaip owner_note_path. Targetas "Palenkė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Jurgis Nosuta užėmė Palenkę.
 
 ## Ryšiai
 - Jurgis Nosuta uzeme [[objektai/vietos/Palenkė]]
+- Jurgis Nosuta keliavo_i [[objektai/vietos/Mazovija]]
+- [[objektai/asmenys/Žygimantas]] paskyre Jurgis Nosuta
+- Jurgis Nosuta valde_miesta [[objektai/vietos/Drohičinas]]
+- Jurgis Nosuta valde_miesta [[objektai/vietos/Melnikas]]

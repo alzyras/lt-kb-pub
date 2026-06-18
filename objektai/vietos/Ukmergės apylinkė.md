@@ -30,7 +30,8 @@ amziai:
   global_id: t-28484
   teiginys: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį teiginį tiesiogiai apie Ukmergės apylinkę.'
-  susije_objektai: 'mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubingiai'
+  susije_objektai: 'llm_object: Ukmergės apylinkė; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubingiai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Ukmergės apylinkė'
   temporaliniai_duomenys: 'įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį teiginį tiesiogiai apie Ukmergės apylinkę.'
@@ -39,13 +40,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukmergė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergės apylinkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergės apylinkė" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergės apylinkė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergės apylinkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad kryžiuočiai pasiekė Ukmergės apylinkę.
 
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ukmergė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukmergės apylinkė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergės apylinkė" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukmergės apylinkė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ukmergės apylinkė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad kryžiuočiai pasiekė Ukmergės apylinkę.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Ukmergės apylinkė

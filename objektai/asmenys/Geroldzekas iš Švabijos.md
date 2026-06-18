@@ -31,7 +31,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   global_id: t-87679
   teiginys: '1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į note minimą asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Čekija; llm_object: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Geroldzekas iš Švabijos|Geroldzekas iš Švabijos]] surengė žygį į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutelkti teiginį į note minimą asmenį.'
@@ -40,13 +41,13 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0688e02507c1f3a89f95d457d731ed49d69f4990eb86246c06ace9e782c2b545; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geroldzekas iš Švabijos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geroldzekas iš Švabijos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Geroldzekas iš Švabijos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Geroldzekas vedė vieną iš atskirų ekspedicijos į Prūsiją pulkų.
 
 ## Reikšmingi paminėjimai
 
@@ -70,10 +71,13 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0688e02507c1f3a89f95d457d731ed49d69f4990eb86246c06ace9e782c2b545; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geroldzekas iš Švabijos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geroldzekas iš Švabijos" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Geroldzekas iš Švabijos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Geroldzekas vedė vieną iš atskirų ekspedicijos į Prūsiją pulkų.
+
+## Ryšiai
+- Geroldzekas iš Švabijos surenge_zygi_i [[objektai/vietos/Prūsija]]

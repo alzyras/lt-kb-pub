@@ -44,19 +44,19 @@ Nenurodyta
   global_id: t-87202
   teiginys: 'Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.'
   sudarymo_pagrindimas: 'Citata remia faktą apie bažnyčių siejimą su buvusiomis pagonių kulto vietomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 247685-250310; hash=662557fcfc17990d5332b4655c3e2a9d66404895664a4bfcd6e549f38bc9d259; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: pastate -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bažnyčių steigimas buvusiose pagonių kulto vietose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčių steigimas buvusiose pagonių kulto vietose" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Vladislovas Jogaila įkūrė Vilniaus bažnyčias; konkrečių bažnyčių objektų nėra, todėl ryšys vedamas į Vilnių.
 
 <a id="claim-t-87203"></a>
 - t-002
@@ -157,13 +157,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 247685-250310; hash=662557fcfc17990d5332b4655c3e2a9d66404895664a4bfcd6e549f38bc9d259; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: pastate -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bažnyčių steigimas buvusiose pagonių kulto vietose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčių steigimas buvusiose pagonių kulto vietose" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Vladislovas Jogaila įkūrė Vilniaus bažnyčias; konkrečių bažnyčių objektų nėra, todėl ryšys vedamas į Vilnių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 247685-250310; hash=662557fcfc17990d5332b4655c3e2a9d66404895664a4bfcd6e549f38bc9d259; match=ocr_normalized_gapped

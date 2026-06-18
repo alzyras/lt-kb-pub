@@ -42,6 +42,8 @@ amziai:
   ryšio_subjekto_parinkimas: Ritterswerderis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ritterswerderis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Gardinas: 1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
+- susijęs iš Gardinas: Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176696|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.
 - susijęs iš Gardinas: 1392 m. birželio gale prie Nemuno buvo sudegintas Naujasis Gardinas, Metena ir Ritterswerderis.
 - susijęs iš Gardinas: 1392 m. birželio pabaigoje Vytautas sudegino Ritterswerderį ir dvi Ordino pilis prie Nemuno: Naująjį Gardiną ir Meteną.
@@ -72,3 +74,6 @@ amziai:
   ryšio_subjekto_parinkimas: Ritterswerderis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ritterswerderis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Ritterswerderis

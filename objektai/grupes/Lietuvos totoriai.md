@@ -47,19 +47,20 @@ amziai:
   global_id: t-78380
   teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia aiškiau nurodyti, kieno panika padidėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; llm_object: [[objektai/grupes/Švedai|Švedai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f68a0130a434fb9c85079e6c90362a26f41680c6ec9c732779c3c5eaf9f79d94; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sieja Lietuvos totorių vėliavų įvedimą į mūšį su panika švedų kavalerijoje, todėl remia kovą prieš švedus.
 
 <a id="claim-t-78381"></a>
 - t-003
@@ -221,10 +222,15 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f68a0130a434fb9c85079e6c90362a26f41680c6ec9c732779c3c5eaf9f79d94; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos totoriai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos totoriai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sieja Lietuvos totorių vėliavų įvedimą į mūšį su panika švedų kavalerijoje, todėl remia kovą prieš švedus.
+
+## Ryšiai
+- Lietuvos totoriai kariavo_pries [[objektai/grupes/Švedai]]
+- Lietuvos totoriai gyveno [[objektai/vietos/Lietuva]]
+- Lietuvos totoriai puole [[objektai/grupes/Švedai]]

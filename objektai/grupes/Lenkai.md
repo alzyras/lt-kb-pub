@@ -72,7 +72,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179128
   teiginys: 'Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir aiškiai susieta su note objektu.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bokštai; mentioned_place: Vilnelė'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bokštai; mentioned_place: Vilnelė; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Vilnius'
   pagrindžia:
     - c-023
 
@@ -90,13 +91,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 929148-929436; hash=c1f150d20f6d218f4107f260759db5559a1a92f623aa054d97c344a28d92ce6d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino sparnas išrikiuotas prieš lenkų sparną, tai tiesiogiai rodo karinę priešpriešą.
 
 <a id="claim-t-179133"></a>
 - t-005
@@ -109,20 +110,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f7ed6085da032dcaf4cf0e8391d609de5395af2308ff08effaa4e8e8c413fe0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkijos pulkai tiesiogiai puolė kryžiuočių kariuomenę.
 
 <a id="claim-t-179134"></a>
 - t-006
   global_id: t-179134
   teiginys: 'Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie lenkų kairiojo sparno padėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] buvo priešas [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -141,19 +143,20 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179135
   teiginys: 'Po personalinės unijos lenkų pareigūnai buvo siunčiami į Lietuvą su valdovo įgaliojimais, o lietuvių kariuomenė talkino lenkams.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą sąveiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] rėmė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/grupes/Lenkai|Lenkai]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-022
   irodymo_stiprumas: 0.00
   saltinio_vieta: 21465-21739; hash=d66b743bccd62fd4093e1f2d751bbbd6c7b79f9445a7409c65d9d3a173cf757c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidurinė Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vidurinė Lietuva nurodyta kaip suformuota Vilniaus krašte.
 
 <a id="claim-t-179136"></a>
 - t-008
@@ -168,8 +171,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179137
   teiginys: 'Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie lenkų didikus bei kunigaikščius.'
-  susije_objektai: 'location: Gniezno; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Gniezno'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Vilnius'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
@@ -188,7 +191,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179138
   teiginys: 'Nepriklausomybės pradžioje dalis Vilniaus krašto lenkų komunistinių funkcionierių planavo teritorinę autonomiją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šalčininkai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata.'
@@ -197,13 +201,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lenkai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių kariuomenės talkinimas lenkams tiesiogiai palaiko paramos ryšį.
 
 <a id="claim-t-179139"></a>
 - t-011
@@ -250,7 +254,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179143
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos lenkų veiklos kryptį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Lietuva'
   pagrindžia:
     - c-056
   irodymo_stiprumas: 0.00
@@ -299,7 +304,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-017
   global_id: t-179149
   teiginys: 'Vytautas 1401 m. akte priminė pažadą laikytis Jogailos, Lenkijos karūnos ir jos didikų bei ginti juos nuo priešų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -310,8 +316,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179150
   teiginys: 'Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] kariavo prieš [[objektai/asmenys/Traidenis|Traidenis]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-015
 
@@ -320,7 +326,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179151
   teiginys: 'Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
@@ -332,7 +339,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179154
   teiginys: 'Lenkai sudarė apie 3,2 proc. Lietuvos gyventojų ir savo kultūrinį gyvenimą telkė apie lenkiškas mokyklas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako lenkų dalį ir kultūrinį gyvenimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: po 1927 m.; įvykio data: 1927 m.; įvykio data: 1932 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako lenkų dalį ir kultūrinį gyvenimą.'
@@ -360,13 +368,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e4db486e43f21e7782d43a1daaab0ffc900122596143ff7eb534c97b02173bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasitarimai ir ginčas dėl Vilniaus rodo lenkų ir lietuvių politinę priešpriešą.
 
 <a id="claim-t-179159"></a>
 - t-022
@@ -379,13 +387,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=edbef182590cf281adf7dd49a38c22b9cf264aeade97542dd8544177b0bc11e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Želigovskininkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenė sustabdė Želigovskio pusės dalinius mūšiuose.
 
 <a id="claim-t-179160"></a>
 - t-023
@@ -417,20 +425,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342959-343638; hash=5de7af761448f22ca0471459653797eaefe52e0fcfa69de70a6e8e4816e0e546; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kontekstas kalba apie Lietuvos gyventojus, tarp kurių lenkai sudarė 3,2 procento.
 
 <a id="claim-t-179162"></a>
 - t-025
   global_id: t-179162
   teiginys: 'Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.'
   sudarymo_pagrindimas: 'Pradinė pretenzija nutrūkusi, todėl paliktas citatos paremtas faktas apie lenkus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] paskyrė [[objektai/asmenys/Jogaila|Jogaila]]'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė pretenzija nutrūkusi, todėl paliktas citatos paremtas faktas apie lenkus.'
@@ -439,32 +448,33 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344005-344514; hash=244ca8e76e0ce06c537574c090eb2de01bde7607b62a72b01267fd19b7cda9e3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie lenkus Lietuvos dalyse, nors pabrėžia jų nekompaktišką gyvenimą.
 
 <a id="claim-t-179164"></a>
 - t-026
   global_id: t-179164
   teiginys: 'Po Krėvos sutarties lenkų pareigūnai buvo siunčiami į Lietuvą, o lietuvių ir lenkų kariuomenės talkino viena kitai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] rėmė [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/grupes/Lenkai|Lenkai]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-022
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344515-345033; hash=b59e8e2268830a6e3b1967fc8395d0c2cfe6896aad5599171278218558973559; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „Lietuvos lenkai“ tiesiogiai sieja lenkus su Lietuva.
 
 <a id="claim-t-179165"></a>
 - t-027
@@ -502,19 +512,19 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179169
   teiginys: 'Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.'
   sudarymo_pagrindimas: 'Išskleistas inicialas ir sakinys padarytas aiškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Giedraičiai; mentioned_place: Lenkija; mentioned_place: Vilnija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Giedraičiai; mentioned_place: Lenkija; mentioned_place: Vilnija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e9ec465d47981ce16873bdaebb9555a43986004426f0aff657ed23bcb895a848; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkai įvardyti kaip Vilniaus krašto funkcionieriai.
 
 <a id="claim-t-179170"></a>
 - t-031
@@ -649,20 +659,20 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 233928-234242; hash=8e90087c5704c3df59a03b3e928d5178c1580b7964c2e64be75248a6616349db; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad kryžiuočiai puolė lenkus.
 
 <a id="claim-t-179180"></a>
 - t-039
   global_id: t-179180
   teiginys: 'Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.'
   sudarymo_pagrindimas: 'Išskleistas inicialas ir pašalintas perteklinis kontekstinis žodis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Suvalkai; mentioned_place: Vilnija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Suvalkai; mentioned_place: Vilnija; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas inicialas ir pašalintas perteklinis kontekstinis žodis.'
@@ -673,7 +683,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-040
   global_id: t-179181
   teiginys: 'Didžioji lenkų vėliava Žalgirio mūšyje pateko į kryžiuočių tarpą, bet lenkai ją atgavo įtraukus antrąją liniją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-029
   irodymo_stiprumas: 0.00
@@ -692,7 +703,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179182
   teiginys: '1326 m. Gedimino raiteliai kartu su lenkais nuniokojo Brandenburgo žemę vakariau Kryžiuočių ordino valdų.'
   sudarymo_pagrindimas: 'Pradinis sakinys prasideda neaiškiu kontekstu, o citata leidžia suformuluoti aiškesnį faktą apie lenkų dalyvavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys prasideda neaiškiu kontekstu, o citata leidžia suformuluoti aiškesnį faktą apie lenkų dalyvavimą.'
@@ -720,13 +732,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68904204ee61a9bfd606bc9f16740dc7b8c51144c6f2025a65a8f6dc5c251d35; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: gyne -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pažadas ginti Jogailos karalystės ir karūnos gyventojus leidžia sieti Vytautą su lenkų gynimu, nors įvardijimas netiesioginis.
 
 <a id="claim-t-179185"></a>
 - t-043
@@ -830,7 +842,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179193
   teiginys: '1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.'
   sudarymo_pagrindimas: 'Sutvarkyta kalba ir datos, paliekant citatos pagrįstą faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]'
   temporaliniai_duomenys: 'įvykio data: 1291 m.; įvykio data: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkyta kalba ir datos, paliekant citatos pagrįstą faktą.'
@@ -903,13 +915,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e6e2607fe78153cb9b89e62b94342e1e47410190c001e8624360c69aa26f217; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Gniezno: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=67
-  ryšio_targeto_parinkimas: Gniezno: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas nurodo, kad kartu atvyko lenkų didikai ir kunigaikščiai į Vilnių; tai pagrindžia lenkų keliavimą į Vilnių.
 
 <a id="claim-t-179201"></a>
 - t-056
@@ -960,7 +972,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - t-059
   global_id: t-179204
   teiginys: 'Lietuvių ir lenkų pasitarimuose lenkų delegacija atmetė pasiūlymus, nes nesutarta dėl Vilniaus ir Rytų Lietuvos priklausomybės.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnija'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] buvo priešas [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -1000,7 +1013,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179206
   teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys.'
@@ -1022,7 +1035,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179207
   teiginys: 'Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Lenkijos pulkų puolimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-068
   irodymo_stiprumas: 0.00
@@ -1059,7 +1073,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179210
   teiginys: 'Žalgirio mūšyje dalis su lietuviais kovojusių kryžiuočių puolė lenkus.'
   sudarymo_pagrindimas: 'Pridėtas mūšio kontekstas ir pašalintas neaiškus „dabar“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-029
 
@@ -1077,13 +1092,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lenkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad lietuvių ir lenkų kariuomenės talkino viena kitai.
 
 <a id="claim-t-179212"></a>
 - t-067
@@ -1121,13 +1136,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: uzeme -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškina, kad miestą užėmė L. Želigovskio daliniai; kandidatas „Želigovskininkai“ atitinka tuos dalinius.
 
 <a id="claim-t-184329"></a>
 - t-070
@@ -1193,7 +1208,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie lenkus ir Germanto sąjungą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Germantas|Germantas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-074
 
@@ -1205,19 +1221,20 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas ryšys su note objektu, nes pradinis subjektas buvo pernelyg bendras.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gervėčiai; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gervėčiai; mentioned_place: Krokuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-075
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232721-233176; hash=1c128d1210f83fa5913c429d8d0316be395cbe422a6618d7edd28ffb7fd20cf5; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie lenkus, kuriems Vilnius iškilo atvykus.
 
 <a id="claim-t-184520"></a>
 - t-075
@@ -1227,7 +1244,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kulmas; mentioned_place: Lenčica'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kulmas; mentioned_place: Lenčica; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]'
   temporaliniai_duomenys: 'įvykio data: 1275 m.; įvykio data: 1277 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas.'
@@ -1274,7 +1292,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo lenkų pergalės rezultatą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lukovas; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-078
   irodymo_stiprumas: 0.00
@@ -1343,7 +1362,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir aiškiai nusako pasiuntinybės tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: Lietuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] siuntė į Lietuva; [[objektai/grupes/Lietuviai|Lietuviai]] sudarė sutartį su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-081
   irodymo_stiprumas: 0.00
@@ -1371,13 +1391,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 233928-234242; hash=8e90087c5704c3df59a03b3e928d5178c1580b7964c2e64be75248a6616349db; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad kryžiuočiai kovojo su lietuviais.
 
 <a id="claim-t-184527"></a>
 - t-082
@@ -1417,13 +1437,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68904204ee61a9bfd606bc9f16740dc7b8c51144c6f2025a65a8f6dc5c251d35; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: paskyre -> Jogaila (kunigaikštis, XIV–XV a.): 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pasikvietimas į sostą semantiškai artimas paskyrimui valdovu, nors pats žodis „paskyrė“ nevartojamas.
 
 <a id="claim-t-184530"></a>
 - t-085
@@ -1524,19 +1544,20 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir išlaikytas pagrindinis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Valachai|Valachai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] sudarė sutartį su [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Lenkai|Lenkai]] sudarė sutartį su [[objektai/grupes/Valachai|Valachai]]'
   pagrindžia:
     - c-090
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600857-601238; hash=024bc80d3e2b40de524a410d24359ebb5ecc25abad4d8a973719d9ad0014932d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pukuveras (Lietuvos karalius, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Pukuvero veiksmą išsiųsti Vytenį į Lenkiją.
 
 <a id="claim-t-184535"></a>
 - t-090
@@ -1546,7 +1567,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Aleksandro veiksmą lenkų atžvilgiu.'
-  susije_objektai: 'mentioned_place: Piotrkovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Piotrkovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] sudarė sutartį su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-091
 
@@ -1593,7 +1615,29 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/4-asis pėstininkų pulkas.md#claim-t-40825|4-asis pėstininkų pulkas]]: 4-ojo pėstininkų pulko pozicijos gynė Musninkus, o lenkams šioje vietoje nepavyko priversti lietuvių atsitraukti.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178812|Kryžiuočių ordinas]]: 1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
+- susijęs iš Griunvaldas: 1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
+- susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
+- susijęs iš Torno taika (1411 m.): Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.
+- susijęs iš Gardinas: 1376 m. Vytautas, jau būdamas Gardino kunigaikštis, dalyvavo žygyje prieš lenkus.
+- susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.
+- susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
+- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
+- susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
+- susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
+- susijęs iš Maskvos žemės: Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus.
+- susijęs iš [[objektai/zodynas/Nepriklausomybės kovos.md#claim-t-42425|Nepriklausomybės kovos]]: 1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.
+- susijęs iš [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu.md#claim-t-87239|Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]: Moskoževskis iš tvirtovės išvarė įtartinus žmones, galėjusius slapta palaikyti Vytautą, ir penkias savaites atrėmė apgultį.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-58920|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-184017|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/zodynas/Prūsijos žemė.md#claim-t-89573|Prūsijos žemė]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49403|K. Škirpa]]: K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
+- susijęs iš [[objektai/autoriai/G. Rhode.md#claim-t-30620|G. Rhode]]: G. Rhode plačiai rašė apie kovas, aptartas veikalo „RhOP“ 172-206 puslapiuose.
+- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185432|Lietuvos luomai]]: Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.
+- susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.
+- susijęs iš Šeškinės kalnas: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45927|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56965|Agota (kunigaikščio žmona, XIII a.)]]: Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.
@@ -2081,6 +2125,9 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-186924|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-184641|unija]]: 1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22360|„lenkų pradai“ „rusų pradai“]]: Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija.
+- susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87410|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.
+- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67273|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais.
+- susijęs iš Rykantai: Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77973|A. Smetona]]: A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45929|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
@@ -3257,6 +3304,57 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-184653|žygūnai]]: Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185337|žygūnas]]: Lenkų bajoras Trepka, dėdamasis Pisono žygūnu, išvyko pranešti Glinskiui karaliaus valios.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176699|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92965|Herbai]]: Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.
+- susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81592|Prancūzai]]: Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.
+- susijęs iš [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu.md#claim-t-87240|Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]: Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.
+- susijęs iš Brandenburgo žemė: 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė 1200 savo raitelių ir bendromis pastangomis su lenkais ties Frankfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino valdų.
+- susijęs iš Kaunas: 1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.
+- susijęs iš Paširvintis: Prie Paširvinčio dvaro lietuviai atakavo lenkų artilerijos būrį, kurio karininkas buvo nušautas, o artileristai išsibėgiojo.
+- susijęs iš Varėna: Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78708|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78712|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176673|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
+- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
+- susijęs iš Martiniškiai: Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių baterija išvedė iš rikiuotės Martiniškių dvare išsidėsčiusią lenkų bateriją.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10167|Vėliavos]]: Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176216|Vėliavos]]: Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.
+- susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
+- susijęs iš Vysla: Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.
+- susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
+- susijęs iš [[objektai/asmenys/Vileniškis.md#claim-t-183766|Vileniškis]]: Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos.
+- susijęs iš [[objektai/asmenys/Vileniškis.md#claim-t-39668|Vileniškis]]: Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176866|Zigmantas Kaributas]]: Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179272|Lietuviai]]: Lietuviai ir lenkai įsakė savo kariuomenių būriams rengti puolimus, kad nukreiptų dėmesį nuo savęs.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179294|Lietuviai]]: Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.
+- susijęs iš [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-80639|asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.
+- susijęs iš [[objektai/asmenys/Cipkevičius.md#claim-t-39718|Cipkevičius]]: 1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
+- susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-184298|Zyndramas iš Moškovicų]]: Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.
+- susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-34836|Zyndramas iš Moškovicų]]: Zyndramui iš Moškovicų karalius pavedė vesti lenkų kariuomenę.
+- susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-183771|Šidiškis]]: 1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
+- susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-39829|Šidiškis]]: 1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.
+- susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
+- susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-36844|tėviškė]]: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
+- susijęs iš Lietuvos Didžiosios Kunigaikštystės Knyga: „Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.
+- susijęs iš Lietuvos Didžiosios Kunigaikštystės Knyga: „Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.
+- susijęs iš Lietuvos Didžiosios Kunigaikštystės Knyga: „Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.
+- susijęs iš Pagiriai: Lenkų kavalerijos brigada užėmė Pagirius, o lietuvių karo lėktuvai sekė jos judėjimą ir atakavo kolonas.
+- susijęs iš Pagiriai: Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179259|Lietuviai]]: Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.
+- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
+- susijęs iš Lielvardės pilis (pilis, XIII a.): Mindaugo karvedžių siaubiamoje Livonijoje vyko kovos prie Lielvardės pilies Dauguvos pakrantėse.
+- susijęs iš [[objektai/grupes/9-asis pėstininkų pulkas.md#claim-t-40831|9-asis pėstininkų pulkas]]: Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176660|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
+- susijęs iš [[objektai/grupes/Seradzo lenkų seimas.md#claim-t-185455|Seradzo lenkų seimas (seimas)]]: Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75368|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75370|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.
+- susijęs iš Podolė: Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.
+- susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
+- susijęs iš Ukmergė: Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.
+- susijęs iš Ukmergė: Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -3417,13 +3515,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 929148-929436; hash=c1f150d20f6d218f4107f260759db5559a1a92f623aa054d97c344a28d92ce6d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino sparnas išrikiuotas prieš lenkų sparną, tai tiesiogiai rodo karinę priešpriešą.
     - t-066
 
 - c-009
@@ -3446,13 +3544,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lenkai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad lietuvių ir lenkų kariuomenės talkino viena kitai.
     - t-001
 
 - c-010
@@ -3683,13 +3781,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68904204ee61a9bfd606bc9f16740dc7b8c51144c6f2025a65a8f6dc5c251d35; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: gyne -> Lenkai: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pažadas ginti Jogailos karalystės ir karūnos gyventojus leidžia sieti Vytautą su lenkų gynimu, nors įvardijimas netiesioginis.
     - t-064
     - t-006
 
@@ -3743,13 +3841,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 21465-21739; hash=d66b743bccd62fd4093e1f2d751bbbd6c7b79f9445a7409c65d9d3a173cf757c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vidurinė Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vidurinė Lietuva nurodyta kaip suformuota Vilniaus krašte.
     - t-026
 
 - c-023
@@ -3771,13 +3869,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344515-345033; hash=b59e8e2268830a6e3b1967fc8395d0c2cfe6896aad5599171278218558973559; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „Lietuvos lenkai“ tiesiogiai sieja lenkus su Lietuva.
     - t-003
 
 - c-024
@@ -3873,13 +3971,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e9ec465d47981ce16873bdaebb9555a43986004426f0aff657ed23bcb895a848; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lenkai įvardyti kaip Vilniaus krašto funkcionieriai.
     - t-010
 
 - c-028
@@ -3904,13 +4002,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Lenkai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvių kariuomenės talkinimas lenkams tiesiogiai palaiko paramos ryšį.
     - t-027
 
 - c-029
@@ -4039,24 +4137,24 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 233928-234242; hash=8e90087c5704c3df59a03b3e928d5178c1580b7964c2e64be75248a6616349db; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lenkai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad kryžiuočiai puolė lenkus.
     - t-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: 344005-344514; hash=244ca8e76e0ce06c537574c090eb2de01bde7607b62a72b01267fd19b7cda9e3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie lenkus Lietuvos dalyse, nors pabrėžia jų nekompaktišką gyvenimą.
     - t-017
     - t-004
 
@@ -4082,13 +4180,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 929148-929436; hash=c1f150d20f6d218f4107f260759db5559a1a92f623aa054d97c344a28d92ce6d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino sparnas išrikiuotas prieš lenkų sparną, tai tiesiogiai rodo karinę priešpriešą.
     - t-039
 
 - c-035
@@ -4204,13 +4302,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 342959-343638; hash=5de7af761448f22ca0471459653797eaefe52e0fcfa69de70a6e8e4816e0e546; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kontekstas kalba apie Lietuvos gyventojus, tarp kurių lenkai sudarė 3,2 procento.
     - t-031
 
 - c-040
@@ -4399,13 +4497,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f7ed6085da032dcaf4cf0e8391d609de5395af2308ff08effaa4e8e8c413fe0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkijos pulkai tiesiogiai puolė kryžiuočių kariuomenę.
     - t-051
     - t-059
 
@@ -4441,13 +4539,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f7ed6085da032dcaf4cf0e8391d609de5395af2308ff08effaa4e8e8c413fe0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkijos pulkai tiesiogiai puolė kryžiuočių kariuomenę.
     - t-050
 
 - c-049
@@ -4491,24 +4589,24 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8e4db486e43f21e7782d43a1daaab0ffc900122596143ff7eb534c97b02173bd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: buvo_priesas -> Lietuviai: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasitarimai ir ginčas dėl Vilniaus rodo lenkų ir lietuvių politinę priešpriešą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 929148-929436; hash=c1f150d20f6d218f4107f260759db5559a1a92f623aa054d97c344a28d92ce6d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino sparnas išrikiuotas prieš lenkų sparną, tai tiesiogiai rodo karinę priešpriešą.
     - t-028
 
 - c-051
@@ -4546,13 +4644,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=edbef182590cf281adf7dd49a38c22b9cf264aeade97542dd8544177b0bc11e1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Želigovskininkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenė sustabdė Želigovskio pusės dalinius mūšiuose.
     - t-043
 
 - c-053
@@ -4768,13 +4866,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e6e2607fe78153cb9b89e62b94342e1e47410190c001e8624360c69aa26f217; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Gniezno: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=67
-  ryšio_targeto_parinkimas: Gniezno: nearest_after_predicate, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas nurodo, kad kartu atvyko lenkų didikai ir kunigaikščiai į Vilnių; tai pagrindžia lenkų keliavimą į Vilnių.
     - t-020
 
 - c-062
@@ -4934,24 +5032,24 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 929148-929436; hash=c1f150d20f6d218f4107f260759db5559a1a92f623aa054d97c344a28d92ce6d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino sparnas išrikiuotas prieš lenkų sparną, tai tiesiogiai rodo karinę priešpriešą.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f7ed6085da032dcaf4cf0e8391d609de5395af2308ff08effaa4e8e8c413fe0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkijos pulkai tiesiogiai puolė kryžiuočių kariuomenę.
     - t-006
 
 - c-068
@@ -5020,13 +5118,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: uzeme -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškina, kad miestą užėmė L. Želigovskio daliniai; kandidatas „Želigovskininkai“ atitinka tuos dalinius.
     - t-002
 
 - c-071
@@ -5183,13 +5281,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232721-233176; hash=1c128d1210f83fa5913c429d8d0316be395cbe422a6618d7edd28ffb7fd20cf5; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai kalba apie lenkus, kuriems Vilnius iškilo atvykus.
     - t-075
 
 - c-077
@@ -5449,13 +5547,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 233928-234242; hash=8e90087c5704c3df59a03b3e928d5178c1580b7964c2e64be75248a6616349db; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad kryžiuočiai kovojo su lietuviais.
     - t-082
 
 - c-084
@@ -5532,13 +5630,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68904204ee61a9bfd606bc9f16740dc7b8c51144c6f2025a65a8f6dc5c251d35; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: paskyre -> Jogaila (kunigaikštis, XIV–XV a.): 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pasikvietimas į sostą semantiškai artimas paskyrimui valdovu, nors pats žodis „paskyrė“ nevartojamas.
     - t-085
 
 - c-087
@@ -5704,13 +5802,13 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 600857-601238; hash=024bc80d3e2b40de524a410d24359ebb5ecc25abad4d8a973719d9ad0014932d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pukuveras (Lietuvos karalius, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Pukuvero veiksmą išsiųsti Vytenį į Lenkiją.
     - t-090
 
 - c-092
@@ -5779,8 +5877,124 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkai" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Lenkai kariavo_pries [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Lenkai keliavo_i [[objektai/vietos/Gniezno]]
-- Lenkai valde_teritorija [[objektai/vietos/Podolė]]
-- Lenkai gyveno [[objektai/vietos/Prūsai]]
-- [[objektai/grupes/4-asis pėstininkų pulkas]] gyne Lenkai
+- Lenkai uzeme [[objektai/vietos/Butrimonys]]
+- Lenkai uzeme [[objektai/vietos/Maskva]]
+- Lenkai uzeme [[objektai/vietos/Vilnius]]
+- Lenkai uzeme [[objektai/vietos/Švenčionėliai]]
+- Lenkai uzeme [[objektai/vietos/Želva]]
+- Lenkai uzeme [[objektai/vietos/Dubingiai]]
+- Lenkai uzeme [[objektai/vietos/Marcinkonys]]
+- Lenkai uzeme [[objektai/vietos/Vidiškis]]
+- Lenkai keliavo_i [[objektai/vietos/Krėva]]
+- Lenkai puole [[objektai/grupes/Lietuviai]]
+- Lenkai siunte_i [[objektai/vietos/Lietuva]]
+- Lenkai uzeme [[objektai/vietos/Giedraičiai]]
+- Lenkai valde [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Lietuvos kariuomenė]] buvo_sajungininkas_su Lenkai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Lenkai
+- Lenkai uzeme [[objektai/vietos/Aukštadvaris]]
+- Lenkai uzeme [[objektai/vietos/Molėtai]]
+- Lenkai uzeme [[objektai/vietos/Tauragnai]]
+- [[objektai/asmenys/Vytenis]] puole Lenkai
+- Lenkai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Lenkai puole [[objektai/vietos/Lietuva]]
+- Lenkai puole [[objektai/grupes/Parusėnai]]
+- Lenkai puole [[objektai/vietos/Švenčionėliai]]
+- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Lenkai
+- Lenkai apgule [[objektai/vietos/Belzas]]
+- Lenkai gyne [[objektai/vietos/Kaunas]]
+- Lenkai kariavo_pries [[objektai/grupes/Rusai]]
+- Lenkai puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Lenkai sudare_sutarti_su [[objektai/grupes/Lietuviai]]
+- Lenkai sudare_sutarti_su [[objektai/grupes/Valachai]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] kariavo_pries Lenkai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Lenkai
+- Lenkai dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/daiktai/Herbai]] priklause Lenkai
+- Lenkai keliavo_i [[objektai/vietos/Balnininkai]]
+- Lenkai reme [[objektai/asmenys/J. Pilsudskis]]
+- Lenkai uzeme [[objektai/vietos/Pagiriai]]
+- [[objektai/grupes/Lietuviai]] reme Lenkai
+- [[objektai/grupes/Lietuviai]] sudare_sutarti_su Lenkai
+- [[objektai/grupes/Lietuvos Respublika]] kariavo_pries Lenkai
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Lenkai
+- [[objektai/vietos/Kulmas]] priklause Lenkai
+- [[objektai/asmenys/Germantas]] buvo_sajungininkas_su Lenkai
+- Lenkai gyne [[objektai/vietos/Podolė]]
+- Lenkai gyveno [[objektai/vietos/Vilnius]]
+- Lenkai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Lenkai kariavo_pries [[objektai/grupes/Lietuviai]]
+- Lenkai kariavo_pries [[objektai/asmenys/Švitrigaila]]
+- Lenkai puole [[objektai/grupes/1-oji pėstininkų divizija]]
+- Lenkai puole [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
+- Lenkai reme [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Lenkai
+- [[objektai/grupes/Lietuvos luomai]] buvo_sajungininkas_su Lenkai
+- [[objektai/asmenys/Liubartas]] puole Lenkai
+- [[objektai/grupes/3-ioji divizija]] kariavo_pries Lenkai
+- [[objektai/asmenys/Gediminas]] buvo_sajungininkas_su Lenkai
+- Lenkai uzeme [[objektai/vietos/Varėna]]
+- [[objektai/asmenys/Mikalojus Moskoževskis]] gyne Lenkai
+- Lenkai gyne [[objektai/vietos/Vilnius]]
+- Lenkai puole [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Lenkai
+- [[objektai/vietos/Bastūnai]] priklause Lenkai
+- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Lenkai
+- Lenkai gyveno [[objektai/vietos/Kulmas]]
+- Lenkai gyveno [[objektai/vietos/Lubavas]]
+- Lenkai keliavo_i [[objektai/vietos/Vilnius]]
+- Lenkai priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Lenkai
+- [[objektai/grupes/Lietuviai]] puole Lenkai
+- [[objektai/grupes/Parusėnai]] puole Lenkai
+- [[objektai/grupes/Prancūzai]] kariavo_pries Lenkai
+- [[objektai/vietos/Varėna]] priklause Lenkai
+- [[objektai/grupes/Vokiečiai]] puole Lenkai
+- [[objektai/grupes/Bajorai]] priklause Lenkai
+- Lenkai dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
+- Lenkai gyveno [[objektai/vietos/Lietuva]]
+- Lenkai puole [[objektai/vietos/Brandenburgo žemė]]
+- Lenkai puole [[objektai/vietos/Prūsai]]
+- Lenkai puole [[objektai/vietos/Utena]]
+- Lenkai puole [[objektai/vietos/Zarasai]]
+- Lenkai surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Lenkai buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Lenkai dalyvavo_musyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- Lenkai paskyre [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]] gyne Lenkai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Lenkai
+- Lenkai buvo_priesas [[objektai/grupes/Lietuviai]]
+- Lenkai keliavo_i [[objektai/vietos/Lomža]]
+- [[objektai/asmenys/Vytenis]] kariavo_pries Lenkai
+- Lenkai gyveno [[objektai/vietos/Lubava]]
+- Lenkai keliavo_i [[objektai/vietos/Praha]]
+- Lenkai valde [[objektai/vietos/Bastūnai]]
+- Lenkai valde [[objektai/vietos/Varėna]]
+- Lenkai valde [[objektai/vietos/Volynė]]
+- [[objektai/asmenys/Vileniškis]] gyne Lenkai
+- [[objektai/asmenys/Zigmantas Kaributas]] buvo_sajungininkas_su Lenkai
+- [[objektai/grupes/Lietuviai]] buvo_priesas Lenkai
+- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]] kariavo_pries Lenkai
+- [[objektai/asmenys/Cipkevičius]] puole Lenkai
+- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Lenkai
+- [[objektai/asmenys/Zyndramas iš Moškovicų]] buvo_sajungininkas_su Lenkai
+- [[objektai/asmenys/Šidiškis]] puole Lenkai
+- Lenkai buvo_sajungininkas_su [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
+- Lenkai keliavo_i [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Antanas Šukys]] kariavo_pries Lenkai
+- Lenkai keliavo_i [[objektai/vietos/Krokuva]]
+- Lenkai surenge_zygi_i [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]] kariavo_pries Lenkai
+- Lenkai keliavo_i [[objektai/vietos/Styrė]]
+- Lenkai priklause [[objektai/vietos/Sandomiras]]
+- [[objektai/grupes/9-asis pėstininkų pulkas]] puole Lenkai
+- Lenkai uzeme [[objektai/vietos/Volynė]]
+- [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]] priklause Lenkai
+- [[objektai/vietos/Stralsundas]] prekiavo_su Lenkai
+- Lenkai puole [[objektai/vietos/Kaunas]]
+- Lenkai puole [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/asmenys/Švitrigaila]] kariavo_pries Lenkai
+- Lenkai puole [[objektai/vietos/Rusia]]
+- [[objektai/grupes/Jutrzenka]] reme Lenkai
+- [[objektai/grupes/Oswiata]] reme Lenkai
+- [[objektai/grupes/Pochodnia]] reme Lenkai

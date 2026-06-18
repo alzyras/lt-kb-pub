@@ -74,6 +74,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 - susijęs iš Pagansčiai: Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.
 - susijęs iš Pamedė: Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
+- susijęs iš Pagansčiai: Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,3 +135,6 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   ryšio_subjekto_parinkimas: Zirgūna: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zirgūna" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Pagansčiai]] priklause Zirgūna

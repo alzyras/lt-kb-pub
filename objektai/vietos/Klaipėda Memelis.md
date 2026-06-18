@@ -24,19 +24,20 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   global_id: t-86147
   teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir sudegino miestą.'
   sudarymo_pagrindimas: 'Reikia išvengti neaiškaus įvardžio „jį“ ir tiksliau įvardyti sudegintą objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'llm_object: Klaipėda Memelis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Klaipėda Memelis; [[objektai/grupes/Žemaičiai|Žemaičiai]] užėmė Klaipėda Memelis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c837cb9111dfff20252ce12c0ed14bcf4d4eba565176ff85b56207b480bcfcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda Memelis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda Memelis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda Memelis: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda Memelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ginkluoti žemaičiai tiesiogiai įvardyti kaip įsiveržę į Memelio apylinkes ir užėmę miestą.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +68,14 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c837cb9111dfff20252ce12c0ed14bcf4d4eba565176ff85b56207b480bcfcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klaipėda Memelis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėda Memelis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Klaipėda Memelis: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Klaipėda Memelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ginkluoti žemaičiai tiesiogiai įvardyti kaip įsiveržę į Memelio apylinkes ir užėmę miestą.
+
+## Ryšiai
+- [[objektai/grupes/Žemaičiai]] puole Klaipėda Memelis
+- [[objektai/grupes/Žemaičiai]] uzeme Klaipėda Memelis

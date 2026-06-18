@@ -51,7 +51,8 @@ Nenurodyta
   teiginys: 'Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys jau yra pilnas sakinys apie Vytį ir aiškiai palieka interpretaciją komentaro atribucijoje. Nepridėta papildomų detalių apie Algirdą ar Jogailą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Vytis|Vytis]] priklausė Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1384 m.; įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys jau yra pilnas sakinys apie Vytį ir aiškiai palieka interpretaciją komentaro atribucijoje. Nepridėta papildomų detalių apie Algirdą ar Jogailą.'
@@ -60,20 +61,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1daae419ebbf021682d64f3574786a2bd7c7fe6b55064cc11eccfa2466d70388; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytis" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytis tekste siejamas su atkuriama Lietuvos valstybe kaip herbo pakaitalas, todėl laikomas Lietuvos simboliu.
 
 <a id="claim-t-186859"></a>
 - t-002
   global_id: t-186859
   teiginys: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Vytis|Vytis]] priklausė Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
@@ -199,10 +201,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1daae419ebbf021682d64f3574786a2bd7c7fe6b55064cc11eccfa2466d70388; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytis" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytis: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytis tekste siejamas su atkuriama Lietuvos valstybe kaip herbo pakaitalas, todėl laikomas Lietuvos simboliu.
+
+## Ryšiai
+- Vytis priklause [[objektai/vietos/Vilnius]]
+- Vytis priklause [[objektai/vietos/Lietuva]]

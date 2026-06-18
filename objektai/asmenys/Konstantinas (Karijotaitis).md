@@ -35,6 +35,7 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   ryšio_subjekto_parinkimas: Konstantinas (Karijotaitis): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Konstantinas Karijotaitis: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas (Karijotaitis)" parinktas kaip owner_note_path. Targetas "Konstantinas Karijotaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Cartoryskas: Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185945|Ivanas (Maskvos valdovas)]]: Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
@@ -52,6 +53,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185886|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185886|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,3 +81,11 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   ryšio_subjekto_parinkimas: Konstantinas (Karijotaitis): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Konstantinas Karijotaitis: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas (Karijotaitis)" parinktas kaip owner_note_path. Targetas "Konstantinas Karijotaitis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Cartoryskas]] priklause Konstantinas (Karijotaitis)
+- [[objektai/vietos/Černigovas]] priklause Konstantinas (Karijotaitis)
+- Konstantinas (Karijotaitis) kariavo_pries [[objektai/grupes/Maskvėnai]]
+- Konstantinas (Karijotaitis) puole [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Maskvėnai]] buvo_priesas Konstantinas (Karijotaitis)
+- [[objektai/grupes/Maskvėnai]] kariavo_pries Konstantinas (Karijotaitis)

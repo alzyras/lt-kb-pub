@@ -77,6 +77,11 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Vaikių valsčių ir paremtas citata.'
   pagrindžia:
     - c-004
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59869|Henrikas iš Plockės]]: 1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.
+- susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
+- susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59869|Henrikas iš Plockės]]: 1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.
@@ -104,6 +109,10 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
+- susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175095|Sembai]]: 1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-183896|Sembai]]: 1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.
+- susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -184,3 +193,14 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- [[objektai/asmenys/Henrikas iš Plockės]] surenge_zygi_i Vaikiai
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Vaikiai
+- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Vaikiai
+- Vaikiai priklause [[objektai/vietos/Žemaitija]]
+- [[objektai/asmenys/Fridrichas fon Vildenbergas]] surenge_zygi_i Vaikiai
+- [[objektai/asmenys/Fridrichas fon Vildenbergas]] keliavo_i Vaikiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Vaikiai
+- [[objektai/grupes/Sembai]] surenge_zygi_i Vaikiai
+- [[objektai/asmenys/Fridrichas fon Vildenbergas]] puole Vaikiai

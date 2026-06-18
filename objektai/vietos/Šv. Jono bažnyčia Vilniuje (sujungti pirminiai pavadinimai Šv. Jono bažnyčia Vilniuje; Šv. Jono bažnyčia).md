@@ -64,13 +64,13 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=49afca35dbe6bdc1d37f3d3eab64200d9026f8bb107deb9e83bf46f9100a7d0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Jono bažnyčia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bažnyčia tiesiogiai lokalizuota Vilniuje.
 
 <a id="claim-t-85995"></a>
 - t-003
@@ -140,7 +140,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   global_id: t-85998
   teiginys: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo įkūrimo, pabaigimo ir pašventinimo datas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Šv. Jono bažnyčia; mentioned_place: Šv. Jono bažnyčia Vilniuje; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Plockas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Šv. Jono bažnyčia; mentioned_place: Šv. Jono bažnyčia Vilniuje; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Plockas; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1386 m.; įvykio data: 1426 m.; įvykio data: 1427 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo įkūrimo, pabaigimo ir pašventinimo datas.'
@@ -288,13 +288,13 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=49afca35dbe6bdc1d37f3d3eab64200d9026f8bb107deb9e83bf46f9100a7d0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilnius: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Jono bažnyčia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bažnyčia tiesiogiai lokalizuota Vilniuje.
     - t-003
 
 - c-006

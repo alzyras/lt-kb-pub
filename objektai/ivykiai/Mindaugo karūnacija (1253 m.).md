@@ -56,7 +56,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   global_id: t-13489
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatoje nurodyta informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: [[objektai/asmenys/Morta|Morta]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatoje nurodyta informacija.'
@@ -65,13 +65,13 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo karūnacija (1253 m.)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje Morta tiesiogiai įvardyta kaip Mindaugo žmona.
 
 <a id="claim-t-13490"></a>
 - t-002
@@ -232,13 +232,13 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   irodymo_stiprumas: 0.00
   saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugo karūnacija (1253 m.)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_vyras -> Morta: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje Morta tiesiogiai įvardyta kaip Mindaugo žmona.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 46459-46802; hash=dc1cd866eac396b43de8eeb4f1ec6f58946f193a69a8dc264e6db1bd5f2e1dcd; match=whitespace_regex

@@ -38,7 +38,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   global_id: t-111491
   teiginys: 'Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'location: Prancūzija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -47,7 +47,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   global_id: t-111492
   teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Anglija; mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]] siuntė į Anglija'
   pagrindžia:
     - c-003
 
@@ -56,7 +57,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   global_id: t-111493
   teiginys: 'Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.'
   sudarymo_pagrindimas: 'Reikia pašalinti puslapio antraštės triukšmą ir sutelkti teiginį į Angliją, išlaikant citatos pagrindą.'
-  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Anglija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Anglija'
   pagrindžia:
     - c-002
 
@@ -76,7 +78,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - t-005
   global_id: t-111496
   teiginys: 'Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Prancūzija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -104,20 +106,17 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prancūzija: 0.96
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.92
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Prancūzija: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prancūzija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad žemaičiai sudarė sutartį su Ordinu.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46010|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46011|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš [[objektai/asmenys/Henrikas IV.md#claim-t-30261|Henrikas IV]]: Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.
-- susijęs iš [[objektai/asmenys/Henrikas V.md#claim-t-87908|Henrikas V]]: Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.
-- susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis).md#claim-t-54711|Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]: 1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.
-- susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
-- susijęs iš Prancūzija: Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Prūsija: Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Prūsija: Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
+- susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46010|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46011|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
@@ -225,6 +224,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - susijęs iš [[objektai/zodynas/kilmingieji nobilis.md#claim-t-58908|kilmingieji nobilis]]: Dusburgiečio kronikoje nobilis žymi prūsų ir lietuvių visuomenės socialines viršūnes.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
+- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74141|JAV lietuviai]]: 00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -269,12 +269,13 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prancūzija: 0.96
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.92
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Prancūzija: nearest_after_predicate, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prancūzija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad žemaičiai sudarė sutartį su Ordinu.
     - t-003
 
 - c-003
@@ -371,6 +372,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - t-001
 
 ## Ryšiai
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] siunte_i Anglija
 - [[objektai/asmenys/Henrikas IV]] buvo_valdovas Anglija
-- [[objektai/asmenys/Henrikas V]] buvo_valdovas Anglija
-- [[objektai/grupes/Anglai]] keliavo_i Anglija
+- [[objektai/grupes/Lietuviai]] gyveno Anglija
+- Anglija priklause [[objektai/vietos/Vakarų Europa]]

@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-28877
   teiginys: '1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje įvardis neįvardija Vytauto, todėl sakinys patikslintas.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje įvardis neįvardija Vytauto, todėl sakinys patikslintas.'
@@ -52,13 +52,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 844484-844687; hash=fbcadcfb9edd137db8f68f4981fc5f26dec5f76faf18783b5302264a162adadf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jadvyga: nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jadvyga" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Jadvygos kelionę į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +77,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 844484-844687; hash=fbcadcfb9edd137db8f68f4981fc5f26dec5f76faf18783b5302264a162adadf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jadvyga: nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jadvyga" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Jadvygos kelionę į Vilnių.

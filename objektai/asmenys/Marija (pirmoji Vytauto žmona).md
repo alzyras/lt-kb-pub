@@ -23,19 +23,20 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
 - t-001
   global_id: t-35217
   teiginys: 'Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Marija (pirmoji Vytauto žmona)|Marija (pirmoji Vytauto žmona)]] buvo žmona [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dd2a6d59dadf54369478053208edfe6815e99526db535b2290db33739019b081; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marija (pirmoji Vytauto žmona): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marija (pirmoji Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marija (pirmoji Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip pirmąją Vytauto žmoną.
 
 ## Reikšmingi paminėjimai
 
@@ -55,10 +56,13 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dd2a6d59dadf54369478053208edfe6815e99526db535b2290db33739019b081; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marija (pirmoji Vytauto žmona): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marija (pirmoji Vytauto žmona)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marija (pirmoji Vytauto žmona): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip pirmąją Vytauto žmoną.
+
+## Ryšiai
+- Marija (pirmoji Vytauto žmona) buvo_zmona [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

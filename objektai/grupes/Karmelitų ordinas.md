@@ -30,7 +30,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - t-001
   global_id: t-112560
   teiginys: 'Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Karmelitų ordinas|Karmelitų ordinas]] gyveno Lietuva'
   pagrindžia:
     - c-001
 
@@ -101,3 +102,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   ryšio_subjekto_parinkimas: Karmelitų ordinas: owner_note_path, group
   ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=1
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karmelitų ordinas" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Karmelitų ordinas gyveno [[objektai/vietos/Lietuva]]

@@ -50,19 +50,20 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   global_id: t-86750
   teiginys: 'Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus.'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį su aiškiai įvardytu asmeniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]; llm_object: [[objektai/grupes/Vilniaus reformatai ir disidentai|Vilniaus reformatai ir disidentai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Volanas|Andrius Volanas]] rėmė [[objektai/grupes/Vilniaus reformatai ir disidentai|Vilniaus reformatai ir disidentai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 591270-592011; hash=71924edd69a9cf1c8a7267593f4bc904cc302023578c1f34981da8d22f9f6f4d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Volanas: 0.83
+  ryšio_patikimumas: reme -> Vilniaus reformatai ir disidentai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus reformatai ir disidentai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Andrius Volanas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus reformatai ir disidentai" parinktas kaip owner_note_path. Targetas "Andrius Volanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Volanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus reformatai ir disidentai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata Volaną aiškiai stato disidentų pusėje, todėl ryšys su disidentais kaip palaikoma puse yra tiesiogiai pagrįstas.
 
 <a id="claim-t-86751"></a>
 - t-003
@@ -158,13 +159,13 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   irodymo_stiprumas: 0.00
   saltinio_vieta: 591270-592011; hash=71924edd69a9cf1c8a7267593f4bc904cc302023578c1f34981da8d22f9f6f4d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Volanas: 0.83
+  ryšio_patikimumas: reme -> Vilniaus reformatai ir disidentai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus reformatai ir disidentai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Andrius Volanas: mention_match, person, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus reformatai ir disidentai" parinktas kaip owner_note_path. Targetas "Andrius Volanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Volanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus reformatai ir disidentai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata Volaną aiškiai stato disidentų pusėje, todėl ryšys su disidentais kaip palaikoma puse yra tiesiogiai pagrįstas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 592165-592502; hash=46db83be4bde653c0f3573230d7925140a740f08555013b982c56e0c81f66ad2; match=whitespace_regex
@@ -176,3 +177,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   ryšio_subjekto_parinkimas: Vilniaus reformatai ir disidentai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Steponas Batoras: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus reformatai ir disidentai" parinktas kaip owner_note_path. Targetas "Steponas Batoras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Andrius Volanas]] reme Vilniaus reformatai ir disidentai

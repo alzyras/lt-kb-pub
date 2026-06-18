@@ -36,7 +36,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   global_id: t-175155
   teiginys: 'Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie pranešime nurodytus veikėjus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; llm_object: Kulmo žemė'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie pranešime nurodytus veikėjus.'
@@ -45,13 +45,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Lietuvos kariuomenė kovojo prieš Ordiną.
 
 <a id="claim-t-175157"></a>
 - t-002
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   global_id: t-175158
   teiginys: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pranešime esančius duomenis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -99,19 +99,19 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   global_id: t-175159
   teiginys: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
   sudarymo_pagrindimas: 'Citata palaiko aiškią pilių statybos seką pagal pranešimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Marienverderis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Marienverderis; llm_object: Elbingas; llm_object: Baiga; llm_object: Marienverderis'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 143767-144033; hash=769b71353dc9a67a800bc9cf5caf6f2de6790ea80243fb3ff21b50f545d59afa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumas: paskyre -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Konradas dovanojo Ordinui žemes; artimiausias leidžiamas santykis yra paskyrimas Ordinui, nors tikslus predikatas būtų dovanojimas.
 
 <a id="claim-t-175160"></a>
 - t-005
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   global_id: t-175161
   teiginys: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lubava; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1228 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą.'
@@ -136,13 +136,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e1e2a9527689367d2fe57b04df59fcff42c068857adb74e89b31942c56d786a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=115
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Elbingas tiesiogiai įvardytas kaip Ordino pilis.
 
 <a id="claim-t-175162"></a>
 - t-007
@@ -249,13 +249,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Lietuvos kariuomenė kovojo prieš Ordiną.
     - t-006
 
 - c-006
@@ -273,13 +273,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e1e2a9527689367d2fe57b04df59fcff42c068857adb74e89b31942c56d786a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=115
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Elbingas tiesiogiai įvardytas kaip Ordino pilis.
     - t-004
 
 - c-007
@@ -298,13 +298,13 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 143767-144033; hash=769b71353dc9a67a800bc9cf5caf6f2de6790ea80243fb3ff21b50f545d59afa; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumas: paskyre -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henriko iš Hohenlohės pranešimas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko iš Hohenlohės pranešimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Konradas dovanojo Ordinui žemes; artimiausias leidžiamas santykis yra paskyrimas Ordinui, nors tikslus predikatas būtų dovanojimas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 137535-137709; hash=85dd24f7e997823fabac42ada745bedadab224d538a5af8b1987bebb47fa945b; match=exact

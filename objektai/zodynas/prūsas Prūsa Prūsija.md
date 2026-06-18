@@ -57,7 +57,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   global_id: t-58793
   teiginys: 'XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Barta; mentioned_place: Nemunas; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Barta; mentioned_place: Nemunas; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Čekija; llm_object: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
@@ -84,13 +84,13 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   irodymo_stiprumas: 0.00
   saltinio_vieta: 172864-173840; hash=cffbe9015e644e7cbe044a29f84c20c0dd0b2346fbf956a6e0d31cfdba887574; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: prūsas Prūsa Prūsija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prūsas Prūsa Prūsija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini, kad kraštas, vadintas Prūsija, buvo pavergtas Kryžiuočių ordino.
 
 <a id="claim-t-58795"></a>
 - t-004
@@ -254,10 +254,10 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   irodymo_stiprumas: 0.00
   saltinio_vieta: 172864-173840; hash=cffbe9015e644e7cbe044a29f84c20c0dd0b2346fbf956a6e0d31cfdba887574; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: uzkariavo -> Prūsija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: prūsas Prūsa Prūsija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prūsas Prūsa Prūsija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini, kad kraštas, vadintas Prūsija, buvo pavergtas Kryžiuočių ordino.

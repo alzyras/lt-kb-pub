@@ -22,19 +22,20 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nesvyžius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nesvyžius'
+  semantiniai_rysiai: 'Sėlpilis priklausė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1251822-1252582; hash=5c00e149fcca006c067f55f0659d8d5555f503935cafd6517fda2e927c188976; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sėlpilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sėlpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sėlpilis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sėlpilio pilis su apylinkėmis įvardyta kaip perduodama Lietuvai.
 - susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
 - susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
@@ -78,10 +79,13 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1251822-1252582; hash=5c00e149fcca006c067f55f0659d8d5555f503935cafd6517fda2e927c188976; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sėlpilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sėlpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sėlpilis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sėlpilio pilis su apylinkėmis įvardyta kaip perduodama Lietuvai.
+
+## Ryšiai
+- Sėlpilis priklause [[objektai/vietos/Lietuva]]

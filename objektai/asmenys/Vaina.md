@@ -115,3 +115,6 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
   ryšio_subjekto_parinkimas: Vaina: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kuršiečiai: mention_match, group, gap=38
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaina" parinktas kaip owner_note_path. Targetas "Kuršiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vaina puole [[objektai/grupes/Švedai]]

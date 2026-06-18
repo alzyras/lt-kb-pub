@@ -36,13 +36,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278321-278498; hash=366044612d4fd50ea94f5e91e0f4b745fa7224a0b232c2b3b1723c689edff036; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblatt Jahrbücher: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblatt Jahrbücher" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių priartėjimas prie Vilniaus tiesiogiai nurodo judėjimą Vilniaus kryptimi.
 
 <a id="claim-t-88116"></a>
 - t-002
@@ -68,7 +68,7 @@ amziai:
   global_id: t-88117
   teiginys: 'Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilija; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -189,13 +189,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 278321-278498; hash=366044612d4fd50ea94f5e91e0f4b745fa7224a0b232c2b3b1723c689edff036; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.69
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblatt Jahrbücher: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblatt Jahrbücher" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių priartėjimas prie Vilniaus tiesiogiai nurodo judėjimą Vilniaus kryptimi.
     - t-003
 
 - c-004

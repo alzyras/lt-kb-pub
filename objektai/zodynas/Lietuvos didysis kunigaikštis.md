@@ -34,7 +34,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia autoriaus vertinimą, todėl tinka atribucija Kojelavičiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -62,13 +62,13 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 573918-574720; hash=25df961924d5a48a86332ca0157563293bd3b02bdcd187ead2073bb07221b449; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos didysis kunigaikštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos didysis kunigaikštis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras I: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandrą Vytautą paskelbus Lietuvos didžiuoju kunigaikščiu; naudojamas leistas kandidatas „Aleksandras I“.
 
 <a id="claim-t-185377"></a>
 - t-004
@@ -258,13 +258,13 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 573918-574720; hash=25df961924d5a48a86332ca0157563293bd3b02bdcd187ead2073bb07221b449; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos didysis kunigaikštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos didysis kunigaikštis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras I: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Aleksandrą Vytautą paskelbus Lietuvos didžiuoju kunigaikščiu; naudojamas leistas kandidatas „Aleksandras I“.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 820396-820930; hash=13ba423743f52c0a672781503c1eaac64ead6c076553af1666d6593804c3565b; match=exact

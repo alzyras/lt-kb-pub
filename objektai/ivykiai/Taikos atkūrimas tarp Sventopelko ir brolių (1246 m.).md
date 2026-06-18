@@ -47,20 +47,19 @@ Nenurodyta
   teiginys: 'Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir yra pagrįstas citatos duomenimis.'
-  susije_objektai: 'territory: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 320306-321324; hash=c9b56c858b364d63ce4a761d339a89bd5daee38107a90c4fe6d3f6737945a0c8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Sventopelkas: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Pomeranija: exact_title_context, place, gap=12
-  ryšio_slopinti_kandidatai: Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sventopelkas" parinktas kaip nearest_actor_after_title. Targetas "Pomeranija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Sventopelką tiesiogiai įvardija Pomeranijos kunigaikščiu.
 
 <a id="claim-t-62497"></a>
 - t-002
@@ -123,14 +122,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 320306-321324; hash=c9b56c858b364d63ce4a761d339a89bd5daee38107a90c4fe6d3f6737945a0c8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Sventopelkas: nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Pomeranija: exact_title_context, place, gap=12
-  ryšio_slopinti_kandidatai: Prūsija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sventopelkas" parinktas kaip nearest_actor_after_title. Targetas "Pomeranija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Sventopelką tiesiogiai įvardija Pomeranijos kunigaikščiu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322245-322348; hash=cadf752d5190b6cdf768e7dbf0069e402f2a471c82632568c8bd3be0985aaeac; match=exact

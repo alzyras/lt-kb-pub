@@ -34,8 +34,6 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
   ryšio_subjekto_parinkimas: Vonsdorfas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vonsdorfas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
@@ -51,6 +49,10 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
+- susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
+- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
+- susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
+- susijęs iš Auktalitas: 1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,5 +98,6 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vonsdorfas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Sembai]] uzkariavo Vonsdorfas
-- [[objektai/asmenys/Tirskas]] uzkariavo Vonsdorfas
+- [[objektai/grupes/Sembai]] puole Vonsdorfas
+- [[objektai/asmenys/Tirskas]] puole Vonsdorfas
+- [[objektai/vietos/Auktalitas]] priklause Vonsdorfas

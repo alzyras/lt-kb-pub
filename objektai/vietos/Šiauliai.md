@@ -31,7 +31,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - t-001
   global_id: t-182783
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Šiauliai; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]] keliavo į Šiauliai'
   pagrindžia:
     - c-001
 
@@ -55,6 +56,12 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   susije_objektai: 'mentioned_place: Tilžė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
+- susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78777|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
+- susijęs iš Kuršėnai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78788|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru rengė ankstyvųjų leidinio skyrių kartoschemas.
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76028|Victor David Brenner]]: Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
@@ -120,6 +127,10 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - susijęs iš Plungė: XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.
 - susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70077|akcijos]]: Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.
+- susijęs iš [[objektai/posakiai/kein Soule sie karten wider.md#claim-t-28705|kein Soule sie karten wider]]: Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.
+- susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
+- susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-183490|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
+- susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-20835|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -173,3 +184,10 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/grupes/Virgoličiaus rinktinė]] keliavo_i Šiauliai
+- [[objektai/grupes/Kalavijuočių ordinas]] puole Šiauliai
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Šiauliai
+- [[objektai/asmenys/Victor David Brenner]] gime Šiauliai
+- [[objektai/vietos/Kryžių kalnas]] priklause Šiauliai

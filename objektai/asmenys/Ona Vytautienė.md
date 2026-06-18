@@ -33,6 +33,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Krėva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184877|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54955|Barbora Radvilaitė]]: Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Gzovskis.md#claim-t-87907|Gzovskis]]: Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.
@@ -162,3 +163,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_vyras Ona Vytautienė

@@ -54,7 +54,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-001
   global_id: t-54956
   teiginys: 'Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] buvo duktė [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; [[objektai/asmenys/Aleksandras|Aleksandras]] vedė [[objektai/asmenys/Elena|Elena]]'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -62,19 +63,20 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi.
 
 <a id="claim-t-54957"></a>
 - t-002
   global_id: t-54957
   teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -82,38 +84,39 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Elena atvyko į Vilnių.
 
 <a id="claim-t-54958"></a>
 - t-003
   global_id: t-54958
   teiginys: 'Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] vedė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Elena (vyskupas, XV–XVI a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai patvirtina Aleksandro ir Elenos santuoką.
 
 <a id="claim-t-54959"></a>
 - t-004
   global_id: t-54959
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai pagrindžia santuokos poveikį Vilniaus prekybai.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Pskovas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Pskovas; mentioned_place: Tverė; llm_object: Pskovas; llm_object: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata tiesiogiai pagrindžia santuokos poveikį Vilniaus prekybai.'
@@ -122,56 +125,59 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468227-468775; hash=1fb7fb5fc57b6b92c6916b46b8136d02f6e5c5278092662697257ceb36eb3afb; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Vilniaus prekybinių santykių plėtrą su Rusios miestais, tarp jų Pskovu.
 
 <a id="claim-t-54960"></a>
 - t-005
   global_id: t-54960
   teiginys: 'Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Laskis|Jonas Laskis]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Laskis|Jonas Laskis]]; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Krymas; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Elena lydėjo Aleksandrą, kai šis buvo gabenamas į Vilnių.
 
 <a id="claim-t-54961"></a>
 - t-006
   global_id: t-54961
   teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatoje nurodyta informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] pastatė [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473474-474113; hash=209bad3c8ce86d33c43b94a34369b2362f3595f67e4ebc6f2cedee0d5e930032; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Elena savo lėšomis pastatydino namą.
 
 <a id="claim-t-54962"></a>
 - t-007
   global_id: t-54962
   teiginys: '1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.'
-  susije_objektai: 'mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dniepras; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dniepras; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Mogiliavas priklausė [[objektai/asmenys/Elena|Elena]]'
   temporaliniai_duomenys: 'įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -190,7 +196,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   global_id: t-82283
   teiginys: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
   sudarymo_pagrindimas: 'Citata pagrindžia vedybų motyvą, o pradinis teiginys prasidėjo neaiškiu įvardžiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] buvo duktė [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; [[objektai/asmenys/Aleksandras|Aleksandras]] vedė [[objektai/asmenys/Elena|Elena]]'
   temporaliniai_duomenys: 'įvykio data: 1494 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia vedybų motyvą, o pradinis teiginys prasidėjo neaiškiu įvardžiu.'
@@ -199,20 +206,21 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Mogiliavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mogiliavas: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Mogiliavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Elena (vyskupas, XV–XVI a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mogiliavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Mogiliavo pilis buvo dovanojama Elenai jos naudojimui.
 
 <a id="claim-t-82284"></a>
 - t-010
   global_id: t-82284
   teiginys: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
   sudarymo_pagrindimas: 'Citata pagrindžia dovaną ir jos trukmę, pradinis teiginys buvo dokumento formulės fragmentas.'
-  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Mogiliavas priklausė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -231,26 +239,27 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   global_id: t-82285
   teiginys: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
   sudarymo_pagrindimas: 'Citata pagrindžia užrašytas valdas, o pradinis teiginys prasidėjo kontekstiniu fragmentu.'
-  susije_objektai: 'mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bełskas; mentioned_place: Vilnius; mentioned_place: Čirčinskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bełskas; mentioned_place: Vilnius; mentioned_place: Čirčinskas'
+  semantiniai_rysiai: 'Losičiai priklausė [[objektai/asmenys/Elena|Elena]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi.
 
 <a id="claim-t-82286"></a>
 - t-012
   global_id: t-82286
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia poveikį prekybiniams ryšiams.'
-  susije_objektai: 'mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]'
+  susije_objektai: 'mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; llm_object: Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia poveikį prekybiniams ryšiams.'
@@ -259,20 +268,21 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Elena atvyko į Vilnių.
 
 <a id="claim-t-82287"></a>
 - t-013
   global_id: t-82287
   teiginys: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] mirė Vilnius'
   temporaliniai_duomenys: 'mirties data: 1513 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente.'
@@ -294,8 +304,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   global_id: t-82288
   teiginys: '1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį.'
-  susije_objektai: 'location: Maskva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Maskva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį.'
@@ -304,13 +314,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vilniaus prekybinius ryšius sieja su Rusios miestais, tarp kurių įvardytas Pskovas.
 
 <a id="claim-t-82289"></a>
 - t-015
@@ -323,13 +333,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478509-478988; hash=29674020b83c5d56c890d843aa93acae5702d34c5b90a2f46deec3fb157598f2; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Elena mirė Vilniuje.
 
 <a id="claim-t-82290"></a>
 - t-016
@@ -364,13 +374,16 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a1699172e642578dccecb3c7aca5af8332f2304d59726efa585ee3990a75927a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Losičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Losičiai: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Losičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Elena (vyskupas, XV–XVI a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Losičiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Losičiai yra išvardyti tarp valdų, kurias Aleksandras užrašė Elenai ir jos įpėdiniams.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82180|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.
+- susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
@@ -461,6 +474,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-184640|tėvonija]]: Ivanas skelbė ginklu ginsiąs globon paimtus asmenis ir tėvonijas nuo smurto.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173331|Žygimantas Senasis]]: Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -490,13 +505,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Elena atvyko į Vilnių.
     - t-014
 
 - c-002
@@ -517,13 +532,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Vilniaus prekybinius ryšius sieja su Rusios miestais, tarp kurių įvardytas Pskovas.
     - t-003
 
 - c-003
@@ -546,13 +561,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: vede -> Elena (vyskupas, XV–XVI a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai patvirtina Aleksandro ir Elenos santuoką.
     - t-004
 
 - c-004
@@ -575,13 +590,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 468227-468775; hash=1fb7fb5fc57b6b92c6916b46b8136d02f6e5c5278092662697257ceb36eb3afb; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: prekiavo_su -> Pskovas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Vilniaus prekybinių santykių plėtrą su Rusios miestais, tarp jų Pskovu.
     - t-005
 
 - c-005
@@ -614,13 +629,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandro lektika: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandro lektika: mention_match, thing, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandro lektika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Elena lydėjo Aleksandrą, kai šis buvo gabenamas į Vilnių.
     - t-006
 
 - c-006
@@ -664,13 +679,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 473474-474113; hash=209bad3c8ce86d33c43b94a34369b2362f3595f67e4ebc6f2cedee0d5e930032; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Namas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Elena savo lėšomis pastatydino namą.
     - t-008
 
 - c-007
@@ -778,24 +793,24 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.99
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Elena atvyko į Vilnių.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Mogiliavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mogiliavas: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Mogiliavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Elena (vyskupas, XV–XVI a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mogiliavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Mogiliavo pilis buvo dovanojama Elenai jos naudojimui.
     - t-001
 
 - c-011
@@ -848,13 +863,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi.
     - t-011
 
 - c-012
@@ -881,13 +896,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi.
     - t-015
 
 - c-013
@@ -934,13 +949,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 478509-478988; hash=29674020b83c5d56c890d843aa93acae5702d34c5b90a2f46deec3fb157598f2; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Elena mirė Vilniuje.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 714220-716031; hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=whitespace_regex
@@ -990,14 +1005,28 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a1699172e642578dccecb3c7aca5af8332f2304d59726efa585ee3990a75927a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Losičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Losičiai: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip owner_note_path. Targetas "Losičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Elena (vyskupas, XV–XVI a.): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Losičiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Losičiai yra išvardyti tarp valdų, kurias Aleksandras užrašė Elenai ir jos įpėdiniams.
 
 ## Ryšiai
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Maskva]]
+- Elena (vyskupas, XV–XVI a.) pastate [[objektai/daiktai/Namas]]
+- Elena (vyskupas, XV–XVI a.) mire [[objektai/vietos/Vilnius]]
 - Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Elena (vyskupas, XV–XVI a.) buvo_dukte [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- Elena (vyskupas, XV–XVI a.) buvo_zmona [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Aleksandras]] vede Elena (vyskupas, XV–XVI a.)
+- Elena (vyskupas, XV–XVI a.) valde_miesta [[objektai/vietos/Mogiliavas]]
+- [[objektai/vietos/Losičiai]] priklause Elena (vyskupas, XV–XVI a.)
+- [[objektai/asmenys/Aleksandras Jogailaitis]] vede Elena (vyskupas, XV–XVI a.)
+- [[objektai/vietos/Mogiliavas]] priklause Elena (vyskupas, XV–XVI a.)
+- Elena (vyskupas, XV–XVI a.) valde [[objektai/vietos/Mogiliavo pilis]]
+- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Polockas]]
+- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Žygimantas Senasis]] reme Elena (vyskupas, XV–XVI a.)
+- Elena (vyskupas, XV–XVI a.) valde_miesta [[objektai/vietos/Vilnius]]
+- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Maskva]]

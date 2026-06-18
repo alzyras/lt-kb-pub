@@ -21,38 +21,40 @@ tags:
   global_id: t-19813
   teiginys: 'Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako batalionų panaudojimą ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Ukraina; mentioned_place: Kaunas; mentioned_place: SSRS; mentioned_place: Čekoslovakija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Ukraina; mentioned_place: Kaunas; mentioned_place: SSRS; mentioned_place: Čekoslovakija; llm_object: Lenkija; llm_object: Ukraina'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių policijos savisaugos batalionai|Lietuvių policijos savisaugos batalionai]] puolė Lenkija; [[objektai/grupes/Lietuvių policijos savisaugos batalionai|Lietuvių policijos savisaugos batalionai]] puolė Ukraina'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7e474b1b3fa67db399cfb16ed64091dd42f5247a81e9a9e49c89ee2623189b7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių policijos savisaugos batalionai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žydai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių savisaugos policijos grupių įtraukimą į žydų bendruomenių žudynes.
 
 <a id="claim-t-19814"></a>
 - t-002
   global_id: t-19814
   teiginys: 'Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava'
+  susije_objektai: 'llm_object: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių policijos savisaugos batalionai|Lietuvių policijos savisaugos batalionai]] puolė [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef08a56a59bc3d2df7954d40f592c1f6d4ab83557de17ff775326c17b7257e07; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: puole -> Lenkija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių policijos savisaugos batalionai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad dalis batalionų buvo panaudota akcijose prieš civilius Lenkijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -90,21 +92,26 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef08a56a59bc3d2df7954d40f592c1f6d4ab83557de17ff775326c17b7257e07; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: puole -> Lenkija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių policijos savisaugos batalionai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad dalis batalionų buvo panaudota akcijose prieš civilius Lenkijoje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7e474b1b3fa67db399cfb16ed64091dd42f5247a81e9a9e49c89ee2623189b7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių policijos savisaugos batalionai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Žydai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvių policijos savisaugos batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių savisaugos policijos grupių įtraukimą į žydų bendruomenių žudynes.
+
+## Ryšiai
+- Lietuvių policijos savisaugos batalionai puole [[objektai/grupes/Žydai]]
+- Lietuvių policijos savisaugos batalionai puole [[objektai/vietos/Lenkija]]
+- Lietuvių policijos savisaugos batalionai puole [[objektai/vietos/Ukraina]]

@@ -30,26 +30,28 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   global_id: t-58556
   teiginys: 'Glotava laikoma pietrytiniu Pagudės valsčiumi.'
   sudarymo_pagrindimas: 'Citata remia glaustą enciklopedinį teiginį, bet originalas buvo bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_place: Pagudė; mentioned_place: Drevanta; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Pagudė; mentioned_place: Pagudė; mentioned_place: Drevanta; mentioned_place: Kulmas'
+  semantiniai_rysiai: 'Glotava priklausė Pagudė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedcc2e248446215a2aaad5ccb11d1fd0ee495beacea910b25021e1c43fa1d67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glotava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glotava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Glotava: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glotava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Netikėtas įsibrovimas į Glotavos valsčių yra tiesioginis puolimo veiksmas.
 
 <a id="claim-t-58557"></a>
 - t-002
   global_id: t-58557
   teiginys: '1300 m. rudenį 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citatos tekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Notanga; mentioned_place: Varmė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Glotava; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Notanga; mentioned_place: Varmė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Glotava'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citatos tekstu.'
@@ -58,13 +60,14 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   irodymo_stiprumas: 0.00
   saltinio_vieta: 605221-605681; hash=8765b9b38206c62989cb5b3ea3e88f0dfd546ab4600e1fee8aa40b3677860b05; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glotava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glotava" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Pagudė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glotava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Glotava tiesiogiai apibūdinta kaip Pagudės valsčius.
+- susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
 - susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-183922|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: Po Glotavos antpuolio Valteris Goldinas užkirto lietuviams kelią ir nukovė visus, išskyrus tris.
 - susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.
@@ -110,21 +113,25 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedcc2e248446215a2aaad5ccb11d1fd0ee495beacea910b25021e1c43fa1d67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glotava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glotava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Glotava: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glotava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Netikėtas įsibrovimas į Glotavos valsčių yra tiesioginis puolimo veiksmas.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 605221-605681; hash=8765b9b38206c62989cb5b3ea3e88f0dfd546ab4600e1fee8aa40b3677860b05; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glotava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glotava" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Pagudė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glotava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Glotava tiesiogiai apibūdinta kaip Pagudės valsčius.
+
+## Ryšiai
+- Glotava priklause [[objektai/vietos/Pagudė]]
+- [[objektai/grupes/Lietuviai]] puole Glotava

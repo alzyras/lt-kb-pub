@@ -52,7 +52,8 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   global_id: t-83724
   teiginys: 'Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Labanorą, pašalintas puslapio ir antraštės triukšmas.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; llm_object: Vilniaus katedra'
+  semantiniai_rysiai: 'Labanoras priklausė Vilniaus katedra'
   pagrindžia:
     - c-002
 
@@ -83,6 +84,7 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 - susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
+- susijęs iš [[objektai/ivykiai/Giedraičių kautynės (1920 m.).md#claim-t-10213|Giedraičių kautynės (1920 m.)]]: Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,3 +143,7 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Labanoras" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/brigada]] keliavo_i Labanoras
+- Labanoras priklause [[objektai/vietos/Vilniaus katedra]]

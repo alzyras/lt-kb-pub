@@ -60,37 +60,39 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: 235857-236233; hash=9d7aeedde212d3574c924ce7fd3643bcd204a99a127e599420490ce0eac52d5e; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Olesnickis ietimi parbloškė kryžiuočių vėliavos riterį; objektas apibendrintas iki leistino Kryžiuočių ordino kandidato.
 
 <a id="claim-t-176850"></a>
 - t-003
   global_id: t-176850
   teiginys: 'Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f67e341aac83399877619367a3be224c363037e54dd36ab3c55564251c7da48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Olesnickį nepriklausomos Vytauto politikos priešu.
 
 <a id="claim-t-176851"></a>
 - t-004
   global_id: t-176851
   teiginys: 'Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)|Vytauto karūnacijos byla (1429–1430 m.)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)|Vytauto karūnacijos byla (1429–1430 m.)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] rėmė [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -165,19 +167,20 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - t-008
   global_id: t-176855
   teiginys: 'Zbignievas Olesnickis pasisiūlė būti vienu iš lenkų atstovų, vykusių kartu su Jogaila į Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]] keliavo į Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 582279-582477; hash=fc02797314ef7691eab0133c1e1841cd5500d8c9421cd0429b95fe2617e67ebc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Olesnickis pasisiūlė būti tarp atstovų, vykusių kartu su Jogaila į Lietuvą.
 
 <a id="claim-t-176856"></a>
 - t-009
@@ -208,19 +211,20 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: 583954-584203; hash=b137d971838b83f2bbb811139e748ddf9e63b04381dae849e9da23587e168312; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: reme -> Zbignievas Olesnickis: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas siekė patraukti Olesnickį į savo pusę ir teikė jam dovanas; tai ribotai pagrindžia rėmimo veiksmą.
 
 <a id="claim-t-176859"></a>
 - t-011
   global_id: t-176859
   teiginys: 'Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -337,13 +341,13 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: 582279-582477; hash=fc02797314ef7691eab0133c1e1841cd5500d8c9421cd0429b95fe2617e67ebc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Olesnickis pasisiūlė būti tarp atstovų, vykusių kartu su Jogaila į Lietuvą.
     - t-002
 
 - c-004
@@ -361,13 +365,13 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: 235857-236233; hash=9d7aeedde212d3574c924ce7fd3643bcd204a99a127e599420490ce0eac52d5e; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Kryžiuočių ordinas: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Olesnickis ietimi parbloškė kryžiuočių vėliavos riterį; objektas apibendrintas iki leistino Kryžiuočių ordino kandidato.
     - t-004
 
 - c-005
@@ -440,13 +444,13 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f67e341aac83399877619367a3be224c363037e54dd36ab3c55564251c7da48; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai vadina Olesnickį nepriklausomos Vytauto politikos priešu.
     - t-014
     - t-012
 
@@ -506,13 +510,13 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   irodymo_stiprumas: 0.00
   saltinio_vieta: 583954-584203; hash=b137d971838b83f2bbb811139e748ddf9e63b04381dae849e9da23587e168312; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: reme -> Zbignievas Olesnickis: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zbignievas Olesnickis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas siekė patraukti Olesnickį į savo pusę ir teikė jam dovanas; tai ribotai pagrindžia rėmimo veiksmą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2171f05c0843d6f110a9a3948032d6e907e348635a5f819abd22a051f118e0c0; match=fallback; occurrences=0
@@ -588,3 +592,9 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   ryšio_subjekto_parinkimas: Zbignievas Olesnickis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Karūna: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignievas Olesnickis" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Zbignievas Olesnickis buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zbignievas Olesnickis keliavo_i [[objektai/vietos/Lietuva]]
+- Zbignievas Olesnickis puole [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Zbignievas Olesnickis

@@ -64,7 +64,7 @@ Nenurodyta
 - t-003
   global_id: t-54180
   teiginys: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Vasilijus III|Vasilijus III]]; mentioned_place: Dubrovna; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Vasilijus III|Vasilijus III]]; mentioned_place: Dubrovna; mentioned_place: Lietuva; llm_object: Dubrovna'
   pagrindžia:
     - c-002
 

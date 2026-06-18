@@ -182,13 +182,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 622335-623030; hash=fbf989093d99d1bd23d220f78e979e4bf049b4d4f4204db46da6638c06475112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
+  ryšio_patikimumas: puole -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: papilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "papilys" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Albrechtas iš Hageno įsiveržė į Gardino papilį; objektas susietas su Gardinu.
 
 <a id="claim-t-58780"></a>
 - t-009
@@ -255,7 +255,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   global_id: t-58784
   teiginys: '1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į vientisą sakinį be nuotrupų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga; llm_object: Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1306 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į vientisą sakinį be nuotrupų.'
@@ -302,7 +302,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas citata paremtas įvykis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsija; mentioned_place: Veklicas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Elbingas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsija; mentioned_place: Veklicas; mentioned_place: Viena; llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -324,7 +324,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nukirstas sakinys ir išlaikyta citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga; llm_object: Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1306 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nukirstas sakinys ir išlaikyta citatos informacija.'
@@ -358,13 +358,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 622335-623030; hash=fbf989093d99d1bd23d220f78e979e4bf049b4d4f4204db46da6638c06475112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
+  ryšio_patikimumas: puole -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: papilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "papilys" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Albrechtas iš Hageno įsiveržė į Gardino papilį; objektas susietas su Gardinu.
 
 <a id="claim-t-184633"></a>
 - t-018
@@ -615,13 +615,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 622335-623030; hash=fbf989093d99d1bd23d220f78e979e4bf049b4d4f4204db46da6638c06475112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
+  ryšio_patikimumas: puole -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: papilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "papilys" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Albrechtas iš Hageno įsiveržė į Gardino papilį; objektas susietas su Gardinu.
     - t-017
 
 - c-008
@@ -645,13 +645,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 622335-623030; hash=fbf989093d99d1bd23d220f78e979e4bf049b4d4f4204db46da6638c06475112; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
+  ryšio_patikimumas: puole -> Gardinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: papilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "papilys" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Albrechtas iš Hageno įsiveržė į Gardino papilį; objektas susietas su Gardinu.
     - t-001
 
 - c-009
@@ -758,13 +758,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 466174-466661; hash=e49500599f6bce82a790c027644595026d05915d9dcd808ad2134898dfc8b4ab; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: papilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "papilys" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Elbingas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata aiškiai nurodo, kad pagudėnai užpuolė Elbingo pilį.
     - t-005
 
 - c-013

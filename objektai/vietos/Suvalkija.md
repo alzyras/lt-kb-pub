@@ -82,3 +82,7 @@ amziai:
   ryšio_subjekto_parinkimas: Suvalkija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Tauro apygarda: mention_match, group, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suvalkija" parinktas kaip owner_note_path. Targetas "Tauro apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Suvalkija priklause [[objektai/vietos/Lenkijos karalystė]]
+- Suvalkija priklause [[objektai/vietos/Suvalkai]]

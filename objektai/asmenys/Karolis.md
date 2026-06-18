@@ -76,3 +76,6 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   ryšio_subjekto_parinkimas: Karolis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Moravai: mention_match, group, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis" parinktas kaip owner_note_path. Targetas "Moravai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Karolis puole [[objektai/vietos/Junigeda]]

@@ -131,8 +131,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-008
   global_id: t-90048
   teiginys: 'Pirmasis iškilo Kernavės kunigaikštis Traidenis.'
-  susije_objektai: 'territory: Kernavė; mentioned_place: Dobrynė; mentioned_place: Kernavė'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Kernavė'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Kernavė'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -160,8 +159,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   global_id: t-90052
   teiginys: '1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
-  susije_objektai: 'territory: Drohičinas; mentioned_place: Drohičinas; mentioned_place: Lenkija; mentioned_place: Padauguvis; mentioned_place: Rusia'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] užėmė Drohičinas'
+  susije_objektai: 'mentioned_place: Drohičinas; mentioned_place: Lenkija; mentioned_place: Padauguvis; mentioned_place: Rusia'
   temporaliniai_duomenys: 'įvykio data: 1272 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
@@ -184,8 +182,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-012
   global_id: t-90056
   teiginys: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
-  susije_objektai: 'territory: Drohičinas; mentioned_place: Drohičinas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] užėmė Drohičinas'
+  susije_objektai: 'mentioned_place: Drohičinas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1272 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -195,20 +192,19 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-013
   global_id: t-90058
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
-  susije_objektai: 'object: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Liublinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] gynė [[objektai/grupes/Baltai|Baltai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aec34dffd98eb2d985eb8d2232a75826d7061ee54785abc3f38780b4046d991a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Drohičinas: 1.00
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Drohičinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=35
-  ryšio_targeto_parinkimas: Drohičinas: nearest_after_predicate, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Drohičinas: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184844"></a>
 - t-015
@@ -233,8 +229,16 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-012
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89344|Žiemgaliai]]: Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176823|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176824|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176826|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176827|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176832|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176845|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176847|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
+- susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79156|Sirputis (Traidenio brolis)]]: Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.
+- susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79158|Sirputis (Traidenio brolis)]]: Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Sirputis (Traidenio brolis).md#claim-t-79156|Sirputis (Traidenio brolis)]]: Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Traidenis (Mazovijos kunigaikštis, 1325 m.).md#claim-t-87870|Traidenis (Mazovijos kunigaikštis, 1325 m.)]]: Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
@@ -442,13 +446,13 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ca207d7757338e13aec886b4f8c90e6e06c0abfb18788b5d15286df9ca373ad9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Baltai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_defense_local_target
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=20
-  ryšio_targeto_parinkimas: Baltai: nearest_after_predicate, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_defense_local_target". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip nearest_after_predicate aplink predikatą "gyne". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aec34dffd98eb2d985eb8d2232a75826d7061ee54785abc3f38780b4046d991a; match=fallback; occurrences=0
@@ -526,8 +530,12 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-016
 
 ## Ryšiai
-- Traidenis (valdovas, XIII a.) uzeme [[objektai/vietos/Drohičinas]]
-- Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Kernavė]]
-- [[objektai/grupes/Lenkai]] kariavo_pries Traidenis (valdovas, XIII a.)
-- Traidenis (valdovas, XIII a.) gyne [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Žiemgaliai]] reme Traidenis (valdovas, XIII a.)
+- [[objektai/asmenys/Vytenis]] buvo_sunus Traidenis (valdovas, XIII a.)
+- [[objektai/asmenys/Sirputis (Traidenio brolis)]] buvo_brolis Traidenis (valdovas, XIII a.)
+- Traidenis (valdovas, XIII a.) reme [[objektai/grupes/Žiemgaliai]]
+- Traidenis (valdovas, XIII a.) apgule [[objektai/vietos/Daugpilis]]
+- Traidenis (valdovas, XIII a.) puole [[objektai/vietos/Kulmas]]
+- Traidenis (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Lenkai]]
+- Traidenis (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Traidenis (valdovas, XIII a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Traidenis (valdovas, XIII a.) surenge_zygi_i [[objektai/vietos/Krokuva]]

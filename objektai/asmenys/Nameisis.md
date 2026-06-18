@@ -31,7 +31,8 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
   global_id: t-60394
   teiginys: '1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Semba; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Nameisis|Nameisis]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1281 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
@@ -40,13 +41,13 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=10deca075b03cec8ccb5cd79ba55ea59fcb1a2bf730f5508973cfd0a107a9974; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nameisis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nameisis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nameisis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Nameisis vadovavo kariuomenei žygyje po Ordino užnugarį, todėl ryšys su karu prieš Ordiną tiesiogiai paremtas.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-183756|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40366|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90055|Traidenis (valdovas, XIII a.)]]: 1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.
@@ -79,10 +80,13 @@ Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino v
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=10deca075b03cec8ccb5cd79ba55ea59fcb1a2bf730f5508973cfd0a107a9974; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nameisis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nameisis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nameisis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Nameisis vadovavo kariuomenei žygyje po Ordino užnugarį, todėl ryšys su karu prieš Ordiną tiesiogiai paremtas.
+
+## Ryšiai
+- Nameisis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]

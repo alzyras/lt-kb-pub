@@ -33,7 +33,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   global_id: t-86704
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti veikėją ir veiksmą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Knišinas'
+  susije_objektai: 'llm_object: Knišinas; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Knišinas; llm_object: [[objektai/grupes/Vilniaus jėzuitų kolegija|Vilniaus jėzuitų kolegija]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] rėmė [[objektai/grupes/Vilniaus jėzuitų kolegija|Vilniaus jėzuitų kolegija]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -118,13 +119,13 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   irodymo_stiprumas: 0.00
   saltinio_vieta: 574916-575265; hash=8b853598aabc0f7e8cc0ff2a57a463cbdb324c116193c029858eddf098d54fd7; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus jėzuitų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus jėzuitų kolegija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Knišinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo, kad Žygimantas Augustas mirė Knišine.
 
 <a id="claim-t-86709"></a>
 - t-006
@@ -414,13 +415,13 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   irodymo_stiprumas: 0.00
   saltinio_vieta: 574916-575265; hash=8b853598aabc0f7e8cc0ff2a57a463cbdb324c116193c029858eddf098d54fd7; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus jėzuitų kolegija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus jėzuitų kolegija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Knišinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo, kad Žygimantas Augustas mirė Knišine.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 373505-373898; hash=65c637ec862f3d6c0238e75390f90547225e552ccfc6fa4e1b93c455ef089720; match=whitespace_regex
@@ -432,3 +433,6 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   ryšio_subjekto_parinkimas: Vilniaus jėzuitų kolegija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilniaus kapitula: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus jėzuitų kolegija" parinktas kaip owner_note_path. Targetas "Vilniaus kapitula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] reme Vilniaus jėzuitų kolegija

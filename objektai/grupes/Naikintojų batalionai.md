@@ -21,19 +21,20 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   global_id: t-19956
   teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie naikintojų batalionų įkūrimą ir pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; llm_object: [[objektai/grupes/NKVD|NKVD]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Naikintojų batalionai|Naikintojų batalionai]] priklausė [[objektai/grupes/NKVD|NKVD]]; [[objektai/grupes/Naikintojų batalionai|Naikintojų batalionai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa20d201a8d9876c32a1094ebc1ab43145d975e253b5e145e1fee32d45f43177; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: priklause -> NKVD: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naikintojų batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naikintojų batalionai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naikintojų batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė 'prie NKVD įkūrė' rodo naikintojų batalionų institucinį susiejimą su NKVD.
 
 ## Reikšmingi paminėjimai
 
@@ -52,10 +53,14 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa20d201a8d9876c32a1094ebc1ab43145d975e253b5e145e1fee32d45f43177; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: priklause -> NKVD: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naikintojų batalionai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naikintojų batalionai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naikintojų batalionai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė 'prie NKVD įkūrė' rodo naikintojų batalionų institucinį susiejimą su NKVD.
+
+## Ryšiai
+- Naikintojų batalionai priklause [[objektai/grupes/NKVD]]
+- Naikintojų batalionai kariavo_pries [[objektai/grupes/Lietuviai]]

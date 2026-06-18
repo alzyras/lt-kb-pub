@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-34538
   teiginys: '1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
   sudarymo_pagrindimas: 'Reikia pataisyti datos brūkšnį ir palikti sklandžią enciklopedinę formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Kijevas; llm_object: Podolė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vorskla; llm_object: Luckas'
   temporaliniai_duomenys: 'įvykio data: 1414-1416; įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti datos brūkšnį ir palikti sklandžią enciklopedinę formuluotę.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Edyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Edyga: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)" parinktas kaip owner_note_path. Targetas "Edyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kijevas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad totoriai puldinėjo Kijevo kraštus.

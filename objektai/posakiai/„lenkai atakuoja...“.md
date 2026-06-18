@@ -29,7 +29,7 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
   global_id: t-20909
   teiginys: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.'
   sudarymo_pagrindimas: 'Sutrumpinta ir pašalinta perteklinė citatos dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_person: [[objektai/asmenys/Mykolas Sleževičius|Mykolas Sleževičius]]; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Seinai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_person: [[objektai/asmenys/Mykolas Sleževičius|Mykolas Sleževičius]]; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Seinai'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalinta perteklinė citatos dalis.'
@@ -38,13 +38,13 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c7298322641573b8940dc898527c98732eff667e0c7a203ee22863aaeb8ace8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „lenkai atakuoja...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„lenkai atakuoja...“" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sleževičiaus citatoje lenkai tiesiogiai įvardyti kaip puolantieji Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -70,10 +70,10 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5c7298322641573b8940dc898527c98732eff667e0c7a203ee22863aaeb8ace8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „lenkai atakuoja...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„lenkai atakuoja...“" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sleževičiaus citatoje lenkai tiesiogiai įvardyti kaip puolantieji Lietuvą.

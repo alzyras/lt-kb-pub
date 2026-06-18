@@ -41,6 +41,7 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
 - susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
 - susijęs iš [[objektai/zodynas/brevė.md#claim-t-34291|brevė]]: Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje.
+- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82254|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,3 +58,6 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 261601-261717; hash=aa91446286a3d318d9ebe9100303639838ca2df0432b8f33426b9b4cddcff59e; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/asmenys/Dobrogostas]] keliavo_i Perudžija

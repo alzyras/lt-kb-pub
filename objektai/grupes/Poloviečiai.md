@@ -22,20 +22,20 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas priešininkas pagal citatos kontekstą ir išlaikytas pilnas sakinys.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; counterparty: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]'
-  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] rėmė [[objektai/asmenys/Tautvila|Tautvila]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89552-89804; hash=46a05ed050d529df420576bd2bcec289825dacb1e5d0cbbfea1680f78922649c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.98
+  ryšio_patikimumas: reme -> Tautvila: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=25
-  ryšio_targeto_parinkimas: Vokiečiai: counterparty_iteration, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tautvila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Rusai buvo pasiųsti Tautvilai į pagalbą.
 
 <a id="claim-t-187774"></a>
 - t-002
@@ -104,13 +104,13 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 89552-89804; hash=46a05ed050d529df420576bd2bcec289825dacb1e5d0cbbfea1680f78922649c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.98
+  ryšio_patikimumas: reme -> Tautvila: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=25
-  ryšio_targeto_parinkimas: Vokiečiai: counterparty_iteration, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tautvila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Rusai buvo pasiųsti Tautvilai į pagalbą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91663-92052; hash=334f479b01a820f8d98a913eb644dbb99eede081020e44c0230d503a548c920a; match=whitespace_regex
@@ -124,5 +124,5 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Jotvingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Poloviečiai reme [[objektai/asmenys/Tautvila]]
 - Poloviečiai kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Poloviečiai kariavo_pries [[objektai/grupes/Rusai]]

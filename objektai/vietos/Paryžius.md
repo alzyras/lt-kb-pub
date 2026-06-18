@@ -125,13 +125,13 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330938-331053; hash=e5b9379b0391066cb0ea0c147b25ea196110a69537b77f3e40da4eab4f1fb742; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Paryžius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištrėmimas į Paryžių tiesiogiai patvirtina Voldemaro nukreipimą į šią vietą.
 
 <a id="claim-t-91242"></a>
 - t-007
@@ -184,7 +184,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   global_id: t-91245
   teiginys: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
   sudarymo_pagrindimas: 'Pašalinta fragmentiška formuluotė ir daugtaškis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Zarasai'
+  susije_objektai: 'llm_object: Paryžius; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Zarasai'
+  semantiniai_rysiai: '[[objektai/asmenys/A. Voldemaras|A. Voldemaras]] keliavo į Paryžius'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -225,7 +226,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   global_id: t-91247
   teiginys: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Avinjonas; mentioned_place: Lionas'
+  susije_objektai: 'llm_object: Avinjonas; llm_object: Paryžius; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Avinjonas; mentioned_place: Lionas'
+  semantiniai_rysiai: '[[objektai/asmenys/Egidijus|Egidijus]] buvo palaidotas Paryžius'
   temporaliniai_duomenys: 'mirties data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -285,7 +287,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
+- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
+- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
@@ -358,6 +362,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/zodynas/kahalai sėslumo riba.md#claim-t-22176|kahalai sėslumo riba]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/kultūrinė autonomija.md#claim-t-169916|kultūrinė autonomija]]: Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją.
 - susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70251|neutralizacija]]: Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.
+- susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
+- susijęs iš Zarasai: Voldemaras buvo ištremtas iš Zarasų į Paryžių.
+- susijęs iš [[objektai/daiktai/Žemėlapis „Lituania Propria“.md#claim-t-26416|Žemėlapis „Lituania Propria“]]: „Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -581,13 +588,13 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330938-331053; hash=e5b9379b0391066cb0ea0c147b25ea196110a69537b77f3e40da4eab4f1fb742; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Paryžius: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Voldemaras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ištrėmimas į Paryžių tiesiogiai patvirtina Voldemaro nukreipimą į šią vietą.
     - t-002
 
 - c-010
@@ -717,14 +724,17 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   irodymo_stiprumas: 0.00
   saltinio_vieta: 719699-720392; hash=1f940e71314193d42328caaa8de2bc1f27dc6dd11b4e0f545d807cfd1e05e3a4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustinas: mention_match, person, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Augustinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Paryžius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Egidijus (arkivyskupas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Egidijaus palaidojimą Paryžiuje.
 
 ## Ryšiai
 - [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] buvo_palaidotas Paryžius
-- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] mire Paryžius
+- [[objektai/asmenys/A. Voldemaras]] keliavo_i Paryžius
+- [[objektai/asmenys/Augustinas Voldemaras]] keliavo_i Paryžius
+- [[objektai/asmenys/Augustas Zaleskis]] keliavo_i Paryžius
+- [[objektai/daiktai/Žemėlapis „Lituania Propria“]] priklause Paryžius

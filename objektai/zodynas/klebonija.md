@@ -43,7 +43,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   global_id: t-86472
   teiginys: 'Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis.'
   sudarymo_pagrindimas: 'Fragmentas išplėstas į pilną faktinį sakinį pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -68,13 +68,13 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   irodymo_stiprumas: 0.00
   saltinio_vieta: 246091-246272; hash=ff7edbcbd308ee80fbf833cbaec3b31cce06ae639b57917f86c443009750b3b1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: pastate -> Vilnius: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: klebonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "klebonija" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vladislovas Jogaila įsakė statyti Vilniuje; tinkamesnio bažnyčios objekto tarp kandidatų nėra, todėl ryšys fiksuojamas su statybos vieta.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87468|Bona]]: Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87592|Vladislovas IV]]: Karalienė Bona ir Vladislovas IV Veliuonos kleboniją taip gausiai apdovanojo turtais, kad ji tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172081|Dominikonų ordinas]]: Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.
@@ -172,13 +172,13 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   irodymo_stiprumas: 0.00
   saltinio_vieta: 246091-246272; hash=ff7edbcbd308ee80fbf833cbaec3b31cce06ae639b57917f86c443009750b3b1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumas: pastate -> Vilnius: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: klebonija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "klebonija" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vladislovas Jogaila įsakė statyti Vilniuje; tinkamesnio bažnyčios objekto tarp kandidatų nėra, todėl ryšys fiksuojamas su statybos vieta.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 223914-224418; hash=01dece01c0a21a5aeaf46c134ebbe108de68c7d3b58e3cc2a726da5fa8e71850; match=whitespace_regex

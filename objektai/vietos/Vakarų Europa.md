@@ -64,6 +64,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   ryšio_subjekto_parinkimas: Vakarų Europa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vakarų Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš [[objektai/asmenys/Karolis Didysis.md#claim-t-78062|Karolis Didysis]]: Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
 - susijęs iš Stakauskas J. Lietuva ir Vakarų Europa XIII-ame amžiuje: J. Stakausko veikalas „Lietuva ir Vakarų Europa XIII-ame amžiuje“ išleistas 1934 m.
 - susijęs iš Ispanija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
@@ -134,3 +135,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   ryšio_subjekto_parinkimas: Vakarų Europa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vakarų Europa" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Anglija]] priklause Vakarų Europa
+- [[objektai/vietos/Olandija]] priklause Vakarų Europa

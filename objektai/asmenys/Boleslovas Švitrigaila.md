@@ -22,19 +22,20 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR klaidas ir perteklinę autorinę įžangą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas'
+  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]] keliavo į Kijevas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 782950-783204; hash=a9b32ea917637fa77ff81b320def20ef5c88205a85a8a3d3ccd2c084d192bd05; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Boleslovas Švitrigaila pasitraukė į Kijevą.
 
 <a id="claim-t-185933"></a>
 - t-002
@@ -44,19 +45,20 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Švitrigailos žygį, bet pradinis tekstas per ilgas ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]] puolė Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785714-786239; hash=86d713f8a65986efef69cb6e7b2a69fe6aeed3e9434b8da6fb4963a29f40b40c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įsiveržimas į Lietuvos žemes tiesiogiai palaiko puolimo ryšį.
 
 <a id="claim-t-185934"></a>
 - t-003
@@ -88,19 +90,20 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet pradiniame teiginyje yra neaiškus įvardis.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]'
+  semantiniai_rysiai: 'Luckas priklausė [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 841510-841951; hash=8a859552f2070de7adbbdbe44a3259a17e337f4798e835f15c6d26f2b0c3f930; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
+  ryšio_patikimumas: priklause -> Boleslovas Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lucko sugrąžinimas Švitrigailai rodo, kad Luckas vėl priklausė jam, nors formuluotė yra netiesioginė.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis.md#claim-t-185546|Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]: 1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
@@ -151,13 +154,13 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 782950-783204; hash=a9b32ea917637fa77ff81b320def20ef5c88205a85a8a3d3ccd2c084d192bd05; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Boleslovas Švitrigaila pasitraukė į Kijevą.
     - t-002
 
 - c-003
@@ -187,13 +190,13 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 785714-786239; hash=86d713f8a65986efef69cb6e7b2a69fe6aeed3e9434b8da6fb4963a29f40b40c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įsiveržimas į Lietuvos žemes tiesiogiai palaiko puolimo ryšį.
     - t-003
 
 - c-004
@@ -239,10 +242,17 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 841510-841951; hash=8a859552f2070de7adbbdbe44a3259a17e337f4798e835f15c6d26f2b0c3f930; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
+  ryšio_patikimumas: priklause -> Boleslovas Švitrigaila: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Lucko sugrąžinimas Švitrigailai rodo, kad Luckas vėl priklausė jam, nors formuluotė yra netiesioginė.
+
+## Ryšiai
+- Boleslovas Švitrigaila keliavo_i [[objektai/vietos/Kijevas]]
+- Boleslovas Švitrigaila puole [[objektai/vietos/Lietuva]]
+- Boleslovas Švitrigaila apgule [[objektai/vietos/Vilnius]]
+- Boleslovas Švitrigaila surenge_zygi_i [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Luckas]] priklause Boleslovas Švitrigaila

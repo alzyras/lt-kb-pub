@@ -232,19 +232,20 @@ Nenurodyta
   global_id: t-13477
   teiginys: 'Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.'
   sudarymo_pagrindimas: 'Išplėstas objekto pavadinimas ir išlaikytos citatos detalės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: SSRS; llm_object: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]] paskyrė [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b990faec637f6708daec28845b3d26997a236af8032ad5eed6dbe0746f63d924; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: paskyre -> Vytautas Landsbergis: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Persitvarkymo Sąjūdis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos Persitvarkymo Sąjūdis: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas Landsbergis išrinktas Sąjūdžio tarybos pirmininku; subjektas apibendrintas iki organizacijos, nes atskiro suvažiavimo objekto kandidatuose nėra.
 
 <a id="claim-t-13478"></a>
 - t-010
@@ -700,13 +701,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b990faec637f6708daec28845b3d26997a236af8032ad5eed6dbe0746f63d924; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: paskyre -> Vytautas Landsbergis: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Persitvarkymo Sąjūdis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos Persitvarkymo Sąjūdis: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas Landsbergis išrinktas Sąjūdžio tarybos pirmininku; subjektas apibendrintas iki organizacijos, nes atskiro suvažiavimo objekto kandidatuose nėra.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0a55b0a9065dd870cb7758aa8bf56d63d3d4b6ad53e8536675043ad509ead65c; match=fallback; occurrences=0
@@ -1072,3 +1073,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Persitvarkymo Sąjūdis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos Persitvarkymo Sąjūdis paskyre [[objektai/asmenys/Vytautas Landsbergis]]

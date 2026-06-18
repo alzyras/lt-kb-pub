@@ -22,19 +22,20 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   global_id: t-21913
   teiginys: 'Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.'
   sudarymo_pagrindimas: 'Citata palaiko muziejaus veikimą bažnyčioje, bet nepagrindžia žodžio „uždarytoje“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Visų Šventųjų bažnyčia priklausė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 451252-451602; hash=31b28648b815170e7e302bb43a63b777d281f51fb87f708394c6dba05ab3ca8e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visų Šventųjų bažnyčia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visų Šventųjų bažnyčia" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Visų Šventųjų bažnyčia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja Visų Šventųjų bažnyčią Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -55,10 +56,13 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   irodymo_stiprumas: 0.00
   saltinio_vieta: 451252-451602; hash=31b28648b815170e7e302bb43a63b777d281f51fb87f708394c6dba05ab3ca8e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumas: priklause -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visų Šventųjų bažnyčia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visų Šventųjų bažnyčia" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Visų Šventųjų bažnyčia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja Visų Šventųjų bažnyčią Vilniuje.
+
+## Ryšiai
+- Visų Šventųjų bažnyčia priklause [[objektai/vietos/Vilnius]]

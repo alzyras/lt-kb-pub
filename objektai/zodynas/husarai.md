@@ -29,20 +29,20 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367721-368293; hash=9c257375d80bfa6a93ac985c578ea9d30527764d8b780b5196ff92afd0827fdf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina lenkus lietuvių sąjungininkais.
 
 <a id="claim-t-49271"></a>
 - t-002
   global_id: t-49271
   teiginys: 'Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie husarus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -233,13 +233,13 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367721-368293; hash=9c257375d80bfa6a93ac985c578ea9d30527764d8b780b5196ff92afd0827fdf; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina lenkus lietuvių sąjungininkais.
     - t-003
 
 - c-004

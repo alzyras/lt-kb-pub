@@ -39,7 +39,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   global_id: t-179804
   teiginys: 'Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie pilių ir Veliuonos atstatymą.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; llm_object: Veliuona'
   pagrindžia:
     - c-011
 
@@ -77,19 +77,19 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - t-005
   global_id: t-179809
   teiginys: 'Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.'
-  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; llm_object: Aukokalnis; llm_object: Kaunas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas kartu su Jogaila keliavo į Kauną.
 
 <a id="claim-t-179812"></a>
 - t-007
@@ -138,7 +138,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - t-010
   global_id: t-179815
   teiginys: 'Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.'
-  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Betygala; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; mentioned_place: Torno'
+  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Betygala; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; mentioned_place: Torno; llm_object: Kaunas; llm_object: Aukokalnis'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -207,19 +207,20 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 762720-763030; hash=c6b43260e019ed846ed232dc3dc560041b5e1edb9093619a2d99fcf21763814d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Dubysa: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai minimi kaip kartu buvę šioje išvykoje į Dubysos salą.
 
 <a id="claim-t-179820"></a>
 - t-015
   global_id: t-179820
   teiginys: 'Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]; llm_object: Dubysa'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Dubysa'
   pagrindžia:
     - c-009
 
@@ -253,13 +254,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Aukokalnis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukokalnis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila yra tarp keliaujančiųjų, o maršrutas tiesiogiai veda iki Aukokalnio.
 
 <a id="claim-t-179823"></a>
 - t-018
@@ -275,20 +276,20 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: pastate -> Veliuona: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas liepė atstatyti Veliuoną; leidžiamas ryšys pastate artimiausias atstatymui.
 
 <a id="claim-t-179824"></a>
 - t-019
   global_id: t-179824
   teiginys: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Aukokalnis; mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; llm_object: Aukokalnis'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
@@ -335,8 +336,9 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Birutė: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
+- susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
+- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97458|Kaributas]]: Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
 - susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63795|Karigaila]]: Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176558|Mykolas Küchmeisteris]]: Lietuviškai pramokęs Mykolas Küchmeisteris turėjo sostinę ir krašto administracijos centrą prie Dubysos žiočių.
@@ -436,6 +438,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 - susijęs iš [[objektai/zodynas/kapitula.md#claim-t-70168|kapitula]]: Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.
 - susijęs iš [[objektai/zodynas/krivė krivaitis.md#claim-t-185387|krivė krivaitis]]: Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
+- susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -501,13 +504,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas kartu su Jogaila keliavo į Kauną.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=fallback; occurrences=0
@@ -635,13 +638,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumas: pastate -> Veliuona: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas liepė atstatyti Veliuoną; leidžiamas ryšys pastate artimiausias atstatymui.
     - t-002
 
 - c-008
@@ -676,13 +679,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Aukokalnis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aukokalnis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jogaila yra tarp keliaujančiųjų, o maršrutas tiesiogiai veda iki Aukokalnio.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
@@ -733,13 +736,13 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 762720-763030; hash=c6b43260e019ed846ed232dc3dc560041b5e1edb9093619a2d99fcf21763814d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Dubysa: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubysa: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubysa" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dubysa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai minimi kaip kartu buvę šioje išvykoje į Dubysos salą.
     - t-020
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a2dbc9cfd7de056e7a0f2ba43314dab02e621b5336c146c1dcf9280221d7cccf; match=fallback; occurrences=0
@@ -868,3 +871,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 
 ## Ryšiai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Dubysa
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Dubysa
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Dubysa
+- Dubysa priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Dubysa

@@ -30,7 +30,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   global_id: t-77828
   teiginys: '1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba.'
   sudarymo_pagrindimas: 'Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą.'
@@ -39,13 +39,13 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177559-178349; hash=754b5e308742936eb5c80766fc43ac2486f6da69a29fe2cc8ad733a9d800840c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausioji Taryba (institucija): 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos tautinė aukščiausioji taryba: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aukščiausioji Taryba (institucija): mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos tautinė aukščiausioji taryba" parinktas kaip owner_note_path. Targetas "Aukščiausioji Taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakymas, kad Vilnius buvo išvaduotas iš rusų, tiesiogiai leidžia daryti išvadą, jog rusai prieš tai valdė miestą.
 - susijęs iš Vilnius: 1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.
 ## Reikšmingi paminėjimai
 
@@ -74,10 +74,10 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   irodymo_stiprumas: 0.00
   saltinio_vieta: 177559-178349; hash=754b5e308742936eb5c80766fc43ac2486f6da69a29fe2cc8ad733a9d800840c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausioji Taryba (institucija): 0.85
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos tautinė aukščiausioji taryba: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aukščiausioji Taryba (institucija): mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos tautinė aukščiausioji taryba" parinktas kaip owner_note_path. Targetas "Aukščiausioji Taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakymas, kad Vilnius buvo išvaduotas iš rusų, tiesiogiai leidžia daryti išvadą, jog rusai prieš tai valdė miestą.

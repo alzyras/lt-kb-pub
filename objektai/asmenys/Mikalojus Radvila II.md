@@ -111,3 +111,6 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   ryšio_subjekto_parinkimas: Mikalojus Radvila II: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila II" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Mikalojus Radvila II pastate [[objektai/vietos/Bernardinų bažnyčia Vilniuje]]

@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-89407
   teiginys: '1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Semba; llm_object: Semba; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2aab996d2553c5c25150842733496a6edb16d3b0f4e1a7eeca0c3cb321d3d465; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „drauge su“ rodo bendrą karinį veikimą.
 
 <a id="claim-t-89408"></a>
 - t-002
@@ -106,13 +106,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2aab996d2553c5c25150842733496a6edb16d3b0f4e1a7eeca0c3cb321d3d465; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „drauge su“ rodo bendrą karinį veikimą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2aab996d2553c5c25150842733496a6edb16d3b0f4e1a7eeca0c3cb321d3d465; match=fallback; occurrences=0

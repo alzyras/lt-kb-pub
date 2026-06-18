@@ -89,6 +89,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš Vilnius: 1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23534|pogrindis pogrindiniai leidiniai nelegali spauda]]: Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.
+- susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -147,3 +148,6 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   ryšio_subjekto_parinkimas: Tomas Venclova: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=121
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Venclova" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Pranas Morkus]] buvo_sajungininkas_su Tomas Venclova

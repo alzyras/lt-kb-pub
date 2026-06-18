@@ -121,3 +121,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Ryšiai
+- Partizanų bunkeriai priklause [[objektai/vietos/Šimonių giria]]

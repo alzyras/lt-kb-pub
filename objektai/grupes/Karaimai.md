@@ -34,7 +34,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   global_id: t-120184
   teiginys: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
   sudarymo_pagrindimas: 'Citata pagrindžia kilmės kryptį ir autoriaus prielaidą dėl atvykimo laiko.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; llm_object: Trakai; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] keliavo į Lietuva; [[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai'
   temporaliniai_duomenys: 'įvykio data: 1427 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia kilmės kryptį ir autoriaus prielaidą dėl atvykimo laiko.'
@@ -55,26 +56,27 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - t-002
   global_id: t-120185
   teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
-  susije_objektai: 'mentioned_place: Vilniaus turgus; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Trakai; mentioned_place: Vilniaus turgus; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Vilniaus turgus'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai; [[objektai/grupes/Karaimai|Karaimai]] prekiavo su Vilniaus turgus'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.99
+  ryšio_patikimumas: gyveno -> Lietuva: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Karaimai: owner_after_title, group, gap=67
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Liublinas: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Karaimai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Liublinas.md", "selected": false, "strategy": "candidate", "title": "Liublinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių bendruomenės tiesiogiai nurodomos kaip apgyvendintos LDK.
 
 <a id="claim-t-120186"></a>
 - t-003
   global_id: t-120186
   teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Trakai; mentioned_place: Vilniaus turgus; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Trakai; mentioned_place: Vilniaus turgus; mentioned_place: Vilnius; llm_object: Vilniaus turgus'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai; [[objektai/grupes/Karaimai|Karaimai]] keliavo į Lietuva; [[objektai/grupes/Karaimai|Karaimai]] prekiavo su Vilniaus turgus'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -107,40 +109,41 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad karaimai gyvena Trakuose.
 
 <a id="claim-t-120189"></a>
 - t-006
   global_id: t-120189
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą ir karaimų bendruomenės apgyvendinimą LDK.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] susiję su Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] gyveno Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus turgus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilniaus turgus: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Vilniaus turgus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad karaimai gyveno Trakuose.
 
 <a id="claim-t-120190"></a>
 - t-007
   global_id: t-120190
   teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Dniepras'
+  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Dniepras; llm_object: Luckas; llm_object: Trakai'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] gyveno Luckas; [[objektai/grupes/Karaimai|Karaimai]] gyveno Trakai'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
@@ -149,13 +152,13 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86bb7ad1d6fcfd7ff15ec84366db92c2b8f72f70941cc36df1da40f8f4aad387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo karaimų atvykimą į Lietuvą.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
@@ -220,13 +223,13 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad karaimai gyvena Trakuose.
     - t-006
 
 - c-003
@@ -246,13 +249,13 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus turgus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilniaus turgus: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Vilniaus turgus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad karaimai gyveno Trakuose.
     - t-004
 
 - c-004
@@ -296,13 +299,13 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86bb7ad1d6fcfd7ff15ec84366db92c2b8f72f70941cc36df1da40f8f4aad387; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo karaimų atvykimą į Lietuvą.
     - t-001
 
 - c-006
@@ -374,25 +377,29 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.99
+  ryšio_patikimumas: gyveno -> Lietuva: 0.78
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Karaimai: owner_after_title, group, gap=67
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_slopinti_kandidatai: Lenkija: candidate; Liublinas: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Karaimai" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Liublinas.md", "selected": false, "strategy": "candidate", "title": "Liublinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių bendruomenės tiesiogiai nurodomos kaip apgyvendintos LDK.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 861814-862006; hash=0f5d8bd7c654afd10ed0546322f8f2a9fc08fcf8cde1c8e2fed807f422c4a9ec; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaimai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaimai" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Luckas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad karaimai buvo apgyvendinti Lucke.
 
 ## Ryšiai
-- Karaimai susije_su [[objektai/vietos/Lietuva]]
+- Karaimai gyveno [[objektai/vietos/Trakai]]
+- Karaimai keliavo_i [[objektai/vietos/Lietuva]]
+- Karaimai gyveno [[objektai/vietos/Luckas]]
+- Karaimai gyveno [[objektai/vietos/Lietuva]]
+- Karaimai prekiavo_su [[objektai/vietos/Vilniaus turgus]]
+- Karaimai gyne [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

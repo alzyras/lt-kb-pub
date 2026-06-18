@@ -79,3 +79,8 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
   ryšio_subjekto_parinkimas: Ukmergės rinktinė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukmergės rinktinė" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ukmergės rinktinė keliavo_i [[objektai/vietos/Ukmergė]]
+- Ukmergės rinktinė keliavo_i [[objektai/vietos/Utena]]
+- Ukmergės rinktinė keliavo_i [[objektai/vietos/Zarasai]]

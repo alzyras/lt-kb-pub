@@ -23,21 +23,21 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - t-001
   global_id: t-40306
   teiginys: 'Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.'
-  susije_objektai: 'territory: Haličas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Kopylis; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Haličas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Kopylis; mentioned_place: Luckas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5572bee5c39b984c1dd43895ab3a0a00b4c6747e96ceb0bb3e796168e901c12a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Haličas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Levas (Haličo kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Haličas: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Kopylis: candidate; Luckas: candidate; Naugardukas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Levas (Haličo kunigaikštis)" parinktas kaip owner_after_title. Targetas "Haličas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kopylis.md", "selected": false, "strategy": "candidate", "title": "Kopylis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Luckas.md", "selected": false, "strategy": "candidate", "title": "Luckas", "type": "place"}, {"distance_to_predicate": 38, "match_index": 46, "path": "objektai/vietos/Naugardukas.md", "selected": false, "strategy": "candidate", "title": "Naugardukas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Levas (Haličo kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Levas (Haličo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Haličas: Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171442|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171405|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171442|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
 - susijęs iš Haličas: Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
@@ -64,14 +64,15 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5572bee5c39b984c1dd43895ab3a0a00b4c6747e96ceb0bb3e796168e901c12a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Haličas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Levas (Haličo kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Haličas: exact_title_context, place, gap=7
-  ryšio_slopinti_kandidatai: Kopylis: candidate; Luckas: candidate; Naugardukas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Levas (Haličo kunigaikštis)" parinktas kaip owner_after_title. Targetas "Haličas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kopylis.md", "selected": false, "strategy": "candidate", "title": "Kopylis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Luckas.md", "selected": false, "strategy": "candidate", "title": "Luckas", "type": "place"}, {"distance_to_predicate": 38, "match_index": 46, "path": "objektai/vietos/Naugardukas.md", "selected": false, "strategy": "candidate", "title": "Naugardukas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Levas (Haličo kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Levas (Haličo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Levas (Haličo kunigaikštis) buvo_valdovas [[objektai/vietos/Haličas]]
+- [[objektai/asmenys/Jurijus]] buvo_sunus Levas (Haličo kunigaikštis)
+- [[objektai/grupes/Totoriai]] buvo_sajungininkas_su Levas (Haličo kunigaikštis)
+- Levas (Haličo kunigaikštis) puole [[objektai/vietos/Lietuva]]

@@ -136,8 +136,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md#claim-t-185789|Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
-- susijęs iš Livonija: Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
+- susijęs iš [[objektai/daiktai/Apgulties mašinos.md#claim-t-179463|Apgulties mašinos]]: 1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.
 - susijęs iš [[objektai/asmenys/Liudvikas Pliateris.md#claim-t-40308|Liudvikas Pliateris]]: Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.
 - susijęs iš [[objektai/grupes/Latvijos kariuomenė.md#claim-t-38971|Latvijos kariuomenė]]: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.).md#claim-t-185789|Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]: 1396 m. Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.
@@ -173,6 +172,10 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 - susijęs iš Maskva: Po Lietuvos didvalstybės sukūrimo Maskva laikyta viena iš stiprėjančių rytų grėsmių.
 - susijęs iš Utena: 1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.
 - susijęs iš [[objektai/zodynas/globėjo titulas laikinas valdytojas.md#claim-t-185404|globėjo titulas laikinas valdytojas]]: Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
+- susijęs iš [[objektai/grupes/Latvijos kariuomenė.md#claim-t-38971|Latvijos kariuomenė]]: 1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.
+- susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186420|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.
+- susijęs iš [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“.md#claim-t-186421|„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]: Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.
+- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38839|11 brigada]]: Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -329,4 +332,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugpilis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Daugpilis
+- [[objektai/grupes/Lietuviai]] gyveno Daugpilis
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] apgule Daugpilis
+- [[objektai/grupes/Latvijos kariuomenė]] uzeme Daugpilis
+- [[objektai/grupes/11 brigada]] surenge_zygi_i Daugpilis

@@ -222,7 +222,21 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   ryšio_subjekto_parinkimas: Dobrynė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179255|Lietuviai]]: 1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.
+- susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
+- susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
+- susijęs iš 1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse: 1323 m. dokumente Gediminas kaltintas Dobrynės ir Kulmo žemių niokojimu bei siekiu sugriauti priešininkų žemes.
+- susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
+- susijęs iš [[objektai/ivykiai/Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.).md#claim-t-185836|Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)]]: Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.
+- susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
+- susijęs iš Mazovija: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.
 - susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
 - susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-82261|Dovydas]]: Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176347|Gediminas]]: 1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
@@ -267,6 +281,8 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Ripinas: Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
+- susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
+- susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
@@ -332,6 +348,16 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 - susijęs iš Žemaitija: 1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
 - susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36803|kunigaikštija]]: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
 - susijęs iš [[objektai/zodynas/superarbitras.md#claim-t-36837|superarbitras]]: Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.
+- susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179226|Lietuviai]]: 1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.
+- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93746|Ziemovitas]]: Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93747|Ziemovitas]]: Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.
+- susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
+- susijęs iš Klaipėda: 1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
+- susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
+- susijęs iš Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): 1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.
+- susijęs iš Dobrynės žemė: 1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.
+- susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -609,4 +635,15 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] valde_teritorija Dobrynė
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Dobrynė
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Dobrynė
+- [[objektai/grupes/Lietuviai]] puole Dobrynė
+- [[objektai/asmenys/Dovydas]] surenge_zygi_i Dobrynė
+- [[objektai/asmenys/Gediminas]] puole Dobrynė
+- [[objektai/asmenys/Gediminas]] surenge_zygi_i Dobrynė
+- [[objektai/grupes/Lietuvos kariuomenė]] surenge_zygi_i Dobrynė
+- [[objektai/asmenys/Dovydas]] puole Dobrynė
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Dobrynė
+- [[objektai/grupes/Lietuviai]] uzeme Dobrynė
+- [[objektai/asmenys/Ziemovitas]] surenge_zygi_i Dobrynė
+- [[objektai/asmenys/Burchardas Aremas]] mire Dobrynė

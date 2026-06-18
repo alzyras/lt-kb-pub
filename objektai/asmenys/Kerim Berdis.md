@@ -76,6 +76,8 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kerim Berdis" parinktas kaip owner_note_path. Targetas "Volga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
 - susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
+- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
+- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -154,3 +156,9 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   ryšio_subjekto_parinkimas: Kerim Berdis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Volga: mention_match, place, gap=92
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kerim Berdis" parinktas kaip owner_note_path. Targetas "Volga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Kerim Berdis puole [[objektai/asmenys/Tochtamyšas]]
+- Kerim Berdis puole [[objektai/asmenys/Jerim Berdis]]
+- [[objektai/asmenys/Tochtamyšas]] buvo_brolis Kerim Berdis
+- [[objektai/asmenys/Jerim Berdis]] buvo_brolis Kerim Berdis

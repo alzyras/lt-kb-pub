@@ -30,7 +30,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
   global_id: t-42096
   teiginys: '1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas kaip glaustesnis enciklopedinis sakinys.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Rezeknė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Mozūrija'
+  susije_objektai: 'llm_object: Livonija; mentioned_place: Livonija; mentioned_place: Rezeknė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Mozūrija; llm_object: Rezeknės regionas'
+  semantiniai_rysiai: 'Rezeknės regionas priklausė Livonija; [[objektai/asmenys/Gediminas|Gediminas]] puolė Rezeknės regionas'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas kaip glaustesnis enciklopedinis sakinys.'
@@ -39,13 +40,13 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rezeknės regionas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezeknės regionas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rezeknės regionas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė aiškiai lokalizuoja Rezeknės regioną Livonijos pietryčiuose.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,14 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rezeknės regionas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezeknės regionas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Livonija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rezeknės regionas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė aiškiai lokalizuoja Rezeknės regioną Livonijos pietryčiuose.
+
+## Ryšiai
+- Rezeknės regionas priklause [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Gediminas]] puole Rezeknės regionas

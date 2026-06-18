@@ -405,3 +405,9 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Kryžius: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžius" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Kryžius priklause [[objektai/vietos/Krokuva]]
+- Kryžius priklause [[objektai/asmenys/Fridrichas II]]
+- Kryžius priklause [[objektai/asmenys/Hermanas]]
+- Kryžius priklause [[objektai/vietos/Elbingas]]

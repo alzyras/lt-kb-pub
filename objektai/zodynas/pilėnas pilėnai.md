@@ -53,19 +53,19 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   global_id: t-58798
   teiginys: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
   sudarymo_pagrindimas: 'Citata kalba apie aprūpinimą pilėnams, bet ne tiesiogiai apie pilies gynimo reikmenis.'
-  susije_objektai: 'mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas; llm_object: Štarkenbergas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilėnai: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pilėnas pilėnai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pilėnai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pilėnas pilėnai" parinktas kaip owner_note_path. Targetas "Pilėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Teutonų ordino magistras ir broliai turėjo pastatyti pilį, vėliau pavadintą Štarkenbergu.
 
 <a id="claim-t-58799"></a>
 - t-003
@@ -304,13 +304,13 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilėnai: 0.85
+  ryšio_patikimumas: pastate -> Štarkenbergas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pilėnas pilėnai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Pilėnai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pilėnas pilėnai" parinktas kaip owner_note_path. Targetas "Pilėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste nurodyta, kad Teutonų ordino magistras ir broliai turėjo pastatyti pilį, vėliau pavadintą Štarkenbergu.
     - t-003
 
 - c-004

@@ -34,19 +34,20 @@ Trakų pilis.
   global_id: t-95314
   teiginys: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia išplėsti įvardį ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakų pilis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] gyveno Trakų pilis'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trakų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trakų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila nukreipė patrankas prieš Ordiną.
 
 <a id="claim-t-95316"></a>
 - t-002
@@ -71,7 +72,8 @@ Trakų pilis.
 - t-003
   global_id: t-95317
   teiginys: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakų pilis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] gyveno Trakų pilis'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -99,7 +101,7 @@ Trakų pilis.
   global_id: t-95319
   teiginys: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
   sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Marienverderis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Jurbarkas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Marienverderis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Jurbarkas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1382 m.; įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
@@ -108,20 +110,21 @@ Trakų pilis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bda77150df42c41e7868a252e0b0c2ee0bb687a5597cf95586f4d3249379f214; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trakų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trakų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakų pilis (pilis): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakų pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trakų pilis aiškiai įvardyta kaip nuolatinė Skirgailos buveinė.
 
 <a id="claim-t-95320"></a>
 - t-006
   global_id: t-95320
   teiginys: 'Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas citata apie Trakų pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Marienverderis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Jurbarkas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Marienverderis; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Jurbarkas; llm_object: Trakų pilis'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Trakų pilis'
   temporaliniai_duomenys: 'įvykio data: 1382 m.; įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir paremtas citata apie Trakų pilį.'
@@ -223,13 +226,13 @@ Trakų pilis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bda77150df42c41e7868a252e0b0c2ee0bb687a5597cf95586f4d3249379f214; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trakų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trakų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakų pilis (pilis): 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakų pilis (pilis): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trakų pilis aiškiai įvardyta kaip nuolatinė Skirgailos buveinė.
     - t-001
 
 - c-004
@@ -265,13 +268,13 @@ Trakų pilis.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trakų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trakų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila nukreipė patrankas prieš Ordiną.
     - t-004
     - t-002
 
@@ -316,3 +319,7 @@ Trakų pilis.
   ryšio_subjekto_parinkimas: Trakų pilis (pilis): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trakų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Skirgaila]] gyveno Trakų pilis (pilis)
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Trakų pilis (pilis)

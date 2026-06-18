@@ -35,6 +35,7 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   ryšio_subjekto_parinkimas: Seversko žemės: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemės" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
 - susijęs iš Seversko žemė: Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba.
 - susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 - susijęs iš Černigovas: Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.
@@ -75,3 +76,8 @@ Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Ki
   ryšio_subjekto_parinkimas: Seversko žemės: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Seversko žemės" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Černigovas]] priklause Seversko žemės
+- [[objektai/vietos/Naugardas]] priklause Seversko žemės
+- [[objektai/vietos/Rylskas]] priklause Seversko žemės

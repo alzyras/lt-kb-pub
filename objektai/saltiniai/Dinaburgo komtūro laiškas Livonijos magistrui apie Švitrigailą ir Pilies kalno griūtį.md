@@ -71,19 +71,19 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   global_id: t-88144
   teiginys: 'Dinaburgo komtūras iš Liksnos į Lietuvą pasiuntė Petrą surinkti žinių apie Švitrigailą.'
   sudarymo_pagrindimas: 'Kreipinys ir fragmentiška forma perrašyti į enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dinaburgas; mentioned_place: Lietuva; mentioned_place: Liksna; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dinaburgas; mentioned_place: Lietuva; mentioned_place: Liksna; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; llm_object: Trakai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 362570-363191; hash=cb0510f5003db9efb06251079759d84587ef8c0d6365bf039dcfb8346bdc3976; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dinaburgas: 0.85
+  ryšio_patikimumas: gyveno -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Dinaburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas tuo metu buvo Trakuose.
 
 <a id="claim-t-88145"></a>
 - t-004
@@ -223,13 +223,13 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 362570-363191; hash=cb0510f5003db9efb06251079759d84587ef8c0d6365bf039dcfb8346bdc3976; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dinaburgas: 0.85
+  ryšio_patikimumas: gyveno -> Trakai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Dinaburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytautas tuo metu buvo Trakuose.
     - t-001
 
 - c-005

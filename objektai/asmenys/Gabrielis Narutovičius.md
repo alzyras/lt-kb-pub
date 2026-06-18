@@ -34,6 +34,7 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   ryšio_subjekto_parinkimas: Gabrielis Narutovičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrielis Narutovičius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Stanislovas Narutavičius.md#claim-t-75999|Stanislovas Narutavičius]]: Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108751|J. Pilsudskis]]: J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101674|Juzefas Pilsudskis]]: Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
 - susijęs iš [[objektai/asmenys/Stanislovas Narutavičius.md#claim-t-75999|Stanislovas Narutavičius]]: Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys.
@@ -67,3 +68,6 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   ryšio_subjekto_parinkimas: Gabrielis Narutovičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrielis Narutovičius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Stanislovas Narutavičius]] buvo_brolis Gabrielis Narutovičius

@@ -91,20 +91,20 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Haličą su Vaišvilko kelione pas Danielių ir Vasilką. Vienuolystės ketinimas paliktas kaip citatoje, nepridedant papildomos interpretacijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_place: Naugardukas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93062-93268; hash=908e3b7056e079096831def73bc8deedd783a760f5c48200a9ba9168a164709d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurijus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Haličas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurijus: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Haličas" parinktas kaip owner_note_path. Targetas "Jurijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
+  ryšio_patikimumas: buvo_sunus -> Levas (Haličo kunigaikštis): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Fraze tiesiogiai nurodoma, kad Jurijus buvo Levo sūnus.
+- susijęs iš [[objektai/asmenys/Benediktas.md#claim-t-35034|Benediktas]]: 1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.
 - susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Nogajus.md#claim-t-87807|Nogajus]]: Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.
@@ -248,13 +248,13 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93062-93268; hash=908e3b7056e079096831def73bc8deedd783a760f5c48200a9ba9168a164709d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurijus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Haličas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jurijus: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Haličas" parinktas kaip owner_note_path. Targetas "Jurijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Levas (Haličo kunigaikštis): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurijus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Levas (Haličo kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Fraze tiesiogiai nurodoma, kad Jurijus buvo Levo sūnus.
 
 ## Ryšiai
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]] buvo_valdovas Haličas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Haličas

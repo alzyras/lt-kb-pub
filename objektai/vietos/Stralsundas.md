@@ -51,19 +51,20 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   global_id: t-69314
   teiginys: 'Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas teiginys apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dorpatas; mentioned_place: Štetinas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dorpatas; mentioned_place: Štetinas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: 'Stralsundas priklausė [[objektai/grupes/Hanza|Hanza]]; Stralsundas prekiavo su [[objektai/grupes/Lietuviai|Lietuviai]]; Stralsundas prekiavo su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=315cc551e2380bcb454b8ce9e4207d802fd105e7198f221e57c38d405ecfec67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanza: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stralsundas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stralsundas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Hanza: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stralsundas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai pateikia Stralsundą kaip vieną Hanzos miestų.
 
 <a id="claim-t-69315"></a>
 - t-003
@@ -118,13 +119,13 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=315cc551e2380bcb454b8ce9e4207d802fd105e7198f221e57c38d405ecfec67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanza: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stralsundas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stralsundas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Hanza: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stralsundas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai pateikia Stralsundą kaip vieną Hanzos miestų.
     - t-001
 
 - c-003
@@ -162,3 +163,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   ryšio_subjekto_parinkimas: Stralsundas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dorpatas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stralsundas" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Stralsundas priklause [[objektai/grupes/Hanza]]
+- Stralsundas prekiavo_su [[objektai/grupes/Lenkai]]
+- Stralsundas prekiavo_su [[objektai/grupes/Lietuviai]]

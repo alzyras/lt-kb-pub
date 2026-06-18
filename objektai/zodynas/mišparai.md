@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   global_id: t-58917
   teiginys: '1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
@@ -38,13 +38,13 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00cd6160844e4c13b89fa0c92096a44d6f5d5b858d2c57d48363ae876bd0a6f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: mišparai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "mišparai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gedimino grįžimą į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +69,10 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00cd6160844e4c13b89fa0c92096a44d6f5d5b858d2c57d48363ae876bd0a6f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: mišparai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "mišparai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gedimino grįžimą į Lietuvą.

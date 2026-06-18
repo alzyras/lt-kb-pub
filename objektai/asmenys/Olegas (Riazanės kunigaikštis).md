@@ -24,21 +24,20 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
   global_id: t-87808
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Olego vaidmenį paleidžiant Kaributą.'
-  susije_objektai: 'territory: Riazanė; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Riazanė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] rėmė [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
+  ryšio_patikimumas: reme -> Dmitrijus Kaributas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Olegas (Riazanės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Naugardas: candidate; Podolė: candidate; Severskas: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Olegas (Riazanės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Naugardas.md", "selected": false, "strategy": "candidate", "title": "Naugardas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Podolė.md", "selected": false, "strategy": "candidate", "title": "Podolė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Severskas.md", "selected": false, "strategy": "candidate", "title": "Severskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Olegas (Riazanės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dmitrijus Kaributas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Olegas prašė ir laidavo dėl Dmitrijaus Kaributo paleidimo, todėl tiesiogiai jį rėmė.
 
 ## Reikšmingi paminėjimai
 
@@ -73,14 +72,13 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
+  ryšio_patikimumas: reme -> Dmitrijus Kaributas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Olegas (Riazanės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Naugardas: candidate; Podolė: candidate; Severskas: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Olegas (Riazanės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Naugardas.md", "selected": false, "strategy": "candidate", "title": "Naugardas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Podolė.md", "selected": false, "strategy": "candidate", "title": "Podolė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Severskas.md", "selected": false, "strategy": "candidate", "title": "Severskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Olegas (Riazanės kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dmitrijus Kaributas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Olegas prašė ir laidavo dėl Dmitrijaus Kaributo paleidimo, todėl tiesiogiai jį rėmė.
 
 ## Ryšiai
-- Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Riazanė]]
+- Olegas (Riazanės kunigaikštis) reme [[objektai/asmenys/Dmitrijus Kaributas]]

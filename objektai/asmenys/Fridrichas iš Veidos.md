@@ -24,19 +24,20 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
   global_id: t-60278
   teiginys: 'Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi citata, bet reikia aiškesnio sakinio be boilerplate pradžios.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Svečė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Svečė; llm_object: [[objektai/asmenys/Fridrichas iš Veidos|Fridrichas iš Veidos]]; llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė [[objektai/asmenys/Fridrichas iš Veidos|Fridrichas iš Veidos]]; [[objektai/asmenys/Fridrichas iš Veidos|Fridrichas iš Veidos]] kariavo prieš [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 311743-312317; hash=3812f12d24b2b6e2f3815481004a90fb87f6cd5615482fdaa4a7146a5f86ea0d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumas: puole -> Fridrichas iš Veidos: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas iš Veidos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Veidos" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Fridrichas iš Veidos: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sventopelkas užpuolė grupę, kuriai vadovavo Fridrichas iš Veidos.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,14 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 311743-312317; hash=3812f12d24b2b6e2f3815481004a90fb87f6cd5615482fdaa4a7146a5f86ea0d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumas: puole -> Fridrichas iš Veidos: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas iš Veidos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Veidos" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Fridrichas iš Veidos: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sventopelkas užpuolė grupę, kuriai vadovavo Fridrichas iš Veidos.
+
+## Ryšiai
+- [[objektai/asmenys/Sventopelkas]] puole Fridrichas iš Veidos
+- Fridrichas iš Veidos kariavo_pries [[objektai/asmenys/Sventopelkas]]

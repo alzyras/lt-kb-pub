@@ -31,39 +31,39 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
   global_id: t-60119
   teiginys: 'Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'family: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas iš Holdenštetės|Fridrichas iš Holdenštetės]] buvo brolis [[objektai/asmenys/Fridrichas|Fridrichas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 415709-415979; hash=7c9207f61a5b813a161a157dc61b046c159814ade3fe66a62e837a5d96d88d37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Fridrichas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=7
-  ryšio_targeto_parinkimas: Fridrichas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60120"></a>
 - t-002
   global_id: t-60120
   teiginys: 'Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Brandenburgo pilis; mentioned_place: Notanga; mentioned_place: Kroicburgas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Brandenburgo pilis; mentioned_place: Notanga; mentioned_place: Kroicburgas; llm_object: Notanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas iš Holdenštetės|Fridrichas iš Holdenštetės]] puolė Notanga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d38f6339e764548d4afda15cd342e54935b77827837d4d760374a2a7b022b445; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brandenburgo pilis: 0.85
+  ryšio_patikimumas: puole -> Notanga: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brandenburgo pilis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Brandenburgo pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Fridrichas su kariais atvyko į Notangos valsčių ir jį nusiaubė.
 
 ## Reikšmingi paminėjimai
 
@@ -105,35 +105,35 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d38f6339e764548d4afda15cd342e54935b77827837d4d760374a2a7b022b445; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brandenburgo pilis: 0.85
+  ryšio_patikimumas: puole -> Notanga: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brandenburgo pilis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Brandenburgo pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Notanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Fridrichas su kariais atvyko į Notangos valsčių ir jį nusiaubė.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 415709-415979; hash=7c9207f61a5b813a161a157dc61b046c159814ade3fe66a62e837a5d96d88d37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Fridrichas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=7
-  ryšio_targeto_parinkimas: Fridrichas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 415709-415979; hash=7c9207f61a5b813a161a157dc61b046c159814ade3fe66a62e837a5d96d88d37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Fridrichas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=7
-  ryšio_targeto_parinkimas: Fridrichas: nearest_family_person, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Holdenštetės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Holdenštetės" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Fridrichas iš Holdenštetės buvo_brolis [[objektai/asmenys/Fridrichas]]
+- Fridrichas iš Holdenštetės puole [[objektai/vietos/Notanga]]

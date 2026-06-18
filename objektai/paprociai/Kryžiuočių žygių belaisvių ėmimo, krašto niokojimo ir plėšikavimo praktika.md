@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87296
   teiginys: '1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus 1322 m. žygio tikslus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vaikiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Viena; mentioned_place: Čekija; mentioned_place: Šventoji'
+  susije_objektai: 'llm_object: Vaikiai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vaikiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Viena; mentioned_place: Čekija; mentioned_place: Šventoji'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus 1322 m. žygio tikslus.'
@@ -59,13 +59,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 157363-158287; hash=b444e06ba28f453f3f6e0092b07ea59acf8ca34c7300b89721de30e056734e7a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vaikiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje aiškiai minimas kryžiuočių žygis į Vaikius Žemaitijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -97,10 +97,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 157363-158287; hash=b444e06ba28f453f3f6e0092b07ea59acf8ca34c7300b89721de30e056734e7a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vaikiai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje aiškiai minimas kryžiuočių žygis į Vaikius Žemaitijoje.

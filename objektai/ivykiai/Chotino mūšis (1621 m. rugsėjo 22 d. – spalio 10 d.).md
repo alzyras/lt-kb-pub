@@ -78,7 +78,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
 - susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
 - susijęs iš Chotinas: Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.
@@ -93,6 +92,7 @@ Nenurodyta
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
 ## Reikšmingi paminėjimai
 
 - c-001

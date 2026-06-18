@@ -50,7 +50,8 @@ Nenurodyta
   global_id: t-26416
   teiginys: '„Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija.'
-  susije_objektai: 'mentioned_place: Paryžius; mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius; llm_object: Paryžius'
+  semantiniai_rysiai: '[[objektai/daiktai/Žemėlapis „Lituania Propria“|Žemėlapis „Lituania Propria“]] priklausė Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija.'
@@ -59,13 +60,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec9f6b8acfe08e339463368958f4ebeb82acd57655879fed949e4ad3278572a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumas: priklause -> Paryžius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemėlapis „Lituania Propria“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemėlapis „Lituania Propria“" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje.
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
 ## Reikšmingi paminėjimai
 
@@ -105,10 +106,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec9f6b8acfe08e339463368958f4ebeb82acd57655879fed949e4ad3278572a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumas: priklause -> Paryžius: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemėlapis „Lituania Propria“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemėlapis „Lituania Propria“" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje.
+
+## Ryšiai
+- Žemėlapis „Lituania Propria“ priklause [[objektai/vietos/Paryžius]]

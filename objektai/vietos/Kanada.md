@@ -44,7 +44,8 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pritaikytas Kanados objektui ir pašalinta perteklinė detalė apie JAV.'
-  susije_objektai: 'mentioned_place: Australija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Australija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lenkija; llm_object: Australija; llm_object: Kanada'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Kanada'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -57,6 +58,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   ryšio_subjekto_parinkimas: Kanada: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kanada" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Didžioji Britanija: Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
 - susijęs iš Helsinkio Baigiamasis aktas: 1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.
 - susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
@@ -104,3 +106,6 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   ryšio_subjekto_parinkimas: Kanada: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kanada" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Kanada

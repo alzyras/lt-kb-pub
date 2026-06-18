@@ -22,20 +22,20 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir nurodo Vernerio fon Hoinbergo atvykimą.'
-  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]] keliavo į Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 311710-312044; hash=818a97df0a37480a1a0d2ab7d5d6b19e074bef45cd37639f66dde7779df521fb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.91
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Verneris fon Hoinbergas (didikas): owner_note_path, person, gap=77
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Verneris fon Hoinbergas (didikas)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verneris fon Hoinbergas (didikas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Verneris fon Hoinbergas atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
@@ -64,13 +64,13 @@ Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto did
   irodymo_stiprumas: 0.00
   saltinio_vieta: 311710-312044; hash=818a97df0a37480a1a0d2ab7d5d6b19e074bef45cd37639f66dde7779df521fb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.91
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.95
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Verneris fon Hoinbergas (didikas): owner_note_path, person, gap=77
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Verneris fon Hoinbergas (didikas)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verneris fon Hoinbergas (didikas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Verneris fon Hoinbergas atvyko į Prūsiją.
 
 ## Ryšiai
 - Verneris fon Hoinbergas (didikas) keliavo_i [[objektai/vietos/Prūsija]]

@@ -44,7 +44,8 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   global_id: t-41882
   teiginys: 'V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; llm_object: Lojevas'
+  semantiniai_rysiai: '[[objektai/asmenys/V. Gosievskis|V. Gosievskis]] užėmė Lojevas'
   pagrindžia:
     - c-001
 
@@ -56,19 +57,19 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Mozyrius; mentioned_place: Sluckas; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Mozyrius; mentioned_place: Sluckas; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Krymas; llm_object: Mozyrius; llm_object: Sluckas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 493738-494044; hash=b898c5970fc41e409980ad4dd4a6cb35cd33960856123265ed0881ea4867d0e3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: uzeme -> Lojevas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: V. Gosievskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: V. Gosievskis Lojeve užėmė pozicijas.
 
 <a id="claim-t-187599"></a>
 - t-004
@@ -78,19 +79,21 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Lojevo padėtį prie Dnepro ir Sožo santakos. OCR triukšmas iš citatos neperkeltas, papildomų faktų nepridėta.'
-  susije_objektai: 'mentioned_place: Dnepras; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Krymas; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Dnepras; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Krymas; mentioned_place: Sluckas; llm_object: Dnepras'
+  semantiniai_rysiai: 'Lojevas priklausė Dnepras'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 654836-655166; hash=c103d5303e816d35e073197d44d419279a1e8e919eed89c2c3d5d2be05aa5de9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dnepras: 0.85
+  ryšio_patikimumas: priklause -> Dnepras: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dnepras: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevas" parinktas kaip owner_note_path. Targetas "Dnepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lojevas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dnepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lojevas lokalizuotas vakariniame Dnepro krante.
+- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49172|Lojevo mūšis (1649 m. liepos 31 d.)]]: 1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102834|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49171|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49172|Lojevo mūšis (1649 m. liepos 31 d.)]]: 1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.
@@ -111,6 +114,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
 - susijęs iš Sluckas: Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link.
 - susijęs iš Sožos upė: S. Podobaila pasirinko gynybinę vietą tarp Dniepro ir Sožos žiočių, apsuptą pelkių, griovių ir pylimų.
 - susijęs iš [[objektai/zodynas/pikinierius pikinieriai.md#claim-t-42496|pikinierius pikinieriai]]: Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.
+- susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39100|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -195,21 +199,27 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 493738-494044; hash=b898c5970fc41e409980ad4dd4a6cb35cd33960856123265ed0881ea4867d0e3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumas: uzeme -> Lojevas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: V. Gosievskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: V. Gosievskis Lojeve užėmė pozicijas.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 654836-655166; hash=c103d5303e816d35e073197d44d419279a1e8e919eed89c2c3d5d2be05aa5de9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dnepras: 0.85
+  ryšio_patikimumas: priklause -> Dnepras: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lojevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dnepras: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lojevas" parinktas kaip owner_note_path. Targetas "Dnepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lojevas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dnepras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lojevas lokalizuotas vakariniame Dnepro krante.
+
+## Ryšiai
+- [[objektai/asmenys/J. Radvila]] surenge_zygi_i Lojevas
+- [[objektai/asmenys/V. Gosievskis]] uzeme Lojevas
+- [[objektai/grupes/Kazokai]] keliavo_i Lojevas
+- Lojevas priklause [[objektai/vietos/Dnepras]]

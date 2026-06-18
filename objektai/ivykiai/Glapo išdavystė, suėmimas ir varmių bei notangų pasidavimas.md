@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-66552
   teiginys: 'Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį faktą apie Steinavo išdavystę; pradinis sakinys tik pradeda pasakojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_person: [[objektai/asmenys/Steinavas|Steinavas]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Aistmarios; mentioned_place: Auksinė; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Norkyčiai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_person: [[objektai/asmenys/Steinavas|Steinavas]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Aistmarios; mentioned_place: Auksinė; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Norkyčiai; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: [[objektai/asmenys/Glapas|Glapas]]; llm_object: Semba'
   temporaliniai_duomenys: 'įvykio data: iki 1276 m.; įvykio data: 1267 m.; įvykio data: 1271 m.; įvykio data: po 1273 m.; įvykio data: 1273 m.; įvykio data: 1276 m.; įvykio data: 1279 m.; įvykio data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretesnį faktą apie Steinavo išdavystę; pradinis sakinys tik pradeda pasakojimą.'
@@ -62,20 +62,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428013-429951; hash=0ef2fe70838aac60cb67d17ca9c569d83a858d5138e2eee6d0a735b5980075f0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Glapas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steinavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Steinavas išdavė Glapo planą priešui, todėl tekstas pagrindžia priešišką santykį.
 
 <a id="claim-t-66553"></a>
 - t-002
   global_id: t-66553
   teiginys: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinį autorystės įvadą; citata remia tą patį faktą aiškesne forma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -101,13 +101,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumas: priklause -> Teutonai: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasidavimas broliams leidžia atsargiai fiksuoti priklausomybės Teutonams santykį.
 
 ## Reikšmingi paminėjimai
 
@@ -165,24 +165,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428013-429951; hash=0ef2fe70838aac60cb67d17ca9c569d83a858d5138e2eee6d0a735b5980075f0; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.85
+  ryšio_patikimumas: buvo_priesas -> Glapas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steinavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Steinavas išdavė Glapo planą priešui, todėl tekstas pagrindžia priešišką santykį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumas: priklause -> Teutonai: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasidavimas broliams leidžia atsargiai fiksuoti priklausomybės Teutonams santykį.
     - t-002
 
 - c-003
@@ -213,10 +213,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumas: priklause -> Teutonai: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasidavimas broliams leidžia atsargiai fiksuoti priklausomybės Teutonams santykį.

@@ -34,7 +34,8 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   global_id: t-101238
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.'
   sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas ortodoksų aspektas ir patikslinta mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]'
+  semantiniai_rysiai: '[[objektai/grupes/LDK didikai|LDK didikai]] rėmė [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -62,13 +63,13 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   irodymo_stiprumas: 0.00
   saltinio_vieta: 137209-137606; hash=d565a8cfc717e0b6d4f5db21758bcb5ece355e6b0a093a5a79d569820c445018; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> LDK didikai: 0.83
+  ryšio_patikimumas: reme -> Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: LDK didikai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "LDK didikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: LDK didikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo LDK didikų paramą evangelikų reformatų tikėjimui; objektas yra atitinkama evangelikų reformatų bendruomenė.
 
 <a id="claim-t-183129"></a>
 - t-003
@@ -149,13 +150,13 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   irodymo_stiprumas: 0.00
   saltinio_vieta: 137209-137606; hash=d565a8cfc717e0b6d4f5db21758bcb5ece355e6b0a093a5a79d569820c445018; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> LDK didikai: 0.83
+  ryšio_patikimumas: reme -> Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: LDK didikai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "LDK didikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: LDK didikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo LDK didikų paramą evangelikų reformatų tikėjimui; objektas yra atitinkama evangelikų reformatų bendruomenė.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 117222-118093; hash=d2fab9a382da346a4aea4b7c7ff8f098e3938abfe4463a04074ab4b581a881d3; match=whitespace_regex
@@ -178,3 +179,6 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Biržai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/LDK didikai]] reme Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai

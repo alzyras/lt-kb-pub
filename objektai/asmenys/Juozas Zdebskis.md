@@ -31,7 +31,8 @@ periodo_grupes:
   global_id: t-19031
   teiginys: '1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_place: Lietuva; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]] keliavo į Maskva'
   temporaliniai_duomenys: 'įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto.'
@@ -40,13 +41,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Zdebskis (kunigas)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Juozas Zdebskis dalyvavo spaudos konferencijoje Maskvoje; kelionė nėra pasakyta tiesiogiai, bet vietos buvimas aiškus.
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
 - susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
 - susijęs iš [[objektai/asmenys/Jonas Kauneckas.md#claim-t-18978|Jonas Kauneckas]]: Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
@@ -89,10 +90,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Zdebskis (kunigas)" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juozas Zdebskis (kunigas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Juozas Zdebskis dalyvavo spaudos konferencijoje Maskvoje; kelionė nėra pasakyta tiesiogiai, bet vietos buvimas aiškus.
+
+## Ryšiai
+- Juozas Zdebskis (kunigas) keliavo_i [[objektai/vietos/Maskva]]

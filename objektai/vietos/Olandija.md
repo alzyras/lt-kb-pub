@@ -30,19 +30,20 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   global_id: t-68837
   teiginys: 'XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl sutrumpintas iki aiškaus fakto.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Vakarų Europa; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Italija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vakarų Europa; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Vakarų Europa; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Italija; mentioned_place: Viena'
+  semantiniai_rysiai: 'Olandija priklausė Vakarų Europa'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olandija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olandija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vakarų Europa: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vakarų Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai priskiria Angliją šiaurinei Vakarų Europos daliai.
 
 <a id="claim-t-68838"></a>
 - t-002
@@ -71,6 +72,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60513|Powierski J]]: J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
 - susijęs iš [[objektai/ivykiai/Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.).md#claim-t-62528|Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)]]: 1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai.
+- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60145|Hugonas Butyras]]: Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -110,13 +112,13 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olandija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olandija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vakarų Europa: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Anglija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vakarų Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai priskiria Angliją šiaurinei Vakarų Europos daliai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e9ae37c6a5057e942c4724c452f5c396e73911daec71ac94282e86af4c12da08; match=fallback; occurrences=0
@@ -128,3 +130,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   ryšio_subjekto_parinkimas: Olandija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Anglija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olandija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Olandija priklause [[objektai/vietos/Vakarų Europa]]
+- [[objektai/asmenys/Hugonas Butyras]] gime Olandija

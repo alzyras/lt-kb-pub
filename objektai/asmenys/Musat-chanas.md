@@ -24,19 +24,19 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   global_id: t-39610
   teiginys: 'Į Lietuvos pusę perėjęs totorių caraitis Musat-chanas buvo paskirtas valdyti Kafos apylinkes.'
   sudarymo_pagrindimas: 'Pirminis sakinys netiksliai sulieja padarinį; perrašyta aiškiai apie Musat-chano vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kafa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafa: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Kafos apylinkių perėjimą į Lietuvos kontrolę.
 
 <a id="claim-t-183755"></a>
 - t-002
@@ -46,19 +46,20 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir nurodo Musat-chanui pavestą valdymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Kafa; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Musat-chanas|Musat-chanas]] valdė Kafa'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kafa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kafa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kafa: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Musat-chanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kafa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Musat-chanui pavesta valdyti Kafos apylinkes.
 
 ## Reikšmingi paminėjimai
 
@@ -90,21 +91,24 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kafa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kafa: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Kafos apylinkių perėjimą į Lietuvos kontrolę.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kafa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kafa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kafa: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Musat-chanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kafa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Musat-chanui pavesta valdyti Kafos apylinkes.
+
+## Ryšiai
+- Musat-chanas valde [[objektai/vietos/Kafa]]

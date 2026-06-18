@@ -79,3 +79,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   ryšio_subjekto_parinkimas: Popiežius Celestinas III: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Celestinas III: mention_match, person, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežius Celestinas III" parinktas kaip owner_note_path. Targetas "Celestinas III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Popiežius Celestinas III pastate [[objektai/daiktai/Namas]]
+- Popiežius Celestinas III paskyre [[objektai/grupes/Teutonai]]

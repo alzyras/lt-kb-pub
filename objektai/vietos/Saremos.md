@@ -31,7 +31,7 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43877
   teiginys: 'Danams atiteko Saremos, arba Eželio, vyskupystė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala; llm_object: Maskva; llm_object: [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,19 +39,19 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jelgava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saremos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jelgava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saremos" parinktas kaip owner_note_path. Targetas "Jelgava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Maskva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę.
 
 <a id="claim-t-43878"></a>
 - t-002
   global_id: t-43878
   teiginys: 'Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai; llm_object: Maskva; llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: iki 1582 m.; priklausymo laikotarpis: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip priklausymo laikotarpis su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -59,13 +59,13 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01f9c271670b04ca2e4cde017c6d17cc928d2577601407c23967fb495d4335ac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saremos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saremos" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Maskva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę.
 - susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66608|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.
 - susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
@@ -114,21 +114,21 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01f9c271670b04ca2e4cde017c6d17cc928d2577601407c23967fb495d4335ac; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saremos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saremos" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Maskva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jelgava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saremos: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jelgava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saremos" parinktas kaip owner_note_path. Targetas "Jelgava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Maskva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tartai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę.

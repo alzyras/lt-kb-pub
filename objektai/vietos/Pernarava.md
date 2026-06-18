@@ -46,9 +46,11 @@ Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pernarava" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179362|Livonijos ordinas]]: 1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179365|Livonijos ordinas]]: 1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.
 - susijęs iš [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.).md#claim-t-185764|Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]: Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.
+- susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,3 +96,6 @@ Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama
   ryšio_subjekto_parinkimas: Pernarava: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pernarava" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Pernarava

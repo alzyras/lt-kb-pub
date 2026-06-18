@@ -22,19 +22,20 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Joną Černiną ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Vokietija; mentioned_place: Čekija; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Poznanė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jonas Černinas|Jonas Černinas]]; mentioned_place: Vokietija; mentioned_place: Čekija; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Poznanė'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] paskyrė [[objektai/asmenys/Jonas Černinas|Jonas Černinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 993263-993569; hash=d9a6c54fbb36f5dc18aa4ed3a6ce95c4280f1fffaa9513a101879a377edafd00; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Černinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Černinas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jonas Černinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Černinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavedimas atlikti užduotį tiesiogiai rodo Aleksandro paskyrimą Jonui Černinui.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +58,13 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   irodymo_stiprumas: 0.00
   saltinio_vieta: 993263-993569; hash=d9a6c54fbb36f5dc18aa4ed3a6ce95c4280f1fffaa9513a101879a377edafd00; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Černinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Černinas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jonas Černinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Černinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavedimas atlikti užduotį tiesiogiai rodo Aleksandro paskyrimą Jonui Černinui.
+
+## Ryšiai
+- [[objektai/asmenys/Aleksandras]] paskyre Jonas Černinas

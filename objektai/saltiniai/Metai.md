@@ -45,7 +45,7 @@ amziai:
   global_id: t-45740
   teiginys: 'Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir enciklopedinis, remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Lietuva'
   pagrindžia:
     - c-001
 
@@ -63,7 +63,7 @@ amziai:
 - t-004
   global_id: t-45742
   teiginys: 'Apie 1750 m. sukurta Kristijono Donelaičio poema „Metai“ laikoma pirmuoju reikšmingu lietuviakalbės literatūros kūriniu Mažojoje Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1750 m.; įvykio data: apie 1750 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:

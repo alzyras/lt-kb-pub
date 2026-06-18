@@ -59,7 +59,8 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   global_id: t-67763
   teiginys: 'Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti išsamesnį, taisyklingą vietovių sąrašą.'
-  susije_objektai: 'mentioned_place: Aukštadvaris; mentioned_place: Molėtai; mentioned_place: Tauragnai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Butrimonys; llm_object: Aukštadvaris; llm_object: Molėtai; llm_object: Tauragnai; mentioned_place: Aukštadvaris; mentioned_place: Molėtai; mentioned_place: Tauragnai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Butrimonys'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti išsamesnį, taisyklingą vietovių sąrašą.'
@@ -68,13 +69,13 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=388e59db5b197add804fe26f19fc0f712b4b79b2646efff6ffffd4d781dcede8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštadvaris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Butrimonys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukštadvaris: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butrimonys" parinktas kaip owner_note_path. Targetas "Aukštadvaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Butrimonys: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Butrimonys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lenkai užgrobė Butrimonis.
 - susijęs iš Alytus: 1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
 ## Reikšmingi paminėjimai
@@ -148,21 +149,24 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=388e59db5b197add804fe26f19fc0f712b4b79b2646efff6ffffd4d781dcede8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštadvaris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Butrimonys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukštadvaris: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butrimonys" parinktas kaip owner_note_path. Targetas "Aukštadvaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Butrimonys: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Butrimonys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lenkai užgrobė Butrimonis.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 781556-781868; hash=a9781eb479620cb35a6945f0e919986dd3cfd0ba2a4c18953fa988a70e45120b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštadvaris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Butrimonys: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukštadvaris: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butrimonys" parinktas kaip owner_note_path. Targetas "Aukštadvaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Butrimonys: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Butrimonys: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lenkai užgrobė Butrimonis.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] uzeme Butrimonys

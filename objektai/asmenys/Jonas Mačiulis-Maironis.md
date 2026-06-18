@@ -55,13 +55,13 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fc23c73767b6029bc120ad4e5d2b6ed347cf1702d27b898b359e00c24c3c4b6f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Mačiulis-Maironis: owner_note_path, person
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Mačiulis-Maironis" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo, kad Lietuva buvo prijungta prie Rusijos.
 
 <a id="claim-t-63724"></a>
 - t-003
@@ -90,7 +90,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-63725
   teiginys: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko pilną sakinį apie Maironį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Rusija; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko pilną sakinį apie Maironį.'
@@ -194,13 +194,13 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fc23c73767b6029bc120ad4e5d2b6ed347cf1702d27b898b359e00c24c3c4b6f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Mačiulis-Maironis: owner_note_path, person
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Mačiulis-Maironis" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rusija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai nurodo, kad Lietuva buvo prijungta prie Rusijos.
     - t-003
 
 - c-003

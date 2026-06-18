@@ -53,6 +53,9 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   ryšio_subjekto_parinkimas: Subačius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Biržai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Subačius" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
+- susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38892|Panevėžio rinktinė]]: Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.
+- susijęs iš Troškūnai: Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.
 - susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173309|Žygimantas Senasis]]: Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.
 - susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38892|Panevėžio rinktinė]]: Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.
@@ -126,3 +129,6 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
   ryšio_subjekto_parinkimas: Subačius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kupiškis: mention_match, place, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Subačius" parinktas kaip owner_note_path. Targetas "Kupiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Panevėžio rinktinė]] uzeme Subačius

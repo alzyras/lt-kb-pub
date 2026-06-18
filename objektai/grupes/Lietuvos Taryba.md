@@ -34,7 +34,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   global_id: t-182708
   teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
   sudarymo_pagrindimas: 'Ištaisytas nutrūkęs vardas ir pašalintas puslapio triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]] paskyrė [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ištaisytas nutrūkęs vardas ir pašalintas puslapio triukšmas.'
@@ -310,3 +311,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: konstitucijos: mention_match, thing, gap=49
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "konstitucijos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos Taryba (institucija) paskyre [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

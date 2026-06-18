@@ -42,13 +42,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 66666-67124; hash=ac25c064604d04f79d4b65a38822935f08ea91e02943fcb8964844949a09a58c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Gediminas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Gediminas: nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184410"></a>
 - t-002
@@ -56,7 +56,8 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   teiginys: '1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas pateikta citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drevanta; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drevanta; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]] vedė [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas pateikta citata.'
@@ -65,13 +66,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 679710-680204; hash=1288728159ffc71c5e123c07bf02c706c886d4ab20e10106055c05c7088c4869; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aldona tiesiogiai įvardyta Gedimino dukterimi.
 
 <a id="claim-t-184411"></a>
 - t-003
@@ -103,20 +104,21 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b228becd9d0f26aff4c5c6e0fc64a97d03000e4cf85507a2f3951a9e061f9d70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.90
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Aldona Gediminaitė" parinktas kaip nearest_actor. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aldona tiesiogiai įvardyta Gedimino dukterimi.
 
 <a id="claim-t-184413"></a>
 - t-005
   global_id: t-184413
   teiginys: '1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Dobrynė; mentioned_place: Pamaris'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Łokietka|Vladislovas Łokietka]]; mentioned_place: Dobrynė; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]] vedė [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -199,7 +201,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   global_id: t-184417
   teiginys: 'Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'family: [[objektai/asmenys/Aldona Ona|Aldona Ona]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Aldona Ona|Aldona Ona]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_person: [[objektai/asmenys/Aldona Ona|Aldona Ona]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -259,8 +261,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   global_id: t-184420
   teiginys: 'Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'spouse: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]] vedė [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -285,13 +286,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131330-131715; hash=77ba841cab8769ff46ca3e49a7f9192175f3f8fbb8015bc8721fa12eab0c03b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Aldona Ona: 0.89
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Aldona Ona: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Aldona Gediminaitė" parinktas kaip nearest_actor. Targetas "Aldona Ona" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184748"></a>
 - t-014
@@ -301,20 +302,20 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo lenkų poziciją ir yra paremtas citata.'
-  susije_objektai: 'territory: Podolė; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Podolė; llm_object: Lenkija; llm_object: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]] užėmė Podolė'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 857359-858296; hash=7b288a98c2011893d3257a5e149cdc087d0162fb9c6dc54290bcd089965d9d69; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Podolė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: priklause -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje nurodyta, kad Podolė buvo paversta Lenkijos sritimi.
 - susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
@@ -413,13 +414,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 66666-67124; hash=ac25c064604d04f79d4b65a38822935f08ea91e02943fcb8964844949a09a58c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Gediminas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Gediminas: nearest_person_after_predicate, person, gap=5
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-004
@@ -489,13 +490,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 679710-680204; hash=1288728159ffc71c5e123c07bf02c706c886d4ab20e10106055c05c7088c4869; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aldona tiesiogiai įvardyta Gedimino dukterimi.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=422e710d1979a620fda5e42ccd6ef71609d6a50da07825d3e54f42a06296ebb1; match=fallback; occurrences=0
@@ -511,13 +512,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 131330-131715; hash=77ba841cab8769ff46ca3e49a7f9192175f3f8fbb8015bc8721fa12eab0c03b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Aldona Ona: 0.89
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Aldona Ona: nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Aldona Gediminaitė" parinktas kaip nearest_actor. Targetas "Aldona Ona" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-007
@@ -658,25 +659,25 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b228becd9d0f26aff4c5c6e0fc64a97d03000e4cf85507a2f3951a9e061f9d70; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.90
+  ryšio_patikimumas: buvo_dukte -> Gediminas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Aldona Gediminaitė: nearest_actor, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Aldona Gediminaitė" parinktas kaip nearest_actor. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aldona Gediminaitė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Aldona tiesiogiai įvardyta Gedimino dukterimi.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 857359-858296; hash=7b288a98c2011893d3257a5e149cdc087d0162fb9c6dc54290bcd089965d9d69; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Podolė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Kazimieras Didysis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kazimieras Didysis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: priklause -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje nurodyta, kad Podolė buvo paversta Lenkijos sritimi.
 
 ## Ryšiai
-- Kazimieras Didysis vede [[objektai/asmenys/Gediminas]]
+- Kazimieras Didysis vede [[objektai/asmenys/Aldona Gediminaitė]]
 - Kazimieras Didysis uzeme [[objektai/vietos/Podolė]]

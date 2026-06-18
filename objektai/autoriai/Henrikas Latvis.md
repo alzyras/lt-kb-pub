@@ -29,7 +29,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   global_id: t-171490
   teiginys: 'Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Henriko Latvio kronikos reikšmę, bet pradinis tekstas yra triukšmingas ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie Henriko Latvio kronikos reikšmę, bet pradinis tekstas yra triukšmingas ir per ilgas.'

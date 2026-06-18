@@ -33,7 +33,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   global_id: t-60337
   teiginys: 'Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo priklausomas nuo konteksto; citata leidžia aiškiai įvardyti Jokūbo vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1246 m.; įvykio data: 1246 m.; įvykio data: 1254 m.; įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo priklausomas nuo konteksto; citata leidžia aiškiai įvardyti Jokūbo vaidmenį.'
@@ -42,13 +43,13 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 337622-338668; hash=a6c4f6cd863c3d0e91a597e48474ff4d548b5b61add2b963c769515988e049a9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas (vėliau Urbonas IV)" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata sako, kad Jokūbas sudarė sutartį tarp Sventopelko ir brolių; brolių kandidatas siejamas su Kryžiuočių ordinu.
 - susijęs iš [[objektai/asmenys/Jokūbas iš Kobylanų.md#claim-t-39748|Jokūbas iš Kobylanų]]: Jokūbas iš Kobylanų vadovavo apie 4000 karių lenkų daliniui, Vladislovo Jogailaičio atsiųstam į pagalbą Žygimantui Kęstutaičiui.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
 - susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
@@ -104,10 +105,13 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   irodymo_stiprumas: 0.00
   saltinio_vieta: 337622-338668; hash=a6c4f6cd863c3d0e91a597e48474ff4d548b5b61add2b963c769515988e049a9; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas (vėliau Urbonas IV)" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata sako, kad Jokūbas sudarė sutartį tarp Sventopelko ir brolių; brolių kandidatas siejamas su Kryžiuočių ordinu.
+
+## Ryšiai
+- Jokūbas (vėliau Urbonas IV) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]

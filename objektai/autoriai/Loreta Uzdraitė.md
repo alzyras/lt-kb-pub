@@ -39,7 +39,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 - t-001
   global_id: t-78777
   teiginys: 'Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Šiauliai; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Šiauliai; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Šiauliai; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -57,19 +57,19 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1127561-1127783; hash=b2afe6e9706334fe485682182480c9f44266c5edc3f77f45bf6a4e4f73b931c5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiauliai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kartoschemos pavadinimas tiesiogiai nusako Kalavijuočių ordino įsiveržimą į Šiaulių žemę.
 
 <a id="claim-t-78779"></a>
 - t-003
   global_id: t-78779
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės'
   temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: iki 1341 m.; įvykio data: 1263 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -96,31 +96,31 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1cfc8dfa1e77f65bb85f6c43d9de49f6078dec77a01f4b31ff69ff09239371b1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiauliai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Kalavijuočių ordino įsiveržimą į Šiaulių žemę.
 
 <a id="claim-t-78781"></a>
 - t-005
   global_id: t-78781
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Algirdo žygius į Maskvą ir Maskvos valstybės augimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14955300dd969a108bfe1f1bf463fd92e382bcafdc627c4465aba6fb3173682d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas tiesiogiai teigia, kad Lietuva buvo valdoma Mindaugo.
 
 <a id="claim-t-78782"></a>
 - t-006
@@ -136,13 +136,13 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14955300dd969a108bfe1f1bf463fd92e382bcafdc627c4465aba6fb3173682d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevo žemės: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo žemės: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Gedimino užimtas Kijevo žemes.
 
 <a id="claim-t-78783"></a>
 - t-007
@@ -171,7 +171,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   global_id: t-78784
   teiginys: 'Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas pateiktu bibliografiniu įrašu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_author: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Šiauliai; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Šiauliai; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_author: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Šiauliai; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pagrįstas pateiktu bibliografiniu įrašu.'
@@ -180,13 +180,13 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1128167-1128296; hash=5617fae10ea85d5094b6813bc530c4270a558744636651d22b1c5df70cdd95a4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Algirdo žygius į Maskvą.
 
 <a id="claim-t-78785"></a>
 - t-009
@@ -242,7 +242,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 - t-012
   global_id: t-78788
   teiginys: 'Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru rengė ankstyvųjų leidinio skyrių kartoschemas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  susije_objektai: 'llm_object: Šiauliai; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -262,7 +262,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 - t-013
   global_id: t-78789
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės'
+  susije_objektai: 'llm_object: Kijevo žemės; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės'
   temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: iki 1341 m.; įvykio data: 1263 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -377,13 +377,13 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1128167-1128296; hash=5617fae10ea85d5094b6813bc530c4270a558744636651d22b1c5df70cdd95a4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Algirdo žygius į Maskvą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1127499-1127665; hash=9ef1a8c81869928c3e03f8cf06c26072c6dafdfa6f039d0a14a7a020049d8faf; match=exact
@@ -445,13 +445,13 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14955300dd969a108bfe1f1bf463fd92e382bcafdc627c4465aba6fb3173682d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pavadinimas tiesiogiai teigia, kad Lietuva buvo valdoma Mindaugo.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0bdea3f472ac2fe74783b4bf815ea28419ae1076eaf4280026c432d3d182a575; match=fallback; occurrences=0
@@ -467,13 +467,13 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14955300dd969a108bfe1f1bf463fd92e382bcafdc627c4465aba6fb3173682d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevo žemės: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo žemės: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Gedimino užimtas Kijevo žemes.
     - t-002
 
 - c-008
@@ -493,21 +493,21 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1127561-1127783; hash=b2afe6e9706334fe485682182480c9f44266c5edc3f77f45bf6a4e4f73b931c5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiauliai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kartoschemos pavadinimas tiesiogiai nusako Kalavijuočių ordino įsiveržimą į Šiaulių žemę.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1cfc8dfa1e77f65bb85f6c43d9de49f6078dec77a01f4b31ff69ff09239371b1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Loreta Uzdraitė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loreta Uzdraitė" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Šiauliai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Kalavijuočių ordino įsiveržimą į Šiaulių žemę.

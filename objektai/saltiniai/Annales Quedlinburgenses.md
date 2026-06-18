@@ -27,7 +27,7 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   global_id: t-31616
   teiginys: '„Annales Quedlinburgenses“ pirmieji paminėjo Lietuvos vardą, pažymėdami, kad 1009 m. prie Lietuvos ir Rusijos sienos nužudytas šv. Brunonas su 18 palydovų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Lietuva; llm_object: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -36,13 +36,13 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a2fbff4a5cf0ca57a9b328b9724a11cb4b1d87c49a0941159ce015a586064da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.85
+  ryšio_patikimumas: mire -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Annales Quedlinburgenses: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=130
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Annales Quedlinburgenses" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono nužudymo vieta apibūdinta prie Lietuvos ir Rusijos sienos; pasirenkama Lietuva kaip vienas tiesiogiai minimas vietos kandidatas.
 
 ## Reikšmingi paminėjimai
 
@@ -64,10 +64,10 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a2fbff4a5cf0ca57a9b328b9724a11cb4b1d87c49a0941159ce015a586064da; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.85
+  ryšio_patikimumas: mire -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Annales Quedlinburgenses: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=130
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Annales Quedlinburgenses" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brunono nužudymo vieta apibūdinta prie Lietuvos ir Rusijos sienos; pasirenkama Lietuva kaip vienas tiesiogiai minimas vietos kandidatas.

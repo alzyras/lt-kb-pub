@@ -35,7 +35,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - t-001
   global_id: t-63416
   teiginys: 'Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; llm_object: Prancūzija; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]; llm_object: [[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]]; llm_object: [[objektai/grupes/Flandrai|Flandrai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] valdė Prancūzija; [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]] paskyrė [[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]]'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -43,13 +44,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Prancūzijos karalystė buvo atiduota Albrechtui į valdas.
 
 <a id="claim-t-63417"></a>
 - t-002
@@ -63,19 +64,20 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc9fb2f76a91b76f38088522f5305d715a787bf595f2217bbb19bc4a51dc91c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: paskyre -> Albrechtas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Albrechtas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas pakėlė savo sūnų į Čekijos sostą; sūnaus atskiras kandidatas nepateiktas, todėl naudojamas vienintelis leidžiamas asmens kandidatas „Albrechtas“.
 
 <a id="claim-t-63418"></a>
 - t-003
   global_id: t-63418
   teiginys: 'Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; llm_object: [[objektai/asmenys/Albrechtas|Albrechtas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] paskyrė [[objektai/asmenys/Albrechtas|Albrechtas]]'
   temporaliniai_duomenys: 'įvykio data: 1307 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -96,7 +98,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   global_id: t-63419
   teiginys: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1303 m. įvykį ir vėlesnį atšaukimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; llm_object: Prancūzija; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; llm_object: [[objektai/grupes/Flandrai|Flandrai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] valdė Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1303 m. įvykį ir vėlesnį atšaukimą.'
@@ -105,32 +108,33 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Prancūzijos karalystė buvo atiduota Albrechtui į valdas.
 
 <a id="claim-t-63420"></a>
 - t-005
   global_id: t-63420
   teiginys: 'Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys per ilgas ir fragmentiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; llm_object: [[objektai/asmenys/Albrechtas|Albrechtas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] paskyrė [[objektai/asmenys/Albrechtas|Albrechtas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc9fb2f76a91b76f38088522f5305d715a787bf595f2217bbb19bc4a51dc91c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: paskyre -> Albrechtas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Albrechtas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas pakėlė savo sūnų į Čekijos sostą; sūnaus atskiras kandidatas nepateiktas, todėl naudojamas vienintelis leidžiamas asmens kandidatas „Albrechtas“.
 
 <a id="claim-t-63421"></a>
 - t-006
@@ -172,13 +176,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Prancūzijos karalystė buvo atiduota Albrechtui į valdas.
     - t-001
 
 - c-002
@@ -197,13 +201,13 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Prancūzijos karalystė buvo atiduota Albrechtui į valdas.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25d1eacda9b6ef218af4c1dd4b1a6d7930d335508b18866d498c08a857d2d7e6; match=fallback; occurrences=0
@@ -233,24 +237,24 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc9fb2f76a91b76f38088522f5305d715a787bf595f2217bbb19bc4a51dc91c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: paskyre -> Albrechtas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Albrechtas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas pakėlė savo sūnų į Čekijos sostą; sūnaus atskiras kandidatas nepateiktas, todėl naudojamas vienintelis leidžiamas asmens kandidatas „Albrechtas“.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5dc9fb2f76a91b76f38088522f5305d715a787bf595f2217bbb19bc4a51dc91c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
+  ryšio_patikimumas: paskyre -> Albrechtas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Albrechtas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Albrechtas pakėlė savo sūnų į Čekijos sostą; sūnaus atskiras kandidatas nepateiktas, todėl naudojamas vienintelis leidžiamas asmens kandidatas „Albrechtas“.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25d1eacda9b6ef218af4c1dd4b1a6d7930d335508b18866d498c08a857d2d7e6; match=fallback; occurrences=0
@@ -262,3 +266,8 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   ryšio_subjekto_parinkimas: Albrechtas (Romos karalius): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Austrija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas (Romos karalius)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Albrechtas (Romos karalius) valde [[objektai/vietos/Prancūzija]]
+- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]] paskyre Albrechtas (Romos karalius)
+- Albrechtas (Romos karalius) paskyre [[objektai/asmenys/Albrechtas]]

@@ -29,20 +29,20 @@ periodo_grupes:
   global_id: t-87798
   teiginys: 'Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.'
   sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą; citata palaiko atskirą faktą apie jo sūnų Mykolą.'
-  susije_objektai: 'location: Vilnius; burial_place: Vilnius; family: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] mirė Vilnius; [[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] buvo palaidotas Vilnius; [[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] buvo sūnus [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] mirė Maskva; [[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] buvo palaidotas Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 461829-462297; hash=a1b537b1e9bc537f0abfa07c3df49e1e95c5c096a9af56a5df93ebbf33364890; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Vilnius: 0.97
+  ryšio_patikimumas: mire -> Maskva: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Mykolas (Švitrigailos sūnus): owner_note_path, person, gap=87
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Mykolas (Švitrigailos sūnus)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas (Švitrigailos sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Mykolas mirė tremtyje Maskvoje.
 
 ## Reikšmingi paminėjimai
 
@@ -67,15 +67,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 461829-462297; hash=a1b537b1e9bc537f0abfa07c3df49e1e95c5c096a9af56a5df93ebbf33364890; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Vilnius: 0.97
+  ryšio_patikimumas: mire -> Maskva: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_death_local_place
-  ryšio_subjekto_parinkimas: Mykolas (Švitrigailos sūnus): owner_note_path, person, gap=87
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "Mykolas (Švitrigailos sūnus)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas (Švitrigailos sūnus): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Mykolas mirė tremtyje Maskvoje.
 
 ## Ryšiai
-- Mykolas (Švitrigailos sūnus) mire [[objektai/vietos/Vilnius]]
+- Mykolas (Švitrigailos sūnus) mire [[objektai/vietos/Maskva]]
 - Mykolas (Švitrigailos sūnus) buvo_palaidotas [[objektai/vietos/Vilnius]]
-- Mykolas (Švitrigailos sūnus) buvo_sunus [[objektai/asmenys/Švitrigaila]]

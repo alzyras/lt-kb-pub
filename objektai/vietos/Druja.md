@@ -38,13 +38,13 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563473-563985; hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bauskė: 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bauskė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sapiegos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Sapiegų senjorai pasiekė Vilnių.
 
 <a id="claim-t-83319"></a>
 - t-002
@@ -61,7 +61,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   global_id: t-83320
   teiginys: 'Sapiegų senjorai Vilniuje paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko aiškesnį sakinį apie Drują.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Bauskė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Bauskė; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 - t-004
   global_id: t-83321
   teiginys: 'Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Bauskė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Bauskė; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -144,13 +144,13 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563473-563985; hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bauskė: 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bauskė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sapiegos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Sapiegų senjorai pasiekė Vilnių.
     - t-002
 
 - c-002

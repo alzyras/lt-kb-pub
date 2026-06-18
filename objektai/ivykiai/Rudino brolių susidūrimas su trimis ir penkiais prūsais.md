@@ -39,19 +39,19 @@ Nenurodyta
   global_id: t-59596
   teiginys: 'Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.'
   sudarymo_pagrindimas: 'Teiginys buvo nebaigtas ir su fragmentuotu pasakojimu, bet citata remia aiškų įvykio apibendrinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  susije_objektai: 'llm_object: Rudinas; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 453201-454130; hash=37e7551b6b35c575fbf6ca8a69bb24221ef28394cef21edaf3bc4421edaeef5d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudino brolių susidūrimas su trimis ir penkiais prūsais: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudino brolių susidūrimas su trimis ir penkiais prūsais" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rudinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Martynas grįžo į Rudino pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 453201-454130; hash=37e7551b6b35c575fbf6ca8a69bb24221ef28394cef21edaf3bc4421edaeef5d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudino brolių susidūrimas su trimis ir penkiais prūsais: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudino brolių susidūrimas su trimis ir penkiais prūsais" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Rudinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Martynas grįžo į Rudino pilį.

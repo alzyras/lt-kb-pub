@@ -74,13 +74,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e36a8753e7db5f67c40c6062f5f3295f0dd8db0f62fd03e5842da7b18ea6b4a9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: SSRS kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo SSRS kariuomenės įžygiavimą į Lietuvą.
 
 <a id="claim-t-45444"></a>
 - t-003
@@ -125,7 +125,7 @@ Nenurodyta
 - t-005
   global_id: t-45446
   teiginys: 'V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Kaunas; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Kaunas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -329,13 +329,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e36a8753e7db5f67c40c6062f5f3295f0dd8db0f62fd03e5842da7b18ea6b4a9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: SSRS kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo SSRS kariuomenės įžygiavimą į Lietuvą.
     - t-003
 
 - c-007

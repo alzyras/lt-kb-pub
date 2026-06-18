@@ -43,7 +43,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   global_id: t-181161
   teiginys: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Palenkė; mentioned_place: Volinija'
+  susije_objektai: 'llm_object: Vladimiras; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Palenkė; mentioned_place: Volinija; llm_object: Volinija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vladimiras'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -58,7 +59,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Gedimino puolimą prieš Vladimirą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Vladimiras; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Volynė'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] apgulė Vladimiras'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
@@ -81,6 +83,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - susijęs iš Podolė: Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę.
 - susijęs iš Polockas: Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius.
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
+- susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 - susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 ## Reikšmingi paminėjimai
 
@@ -118,3 +121,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Gediminas]] apgule Vladimiras
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Vladimiras
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Vladimiras

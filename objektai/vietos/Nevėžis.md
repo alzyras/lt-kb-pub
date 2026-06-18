@@ -48,7 +48,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys yra nutrūkęs ir turi OCR bei kontekstinio pertekliaus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_place: Suvalkai; mentioned_place: Šešupė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_place: Suvalkai; mentioned_place: Šešupė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
 
@@ -60,7 +60,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-004
 
@@ -72,7 +72,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutrumpinta iki aiškaus fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sutrumpinta iki aiškaus fakto.'
@@ -87,7 +87,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata.'
@@ -102,19 +102,19 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas titulas, o kronikos pasakojimo intencija perteikta su atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salynas; mentioned_place: Suvalkai; mentioned_place: Šešupė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salynas; mentioned_place: Suvalkai; mentioned_place: Šešupė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 221808-222453; hash=35b430092cff24fce6282bd786737d51a0fd0ca15610c5c62b0fc185aed6f897; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nevėžis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nevėžis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sakinys tiesiogiai nurodo, kad Ordinas sutiko padėti Vytautui.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186005|Kernius]]: Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.
@@ -190,6 +190,9 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 - susijęs iš [[objektai/zodynas/alanai.md#claim-t-185379|alanai]]: Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.
 - susijęs iš [[objektai/zodynas/krivė krivaitis.md#claim-t-185387|krivė krivaitis]]: Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
+- susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
+- susijęs iš [[objektai/asmenys/Vasibutas.md#claim-t-30407|Vasibutas]]: Vasibutas su Rumbaudu ir kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą.
+- susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -308,10 +311,17 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 221808-222453; hash=35b430092cff24fce6282bd786737d51a0fd0ca15610c5c62b0fc185aed6f897; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nevėžis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nevėžis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sakinys tiesiogiai nurodo, kad Ordinas sutiko padėti Vytautui.
+
+## Ryšiai
+- [[objektai/asmenys/Galminas]] keliavo_i Nevėžis
+- [[objektai/asmenys/Klausigaila]] keliavo_i Nevėžis
+- [[objektai/asmenys/Vasibutas]] keliavo_i Nevėžis
+- [[objektai/asmenys/Getautas]] keliavo_i Nevėžis
+- Nevėžis priklause [[objektai/vietos/Lietuva]]

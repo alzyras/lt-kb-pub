@@ -21,19 +21,23 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   global_id: t-21870
   teiginys: 'Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas taip, kad būtų tiesiogiai apie Venesuelą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Afrika; mentioned_place: Urugvajus'
+  susije_objektai: 'llm_object: Venesuela; llm_object: Urugvajus; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Afrika; mentioned_place: Urugvajus'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Venesuela'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc4f096a5c95f72181ce438c6b1e67d0530acca8cdd1693b6073484374cf4420; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venesuela: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venesuela" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Venesuela: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Venesuela: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai vyko į Venesuelą.
+- susijęs iš Brazilija: Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.
+- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
+- susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20055|Užsienio lietuviai]]: Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
 - susijęs iš Brazilija: Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.
 - susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75691|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
@@ -43,6 +47,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
 - susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
 - susijęs iš Urugvajus: Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.
+- susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,10 +67,13 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc4f096a5c95f72181ce438c6b1e67d0530acca8cdd1693b6073484374cf4420; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venesuela: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venesuela" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Venesuela: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Venesuela: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai vyko į Venesuelą.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Venesuela

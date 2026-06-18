@@ -22,7 +22,8 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   global_id: t-60173
   teiginys: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys netiksliai perteikia veiksmą; citata remia aiškesnę formuluotę.'
-  susije_objektai: 'mentioned_place: Bartenšteinas'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_place: Bartenšteinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Miligedas|Miligedas]] keliavo į Bartenšteinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -47,13 +48,13 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   irodymo_stiprumas: 0.00
   saltinio_vieta: 409780-410135; hash=5216b5ac4d26834174dbe8acdf38e50535206e55930cbfa4723991a0f5d95536; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Miligedas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miligedas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bartenšteinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Miligedas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Miligedas sugrįžo į Bartenšteino pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -98,10 +99,13 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   irodymo_stiprumas: 0.00
   saltinio_vieta: 409780-410135; hash=5216b5ac4d26834174dbe8acdf38e50535206e55930cbfa4723991a0f5d95536; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Miligedas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miligedas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bartenšteinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Miligedas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Miligedas sugrįžo į Bartenšteino pilį.
+
+## Ryšiai
+- Miligedas keliavo_i [[objektai/vietos/Bartenšteinas]]

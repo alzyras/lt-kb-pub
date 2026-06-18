@@ -109,3 +109,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   ryšio_subjekto_parinkimas: Sofija: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Julijona (Algirdo žmona): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija" parinktas kaip owner_note_path. Targetas "Julijona (Algirdo žmona)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Sofija keliavo_i [[objektai/vietos/Pernu]]
+- Sofija keliavo_i [[objektai/vietos/Pskovas]]

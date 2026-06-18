@@ -22,19 +22,20 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas, aiškus ir paremtas citatos pasakojimu.'
-  susije_objektai: 'mentioned_place: Jaselda; mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]'
+  susije_objektai: 'llm_object: Luckas; mentioned_place: Jaselda; mentioned_place: Luckas; llm_object: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mstislavas Romanovičius|Mstislavas Romanovičius]] keliavo į Luckas; [[objektai/asmenys/Mstislavas Romanovičius|Mstislavas Romanovičius]] kariavo prieš [[objektai/asmenys/Skirmantas|Skirmantas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaselda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mstislavas Romanovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jaselda: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavas Romanovičius" parinktas kaip owner_note_path. Targetas "Jaselda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mstislavas Romanovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai nurodyta, kad Mstislavas paspruko į Lucką.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +78,14 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
   irodymo_stiprumas: 0.00
   saltinio_vieta: 137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaselda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mstislavas Romanovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jaselda: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavas Romanovičius" parinktas kaip owner_note_path. Targetas "Jaselda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Luckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mstislavas Romanovičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Luckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai nurodyta, kad Mstislavas paspruko į Lucką.
+
+## Ryšiai
+- Mstislavas Romanovičius keliavo_i [[objektai/vietos/Luckas]]
+- Mstislavas Romanovičius kariavo_pries [[objektai/asmenys/Skirmantas]]

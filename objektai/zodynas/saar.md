@@ -34,7 +34,7 @@ amziai:
 - t-002
   global_id: t-70316
   teiginys: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ amziai:
 - t-003
   global_id: t-70318
   teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 

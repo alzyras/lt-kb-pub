@@ -66,7 +66,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija santuokos veikėjus, veiksmą ir liudytojus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Augsburgas; mentioned_place: Dubingiai; mentioned_place: Nesvyžius; mentioned_place: Olyka'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Augsburgas; mentioned_place: Dubingiai; mentioned_place: Nesvyžius; mentioned_place: Olyka'
   temporaliniai_duomenys: 'įvykio data: 1546 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija santuokos veikėjus, veiksmą ir liudytojus.'
@@ -75,13 +75,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1198851-1199899; hash=766a9c609156376c20ff2615b5567b789061ff1045fb5cd42ee48375e78a5da4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slapta Augusto ir Barboros Radvilaitės santuoka: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slapta Augusto ir Barboros Radvilaitės santuoka" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Augusto ir Barboros santuokinės ištikimybės priesaiką.
 
 ## Reikšmingi paminėjimai
 
@@ -173,10 +173,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1198851-1199899; hash=766a9c609156376c20ff2615b5567b789061ff1045fb5cd42ee48375e78a5da4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Slapta Augusto ir Barboros Radvilaitės santuoka: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slapta Augusto ir Barboros Radvilaitės santuoka" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Augusto ir Barboros santuokinės ištikimybės priesaiką.

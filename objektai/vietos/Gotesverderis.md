@@ -35,19 +35,22 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gotesverderio pastatymą ir pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Gotesverderis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Gotesverderis'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434559-434906; hash=a6ed14e04b749e8a4b507ef7a7e0d493e2ba0a41c07f267a8cfbaa81dbda4d53; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotesverderis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotesverderis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Gotesverderis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gotesverderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai nurodyti kaip tvirtovės, pavadintos Gotesverderiu, statytojai.
+- susijęs iš [[objektai/ivykiai/Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.).md#claim-t-185702|Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)]]: Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
+- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 - susijęs iš [[objektai/asmenys/Henrikas (kryžiuočių magistras).md#claim-t-186003|Henrikas (kryžiuočių magistras)]]: Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.
 - susijęs iš [[objektai/ivykiai/Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.).md#claim-t-185702|Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)]]: Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
 - susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
@@ -93,10 +96,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 434559-434906; hash=a6ed14e04b749e8a4b507ef7a7e0d493e2ba0a41c07f267a8cfbaa81dbda4d53; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotesverderis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotesverderis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Gotesverderis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gotesverderis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai nurodyti kaip tvirtovės, pavadintos Gotesverderiu, statytojai.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Gotesverderis

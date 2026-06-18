@@ -29,7 +29,8 @@ Amsterdamas, 1650 m.
   global_id: t-46495
   teiginys: 'Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citatos punktu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Amsterdamas'
+  semantiniai_rysiai: '[[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]] prekiavo su Amsterdamas'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citatos punktu.'
@@ -58,16 +59,18 @@ Amsterdamas, 1650 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amsterdamas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amsterdamas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javai buvo tiekiami ekonominiu keliu į Amsterdamą, todėl tai laikoma prekybiniu ryšiu.
 - susijęs iš [[objektai/autoriai/Kazimieras Semenavičius.md#claim-t-23234|Kazimieras Semenavičius]]: Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75314|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45479|Daugiapakopės raketos]]: K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.
+- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 ## Reikšmingi paminėjimai
@@ -115,24 +118,24 @@ Amsterdamas, 1650 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amsterdamas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amsterdamas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javai buvo tiekiami ekonominiu keliu į Amsterdamą, todėl tai laikoma prekybiniu ryšiu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=61f64fe52a49b941a55805621ff631c05571ba2962824e73368a09087fa14699; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumas: prekiavo_su -> Amsterdamas: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amsterdamas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amsterdamas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Abiejų Tautų Respublika: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Amsterdamas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Javai buvo tiekiami ekonominiu keliu į Amsterdamą, todėl tai laikoma prekybiniu ryšiu.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a32e63842fb37e1100bb7bb0db711f987a20d9e79d0dffc452f43ee32543504c; match=fallback; occurrences=0
@@ -144,3 +147,6 @@ Amsterdamas, 1650 m.
   ryšio_subjekto_parinkimas: Amsterdamas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amsterdamas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Abiejų Tautų Respublika]] prekiavo_su Amsterdamas

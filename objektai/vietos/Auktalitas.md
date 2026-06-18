@@ -33,20 +33,21 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d9ecf4a2caa3b582932442526b1dda8a33d8793498b8def154ccac84099f153; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumas: priklause -> Vonsdorfas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auktalitas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktalitas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Auktalitas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vonsdorfas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo, kad Auktalito pilis buvo Vonsdorfo žemėje.
 
 <a id="claim-t-58522"></a>
 - t-002
   global_id: t-58522
   teiginys: '1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo negramatiškas ir su išnašos triukšmu; citata remia pilies užėmimą 1256 m.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Vonsdorfas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Vonsdorfas; llm_object: Vonsdorfas'
+  semantiniai_rysiai: 'Auktalitas priklausė Vonsdorfas'
   temporaliniai_duomenys: 'įvykio data: 1256 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo negramatiškas ir su išnašos triukšmu; citata remia pilies užėmimą 1256 m.'
@@ -87,14 +88,17 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d9ecf4a2caa3b582932442526b1dda8a33d8793498b8def154ccac84099f153; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumas: priklause -> Vonsdorfas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auktalitas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktalitas" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Auktalitas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vonsdorfas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys rodo, kad Auktalito pilis buvo Vonsdorfo žemėje.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 357749-357910; hash=676ffc92ad8dbab8e1f701afac7f66e119d8cb83b88536d221b5eddcc4a3f9c0; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Auktalitas priklause [[objektai/vietos/Vonsdorfas]]

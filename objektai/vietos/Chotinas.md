@@ -142,6 +142,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41269|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41270|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
+- susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
 - susijęs iš [[objektai/asmenys/Stanislovas Liubomirskis.md#claim-t-40442|Stanislovas Liubomirskis]]: LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-40522|Vladislovas]]: Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.
@@ -160,6 +161,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
 - susijęs iš [[objektai/zodynas/sarmatai Sarmatija sarmatizmas.md#claim-t-185368|sarmatai Sarmatija sarmatizmas]]: Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.
+- susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -373,3 +375,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   ryšio_targeto_parinkimas: Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotinas" parinktas kaip owner_note_path. Targetas "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+
+## Ryšiai
+- [[objektai/grupes/Turkijos kariuomenė]] keliavo_i Chotinas
+- [[objektai/asmenys/Jonas Tarnovskis]] apgule Chotinas

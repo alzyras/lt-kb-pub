@@ -86,32 +86,33 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Baiga: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijopas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Pijopas apsiautė Baigos pilį.
 
 <a id="claim-t-78539"></a>
 - t-005
   global_id: t-78539
   teiginys: 'Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pijopas|Pijopas]]; mentioned_place: Baiga'
+  susije_objektai: 'llm_object: Baiga; mentioned_person: [[objektai/asmenys/Pijopas|Pijopas]]; mentioned_place: Baiga'
+  semantiniai_rysiai: '[[objektai/grupes/Varmiai|Varmiai]] apgulė Baiga'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-263986; hash=4a48520703f40d481c83b8048b0e363c9e38854de50ff68085b8ad79c16b4245; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Varmės vyrai su šeimynomis persikėlė pas Baigos brolius; leidžiamas vietos kandidatas yra Baiga.
 
 <a id="claim-t-78540"></a>
 - t-006
@@ -196,7 +197,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78545
   teiginys: 'Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.'
   sudarymo_pagrindimas: 'Citata remia aiškesnį sakinį su rezultatu.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; llm_object: Baiga'
+  semantiniai_rysiai: '[[objektai/grupes/Varmiai|Varmiai]] keliavo į Baiga'
   pagrindžia:
     - c-001
 
@@ -240,6 +242,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
+- susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89791|Glapas]]: Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
@@ -507,13 +511,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Baiga: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pijopas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Pijopas apsiautė Baigos pilį.
     - t-003
 
 - c-010
@@ -567,13 +571,13 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-263986; hash=4a48520703f40d481c83b8048b0e363c9e38854de50ff68085b8ad79c16b4245; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Varmiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Varmės vyrai su šeimynomis persikėlė pas Baigos brolius; leidžiamas vietos kandidatas yra Baiga.
     - t-002
 
 - c-012
@@ -609,3 +613,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   ryšio_subjekto_parinkimas: Varmiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=40
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmiai" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Varmiai paskyre [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Pobravas]] buvo_sajungininkas_su Varmiai
+- Varmiai apgule [[objektai/vietos/Baiga]]
+- Varmiai keliavo_i [[objektai/vietos/Baiga]]
+- Varmiai uzeme [[objektai/vietos/Brandenburgo pilis]]
+- Varmiai priklause [[objektai/grupes/Teutonai]]

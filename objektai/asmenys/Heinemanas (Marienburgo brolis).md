@@ -23,19 +23,20 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   global_id: t-60303
   teiginys: 'Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo; citata palaiko konkretesnį faktą apie Heinemaną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Marienburgas'
+  susije_objektai: 'llm_object: Marienburgas; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Marienburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Heinemanas (Marienburgo brolis)|Heinemanas (Marienburgo brolis)]] gyveno Marienburgas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 606138-606823; hash=3551af8edc11c4a9ca57312cbd7b095c285310941c3fdf6230b83bdfb7da2069; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heinemanas (Marienburgo brolis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinemanas (Marienburgo brolis)" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heinemanas (Marienburgo brolis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės.md#claim-t-184022|abu drauge turėjome keliauti ten, kur amžinos linksmybės]]: Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.
@@ -64,10 +65,13 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   irodymo_stiprumas: 0.00
   saltinio_vieta: 606138-606823; hash=3551af8edc11c4a9ca57312cbd7b095c285310941c3fdf6230b83bdfb7da2069; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heinemanas (Marienburgo brolis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinemanas (Marienburgo brolis)" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Marienburgas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heinemanas (Marienburgo brolis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heinemanas gyveno Marienburgo pilyje.
+
+## Ryšiai
+- Heinemanas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

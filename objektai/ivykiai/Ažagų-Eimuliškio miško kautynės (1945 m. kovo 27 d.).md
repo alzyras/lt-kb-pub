@@ -81,8 +81,7 @@ Nenurodyta
 - t-005
   global_id: t-78611
   teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
-  susije_objektai: 'event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
-  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; [[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -106,13 +105,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2dff8d70a91cb7246fec55e400d32f90890c8abb475c2f9e57595c1e01c3891c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: dalyvavo_musyje -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Rytas: participant_match, group, gap=69
-  ryšio_targeto_parinkimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): event_owner_or_first_target, event
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Rytas" parinktas kaip participant_match. Targetas "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): owner_note_path, event
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
@@ -239,14 +238,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2dff8d70a91cb7246fec55e400d32f90890c8abb475c2f9e57595c1e01c3891c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: dalyvavo_musyje -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Rytas: participant_match, group, gap=69
-  ryšio_targeto_parinkimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): event_owner_or_first_target, event
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Rytas" parinktas kaip participant_match. Targetas "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/grupes/NKVD]] dalyvavo_musyje Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
-- [[objektai/grupes/Rytas]] dalyvavo_musyje Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): owner_note_path, event
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

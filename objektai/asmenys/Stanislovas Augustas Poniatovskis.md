@@ -265,3 +265,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- Stanislovas Augustas Poniatovskis (valdovas) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Stanislovas Augustas Poniatovskis (valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]

@@ -22,19 +22,20 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - t-001
   global_id: t-174590
   teiginys: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_place: Gotlandas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_place: Gotlandas; mentioned_place: Vokietija; llm_object: Štetinas'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] siuntė į Štetinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotlandas: 0.83
+  ryšio_patikimumas: siunte_i -> Štetinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štetinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gotlandas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štetinas" parinktas kaip owner_note_path. Targetas "Gotlandas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štetinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92956|Du pliki kardai]]: Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92957|Du pliki kardai]]: Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
@@ -75,10 +76,13 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotlandas: 0.83
+  ryšio_patikimumas: siunte_i -> Štetinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štetinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gotlandas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štetinas" parinktas kaip owner_note_path. Targetas "Gotlandas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Štetinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui.
+
+## Ryšiai
+- [[objektai/grupes/Hanza]] siunte_i Štetinas

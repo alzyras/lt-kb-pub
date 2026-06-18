@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Severskas'
+  susije_objektai: 'llm_object: Severskas; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Severskas'
   temporaliniai_duomenys: 'įvykio data: 1448 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį.'
@@ -49,13 +49,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 855488-856069; hash=1dcf0e80047a7d38eeb239177fe06d8476703c2c0fec2d0a2624450185a01c45; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Mykolo įsiveržimą į Severską.
 
 ## Reikšmingi paminėjimai
 
@@ -87,10 +87,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 855488-856069; hash=1dcf0e80047a7d38eeb239177fe06d8476703c2c0fec2d0a2624450185a01c45; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo Mykolo įsiveržimą į Severską.

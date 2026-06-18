@@ -52,6 +52,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   ryšio_subjekto_parinkimas: Deltuva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deltuva" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Kernius.md#claim-t-186006|Kernius]]: Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
 - susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-187512|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
 - susijęs iš [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.).md#claim-t-71753|Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]: 1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.
@@ -66,6 +67,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 - susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
 - susijęs iš Nalšėnai: Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
+- susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,3 +105,7 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   ryšio_subjekto_parinkimas: Deltuva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=48
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deltuva" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Kernius]] buvo_palaidotas Deltuva
+- [[objektai/asmenys/Živinbudas]] valde_miesta Deltuva

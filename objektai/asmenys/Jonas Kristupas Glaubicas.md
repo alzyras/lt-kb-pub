@@ -46,7 +46,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 - t-002
   global_id: t-23202
   teiginys: 'Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1700-1767; įvykio data: 1767 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -54,13 +55,13 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kristupas Glaubicas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas apibūdina jį kaip Vilniuje veikusį architektą ir teigia, kad jis pritapo daugiakonfesiame Vilniuje.
 
 <a id="claim-t-23203"></a>
 - t-003
@@ -268,13 +269,13 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kristupas Glaubicas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas apibūdina jį kaip Vilniuje veikusį architektą ir teigia, kad jis pritapo daugiakonfesiame Vilniuje.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=fallback; occurrences=0
@@ -305,13 +306,13 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c55a79bdebdf929d1fcd41766e7a67950abfede92e5aad363d905e6c5ac9262; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kristupas Glaubicas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas apibūdina Glaubicą kaip Vilniuje veikusį architektą.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=79f0739a91548df091c325908c57bd44013980f1ee49717f1f72f11024726f45; match=fallback; occurrences=0
@@ -323,3 +324,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   ryšio_subjekto_parinkimas: Jonas Kristupas Glaubicas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=100
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Kristupas Glaubicas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas Kristupas Glaubicas gyveno [[objektai/vietos/Vilnius]]

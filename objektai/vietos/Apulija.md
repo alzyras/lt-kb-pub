@@ -36,6 +36,8 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
   ryšio_subjekto_parinkimas: Apulija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=156
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Apulija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Konradas (Fridricho II sūnus).md#claim-t-60359|Konradas (Fridricho II sūnus)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/asmenys/Konradas (Fridricho II sūnus).md#claim-t-60359|Konradas (Fridricho II sūnus)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.
 - susijęs iš [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.).md#claim-t-62412|Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apuliją ir Neapolį, o kitais metais mirė nunuodytas.
@@ -66,3 +68,7 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
   ryšio_subjekto_parinkimas: Apulija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=156
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Apulija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Konradas (Fridricho II sūnus)]] puole Apulija
+- [[objektai/asmenys/Konradas]] puole Apulija

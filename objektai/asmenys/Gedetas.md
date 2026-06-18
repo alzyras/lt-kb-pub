@@ -23,19 +23,20 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
   global_id: t-60285
   teiginys: 'Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva; llm_object: Kimenava'
+  semantiniai_rysiai: '[[objektai/asmenys/Gedetas|Gedetas]] valdė Kimenava'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimenava: 0.83
+  ryšio_patikimumas: valde -> Kimenava: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedetas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kimenava: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedetas" parinktas kaip owner_note_path. Targetas "Kimenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedetas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kimenava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje.
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89365|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir 1500 vyrų bei moterų pasitraukė pas Ordino brolius ir priėmė krikštą.
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89367|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59738|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
@@ -63,21 +64,24 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimenava: 0.83
+  ryšio_patikimumas: valde -> Kimenava: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedetas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kimenava: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedetas" parinktas kaip owner_note_path. Targetas "Kimenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedetas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kimenava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kimenava: 0.83
+  ryšio_patikimumas: valde -> Kimenava: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gedetas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kimenava: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedetas" parinktas kaip owner_note_path. Targetas "Kimenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedetas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kimenava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje.
+
+## Ryšiai
+- Gedetas valde [[objektai/vietos/Kimenava]]

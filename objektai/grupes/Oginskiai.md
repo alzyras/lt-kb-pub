@@ -72,3 +72,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   ryšio_subjekto_parinkimas: Oginskiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Rusėnai: mention_match, group, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oginskiai" parinktas kaip owner_note_path. Targetas "Rusėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Oginskiai gyveno [[objektai/vietos/Slanimas]]

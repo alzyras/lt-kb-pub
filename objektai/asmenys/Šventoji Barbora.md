@@ -62,19 +62,20 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   global_id: t-60081
   teiginys: 'Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.'
   sudarymo_pagrindimas: 'Citata remia pasirodymo epizodą, bet pradinis tekstas yra per ilgas dialogo fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Kulmas; mentioned_place: Šventoji; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Kulmas; mentioned_place: Šventoji; mentioned_object: [[objektai/daiktai/Namas|Namas]]; llm_object: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Šventoji Barbora|Šventoji Barbora]] keliavo į Kulmas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 285689-286167; hash=1e23a0f48415cccebc75c1644635f3c96535915be83373a36c2f53e5cd6e02ea; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumas: keliavo_i -> Kulmas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventoji Barbora: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji Barbora" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventoji Barbora: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakojime Šventoji Barbora pati sako ketinanti eiti į Kulmą.
 
 ## Reikšmingi paminėjimai
 
@@ -139,13 +140,13 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   irodymo_stiprumas: 0.00
   saltinio_vieta: 285689-286167; hash=1e23a0f48415cccebc75c1644635f3c96535915be83373a36c2f53e5cd6e02ea; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumas: keliavo_i -> Kulmas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventoji Barbora: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji Barbora" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šventoji Barbora: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pasakojime Šventoji Barbora pati sako ketinanti eiti į Kulmą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f15e9ccf9f1634d9757e994c72be9cea64fb82673df0cb013cd94ad64b1ff1b3; match=fallback; occurrences=0
@@ -157,3 +158,6 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   ryšio_subjekto_parinkimas: Šventoji Barbora: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji Barbora" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Šventoji Barbora keliavo_i [[objektai/vietos/Kulmas]]

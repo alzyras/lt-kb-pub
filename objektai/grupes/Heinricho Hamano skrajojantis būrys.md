@@ -67,3 +67,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   ryšio_subjekto_parinkimas: Heinricho Hamano skrajojantis būrys: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinricho Hamano skrajojantis būrys" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Heinricho Hamano skrajojantis būrys puole [[objektai/grupes/Žydai]]

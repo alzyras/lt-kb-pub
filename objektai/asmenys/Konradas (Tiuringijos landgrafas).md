@@ -24,8 +24,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   global_id: t-59988
   teiginys: 'Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'burial_place: Markburgas; location: Markburgas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Markburgas'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Tiuringijos landgrafas)|Konradas (Tiuringijos landgrafas)]] buvo palaidotas Markburgas; [[objektai/asmenys/Konradas (Tiuringijos landgrafas)|Konradas (Tiuringijos landgrafas)]] mirė Markburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Markburgas'
   pagrindžia:
     - c-003
 
@@ -40,13 +39,13 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=724f08eb625d0c732db3a4fe67c49232165201fdd94f52e5e2f642f49b4331bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Markburgas: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Konradas (Tiuringijos landgrafas): owner_note_path, person, gap=117
-  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Konradas (Tiuringijos landgrafas)" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Markburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Tiuringijos landgrafas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Tiuringijos landgrafas)" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59991"></a>
 - t-003
@@ -136,15 +135,11 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=724f08eb625d0c732db3a4fe67c49232165201fdd94f52e5e2f642f49b4331bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Markburgas: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Konradas (Tiuringijos landgrafas): owner_note_path, person, gap=117
-  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Konradas (Tiuringijos landgrafas)" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Markburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas (Tiuringijos landgrafas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas (Tiuringijos landgrafas)" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
-
-## Ryšiai
-- Konradas (Tiuringijos landgrafas) buvo_palaidotas [[objektai/vietos/Markburgas]]
-- Konradas (Tiuringijos landgrafas) mire [[objektai/vietos/Markburgas]]

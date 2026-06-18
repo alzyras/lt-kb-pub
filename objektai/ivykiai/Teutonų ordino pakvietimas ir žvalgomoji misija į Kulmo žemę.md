@@ -41,19 +41,19 @@ Nenurodyta
   teiginys: 'Lenkijos kunigaikštis sumanė pasikviesti Teutonų ordiną ginti savo žemės, tikėjimo ir tikinčiųjų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę ir citatos fragmentus; citata remia aiškų pakvietimo sumanymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava; llm_object: Lenkija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 139398-140116; hash=369582f56b22eebc6fa45a0a8cd74154ef4f892ab01515138a2040008aed655f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: gyne -> Lenkija: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikštis kvietė Teutonų ordino brolius ginti savo žemės, siejamos su Lenkijos kunigaikščiu.
 
 <a id="claim-t-62936"></a>
 - t-002
@@ -67,13 +67,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140517-141327; hash=3a08926ea2ea7a3df15eec38d0b2d5e3de0e7c9eead7cd799bb73c91431ff24e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Magistras Hermanas pasiuntė brolius pasidairyti Kulmo žemėje.
 
 <a id="claim-t-62937"></a>
 - t-003
@@ -81,7 +81,7 @@ Nenurodyta
   teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata remia žvalgomąją misiją, bet pradinis sakinys yra perteklinis ir prasideda netinkama atribucija.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -165,24 +165,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140517-141327; hash=3a08926ea2ea7a3df15eec38d0b2d5e3de0e7c9eead7cd799bb73c91431ff24e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Magistras Hermanas pasiuntė brolius pasidairyti Kulmo žemėje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 139398-140116; hash=369582f56b22eebc6fa45a0a8cd74154ef4f892ab01515138a2040008aed655f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: gyne -> Lenkija: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikštis kvietė Teutonų ordino brolius ginti savo žemės, siejamos su Lenkijos kunigaikščiu.
     - t-004
 
 - c-004
@@ -208,21 +208,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 139398-140116; hash=369582f56b22eebc6fa45a0a8cd74154ef4f892ab01515138a2040008aed655f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: gyne -> Lenkija: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste Teutonų ordino broliai kviečiami ginti kunigaikščio žemės.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140117-141174; hash=7a1ef63c9c656869c7a2e0aa1303b803dbb094dfbc97c9356fd0cd0cfff18457; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hermanas pasiuntė ordino brolius pasidairyti Kulmo žemėje.

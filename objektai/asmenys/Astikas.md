@@ -22,19 +22,20 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas į gramatišką faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vengrija; llm_object: [[objektai/asmenys/Manvydas|Manvydas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Astikas|Astikas]] sudarė sutartį su [[objektai/asmenys/Manvydas|Manvydas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Manvydas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Astikas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=112
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Astikas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą.
 - susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-184780|Manvydas]]: Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
@@ -53,6 +54,8 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-184780|Manvydas]]: Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.
+- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,10 +80,15 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   irodymo_stiprumas: 0.00
   saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Manvydas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Astikas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=112
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Astikas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą.
+
+## Ryšiai
+- [[objektai/asmenys/Manvydas]] buvo_sajungininkas_su Astikas
+- Astikas sudare_sutarti_su [[objektai/asmenys/Manvydas]]
+- [[objektai/vietos/Alanta]] priklause Astikas

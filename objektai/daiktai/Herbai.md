@@ -69,7 +69,8 @@ Nenurodyta
   global_id: t-12291
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.'
   sudarymo_pagrindimas: 'Teiginys gramatinis, enciklopedinis ir paremtas citatos mintimi apie herbus bei luomo savygarbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -114,20 +115,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Lietuvos bajorija gavo herbus, todėl herbai priskirtini šiai grupei.
 
 <a id="claim-t-92961"></a>
 - t-006
   global_id: t-92961
   teiginys: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   sudarymo_pagrindimas: 'Sakinys tiksliai perteikia citatoje nurodytą Horodlės unijos punktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -209,38 +211,40 @@ Nenurodyta
   global_id: t-92965
   teiginys: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė, ne apie herbus esanti dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9bf83d5b3ac787dd1024e04fd9aa1d89e557ec37ad1e3358555ffb64a2dc929; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Herbai buvo suteikti Lietuvos bajorams, todėl santykis su bendru bajorų kandidatu yra tiesiogiai paremtas, nors kandidatas nėra susiaurintas iki Lietuvos bajorų.
 
 <a id="claim-t-92966"></a>
 - t-011
   global_id: t-92966
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuvos bajorija gavo herbus.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50696|Lietuvių bajorija]]: Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.
@@ -362,13 +366,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Lietuvos bajorija gavo herbus, todėl herbai priskirtini šiai grupei.
     - t-010
 
 - c-007
@@ -404,13 +408,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9bf83d5b3ac787dd1024e04fd9aa1d89e557ec37ad1e3358555ffb64a2dc929; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumas: priklause -> Bajorai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Herbai buvo suteikti Lietuvos bajorams, todėl santykis su bendru bajorų kandidatu yra tiesiogiai paremtas, nors kandidatas nėra susiaurintas iki Lietuvos bajorų.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
@@ -516,13 +520,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuvos bajorija gavo herbus.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 710182-710428; hash=40bed2be37ae11d7d41328622527576356f57f93d65e73023d891750a28af701; match=exact
@@ -534,3 +538,9 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Herbai priklause [[objektai/grupes/Lenkai]]
+- Herbai priklause [[objektai/grupes/Lietuvos bajorija]]
+- Herbai priklause [[objektai/grupes/Bajorai]]
+- Herbai priklause [[objektai/grupes/Lietuvių bajorija]]

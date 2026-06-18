@@ -33,7 +33,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   global_id: t-173128
   teiginys: 'Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai'
+  susije_objektai: 'llm_object: Revelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Revelis'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir paremtas citata.'
@@ -42,13 +43,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2244b5d7a15f397169d4dd4e52472c0ee3bd464d0ed1f9a42f1df55919725ecb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
+  ryšio_patikimumas: puole -> Estija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Estija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sieja Dovydo niokojamą Revelį su šiaurine Estija, nors Revelio kandidato šiame claim nėra.
 
 <a id="claim-t-173129"></a>
 - t-002
@@ -61,20 +62,20 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydo vadovaujama Gedimino kariuomenė siaubė Mozūrijos žemę.
 
 <a id="claim-t-173130"></a>
 - t-003
   global_id: t-173130
   teiginys: '1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys, susietas su Dovydo dvaru ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Mozūrija; mentioned_place: Rezeknė'
+  susije_objektai: 'llm_object: Gardinas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Mozūrija; mentioned_place: Rezeknė'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys, susietas su Dovydo dvaru ir paremtas citata.'
@@ -83,32 +84,33 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mozūrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mozūrija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Mozūrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Dovydo vadovaujama kariuomenė siaubė Mozūrijos žemę.
 
 <a id="claim-t-173131"></a>
 - t-004
   global_id: t-173131
   teiginys: 'Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktą apie Dovydo žygį.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Tepliava'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Tepliava'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] surengė žygį į Prūsija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Dovydo vadovaujamą kariuomenę su Mozūrijos žemės siaubimu.
 
 <a id="claim-t-173132"></a>
 - t-005
@@ -124,7 +126,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   global_id: t-173133
   teiginys: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau apie kryžiuočių veiksmus, o citata leidžia suformuluoti aiškų faktą apie Dovydą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Rezeknė'
+  susije_objektai: 'llm_object: Mozūrija; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Rezeknė'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Mozūrija'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie kryžiuočių veiksmus, o citata leidžia suformuluoti aiškų faktą apie Dovydą.'
@@ -133,20 +136,21 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Dovydo vadovaujamos kariuomenės veiksmus Mozūrijoje.
 
 <a id="claim-t-173134"></a>
 - t-007
   global_id: t-173134
   teiginys: '1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Dovydo vadovavimą ir žygio veiksmą.'
-  susije_objektai: 'mentioned_place: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Rezeknė'
+  susije_objektai: 'llm_object: Mozūrija; mentioned_place: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Rezeknė'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Mozūrija'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Dovydo vadovavimą ir žygio veiksmą.'
@@ -167,20 +171,21 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 31123-31876; hash=fd649cc16052216ba63030ea1af4e2acf19a52444f9b6251cad1c2f810af2be5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
 
 <a id="claim-t-173137"></a>
 - t-009
   global_id: t-173137
   teiginys: 'Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.'
   sudarymo_pagrindimas: 'Sakinys perrašytas be nuorodos į šaltinį ir su aiškiu veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija; mentioned_place: Tepliava'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija; mentioned_place: Tepliava'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] surengė žygį į Prūsija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -198,7 +203,8 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - t-010
   global_id: t-173138
   teiginys: '1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą.'
-  susije_objektai: 'mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas'
+  susije_objektai: 'llm_object: Revelis; mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Revelis'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -206,20 +212,21 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664054-664825; hash=8e3973c8d5626dfb65663da295e49b04517494dc61355714e51711d7da782923; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dovydo įsibrovimą į Prūsijos žemės valsčių.
 
 <a id="claim-t-173139"></a>
 - t-011
   global_id: t-173139
   teiginys: '1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai'
+  susije_objektai: 'llm_object: Revelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Medininkai'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Revelis'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir tiesiogiai paremtas citata.'
@@ -228,19 +235,20 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 668730-669172; hash=7c7e894f70f481dd6e7a9b17649a1255cf6c134b3093b93c4803302f23fa0c50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Revelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Revelis: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Revelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dovydas įsibrovė į Revelį ir jį niokojo.
 
 <a id="claim-t-173140"></a>
 - t-012
   global_id: t-173140
   teiginys: '1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Estija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Estija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; llm_object: Estija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Estija'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -270,38 +278,40 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664054-664825; hash=8e3973c8d5626dfb65663da295e49b04517494dc61355714e51711d7da782923; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Dovydo žygį ir įsibrovimą į Prūsijos žemės valsčių.
 
 <a id="claim-t-173144"></a>
 - t-016
   global_id: t-173144
   teiginys: 'Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Revelis; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas'
+  susije_objektai: 'llm_object: Revelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Revelis; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Revelis'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24c326b146ac0951663fce5f8e18f2f3a0f6dff6aa24d4de3e549aa47d3dbd9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Dovydas su lietuvių kariuomene įsibrovė į Revelį.
 
 <a id="claim-t-173145"></a>
 - t-017
   global_id: t-173145
   teiginys: 'Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.'
-  susije_objektai: 'mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] surengė žygį į Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -322,19 +332,20 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   global_id: t-173146
   teiginys: 'Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Dovydo vaidmenį, o ne palikti vien vardą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Plockas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] surengė žygį į Mazovija; [[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] puolė Mazovija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 681181-682595; hash=2d347ae474ee04c2f41608ad8afe0dc19616b1020fe32e96e3c410c4f41afb62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Mazovija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su kariuomene įsibrovė į Mazovijos žemę.
 
 <a id="claim-t-184058"></a>
 - t-019
@@ -344,19 +355,20 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]] surengė žygį į Mazovija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai sako, kad kryžiuočiai vėliau puolė Gardiną.
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
 ## Reikšmingi paminėjimai
@@ -405,13 +417,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mozūrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mozūrija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Mozūrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Dovydo vadovaujama kariuomenė siaubė Mozūrijos žemę.
     - t-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 650576-651569; hash=10beb05cc7cd6e1171c60cb54533dc69bb03b7d8b9f0a46494ce144de321dab0; match=exact
@@ -427,24 +439,24 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Dovydo vadovaujamos kariuomenės veiksmus Mozūrijoje.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: 681181-682595; hash=2d347ae474ee04c2f41608ad8afe0dc19616b1020fe32e96e3c410c4f41afb62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Mazovija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dovydas su kariuomene įsibrovė į Mazovijos žemę.
     - t-007
 
 - c-003
@@ -492,13 +504,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Dovydo vadovaujamą kariuomenę su Mozūrijos žemės siaubimu.
     - t-010
 
 - c-005
@@ -523,24 +535,24 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664054-664825; hash=8e3973c8d5626dfb65663da295e49b04517494dc61355714e51711d7da782923; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dovydo įsibrovimą į Prūsijos žemės valsčių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mozūrija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mozūrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydo vadovaujama Gedimino kariuomenė siaubė Mozūrijos žemę.
     - t-005
 
 - c-006
@@ -563,13 +575,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2244b5d7a15f397169d4dd4e52472c0ee3bd464d0ed1f9a42f1df55919725ecb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
+  ryšio_patikimumas: puole -> Estija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Estija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sieja Dovydo niokojamą Revelį su šiaurine Estija, nors Revelio kandidato šiame claim nėra.
     - t-011
 
 - c-007
@@ -592,24 +604,24 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 668730-669172; hash=7c7e894f70f481dd6e7a9b17649a1255cf6c134b3093b93c4803302f23fa0c50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Revelis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Revelis: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Revelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dovydas įsibrovė į Revelį ir jį niokojo.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 31123-31876; hash=fd649cc16052216ba63030ea1af4e2acf19a52444f9b6251cad1c2f810af2be5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
     - t-015
 
 - c-008
@@ -630,13 +642,13 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664054-664825; hash=8e3973c8d5626dfb65663da295e49b04517494dc61355714e51711d7da782923; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Prūsija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Dovydo žygį ir įsibrovimą į Prūsijos žemės valsčių.
     - t-016
 
 - c-009
@@ -668,24 +680,24 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b24c326b146ac0951663fce5f8e18f2f3a0f6dff6aa24d4de3e549aa47d3dbd9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Revelis: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Revelis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Dovydas su lietuvių kariuomene įsibrovė į Revelį.
     - t-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai sako, kad kryžiuočiai vėliau puolė Gardiną.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b15cd117e9c9fe000baafe8ced83f3c625899b35a52c646a812f7ca91d72f499; match=fallback; occurrences=0
@@ -701,10 +713,18 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 681181-682595; hash=2d347ae474ee04c2f41608ad8afe0dc19616b1020fe32e96e3c410c4f41afb62; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydas (Gardino pilininkas)" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Mazovija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovydas (Gardino pilininkas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Dovydas su kariuomene įsibrovė į Mazovijos žemę.
+
+## Ryšiai
+- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Revelis]]
+- Dovydas (Gardino pilininkas) surenge_zygi_i [[objektai/vietos/Mazovija]]
+- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Mozūrija]]
+- Dovydas (Gardino pilininkas) surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Mazovija]]
+- Dovydas (Gardino pilininkas) puole [[objektai/vietos/Estija]]

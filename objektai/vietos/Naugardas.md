@@ -40,8 +40,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-001
   global_id: t-94761
   teiginys: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
-  susije_objektai: 'owner: Hamburgas; mentioned_place: Hamburgas; mentioned_place: Liubekas'
-  semantiniai_rysiai: 'Naugardas priklausė Hamburgas'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Liubekas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Naugardas priklausė Hamburgas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -82,7 +81,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   global_id: t-94763
   teiginys: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata pagrįstas faktas apie Naugardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; llm_object: Naugardas; llm_object: Pskovas'
+  semantiniai_rysiai: 'Vilnius prekiavo su Naugardas'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata pagrįstas faktas apie Naugardą.'
@@ -104,7 +104,8 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   global_id: t-94764
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   sudarymo_pagrindimas: 'Teiginys yra dubliuotas, bet pats savaime tinkamas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardas; llm_object: Maskva; llm_object: Ryga; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Naugardas'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -152,31 +153,33 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vytauto žygį į Naugardą.
 
 <a id="claim-t-94767"></a>
 - t-007
   global_id: t-94767
   teiginys: 'Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto laikų Vilniaus prekybos kryptis.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardas; llm_object: Maskva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Livonija; llm_object: Prūsija'
+  semantiniai_rysiai: 'Vilnius prekiavo su Naugardas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pskovas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Pskovas: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Pskovas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-94769"></a>
 - t-008
@@ -210,31 +213,31 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-94772"></a>
 - t-011
   global_id: t-94772
   teiginys: 'Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.'
-  susije_objektai: 'location: Pskovas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugardo ir Maskvos pirkliai įvardyti kaip laisvų prekių mainų dalyviai.
 
 <a id="claim-t-94774"></a>
 - t-013
@@ -265,31 +268,32 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Naugardo pirkliai siejami su užeigomis Vilniuje ir prekybiniais ryšiais.
 
 <a id="claim-t-94776"></a>
 - t-015
   global_id: t-94776
   teiginys: 'Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Livonija; llm_object: Prūsija'
+  semantiniai_rysiai: 'Vilnius prekiavo su Naugardas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-94777"></a>
 - t-016
@@ -302,20 +306,21 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo laisvus prekių mainus Vilniuje su Naugardo pirkliais.
 
 <a id="claim-t-94778"></a>
 - t-017
   global_id: t-94778
   teiginys: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
   sudarymo_pagrindimas: 'Ilgas kontekstinis tekstas sutrumpintas iki aiškaus fakto apie Naugardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardas; llm_object: Pskovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Naugardas'
   temporaliniai_duomenys: 'įvykio data: 1427 m.; įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas kontekstinis tekstas sutrumpintas iki aiškaus fakto apie Naugardą.'
@@ -324,32 +329,33 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vilniaus prekybos išsiplėtimą su Naugardu.
 
 <a id="claim-t-94779"></a>
 - t-018
   global_id: t-94779
   teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Naugardas; llm_object: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Naugardas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Vytauto žygius prieš Naugardą.
 
 <a id="claim-t-94780"></a>
 - t-019
@@ -369,19 +375,20 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; teiginys aiškiai sieja Naugardą su cituotu įvykiu.'
-  susije_objektai: 'mentioned_place: Rylskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Severskas; mentioned_place: Seversko žemė'
+  susije_objektai: 'llm_object: Seversko žemė; mentioned_place: Rylskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Severskas; mentioned_place: Seversko žemė'
+  semantiniai_rysiai: 'Naugardas priklausė Seversko žemė'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 630864-631171; hash=3771449fafd76535a49505768562d23486c8a349518eb92f3a53f8b8cfd5bab1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto žygį į Naugardą.
 
 <a id="claim-t-185061"></a>
 - t-022
@@ -391,23 +398,29 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys suredaguotas sklandesnei enciklopedinei formai.'
-  susije_objektai: 'territory: Severskas; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Severskas'
+  susije_objektai: 'llm_object: Naugardas; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Severskas; llm_object: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] užėmė Naugardas'
   pagrindžia:
     - c-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rylskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rylskas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Rylskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
-- susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
-- susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
+  ryšio_patikimumas: priklause -> Seversko žemė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Naugardą išvardija kaip Seversko žemės dalį.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34519|Vytauto žygis į Naugardą (1428 m. vasara)]]: 1428 m. vasarą Vytautas surengė didelį žygį į Naugardą, sutelkęs daug kunigaikščių ir kariuomenės iš Lenkijos bei Rusijos.
+- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
+- susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
+- susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
+- susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
+- susijęs iš [[objektai/asmenys/Patrikas, arba Patricijus.md#claim-t-87816|Patrikas, arba Patricijus]]: Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176751|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.
+- susijęs iš Pskovas: Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).
+- susijęs iš [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje.md#claim-t-86944|Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]: Vytautas suėmė Seversko kunigaikštį Dmitrijų Kaributą ir su žmona bei vaikais uždarė jį Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/asmenys/Dmitrijus Kaributas.md#claim-t-87491|Dmitrijus Kaributas]]: Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje.
 - susijęs iš [[objektai/asmenys/Ivanas Jermoliničius.md#claim-t-87694|Ivanas Jermoliničius]]: Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
@@ -517,6 +530,10 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš Žemutinis Naugardas: Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeniškai prižiūrėjo žygį prieš Kazanės skitus.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187534|viečė]]: Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.
 - susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
+- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176709|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara).md#claim-t-34520|Vytauto žygis į Naugardą (1428 m. vasara)]]: Naugardas pripažino Vytauto suverenitetą ir mokėjo jam duoklę.
+- susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
@@ -659,6 +676,11 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184649|vietininkas]]: Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187535|viečė]]: Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
+- susijęs iš Livonija: Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.
+- susijęs iš Livonija: Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.
+- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
+- susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -691,24 +713,24 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Naugardo pirkliai siejami su užeigomis Vilniuje ir prekybiniais ryšiais.
     - t-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Maskva: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Naugardo ir Maskvos pirkliai įvardyti kaip laisvų prekių mainų dalyviai.
     - t-008
 
 - c-003
@@ -789,24 +811,24 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini Vytauto žygius prieš Naugardą.
     - t-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vilniaus prekybos išsiplėtimą su Naugardu.
     - t-006
 
 - c-006
@@ -835,24 +857,24 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631007-631395; hash=0b279c42900db0de78d983fa1de0705b3cabad6c676ba2724998b5fbf94d7680; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Vytauto žygį į Naugardą.
     - t-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-007
@@ -872,12 +894,13 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=99682e2ec5022bd9b1ad11b7a89741233c97d4c790c0a0de28df37e92f039359; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pskovas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Pskovas: nearest_after_predicate, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Pskovas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-008
@@ -911,13 +934,13 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniaus prekybos ryšį su Naugardu.
     - t-001
 
 - c-009
@@ -995,13 +1018,13 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Hamburgas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=29
-  ryšio_targeto_parinkimas: Hamburgas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec9084479dbab92bb1a23a1e24172798a68eaded8460ad24483258b09a3cc180; match=fallback; occurrences=0
@@ -1091,13 +1114,13 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Naugardas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo laisvus prekių mainus Vilniuje su Naugardo pirkliais.
     - t-020
 
 - c-015
@@ -1163,26 +1186,36 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 630864-631171; hash=3771449fafd76535a49505768562d23486c8a349518eb92f3a53f8b8cfd5bab1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto žygį į Naugardą.
     - t-022
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rylskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naugardas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rylskas: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardas" parinktas kaip owner_note_path. Targetas "Rylskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Seversko žemė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Naugardas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Seversko žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata Naugardą išvardija kaip Seversko žemės dalį.
 
 ## Ryšiai
-- [[objektai/asmenys/Kaributas]] valde_teritorija Naugardas
-- [[objektai/asmenys/Dimitras Kaributas]] buvo_valdovas Naugardas
-- Naugardas priklause [[objektai/vietos/Hamburgas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] surenge_zygi_i Naugardas
+- [[objektai/asmenys/Šich Achmetas]] uzeme Naugardas
+- [[objektai/vietos/Vilnius]] prekiavo_su Naugardas
+- [[objektai/asmenys/Patrikas, arba Patricijus]] valde Naugardas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Naugardas
+- Naugardas priklause [[objektai/vietos/Seversko žemė]]
+- [[objektai/asmenys/Kaributas]] valde Naugardas
+- Naugardas priklause [[objektai/asmenys/Gediminas]]
+- Naugardas priklause [[objektai/vietos/Seversko žemės]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_miesta Naugardas
+- [[objektai/asmenys/Jurgis Lengvenaitis]] keliavo_i Naugardas
+- Naugardas prekiavo_su [[objektai/vietos/Maskva]]
+- Naugardas prekiavo_su [[objektai/vietos/Ryga]]

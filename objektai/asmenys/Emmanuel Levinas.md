@@ -31,7 +31,8 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   global_id: t-18885
   teiginys: 'Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.'
   sudarymo_pagrindimas: 'Pradinis teiginys neminėjo objekto, o citata pagrindžia glaustą biografinį faktą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_person: [[objektai/asmenys/Romain Garry|Romain Garry]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_person: [[objektai/asmenys/Romain Garry|Romain Garry]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  semantiniai_rysiai: '[[objektai/asmenys/Emmanuel Levinas|Emmanuel Levinas]] gimė Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1868 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neminėjo objekto, o citata pagrindžia glaustą biografinį faktą.'
@@ -40,13 +41,13 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d63fdc896486d0b71f0f396ce552b7a437e75cd42c1ee372d4496f11a2139374; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Emmanuel Levinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Emmanuel Levinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Kaunas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Emmanuel Levinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Emmanuelis Levinas gimė Kaune.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Arvydas Sabonis.md#claim-t-78045|Arvydas Sabonis]]: Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.
 - susijęs iš [[objektai/asmenys/Frank Lubin.md#claim-t-18894|Frank Lubin]]: Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu.
@@ -83,10 +84,13 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d63fdc896486d0b71f0f396ce552b7a437e75cd42c1ee372d4496f11a2139374; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Emmanuel Levinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Emmanuel Levinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Kaunas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Emmanuel Levinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Emmanuelis Levinas gimė Kaune.
+
+## Ryšiai
+- Emmanuel Levinas gime [[objektai/vietos/Kaunas]]

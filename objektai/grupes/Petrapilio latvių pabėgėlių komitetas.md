@@ -21,19 +21,20 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - t-001
   global_id: t-72599
   teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_place: Latvija; mentioned_place: Petrapilis; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_place: Latvija; mentioned_place: Petrapilis; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas]] buvo sąjungininkas su [[objektai/grupes/Tautos taryba|Tautos taryba]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d30341cde354d1ede06555870d7b4ef3cedc0ddc5578019904b60437ac532235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilio latvių pabėgėlių komitetas (institucija)" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tautos taryba (institucija): llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu.
 
 ## Reikšmingi paminėjimai
 
@@ -54,10 +55,13 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d30341cde354d1ede06555870d7b4ef3cedc0ddc5578019904b60437ac532235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilio latvių pabėgėlių komitetas (institucija)" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Tautos taryba (institucija): llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu.
+
+## Ryšiai
+- Petrapilio latvių pabėgėlių komitetas (institucija) buvo_sajungininkas_su [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

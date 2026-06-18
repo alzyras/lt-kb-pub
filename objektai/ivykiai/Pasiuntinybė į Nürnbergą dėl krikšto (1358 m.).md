@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-35874
   teiginys: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.'
   sudarymo_pagrindimas: 'Teiginys faktinis ir paremtas, bet trūksta aiškaus įvykio objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys faktinis ir paremtas, bet trūksta aiškaus įvykio objekto.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sąlygose numatyta, kad Vokiečių ordinas persikeltų kovoti su totoriais.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +85,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sąlygose numatyta, kad Vokiečių ordinas persikeltų kovoti su totoriais.

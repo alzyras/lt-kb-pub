@@ -32,7 +32,8 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   global_id: t-26437
   teiginys: 'Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Ženeva; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Ženeva; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; llm_object: Ženeva'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovas Zaunius|Dovas Zaunius]] keliavo į Ženeva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą.'
@@ -41,13 +42,13 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Ženeva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovas Zaunius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovas Zaunius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovas Zaunius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ženeva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje.
 
 ## Reikšmingi paminėjimai
 
@@ -75,10 +76,13 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: keliavo_i -> Ženeva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dovas Zaunius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovas Zaunius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dovas Zaunius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ženeva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuotraukos aprašas tiesiogiai rodo Dovą Zaunių Lietuvos delegacijoje Ženevoje.
+
+## Ryšiai
+- Dovas Zaunius keliavo_i [[objektai/vietos/Ženeva]]

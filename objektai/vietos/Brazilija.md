@@ -29,19 +29,20 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   global_id: t-23500
   teiginys: 'Tarpukariu lietuviai daugiausia emigravo į Pietų Amerikos šalis, įskaitant Argentiną, Braziliją, Venesuelą ir Urugvajų.'
   sudarymo_pagrindimas: 'Reikia aiškesnio laiko ir enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_place: Urugvajus; mentioned_place: Venesuela; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika'
+  susije_objektai: 'llm_object: Brazilija; llm_object: Urugvajus; llm_object: Venesuela; mentioned_place: Urugvajus; mentioned_place: Venesuela; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Brazilija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc4f096a5c95f72181ce438c6b1e67d0530acca8cdd1693b6073484374cf4420; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Urugvajus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brazilija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Urugvajus: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brazilija" parinktas kaip owner_note_path. Targetas "Urugvajus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Brazilija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Brazilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brazilija išvardyta tarp Pietų Amerikos šalių, į kurias vyko lietuviai.
 
 <a id="claim-t-23501"></a>
 - t-002
@@ -108,13 +109,13 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bc4f096a5c95f72181ce438c6b1e67d0530acca8cdd1693b6073484374cf4420; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Urugvajus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brazilija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Urugvajus: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brazilija" parinktas kaip owner_note_path. Targetas "Urugvajus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Brazilija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Brazilija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Brazilija išvardyta tarp Pietų Amerikos šalių, į kurias vyko lietuviai.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9a91af1e31115a228bcef4cadf1ab1c096ed7ab2c4d5bd03e6226b2b18ecc41f; match=fallback; occurrences=0
@@ -126,3 +127,6 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   ryšio_subjekto_parinkimas: Brazilija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brazilija" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Brazilija

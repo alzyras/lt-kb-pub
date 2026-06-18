@@ -105,3 +105,6 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   irodymo_stiprumas: 0.00
   saltinio_vieta: 591756-592237; hash=2d4200fff0bf1358ec1e2a78e46967bf6c4ccc15baad32cb599d99264c7c69fa; match=whitespace_regex
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Šv. Jono bažnyčia priklause [[objektai/vietos/Vilnius]]

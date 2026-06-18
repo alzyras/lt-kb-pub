@@ -31,8 +31,7 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   global_id: t-19052
   teiginys: 'Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje datos klaidingai siejamos su garbinimo tradicijos klostymusi.'
-  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)|Kazimieras (Lietuvos didysis kunigaikštis)]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1458 m.; valdymo laikotarpis: 1484 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kazimieras (Lietuvos didysis kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje datos klaidingai siejamos su garbinimo tradicijos klostymusi.'
@@ -41,13 +40,13 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=776e313d3f9c816b9ac084a0e6c38f4a62b55b74ddfafbd822c02690ac8dd3ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Kazimieras (Lietuvos didysis kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kazimieras (Lietuvos didysis kunigaikštis)" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Lietuvos didysis kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Lietuvos didysis kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,13 +65,10 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=776e313d3f9c816b9ac084a0e6c38f4a62b55b74ddfafbd822c02690ac8dd3ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Kazimieras (Lietuvos didysis kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Lietuva: exact_title_context, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kazimieras (Lietuvos didysis kunigaikštis)" parinktas kaip owner_after_title. Targetas "Lietuva" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Kazimieras (Lietuvos didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Lietuvos didysis kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Lietuvos didysis kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

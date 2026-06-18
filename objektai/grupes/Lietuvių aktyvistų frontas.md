@@ -117,7 +117,8 @@ Nenurodyta
   global_id: t-26625
   teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: SSRS; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]] siuntė į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
@@ -252,3 +253,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+
+## Ryšiai
+- Lietuvių aktyvistų frontas buvo_sajungininkas_su [[objektai/grupes/Nacių Vokietija]]
+- Lietuvių aktyvistų frontas siunte_i [[objektai/vietos/Lietuva]]

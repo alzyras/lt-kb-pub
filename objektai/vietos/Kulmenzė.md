@@ -48,7 +48,8 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   global_id: t-58497
   teiginys: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kulmenzė; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas|Liudvikas]] buvo palaidotas Kulmenzė'
   temporaliniai_duomenys: 'mirties data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
@@ -76,32 +77,33 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduvių kariuomenė minima kaip Kulmo žemę siaubusios kariuomenės dalis.
 
 <a id="claim-t-58499"></a>
 - t-004
   global_id: t-58499
   teiginys: 'Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir aiškiai įvardyti miestą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Ninerikas|Ninerikas]]; mentioned_place: Eimsutis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Ninerikas|Ninerikas]]; mentioned_place: Eimsutis; mentioned_place: Viena; llm_object: Kulmas; llm_object: Kulmenzė'
+  semantiniai_rysiai: '[[objektai/asmenys/Ninerikas|Ninerikas]] keliavo į Kulmenzė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c54bcec6ed239abfdc58aff184ea7a6d74d832df41b2931e269e2212dd54428b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liudvikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liudvikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liudvikas tiesiogiai įvardytas kaip palaidotas Kulmenzės katedroje.
 
 <a id="claim-t-58500"></a>
 - t-005
@@ -114,11 +116,9 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607127-607343; hash=52b64278b408eeff8b29781731b4085ea2264bcde2bc557e910e2c4a0ad3023e; match=exact
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
+- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
-- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
-- susijęs iš Goliubo pilis (pilis): Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.
-- susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
-- susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
@@ -158,13 +158,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c54bcec6ed239abfdc58aff184ea7a6d74d832df41b2931e269e2212dd54428b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liudvikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Liudvikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmenzė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Liudvikas tiesiogiai įvardytas kaip palaidotas Kulmenzės katedroje.
     - t-006
 
 - c-002
@@ -186,13 +186,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduvių kariuomenė minima kaip Kulmo žemę siaubusios kariuomenės dalis.
     - t-001
 
 - c-003
@@ -240,13 +240,13 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduvių kariuomenė minima kaip Kulmo žemę siaubusios kariuomenės dalis.
     - t-002
 
 - c-005
@@ -280,7 +280,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   sprendimo_priezastis: auto
 
 ## Ryšiai
+- [[objektai/asmenys/Ninerikas]] keliavo_i Kulmenzė
 - [[objektai/asmenys/Helmerichas]] buvo_palaidotas Kulmenzė
-- [[objektai/asmenys/Helmerichas]] mire Kulmenzė
-- [[objektai/asmenys/Liudvikas iš Šipeno]] mire Kulmenzė
-- [[objektai/asmenys/Liudvikas iš Šipeno]] buvo_palaidotas Kulmenzė
+- [[objektai/asmenys/Liudvikas]] buvo_palaidotas Kulmenzė

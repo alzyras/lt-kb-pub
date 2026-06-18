@@ -53,7 +53,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   global_id: t-82506
   teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Trakai; llm_object: Vilnius; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Trakai; [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1436 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą.'
@@ -89,7 +90,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   global_id: t-82509
   teiginys: 'Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Kazimiero Jogailaičio mirties datą ir aplinkybes.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Trakai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Trakai'
   pagrindžia:
     - c-002
 
@@ -120,13 +122,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7bf0fa9c938f6d6c15eba2962e1b1ba1185cb374fcaf3a12c7be92dfbadf9c4e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kazimieras Jogailaitis dažniausiai gyveno Trakuose.
 
 <a id="claim-t-82514"></a>
 - t-010
@@ -158,7 +160,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia Kazimiero veiksmus; neaiškus įvardis pakeistas vardu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Vilnius'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -186,13 +189,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 462633-463127; hash=6d1106b328cef9dddb845c8d268a84fe64d603476692cbfbb35a39d6f72bcdc2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kazimieras buvo kelyje iš Vilniaus į Trakus.
 
 <a id="claim-t-184751"></a>
 - t-013
@@ -202,19 +205,20 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia pilies užėmimą ir vietininko paskyrimą.'
-  susije_objektai: 'mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] užėmė Smolenskas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821914-822874; hash=cd6e22b03b332763dd43fb326d1bf06f27bd12a7f06d9c83395d27b90d77239f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kazimieras patraukė į Vilnių.
 
 <a id="claim-t-184752"></a>
 - t-014
@@ -224,7 +228,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
+  susije_objektai: 'llm_object: Severskas; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Severskas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; llm_object: [[objektai/asmenys/Mykolas|Mykolas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Severskas; [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] kariavo prieš [[objektai/asmenys/Mykolas|Mykolas]]'
   temporaliniai_duomenys: 'įvykio data: 1448 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai perteikia citatos informaciją.'
@@ -255,13 +260,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 829985-830432; hash=a83a993ad2ed474d884f1f1a9a709e3c2bb3375384687d640336739320a02273; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis užėmė Smolensko pilį.
 
 <a id="claim-t-184754"></a>
 - t-016
@@ -280,13 +285,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis patraukė į Severską.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186768|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186769|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną.
 - susijęs iš Kazimiero Jogailaičio testamentas: Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.
@@ -412,13 +417,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7bf0fa9c938f6d6c15eba2962e1b1ba1185cb374fcaf3a12c7be92dfbadf9c4e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Trakai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kazimieras Jogailaitis dažniausiai gyveno Trakuose.
     - t-001
 
 - c-006
@@ -602,13 +607,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 462633-463127; hash=6d1106b328cef9dddb845c8d268a84fe64d603476692cbfbb35a39d6f72bcdc2; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Trakai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Kazimieras buvo kelyje iš Vilniaus į Trakus.
     - t-013
 
 - c-014
@@ -647,13 +652,13 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 821914-822874; hash=cd6e22b03b332763dd43fb326d1bf06f27bd12a7f06d9c83395d27b90d77239f; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kazimieras patraukė į Vilnių.
     - t-014
 
 - c-015
@@ -720,21 +725,32 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   irodymo_stiprumas: 0.00
   saltinio_vieta: 829985-830432; hash=a83a993ad2ed474d884f1f1a9a709e3c2bb3375384687d640336739320a02273; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Smolenskas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis užėmė Smolensko pilį.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: 855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras Jogailaitis" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Severskas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazimieras Jogailaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Kazimieras Jogailaitis patraukė į Severską.
+
+## Ryšiai
+- Kazimieras Jogailaitis uzeme [[objektai/vietos/Smolenskas]]
+- Kazimieras Jogailaitis gyveno [[objektai/vietos/Trakai]]
+- Kazimieras Jogailaitis gyveno [[objektai/vietos/Vilnius]]
+- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Severskas]]
+- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Vilnius]]
+- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Trakai]]
+- Kazimieras Jogailaitis keliavo_i [[objektai/vietos/Gardinas]]
+- Kazimieras Jogailaitis kariavo_pries [[objektai/asmenys/Mykolas]]
+- Kazimieras Jogailaitis gyveno [[objektai/vietos/Gardinas]]

@@ -62,6 +62,7 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio lietuvių kongresas Kaune (1935 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
 - susijęs iš Kaunas: 1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių.
+- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,3 +90,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Pasaulio lietuvių kongresas Kaune (1935 m.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio lietuvių kongresas Kaune (1935 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Užsienio lietuviai]] keliavo_i Pasaulio lietuvių kongresas Kaune (1935 m.)

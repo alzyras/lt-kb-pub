@@ -37,19 +37,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas puslapio ir OCR triukšmas, papildytas aiškus kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; llm_object: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 988899-989397; hash=c2a9198635fa6107f3bd2ddc10bf57d3b85152288a996a5a7616cc971135c006; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Maskvėnai: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Karinio susidūrimo kontekste priešas įvardijamas maskvėnais.
 
 <a id="claim-t-185886"></a>
 - t-002
@@ -59,19 +59,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai autoriaus interpretacija apie karo apgaulę, todėl palikta šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; llm_object: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 989249-989758; hash=7a8103db981770f4ee5de174c4ea1623b5f4ac4e33dee6c89b0a5c3ccfedc4eb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Konstantinas (Karijotaitis): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Konstantino priešas apibūdinamas kaip maskvėnų pajėgos.
 
 ## Reikšmingi paminėjimai
 
@@ -121,21 +121,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 988899-989397; hash=c2a9198635fa6107f3bd2ddc10bf57d3b85152288a996a5a7616cc971135c006; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Maskvėnai: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Karinio susidūrimo kontekste priešas įvardijamas maskvėnais.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 989249-989758; hash=7a8103db981770f4ee5de174c4ea1623b5f4ac4e33dee6c89b0a5c3ccfedc4eb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskvėnai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Konstantinas (Karijotaitis): 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Maskvėnai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas" parinktas kaip owner_note_path. Targetas "Maskvėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Konstantino priešas apibūdinamas kaip maskvėnų pajėgos.

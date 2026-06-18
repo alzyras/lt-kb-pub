@@ -26,7 +26,8 @@ amziai:
 - t-001
   global_id: t-40978
   teiginys: '1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Dainava; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
+  semantiniai_rysiai: '[[objektai/grupes/LLKS gynybos pajėgos|LLKS gynybos pajėgos]] priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -34,13 +35,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d3e2f1afd5d7afc2f3db8512dde62f3a6f1d6cd5b592ff2d050ee37903f1bf22; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dainava: 0.83
+  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dainava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LLKS gynybos pajėgos" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
+  ryšio_paaiskinimas: LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto.
 
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d3e2f1afd5d7afc2f3db8512dde62f3a6f1d6cd5b592ff2d050ee37903f1bf22; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dainava: 0.83
+  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dainava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LLKS gynybos pajėgos" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
+  ryšio_paaiskinimas: LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto.
+
+## Ryšiai
+- LLKS gynybos pajėgos priklause [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

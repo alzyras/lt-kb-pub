@@ -81,3 +81,6 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
   ryšio_subjekto_parinkimas: Libonas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Živinbudas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Libonas" parinktas kaip owner_note_path. Targetas "Živinbudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Libonas keliavo_i [[objektai/vietos/Lietuva]]

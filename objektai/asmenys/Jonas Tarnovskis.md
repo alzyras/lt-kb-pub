@@ -29,19 +29,20 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7eebf80c2a84424c3624dc53db1df54f7effa81bcef27ff7d6f2684677b9f98; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Tarnovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Tarnovskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Tarnovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Jonas Tarnovskis buvo pasiųstas į Lietuvą.
 
 <a id="claim-t-63737"></a>
 - t-002
   global_id: t-63737
   teiginys: 'Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.'
-  susije_objektai: 'mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] keliavo į Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -63,19 +64,20 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė paremta citata, bet reikia aiškesnių veikėjų.'
-  susije_objektai: 'mentioned_place: Chotinas; mentioned_place: Valachija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_place: Chotinas; mentioned_place: Valachija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: Chotinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] apgulė Chotinas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1190665-1190936; hash=3cea447b8ea090f7a3140bba956cd8c20c8596381669ebe075650ef048c5215a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chotinas: 0.85
+  ryšio_patikimumas: apgule -> Chotinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Tarnovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Tarnovskis" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Tarnovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chotinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apsupimas prie Chotino siejamas su Tarnovskio sutelktomis jėgomis.
 
 ## Reikšmingi paminėjimai
 
@@ -140,21 +142,25 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a7eebf80c2a84424c3624dc53db1df54f7effa81bcef27ff7d6f2684677b9f98; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Tarnovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Tarnovskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Tarnovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Jonas Tarnovskis buvo pasiųstas į Lietuvą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1190665-1190936; hash=3cea447b8ea090f7a3140bba956cd8c20c8596381669ebe075650ef048c5215a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chotinas: 0.85
+  ryšio_patikimumas: apgule -> Chotinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Tarnovskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Tarnovskis" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Tarnovskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Chotinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apsupimas prie Chotino siejamas su Tarnovskio sutelktomis jėgomis.
+
+## Ryšiai
+- Jonas Tarnovskis keliavo_i [[objektai/vietos/Lietuva]]
+- Jonas Tarnovskis apgule [[objektai/vietos/Chotinas]]

@@ -119,3 +119,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Altorius: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=66
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Altorius" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Altorius priklause [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]

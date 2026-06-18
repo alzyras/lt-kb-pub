@@ -22,19 +22,20 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-60207
   teiginys: 'Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko konkretų Stantos veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Sklunija'
+  susije_objektai: 'llm_object: Bartenšteinas; mentioned_place: Bartenšteinas; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Sklunija'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanta|Stanta]] puolė Bartenšteinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f57c6ff805a950f6a640ed4e6eb18d40c79d41b3146df70c5c2031124b6089a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanta" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bartenšteinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Stanta su bendrais slapta įsibrovė į Bartenšteino pilį; tai aiškus karinis puolimo veiksmas.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f57c6ff805a950f6a640ed4e6eb18d40c79d41b3146df70c5c2031124b6089a4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanta" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bartenšteinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Stanta su bendrais slapta įsibrovė į Bartenšteino pilį; tai aiškus karinis puolimo veiksmas.
+
+## Ryšiai
+- Stanta puole [[objektai/vietos/Bartenšteinas]]

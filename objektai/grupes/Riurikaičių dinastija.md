@@ -168,3 +168,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- Riurikaičių dinastija valde [[objektai/vietos/Rusija]]

@@ -30,7 +30,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   global_id: t-86745
   teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
   sudarymo_pagrindimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_place: Lukas; mentioned_place: Vilnius; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_place: Lukas; mentioned_place: Vilnius; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'
@@ -48,13 +48,13 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lukas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mamoničių giminė: owner_note_path, group
-  ryšio_targeto_parinkimas: Lukas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mamoničių giminė" parinktas kaip owner_note_path. Targetas "Lukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras Timofiejevas Mstislavliškis veikia Vilniuje, atvykęs iš Maskvos.
 
 ## Reikšmingi paminėjimai
 
@@ -107,11 +107,11 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   irodymo_stiprumas: 0.00
   saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lukas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mamoničių giminė: owner_note_path, group
-  ryšio_targeto_parinkimas: Lukas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mamoničių giminė" parinktas kaip owner_note_path. Targetas "Lukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Petras Timofiejevas Mstislavliškis veikia Vilniuje, atvykęs iš Maskvos.
     - t-001

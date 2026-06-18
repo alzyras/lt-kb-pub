@@ -95,11 +95,14 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   ryšio_subjekto_parinkimas: Drevenca: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kauernikas: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drevenca" parinktas kaip owner_note_path. Targetas "Kauernikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kauernikas: Ties Kauerniku sąjungininkai priėjo Drevencos upę ir pamatė, kad perėjimą saugo kryžiuočiai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178939|Kryžiuočių ordinas]]: Sąjungininkai ties Kauerniku pastebėjo, kad kryžiuočiai jau saugo perėjimą per Drevencos upę.
 - susijęs iš Alenšteinas: Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.
 - susijęs iš Alenšteinas: Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.
 - susijęs iš Kauernikas: Ties Kauerniku sąjungininkai priėjo Drevencos upę ir pamatė, kad perėjimą saugo kryžiuočiai.
 - susijęs iš Sviečė: Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis.
+- susijęs iš Sviečė: Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis.
+- susijęs iš [[objektai/daiktai/Patrankos.md#claim-t-176200|Patrankos]]: Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-182864|Ulrichas von Jungingenas]]: Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-184298|Zyndramas iš Moškovicų]]: Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.
 - susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-34836|Zyndramas iš Moškovicų]]: Zyndramui iš Moškovicų karalius pavedė vesti lenkų kariuomenę.
@@ -231,3 +234,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   ryšio_subjekto_parinkimas: Drevenca: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kauernikas: mention_match, place, gap=19
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drevenca" parinktas kaip owner_note_path. Targetas "Kauernikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] gyne Drevenca

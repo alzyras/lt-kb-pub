@@ -71,8 +71,7 @@ Nenurodyta
 - t-002
   global_id: t-23327
   teiginys: 'Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.'
-  susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-002
 
@@ -90,13 +89,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0acd9ca77b00b5351048172556c15b89f27f1186460f5010ee530a2610bb2401; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Klaipėdos prisijungimas prie Lietuvos (1923 m.): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Lietuviai: participant_match, group, gap=82
-  ryšio_targeto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): event_owner_or_first_target, event, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Lietuviai" parinktas kaip participant_match. Targetas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-23329"></a>
 - t-004
@@ -142,8 +141,7 @@ Nenurodyta
   global_id: t-26645
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Klaipėdos žygio eigą ir pateikimą.'
-  susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -191,13 +189,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 307119-307559; hash=34d7ee56afac7b2bf0ea057c55f6ccc430f0426b54186cc1974c0b850cebdc18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Klaipėdos prisijungimas prie Lietuvos (1923 m.): 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Vokiečiai: participant_match, group, gap=98
-  ryšio_targeto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): event_owner_or_first_target, event, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Vokiečiai" parinktas kaip participant_match. Targetas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-26843"></a>
 - t-011
@@ -293,13 +291,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0acd9ca77b00b5351048172556c15b89f27f1186460f5010ee530a2610bb2401; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Klaipėdos prisijungimas prie Lietuvos (1923 m.): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Lietuviai: participant_match, group, gap=82
-  ryšio_targeto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): event_owner_or_first_target, event, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Lietuviai" parinktas kaip participant_match. Targetas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-004
@@ -334,13 +332,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 307119-307559; hash=34d7ee56afac7b2bf0ea057c55f6ccc430f0426b54186cc1974c0b850cebdc18; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Klaipėdos prisijungimas prie Lietuvos (1923 m.): 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_event_participation
-  ryšio_subjekto_parinkimas: Vokiečiai: participant_match, group, gap=98
-  ryšio_targeto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): event_owner_or_first_target, event, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Vokiečiai" parinktas kaip participant_match. Targetas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-006
@@ -454,8 +452,3 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Klaipėdos prisijungimas prie Lietuvos (1923 m.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos prisijungimas prie Lietuvos (1923 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)
-- [[objektai/grupes/Prancūzai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)

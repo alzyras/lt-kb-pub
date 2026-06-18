@@ -45,6 +45,7 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kasparas Januševičius.md#claim-t-87749|Kasparas Januševičius]]: Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę.
+- susijęs iš [[objektai/asmenys/Kasparas Januševičius.md#claim-t-87749|Kasparas Januševičius]]: Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87447|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176552|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.
@@ -112,3 +113,7 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   ryšio_subjekto_parinkimas: Motiejus: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Kasparas Januševičius]] buvo_brolis Motiejus
+- Motiejus valde_miesta [[objektai/vietos/Vilnius]]

@@ -40,19 +40,19 @@ Nenurodyta
   global_id: t-01784
   teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, citata pagrindžia sutrumpintą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Radomas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Radomas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Radomas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b6c1b1a0cd1c3d4dbd886b8c545c69ecf45f160e3b4bb2170d9171000aa3900; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Radomo konfederacija (1767 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Radomas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radomo konfederacija (1767 m.)" parinktas kaip owner_note_path. Targetas "Radomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Radomas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Radomas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo rusų kariuomenės apsuptus konfederatus Radome.
 
 ## Reikšmingi paminėjimai
 
@@ -87,10 +87,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2b6c1b1a0cd1c3d4dbd886b8c545c69ecf45f160e3b4bb2170d9171000aa3900; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Radomo konfederacija (1767 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Radomas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radomo konfederacija (1767 m.)" parinktas kaip owner_note_path. Targetas "Radomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Radomas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Radomas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo rusų kariuomenės apsuptus konfederatus Radome.

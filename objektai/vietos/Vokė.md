@@ -67,7 +67,7 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   global_id: t-85560
   teiginys: 'Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie totorių gyvenvietę prie Vokės, o pradinis teiginys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie totorių gyvenvietę prie Vokės, o pradinis teiginys buvo nutrūkęs.'
@@ -76,13 +76,13 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokė" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste sakoma, kad totoriai buvo įkurdinti Vytauto Lietuvoje.
 
 ## Reikšmingi paminėjimai
 
@@ -149,13 +149,13 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.83
+  ryšio_patikimumas: gyveno -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vokė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokė" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste sakoma, kad totoriai buvo įkurdinti Vytauto Lietuvoje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=88d4b3e3962d28584822c436d3083f1b0bb03d629ad4268297369ac66ff86a5e; match=fallback; occurrences=0

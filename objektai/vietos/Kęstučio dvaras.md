@@ -22,19 +22,20 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
   global_id: t-36346
   teiginys: 'Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę ir padaryti sakinį sklandų.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: 'Kęstučio dvaras priklausė [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eca6cadc1e46a79ddb1554be83510809f5d46034ce5b4be3c4a20da6fd5ccf71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio dvaras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio dvaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstučio dvaras: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavadinimas ir teiginys tiesiogiai nurodo dvarą kaip Kęstučio.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +57,13 @@ Taigi Kęstučio dvaras buvo vie­ ta, kur daugiausia turėta žinių apie visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eca6cadc1e46a79ddb1554be83510809f5d46034ce5b4be3c4a20da6fd5ccf71; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstučio dvaras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio dvaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstučio dvaras: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pavadinimas ir teiginys tiesiogiai nurodo dvarą kaip Kęstučio.
+
+## Ryšiai
+- Kęstučio dvaras priklause [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

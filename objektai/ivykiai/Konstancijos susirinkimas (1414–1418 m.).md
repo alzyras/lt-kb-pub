@@ -74,19 +74,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 280813-281568; hash=049d2938c8f7b0211749de2c0bb5542c6d9980ec48fc57640ceb7a982a4280f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstancijos susirinkimas (1414–1418 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancijos susirinkimas (1414–1418 m.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstancijos susirinkimas (1414–1418 m.): 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancijos susirinkimas (1414–1418 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas pasiuntė delegaciją susirinkimui.
 
 <a id="claim-t-50804"></a>
 - t-003
   global_id: t-50804
   teiginys: 'Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -200,10 +201,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 280813-281568; hash=049d2938c8f7b0211749de2c0bb5542c6d9980ec48fc57640ceb7a982a4280f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konstancijos susirinkimas (1414–1418 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancijos susirinkimas (1414–1418 m.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Konstancijos susirinkimas (1414–1418 m.): 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konstancijos susirinkimas (1414–1418 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas pasiuntė delegaciją susirinkimui.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Konstancijos susirinkimas (1414–1418 m.)

@@ -94,6 +94,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - susijęs iš Štetinas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.
 - susijęs iš Švedija: Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.
 - susijęs iš [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės.md#claim-t-86570|Rygos miesto civilinė teisė vokiečių teisės]]: Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
+- susijęs iš Švedija: Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -146,3 +147,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Švedai]] keliavo_i Gotlandas

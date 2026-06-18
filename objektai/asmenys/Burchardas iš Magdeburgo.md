@@ -37,20 +37,21 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4d2133a7acd3863a0420e5ab3947ec9f1921b3cb5b48076638b7e15d98e856b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienverderis: 0.85
+  ryšio_patikimumas: keliavo_i -> Pamedė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Magdeburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Marienverderis: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Magdeburgo" parinktas kaip owner_note_path. Targetas "Marienverderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Magdeburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Burchardas su magistru ir broliais perkėlė pilį į Pamedės valsčių; tai tiesiogiai nurodo judėjimo kryptį.
 
 <a id="claim-t-60097"></a>
 - t-002
   global_id: t-60097
   teiginys: 'Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Burchardo veiksmą ir pilies perkėlimo kryptį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Salos; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Saksonija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Salos; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Saksonija; mentioned_place: Viena; llm_object: Pamedė'
+  semantiniai_rysiai: '[[objektai/asmenys/Burchardas iš Magdeburgo|Burchardas iš Magdeburgo]] keliavo į Pamedė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -112,10 +113,13 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4d2133a7acd3863a0420e5ab3947ec9f1921b3cb5b48076638b7e15d98e856b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienverderis: 0.85
+  ryšio_patikimumas: keliavo_i -> Pamedė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burchardas iš Magdeburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Marienverderis: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burchardas iš Magdeburgo" parinktas kaip owner_note_path. Targetas "Marienverderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Magdeburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Burchardas su magistru ir broliais perkėlė pilį į Pamedės valsčių; tai tiesiogiai nurodo judėjimo kryptį.
+
+## Ryšiai
+- Burchardas iš Magdeburgo keliavo_i [[objektai/vietos/Pamedė]]

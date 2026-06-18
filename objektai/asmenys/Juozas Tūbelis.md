@@ -42,13 +42,13 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5219fe1e57e48a8302a5f76724cc9f536221cf7f781358990259d31d3608e131; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Juozas Tūbelis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): nearest_after_predicate, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Juozas Tūbelis" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: paskyre -> Juozas Tūbelis: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Juozas Tūbelis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad prezidentas A. Smetona paskyrė Juozą Tūbelį.
 
 <a id="claim-t-170078"></a>
 - t-002
@@ -105,8 +105,8 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   global_id: t-170081
   teiginys: '1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]] paskyrė [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]]; mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] paskyrė [[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]]'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -262,13 +262,13 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5219fe1e57e48a8302a5f76724cc9f536221cf7f781358990259d31d3608e131; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Juozas Tūbelis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): nearest_after_predicate, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Juozas Tūbelis" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: paskyre -> Juozas Tūbelis: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Juozas Tūbelis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad prezidentas A. Smetona paskyrė Juozą Tūbelį.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 327849-328325; hash=707bd4c8169233b70e2f90d5b76e3791e5e33d8145c50d147efc2415883f5a65; match=whitespace_regex
@@ -450,4 +450,4 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-004
 
 ## Ryšiai
-- Juozas Tūbelis paskyre [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] paskyre Juozas Tūbelis

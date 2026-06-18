@@ -29,7 +29,8 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   global_id: t-38491
   teiginys: 'Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.'
   sudarymo_pagrindimas: 'Įvardis pakeistas asmenvardžiu, kad sakinys būtų savarankiškas ir aiškus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'llm_object: Kopysė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] siuntė į Kopysė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
@@ -49,3 +50,6 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Radvila]] siunte_i Kopysė

@@ -28,7 +28,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65933
   teiginys: 'Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata apie Nadruvos žemę.'
-  susije_objektai: 'mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
+  susije_objektai: 'llm_object: Nadruva; mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie Nadruvos žemę.'
@@ -45,32 +45,33 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: priklause -> Lietuviai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje perteikiama išvada, kad skalviai ir nadruviai buvo lietuviai; tai leidžia atsargiai žymėti skalvių priklausymą lietuviams.
 
 <a id="claim-t-65935"></a>
 - t-003
   global_id: t-65935
   teiginys: 'M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
   sudarymo_pagrindimas: 'Teiginys klaidingai priskirtas Dusburgiečiui ir turi OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Deimena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Deimena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Nadruviai|Nadruviai]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e9e26be7af1c600d001e0bc0be617e2e5c267391570d54c49803900b2081263; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai priskiria skalvius vakariniams baltams.
 
 <a id="claim-t-65936"></a>
 - t-004
@@ -108,7 +109,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65938
   teiginys: 'Nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, tai yra vakarinių baltų.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai paremtas citata apie nadruvius.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Baltai|Baltai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Nadruviai|Nadruviai]] priklausė [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
     - c-006
@@ -128,7 +130,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65939
   teiginys: 'Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir įtraukia antraštę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva; llm_object: Vėluva; llm_object: [[objektai/grupes/Sembai|Sembai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Nadruviai|Nadruviai]] puolė Semba; [[objektai/grupes/Nadruviai|Nadruviai]] pastatė Vėluva; [[objektai/grupes/Nadruviai|Nadruviai]] kariavo prieš [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -147,19 +150,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65940
   teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.'
   sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Bysleida; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  semantiniai_rysiai: '[[objektai/grupes/Nadruviai|Nadruviai]] apgulė Bysleida; [[objektai/grupes/Nadruviai|Nadruviai]] puolė Bysleida'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 352151-353123; hash=709851f41f6cd486de8acd9b382d784c4d78cf63b977c64de1cfd5d9db334cd4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įtraukti į gentis, kurios įsibrovė į Sembos žemę.
 
 <a id="claim-t-65941"></a>
 - t-009
@@ -172,13 +176,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad nadruviai kartu su kitais apsiautė Bysleidos pilį.
 
 <a id="claim-t-65942"></a>
 - t-010
@@ -215,6 +219,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš Nadruva: 1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70378|vakariniai baltai]]: Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
+- susijęs iš Kampsvykiai: 1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.
 - susijęs iš [[objektai/asmenys/Nameda.md#claim-t-60393|Nameda]]: Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.
 - susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
@@ -343,13 +348,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 352151-353123; hash=709851f41f6cd486de8acd9b382d784c4d78cf63b977c64de1cfd5d9db334cd4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įtraukti į gentis, kurios įsibrovė į Sembos žemę.
     - t-001
 
 - c-005
@@ -392,13 +397,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: priklause -> Lietuviai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje perteikiama išvada, kad skalviai ir nadruviai buvo lietuviai; tai leidžia atsargiai žymėti skalvių priklausymą lietuviams.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c317ff4f3e6a16607b2ec46c3d97b81a1e54fb5f3819b0303bbc22c73d6b684a; match=fallback; occurrences=0
@@ -484,13 +489,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Bysleida: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bysleida: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad nadruviai kartu su kitais apsiautė Bysleidos pilį.
     - t-003
 
 - c-010
@@ -509,14 +514,24 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e9e26be7af1c600d001e0bc0be617e2e5c267391570d54c49803900b2081263; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruviai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruviai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Claim tiesiogiai priskiria skalvius vakariniams baltams.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f278471fb28a838245887442f8bb6dbd372bc7bf507dd85b0734f5958bbc5de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Nadruviai apgule [[objektai/vietos/Bysleida]]
+- Nadruviai puole [[objektai/vietos/Bysleida]]
+- Nadruviai puole [[objektai/vietos/Semba]]
+- Nadruviai pastate [[objektai/vietos/Vėluva]]
+- [[objektai/vietos/Kampsvykiai]] priklause Nadruviai
+- Nadruviai priklause [[objektai/grupes/Baltai]]
+- Nadruviai priklause [[objektai/grupes/Lietuviai]]
+- Nadruviai kariavo_pries [[objektai/grupes/Sembai]]

@@ -40,7 +40,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170422
   teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Rusija; llm_object: Kauno gubernija'
+  semantiniai_rysiai: 'Kauno gubernija priklausė Rusija; [[objektai/grupes/Lietuviai|Lietuviai]] valdė teritoriją Kauno gubernija'
   pagrindžia:
     - c-003
 
@@ -49,7 +50,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170423
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Kauno gubernija priklausė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1843 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -61,7 +63,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170425
   teiginys: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilniaus gubernija; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilniaus gubernija; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Kauno gubernija priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
@@ -189,3 +192,9 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Kauno gubernija priklause [[objektai/vietos/Rusija]]
+- Kauno gubernija priklause [[objektai/vietos/Lietuva]]
+- Kauno gubernija priklause [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuviai]] valde_teritorija Kauno gubernija

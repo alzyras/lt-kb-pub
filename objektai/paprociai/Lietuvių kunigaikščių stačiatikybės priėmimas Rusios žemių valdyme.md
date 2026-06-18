@@ -58,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vaišelgą Mindaugo sūnumi.
 
 <a id="claim-t-75374"></a>
 - t-002
@@ -89,7 +89,7 @@ Nenurodyta
 - t-003
   global_id: t-75375
   teiginys: 'Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -107,19 +107,19 @@ Nenurodyta
 - t-004
   global_id: t-75376
   teiginys: 'Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0984316057e91eb21f8a0e3a8f74fa9f3aa8e72534f9f0c246d1473ffa0b56fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme: owner_note_path, thing
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Mindaugas (valdovas, XIII a.): 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vaišelga (kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vaišelgą kaip Mindaugo sūnų.
 
 <a id="claim-t-75377"></a>
 - t-005

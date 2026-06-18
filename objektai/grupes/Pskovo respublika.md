@@ -93,8 +93,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   global_id: t-113196
   teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pskovo respublika keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
@@ -265,6 +264,3 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   ryšio_subjekto_parinkimas: Pskovo respublika: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=104
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskovo respublika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Pskovo respublika keliavo_i [[objektai/vietos/Vilnius]]

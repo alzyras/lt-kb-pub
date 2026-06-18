@@ -30,7 +30,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
   global_id: t-60404
   teiginys: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  susije_objektai: 'llm_object: Konstantinopolis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  semantiniai_rysiai: '[[objektai/asmenys/Paleologas|Paleologas]] užėmė Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatos faktus.'
@@ -39,13 +40,14 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224ae9fc7bd1ce7c92f4d5fe0d1d241a8898ef8a24a29ee65eba1e3ac17e4fc6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleologas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleologas" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Konstantinopolį buvo užėmę prancūzai.
+- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.).md#claim-t-62332|Konstantinopolio miesto atgavimas (1259 m.)]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
@@ -71,10 +73,14 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224ae9fc7bd1ce7c92f4d5fe0d1d241a8898ef8a24a29ee65eba1e3ac17e4fc6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paleologas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paleologas" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Konstantinopolį buvo užėmę prancūzai.
+
+## Ryšiai
+- Paleologas uzeme [[objektai/vietos/Konstantinopolis]]
+- [[objektai/asmenys/Manuelis]] buvo_sunus Paleologas

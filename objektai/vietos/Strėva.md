@@ -33,7 +33,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   global_id: t-115020
   teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_place: Žiežmariai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Žiežmariai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: po 1351 m.; įvykio data: 1351 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiksliai perteikia citatos informaciją.'
@@ -42,13 +42,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=829f8438687948c9897d305a60e8c1800c4c7a13fa83ff899f5a965407f1dc42; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja Narimanto žūtį kautynėse su kryžiuočiais, todėl rodo karinį konfliktą su Kryžiuočių ordinu.
 
 <a id="claim-t-115021"></a>
 - t-002
@@ -61,13 +61,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žiežmariai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Algirdas (Lietuvos valdovas): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žiežmariai: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Žiežmariai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Algirdo kariuomenė tiesiogiai minima kaip susitikusi su kryžiuočiais mūšio kontekste.
 
 <a id="claim-t-115022"></a>
 - t-003
@@ -93,7 +93,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   global_id: t-115023
   teiginys: 'Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pakankamai susijęs su Strėvos kautynėmis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_place: Rusija; mentioned_place: Turovas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_place: Rusija; mentioned_place: Turovas'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pakankamai susijęs su Strėvos kautynėmis.'
@@ -131,6 +131,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
@@ -210,13 +211,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žiežmariai: 0.85
+  ryšio_patikimumas: kariavo_pries -> Algirdas (Lietuvos valdovas): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žiežmariai: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Žiežmariai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Algirdo kariuomenė tiesiogiai minima kaip susitikusi su kryžiuočiais mūšio kontekste.
     - t-004
 
 - c-003
@@ -297,13 +298,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=829f8438687948c9897d305a60e8c1800c4c7a13fa83ff899f5a965407f1dc42; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja Narimanto žūtį kautynėse su kryžiuočiais, todėl rodo karinį konfliktą su Kryžiuočių ordinu.
     - t-003
 
 - c-005
@@ -339,3 +340,6 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   ryšio_subjekto_parinkimas: Strėva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jonas Lonei]] mire Strėva

@@ -45,7 +45,8 @@ Nenurodyta
   global_id: t-34553
   teiginys: '1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)|Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)|Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citata.'
@@ -54,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 152693-152952; hash=c9f75275ec71b62d8649c2794f97aa72011bfb492d56673b41e59d73fea3edbd; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai surengė šį žygį.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +82,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 152693-152952; hash=c9f75275ec71b62d8649c2794f97aa72011bfb492d56673b41e59d73fea3edbd; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai surengė šį žygį.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)

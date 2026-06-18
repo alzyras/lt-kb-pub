@@ -53,7 +53,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   global_id: t-122425
   teiginys: 'Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutinių senatvės dienų.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Ukraina'
   pagrindžia:
     - c-002
 
@@ -71,39 +72,41 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Ukrainos teritoriją kaip priklausiusią Lenkijai.
 
 <a id="claim-t-122427"></a>
 - t-005
   global_id: t-122427
   teiginys: 'Švitrigaila po prieglobsčio Vitebske nusigavo į Ukrainą praleisti paskutinių savo senatvės dienų.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Ukraina; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vitebskas; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Ukraina'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukraina: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą.
 
 <a id="claim-t-122429"></a>
 - t-006
   global_id: t-122429
   teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Turkija; mentioned_place: Valakija'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Turkija; mentioned_place: Valakija'
+  semantiniai_rysiai: 'Ukraina priklausė Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -125,7 +128,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Ukrainą ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Ukraina priklausė Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1648 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Ukrainą ir atitinka citatą.'
@@ -141,6 +145,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=56
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
+- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
 - susijęs iš [[objektai/asmenys/Juzefas Poniatovskis.md#claim-t-19045|Juzefas Poniatovskis]]: Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.
 - susijęs iš [[objektai/asmenys/Petro Sahaidačnij.md#claim-t-40394|Petro Sahaidačnij]]: Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.
@@ -241,6 +247,10 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/zodynas/litvakai Lite litviš.md#claim-t-26550|litvakai Lite litviš]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais.
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86489|monopolis privati prekyba]]: Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
+- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
+- susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -304,13 +314,13 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Ukraina: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Švitrigaila nusigavo į Ukrainą.
     - t-003
 
 - c-003
@@ -402,13 +412,13 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ukraina: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai įvardija Ukrainos teritoriją kaip priklausiusią Lenkijai.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ceb802b674d100fe198f0d43ec7a32a853f354d53f4ba9ab608874755578dfca; match=fallback; occurrences=0
@@ -420,3 +430,11 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=56
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ukraina priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Ukraina
+- Ukraina priklause [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Ukraina
+- [[objektai/vietos/Voluinė]] priklause Ukraina
+- [[objektai/grupes/Agentai-smogikai]] gyveno Ukraina

@@ -33,19 +33,20 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   global_id: t-87374
   teiginys: 'Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su asmeniu ir pašalinti vien tik rūmų aprašymo pobūdį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Manvydas|Manvydas]] gyveno Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232960-233604; hash=351794eb85b2f7515b99ce23fbe9901011718338ba777ee34f6aa070db8f192f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Manvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manvydas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Manvydo rūmai stovėjo Vilniuje, bet gyvenimas juose nėra pasakytas tiesiogiai, todėl pasitikėjimas ribotas.
 
 <a id="claim-t-87375"></a>
 - t-002
@@ -134,19 +135,23 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir sutvarkytos OCR klaidos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_place: Vengrija; llm_object: [[objektai/asmenys/Astikas|Astikas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Manvydas|Manvydas]] buvo sąjungininkas su [[objektai/asmenys/Astikas|Astikas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Manvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Astikas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manvydas" parinktas kaip owner_note_path. Targetas "Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Astikas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Susitarimas su Astiku tiesiogiai rodo politinį bendradarbiavimą.
+- susijęs iš Manvydo rūmai: Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.
+- susijęs iš Manvydo rūmai: Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.
+- susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
 - susijęs iš [[objektai/asmenys/Astikas.md#claim-t-186182|Astikas]]: Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
 - susijęs iš [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai.md#claim-t-87083|Manvydo rūmai ir Aukštutinės pilies mūrai]]: 1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.
 - susijęs iš Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą: Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.
@@ -189,6 +194,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - susijęs iš Šventaragio slėnis: Šventaragio slėnis buvo laikomas reikšmingiausia Žemutinės pilies dalimi, kur degė lietuvių garbinta Gabija.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš [[objektai/zodynas/pataurininkis rykūnė.md#claim-t-86605|pataurininkis rykūnė]]: Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.
+- susijęs iš [[objektai/asmenys/Astikas.md#claim-t-186182|Astikas]]: Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
+- susijęs iš [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai.md#claim-t-87083|Manvydo rūmai ir Aukštutinės pilies mūrai]]: 1396 metais pilies kalno nuošliaužos užslinko ant Manvydo rūmų, o Aukštutinės pilies mūrai nuostolių nepatyrė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -286,13 +293,13 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232960-233604; hash=351794eb85b2f7515b99ce23fbe9901011718338ba777ee34f6aa070db8f192f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.52
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Manvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manvydas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Manvydo rūmai stovėjo Vilniuje, bet gyvenimas juose nėra pasakytas tiesiogiai, todėl pasitikėjimas ribotas.
     - t-003
 
 - c-004
@@ -383,10 +390,17 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Astikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Manvydas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Astikas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manvydas" parinktas kaip owner_note_path. Targetas "Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Astikas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Manvydas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Susitarimas su Astiku tiesiogiai rodo politinį bendradarbiavimą.
+
+## Ryšiai
+- [[objektai/vietos/Manvydo rūmai]] priklause Manvydas
+- Manvydas buvo_sajungininkas_su [[objektai/asmenys/Astikas]]
+- [[objektai/asmenys/Astikas]] sudare_sutarti_su Manvydas
+- [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]] priklause Manvydas
+- Manvydas gyveno [[objektai/vietos/Vilnius]]

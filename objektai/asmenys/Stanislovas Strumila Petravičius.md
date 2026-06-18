@@ -129,3 +129,6 @@ Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių p
   ryšio_subjekto_parinkimas: Stanislovas Strumila Petravičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=34
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Strumila Petravičius" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Stanislovas Strumila Petravičius valde_miesta [[objektai/vietos/Smolenskas]]

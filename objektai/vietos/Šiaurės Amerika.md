@@ -30,19 +30,20 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
   global_id: t-44042
   teiginys: 'Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet „tėvynę“ verta pakeisti aiškia nuoroda į Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: Šiaurės Amerika'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Šiaurės Amerika'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae9234f38ac63e35aa88258d080d61d6133a658d1cc427e419eafb33df6e0bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės Amerika: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Amerika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Šiaurės Amerika: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės Amerika: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kolonija Šiaurės Amerikoje rodo lietuvių gyvenimą šioje vietoje.
 
 ## Reikšmingi paminėjimai
 
@@ -64,21 +65,24 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae9234f38ac63e35aa88258d080d61d6133a658d1cc427e419eafb33df6e0bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės Amerika: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Amerika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Šiaurės Amerika: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės Amerika: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kolonija Šiaurės Amerikoje rodo lietuvių gyvenimą šioje vietoje.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ae9234f38ac63e35aa88258d080d61d6133a658d1cc427e419eafb33df6e0bc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės Amerika: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Amerika" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Šiaurės Amerika: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės Amerika: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kolonija Šiaurės Amerikoje rodo lietuvių gyvenimą šioje vietoje.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyveno Šiaurės Amerika

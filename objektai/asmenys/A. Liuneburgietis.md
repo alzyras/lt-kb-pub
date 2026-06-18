@@ -58,3 +58,6 @@ Liuneburgietis.
   ryšio_subjekto_parinkimas: A. Liuneburgietis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vaina: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Liuneburgietis" parinktas kaip owner_note_path. Targetas "Vaina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- A. Liuneburgietis dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

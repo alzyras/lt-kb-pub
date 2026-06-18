@@ -22,19 +22,20 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pašalinti OCR triukšmą ir perrašyti gramatiškai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Michaila Ivanovičius|Michaila Ivanovičius]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas|Boleslovas]] puolė [[objektai/asmenys/Michaila Ivanovičius|Michaila Ivanovičius]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 787338-787701; hash=e162690e27b011b6275016f82e1a9a7a0139729db8e4c3af6c6287ae39fb5f06; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Boleslovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michaila Ivanovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michaila Ivanovičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michaila Ivanovičius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Michaila Ivanovičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Boleslovas paėmė Michailą Ivanovičių į nelaisvę ir įsakė jį paskandinti, todėl tai tiesioginis priešiškas veiksmas.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   irodymo_stiprumas: 0.00
   saltinio_vieta: 787338-787701; hash=e162690e27b011b6275016f82e1a9a7a0139729db8e4c3af6c6287ae39fb5f06; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Boleslovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michaila Ivanovičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michaila Ivanovičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Michaila Ivanovičius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Michaila Ivanovičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Boleslovas paėmė Michailą Ivanovičių į nelaisvę ir įsakė jį paskandinti, todėl tai tiesioginis priešiškas veiksmas.
+
+## Ryšiai
+- [[objektai/asmenys/Boleslovas]] puole Michaila Ivanovičius

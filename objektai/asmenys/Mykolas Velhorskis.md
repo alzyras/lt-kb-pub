@@ -56,6 +56,7 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
   ryšio_targeto_parinkimas: Artilerija: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Velhorskis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
+- susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,3 +135,6 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
   ryšio_subjekto_parinkimas: Mykolas Velhorskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Velhorskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Tadas Kosciuška]] paskyre Mykolas Velhorskis

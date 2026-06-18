@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20459
   teiginys: '1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas; mentioned_place: Maskva; llm_object: Zabluduvas'
   temporaliniai_duomenys: 'įkūrimo data: 1562 m.; įkūrimo data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: pastate -> Zabluduvas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zabluduvas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Chodkevičius su spaustuvės steigimu Zabluduve, nors spaustuvė nėra atskiras objektas.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumas: pastate -> Zabluduvas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zabluduvas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Chodkevičius su spaustuvės steigimu Zabluduve, nors spaustuvė nėra atskiras objektas.

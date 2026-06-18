@@ -28,7 +28,11 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f87eb02629f2ecd2b53b64c0d650f084e08dc9c7b861b6e2583293d228107de0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-- susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96086|Baltai]]: Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.
+- susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
+- susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78943|Augustas II]]: Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
@@ -146,6 +150,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/zodynas/didvalstybė.md#claim-t-22119|didvalstybė]]: Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/rutėnai Rutheni.md#claim-t-58831|rutėnai Rutheni]]: Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.
+- susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75689|Andrejus Sacharovas]]: A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
@@ -418,6 +424,20 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-183424|federacija federacinė valstybė]]: Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų.
 - susijęs iš [[objektai/zodynas/glesum.md#claim-t-28586|glesum]]: Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.
 - susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
+- susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
+- susijęs iš [[objektai/grupes/Normanai.md#claim-t-86724|Normanai]]: IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.
+- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184424|Petras I Didysis]]: Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.
+- susijęs iš [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes.md#claim-t-31554|at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]: Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
+- susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
+- susijęs iš [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.).md#claim-t-45353|Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]: 1940 m. birželio 16 d. sovietų divizijos per Lietuvą atkirtusios Latviją ir Estiją nuo Vokietijos greitai okupavo abi Baltijos valstybes.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
+- susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23361|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: 1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -442,4 +462,17 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
   sprendimo_priezastis: auto
 
 ## Ryšiai
+- [[objektai/grupes/Baltai]] gyveno Baltija
+- [[objektai/grupes/Aušrėnai]] gyveno Baltija
 - [[objektai/grupes/Lietuviai]] uzeme Baltija
+- [[objektai/grupes/Slavai]] uzeme Baltija
+- [[objektai/grupes/Venedai]] uzeme Baltija
+- [[objektai/grupes/Normanai]] keliavo_i Baltija
+- [[objektai/asmenys/Petras I Didysis]] surenge_zygi_i Baltija
+- [[objektai/grupes/Aisčiai]] gyveno Baltija
+- [[objektai/grupes/Baltijos valstybės]] priklause Baltija
+- [[objektai/grupes/Lietuviai]] valde_teritorija Baltija
+- [[objektai/grupes/Hanza]] valde Baltija
+- [[objektai/grupes/Agentai-smogikai]] gyveno Baltija
+- [[objektai/grupes/Estai]] keliavo_i Baltija
+- [[objektai/grupes/Latviai]] keliavo_i Baltija

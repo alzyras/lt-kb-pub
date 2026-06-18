@@ -27,7 +27,7 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   global_id: t-42118
   teiginys: '1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti datą, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti datą, vietą ir veiksmą.'
@@ -36,13 +36,13 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aac361af728a1569b685515364959538375f43c23909df465b8dc5d46ac2199a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyne: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyne" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaitija buvo užleista kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu.md#claim-t-26373|Derybos Salyne su Vokiečių ordinu]]: 1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
@@ -81,10 +81,10 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aac361af728a1569b685515364959538375f43c23909df465b8dc5d46ac2199a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyne: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyne" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaitija buvo užleista kryžiuočiams.

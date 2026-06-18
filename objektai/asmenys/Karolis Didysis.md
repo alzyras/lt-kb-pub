@@ -61,3 +61,6 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
   ryšio_subjekto_parinkimas: Karolis Didysis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Europa: mention_match, place, gap=81
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Didysis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Karolis Didysis surenge_zygi_i [[objektai/vietos/Italija]]

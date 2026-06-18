@@ -25,7 +25,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   global_id: t-66254
   teiginys: 'Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir su antraštės triukšmu.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Pjūklai|Pjūklai]]; mentioned_place: Vengrija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Pjūklai|Pjūklai]]; mentioned_place: Vengrija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Vengrai|Vengrai]] puolė Kulmas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -50,13 +51,13 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: 757612-758729; hash=ed7ebf172795a9f735bdf2e27b3ff19144325be3c7ef2aa1739c8831b9ff3d9b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad vengrai siaubė Kulmo žemę.
 
 <a id="claim-t-184584"></a>
 - t-003
@@ -110,19 +111,21 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia sutartis ir jų tikslą, pašalintas perteklinis tekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Valachai|Valachai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Vengrai|Vengrai]] sudarė sutartį su [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Vengrai|Vengrai]] sudarė sutartį su [[objektai/grupes/Valachai|Valachai]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vengrai ir lietuviai tiesiogiai išvardyti kaip sutartis sudariusios grupės.
+- susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185965|Jonas Olbrachtas]]: Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82294|Elžbieta]]: Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54970|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54971|Gabrielius Bekešas]]: Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.
@@ -208,6 +211,11 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - susijęs iš [[objektai/zodynas/inkorporacija.md#claim-t-47923|inkorporacija]]: Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna.
 - susijęs iš [[objektai/zodynas/inkorporacija.md#claim-t-47924|inkorporacija]]: 1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185337|žygūnas]]: Lenkų bajoras Trepka, dėdamasis Pisono žygūnu, išvyko pranešti Glinskiui karaliaus valios.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54970|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82313|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.).md#claim-t-185579|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]: Jonas Olbrachtas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54971|Gabrielius Bekešas]]: Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.
+- susijęs iš [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią.md#claim-t-31397|1387 m. vasaros žygis į Raudonąją Rusią]]: 1387 m. vasarą Vytautas su Lietuvos kunigaikščiais Lenkijai iš vengrų atėmė likusią Raudonosios Rusios dalį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -253,13 +261,13 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: 757612-758729; hash=ed7ebf172795a9f735bdf2e27b3ff19144325be3c7ef2aa1739c8831b9ff3d9b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrai" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad vengrai siaubė Kulmo žemę.
     - t-001
 
 - c-003
@@ -346,10 +354,22 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   irodymo_stiprumas: 0.00
   saltinio_vieta: 984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vengrai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vengrai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Lietuviai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vengrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vengrai ir lietuviai tiesiogiai išvardyti kaip sutartis sudariusios grupės.
+
+## Ryšiai
+- [[objektai/asmenys/Jonas Olbrachtas]] kariavo_pries Vengrai
+- Vengrai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Vengrai puole [[objektai/vietos/Kulmas]]
+- Vengrai sudare_sutarti_su [[objektai/grupes/Lietuviai]]
+- Vengrai sudare_sutarti_su [[objektai/grupes/Valachai]]
+- Vengrai keliavo_i [[objektai/vietos/Červinskas]]
+- Vengrai puole [[objektai/vietos/Italija]]
+- [[objektai/asmenys/Gabrielius Bekešas]] buvo_valdovas Vengrai
+- [[objektai/asmenys/Gabrielius Bekešas]] paskyre Vengrai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Vengrai

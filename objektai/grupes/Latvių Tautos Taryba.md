@@ -40,7 +40,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   global_id: t-72361
   teiginys: 'Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.'
   sudarymo_pagrindimas: 'Pradinis teiginys ne apie Latvių Tautos Tarybą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Brasta; mentioned_place: Latvija; mentioned_place: Petrapilis; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Brasta; mentioned_place: Latvija; mentioned_place: Petrapilis; mentioned_place: Rusija; llm_object: Latvija'
+  semantiniai_rysiai: '[[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba]] priklausė Latvija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -64,13 +65,13 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1192472-1192860; hash=54dc3a7379ac39d84d418dbcd06d10056c3517e5715ba862931b72a0b30e8a67; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
+  ryšio_patikimumas: priklause -> Latvija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latvių Tautos Taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvių Tautos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latvių Tautos Taryba (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tarybos susidarymas lokalizuotas Latvijos dalyje.
 
 ## Reikšmingi paminėjimai
 
@@ -107,13 +108,13 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1192472-1192860; hash=54dc3a7379ac39d84d418dbcd06d10056c3517e5715ba862931b72a0b30e8a67; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
+  ryšio_patikimumas: priklause -> Latvija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latvių Tautos Taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvių Tautos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latvių Tautos Taryba (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tarybos susidarymas lokalizuotas Latvijos dalyje.
     - t-002
 
 - c-003
@@ -151,3 +152,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   ryšio_subjekto_parinkimas: Latvių Tautos Taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latvių Tautos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Latvių Tautos Taryba (institucija) priklause [[objektai/vietos/Latvija]]

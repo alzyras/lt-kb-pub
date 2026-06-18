@@ -28,7 +28,8 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 - t-001
   global_id: t-40861
   teiginys: 'Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 1656 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -36,13 +37,13 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ae10f0de6de9cfd69bf9ba5720aefd4fd3a8764cbd70e8dca0452ec39f62415a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajorų konfederacija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajorų konfederacija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.
 
 <a id="claim-t-183652"></a>
 - t-002
@@ -52,20 +53,20 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Švedai|Švedai]]; counterparty: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]; [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Bajorai|Bajorai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519834-520238; hash=9b485bb73858604be4394063cd6ee57a9bb54f49faf4bb7b214333688f068309; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švedai: 0.98
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Bajorų konfederacija: owner_note_path, group, gap=21
-  ryšio_targeto_parinkimas: Švedai: counterparty_iteration, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Bajorų konfederacija" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79153|Povilas Sapiega]]: Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
 - susijęs iš [[objektai/asmenys/Jonas Kazimieras Vaza.md#claim-t-39751|Jonas Kazimieras Vaza]]: Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.
@@ -107,25 +108,25 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ae10f0de6de9cfd69bf9ba5720aefd4fd3a8764cbd70e8dca0452ec39f62415a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajorų konfederacija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajorų konfederacija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519834-520238; hash=9b485bb73858604be4394063cd6ee57a9bb54f49faf4bb7b214333688f068309; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švedai: 0.98
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Bajorų konfederacija: owner_note_path, group, gap=21
-  ryšio_targeto_parinkimas: Švedai: counterparty_iteration, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Bajorų konfederacija" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.
 
 ## Ryšiai
 - Bajorų konfederacija kariavo_pries [[objektai/grupes/Švedai]]
-- Bajorų konfederacija kariavo_pries [[objektai/grupes/Bajorai]]
+- Bajorų konfederacija reme [[objektai/asmenys/Jonas Kazimieras Vaza]]

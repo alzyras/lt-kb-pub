@@ -76,7 +76,8 @@ saugoti Dubysos upyną.
   global_id: t-180738
   teiginys: 'Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs tęsinys ir paliktas aiškus citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Veliuona'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Veliuona'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs tęsinys ir paliktas aiškus citatos remiamas faktas.'
@@ -85,13 +86,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 695325-695782; hash=a5e664d504d25c074f37421e2ce402d72549942ecbd1c89e43a5658da2e371e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Veliuona: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Veliuona buvo kryžiuočių apgulimo ir puolimo objektas.
 
 <a id="claim-t-180739"></a>
 - t-004
@@ -104,32 +105,33 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Veliuona: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas pasistatė Veliuonos pilį.
 
 <a id="claim-t-180740"></a>
 - t-005
   global_id: t-180740
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai remiasi citatos duomenimis.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda'
+  susije_objektai: 'llm_object: Veliuona; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda; llm_object: Nemunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Veliuona'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa1a98cb54db593520bf31da8162d63101550c1eaeafab937cfc792fe672a5b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Panemunė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto išvykimą į Panemunę.
 
 <a id="claim-t-180741"></a>
 - t-006
@@ -145,13 +147,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332360-332902; hash=47fbe6f5cd6fed1b0c71d99cc98175fc8f3193d8f897bdfe98929bfca7c8685c; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: valde -> Veliuona: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas Veliuoną vadina savo tėviške ir atsisako jos išsižadėti; tai leidžia atsargiai sieti su jo valda.
 
 <a id="claim-t-180743"></a>
 - t-008
@@ -189,7 +191,8 @@ saugoti Dubysos upyną.
   global_id: t-180746
   teiginys: 'Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant neaiškią pradinę konstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Nemunas; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Nemunas; mentioned_place: Švedija; llm_object: Veliuona'
+  semantiniai_rysiai: 'Veliuona priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Veliuona; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Veliuona'
   pagrindžia:
     - c-012
 
@@ -198,26 +201,27 @@ saugoti Dubysos upyną.
   global_id: t-180747
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Torno'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Torno; llm_object: Veliuona'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Veliuona'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Veliuona: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto pastatytą Veliuonos pilį.
 
 <a id="claim-t-180748"></a>
 - t-012
   global_id: t-180748
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
+  susije_objektai: 'llm_object: Panemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė; llm_object: Bajerburgas'
   pagrindžia:
     - c-008
 
@@ -225,7 +229,8 @@ saugoti Dubysos upyną.
 - t-013
   global_id: t-180751
   teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Veliuona'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Veliuona'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -236,7 +241,8 @@ saugoti Dubysos upyną.
   global_id: t-180752
   teiginys: 'Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Veliuonos sudeginimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Peštvė'
+  susije_objektai: 'llm_object: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Peštvė; llm_object: Peštvė'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Veliuona'
   pagrindžia:
     - c-001
 
@@ -245,26 +251,28 @@ saugoti Dubysos upyną.
   global_id: t-180754
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir pagrįstas citatos informacija.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda'
+  susije_objektai: 'llm_object: Veliuona; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda; llm_object: Nemunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Veliuona'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
+  ryšio_patikimumas: mire -> Veliuona: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mirties vieta lokalizuota per mylią nuo Veliuonos, todėl ryšys su Veliuona yra geografiškai artimas, bet netiesioginis.
 
 <a id="claim-t-180755"></a>
 - t-017
   global_id: t-180755
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citata apie Vytauto pareiškimą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Tornas'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Tornas; llm_object: Veliuona; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Veliuona'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -283,7 +291,7 @@ saugoti Dubysos upyną.
   global_id: t-180756
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.'
   sudarymo_pagrindimas: 'Iš fragmento padarytas pilnas sakinys, pašalinant šalutinį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
+  susije_objektai: 'llm_object: Panemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė; llm_object: Bajerburgas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -326,32 +334,33 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=629c48cee25874df630408112e3e12e1431ff2000177d01aadec599a69bf105b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: priklause -> Nemunas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata kalba apie Veliuonėlės įtekėjimą į Nemuną prie Veliuonos; leidžiamuose ryšiuose nėra tikslaus hidrografinio predikato, todėl ryšys laikomas atsargiu.
 
 <a id="claim-t-180759"></a>
 - t-021
   global_id: t-180759
   teiginys: 'Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti faktą su Veliuona kaip note objektu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Nemunas; mentioned_place: Veliuonėlė; mentioned_place: Bajerburgas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Nemunas; mentioned_place: Veliuonėlė; mentioned_place: Bajerburgas; llm_object: Nemunas'
+  semantiniai_rysiai: 'Veliuona priklausė Nemunas'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gediminas žuvo mūšyje su kryžiuočiais.
 
 <a id="claim-t-180760"></a>
 - t-022
@@ -389,13 +398,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332221-332688; hash=8c0d0e0a34663211abf0b13714ab31bdbd9a1671cb08f19a7594b911a353f67b; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Torno: 0.83
+  ryšio_patikimumas: valde -> Veliuona: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Torno: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Torno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas Veliuoną įvardija kaip savo tėviškę, kurios neišsižadės; tai atsargiai remia valdos ryšį.
 
 <a id="claim-t-185172"></a>
 - t-025
@@ -421,7 +430,11 @@ saugoti Dubysos upyną.
   ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Hanza: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
+- susijęs iš Ventės ragas: Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.
+- susijęs iš Ventės ragas: 1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.
+- susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
+- susijęs iš Pieštvė: Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos.
+- susijęs iš Skalvos žemė: 1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87468|Bona]]: Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
@@ -467,6 +480,7 @@ saugoti Dubysos upyną.
 - susijęs iš Pieštvė: Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos.
 - susijęs iš Rudaičiai: M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.
 - susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184496|Kryžiuočių ordinas]]: Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176373|Gediminas]]: Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
@@ -498,6 +512,7 @@ saugoti Dubysos upyną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179075|Kryžiuočių ordinas]]: Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184498|Kryžiuočių ordinas]]: Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179362|Livonijos ordinas]]: 1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.
@@ -557,6 +572,16 @@ saugoti Dubysos upyną.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58782|papilys]]: Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113661|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113663|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
+- susijęs iš [[objektai/ivykiai/Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.).md#claim-t-185823|Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)]]: Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties.
+- susijęs iš Dubysa: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
+- susijęs iš Dubysos upė: Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176346|Gediminas]]: Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.
+- susijęs iš Nemunas: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176387|Gediminas]]: Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.
+- susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
+- susijęs iš Neumarkas: Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.
+- susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -677,24 +702,24 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=629c48cee25874df630408112e3e12e1431ff2000177d01aadec599a69bf105b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: priklause -> Nemunas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata kalba apie Veliuonėlės įtekėjimą į Nemuną prie Veliuonos; leidžiamuose ryšiuose nėra tikslaus hidrografinio predikato, todėl ryšys laikomas atsargiu.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa1a98cb54db593520bf31da8162d63101550c1eaeafab937cfc792fe672a5b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Panemunė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto išvykimą į Panemunę.
     - t-016
 
 - c-007
@@ -732,24 +757,24 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
+  ryšio_patikimumas: mire -> Veliuona: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Mirties vieta lokalizuota per mylią nuo Veliuonos, todėl ryšys su Veliuona yra geografiškai artimas, bet netiesioginis.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 695325-695782; hash=a5e664d504d25c074f37421e2ce402d72549942ecbd1c89e43a5658da2e371e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Veliuona: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata rodo, kad Veliuona buvo kryžiuočių apgulimo ir puolimo objektas.
     - t-013
 
 - c-008
@@ -830,13 +855,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Veliuona: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas pasistatė Veliuonos pilį.
     - t-022
 
 - c-011
@@ -965,13 +990,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Gediminas žuvo mūšyje su kryžiuočiais.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ff929ef5421c9e5541b0533af135f86a3cb9d112e366c93a977ee9ab1b605c11; match=fallback; occurrences=0
@@ -1002,13 +1027,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aa1a98cb54db593520bf31da8162d63101550c1eaeafab937cfc792fe672a5b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Panemunė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto išvykimą į Panemunę.
     - t-006
 
 - c-017
@@ -1030,13 +1055,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332360-332902; hash=47fbe6f5cd6fed1b0c71d99cc98175fc8f3193d8f897bdfe98929bfca7c8685c; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: valde -> Veliuona: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas Veliuoną vadina savo tėviške ir atsisako jos išsižadėti; tai leidžia atsargiai sieti su jo valda.
     - t-011
 
 - c-018
@@ -1065,13 +1090,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c55c145c67cb24dc96e04a84e807b86a9ef4de8cec8832f4224f8f4012ef4ae7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Veliuona: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Vytauto pastatytą Veliuonos pilį.
     - t-024
 
 - c-019
@@ -1109,13 +1134,13 @@ saugoti Dubysos upyną.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332221-332688; hash=8c0d0e0a34663211abf0b13714ab31bdbd9a1671cb08f19a7594b911a353f67b; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Torno: 0.83
+  ryšio_patikimumas: valde -> Veliuona: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veliuona: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Torno: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Torno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas Veliuoną įvardija kaip savo tėviškę, kurios neišsižadės; tai atsargiai remia valdos ryšį.
     - t-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ff929ef5421c9e5541b0533af135f86a3cb9d112e366c93a977ee9ab1b605c11; match=fallback; occurrences=0
@@ -1129,4 +1154,17 @@ saugoti Dubysos upyną.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veliuona" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Veliuona
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Veliuona
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Veliuona
+- [[objektai/asmenys/Ditrichas fon Altenburgas]] puole Veliuona
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Veliuona
+- Veliuona priklause [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Kryžiuočių ordinas]] apgule Veliuona
+- Veliuona priklause [[objektai/vietos/Junigeda]]
+- [[objektai/asmenys/Gediminas]] gyne Veliuona
+- [[objektai/asmenys/Gediminas]] mire Veliuona
+- [[objektai/asmenys/Petras Goštautas]] mire Veliuona
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Veliuona
+- [[objektai/asmenys/Gediminas]] buvo_palaidotas Veliuona
+- [[objektai/grupes/Vokiečiai]] apgule Veliuona
+- Veliuona priklause [[objektai/vietos/Nemunas]]

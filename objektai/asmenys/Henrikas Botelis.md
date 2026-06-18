@@ -34,7 +34,8 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   global_id: t-116281
   teiginys: 'Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Henriko Botelio pareigas, žūtį, datą ir vietą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Revelis; llm_object: Kuršas; llm_object: Durbė'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]] mirė Kuršas; [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]] mirė Durbė'
   temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1238 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Henriko Botelio pareigas, žūtį, datą ir vietą pagal citatą.'
@@ -74,13 +75,13 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367822-369026; hash=68a59d75051aba50972e7fbe5805543ac0be2878283c2740c0b81c4531a87689; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Botelis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Botelis" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Kuršas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Botelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad kautynės, kuriose žuvo Henrikas Botelis, vyko Kuršo žemėje.
 - susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
@@ -189,10 +190,15 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 367822-369026; hash=68a59d75051aba50972e7fbe5805543ac0be2878283c2740c0b81c4531a87689; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Durbė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Botelis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Botelis" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Kuršas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Botelis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad kautynės, kuriose žuvo Henrikas Botelis, vyko Kuršo žemėje.
+
+## Ryšiai
+- Henrikas Botelis dalyvavo_musyje [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- Henrikas Botelis mire [[objektai/vietos/Kuršas]]
+- Henrikas Botelis mire [[objektai/vietos/Durbė]]

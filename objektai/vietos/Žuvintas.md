@@ -84,6 +84,11 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 - susijęs iš Buktos (Žaliosios) miškas: Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.
 - susijęs iš Buktos (Žaliosios) miškas: Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
 - susijęs iš Vartų kaimas: 1945 m. balandžio 18 d. Buktos pamiškėje ties Vartų kaimu, čekistams susidūrus su partizanais, žuvo penki Rėkaus būrio kovotojai ir būrio vadas.
+- susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
+- susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
+- susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
+- susijęs iš [[objektai/grupes/Juozo Pandeikos būrys.md#claim-t-40904|Juozo Pandeikos būrys]]: Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
+- susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -119,3 +124,10 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   ryšio_subjekto_parinkimas: Žuvintas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=6
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvintas" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Klarko būrys]] gyveno Žuvintas
+- [[objektai/grupes/Kosto Barkausko būrys]] gyveno Žuvintas
+- [[objektai/grupes/Edvardo Lajaus būrys]] gyveno Žuvintas
+- [[objektai/grupes/Juozo Pandeikos būrys]] gyveno Žuvintas
+- [[objektai/grupes/Jurgio Lajaus būrys]] gyveno Žuvintas

@@ -25,7 +25,8 @@ tags:
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] buvo brolis [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +38,8 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis sakinys prasideda kontekstiniu fragmentu ir turi būti perrašytas apie Žygimantą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] buvo sąjungininkas su [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-002
 
@@ -67,13 +69,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 765635-765862; hash=2ee1af0ea6685e90f07f27c389aae1f34eaa93f69271f1d2f5ef0be1c63cdfc1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: buvo_brolis -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas Žygimantą vadina „jo broliu“, o artimiausias leistinas asmens kandidatas kontekste yra Kęstutis, tačiau įvardis nėra visiškai aiškus.
 
 <a id="claim-t-184907"></a>
 - t-005
@@ -83,19 +85,20 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_place: Borisovas; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Borisovas; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: Borisovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] keliavo į Borisovas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 869159-869460; hash=13efe19a7212bc39c6c87edac04d1f3e3be82da27325acc9b983797fe6206db8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bendras pabėgimas kartu su Švitrigaila rodo laikino bendrininkavimo ar sąjungininkų situaciją, nors nėra politinės sąjungos formuluotės.
 
 <a id="claim-t-184908"></a>
 - t-006
@@ -118,8 +121,9 @@ tags:
   ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Saulė: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Saulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
-- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66812|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: 1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.
+- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
+- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185995|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96721|Lietuvos bajorija]]: 1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173117|Aleksandras Balinskis]]: Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
@@ -163,6 +167,8 @@ tags:
 - susijęs iš Vilnius: Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 - susijęs iš [[objektai/zodynas/sambrūzdis.md#claim-t-185411|sambrūzdis]]: Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
+- susijęs iš [[objektai/asmenys/Petrašu Montgirdaitis.md#claim-t-87561|Petrašu Montgirdaitis]]: Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-184657|Aleksandras Jogailaitis]]: Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54941|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82177|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.
@@ -294,6 +300,8 @@ tags:
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176263|vietininkas]]: Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/zodynas/šinkorystė propinacija.md#claim-t-86561|šinkorystė propinacija]]: Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.
+- susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-187745|Smolenskiečiai]]: Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
+- susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-87886|Vladislovas Varnietis]]: Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -397,13 +405,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 765635-765862; hash=2ee1af0ea6685e90f07f27c389aae1f34eaa93f69271f1d2f5ef0be1c63cdfc1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumas: buvo_brolis -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas Žygimantą vadina „jo broliu“, o artimiausias leistinas asmens kandidatas kontekste yra Kęstutis, tačiau įvardis nėra visiškai aiškus.
     - t-005
 
 - c-006
@@ -431,13 +439,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 869159-869460; hash=13efe19a7212bc39c6c87edac04d1f3e3be82da27325acc9b983797fe6206db8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bendras pabėgimas kartu su Švitrigaila rodo laikino bendrininkavimo ar sąjungininkų situaciją, nors nėra politinės sąjungos formuluotės.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1070545-1070982; hash=ecbca30608878a48c4689c245b247769fc53076278d16108f9c0e5b252441c12; match=exact
@@ -451,6 +459,28 @@ tags:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Saulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Žygimantas uzeme [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_sunus Žygimantas
+- Žygimantas uzeme [[objektai/vietos/Trakai]]
+- Žygimantas uzeme [[objektai/vietos/Vilnius]]
+- Žygimantas mire [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] kariavo_pries Žygimantas
+- Žygimantas keliavo_i [[objektai/vietos/Ašmena]]
+- Žygimantas puole [[objektai/vietos/Ašmena]]
 - [[objektai/asmenys/Mykolas]] buvo_sunus Žygimantas
+- Žygimantas buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Žygimantas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas paskyre [[objektai/asmenys/Jurgis Nosuta]]
+- Žygimantas dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- Žygimantas kariavo_pries [[objektai/asmenys/Švitrigaila]]
+- Žygimantas puole [[objektai/asmenys/Švitrigaila]]
+- Žygimantas surenge_zygi_i [[objektai/vietos/Ašmena]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] buvo_sajungininkas_su Žygimantas
+- [[objektai/asmenys/Petrašu Montgirdaitis]] buvo_sajungininkas_su Žygimantas
+- Žygimantas buvo_priesas [[objektai/asmenys/Švitrigaila]]
+- Žygimantas valde_miesta [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Smolenskiečiai]] reme Žygimantas
+- Žygimantas buvo_brolis [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Žygimantas keliavo_i [[objektai/vietos/Borisovas]]
+- [[objektai/asmenys/Vladislovas Varnietis]] reme Žygimantas
+- Žygimantas buvo_sajungininkas_su [[objektai/asmenys/Švitrigaila]]
+- Žygimantas pastate [[objektai/vietos/Pabaiskas]]

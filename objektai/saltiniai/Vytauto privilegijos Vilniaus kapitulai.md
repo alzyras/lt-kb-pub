@@ -75,7 +75,7 @@ amziai:
   global_id: t-88214
   teiginys: '1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktus duomenis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Volkoviskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Volkoviskas; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1411 m.; įvykio data: 1412 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktus duomenis.'
@@ -106,13 +106,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8085697d75d1c24f85df69e6b582ed9f358521611736af78dcc057f06efb12b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto privilegijos Vilniaus kapitulai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto privilegijos Vilniaus kapitulai" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad Vytautas su palyda atvyko į Vilnių; tai tiesiogiai atitinka keliavimo santykį.
 
 ## Reikšmingi paminėjimai
 
@@ -194,13 +194,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8085697d75d1c24f85df69e6b582ed9f358521611736af78dcc057f06efb12b5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto privilegijos Vilniaus kapitulai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto privilegijos Vilniaus kapitulai" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje sakoma, kad Vytautas su palyda atvyko į Vilnių; tai tiesiogiai atitinka keliavimo santykį.
     - t-003
 
 - c-003

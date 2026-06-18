@@ -128,13 +128,13 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3a172bcad227a49a4c8d5b861099f67653a0c0c3dfd32f96ceba530564a62eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varšuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varšuva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Stanislovą Augustą Poniatovskį Lenkijos ir Lietuvos Valstybės valdovu.
 
 <a id="claim-t-170888"></a>
 - t-009
@@ -256,7 +256,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   global_id: t-170895
   teiginys: '1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą; Lietuvoje už juos mokėta po 25 lietuviškus grašius.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti metus ir išlaikyti pinigų keitimo faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Varšuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]] siuntė į Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti metus ir išlaikyti pinigų keitimo faktą.'
@@ -268,7 +269,7 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   global_id: t-170896
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį Varšuvoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį Varšuvoje.'
@@ -366,7 +367,8 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   global_id: t-170909
   teiginys: '1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą.'
   sudarymo_pagrindimas: 'Reikia pridėti citatoje matomą metų kontekstą ir suformuluoti glaudžiau.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Varšuva; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]] siuntė į Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pridėti citatoje matomą metų kontekstą ir suformuluoti glaudžiau.'
@@ -416,6 +418,17 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   temporalinis_llm_pakomentavimas: 'Citata remia datą ir vietą, o perrašymas pašalina dokumentinę formulę bei OCR triukšmą.'
   pagrindžia:
     - c-012
+- susijęs iš [[objektai/zodynas/florinas, zlotas, grašis ir denaras.md#claim-t-86470|florinas, zlotas, grašis ir denaras]]: Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.
+- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
+- susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
+- susijęs iš [[objektai/asmenys/Motiejus Kaviečnijskis.md#claim-t-87796|Motiejus Kaviečnijskis]]: Motiejus Kaviečnijskis birželio 1 d. į Varšuvą atsiuntė talerių, už kuriuos Lietuvoje mokėjo po 25 lietuviškus grašius.
+- susijęs iš Brasta: LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos.
+- susijęs iš Praga: Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.
+- susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
+- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20133|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T. Korsakas.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75776|Augustinas Voldemaras]]: Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82311|Gabrielius Bekešas]]: Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
@@ -526,6 +539,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70095|autonomija autonominis statusas]]: Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.
 - susijęs iš [[objektai/zodynas/delegacinis seimas.md#claim-t-42440|delegacinis seimas (seimas)]]: 1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101587|federacija federacinė valstybė]]: Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
+- susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-183518|Aleksandras I]]: Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75651|Aleksandras I]]: Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75652|Aleksandras I]]: Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi.
@@ -694,6 +710,10 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 - susijęs iš [[objektai/zodynas/florinas, zlotas, grašis ir denaras.md#claim-t-86470|florinas, zlotas, grašis ir denaras]]: Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.
 - susijęs iš [[objektai/zodynas/kantonas kantoninis principas.md#claim-t-104189|kantonas kantoninis principas]]: Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.
 - susijęs iš [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai.md#claim-t-86476|lietuviška moneta ir lenkiški pinigai]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius.
+- susijęs iš [[objektai/asmenys/Juozapas Kosakovskis.md#claim-t-19012|Juozapas Kosakovskis (vyskupas)]]: Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.
+- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20133|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T. Korsakas.
+- susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
+- susijęs iš [[objektai/grupes/Laikinoji Nacionalinė Vyriausybė.md#claim-t-40979|Laikinoji Nacionalinė Vyriausybė]]: Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadinęs Laikinąja Nacionaline Vyriausybe, pakvietė sukilėlius pradėti karinius veiksmus visoje buvusioje Lenkijos karalystėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -867,13 +887,13 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c3a172bcad227a49a4c8d5b861099f67653a0c0c3dfd32f96ceba530564a62eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varšuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varšuva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Stanislovą Augustą Poniatovskį Lenkijos ir Lietuvos Valstybės valdovu.
     - t-019
 
 - c-008
@@ -1241,3 +1261,15 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   ryšio_subjekto_parinkimas: Varšuva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kaunas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varšuva" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Motiejus Kaviečnijskis]] siunte_i Varšuva
+- [[objektai/asmenys/Ignotas Masalskis]] mire Varšuva
+- [[objektai/asmenys/Jokūbas Jasinskis]] mire Varšuva
+- [[objektai/grupes/Lietuvos kariuomenė]] keliavo_i Varšuva
+- [[objektai/vietos/Praga]] priklause Varšuva
+- [[objektai/asmenys/Jokūbas Jasinskis]] gyne Varšuva
+- [[objektai/asmenys/T. Korsakas]] gyne Varšuva
+- [[objektai/asmenys/T. Korsakas]] mire Varšuva
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]] mire Varšuva
+- [[objektai/grupes/Laikinoji Nacionalinė Vyriausybė]] keliavo_i Varšuva

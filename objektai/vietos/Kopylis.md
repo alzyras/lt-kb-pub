@@ -38,6 +38,7 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kopylis" parinktas kaip owner_note_path. Targetas "Petrikovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
 - susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
+- susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +72,6 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   ryšio_subjekto_parinkimas: Kopylis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Petrikovičiai: mention_match, place, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kopylis" parinktas kaip owner_note_path. Targetas "Petrikovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] siunte_i Kopylis

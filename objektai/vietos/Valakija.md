@@ -49,7 +49,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   global_id: t-115143
   teiginys: 'Valakijos vaivada kartu su kryžiuočiais ir Švitrigaila sudarė sąjungą prieš Lenkiją.'
   sudarymo_pagrindimas: 'Sakinys ištaisytas ir išlaiko citatos teigiamą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1431 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys ištaisytas ir išlaiko citatos teigiamą faktą.'
@@ -58,13 +58,15 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428471-428721; hash=d607e260586617032eef8b74b904889f478b16beb403b678c407c98a5886b399; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valakija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valakija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Švitrigaila ir kryžiuočiai kartu sudarė sąjungą.
+- susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
+- susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178868|Kryžiuočių ordinas]]: Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
 - susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
@@ -108,6 +110,8 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
 - susijęs iš Ukraina: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
 - susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
+- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78202|Lenkijos kariuomenė]]: Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.
+- susijęs iš Jasai: 1620 m. Lenkijos kariuomenė mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -150,13 +154,13 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   irodymo_stiprumas: 0.00
   saltinio_vieta: 428471-428721; hash=d607e260586617032eef8b74b904889f478b16beb403b678c407c98a5886b399; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valakija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valakija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Švitrigaila ir kryžiuočiai kartu sudarė sąjungą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=fallback; occurrences=0
@@ -168,3 +172,6 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   ryšio_subjekto_parinkimas: Valakija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=45
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valakija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkijos kariuomenė]] keliavo_i Valakija

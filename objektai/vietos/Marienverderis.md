@@ -51,8 +51,9 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
@@ -73,6 +74,7 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
 - susijęs iš Trakų pilis (pilis): Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.
 - susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
+- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-184103|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-60369|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
@@ -92,6 +94,8 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 - susijęs iš Naujasis Kvidzinas: Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.
 - susijęs iš Trakų pilis (pilis): Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį.
 - susijęs iš [[objektai/zodynas/viešpaties darbas opus domini.md#claim-t-58939|viešpaties darbas opus domini]]: Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.
+- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -135,4 +139,9 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Marienverderis
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Marienverderis
+- [[objektai/asmenys/Hermanas (Ordino magistras)]] pastate Marienverderis
+- [[objektai/asmenys/Sventopelkas]] pastate Marienverderis
+- [[objektai/asmenys/Odoničius]] pastate Marienverderis
+- [[objektai/asmenys/Samboras]] pastate Marienverderis
+- Marienverderis priklause [[objektai/vietos/Pamedė]]

@@ -37,19 +37,19 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f37e8664c2af32d75e5566662427108e7709a5a99bdc4f86ad793b3150e68dd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sapiegos: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švedai: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: konfederacija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "konfederacija" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sapiegos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sapiegų hetmonas gavo švedų kariuomenės dalį, todėl citata tiesiogiai remia karinę sąjungą su švedais.
 
 <a id="claim-t-70189"></a>
 - t-002
   global_id: t-70189
   teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; llm_object: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -171,13 +171,13 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f37e8664c2af32d75e5566662427108e7709a5a99bdc4f86ad793b3150e68dd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sapiegos: 0.85
+  ryšio_patikimumas: buvo_sajungininkas_su -> Švedai: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: konfederacija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "konfederacija" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sapiegos: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sapiegų hetmonas gavo švedų kariuomenės dalį, todėl citata tiesiogiai remia karinę sąjungą su švedais.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 773285-773598; hash=161624793b85f1d7ba6f6c5a7b46db52130793ebaa159ab8104b361d90a8fb86; match=exact

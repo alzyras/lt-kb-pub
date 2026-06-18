@@ -40,19 +40,20 @@ Nenurodyta
   teiginys: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; llm_object: [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]'
+  semantiniai_rysiai: '[[objektai/grupes/Flandrai|Flandrai]] dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58ef7ab2196cca9c886147be0b09cdbcf006276c0f782f6e8fc39a0883ad5949; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Flandrai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Daugybės prancūzų ir flandrų žūtis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugybės prancūzų ir flandrų žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugybės prancūzų ir flandrų žūtis" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Flandrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Daugybės prancūzų ir flandrų žūtis: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo flandrų dalyvavimą mūšyje.
 
 ## Reikšmingi paminėjimai
 
@@ -76,10 +77,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58ef7ab2196cca9c886147be0b09cdbcf006276c0f782f6e8fc39a0883ad5949; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Flandrai: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Daugybės prancūzų ir flandrų žūtis: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Daugybės prancūzų ir flandrų žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugybės prancūzų ir flandrų žūtis" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Flandrai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Daugybės prancūzų ir flandrų žūtis: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo flandrų dalyvavimą mūšyje.
+
+## Ryšiai
+- [[objektai/grupes/Flandrai]] dalyvavo_musyje Daugybės prancūzų ir flandrų žūtis
+- [[objektai/grupes/Prancūzai]] dalyvavo_musyje Daugybės prancūzų ir flandrų žūtis

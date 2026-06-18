@@ -142,7 +142,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Pagraudė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
+  susije_objektai: 'llm_object: Medininkų valsčius; llm_object: Pagraudė; mentioned_place: Medininkai; mentioned_place: Pagraudė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Medininkų valsčius'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
@@ -151,13 +152,13 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medininkų valsčius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkų valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai nurodyti kaip Medininkų valsčiaus niokotojai.
 
 ## Reikšmingi paminėjimai
 
@@ -342,10 +343,13 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medininkų valsčius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkų valsčius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočiai tiesiogiai nurodyti kaip Medininkų valsčiaus niokotojai.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Medininkų valsčius

@@ -24,26 +24,28 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   global_id: t-59973
   teiginys: 'Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos pradžia.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Kunceno|Henrikas iš Kunceno]] mirė Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610805-611199; hash=a7bc30418a7fa441483fa772ec03b7eca6ffa693dbc80e536d022f5e0cbbcbce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Prūsija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas iš Kunceno mirė Prūsijoje.
 
 <a id="claim-t-59974"></a>
 - t-002
   global_id: t-59974
   teiginys: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko įžadus ir apibūdina jo elgesį vienuolyne.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Kunceno|Henrikas iš Kunceno]] keliavo į Prūsija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -68,13 +70,13 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=52461180e20a6f1fff93d8dd73749c80b96fa609f474c5f1c1ba08bcf4d277b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko atvykimą į Prūsiją.
 
 ## Reikšmingi paminėjimai
 
@@ -96,13 +98,13 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610805-611199; hash=a7bc30418a7fa441483fa772ec03b7eca6ffa693dbc80e536d022f5e0cbbcbce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Prūsija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas iš Kunceno mirė Prūsijoje.
     - t-004
 
 - c-002
@@ -121,13 +123,13 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 610805-611199; hash=a7bc30418a7fa441483fa772ec03b7eca6ffa693dbc80e536d022f5e0cbbcbce; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: mire -> Prūsija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas iš Kunceno mirė Prūsijoje.
     - t-003
 
 - c-003
@@ -151,13 +153,13 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=52461180e20a6f1fff93d8dd73749c80b96fa609f474c5f1c1ba08bcf4d277b7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Kunceno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko atvykimą į Prūsiją.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 612401-612802; hash=b48a3ab46d724e269f595443410a398855a3d0c0a9675f8cd8d676d580689dbb; match=exact
@@ -169,3 +171,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   ryšio_subjekto_parinkimas: Henrikas iš Kunceno: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kunceno" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Henrikas iš Kunceno mire [[objektai/vietos/Prūsija]]
+- Henrikas iš Kunceno keliavo_i [[objektai/vietos/Prūsija]]

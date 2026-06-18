@@ -57,7 +57,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   global_id: t-81985
   teiginys: 'A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie Kojelavičiaus veikalo turinį, pašalinus vertinamąją ir puslapio triukšmo dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Mazovija; llm_object: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323-1324; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų teiginį apie Kojelavičiaus veikalo turinį, pašalinus vertinamąją ir puslapio triukšmo dalį.'

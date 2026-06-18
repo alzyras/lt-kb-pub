@@ -44,13 +44,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=fallback; occurrences=0
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Keturiolikos pranciškonų nužudymas Vilniuje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Keturiolikos pranciškonų nužudymas Vilniuje" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė vienuolius, tad ryšys su pranciškonais tiesiogiai palaikomas.
 
 <a id="claim-t-187475"></a>
 - t-002
@@ -98,7 +98,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Religinio konflikto ir priešiško vaizdavimo atvejui palikta atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -170,10 +170,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=fallback; occurrences=0
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumas: puole -> Pranciškonų ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Keturiolikos pranciškonų nužudymas Vilniuje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Keturiolikos pranciškonų nužudymas Vilniuje" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė vienuolius, tad ryšys su pranciškonais tiesiogiai palaikomas.

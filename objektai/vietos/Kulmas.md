@@ -66,7 +66,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90749
   teiginys: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Teiginys apie kronikos skirstymą reikalauja atribucijos ir pašalinto sąrašo triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Prūsija'
+  semantiniai_rysiai: 'Kulmas priklausė Prūsija'
   pagrindžia:
     - c-011
 
@@ -75,7 +76,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90751
   teiginys: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] puolė Kulmas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -100,20 +102,21 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubavas: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lubavas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmas" parinktas kaip owner_note_path. Targetas "Lubavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo žemė įvardijama kaip viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-90753"></a>
 - t-006
   global_id: t-90753
   teiginys: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   sudarymo_pagrindimas: 'Teiginys sutampa su citatos informacija apie 1243 m. įvykius Kulmo žemėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: Kulmas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutampa su citatos informacija apie 1243 m. įvykius Kulmo žemėje.'
@@ -122,13 +125,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6943-7263; hash=fa6144fa0491767cf6cda7e408ac66cd0001f16f93d7e9d488aa1a285bf973f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsai: 0.95
+  ryšio_patikimumas: gyveno -> Kulmas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Lenkai: nearest_actor, group, gap=14
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Lenkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Kulmo ir Lubavo srityse gyventojai buvo mišrūs, tarp jų lenkai.
 
 <a id="claim-t-90754"></a>
 - t-007
@@ -142,13 +145,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e162e3fd2527e47a79dd083ef842ae14b9108e31bb59a80056ec73efac04b526; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai nurodyti kaip Kulmo žemės nusiaubimo dalyviai.
 
 <a id="claim-t-90755"></a>
 - t-008
@@ -212,7 +215,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90759
   teiginys: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie Kulmo sritį; pirminė forma pernelyg ilga.'
-  susije_objektai: 'location: Prūsai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Kulmas; llm_object: Lubavas'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] gyveno Kulmas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -240,15 +244,71 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ea81b009df9a8b6c9d3ddc2e29c13bf0e1792e1e443ff98af095f4563c9bb88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumas: puole -> Kulmas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Čekija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Lokietka" parinktas kaip nearest_actor_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Čekija.md", "selected": false, "strategy": "candidate", "title": "Čekija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lokietka tiesiogiai įvardytas kaip įsibrovęs į Kulmo žemę ir ją siaubęs.
+- susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59829|Skomantas]]: Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90032|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179313|Lietuviai]]: Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas.md#claim-t-62509|Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)]]: Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.
+- susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184827|Skomantas]]: Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.
+- susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
+- susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
+- susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185647|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
+- susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-183965|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66922|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175130|Sūduviai-jotvingiai]]: Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89251|Sūduviai]]: Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90025|Sventopelkas]]: Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90029|Sventopelkas]]: Dusburgietis Sventopelką vaizduoja kaip Prūsijos tikėjimo ir tikinčiųjų persekiotoją.
+- susijęs iš [[objektai/daiktai/Pjūklai.md#claim-t-59701|Pjūklai]]: Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88524|Bartai]]: Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89171|Pagudėnai]]: Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
+- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
+- susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66897|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
+- susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89795|Helmerichas]]: Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175133|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89243|Sūduviai]]: Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.
+- susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
+- susijęs iš Tariamasis Brodnicos komtūro laiškas: Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.
+- susijęs iš Goliubo pilis (pilis): Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių.
+- susijęs iš Goliubo pilis (pilis): Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-184053|Ditrichas iš Bernheimo]]: Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59906|Ditrichas iš Bernheimo]]: Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175188|Herkus Mantas]]: Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175200|Herkus Mantas]]: Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daug žmonių, prisigrobė turto ir sudegino pastatus už įtvirtinimų.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175202|Herkus Mantas]]: Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.
+- susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184127|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59826|Skomantas]]: Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90072|Vladislovas Lokietka]]: Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184520|Lenkai]]: Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179289|Lietuviai]]: Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+- susijęs iš [[objektai/ivykiai/Penkių kaimų apiplėšimas Goliubo pilies apylinkėse.md#claim-t-62428|Penkių kaimų apiplėšimas Goliubo pilies apylinkėse (pilis)]]: Lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies apylinkėse apiplėšė penkis kaimus.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89393|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.
+- susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-183970|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.
+- susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-62937|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
+- susijęs iš Olivos kronika: Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.
+- susijęs iš Vartenbergas: Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.
+- susijęs iš Vysla: Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
@@ -407,6 +467,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš Vysla: 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš Vysla: 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš Vysla: Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.
+- susijęs iš [[objektai/ivykiai/Penkių kaimų apiplėšimas Goliubo pilies apylinkėse.md#claim-t-183953|Penkių kaimų apiplėšimas Goliubo pilies apylinkėse (pilis)]]: Per penkių kaimų apiplėšimą Goliubo pilies apylinkėse lietuvių kariuomenė paėmė į nelaisvę arba nužudė daug krikščionių.
+- susijęs iš [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės.md#claim-t-62521|Vartenbergo apylinkių žmonių žudynės]]: Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.
 - susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-60247|Berlevinas]]: Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
@@ -660,6 +722,24 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
 - susijęs iš [[objektai/zodynas/stalininkas.md#claim-t-58869|stalininkas]]: Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70366|tėvonija tėvų palikimas]]: Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
+- susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
+- susijęs iš Kulmenzė: Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66520|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.
+- susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
+- susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
+- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179285|Lietuviai]]: Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.
+- susijęs iš Lubava: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
+- susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
+- susijęs iš 1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse: 1323 m. dokumente Gediminas kaltintas Dobrynės ir Kulmo žemių niokojimu bei siekiu sugriauti priešininkų žemes.
+- susijęs iš Lubavas: Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66828|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.
+- susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -706,13 +786,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e162e3fd2527e47a79dd083ef842ae14b9108e31bb59a80056ec73efac04b526; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai nurodyti kaip Kulmo žemės nusiaubimo dalyviai.
     - t-005
 
 - c-003
@@ -735,13 +815,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lubavas: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lubavas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmas" parinktas kaip owner_note_path. Targetas "Lubavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo žemė įvardijama kaip viena iš Prūsijos žemės dalių.
     - t-008
 
 - c-004
@@ -917,14 +997,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ea81b009df9a8b6c9d3ddc2e29c13bf0e1792e1e443ff98af095f4563c9bb88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumas: puole -> Kulmas: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vladislovas Lokietka: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Čekija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Lokietka" parinktas kaip nearest_actor_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Čekija.md", "selected": false, "strategy": "candidate", "title": "Čekija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Lokietka: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lokietka tiesiogiai įvardytas kaip įsibrovęs į Kulmo žemę ir ją siaubęs.
     - t-002
 
 - c-011
@@ -982,13 +1061,13 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: 6943-7263; hash=fa6144fa0491767cf6cda7e408ac66cd0001f16f93d7e9d488aa1a285bf973f4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsai: 0.95
+  ryšio_patikimumas: gyveno -> Kulmas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Lenkai: nearest_actor, group, gap=14
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Lenkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Kulmo ir Lubavo srityse gyventojai buvo mišrūs, tarp jų lenkai.
     - t-009
 
 - c-014
@@ -1041,13 +1120,55 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6e5212642bf8dab7ed3a4cdb5a55c6cdd4c9a847d79bb403483bfcb0ea63df9e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai nurodyti kaip Kulmo žemės nusiaubimo dalyviai.
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Kulmas
+- [[objektai/asmenys/Skomantas (lietuvių vadas)]] puole Kulmas
+- [[objektai/asmenys/Skomantas]] puole Kulmas
+- [[objektai/asmenys/Skomantas]] surenge_zygi_i Kulmas
+- [[objektai/asmenys/Sventopelkas]] puole Kulmas
+- [[objektai/asmenys/Treniota]] surenge_zygi_i Kulmas
+- [[objektai/asmenys/Bertoldas iš Nordhauzeno]] gyveno Kulmas
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] pastate Kulmas
+- [[objektai/grupes/Sūduviai]] puole Kulmas
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] puole Kulmas
+- [[objektai/asmenys/Hermanas (Ordino magistras)]] pastate Kulmas
+- Kulmas priklause [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Divanas]] puole Kulmas
+- [[objektai/asmenys/Divanas]] surenge_zygi_i Kulmas
+- Kulmas priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Kulmas
+- [[objektai/asmenys/Linkas]] puole Kulmas
+- [[objektai/asmenys/Linkas]] surenge_zygi_i Kulmas
+- [[objektai/grupes/Sūduviai]] surenge_zygi_i Kulmas
+- [[objektai/grupes/Vengrai]] puole Kulmas
+- [[objektai/asmenys/Vladislovas Lokietka]] puole Kulmas
+- [[objektai/asmenys/Herkus Mantas]] puole Kulmas
+- [[objektai/grupes/Lietuviai]] puole Kulmas
+- [[objektai/grupes/Sūduvos prūsai]] puole Kulmas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Kulmas
+- Kulmas priklause [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Sventopelkas]] surenge_zygi_i Kulmas
+- [[objektai/asmenys/Ditrichas iš Bernheimo]] keliavo_i Kulmas
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Kulmas
+- [[objektai/asmenys/Herkus Mantas]] surenge_zygi_i Kulmas
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Kulmas
+- Kulmas priklause [[objektai/vietos/Mozūrai]]
+- Kulmas priklause [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Rusai]] puole Kulmas
+- [[objektai/vietos/Vartenbergas]] priklause Kulmas
+- [[objektai/asmenys/Vladislovas Lokietka]] surenge_zygi_i Kulmas
+- [[objektai/grupes/Lenkai]] gyveno Kulmas
+- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]] gyne Kulmas
+- [[objektai/asmenys/Šventoji Barbora]] keliavo_i Kulmas
+- [[objektai/asmenys/Hermanas ton Senenbergas]] gyne Kulmas
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Kulmas
+- [[objektai/asmenys/Gediminas]] puole Kulmas
+- [[objektai/asmenys/Sventopelkas]] uzkariavo Kulmas
+- [[objektai/daiktai/Pilys]] priklause Kulmas

@@ -26,7 +26,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   global_id: t-82261
   teiginys: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Plockas'
+  susije_objektai: 'llm_object: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Plockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas|Dovydas]] surengė žygį į Dobrynė; [[objektai/asmenys/Dovydas|Dovydas]] puolė Dobrynė'
   pagrindžia:
     - c-001
 
@@ -38,9 +39,11 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas dviprasmiškas šalutinis sakinys ir OCR triukšmo poveikis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Dovydas|Dovydas]] puolė Mazovija'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
 - susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173129|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173132|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei atsargų.
@@ -137,3 +140,9 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/Erdenas, arba Jerdenas]] buvo_sunus Dovydas
+- Dovydas surenge_zygi_i [[objektai/vietos/Dobrynė]]
+- Dovydas puole [[objektai/vietos/Dobrynė]]
+- Dovydas puole [[objektai/vietos/Mazovija]]

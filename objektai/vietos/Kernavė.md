@@ -35,7 +35,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173444
   teiginys: 'Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą apie vietą prie Kernavės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Papartėnai'
+  susije_objektai: 'llm_object: Papartėnai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Papartėnai'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -54,7 +54,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173445
   teiginys: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Kernavė; llm_object: Maišiagala; mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -107,7 +108,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173453
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Kernavė; llm_object: Maišiagala; mentioned_place: Maišiagala; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] užėmė Kernavė'
   pagrindžia:
     - c-002
 
@@ -140,13 +142,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Ordino maršalo vadovaujamą veiksmą, kuriuo buvo užimta Kernavė.
 
 <a id="claim-t-184982"></a>
 - t-011
@@ -196,16 +198,18 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90048|Traidenis (valdovas, XIII a.)]]: Pirmasis iškilo Kernavės kunigaikštis Traidenis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja kryžiuočių kariuomenę su Kernavės užėmimu.
+- susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
+- susijęs iš Lietuva: Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.
+- susijęs iš Lenkija: Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86739|Vytauto šalininkai]]: Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
@@ -268,6 +272,10 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36803|kunigaikštija]]: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
 - susijęs iš [[objektai/zodynas/plaustai.md#claim-t-86608|plaustai]]: Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.
+- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
+- susijęs iš Maišiagala: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
+- susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184902|Živinbudas]]: Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -487,13 +495,13 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Ordino maršalo vadovaujamą veiksmą, kuriuo buvo užimta Kernavė.
     - t-011
 
 - c-010
@@ -560,15 +568,17 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kernavė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kernavė" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sieja kryžiuočių kariuomenę su Kernavės užėmimu.
 
 ## Ryšiai
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_valdovas Kernavė
 - [[objektai/grupes/Kryžiuočių ordinas]] uzeme Kernavė
+- [[objektai/asmenys/Aleksandras Vygantas]] buvo_valdovas Kernavė
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Kernavė
 - [[objektai/grupes/Vytauto šalininkai]] uzeme Kernavė
+- [[objektai/asmenys/Živinbudas]] valde_miesta Kernavė

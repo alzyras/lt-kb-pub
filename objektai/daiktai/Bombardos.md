@@ -52,26 +52,26 @@ Nenurodyta
 - t-001
   global_id: t-113454
   teiginys: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Hermanas|Hermanas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f5673a1934558947943842f57a506f5c3d1cd59b4becd5388f75e1341b84279c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=24
-  ryšio_targeto_parinkimas: Kaunas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Kaunas" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bombardos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bombardos" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113456"></a>
 - t-002
   global_id: t-113456
   teiginys: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį sakinį su data ir vieta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnį sakinį su data ir vieta.'
@@ -89,19 +89,19 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bombardos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bombardos" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Hermanas pastatė bombardą prieš lietuvius.
 
 <a id="claim-t-113458"></a>
 - t-004
   global_id: t-113458
   teiginys: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
-  susije_objektai: 'object: Kaunas; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'mūšio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) puolė Vytautas (Lietuvos valdovas, XIV–XV a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) puolė Kaunas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -172,13 +172,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f5673a1934558947943842f57a506f5c3d1cd59b4becd5388f75e1341b84279c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=24
-  ryšio_targeto_parinkimas: Kaunas: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Kaunas" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bombardos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bombardos" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -200,11 +200,11 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bombardos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bombardos" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Hermanas pastatė bombardą prieš lietuvius.
     - t-002

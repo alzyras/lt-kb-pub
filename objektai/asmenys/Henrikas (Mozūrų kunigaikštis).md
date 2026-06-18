@@ -32,19 +32,20 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsai; mentioned_place: Rittersverderis; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Prūsai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsai; mentioned_place: Rittersverderis; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; llm_object: Rittersverderis'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Prūsai; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Rittersverderis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c666ae47326f4afb86f81f289469362f8494b3cf1922da97b01ce4d79c2ebf67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Mozūrų kunigaikštis)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsai: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko išvykimą į Prūsus.
 
 ## Reikšmingi paminėjimai
 
@@ -80,11 +81,15 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c666ae47326f4afb86f81f289469362f8494b3cf1922da97b01ce4d79c2ebf67; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Mozūrų kunigaikštis)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsai: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko išvykimą į Prūsus.
     - t-001
+
+## Ryšiai
+- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Prūsai]]
+- Henrikas (Mozūrų kunigaikštis) keliavo_i [[objektai/vietos/Rittersverderis]]

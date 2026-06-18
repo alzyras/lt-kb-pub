@@ -44,20 +44,21 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   irodymo_stiprumas: 0.00
   saltinio_vieta: 815495-815777; hash=fcf78345a618b1d3a9f2859f6e8d374f8db2c01a778d963d6180e30bc001a831; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Podoliją apibūdina kaip esančią Lietuvos valstybės pietuose.
 
 <a id="claim-t-119213"></a>
 - t-002
   global_id: t-119213
   teiginys: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  susije_objektai: 'llm_object: Podolija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Podolija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -97,7 +98,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 - t-004
   global_id: t-119215
   teiginys: 'Lietuvos valstybės pietuose buvo plati Podolija, nusitęsusi link Juodosios jūros srities stepių.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Volga'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Volga'
+  semantiniai_rysiai: 'Podolija priklausė Lietuva'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -122,13 +124,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Podolija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją.
 
 <a id="claim-t-119217"></a>
 - t-006
@@ -188,7 +190,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis; citata leidžia įvardyti valstybę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volga'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volga'
+  semantiniai_rysiai: 'Podolija priklausė Lietuva'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -201,6 +204,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179688|Švitrigaila]]: Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179688|Švitrigaila]]: Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179693|Švitrigaila]]: Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą.
 ## Reikšmingi paminėjimai
@@ -266,13 +270,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   irodymo_stiprumas: 0.00
   saltinio_vieta: 815495-815777; hash=fcf78345a618b1d3a9f2859f6e8d374f8db2c01a778d963d6180e30bc001a831; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Podoliją apibūdina kaip esančią Lietuvos valstybės pietuose.
     - t-002
 
 - c-004
@@ -347,13 +351,13 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Podolija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Podolija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją.
     - t-004
 
 - c-007
@@ -436,3 +440,8 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   ryšio_subjekto_parinkimas: Podolija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Podolija
+- Podolija priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Podolija

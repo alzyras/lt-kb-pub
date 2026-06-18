@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata remia aiškų faktą apie Mingailos veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Gorodecas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Gorodecas; llm_object: [[objektai/grupes/Polockiečiai|Polockiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gorodecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gorodecas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)" parinktas kaip owner_note_path. Targetas "Gorodecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Polockiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mingaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai rodo Mingailos karinį konfliktą su polockiečiais.
 
 ## Reikšmingi paminėjimai
 
@@ -84,10 +84,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gorodecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gorodecas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)" parinktas kaip owner_note_path. Targetas "Gorodecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Polockiečiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mingaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai rodo Mingailos karinį konfliktą su polockiečiais.

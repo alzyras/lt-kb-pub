@@ -60,7 +60,8 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   global_id: t-175432
   teiginys: 'Torunę 1235 m. pastatė kryžiuočiai.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą Torunės pastatymo faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Torunė; llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Torunė'
   temporaliniai_duomenys: 'pastatymo data: 1235 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą Torunės pastatymo faktą.'
@@ -69,13 +70,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Torunė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Torunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Torunę pastatė kryžiuočiai.
 
 <a id="claim-t-175433"></a>
 - t-003
@@ -88,13 +89,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braunsbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paulius iš Olivos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Paulius iš Olivos stojo ginti kryžiuočių.
 
 <a id="claim-t-175435"></a>
 - t-004
@@ -121,7 +122,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   global_id: t-175436
   teiginys: 'Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.'
   sudarymo_pagrindimas: 'Reikėjo tiksliau perteikti citatos priežastinį ryšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Braunsbergas; mentioned_place: Neuenbergas; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Pelplinas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Braunsbergas; mentioned_place: Neuenbergas; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Pelplinas'
   pagrindžia:
     - c-008
 
@@ -319,6 +320,9 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kulmas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
+- susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59998|Pipinas]]: Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59828|Skomantas]]: Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
@@ -356,6 +360,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš Vysla: 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš Vysla: 1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.
 - susijęs iš [[objektai/zodynas/stalininkas.md#claim-t-58869|stalininkas]]: Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63911|Martynas iš Golino]]: Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59834|Ditrichas (Sembos fogtas)]]: Ditrichas Sembos fogtu buvo 1278-1292 m.
 - susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
@@ -437,6 +442,12 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - susijęs iš [[objektai/zodynas/liscis lizkis.md#claim-t-58945|liscis lizkis]]: Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169921|luomas]]: Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
+- susijęs iš [[objektai/ivykiai/Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.).md#claim-t-62939|Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.)]]: Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.
+- susijęs iš [[objektai/ivykiai/Martyno iš Golino laivo užgrobimas Bugo upėje.md#claim-t-62393|Martyno iš Golino laivo užgrobimas Bugo upėje]]: Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę.
+- susijęs iš [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas.md#claim-t-59429|Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]: Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89242|Sūduviai]]: Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.
+- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
+- susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -460,13 +471,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Torunė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Torunė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Torunę pastatė kryžiuočiai.
     - t-007
 
 - c-002
@@ -762,13 +773,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Braunsbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paulius iš Olivos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Paulius iš Olivos stojo ginti kryžiuočių.
     - t-012
 
 - c-014
@@ -808,3 +819,12 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   ryšio_subjekto_parinkimas: Torunė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pilaitė: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Torunė" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Torunė
+- [[objektai/asmenys/Pipinas]] mire Torunė
+- [[objektai/asmenys/Skomantas]] puole Torunė
+- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Torunė
+- [[objektai/vietos/Pilaitė]] priklause Torunė
+- [[objektai/grupes/Sūduviai]] puole Torunė
+- [[objektai/grupes/Teutonai]] pastate Torunė

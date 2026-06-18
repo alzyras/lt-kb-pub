@@ -32,19 +32,20 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
   global_id: t-87498
   teiginys: 'Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Erdeno kilmės nurodymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Erdenas, arba Jerdenas|Erdenas, arba Jerdenas]] buvo sūnus [[objektai/asmenys/Dovydas|Dovydas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Erdenas, arba Jerdenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdenas, arba Jerdenas" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Dovydas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Erdenas, arba Jerdenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Erdenas buvo Dovydo sūnus.
 
 ## Reikšmingi paminėjimai
 
@@ -70,10 +71,13 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Erdenas, arba Jerdenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdenas, arba Jerdenas" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Dovydas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Erdenas, arba Jerdenas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dovydas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Erdenas buvo Dovydo sūnus.
+
+## Ryšiai
+- Erdenas, arba Jerdenas buvo_sunus [[objektai/asmenys/Dovydas]]

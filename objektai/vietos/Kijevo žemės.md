@@ -35,6 +35,7 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   ryšio_subjekto_parinkimas: Kijevo žemės: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo žemės" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
 - susijęs iš [[objektai/autoriai/M. Hruševskis.md#claim-t-30833|M. Hruševskis]]: M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47899|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.
@@ -77,3 +78,6 @@ Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, 
   ryšio_subjekto_parinkimas: Kijevo žemės: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo žemės" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Gediminas]] uzeme Kijevo žemės

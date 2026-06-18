@@ -37,20 +37,21 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f0e62e1a01fbd036252d293d32f55755e36745283f0c5378df9fb16747da12e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštija" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Maskva įvardyta kaip viena galybių, priešingų Vytauto įsigalėjimui.
 
 <a id="claim-t-92728"></a>
 - t-002
   global_id: t-92728
   teiginys: 'Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir susijęs su Maskvos vaidmeniu citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Rusija; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvos kunigaikštija|Maskvos kunigaikštija]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -186,13 +187,13 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1f0e62e1a01fbd036252d293d32f55755e36745283f0c5378df9fb16747da12e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštija" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvos kunigaikštija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Maskva įvardyta kaip viena galybių, priešingų Vytauto įsigalėjimui.
     - t-005
 
 - c-003
@@ -315,3 +316,6 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   ryšio_subjekto_parinkimas: Maskvos kunigaikštija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kunigaikštija" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Maskvos kunigaikštija buvo_priesas [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

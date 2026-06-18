@@ -44,6 +44,7 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72031|Aukščiausioji Santarvininkių Taryba (institucija)]]: 1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72032|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
 - susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41365|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.
+- susijęs iš [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas.md#claim-t-41367|Suvalkų derybos ir demarkacinės linijos nustatymas]]: Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,3 +73,7 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
   ryšio_subjekto_parinkimas: Bastūnai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bastūnai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Bastūnai priklause [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkai]] valde Bastūnai

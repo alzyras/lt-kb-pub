@@ -78,19 +78,20 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos ir Vytauto kariuomenių pasiekimą Dubrovnos laukų. Neperimtas priešiškas vokiečių veiksmų apibūdinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Dubrovna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Dubrovna; [[objektai/asmenys/Vytautas|Vytautas]] keliavo į Dubrovna'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 184450-184920; hash=fe7fd350fb0e19bfbc65308d8cd6bd8bd7712a45b89f8b74b5bff0ad94022a00; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubrovna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubrovna" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dubrovna: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dubrovna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila su kariuomene priėjo Dubrovnos laukus.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186604|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186605|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad vokiečiai prie Dubrovnos buvo prikasę duobių ir pridengę jas velėnomis.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
@@ -100,6 +101,7 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 - susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86890|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.
 - susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): Vyskupo seminarijos įsteigimo iš Vozgėliškėmis vadinamo vyskupų stalo dvaro raštas datuojamas 1582 metais.
 - susijęs iš Vitebskas: 1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.
+- susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54180|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -189,10 +191,15 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   irodymo_stiprumas: 0.00
   saltinio_vieta: 184450-184920; hash=fe7fd350fb0e19bfbc65308d8cd6bd8bd7712a45b89f8b74b5bff0ad94022a00; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dubrovna: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dubrovna" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Dubrovna: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dubrovna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila su kariuomene priėjo Dubrovnos laukus.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Dubrovna
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Dubrovna
+- [[objektai/vietos/Lietuva]] priklause Dubrovna

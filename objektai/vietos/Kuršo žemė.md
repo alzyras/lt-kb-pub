@@ -32,7 +32,8 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
   global_id: t-58763
   teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės dalį, grobdami, degindami ir išsivesdami belaisvius.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Kuršo žemės nuniokojimą; pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kaimas; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Skalva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kuršo žemė; mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kaimas; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Skalva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kuršo žemė'
   temporaliniai_duomenys: 'įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1260 m.; įvykio data: 1261 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Kuršo žemės nuniokojimą; pašalintas OCR triukšmas.'
@@ -41,13 +42,13 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
   irodymo_stiprumas: 0.00
   saltinio_vieta: 364483-365805; hash=d189ffefbaea1ad559bed6e6ddf4834eb60e3d50572166303d33273aa067e140; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršo žemė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršo žemė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti kaip nuniokoję Kuršo žemės dalį, todėl tai karinis puolimas.
 
 ## Reikšmingi paminėjimai
 
@@ -85,10 +86,13 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
   irodymo_stiprumas: 0.00
   saltinio_vieta: 364483-365805; hash=d189ffefbaea1ad559bed6e6ddf4834eb60e3d50572166303d33273aa067e140; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršo žemė" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršo žemė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai įvardyti kaip nuniokoję Kuršo žemės dalį, todėl tai karinis puolimas.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Kuršo žemė

@@ -30,7 +30,8 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   global_id: t-109625
   teiginys: '1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmą kartą išsakė tikslą paskelbti Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas aiškiu Lietuvos pavadinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Vokietija; llm_object: Lozana'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Lozana'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Neaiškus įvardis pakeistas aiškiu Lietuvos pavadinimu.'
@@ -42,7 +43,8 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   global_id: t-109626
   teiginys: '1916 m. birželį Lozanos pavergtųjų tautų kongrese lietuviai pirmąkart išsakė tikslą paskelbti Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Vokietija; llm_object: Lozana'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Lozana'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -108,3 +110,6 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] keliavo_i Lozana

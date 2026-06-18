@@ -29,7 +29,7 @@ amziai:
   global_id: t-179583
   teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas'
   temporaliniai_duomenys: 'įvykio data: 1388-1404; įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'

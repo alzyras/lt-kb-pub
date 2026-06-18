@@ -21,19 +21,20 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   global_id: t-80644
   teiginys: 'Sukilėliams delsiant pulti Vilnių, prie miesto artėjo rusų 1-oji rezervo divizija.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir netiksliai sujungia kelias mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/oji rezervo divizija|oji rezervo divizija]] keliavo į Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 636555-636943; hash=d58198ed13895b3d821f55a1f8db59a9f6dc4877be85dc930a1d8e1eb106c89a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: oji rezervo divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "oji rezervo divizija" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: oji rezervo divizija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad 1-oji rezervo divizija artėjo prie Vilniaus.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 636555-636943; hash=d58198ed13895b3d821f55a1f8db59a9f6dc4877be85dc930a1d8e1eb106c89a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: oji rezervo divizija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "oji rezervo divizija" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: oji rezervo divizija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad 1-oji rezervo divizija artėjo prie Vilniaus.
+
+## Ryšiai
+- oji rezervo divizija keliavo_i [[objektai/vietos/Vilnius]]

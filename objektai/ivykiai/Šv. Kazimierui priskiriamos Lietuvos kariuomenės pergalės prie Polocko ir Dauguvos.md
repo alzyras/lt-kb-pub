@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20576
   teiginys: 'Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia tikėjimą, kuriuo citatoje grindžiamos šv. Kazimierui priskirtos pergalės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šv. Kazimieras|Šv. Kazimieras]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šv. Kazimieras|Šv. Kazimieras]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Maskva; llm_object: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1518 m.; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia tikėjimą, kuriuo citatoje grindžiamos šv. Kazimierui priskirtos pergalės.'
@@ -54,13 +54,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20ed93b9748d21cfe918677add2297605713fe51faa47c7cd4c01345411bd663; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Kazimieras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata perteikia tikėjimą, kad šv. Kazimieras išgelbėjo Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -96,21 +96,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20ed93b9748d21cfe918677add2297605713fe51faa47c7cd4c01345411bd663; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Kazimieras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata perteikia tikėjimą, kad šv. Kazimieras išgelbėjo Lietuvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 100341-100711; hash=2858052e67a17cc24536b5d72af1f167ef6a113b89503980aff284a697bb52c4; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=108
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šv. Kazimieras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata perteikia tikėjimą, kad šv. Kazimieras išgelbėjo Lietuvą.

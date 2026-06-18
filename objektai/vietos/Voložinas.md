@@ -28,13 +28,13 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42f4abe3636f3c1139dc960fac0d36a102fa4a0afafd08c28a2241dd6567759a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voložinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voložinas" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Voložinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voložinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Goštautas pakeliui užsuko pas Voložino kunigaikščius, todėl vieta tiesiogiai susieta su jo kelione.
 
 <a id="claim-t-187388"></a>
 - t-002
@@ -42,7 +42,8 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   teiginys: 'Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jono Goštauto sustojimą pas Voložino kunigaikščius. Citatoje minimos vėlesnės žinios ir kelionė toliau sąmoningai nepridėtos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Voložinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Smolenskas; llm_object: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Voložinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -95,13 +96,13 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42f4abe3636f3c1139dc960fac0d36a102fa4a0afafd08c28a2241dd6567759a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voložinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voložinas" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Voložinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voložinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Goštautas pakeliui užsuko pas Voložino kunigaikščius, todėl vieta tiesiogiai susieta su jo kelione.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42f4abe3636f3c1139dc960fac0d36a102fa4a0afafd08c28a2241dd6567759a; match=fallback; occurrences=0
@@ -117,10 +118,13 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=42f4abe3636f3c1139dc960fac0d36a102fa4a0afafd08c28a2241dd6567759a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voložinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voložinas" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Voložinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voložinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Goštautas užsuko pas Voložino kunigaikščius, todėl teiginys tiesiogiai pagrindžia kelionę į Voložiną.
+
+## Ryšiai
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Voložinas

@@ -33,7 +33,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   global_id: t-110661
   teiginys: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
   sudarymo_pagrindimas: 'Originalus teiginys per ilgas ir vertinamasis; citata palaiko glaustesnį faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva; mentioned_place: Vengrija; mentioned_place: Čekija; mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva; mentioned_place: Vengrija; mentioned_place: Čekija; mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Habsburgai|Habsburgai]] buvo priešas [[objektai/grupes/Jogailaičiai|Jogailaičiai]]'
   temporaliniai_duomenys: 'įvykio data: 1514 m.; įvykio data: 1515 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalus teiginys per ilgas ir vertinamasis; citata palaiko glaustesnį faktinį sakinį.'
@@ -95,6 +96,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   ryšio_subjekto_parinkimas: Jogailaičiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: luomas: mention_match, thing, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailaičiai" parinktas kaip owner_note_path. Targetas "luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
+- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184415|Kazimieras Didysis]]: Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
@@ -224,4 +227,5 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogailaičiai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Jogailaičiai valde_teritorija [[objektai/vietos/Čekija]]
+- [[objektai/asmenys/Motiejus Huniadis]] buvo_priesas Jogailaičiai
+- [[objektai/grupes/Habsburgai]] buvo_priesas Jogailaičiai

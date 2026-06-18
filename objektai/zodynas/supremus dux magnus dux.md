@@ -32,7 +32,7 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
   global_id: t-36840
   teiginys: 'Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aiškinamą Jogailos ir Vytauto titulų santykį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai perteikia citatoje aiškinamą Jogailos ir Vytauto titulų santykį.'
@@ -61,13 +61,13 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 515117-515654; hash=7266df07559c2ab0e2879006f3afbbfc2cd91ff2d4ea0ba9d71661e495cb5568; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> supremus dux: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: supremus dux magnus dux: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: supremus dux: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "supremus dux magnus dux" parinktas kaip owner_note_path. Targetas "supremus dux" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos nuėjimą į Lenkiją.
 
 ## Reikšmingi paminėjimai
 
@@ -117,10 +117,10 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 515117-515654; hash=7266df07559c2ab0e2879006f3afbbfc2cd91ff2d4ea0ba9d71661e495cb5568; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> supremus dux: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: supremus dux magnus dux: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: supremus dux: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "supremus dux magnus dux" parinktas kaip owner_note_path. Targetas "supremus dux" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos nuėjimą į Lenkiją.

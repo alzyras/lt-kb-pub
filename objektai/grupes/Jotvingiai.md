@@ -44,19 +44,20 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ebcc06516125ff56f03779fee32e7d25d23a2b419c635512e5194b802352a74a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Jotvingiai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vokiečių ordinas nukariavo jotvingius.
 
 <a id="claim-t-178768"></a>
 - t-002
   global_id: t-178768
   teiginys: 'II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]] užkariavo [[objektai/grupes/Jotvingiai|Jotvingiai]]'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
@@ -87,7 +88,8 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178770
   teiginys: '1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie jotvingių dalyvavimą žygyje.'
-  susije_objektai: 'mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Liublinas; mentioned_place: Liublinas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie jotvingių dalyvavimą žygyje.'
@@ -140,7 +142,8 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178774
   teiginys: 'XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir atitinka citatoje pateiktą Jotvingijos ribų apibūdinimą.'
-  susije_objektai: 'mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Nemunas; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Nemunas; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia; llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]'
+  semantiniai_rysiai: 'Jotvingija priklausė [[objektai/grupes/Jotvingiai|Jotvingiai]]'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -164,20 +167,21 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 594634-594831; hash=c652da69ff88e87ba4c3f0455a3cffb41d7a850d3069f6d48fe07c7c7e1b4530; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Liublinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lietuviai teriojo Liublino žemes.
 
 <a id="claim-t-178777"></a>
 - t-009
   global_id: t-178777
   teiginys: 'Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, OCR triukšmas ir perteklinė citatos detalė.'
-  susije_objektai: 'mentioned_place: Jotvingija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_place: Jotvingija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija; llm_object: Jotvingija'
+  semantiniai_rysiai: '[[objektai/grupes/Jotvingiai|Jotvingiai]] gyveno Jotvingija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -223,19 +227,20 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178781
   teiginys: '1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Liublinas; mentioned_place: Sandomierius; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; llm_object: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Liublinas; mentioned_place: Sandomierius; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Semba; llm_object: Liublinas; llm_object: Sandomierius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] buvo sąjungininkas su [[objektai/grupes/Jotvingiai|Jotvingiai]]; [[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Liublinas; [[objektai/grupes/Jotvingiai|Jotvingiai]] puolė Sandomierius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88778-89198; hash=2729792b46f641fdbc649b28e7353dda1f91ed4dfcab8fab2757d6b9eaa6a7b3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bebras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bebras: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Bebras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jotvingiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata Jotvingiją tiesiogiai apibūdina kaip jotvingių žemę.
 
 <a id="claim-t-178782"></a>
 - t-013
@@ -254,19 +259,19 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia atribucijos motyvacijai ir kronikos pasakojimo formuluotei.'
-  susije_objektai: 'mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88778-89198; hash=2729792b46f641fdbc649b28e7353dda1f91ed4dfcab8fab2757d6b9eaa6a7b3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bebras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bebras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Bebras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juodoji Rusia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Juodoji Rusia pateko Lietuvos valdžion.
 
 <a id="claim-t-187708"></a>
 - t-015
@@ -304,13 +309,14 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91589-91999; hash=8263ed236c020e511cd341d6a02a7c657d47238245d9094027b77c37f9d369dc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jotvingija: 0.85
+  ryšio_patikimumas: gyveno -> Jotvingija: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jotvingija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Jotvingija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Badmetis nurodomas Lietuvoje ir Jotvingijoje, o po to kalbama apie jotvingius; ryšys su Jotvingija pagrįstas, bet netiesioginis.
+- susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63188|Pamarėnai]]: Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
 - susijęs iš [[objektai/autoriai/Nalepa J.md#claim-t-60516|Nalepa J]]: J. Nalepos vietovardžių tyrimai Mėrūniškių regione rodo, kad jotvingiai centrinėse žemėse išliko dar ilgai po 1283 m.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63188|Pamarėnai]]: Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187774|Poloviečiai]]: Prieš vokiečius rusai ir poloviečiai jodinėjo su strėlėmis, o jotvingiai buvo ginkluoti trumpomis ietimis.
@@ -356,13 +362,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88778-89198; hash=2729792b46f641fdbc649b28e7353dda1f91ed4dfcab8fab2757d6b9eaa6a7b3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bebras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bebras: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Bebras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Jotvingiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata Jotvingiją tiesiogiai apibūdina kaip jotvingių žemę.
     - t-004
 
 - c-002
@@ -562,13 +568,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 594634-594831; hash=c652da69ff88e87ba4c3f0455a3cffb41d7a850d3069f6d48fe07c7c7e1b4530; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Liublinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lietuviai teriojo Liublino žemes.
     - t-001
 
 - c-010
@@ -589,13 +595,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ebcc06516125ff56f03779fee32e7d25d23a2b419c635512e5194b802352a74a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Jotvingiai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vokiečių ordinas nukariavo jotvingius.
     - t-007
 
 - c-011
@@ -671,13 +677,13 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 88778-89198; hash=2729792b46f641fdbc649b28e7353dda1f91ed4dfcab8fab2757d6b9eaa6a7b3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bebras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bebras: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Bebras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Juodoji Rusia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Juodoji Rusia pateko Lietuvos valdžion.
     - t-015
 
 - c-014
@@ -713,10 +719,25 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 91589-91999; hash=8263ed236c020e511cd341d6a02a7c657d47238245d9094027b77c37f9d369dc; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jotvingija: 0.85
+  ryšio_patikimumas: gyveno -> Jotvingija: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jotvingiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jotvingija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jotvingiai" parinktas kaip owner_note_path. Targetas "Jotvingija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jotvingija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Badmetis nurodomas Lietuvoje ir Jotvingijoje, o po to kalbama apie jotvingius; ryšys su Jotvingija pagrįstas, bet netiesioginis.
+
+## Ryšiai
+- [[objektai/grupes/Vokiečių ordinas]] uzkariavo Jotvingiai
+- Jotvingiai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuviai]] buvo_sajungininkas_su Jotvingiai
+- Jotvingiai kariavo_pries [[objektai/grupes/Rusai]]
+- Jotvingiai buvo_sajungininkas_su [[objektai/grupes/Pamarėnai]]
+- Jotvingiai puole [[objektai/vietos/Liublinas]]
+- [[objektai/grupes/Pamarėnai]] buvo_sajungininkas_su Jotvingiai
+- [[objektai/vietos/Jotvingija]] priklause Jotvingiai
+- Jotvingiai priklause [[objektai/grupes/Baltai]]
+- Jotvingiai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Jotvingiai puole [[objektai/vietos/Sandomierius]]
+- Jotvingiai gyveno [[objektai/vietos/Jotvingija]]
+- Jotvingiai gyveno [[objektai/vietos/Suvalkai]]

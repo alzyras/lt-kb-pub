@@ -31,7 +31,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   global_id: t-175392
   teiginys: 'Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatoje minimą veiksmą prie Narevo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva; mentioned_place: Vizna'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva; mentioned_place: Vizna; llm_object: Vizna'
   pagrindžia:
     - c-002
 
@@ -68,13 +68,13 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5f2921530e6fb3345f81c31af93b5df3ba7e19405ec3bf4949bcd759d427aee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narevas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vizna: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių ataką prieš Viznos apylinkes.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59917|Henrikas Cutsvertas]]: Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.
 - susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
 - susijęs iš [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.).md#claim-t-66564|Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]: Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.
@@ -162,10 +162,10 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5f2921530e6fb3345f81c31af93b5df3ba7e19405ec3bf4949bcd759d427aee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narevas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vizna: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių ataką prieš Viznos apylinkes.

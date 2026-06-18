@@ -59,6 +59,7 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūrinė pilis" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kaunas: 1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis.
 - susijęs iš Nemunas: Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.
+- susijęs iš Kaunas: 1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,3 +104,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Mūrinė pilis: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūrinė pilis" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Mūrinė pilis

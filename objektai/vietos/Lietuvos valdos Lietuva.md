@@ -44,7 +44,7 @@ Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir a
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys išplėstas citatos kontekstu, kad būtų enciklopedinis ir aiškus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Vysla; llm_object: Lietuva'
   pagrindžia:
     - c-002
 

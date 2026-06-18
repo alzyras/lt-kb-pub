@@ -24,19 +24,20 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   global_id: t-87882
   teiginys: 'Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.'
   sudarymo_pagrindimas: 'Pašalintas platesnis kontekstas ir OCR triukšmas; paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Anglai|Anglai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas Douglas|Vilhelmas Douglas]] buvo priešas [[objektai/grupes/Anglai|Anglai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 288836-289457; hash=eed984e6341323e92c12c8723db14aa7fdfd4a9d6ec99413eaa0ac5f2d56003b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Anglai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilhelmas Douglas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas Douglas" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilhelmas Douglas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste.
 
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,13 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 288836-289457; hash=eed984e6341323e92c12c8723db14aa7fdfd4a9d6ec99413eaa0ac5f2d56003b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.85
+  ryšio_patikimumas: buvo_priesas -> Anglai: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilhelmas Douglas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas Douglas" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilhelmas Douglas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Anglai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste.
+
+## Ryšiai
+- Vilhelmas Douglas buvo_priesas [[objektai/grupes/Anglai]]

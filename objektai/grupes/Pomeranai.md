@@ -68,20 +68,20 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332941-333613; hash=cc20ff1415701a88f1d32882cac1b93dfa1794696bbd566558077f491609bfb2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pomeranai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pomeranai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Santyras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Sventopelkas priėjo Santyro pilį.
 
 <a id="claim-t-89175"></a>
 - t-004
   global_id: t-89175
   teiginys: 'Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Santyras'
+  susije_objektai: 'llm_object: Santyras; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Santyras'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -107,6 +107,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - susijęs iš Svečė: Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.
 - susijęs iš Višogrudas: Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113626|gurguolė]]: Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -226,10 +228,13 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332941-333613; hash=cc20ff1415701a88f1d32882cac1b93dfa1794696bbd566558077f491609bfb2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pomeranai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pomeranai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Santyras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Sventopelkas priėjo Santyro pilį.
+
+## Ryšiai
+- [[objektai/asmenys/Sventopelkas]] buvo_sajungininkas_su Pomeranai

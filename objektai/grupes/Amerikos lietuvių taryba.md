@@ -53,6 +53,7 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - susijęs iš Jungtinės Amerikos Valstijos: Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK.
 - susijęs iš White Plains: 1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas.md#claim-t-66326|Vyriausiasis Lietuvos išlaisvinimo komitetas]]: Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.
+- susijęs iš [[objektai/grupes/Pasaulio lietuvių bendruomenė.md#claim-t-19960|Pasaulio lietuvių bendruomenė]]: Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,3 +82,6 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   ryšio_subjekto_parinkimas: Amerikos lietuvių taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amerikos lietuvių taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Pasaulio lietuvių bendruomenė]] buvo_sajungininkas_su Amerikos lietuvių taryba (institucija)

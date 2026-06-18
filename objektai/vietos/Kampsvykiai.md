@@ -52,7 +52,8 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   global_id: t-58446
   teiginys: '1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
-  susije_objektai: 'mentioned_place: Vangrapė; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Lietuva; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_place: Vangrapė; llm_object: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Lietuva; mentioned_place: Nadruva'
+  semantiniai_rysiai: 'Kampsvykiai priklausė [[objektai/grupes/Nadruviai|Nadruviai]]'
   temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
@@ -61,13 +62,13 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 480731-481436; hash=60e66dba7ad46f1c01d4c460a3846aa54c5d259085e90f140088e865541ae6f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vangrapė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kampsvykiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vangrapė: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kampsvykiai" parinktas kaip owner_note_path. Targetas "Vangrapė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kampsvykiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina pilį nadruvių pilimi.
 
 <a id="claim-t-58447"></a>
 - t-003
@@ -165,13 +166,13 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 480731-481436; hash=60e66dba7ad46f1c01d4c460a3846aa54c5d259085e90f140088e865541ae6f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vangrapė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kampsvykiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vangrapė: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kampsvykiai" parinktas kaip owner_note_path. Targetas "Vangrapė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Nadruviai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kampsvykiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Nadruviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai vadina pilį nadruvių pilimi.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 482154-482921; hash=4f64f159e365b31c02b323cf45d45bcf29bf74a6c996d50a9e5aa38fc5b484f9; match=exact
@@ -183,3 +184,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   ryšio_subjekto_parinkimas: Kampsvykiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vangrapė: mention_match, place, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kampsvykiai" parinktas kaip owner_note_path. Targetas "Vangrapė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Kampsvykiai priklause [[objektai/grupes/Nadruviai]]

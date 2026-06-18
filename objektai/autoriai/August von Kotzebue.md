@@ -139,7 +139,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   global_id: t-87945
   teiginys: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Kotzebue cituotą laišką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Trakai; mentioned_place: Kistrinas; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Trakai; mentioned_place: Kistrinas; mentioned_place: Vroclavas; llm_object: Kistrinas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Kotzebue cituotą laišką.'
@@ -148,13 +148,13 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432079-432846; hash=5e0ad5a651371c3f26a162dd303e914a48d415ad5a328b346495f51dd454a82e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: siunte_i -> Kistrinas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: August von Kotzebue: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "August von Kotzebue" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kistrinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cituojamame laiško turinyje Švitrigaila nurodo pasiuntęs asmenį, kurį prašoma palydėti į Kistriną.
 - susijęs iš Karaliaučius: Trys Gedimino laiškai buvo saugomi slaptajame Kryžiuočių archyve Karaliaučiuje ir paskelbti Augusto Kotzebue veikale.
 - susijęs iš [[objektai/autoriai/Johannes Voigt Foigtas.md#claim-t-87936|Johannes Voigt Foigtas]]: Foigtas išvertė į lenkų kalbą tris Gedimino laiškus ir pataisė jų lotynišką tekstą.
 - susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje.
@@ -388,10 +388,10 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 432079-432846; hash=5e0ad5a651371c3f26a162dd303e914a48d415ad5a328b346495f51dd454a82e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumas: siunte_i -> Kistrinas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: August von Kotzebue: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "August von Kotzebue" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kistrinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Cituojamame laiško turinyje Švitrigaila nurodo pasiuntęs asmenį, kurį prašoma palydėti į Kistriną.

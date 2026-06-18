@@ -140,7 +140,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   global_id: t-113651
   teiginys: 'Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatos mintį apie Magdeburgo teisių įtvirtinimo kliūtis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: Polockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -177,7 +177,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   global_id: t-113653
   teiginys: 'Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų įvardytas privilegijų davėjas ir pašalintas neaiškus veiksmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/knechtas|knechtas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/knechtas|knechtas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Lietuva'
   pagrindžia:
     - c-005
 

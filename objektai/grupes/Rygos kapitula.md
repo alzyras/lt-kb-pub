@@ -52,19 +52,20 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   global_id: t-86748
   teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko sprendimą dėl Rygos kapitulos; sutrumpinta nutrūkusi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Palenkė; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Palenkė; mentioned_place: Ryga; llm_object: [[objektai/grupes/Rygos kapitula|Rygos kapitula]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Rygos kapitula|Rygos kapitula]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6799cddc832eafd333d0a8a7162e49f7bf97de60716215a338af707ed46dff8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Rygos kapitula: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygos kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos kapitula" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rygos kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sprendime nurodyta, kad ordino riteriai turi nebepuldinėti Rygos Bažnyčios, vyskupų ir kapitulos; objektas čia yra viena iš įvardytų grupių.
 
 ## Reikšmingi paminėjimai
 
@@ -130,10 +131,13 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6799cddc832eafd333d0a8a7162e49f7bf97de60716215a338af707ed46dff8f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Rygos kapitula: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rygos kapitula: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos kapitula" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rygos kapitula: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sprendime nurodyta, kad ordino riteriai turi nebepuldinėti Rygos Bažnyčios, vyskupų ir kapitulos; objektas čia yra viena iš įvardytų grupių.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Rygos kapitula

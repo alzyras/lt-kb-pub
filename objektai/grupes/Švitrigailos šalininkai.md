@@ -43,20 +43,20 @@ tags:
   global_id: t-86779
   teiginys: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
   sudarymo_pagrindimas: 'Teiginys faktinis ir palaikomas, bet reikia pašalinti kontekstinę pradžią bei OCR triukšmą.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; counterparty: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Podolė; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]] kariavo prieš [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]] kariavo prieš [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Podolė; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] kariavo prieš [[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 445151-445550; hash=33fddcbfc7d15453df5f98b672a8ff654859e2e16de7e62221de1d896fbc8793; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švitrigaila: 0.90
+  ryšio_patikimumas: kariavo_pries -> Švitrigailos šalininkai: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Švitrigailos šalininkai: owner_note_path, group, gap=42
-  ryšio_targeto_parinkimas: Švitrigaila: counterparty_iteration, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Švitrigailos šalininkai" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigailos šalininkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Jogaila įvardytas kaip kovojęs su Švitrigailos šalininkais Podolėje.
 
 ## Reikšmingi paminėjimai
 
@@ -117,14 +117,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 445151-445550; hash=33fddcbfc7d15453df5f98b672a8ff654859e2e16de7e62221de1d896fbc8793; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švitrigaila: 0.90
+  ryšio_patikimumas: kariavo_pries -> Švitrigailos šalininkai: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Švitrigailos šalininkai: owner_note_path, group, gap=42
-  ryšio_targeto_parinkimas: Švitrigaila: counterparty_iteration, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Švitrigailos šalininkai" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigailos šalininkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje Jogaila įvardytas kaip kovojęs su Švitrigailos šalininkais Podolėje.
 
 ## Ryšiai
-- Švitrigailos šalininkai kariavo_pries [[objektai/asmenys/Švitrigaila]]
-- Švitrigailos šalininkai kariavo_pries [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Švitrigailos šalininkai

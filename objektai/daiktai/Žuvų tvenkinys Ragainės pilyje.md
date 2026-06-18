@@ -43,19 +43,20 @@ Nenurodyta
   global_id: t-59718
   teiginys: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir suformuluotas aiškus faktas apie tvenkinį.'
-  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; llm_object: Ragainė'
+  semantiniai_rysiai: '[[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje]] priklausė Ragainė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 487718-488423; hash=d7c0d88df47bfb1ddef4943bbf36d8c93cd708c00de271d1a5006b3a62c8f34d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragainė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvų tvenkinys Ragainės pilyje (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvų tvenkinys Ragainės pilyje (pilis)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ragainė: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +81,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 487718-488423; hash=d7c0d88df47bfb1ddef4943bbf36d8c93cd708c00de271d1a5006b3a62c8f34d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragainė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvų tvenkinys Ragainės pilyje (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvų tvenkinys Ragainės pilyje (pilis)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ragainė: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje.
+
+## Ryšiai
+- Žuvų tvenkinys Ragainės pilyje (pilis) priklause [[objektai/vietos/Ragainė]]

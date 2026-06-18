@@ -38,19 +38,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Priešiškas konfliktinis pasakojimas turi likti šaltinio atribucijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41071e413db8f0e94f04801244a6bffcb31b9f4e64b2d3c79a968923e671e61d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai išžudė Prūsijos vokiečių vietininkus.
 
 <a id="claim-t-186612"></a>
 - t-002
@@ -78,7 +78,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas priėmė žemaičius savo globon po jų pasiuntinių prašymo valdyti Žemaičius.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sustiprintas kontekstu, kurį tiesiogiai palaiko citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -104,13 +104,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41071e413db8f0e94f04801244a6bffcb31b9f4e64b2d3c79a968923e671e61d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Žemaičiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Priėmimas globon tiesiogiai reiškia Vytauto apsaugą žemaičiams.
 
 <a id="claim-t-186615"></a>
 - t-005
@@ -226,24 +226,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41071e413db8f0e94f04801244a6bffcb31b9f4e64b2d3c79a968923e671e61d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai išžudė Prūsijos vokiečių vietininkus.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41071e413db8f0e94f04801244a6bffcb31b9f4e64b2d3c79a968923e671e61d; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Žemaičiai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Priėmimas globon tiesiogiai reiškia Vytauto apsaugą žemaičiams.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=77c5cf58a49e21dca54c3892635ca28ad7dec971c40bf6c8339a5c3b09c895d7; match=fallback; occurrences=0

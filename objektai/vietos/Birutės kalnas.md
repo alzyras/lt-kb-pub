@@ -88,3 +88,6 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
   ryšio_subjekto_parinkimas: Birutės kalnas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: mention_match, event, gap=66
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Birutės kalnas" parinktas kaip owner_note_path. Targetas "Algirdo žygiai į Maskvą" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Birutės kalnas priklause [[objektai/vietos/Palanga]]

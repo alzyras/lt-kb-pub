@@ -35,8 +35,8 @@ Jonušas puolė Suražą.
   ryšio_subjekto_parinkimas: Suražas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suražas" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Brasta: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-- susijęs iš [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas.md#claim-t-185708|Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]: Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas.md#claim-t-185708|Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]: Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš Brasta: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
@@ -76,5 +76,5 @@ Jonušas puolė Suražą.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suražas" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] uzeme Suražas
 - [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] uzeme Suražas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] uzeme Suražas

@@ -68,6 +68,8 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.
 - susijęs iš Bernardinų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje.
 - susijęs iš Vyskupų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir Collegio užrašė du mūrinius namus Vyskupų gatvėje.
+- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
+- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,3 +143,6 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
   ryšio_subjekto_parinkimas: Akademijos aikštė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Akademijos observatorijos prietaisai: mention_match, thing, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos aikštė" parinktas kaip owner_note_path. Targetas "Akademijos observatorijos prietaisai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Akademijos visuotinių iškilmių salė]] priklause Akademijos aikštė

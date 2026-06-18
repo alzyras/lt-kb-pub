@@ -33,8 +33,7 @@ periodo_grupes:
   global_id: t-87673
   teiginys: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, palikta citatos remiama faktinė žinia.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas|Fridrichas]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas, palikta citatos remiama faktinė žinia.'
@@ -43,13 +42,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Fridrichas: owner_note_path, person, gap=65
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Elžbieta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Elžbieta: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Elžbieta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184698"></a>
 - t-002
@@ -59,7 +58,8 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Fridricho ryšį su Feletėju ir jo išvijimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Feletėjas|Feletėjas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Feletėjas|Feletėjas]]; mentioned_person: [[objektai/asmenys/Feletėjas|Feletėjas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas|Fridrichas]] buvo sūnus [[objektai/asmenys/Feletėjas|Feletėjas]]'
   temporaliniai_duomenys: 'įvykio data: 487 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Fridricho ryšį su Feletėju ir jo išvijimą.'
@@ -68,18 +68,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Feletėjas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Feletėjas: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Feletėjas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-184064|Fridrichas iš Holdenštetės]]: Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60119|Fridrichas iš Holdenštetės]]: Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.
-- susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
+  ryšio_patikimumas: buvo_sunus -> Feletėjas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Feletėjas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Fridrichas buvo Feletėjo sūnus.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
@@ -196,28 +191,24 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d75f129575f10968391a00c34058067a6d12413880372e7e29ecfd638f57d10d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Fridrichas: owner_note_path, person, gap=65
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
-    - t-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Feletėjas: 0.85
+  ryšio_patikimumas: susije_su -> Elžbieta: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Fridrichas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Feletėjas: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Feletėjas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Elžbieta: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas" parinktas kaip owner_note_path. Targetas "Elžbieta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+    - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Feletėjas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Feletėjas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Fridrichas buvo Feletėjo sūnus.
 
 ## Ryšiai
-- Fridrichas buvo_brolis [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Fridrichas (Marienburgo brolis)]] buvo_brolis Fridrichas
-- [[objektai/asmenys/Fridrichas iš Holdenštetės]] buvo_brolis Fridrichas
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]] buvo_brolis Fridrichas
-- Fridrichas keliavo_i [[objektai/vietos/Vilnius]]
+- Fridrichas buvo_sunus [[objektai/asmenys/Feletėjas]]

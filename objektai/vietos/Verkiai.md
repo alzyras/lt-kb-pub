@@ -32,7 +32,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   global_id: t-119671
   teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia mūšio vietą ir rezultatą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -50,26 +50,27 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   global_id: t-119673
   teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiau nurodyti mūšio šalis ir eigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus katedra: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus katedra: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Vilniaus katedra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus katedra: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Verkių kaimai išvardyti tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.
 
 <a id="claim-t-119674"></a>
 - t-004
   global_id: t-119674
   teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Tauragnai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Tauragnai; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Verkiai priklausė Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
@@ -78,20 +79,21 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b448284f349bc35949e493fde268c4dd24cfc7b9c664d632f52305afcb68301b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkų kariuomenė kartu su lietuviais įvardyta kaip kryžiuočių spaudžiama pusė.
 
 <a id="claim-t-119675"></a>
 - t-005
   global_id: t-119675
   teiginys: 'Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.'
   sudarymo_pagrindimas: 'Citata remia faktą apie Verkių kaimus, o pirminis tekstas sugadintas OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Vilniaus katedra; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai'
+  susije_objektai: 'mentioned_place: Vilniaus katedra; mentioned_place: Vilnius; llm_object: Vilniaus katedra; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai'
+  semantiniai_rysiai: 'Verkiai priklausė Vilniaus katedra'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -115,13 +117,13 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 264789-265412; hash=2257bcebd815d994b9d679a1880f7ecb5540c64266c1f48657e7d4812af22f25; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Skirgaila: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordino maršalo dalinys puolė Skirgailą.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.
 - susijęs iš [[objektai/asmenys/Martynas Knakfusas.md#claim-t-26454|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]: Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.
 - susijęs iš [[objektai/daiktai/Vilniaus Verkių rūmų interjeras.md#claim-t-45547|Vilniaus Verkių rūmų interjeras]]: Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“.
@@ -160,6 +162,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86473|klebonija]]: Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
+- susijęs iš [[objektai/asmenys/Martynas Knakfusas.md#claim-t-26454|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]: Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -205,13 +208,13 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b448284f349bc35949e493fde268c4dd24cfc7b9c664d632f52305afcb68301b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lenkų kariuomenė kartu su lietuviais įvardyta kaip kryžiuočių spaudžiama pusė.
     - t-002
     - t-006
 
@@ -239,13 +242,13 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   irodymo_stiprumas: 0.00
   saltinio_vieta: 264789-265412; hash=2257bcebd815d994b9d679a1880f7ecb5540c64266c1f48657e7d4812af22f25; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Skirgaila: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordino maršalo dalinys puolė Skirgailą.
     - t-005
 
 - c-004
@@ -300,10 +303,15 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus katedra: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Verkiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus katedra: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verkiai" parinktas kaip owner_note_path. Targetas "Vilniaus katedra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vilniaus katedra: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Verkiai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilniaus katedra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Verkių kaimai išvardyti tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.
+
+## Ryšiai
+- Verkiai priklause [[objektai/vietos/Vilniaus katedra]]
+- [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]] pastate Verkiai
+- Verkiai priklause [[objektai/vietos/Vilnius]]

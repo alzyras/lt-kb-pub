@@ -497,3 +497,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ulrikas Hozijus pastate [[objektai/vietos/Vilniaus tiltas per Viliją]]
+- Ulrikas Hozijus pastate [[objektai/vietos/Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)]]
+- Ulrikas Hozijus pastate [[objektai/vietos/Šv. Dvasios prieglauda Vilniuje]]
+- Ulrikas Hozijus pastate [[objektai/vietos/Ulriko Hozijaus tiltas per Viliją]]

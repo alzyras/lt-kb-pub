@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'llm_object: Palestina; llm_object: Sirija; mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_place: Palestina; mentioned_place: Sirija; mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1311 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gruzinai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gruzinai: mention_match, group, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)" parinktas kaip owner_note_path. Targetas "Gruzinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Palestina: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žygio kryptis apima ir Palestiną.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=093fe553dad63cc56ee275a5667bbb953a682b34a07683653d251b2c09cc7b1d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gruzinai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gruzinai: mention_match, group, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)" parinktas kaip owner_note_path. Targetas "Gruzinai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Palestina: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Žygio kryptis apima ir Palestiną.

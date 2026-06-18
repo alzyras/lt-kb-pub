@@ -35,26 +35,27 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - t-001
   global_id: t-69558
   teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.95
+  ryšio_patikimumas: uzeme -> Viazma: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Hlebas: nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Hlebas" parinktas kaip nearest_actor. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas užėmė Viazmą.
 
 <a id="claim-t-69559"></a>
 - t-002
   global_id: t-69559
   teiginys: 'Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Smolenskas; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Viazma; llm_object: Smolenskas; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Viazma'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
@@ -63,32 +64,33 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 877628-877913; hash=2b510183fce5e4dc9eadb2ef30157425d1640283c2b0766dbfb60d27bb405393; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vosyliaus ir Vytauto sudarytas paliaubas.
 
 <a id="claim-t-69560"></a>
 - t-003
   global_id: t-69560
   teiginys: 'Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Smolenskas; mentioned_place: Mstislavlis'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Smolenskas; mentioned_place: Mstislavlis; llm_object: Smolenskas'
+  semantiniai_rysiai: 'Viazma priklausė Smolenskas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178898-179115; hash=ce00abb021ac9e4e544daea23b503dbfd37065fe286b1aaa00bef9efbd6a1e50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumas: priklause -> Smolenskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Viazmą kaip rytinę Smolensko žemių dalį.
 
 <a id="claim-t-184406"></a>
 - t-005
@@ -120,20 +122,20 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir kontekstas pagal citatą.'
-  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Viazma; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] valdė Viazma'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255191-255674; hash=c2ceb1dd2f0ead0c37526cb3b550a27e2d9feb71b400b37a8e8275d3d39816a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: valde -> Viazma: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Ivanas Vasiljevičius: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Smolenskas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Ivanas Vasiljevičius" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Smolenskas.md", "selected": false, "strategy": "candidate", "title": "Smolenskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas Vasiljevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Maskvos didysis kunigaikštis pasiliko Viazmą sau.
 
 <a id="claim-t-187669"></a>
 - t-007
@@ -143,7 +145,8 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Atribuuota spėjamoji pastabos formuluotė „matyt“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Mosalskas; mentioned_place: Rohačevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Mosalskas; mentioned_place: Rohačevas; llm_object: Viazma'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Viazma'
   temporaliniai_duomenys: 'įvykio data: 1493 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Atribuuota spėjamoji pastabos formuluotė „matyt“.'
@@ -152,13 +155,17 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604036-604384; hash=32f60fa48936328c760d6530d3564b5a838012c844547cc6029a4af89b143d67; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chlepenis: 0.83
+  ryšio_patikimumas: uzeme -> Viazma: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Chlepenis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Chlepenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste minimi maskvėnų užimti LDK rytų pasienio miestai, o Viazma priskiriama vėlesniam užėmimui.
+- susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
+- susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
+- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
+- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
 - susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184804|Mykolas Glinskis]]: Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
@@ -175,6 +182,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš Smolenskas: Ivanas Vasiljevičius paleido į Smolenską smolenskiečius, kurie minėtuose miestuose buvo paimti į nelaisvę.
+- susijęs iš Chlepenis: Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -206,13 +214,13 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.95
+  ryšio_patikimumas: uzeme -> Viazma: 0.98
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Hlebas: nearest_actor, person, gap=17
-  ryšio_targeto_parinkimas: Smolenskas: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Hlebas" parinktas kaip nearest_actor. Targetas "Smolenskas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas užėmė Viazmą.
     - t-003
 
 - c-003
@@ -234,13 +242,13 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178898-179115; hash=ce00abb021ac9e4e544daea23b503dbfd37065fe286b1aaa00bef9efbd6a1e50; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumas: priklause -> Smolenskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Viazmą kaip rytinę Smolensko žemių dalį.
     - t-002
 
 - c-004
@@ -258,13 +266,13 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 877628-877913; hash=2b510183fce5e4dc9eadb2ef30157425d1640283c2b0766dbfb60d27bb405393; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vosyliaus ir Vytauto sudarytas paliaubas.
     - t-004
 
 - c-005
@@ -283,13 +291,13 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178860-179088; hash=e07223698d23444b5f2d0a65ab2e33a57c0781211b41f95b360eb76cb9f9cefd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumas: priklause -> Smolenskas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Viazma įvardyta kaip rytinė Smolensko žemių dalis.
     - t-005
 
 - c-006
@@ -338,22 +346,31 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   irodymo_stiprumas: 0.00
   saltinio_vieta: 255191-255674; hash=c2ceb1dd2f0ead0c37526cb3b550a27e2d9feb71b400b37a8e8275d3d39816a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: valde -> Viazma: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Ivanas Vasiljevičius: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Smolenskas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Ivanas Vasiljevičius" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Smolenskas.md", "selected": false, "strategy": "candidate", "title": "Smolenskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ivanas Vasiljevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Maskvos didysis kunigaikštis pasiliko Viazmą sau.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604036-604384; hash=32f60fa48936328c760d6530d3564b5a838012c844547cc6029a4af89b143d67; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chlepenis: 0.83
+  ryšio_patikimumas: uzeme -> Viazma: 0.63
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Chlepenis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Chlepenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste minimi maskvėnų užimti LDK rytų pasienio miestai, o Viazma priskiriama vėlesniam užėmimui.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Viazma
+- [[objektai/asmenys/Ivanas Vasiljevičius]] valde Viazma
+- [[objektai/asmenys/Stanislovas Kiška]] puole Viazma
+- [[objektai/grupes/Maskvėnai]] puole Viazma
+- [[objektai/grupes/Totoriai]] puole Viazma
+- [[objektai/vietos/Chlepenis]] priklause Viazma
+- Viazma priklause [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Maskvėnai]] uzeme Viazma

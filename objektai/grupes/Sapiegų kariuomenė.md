@@ -72,6 +72,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   ryšio_targeto_parinkimas: Bauskė: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sapiegų kariuomenė" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
+- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -148,3 +149,6 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   ryšio_subjekto_parinkimas: Sapiegų kariuomenė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Respublikonai: mention_match, group, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sapiegų kariuomenė" parinktas kaip owner_note_path. Targetas "Respublikonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuvos bajorija]] buvo_priesas Sapiegų kariuomenė

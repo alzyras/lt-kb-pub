@@ -62,19 +62,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta perteklinė motyvacija ir neaiškus įvardis, išlaikant citatos remiamą faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Viena; llm_object: Nemunas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562620-563247; hash=643ded1d5ddea6fa9baecb68628c7ff7ab7e7341852708294ecb2153a51bd0de; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vytautas pasitraukė į Nemuno salas.
 
 ## Reikšmingi paminėjimai
 
@@ -144,10 +144,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 562620-563247; hash=643ded1d5ddea6fa9baecb68628c7ff7ab7e7341852708294ecb2153a51bd0de; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nemunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vytautas pasitraukė į Nemuno salas.

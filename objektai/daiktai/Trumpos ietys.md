@@ -43,19 +43,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas dubliavimas ir palikta aiški, citata paremta formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Jotvingiai: 0.83
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trumpos ietys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jotvingiai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trumpos ietys" parinktas kaip owner_note_path. Targetas "Jotvingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasakojime jotvingiai minimi tame pačiame susirėmime prieš vokiečius, todėl santykis yra karinis.
 
 ## Reikšmingi paminėjimai
 
@@ -77,10 +77,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Jotvingiai: 0.83
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trumpos ietys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jotvingiai: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trumpos ietys" parinktas kaip owner_note_path. Targetas "Jotvingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jotvingiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Pasakojime jotvingiai minimi tame pačiame susirėmime prieš vokiečius, todėl santykis yra karinis.

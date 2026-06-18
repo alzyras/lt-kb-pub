@@ -89,4 +89,4 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dmitrijus" parinktas kaip owner_note_path. Targetas "Riurikaičių dinastija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Dmitrijus buvo_valdovas [[objektai/vietos/Maskva]]
+- Dmitrijus gyveno [[objektai/vietos/Kremlius]]

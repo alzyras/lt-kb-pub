@@ -155,13 +155,13 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518137-518674; hash=a4d87c289168d92636266b4943a498012840d369590471ba393330ae68e1529e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus magistratas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus magistratas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus magistratas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimo kontekste kalbama apie Vilniaus miesto įstatymus, o citata tiesiogiai nurodo magistrato paskirtį valdyti miestą.
 
 <a id="claim-t-172812"></a>
 - t-007
@@ -266,7 +266,8 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172817
   teiginys: '1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Jais“.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]] valdė miestą Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Jais“.'
@@ -376,6 +377,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172112|Jėzuitų ordinas]]: 1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.
 - susijęs iš 1668 m. karaliaus raštas dėl Šv. Jono bažnyčios priklausomybės jėzuitams: 1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė buvo galutinai pripažinta jėzuitams.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
+- susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -887,13 +889,13 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 518137-518674; hash=a4d87c289168d92636266b4943a498012840d369590471ba393330ae68e1529e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus magistratas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus magistratas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus magistratas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimo kontekste kalbama apie Vilniaus miesto įstatymus, o citata tiesiogiai nurodo magistrato paskirtį valdyti miestą.
     - t-003
 
 - c-017
@@ -945,4 +947,5 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus magistratas" parinktas kaip owner_note_path. Targetas "Magdeburgo teisės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Vilniaus magistratas valde_teritorija [[objektai/vietos/Vilnius]]
+- Vilniaus magistratas valde_miesta [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Antspaudai]] priklause Vilniaus magistratas

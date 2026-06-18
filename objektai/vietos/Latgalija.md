@@ -22,19 +22,22 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   global_id: t-32299
   teiginys: 'XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latvija'
+  susije_objektai: 'llm_object: Dauguva; mentioned_place: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latvija; llm_object: Latgalija; llm_object: Vidžemė'
+  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Latgalija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vidžemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latgalija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vidžemė: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latgalija" parinktas kaip owner_note_path. Targetas "Vidžemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo latvių įsikūrimą Dauguvos dešiniajame krante.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
+- susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169589|Latviai]]: Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.
@@ -46,6 +49,8 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 - susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
+- susijęs iš Vidžemė: XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.
+- susijęs iš Aizkrauklė: XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,10 +73,13 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vidžemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latgalija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vidžemė: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latgalija" parinktas kaip owner_note_path. Targetas "Vidžemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo latvių įsikūrimą Dauguvos dešiniajame krante.
+
+## Ryšiai
+- [[objektai/grupes/Latviai]] gyveno Latgalija

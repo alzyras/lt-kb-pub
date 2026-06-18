@@ -30,7 +30,8 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   global_id: t-35173
   teiginys: 'Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jurgis Cemblakas|Jurgis Cemblakas]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] paskyrė [[objektai/asmenys/Jurgis Cemblakas|Jurgis Cemblakas]]'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
@@ -39,13 +40,13 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe782ad781c83bdf86287d1237d7ee99fd1ab21aa97cc9ba51e7ee78d23619e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Cemblakas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Cemblakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jurgis Cemblakas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurgis Cemblakas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas paskelbė Jurgį Cemblaką Kijevo metropolitu, todėl leidžiamas paskyrimo ryšys su asmeniu.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,13 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe782ad781c83bdf86287d1237d7ee99fd1ab21aa97cc9ba51e7ee78d23619e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jurgis Cemblakas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Cemblakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jurgis Cemblakas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurgis Cemblakas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vytautas paskelbė Jurgį Cemblaką Kijevo metropolitu, todėl leidžiamas paskyrimo ryšys su asmeniu.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Jurgis Cemblakas

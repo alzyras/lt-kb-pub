@@ -38,20 +38,21 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c10cfd2994aa6c4dcaf7300d992a59588daa4bda096c122af279ed5382266602; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Štirlandas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Štirlandas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Mindaugas (valdovas, XIII a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Štirlandas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Mindaugas patraukė Andrių Štirlandą į savo pusę, todėl tekstas tiesiogiai rodo sąjunginį ryšį.
 
 <a id="claim-t-18809"></a>
 - t-002
   global_id: t-18809
   teiginys: 'Andrius Štirlandas buvo Livonijos ordino magistras, kurį Mindaugas patraukė į savo pusę pasinaudojęs Livonijos vidaus prieštaravimais.'
   sudarymo_pagrindimas: 'Pradinis sakinys labiau apie Mindaugą, todėl perrašyta apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Štirlandas|Andrius Štirlandas]] buvo sąjungininkas su [[objektai/asmenys/Mindaugas|Mindaugas]]'
   temporaliniai_duomenys: 'įvykio data: 1248 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys labiau apie Mindaugą, todėl perrašyta apie asmenį.'
@@ -149,13 +150,13 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c10cfd2994aa6c4dcaf7300d992a59588daa4bda096c122af279ed5382266602; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Štirlandas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Štirlandas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Mindaugas (valdovas, XIII a.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Štirlandas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Mindaugas patraukė Andrių Štirlandą į savo pusę, todėl tekstas tiesiogiai rodo sąjunginį ryšį.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 48178-48602; hash=8162e6c5c6b9b501147022ef4a98dfa59a4067562bd090695a97a514be9880f8; match=exact
@@ -167,3 +168,6 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
   ryšio_subjekto_parinkimas: Andrius Štirlandas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=53
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Štirlandas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Andrius Štirlandas buvo_sajungininkas_su [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

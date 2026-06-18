@@ -36,20 +36,19 @@ Nenurodyta
   global_id: t-187467
   teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.'
   teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/viečė|viečė]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/viečė|viečė]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 390019-391028; hash=7c92ebb1c98a8f102f6d3ea6aadf704493bf7ee6692d6f4fa99f9217a52ecd60; match=ocr_normalized_gapped
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: sudare_sutarti_su -> Dimitrijus: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Dimitrijus: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Možaiskas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 55, "match_index": 76, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 98, "match_index": 119, "path": "objektai/vietos/Možaiskas.md", "selected": false, "strategy": "candidate", "title": "Možaiskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dimitrijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Algirdo ir Dimitrijaus susitarimą sudaryti taiką.
 
 ## Reikšmingi paminėjimai
 
@@ -91,11 +90,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 390019-391028; hash=7c92ebb1c98a8f102f6d3ea6aadf704493bf7ee6692d6f4fa99f9217a52ecd60; match=ocr_normalized_gapped
   sprendimo_priezastis: gap::events
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumas: sudare_sutarti_su -> Dimitrijus: 0.93
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Dimitrijus: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Možaiskas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 55, "match_index": 76, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 98, "match_index": 119, "path": "objektai/vietos/Možaiskas.md", "selected": false, "strategy": "candidate", "title": "Možaiskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dimitrijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Algirdo ir Dimitrijaus susitarimą sudaryti taiką.

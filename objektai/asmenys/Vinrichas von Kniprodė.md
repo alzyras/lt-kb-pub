@@ -31,7 +31,7 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   global_id: t-117889
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vinricho von Kniprodės pareigas ir datas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Visla; llm_object: Europa'
   temporaliniai_duomenys: 'įvykio data: 1351-1382; įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vinricho von Kniprodės pareigas ir datas.'
@@ -69,13 +69,13 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   irodymo_stiprumas: 0.00
   saltinio_vieta: 43016-43809; hash=8c14990f86dc8f9e13587e6bad15b2558da591127357e2e5a6bda64b20e416b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Europa: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vinrichas von Kniprodė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vinrichas von Kniprodė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordino prekyba tiesiogiai siejama su Vakarų Europos miestais.
 
 ## Reikšmingi paminėjimai
 
@@ -118,13 +118,13 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   irodymo_stiprumas: 0.00
   saltinio_vieta: 43016-43809; hash=8c14990f86dc8f9e13587e6bad15b2558da591127357e2e5a6bda64b20e416b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Europa: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vinrichas von Kniprodė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vinrichas von Kniprodė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vokiečių ordino prekyba tiesiogiai siejama su Vakarų Europos miestais.
     - t-001
 
 - c-003

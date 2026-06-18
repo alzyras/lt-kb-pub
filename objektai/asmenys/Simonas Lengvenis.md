@@ -32,7 +32,8 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - t-001
   global_id: t-82662
   teiginys: 'Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Naugardas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Naugardas; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1348 m.; įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -59,20 +60,21 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Simonas Lengvenis buvo Algirdo sūnus.
 
 <a id="claim-t-82664"></a>
 - t-003
   global_id: t-82664
   teiginys: 'Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.'
   sudarymo_pagrindimas: 'Citata pagrindžia Lengvenio kilmę ir jo valdžios perėmimą po Patriko.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1348 m.; įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Lengvenio kilmę ir jo valdžios perėmimą po Patriko.'
@@ -81,13 +83,13 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Simoną Lengvenį Algirdo sūnumi.
 
 <a id="claim-t-184825"></a>
 - t-005
@@ -97,19 +99,20 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją ir veiksmą, o citata jį pagrindžia.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Mstislavlis; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Rusia; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Mstislavlis; llm_object: Mstislavlis; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Rusia; mentioned_place: Severskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]] keliavo į Mstislavlis'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Mstislavlis: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mstislavlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinio konstrukcija nurodo grįžimo kryptį: Simonas Lengvenis į Mstislavlį.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
@@ -165,13 +168,13 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Simonas Lengvenis buvo Algirdo sūnus.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6ab745a985855bb1510316b5820f4ec2428c11910983d59632932e549bb404de; match=fallback; occurrences=0
@@ -209,13 +212,13 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Simoną Lengvenį Algirdo sūnumi.
     - t-004
 
 - c-004
@@ -255,10 +258,17 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   irodymo_stiprumas: 0.00
   saltinio_vieta: 497571-498156; hash=34b47d9be10477bf4a60034a36224ffbff8ebdfbfbf4f727dd31fd1d1da4df4b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simonas Lengvenis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Mstislavlis: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mstislavlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinio konstrukcija nurodo grįžimo kryptį: Simonas Lengvenis į Mstislavlį.
+
+## Ryšiai
+- Simonas Lengvenis (valdovas, XIV a.) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Simonas Lengvenis (valdovas, XIV a.) puole [[objektai/vietos/Riazanė]]
+- Simonas Lengvenis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Mstislavlis]]
+- Simonas Lengvenis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Simonas Lengvenis (valdovas, XIV a.) uzeme [[objektai/vietos/Riazanė]]

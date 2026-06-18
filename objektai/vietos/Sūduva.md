@@ -33,7 +33,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   global_id: t-175421
   teiginys: 'Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Sūduvos įtraukimą į kronikoje pateiktą Prūsijos žemių sąrašą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Prūsija'
+  semantiniai_rysiai: 'Sūduva priklausė Prūsija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -52,7 +53,7 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   global_id: t-175422
   teiginys: 'Dabartinės Suvalkų apylinkės, įskaitant Vygrių ežeryną, buvo centrinė jotvingių arba sūduvių teritorijos dalis.'
   sudarymo_pagrindimas: 'Citata pagrindžia geografinį teiginį apie sūduvių teritoriją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -77,13 +78,13 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7062d71ccfb1144e9ceb3abd0e0cbf014539d82dfc755ec72c26dcbd6411d88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Niešava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Niešavos kraštą gavo Lenkija.
 
 <a id="claim-t-175425"></a>
 - t-004
@@ -128,19 +129,19 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   global_id: t-175428
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai susijęs su Sūduva.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Niešava; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Niešava; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduva" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduva pateikta kaip viena iš Prūsijos žemės dalių.
 
 <a id="claim-t-175430"></a>
 - t-007
@@ -150,6 +151,16 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lietuva; mentioned_place: Lukas'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175111|Sūduviai-jotvingiai]]: Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175129|Sūduviai-jotvingiai]]: Dusburgietis Sūduva vadina XIII a. sūduvių, arba jotvingių, gyvenamą kraštą.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89239|Sūduviai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89238|Sūduviai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
+- susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-62425|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.
+- susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-62402|Mėrūniškių valsčiaus nusiaubimas]]: Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių.
+- susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-183947|Mėrūniškių valsčiaus nusiaubimas]]: Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175240|Konradas iš Tirbergo Jaunesnysis]]: Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175242|Konradas iš Tirbergo Jaunesnysis]]: Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89916|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių.
@@ -214,6 +225,9 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš Santoko pilis Dobrine: Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.
 - susijęs iš [[objektai/zodynas/grabnyčių diena.md#claim-t-58903|grabnyčių diena]]: Grabnyčių dieną, vasario 2-ąją, magistras Mangoldas įsiveržė į Sūduvos valsčių Kresmeną ir jį nusiaubė.
 - susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175120|Sūduviai-jotvingiai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89241|Sūduviai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
+- susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59459|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89922|Konradas, vardu Divelis]]: Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.
@@ -293,6 +307,15 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47929|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.
 - susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47930|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.
 - susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
+- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62873|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones.
+- susijęs iš Mėrūniškis: Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių.
+- susijęs iš Mėrūniškis: Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių.
+- susijęs iš [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime.md#claim-t-183944|Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]: Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę.
+- susijęs iš [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime.md#claim-t-62394|Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]: Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę.
+- susijęs iš Vaišvilčiai: Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -328,13 +351,13 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d7062d71ccfb1144e9ceb3abd0e0cbf014539d82dfc755ec72c26dcbd6411d88; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduva" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Niešava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Niešavos kraštą gavo Lenkija.
     - t-007
     - t-004
 
@@ -442,10 +465,27 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sūduva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūduva" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduva pateikta kaip viena iš Prūsijos žemės dalių.
+
+## Ryšiai
+- [[objektai/asmenys/Ulrichas Bajeris]] surenge_zygi_i Sūduva
+- Sūduva priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Sūduviai-jotvingiai]] gyveno Sūduva
+- [[objektai/asmenys/Ulrichas Bajeris]] puole Sūduva
+- [[objektai/asmenys/Konradas]] puole Sūduva
+- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]] puole Sūduva
+- Sūduva priklause [[objektai/vietos/Lietuva]]
+- [Mangoldas [iš Šternbergo]](/objektai/asmenys/Mangoldas%20%5Bi%C5%A1%20%C5%A0ternbergo%5D) puole Sūduva
+- [[objektai/asmenys/Martynas iš Golino]] surenge_zygi_i Sūduva
+- [[objektai/asmenys/Martynas iš Golino]] uzeme Sūduva
+- [[objektai/vietos/Mėrūniškis]] priklause Sūduva
+- Sūduva priklause [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Kryžiuočių ordinas]] uzkariavo Sūduva
+- [[objektai/asmenys/Martynas iš Golino]] puole Sūduva
+- [[objektai/grupes/Vokiečiai]] uzeme Sūduva

@@ -41,6 +41,9 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš Toropecas: Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui.
+- susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
+- susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +74,6 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
   ryšio_subjekto_parinkimas: Starica: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pskovas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Starica" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Radvilos]] keliavo_i Starica

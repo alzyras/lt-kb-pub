@@ -31,7 +31,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   global_id: t-79842
   teiginys: '1432 m. Švitrigaila sustiprino ryšius su Mozūrija, Naugardu, Pskovu, Odojevo ir Tverės kunigaikščiais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija apie Mozūriją.'
-  susije_objektai: 'mentioned_place: Odojevas; mentioned_place: Tverė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Skirsnemunė'
+  susije_objektai: 'mentioned_place: Odojevas; mentioned_place: Tverė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Skirsnemunė'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija apie Mozūriją.'
@@ -53,7 +53,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   global_id: t-79843
   teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Mozūrija.'
   sudarymo_pagrindimas: 'Teiginys aiškus, glaustas ir tiksliai sieja Mozūriją su citatoje minimais įvykiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Skirsnemunė; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Odojevas; mentioned_place: Skirsnemunė; mentioned_place: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, glaustas ir tiksliai sieja Mozūriją su citatoje minimais įvykiais.'
@@ -62,13 +62,13 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozūrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozūrija" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ir Ordinas patvirtino anksčiau pasirašytą sutartį.
 
 <a id="claim-t-79845"></a>
 - t-003
@@ -81,15 +81,12 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė kontekstinė dalis ir paliktas tiesiogiai su Mozūrija susijęs faktas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93423|Konradas (Mozūrijos kunigaikštis)]]: 1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
-- susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09532|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.
 - susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09533|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
-- susijęs iš Kulmija: 1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173133|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173134|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173141|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35046|Danuta]]: Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173133|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173134|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
@@ -105,6 +102,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš Drahočynas: Drahočyno apylinkėse buvo minima Mozūrijos siena kaip viena kraštutinių valstybės ribų.
 - susijęs iš Mozūrijos žemė: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
 - susijęs iš Płockas: Gediminas išleido dukterį už Płocko Vankos ir į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją.
+- susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
+- susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173130|Dovydas (Gardino pilininkas)]]: 1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93423|Konradas (Mozūrijos kunigaikštis)]]: 1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.
@@ -122,6 +121,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
 - susijęs iš [[objektai/grupes/Bazelio bažnytinis susirinkimas.md#claim-t-40864|Bazelio bažnytinis susirinkimas]]: Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179025|Kryžiuočių ordinas]]: Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
 - susijęs iš [[objektai/grupes/Liuksemburgiečių dinastija.md#claim-t-35715|Liuksemburgiečių dinastija]]: Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.
@@ -183,13 +183,13 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=66cbce3130441cd058a49ca94c1a0a50a96c42732a8b833e05c6236d89ce1980; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozūrija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozūrija" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila ir Ordinas patvirtino anksčiau pasirašytą sutartį.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c947b11ac17720b444cb532e6bd99598ef6c3d931c2ae7d571e63ffeb7a7781e; match=fallback; occurrences=0
@@ -203,8 +203,7 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozūrija" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] buvo_valdovas Mozūrija
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Mozūrija
 - [[objektai/asmenys/Zemovitas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] buvo_valdovas Mozūrija
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]] puole Mozūrija
+- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]] buvo_valdovas Mozūrija
+- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]] buvo_valdovas Mozūrija

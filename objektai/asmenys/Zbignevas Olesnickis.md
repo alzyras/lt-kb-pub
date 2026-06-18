@@ -25,19 +25,20 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   global_id: t-87889
   teiginys: 'Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.'
   sudarymo_pagrindimas: 'Reikia sklandesnės ir aiškesnės formuluotės be perteklinio įterpinio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sandomiras'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Michalovskis|Mikalojus Michalovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sandomiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]] keliavo į Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignevas Olesnickis (vyskupas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zbignevas Olesnickis atvažiavo į Vilnių.
 
 <a id="claim-t-87890"></a>
 - t-002
@@ -66,19 +67,20 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Olesnickio paskyrimą į pasiuntinybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]] keliavo į Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignevas Olesnickis (vyskupas)" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Olesnickis įvardytas kaip pasiuntinybės narys, išsiųstas į Lietuvą.
 - susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-86759|Lenkijos senatas]]: Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.
 - susijęs iš [[objektai/asmenys/Mikalojus Michalovskis.md#claim-t-87918|Mikalojus Michalovskis]]: Sandomiro vaivada Mikalojus Michalovskis, karaliaus ir Lenkijos senato siųstas į Vilnių, grasino Vytautui karu, jei šis neatsisakys savo sumanymo.
@@ -169,21 +171,25 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   irodymo_stiprumas: 0.00
   saltinio_vieta: 350400-350869; hash=d88f21079a7888883ac158d85db717544ffcfbc99521681b1c6808539e55b825; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignevas Olesnickis (vyskupas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zbignevas Olesnickis atvažiavo į Vilnių.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zbignevas Olesnickis (vyskupas)" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zbignevas Olesnickis (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Olesnickis įvardytas kaip pasiuntinybės narys, išsiųstas į Lietuvą.
+
+## Ryšiai
+- Zbignevas Olesnickis (vyskupas) keliavo_i [[objektai/vietos/Vilnius]]
+- Zbignevas Olesnickis (vyskupas) keliavo_i [[objektai/vietos/Lietuva]]

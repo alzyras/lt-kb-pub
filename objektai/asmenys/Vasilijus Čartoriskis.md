@@ -21,19 +21,20 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
   global_id: t-87879
   teiginys: 'Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Vasilijaus Čartoriskio titulą ir kilmę pagal citatą.'
-  susije_objektai: 'family: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Pinskas; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Karigaila|Karigaila]]; llm_object: Pinskas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Pinskas; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus Čartoriskis|Vasilijus Čartoriskis]] buvo sūnus [[objektai/asmenys/Karigaila|Karigaila]]; [[objektai/asmenys/Vasilijus Čartoriskis|Vasilijus Čartoriskis]] buvo valdovas Pinskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22fa65639683bbf36a4f38683799d0b69ec6612fe806b5ac331b04f6d4c82e11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Karigaila: 0.90
+  ryšio_patikimumas: buvo_sunus -> Karigaila: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Karigaila: nearest_family_person, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Karigaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus Čartoriskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vasilijus Čartoriskis buvo Karigailos sūnus.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,14 @@ Antra: Pinsko kunigaikš­ tis nebuvo joks Narimantas, bet Va­ silijus Čertori
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22fa65639683bbf36a4f38683799d0b69ec6612fe806b5ac331b04f6d4c82e11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Karigaila: 0.90
+  ryšio_patikimumas: buvo_sunus -> Karigaila: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=9
-  ryšio_targeto_parinkimas: Karigaila: nearest_family_person, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Karigaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vasilijus Čartoriskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vasilijus Čartoriskis buvo Karigailos sūnus.
+
+## Ryšiai
+- Vasilijus Čartoriskis buvo_sunus [[objektai/asmenys/Karigaila]]
+- Vasilijus Čartoriskis buvo_valdovas [[objektai/vietos/Pinskas]]

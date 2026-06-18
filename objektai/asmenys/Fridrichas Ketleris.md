@@ -23,21 +23,20 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   global_id: t-40109
   teiginys: 'Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'territory: Kuršas; mentioned_place: Lietuva; mentioned_place: Dauguva; mentioned_place: Kuršas'
+  susije_objektai: 'llm_object: Kuršas; mentioned_place: Lietuva; mentioned_place: Dauguva; mentioned_place: Kuršas'
   semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Ketleris|Fridrichas Ketleris]] buvo valdovas Kuršas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e84c51e0afb687dd0a3c1babde19a6a1d91d567c0bea8ef5190088b61f4cf0c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Kuršas: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Kuršas: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Fridrichas Ketleris: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Kuršas: exact_title_context, place, gap=6
-  ryšio_slopinti_kandidatai: Dauguva: candidate; Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Fridrichas Ketleris" parinktas kaip owner_after_title. Targetas "Kuršas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 28, "match_index": 12, "path": "objektai/vietos/Dauguva.md", "selected": false, "strategy": "candidate", "title": "Dauguva", "type": "place"}, {"distance_to_predicate": 62, "match_index": 102, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Ketleris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai vadina Fridrichą Ketlerį Kuršo kunigaikščiu.
 
 <a id="claim-t-40110"></a>
 - t-002
@@ -100,14 +99,13 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4e84c51e0afb687dd0a3c1babde19a6a1d91d567c0bea8ef5190088b61f4cf0c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Kuršas: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Kuršas: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Fridrichas Ketleris: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Kuršas: exact_title_context, place, gap=6
-  ryšio_slopinti_kandidatai: Dauguva: candidate; Lietuva: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Fridrichas Ketleris" parinktas kaip owner_after_title. Targetas "Kuršas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 28, "match_index": 12, "path": "objektai/vietos/Dauguva.md", "selected": false, "strategy": "candidate", "title": "Dauguva", "type": "place"}, {"distance_to_predicate": 62, "match_index": 102, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Fridrichas Ketleris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai vadina Fridrichą Ketlerį Kuršo kunigaikščiu.
 
 ## Ryšiai
 - Fridrichas Ketleris buvo_valdovas [[objektai/vietos/Kuršas]]

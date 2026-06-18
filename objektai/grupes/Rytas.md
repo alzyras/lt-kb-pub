@@ -66,7 +66,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   ryšio_targeto_parinkimas: Lietuvių Dailės Draugija: mention_match, group, gap=69
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Lietuvių Dailės Draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23312|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 17 d. ankstų rytą karininkai išvedė kareivius į miestą ir pastatė sargybas prie svarbiausių valstybinių įstaigų.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23316|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Pabūgę staigaus šalies politinio vektoriaus kryptelėjimo į kairę, aktyviausi karininkai 1926 m. gruodžio 17 d. ankstų rytą išvedė kareivius į miestą, pastatė sargybas prie svarbiausių valstybinių įstaigų.
@@ -217,8 +216,3 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuvių Dailės Draugija: mention_match, group, gap=69
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Lietuvių Dailės Draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- Rytas dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- Rytas dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
-- [[objektai/asmenys/Gediminas]] kariavo_pries Rytas

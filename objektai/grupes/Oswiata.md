@@ -78,3 +78,6 @@ amziai:
   ryšio_subjekto_parinkimas: Oswiata: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=10
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oswiata" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Oswiata reme [[objektai/grupes/Lenkai]]

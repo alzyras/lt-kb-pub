@@ -62,7 +62,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   global_id: t-171929
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, nors glaustesnis už citatą, ir jos palaikomas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Pabaiskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] pastatė Pabaiskas'
   pagrindžia:
     - c-001
 
@@ -80,19 +81,20 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   global_id: t-171933
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje aprašytus Žygimanto veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva; llm_object: Pabaiskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] pastatė Pabaiskas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaiskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaiskas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Leidžiamuose kandidatuose nėra bažnyčios objekto; Pabaiskas yra vieta, kurioje Žygimantas pastatė bažnyčią.
 
 <a id="claim-t-187629"></a>
 - t-007
@@ -123,6 +125,9 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182793|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.
 - susijęs iš Kščeniškiai: Pabaiskas buvo už pusės mylios nuo Kščeniškių ir per 2 varstus į kairę nuo Vilniaus–Ukmergės pašto trakto.
 - susijęs iš Ukmergė: Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai.
+- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66815|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114107|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.
+- susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114108|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -145,13 +150,13 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumas: pastate -> Pabaiskas: 0.55
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaiskas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaiskas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pabaiskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Leidžiamuose kandidatuose nėra bažnyčios objekto; Pabaiskas yra vieta, kurioje Žygimantas pastatė bažnyčią.
     - t-004
 
 - c-002
@@ -253,3 +258,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   ryšio_subjekto_parinkimas: Pabaiskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=88
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaiskas" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]] pastate Pabaiskas
+- [[objektai/asmenys/Žygimantas]] pastate Pabaiskas

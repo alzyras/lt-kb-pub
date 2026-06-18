@@ -123,3 +123,6 @@ tags:
   ryšio_subjekto_parinkimas: Mendli Girėjus: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mendli Girėjus" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Mendli Girėjus buvo_priesas [[objektai/asmenys/Aleksandras]]

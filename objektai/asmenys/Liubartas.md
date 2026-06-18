@@ -62,8 +62,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - t-004
   global_id: t-12193
   teiginys: '1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] buvo sūnus [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -121,8 +120,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   global_id: t-93463
   teiginys: '1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.'
   sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir OCR triukšmas; citata palaiko varžymąsi.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] buvo sūnus [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas fragmentiškumas ir OCR triukšmas; citata palaiko varžymąsi.'
@@ -165,13 +163,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.87
+  ryšio_patikimumas: susije_su -> Kazimieras Didysis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazimieras Didysis: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Kazimieras Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184775"></a>
 - t-011
@@ -181,8 +179,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Liubarto valdytą vietą ir remiasi citata.'
-  susije_objektai: 'territory: Lvovas; family: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] valdė teritoriją Lvovas; [[objektai/asmenys/Liubartas|Liubartas]] buvo brolis [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -210,13 +207,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.87
+  ryšio_patikimumas: susije_su -> Kazimieras Didysis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazimieras Didysis: mention_match, person, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Kazimieras Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184777"></a>
 - t-013
@@ -261,7 +258,12 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Druckas: mention_match, place, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
+- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
+- susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
+- susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
+- susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
 - susijęs iš [[objektai/asmenys/Bogdanas iš Ivanicos.md#claim-t-186185|Bogdanas iš Ivanicos]]: Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184766|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
@@ -508,13 +510,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.87
+  ryšio_patikimumas: susije_su -> Kazimieras Didysis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazimieras Didysis: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Kazimieras Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-010
@@ -586,13 +588,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=12670d85de6037a9ba084790e8544dd5e07c8082d8d66a20c879216da54e095d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.87
+  ryšio_patikimumas: susije_su -> Kazimieras Didysis: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=6
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazimieras Didysis: mention_match, person, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Kazimieras Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-012
@@ -652,7 +654,12 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubartas" parinktas kaip owner_note_path. Targetas "Druckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Liubartas valde_teritorija [[objektai/vietos/Lvovas]]
-- Liubartas buvo_brolis [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]] buvo_sunus Liubartas
+- Liubartas valde_miesta [[objektai/vietos/Karačevas]]
+- [[objektai/asmenys/Skirmantas]] buvo_sunus Liubartas
+- Liubartas gyne [[objektai/vietos/Volinija]]
+- [[objektai/asmenys/Pisimantas]] buvo_brolis Liubartas
 - Liubartas buvo_sunus [[objektai/asmenys/Gediminas]]
+- Liubartas puole [[objektai/grupes/Lenkai]]
+- Liubartas keliavo_i [[objektai/vietos/Trakai]]
+- Liubartas valde [[objektai/vietos/Volinija]]

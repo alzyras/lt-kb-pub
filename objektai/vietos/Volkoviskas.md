@@ -65,6 +65,7 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   ryšio_targeto_parinkimas: Slanimas: mention_match, place, gap=21
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volkoviskas" parinktas kaip owner_note_path. Targetas "Slanimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176745|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176745|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.
 - susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
@@ -122,3 +123,6 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   ryšio_subjekto_parinkimas: Volkoviskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volkoviskas" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Volkoviskas

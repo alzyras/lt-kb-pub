@@ -20,19 +20,20 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - t-001
   global_id: t-35047
   teiginys: 'Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Krymas; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; llm_object: Krymas'
+  semantiniai_rysiai: '[[objektai/asmenys/Devletberdi|Devletberdi]] valdė Krymas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d91ae5db9d347f3c308a7a8f618e7c7bcd3136cf2b5c8c23da81cf850354bcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Devletberdi: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devletberdi" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Krymas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Devletberdi: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Devletberdi įsigalėjo Kryme, todėl ryšys su valdymu pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -54,10 +55,13 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d91ae5db9d347f3c308a7a8f618e7c7bcd3136cf2b5c8c23da81cf850354bcc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krymas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Devletberdi: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devletberdi" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Krymas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Devletberdi: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Devletberdi įsigalėjo Kryme, todėl ryšys su valdymu pagrįstas.
+
+## Ryšiai
+- Devletberdi valde [[objektai/vietos/Krymas]]

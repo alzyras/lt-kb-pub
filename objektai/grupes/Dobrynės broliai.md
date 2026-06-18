@@ -74,7 +74,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-65110
   teiginys: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] sudarė sutartį su [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]'
   temporaliniai_duomenys: 'įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m.; įvykio data: 1248 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru.'
@@ -83,32 +84,33 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7e53b2c5d36181173b86e2a69e9b59dcc19ff7b73fd1c5c80611494b0815a4cd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės broliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės broliai" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad broliai tuo metu buvo įsikūrę Livonijoje.
 
 <a id="claim-t-65111"></a>
 - t-004
   global_id: t-65111
   teiginys: 'Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir išnašos triukšmas, sakinys paverstas užbaigtu faktu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Livonija; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Dobrynės broliai|Dobrynės broliai]] gyveno Livonija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136821-139066; hash=3591ca5e8f3d7997839dee862b76f1d7611ba408821d879930841a00ec0c75b1; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Dobrynės broliai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės broliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės broliai" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje kunigaikštis, kontekste siejamas su Konradu, ir broliai aiškiai susitaria dėl žemės pasidalijimo.
 
 <a id="claim-t-65112"></a>
 - t-005
@@ -154,6 +156,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 - susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60035|Julijus Cezaris (vyskupas)]]: Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.
 - susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
+- susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
 - susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
 ## Reikšmingi paminėjimai
 
@@ -293,24 +296,24 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   irodymo_stiprumas: 0.00
   saltinio_vieta: 136821-139066; hash=3591ca5e8f3d7997839dee862b76f1d7611ba408821d879930841a00ec0c75b1; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Dobrynės broliai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės broliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės broliai" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje kunigaikštis, kontekste siejamas su Konradu, ir broliai aiškiai susitaria dėl žemės pasidalijimo.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7e53b2c5d36181173b86e2a69e9b59dcc19ff7b73fd1c5c80611494b0815a4cd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobrynės broliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės broliai" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Livonija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad broliai tuo metu buvo įsikūrę Livonijoje.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2390dccf941d1c363ead102de24f6722cacae46606e5cb48e3b00566a5f8c24f; match=fallback; occurrences=0
@@ -322,3 +325,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   ryšio_subjekto_parinkimas: Dobrynės broliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės broliai" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Dobrynės broliai gyveno [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Sedlcai]] priklause Dobrynės broliai
+- [[objektai/asmenys/Konradas]] sudare_sutarti_su Dobrynės broliai

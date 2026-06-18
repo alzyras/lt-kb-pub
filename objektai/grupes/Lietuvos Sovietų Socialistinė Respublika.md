@@ -36,7 +36,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
   global_id: t-74783
   teiginys: '1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.'
   sudarymo_pagrindimas: 'Reikia išskleisti datą ir paversti fragmentą taisyklingu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išskleisti datą ir paversti fragmentą taisyklingu sakiniu.'

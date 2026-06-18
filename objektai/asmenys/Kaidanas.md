@@ -39,6 +39,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185565|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185566|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.
 - susijęs iš Dnepras: Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.
+- susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185566|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,3 +68,7 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   ryšio_subjekto_parinkimas: Kaidanas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Pripetė: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanas" parinktas kaip owner_note_path. Targetas "Pripetė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Kaidanas keliavo_i [[objektai/vietos/Dnepras]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Kaidanas

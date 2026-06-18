@@ -32,7 +32,8 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   global_id: t-71296
   teiginys: 'Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   sudarymo_pagrindimas: 'Citata pateikia pilną Algirdo Brazausko pareigų pavadinimą, todėl teiginys patikslintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis]]; mentioned_place: Vilnius; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis]]; mentioned_place: Vilnius; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Paulius II|Jonas Paulius II]] keliavo į Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia pilną Algirdo Brazausko pareigų pavadinimą, todėl teiginys patikslintas.'
@@ -41,20 +42,21 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ffdbcb742a22c1162aa141a66b354405113197c1a298f9237cfe113f3195f0f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Paulius II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Paulius II" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kryžių kalnas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Paulius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžių kalnas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aplankymas tiesiogiai reiškia kelionę į Kryžių kalną.
 
 <a id="claim-t-71297"></a>
 - t-002
   global_id: t-71297
   teiginys: 'Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  susije_objektai: 'llm_object: Kryžių kalnas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Paulius II|Jonas Paulius II]] keliavo į Kryžių kalnas'
   temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
@@ -63,13 +65,13 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef8650e99931b4d20c092dcef2a457e765f25746403ef76cf46706ea02580952; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Paulius II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Paulius II" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Paulius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vizitas į Lietuvą tiesiogiai rodo kelionę į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -114,32 +116,36 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef8650e99931b4d20c092dcef2a457e765f25746403ef76cf46706ea02580952; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Paulius II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Paulius II" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Paulius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vizitas į Lietuvą tiesiogiai rodo kelionę į Lietuvą.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9ffdbcb742a22c1162aa141a66b354405113197c1a298f9237cfe113f3195f0f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Paulius II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Paulius II" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kryžių kalnas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Paulius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžių kalnas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Aplankymas tiesiogiai reiškia kelionę į Kryžių kalną.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ef8650e99931b4d20c092dcef2a457e765f25746403ef76cf46706ea02580952; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Paulius II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Paulius II" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Paulius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vizitas į Lietuvą tiesiogiai rodo kelionę į Lietuvą.
+
+## Ryšiai
+- Jonas Paulius II keliavo_i [[objektai/vietos/Kryžių kalnas]]
+- Jonas Paulius II keliavo_i [[objektai/vietos/Lietuva]]

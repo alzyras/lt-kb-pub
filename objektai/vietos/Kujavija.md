@@ -36,7 +36,8 @@ amziai:
   global_id: t-90737
   teiginys: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą.'
-  susije_objektai: 'mentioned_place: Lenčica; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Krokuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kujavija; llm_object: Lenčica; llm_object: Krokuva; mentioned_place: Lenčica; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Krokuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo valdovas Kujavija'
   temporaliniai_duomenys: 'valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą.'
@@ -45,20 +46,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=024bc80d3e2b40de524a410d24359ebb5ecc25abad4d8a973719d9ad0014932d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuteriojimas tiesiogiai palaiko lietuvių puolimo prieš Kujaviją ryšį.
 
 <a id="claim-t-90738"></a>
 - t-002
   global_id: t-90738
   teiginys: '1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'llm_object: Kujavija; llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kujavija'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatos informaciją.'
@@ -67,52 +69,52 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ce4db425bfcf5a7cd227c61810d5526f4d17fbee490a864d332a52fbc402a1b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad lietuviai patyrė kryžiuočių smūgį, todėl palaikomas puolimo ryšys.
 
 <a id="claim-t-90739"></a>
 - t-003
   global_id: t-90739
   teiginys: 'Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata pagrindžia pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: Kujavija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kujavija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe8df43b5b36c4367d6d76e50f4e7d7e04b8e1a73803c450adb15ef3ea39580d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Dobrynė: candidate; Lenkija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip nearest_actor_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dobrynė.md", "selected": false, "strategy": "candidate", "title": "Dobrynė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Zigmantą Liuksemburgietį Vengrijos karaliumi.
 
 <a id="claim-t-90740"></a>
 - t-004
   global_id: t-90740
   teiginys: 'Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.'
   sudarymo_pagrindimas: 'Reikia pašalinti neįvardytą veikėją, nes citatos fragmentas nepateikia kunigaikščio vardo.'
-  susije_objektai: 'mentioned_place: Sedlcai; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_place: Dobrynė'
+  susije_objektai: 'mentioned_place: Sedlcai; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_place: Dobrynė; llm_object: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kujavija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją.
 
 <a id="claim-t-90741"></a>
 - t-005
@@ -124,39 +126,40 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129108-129394; hash=314efbfdfd6f62358e433f935fdd89ba23407607dedd9ed1c5fb8045e5b5bbaf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Kujavija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikščio titulas tiesiogiai sieja Konradą su Kujavija kaip valdovu.
 
 <a id="claim-t-90742"></a>
 - t-006
   global_id: t-90742
   teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina Kujavijos valdymą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Kujavija; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] valdė Kujavija'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f966a5c8f6f09344ac8441923dd5da01650a6cca644d15bad89f788d43d91767; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sedlcai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sedlcai: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sedlcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Dobrynės broliai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Dobrynės broliai gavo dvarą, vadintą Sedlcais.
 
 <a id="claim-t-90743"></a>
 - t-007
   global_id: t-90743
   teiginys: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dobryniaus; mentioned_place: Liublinas; mentioned_place: Sandomierius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dobryniaus; mentioned_place: Liublinas; mentioned_place: Sandomierius; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -165,20 +168,21 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įsibrovimas ir plėšimas tiesiogiai palaiko Sventopelko puolimą prieš Kujaviją.
 
 <a id="claim-t-90744"></a>
 - t-008
   global_id: t-90744
   teiginys: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, ištaisytas OCR triukšmas ir paliktas citata pagrįstas faktas.'
-  susije_objektai: 'territory: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija; llm_object: Kujavija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]] valdė Kujavija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -190,19 +194,20 @@ amziai:
   global_id: t-90745
   teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę.'
   sudarymo_pagrindimas: 'Citata leidžia išplėsti įvardį į Sventopelką ir pašalinti perteklinę atribuciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'llm_object: Kujavija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kujavija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 327734-328409; hash=ae166cc021fdb98880fa326409cb81e884cc2f825ebcc89d336175ce71c6cb53; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Sventopelko įsiveržimą į Kujaviją.
 
 <a id="claim-t-184169"></a>
 - t-010
@@ -212,20 +217,28 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Dubliuojamas fragmentiškas teiginys, kurį citata pagrindžia kaip pilną faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Kujavija; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] valdė Kujavija'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
+  ryšio_patikimumas: valde -> Kujavija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją.
+- susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
+- susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
+- susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63809|Kazimieras (Kujavijos kunigaikštis)]]: Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.
+- susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62928|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.
+- susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
+- susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant.md#claim-t-185837|Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]: Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 - susijęs iš [[objektai/asmenys/Jonas Kropidlas.md#claim-t-186114|Jonas Kropidlas (vyskupas)]]: Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir pareiškė, kad santuoka bus teisėta.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63809|Kazimieras (Kujavijos kunigaikštis)]]: Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -281,6 +294,7 @@ amziai:
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
 - susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
 - susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
+- susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -338,13 +352,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įsibrovimas ir plėšimas tiesiogiai palaiko Sventopelko puolimą prieš Kujaviją.
     - t-009
 
 - c-004
@@ -371,25 +385,24 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 327734-328409; hash=ae166cc021fdb98880fa326409cb81e884cc2f825ebcc89d336175ce71c6cb53; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Sventopelko įsiveržimą į Kujaviją.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe8df43b5b36c4367d6d76e50f4e7d7e04b8e1a73803c450adb15ef3ea39580d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: nearest_actor_after_title, person, gap=9
-  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
-  ryšio_slopinti_kandidatai: Dobrynė: candidate; Lenkija: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Zigmantas Liuksemburgietis" parinktas kaip nearest_actor_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dobrynė.md", "selected": false, "strategy": "candidate", "title": "Dobrynė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Zigmantas Liuksemburgietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Zigmantą Liuksemburgietį Vengrijos karaliumi.
     - t-005
 
 - c-005
@@ -409,13 +422,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129108-129394; hash=314efbfdfd6f62358e433f935fdd89ba23407607dedd9ed1c5fb8045e5b5bbaf; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Kujavija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kunigaikščio titulas tiesiogiai sieja Konradą su Kujavija kaip valdovu.
     - t-002
 
 - c-006
@@ -434,13 +447,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0ce4db425bfcf5a7cd227c61810d5526f4d17fbee490a864d332a52fbc402a1b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Lietuviai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad lietuviai patyrė kryžiuočių smūgį, todėl palaikomas puolimo ryšys.
     - t-001
 
 - c-007
@@ -460,13 +473,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=024bc80d3e2b40de524a410d24359ebb5ecc25abad4d8a973719d9ad0014932d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kujavija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Nuteriojimas tiesiogiai palaiko lietuvių puolimo prieš Kujaviją ryšį.
     - t-004
 
 - c-008
@@ -495,35 +508,45 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kujavija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją.
     - t-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kujavija: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f966a5c8f6f09344ac8441923dd5da01650a6cca644d15bad89f788d43d91767; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sedlcai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kujavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sedlcai: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kujavija" parinktas kaip owner_note_path. Targetas "Sedlcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Dobrynės broliai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sedlcai: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dobrynės broliai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Dobrynės broliai gavo dvarą, vadintą Sedlcais.
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] valde_teritorija Kujavija
+- [[objektai/asmenys/Zemislovas]] valde Kujavija
+- [[objektai/grupes/Lietuviai]] puole Kujavija
+- [[objektai/asmenys/Konradas]] valde Kujavija
+- [[objektai/asmenys/Sventopelkas]] puole Kujavija
+- [[objektai/asmenys/Konradas]] buvo_valdovas Kujavija
+- Kujavija priklause [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
+- [[objektai/vietos/Sedlcai]] priklause Kujavija
+- [[objektai/asmenys/Skomantas]] puole Kujavija
+- [[objektai/asmenys/Vytenis]] puole Kujavija
+- [[objektai/grupes/Lietuviai]] keliavo_i Kujavija
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]] valde Kujavija

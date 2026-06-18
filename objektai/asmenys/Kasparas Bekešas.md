@@ -168,5 +168,4 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kasparas Bekešas" parinktas kaip owner_note_path. Targetas "Vilnelė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Kasparas Bekešas mire [[objektai/vietos/Kalnas prie Vilnelės]]
-- Kasparas Bekešas buvo_palaidotas [[objektai/vietos/Kalnas prie Vilnelės]]
+- Kasparas Bekešas buvo_palaidotas [[objektai/vietos/Vilnius]]

@@ -105,7 +105,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55080
   teiginys: 'Algirdo laikais Vilniaus miestiečiai gavo privilegiją laisvai prekiauti visoje Lietuvos valstybėje nemokėdami muito.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] prekiavo su Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -124,37 +125,39 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55081
   teiginys: 'Vilniaus miestiečiai turėjo privilegiją laisvai prekiauti Lietuvos valstybėje nemokėdami muitų.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] prekiavo su Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Vilniaus miestiečiai turėjo teisę laisvai prekiauti visoje Lietuvos valstybėje.
 
 <a id="claim-t-55082"></a>
 - t-006
   global_id: t-55082
   teiginys: 'Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] rėmė [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai susieja Vilniaus miestiečius su prekyba Lietuvos valstybėje.
 
 <a id="claim-t-55083"></a>
 - t-007
@@ -167,21 +170,20 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104742-105289; hash=9ffb588bef94cdf36a4fe08a98b3b32c9df7dcdc12a68408a0bd7d26355a3d68; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata aiškiai sako, kad miestiečiai buvo linkę palaikyti Jogailą.
 
 <a id="claim-t-55084"></a>
 - t-008
   global_id: t-55084
   teiginys: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant perteklinį ir kiek neaiškų žodį „sostinės“.'
-  susije_objektai: 'owner: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -207,20 +209,21 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 337255-337826; hash=aa28830f42e363fd570604372e6bdb0c0a77252ff1fa94cf1bf1f66a63e4ba83; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=27
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55086"></a>
 - t-010
   global_id: t-55086
   teiginys: 'Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.'
   sudarymo_pagrindimas: 'Teiginys sujungia du citatoje tiesiogiai nurodytus miestiečių įpareigojimus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ragotinė|Ragotinė]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Ragotinė|Ragotinė]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] gynė Vilnius'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -245,13 +248,13 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragotinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ragotinė: mention_match, thing, gap=110
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Ragotinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo miestiečių pareigą pasirengti miesto gynybai.
 
 <a id="claim-t-55088"></a>
 - t-012
@@ -340,7 +343,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172825
   teiginys: 'Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą pareigą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] gynė Vilnius'
   pagrindžia:
     - c-024
   irodymo_stiprumas: 0.00
@@ -670,13 +674,13 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Miestiečių ginkluotės pareiga aiškiai susieta su miesto gynyba; kontekste tai Vilnius.
 
 <a id="claim-t-172846"></a>
 - t-034
@@ -718,6 +722,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87520|Ivanas Vasiljevičius]]: Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88026|Hermanas Corneris Korneris]]: Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87064|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.
@@ -854,13 +859,13 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Vilniaus miestiečiai turėjo teisę laisvai prekiauti visoje Lietuvos valstybėje.
     - t-006
 
 - c-005
@@ -889,24 +894,24 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai susieja Vilniaus miestiečius su prekyba Lietuvos valstybėje.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 104742-105289; hash=9ffb588bef94cdf36a4fe08a98b3b32c9df7dcdc12a68408a0bd7d26355a3d68; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata aiškiai sako, kad miestiečiai buvo linkę palaikyti Jogailą.
     - t-035
 
 - c-006
@@ -989,24 +994,24 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 337255-337826; hash=aa28830f42e363fd570604372e6bdb0c0a77252ff1fa94cf1bf1f66a63e4ba83; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=27
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-    - t-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ragotinė: 0.85
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Ragotinė: mention_match, thing, gap=110
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Ragotinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+    - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai aprašo miestiečių pareigą pasirengti miesto gynybai.
     - t-012
 
 - c-009
@@ -1665,13 +1670,13 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Miestiečių ginkluotės pareiga aiškiai susieta su miesto gynyba; kontekste tai Vilnius.
     - t-019
 
 - c-028
@@ -1722,4 +1727,10 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių luomas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Vilniaus miestiečių luomas priklause [[objektai/vietos/Lietuva]]
+- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Lietuva]]
+- Vilniaus miestiečių luomas reme [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Vilniaus miestiečių luomas gyne [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Steponas Batoras]] reme Vilniaus miestiečių luomas
+- Vilniaus miestiečių luomas puole [[objektai/grupes/Pranciškonų ordinas]]
+- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Minskas]]
+- Vilniaus miestiečių luomas prekiavo_su [[objektai/vietos/Naugardukas]]

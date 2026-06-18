@@ -72,3 +72,6 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   ryšio_subjekto_parinkimas: Rygos pirkliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos pirkliai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Rygos pirkliai prekiavo_su [[objektai/vietos/Vilnius]]

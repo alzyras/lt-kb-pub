@@ -208,3 +208,6 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   ryšio_subjekto_parinkimas: Konradas Žakas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas Žakas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Konradas Žakas puole [[objektai/grupes/Lietuviai]]

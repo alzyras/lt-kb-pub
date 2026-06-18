@@ -28,19 +28,20 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas vertinamasis kontekstas ir paliktas faktas apie Poleksiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Liublinas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Liublinas; mentioned_place: Prūsai'
+  semantiniai_rysiai: 'Poleksija priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219023-219760; hash=cd112634477f9e062bc85d476058f3cd55e11d58ead41ab33d8e577b333493d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Poleksija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Poleksija buvo lietuviams priklausęs kraštas.
 
 <a id="claim-t-185246"></a>
 - t-002
@@ -50,19 +51,19 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas įvardis ir suformuluotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Tikocinas'
+  susije_objektai: 'llm_object: Tikocinas; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Tikocinas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 392108-392931; hash=dea7789dbac3a4c331af3f3bdb4846e3dfa1fce26b75ff693f8fb60c03170242; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Tikocinas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Goštauto išvykimą į Tikociną.
 
 <a id="claim-t-185247"></a>
 - t-003
@@ -110,6 +111,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kamenecas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184543|Lietuviai]]: Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.
 - susijęs iš [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas.md#claim-t-185708|Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]: Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
@@ -175,13 +177,13 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219023-219760; hash=cd112634477f9e062bc85d476058f3cd55e11d58ead41ab33d8e577b333493d7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Poleksija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Poleksija buvo lietuviams priklausęs kraštas.
     - t-002
 
 - c-003
@@ -224,13 +226,13 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 392108-392931; hash=dea7789dbac3a4c331af3f3bdb4846e3dfa1fce26b75ff693f8fb60c03170242; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Tikocinas: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Goštauto išvykimą į Tikociną.
     - t-003
 
 - c-004
@@ -272,3 +274,7 @@ Poleksiją, lietuviams priklausiusį kraštą, nusiaubė Mazovijos ir Kujavijos 
   ryšio_subjekto_parinkimas: Poleksija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kamenecas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poleksija" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] puole Poleksija
+- Poleksija priklause [[objektai/grupes/Lietuviai]]

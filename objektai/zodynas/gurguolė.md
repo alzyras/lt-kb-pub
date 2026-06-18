@@ -85,7 +85,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas iki aiškaus fakto apie gurguoles.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduvos prūsai|Sūduvos prūsai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kulmas; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduvos prūsai|Sūduvos prūsai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kulmas; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Sūduva; llm_object: [[objektai/grupes/Sūduvos prūsai|Sūduvos prūsai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -107,7 +107,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir nutrūkęs sakinio galas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Drevanta; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Drevanta; mentioned_place: Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1301 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir nutrūkęs sakinio galas.'
@@ -116,13 +116,13 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 220201-221033; hash=a8199fd25bd4a62db0b93c24db2f17a3c3a68625628fcd5449610f6ca05dd389; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Sūduvos prūsai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gurguolė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gurguolė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sūduvos prūsai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Sūduvos prūsai pabėgo nuo kryžiuočių puolimo, todėl kryžiuočiai yra puolimo subjektas; objektas apima ir žemaičius, bet leidžiamas kandidatas yra Sūduvos prūsai.
 
 <a id="claim-t-184616"></a>
 - t-006
@@ -153,13 +153,13 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 307091-307748; hash=722cfb1a3de93fc5861e44b8bcd8053634d97c98f574dc2d7cdcdbd113989d2a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Drevanta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gurguolė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Drevanta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gurguolė" parinktas kaip owner_note_path. Targetas "Drevanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija lenkų būrį kaip puolėją, o lietuvių ariergardą kaip puolimo objektą.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-184081|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
@@ -356,13 +356,13 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 220201-221033; hash=a8199fd25bd4a62db0b93c24db2f17a3c3a68625628fcd5449610f6ca05dd389; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: puole -> Sūduvos prūsai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gurguolė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gurguolė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sūduvos prūsai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys nurodo, kad Sūduvos prūsai pabėgo nuo kryžiuočių puolimo, todėl kryžiuočiai yra puolimo subjektas; objektas apima ir žemaičius, bet leidžiamas kandidatas yra Sūduvos prūsai.
     - t-006
 
 - c-007
@@ -394,10 +394,10 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 307091-307748; hash=722cfb1a3de93fc5861e44b8bcd8053634d97c98f574dc2d7cdcdbd113989d2a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Drevanta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gurguolė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Drevanta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gurguolė" parinktas kaip owner_note_path. Targetas "Drevanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija lenkų būrį kaip puolėją, o lietuvių ariergardą kaip puolimo objektą.

@@ -28,7 +28,7 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   global_id: t-20941
   teiginys: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'
@@ -37,13 +37,13 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b837def3e129805697b1351597e82664c791ba1a1f7379c83cfc28ffa7a30d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: valde -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „seimokratija“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„seimokratija“" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilsudskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Pilsudskio grįžimą į valdžią Lenkijoje, todėl valdymo ryšys pagrįstas, nors formuluotė nėra titulinė.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +66,10 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6b837def3e129805697b1351597e82664c791ba1a1f7379c83cfc28ffa7a30d6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumas: valde -> Lenkija: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „seimokratija“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„seimokratija“" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilsudskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Pilsudskio grįžimą į valdžią Lenkijoje, todėl valdymo ryšys pagrįstas, nors formuluotė nėra titulinė.

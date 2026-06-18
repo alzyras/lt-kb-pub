@@ -56,6 +56,10 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 - susijęs iš Adutiškis: Adutiškis minimas tarp lietuviškų teritorijų, atsiimtų rugpjūčio 9 d.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
 - susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
+- susijęs iš [[objektai/asmenys/J. Čaplikas.md#claim-t-40171|J. Čaplikas]]: J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo.
+- susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
+- susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
+- susijęs iš [[objektai/grupes/2-oji divizija.md#claim-t-38929|2-oji divizija]]: 2-ajai divizijai buvo numatyta gynybinė pozicija nuo Dimitravo ežero per Meros upę ir Augustavo kanalą iki Nemuno.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,3 +82,9 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/J. Čaplikas]] keliavo_i Augustavas
+- [[objektai/asmenys/A. Jakaitis]] keliavo_i Augustavas
+- [[objektai/asmenys/K. Ramanauskas]] surenge_zygi_i Augustavas
+- [[objektai/grupes/2-oji divizija]] gyne Augustavas

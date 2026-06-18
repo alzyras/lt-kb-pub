@@ -22,22 +22,27 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Korčino seimą ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  susije_objektai: 'llm_object: Korčinas; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Korčinas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Korčinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Korčinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas siuntė pasiuntinius į Korčino seimą.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
+- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184629|maršalas]]: Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
 - susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
+- susijęs iš [[objektai/zodynas/vaivada.md#claim-t-184643|vaivada]]: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184824|Rumbaudas]]: Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
 - susijęs iš [[objektai/grupes/Lenkijos karalystės luomai.md#claim-t-185451|Lenkijos karalystės luomai]]: Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
@@ -77,10 +82,14 @@ atnaujinta: ''
   irodymo_stiprumas: 0.00
   saltinio_vieta: 734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Korčinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Korčinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Korčinas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Korčinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas siuntė pasiuntinius į Korčino seimą.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Korčinas
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] keliavo_i Korčinas

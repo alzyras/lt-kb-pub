@@ -52,7 +52,8 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 - t-002
   global_id: t-66257
   teiginys: 'Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: Vilnija; llm_object: [[objektai/grupes/Armija Krajova|Armija Krajova]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vietinė rinktinė|Vietinė rinktinė]] siuntė į Vilnija; [[objektai/grupes/Vietinė rinktinė|Vietinė rinktinė]] kariavo prieš [[objektai/grupes/Armija Krajova|Armija Krajova]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -76,13 +77,13 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8b318bcd07c81b5a70bef645b18ca4efb0b178d1607287679384af4810f26de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: siunte_i -> Vilnija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinė rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinė rinktinė" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vietinė rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai minima, kad Vietinės rinktinės daliniai buvo pasiųsti į Vilniją, nors siuntėjas yra administracija.
 
 <a id="claim-t-66259"></a>
 - t-004
@@ -200,13 +201,13 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8b318bcd07c81b5a70bef645b18ca4efb0b178d1607287679384af4810f26de; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Armija Krajova: 0.85
+  ryšio_patikimumas: siunte_i -> Vilnija: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vietinė rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Armija Krajova: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinė rinktinė" parinktas kaip owner_note_path. Targetas "Armija Krajova" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vietinė rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai minima, kad Vietinės rinktinės daliniai buvo pasiųsti į Vilniją, nors siuntėjas yra administracija.
     - t-002
 
 - c-004
@@ -297,3 +298,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   ryšio_subjekto_parinkimas: Vietinė rinktinė: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Ginklai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vietinė rinktinė" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vietinė rinktinė siunte_i [[objektai/vietos/Vilnija]]
+- Vietinė rinktinė kariavo_pries [[objektai/grupes/Armija Krajova]]

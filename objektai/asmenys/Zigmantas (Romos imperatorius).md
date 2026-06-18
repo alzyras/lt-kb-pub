@@ -124,7 +124,9 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Zigmantas (Romos imperatorius): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=59
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas (Romos imperatorius)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
+- susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
 - susijęs iš [[objektai/asmenys/Baptista Cigala.md#claim-t-28952|Baptista Cigala]]: Vienos universiteto dr. Baptista Cigala vadovavo imperatoriaus Zigmanto teisininkų delegacijai pas Vytautą.
 - susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184274|Jogaila (kunigaikštis, XIV–XV a.)]]: Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą.
@@ -291,6 +293,7 @@ periodo_grupes:
 - susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72002|pereinamasis laikotarpis]]: Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.
 - susijęs iš [[objektai/zodynas/ponų įsigalėjimo laikotarpis.md#claim-t-74034|ponų įsigalėjimo laikotarpis]]: A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184879|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -495,5 +498,11 @@ periodo_grupes:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas (Romos imperatorius)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Prokopas]] kariavo_pries Zigmantas (Romos imperatorius)
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Barbora Cyleikaitė]] buvo_zmona Zigmantas (Romos imperatorius)
+- [[objektai/asmenys/Kaributas]] kariavo_pries Zigmantas (Romos imperatorius)
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Zigmantas (Romos imperatorius)
+- Zigmantas (Romos imperatorius) buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Zigmantas (Romos imperatorius)
+- Zigmantas (Romos imperatorius) paskyre [[objektai/asmenys/Zig. Rothas]]
+- Zigmantas (Romos imperatorius) reme [[objektai/grupes/Kryžiuočių ordinas]]
+- Zigmantas (Romos imperatorius) paskyre [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

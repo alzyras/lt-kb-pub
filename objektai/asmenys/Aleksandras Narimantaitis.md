@@ -30,7 +30,8 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Volynė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Narimantaitis|Aleksandras Narimantaitis]] valdė Volynė'
   temporaliniai_duomenys: 'įvykio data: 1367 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
@@ -39,13 +40,13 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
   irodymo_stiprumas: 0.00
   saltinio_vieta: 433378-434140; hash=ef8e1b29cf88b34244905de805b1da79f65acef52c3e76041ab75c99169e100b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Narimantaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Narimantaitis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Volynė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Narimantaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Volynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Volynės perdavimą Aleksandrui Narimantaičiui.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +81,13 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
   irodymo_stiprumas: 0.00
   saltinio_vieta: 433378-434140; hash=ef8e1b29cf88b34244905de805b1da79f65acef52c3e76041ab75c99169e100b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Narimantaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Narimantaitis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Volynė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Narimantaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Volynė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Volynės perdavimą Aleksandrui Narimantaičiui.
+
+## Ryšiai
+- Aleksandras Narimantaitis valde [[objektai/vietos/Volynė]]

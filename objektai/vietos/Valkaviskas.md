@@ -90,6 +90,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   ryšio_subjekto_parinkimas: Valkaviskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valkaviskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Slanimas: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.
 - susijęs iš [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.).md#claim-t-31480|Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]: 1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Slanimas: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.
@@ -173,3 +174,6 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   ryšio_subjekto_parinkimas: Valkaviskas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valkaviskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Valkaviskas

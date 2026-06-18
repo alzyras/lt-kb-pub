@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-05349
   teiginys: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikėjo aiškiai įvardyti Lietuvos krikšto apeigas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, bet reikėjo aiškiai įvardyti Lietuvos krikšto apeigas.'
@@ -70,13 +70,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 258136-258622; hash=43e693b69a9056b4b875b78032c326db0a7f939e251ac653e4c603054dbd97ff; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikšto apeigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikšto apeigos" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Jogaila važinėjo po Lietuvos vietas krikštydamas, todėl palaikomas keliavimo į Lietuvą ryšys.
 
 <a id="claim-t-05352"></a>
 - t-003
@@ -89,13 +89,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e84d6ed987dbaf6db5d81f1b9c581193a33d2dc808391f4eca3d6425bcf0723c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikšto apeigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikšto apeigos" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila atvyko į Vilnių.
 
 <a id="claim-t-93035"></a>
 - t-004
@@ -161,7 +161,7 @@ Nenurodyta
 - t-007
   global_id: t-93038
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Valachija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Valachija; llm_object: Lietuva'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -185,20 +185,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 73232-74020; hash=eec7474c09e0412857c01c88f1f0fb165de0303dfd0e310975bff74fda23c8f1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila atvyko į Vilnių.
 
 <a id="claim-t-93041"></a>
 - t-009
   global_id: t-93041
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
@@ -271,13 +271,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 73232-74020; hash=eec7474c09e0412857c01c88f1f0fb165de0303dfd0e310975bff74fda23c8f1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila atvyko į Vilnių.
     - t-006
 
 - c-002
@@ -424,13 +424,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 258136-258622; hash=43e693b69a9056b4b875b78032c326db0a7f939e251ac653e4c603054dbd97ff; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikšto apeigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikšto apeigos" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim teigia, kad Jogaila važinėjo po Lietuvos vietas krikštydamas, todėl palaikomas keliavimo į Lietuvą ryšys.
     - t-005
 
 - c-008
@@ -557,13 +557,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e84d6ed987dbaf6db5d81f1b9c581193a33d2dc808391f4eca3d6425bcf0723c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikšto apeigos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikšto apeigos" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jogaila atvyko į Vilnių.
     - t-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2d5b26baa9ec2fe6427af07296a55183e3190e6562727d874cf60138aa569312; match=fallback; occurrences=0

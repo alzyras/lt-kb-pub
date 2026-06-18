@@ -40,7 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-09532
   teiginys: '1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.'
-  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mozūrija; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Mozūrija; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mozūrija; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-09533
   teiginys: '1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   sudarymo_pagrindimas: 'Pirminis teiginys neįvardija užrašo objekto, o citata leidžia tiksliai suformuluoti faktą apie sutartį.'
-  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mozūrija; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Mozūrija; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mozūrija; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys neįvardija užrašo objekto, o citata leidžia tiksliai suformuluoti faktą apie sutartį.'

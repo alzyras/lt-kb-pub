@@ -35,8 +35,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64265
   teiginys: 'Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.'
   sudarymo_pagrindimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
-  susije_objektai: 'family: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo sūnus [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
@@ -76,8 +75,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64267
   teiginys: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
-  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius I buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
@@ -86,13 +84,13 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a63cfcd56db1f0820983ae27f3cf380b0bfb18fac9eea83cfee6a4ea56c18; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64268"></a>
 - t-004
@@ -108,18 +106,18 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14985233120d8449aa3c075f4db6f17c6d2e90b0f4597f9186b3e4dd149f8958; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vosylius I: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Palanga: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vosylius I" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Palanga.md", "selected": false, "strategy": "candidate", "title": "Palanga", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
 - susijęs iš Maskva: Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.
 - susijęs iš Pronskas: Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
 - susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
+- susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -188,13 +186,13 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=186a63cfcd56db1f0820983ae27f3cf380b0bfb18fac9eea83cfee6a4ea56c18; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -226,15 +224,13 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14985233120d8449aa3c075f4db6f17c6d2e90b0f4597f9186b3e4dd149f8958; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Vosylius I: owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
-  ryšio_slopinti_kandidatai: Lietuva: candidate; Palanga: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vosylius I" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Palanga.md", "selected": false, "strategy": "candidate", "title": "Palanga", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vosylius I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vosylius I" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Vosylius I buvo_valdovas [[objektai/vietos/Maskva]]
-- Vosylius I buvo_sunus [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Vosylius I

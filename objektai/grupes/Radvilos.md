@@ -279,6 +279,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - susijęs iš [[objektai/zodynas/vaitas.md#claim-t-86556|vaitas]]: Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176256|vietininkas]]: Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176263|vietininkas]]: Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.
+- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40212|Jokūbas Kudenekovičius Čerkaskis]]: Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -408,4 +409,14 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radvilos" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Radvilos dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- Radvilos uzeme [[objektai/vietos/Cholmas]]
+- Radvilos puole [[objektai/vietos/Urdomas]]
+- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] kariavo_pries Radvilos
+- Radvilos keliavo_i [[objektai/vietos/Starica]]
+- Radvilos dalyvavo_musyje [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- Radvilos valde [[objektai/vietos/Voluinė]]
+- Radvilos valde [[objektai/vietos/Jašiūnai]]
+- Radvilos puole [[objektai/vietos/Dubnas]]
+- Radvilos puole [[objektai/vietos/Rusija]]
+- Radvilos puole [[objektai/vietos/Rževas]]
+- Radvilos uzeme [[objektai/vietos/Urdomas]]

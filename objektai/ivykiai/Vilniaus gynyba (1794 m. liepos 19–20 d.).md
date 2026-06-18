@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-80676
   teiginys: '1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]; mentioned_place: Lietuva; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia.'
@@ -54,13 +54,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 617995-619030; hash=ed92aa8cfdf80085b8fffae4b13a520d6cae8940505ca830444916770485bfdb; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gynyba (1794 m. liepos 19–20 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gynyba (1794 m. liepos 19–20 d.)" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Rusijos kariuomenės korpusas pasiekė Vilnių; kandidatas „Rusai“ vartojamas kaip artimiausias grupinis šios kariuomenės atitikmuo.
+- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
 - susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
 ## Reikšmingi paminėjimai
 
@@ -110,10 +111,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 617995-619030; hash=ed92aa8cfdf80085b8fffae4b13a520d6cae8940505ca830444916770485bfdb; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gynyba (1794 m. liepos 19–20 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gynyba (1794 m. liepos 19–20 d.)" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Rusijos kariuomenės korpusas pasiekė Vilnių; kandidatas „Rusai“ vartojamas kaip artimiausias grupinis šios kariuomenės atitikmuo.
+
+## Ryšiai
+- [[objektai/grupes/Rusijos kariuomenės korpusas]] dalyvavo_musyje Vilniaus gynyba (1794 m. liepos 19–20 d.)

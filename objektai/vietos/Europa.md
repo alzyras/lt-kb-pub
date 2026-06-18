@@ -132,7 +132,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_subjekto_parinkimas: Europa: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=75
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europa" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.
+- susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87576|Snorro Sturleson]]: Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.
+- susijęs iš [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija.md#claim-t-183337|Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]: Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams – Vidurio Europai.
+- susijęs iš [[objektai/posakiai/„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa.md#claim-t-20943|„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa]]: Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.
+- susijęs iš [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija.md#claim-t-54366|Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]: Lietuvoje, kaip ir Vidurio Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis ir formavosi bajorų pilietinė visuomenė.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
 - susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
@@ -1211,6 +1214,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/zodynas/vienvaldystė.md#claim-t-77809|vienvaldystė]]: Augustinas Voldemaras, būdamas premjeru ir užsienio reikalų ministru, konfliktavo su ministrais ir ėmė pretenduoti į vienvaldystę.
 - susijęs iš [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta.md#claim-t-58940|viešpaties dievo kariuomenė dievo tauta]]: Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.
 - susijęs iš [[objektai/zodynas/šventas sumanymas.md#claim-t-58942|šventas sumanymas]]: „Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.
+- susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05290|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.
+- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-45355|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.
+- susijęs iš [[objektai/asmenys/Vinrichas von Kniprodė.md#claim-t-117889|Vinrichas von Kniprodė]]: Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1353,4 +1359,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europa" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Rusai]] valde_teritorija Europa
+- [[objektai/asmenys/Snorro Sturleson]] keliavo_i Europa
+- [[objektai/vietos/Lietuva]] priklause Europa
+- [[objektai/grupes/Lietuviai]] gyveno Europa
+- [[objektai/asmenys/Gediminas]] siunte_i Europa
+- [[objektai/grupes/Kryžiuočių ordinas]] prekiavo_su Europa

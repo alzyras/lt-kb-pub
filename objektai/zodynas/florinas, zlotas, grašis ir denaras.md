@@ -36,20 +36,20 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   irodymo_stiprumas: 0.00
   saltinio_vieta: 825064-825495; hash=4050c798f5201fd63a29ab8052b34e5ff0876d68a9f72de2385110b05e9bdaa1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: florinas, zlotas, grašis ir denaras: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "florinas, zlotas, grašis ir denaras" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Varšuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Motiejus Kaviečnijskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Motiejus Kaviečnijskis siuntė į Varšuvą.
 
 <a id="claim-t-86470"></a>
 - t-002
   global_id: t-86470
   teiginys: 'Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR ir konteksto triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Varšuva; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -111,10 +111,10 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   irodymo_stiprumas: 0.00
   saltinio_vieta: 825064-825495; hash=4050c798f5201fd63a29ab8052b34e5ff0876d68a9f72de2385110b05e9bdaa1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: florinas, zlotas, grašis ir denaras: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "florinas, zlotas, grašis ir denaras" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Varšuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Motiejus Kaviečnijskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Motiejus Kaviečnijskis siuntė į Varšuvą.

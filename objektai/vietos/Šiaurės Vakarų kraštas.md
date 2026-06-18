@@ -30,7 +30,8 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   global_id: t-77715
   teiginys: 'Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraštu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie caro valdžios vartotą pavadinimą ir interpretaciją.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; llm_object: Rusija'
+  semantiniai_rysiai: 'Šiaurės Vakarų kraštas priklausė Rusija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -142,3 +143,6 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
   ryšio_subjekto_parinkimas: Šiaurės Vakarų kraštas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=112
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės Vakarų kraštas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Šiaurės Vakarų kraštas priklause [[objektai/vietos/Rusija]]

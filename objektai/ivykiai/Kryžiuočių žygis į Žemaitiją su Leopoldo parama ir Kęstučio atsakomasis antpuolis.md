@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėjus, veiksmą ir padarinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Leopoldas|Leopoldas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Leopoldas|Leopoldas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439609-440270; hash=cf0e7d27bba211289802091b36dfe7e01511cedfcca08ae44976daee1477f55c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leopoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Leopoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis" parinktas kaip owner_note_path. Targetas "Leopoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Leopoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Leopoldo atvestų pajėgų remiami kryžiuočiai puolė Žemaitiją.
 
 <a id="claim-t-185729"></a>
 - t-002
@@ -135,13 +135,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439609-440270; hash=cf0e7d27bba211289802091b36dfe7e01511cedfcca08ae44976daee1477f55c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leopoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Leopoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis" parinktas kaip owner_note_path. Targetas "Leopoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Leopoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citatoje nurodyta, kad Leopoldo atvestų pajėgų remiami kryžiuočiai puolė Žemaitiją.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 439959-440504; hash=6d15587c087965f7eb8e8f1c64d588e496aa034196d0053efd5b746a4233277d; match=exact

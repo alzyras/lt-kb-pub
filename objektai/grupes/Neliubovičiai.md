@@ -45,6 +45,7 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   ryšio_subjekto_parinkimas: Neliubovičiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neliubovičiai" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
 - susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/asmenys/Vilčiopolskis.md#claim-t-87883|Vilčiopolskis]]: Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu.
@@ -77,3 +78,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   ryšio_subjekto_parinkimas: Neliubovičiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neliubovičiai" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Neliubovičiai

@@ -22,19 +22,20 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Andriaus Mackevičiaus vaidmenį pasiuntinybėje.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Viena; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Mackevičius|Andrius Mackevičius]] keliavo į Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1169827-1170523; hash=d86528c969e5b88933ddc1e433810e4d601e06a74d0d91514572bcc68ae94107; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Mackevičius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Mackevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Andrius Mackevičius priklausė pasiuntinybei, kurios kryptis buvo Maskva.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,13 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1169827-1170523; hash=d86528c969e5b88933ddc1e433810e4d601e06a74d0d91514572bcc68ae94107; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Mackevičius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Mackevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo, kad Andrius Mackevičius priklausė pasiuntinybei, kurios kryptis buvo Maskva.
+
+## Ryšiai
+- Andrius Mackevičius keliavo_i [[objektai/vietos/Maskva]]

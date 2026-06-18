@@ -62,7 +62,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3da88a706691eaa48523418603507445e37c26d1a967c9df6dedb2cd284a33fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89613|Albertas iš Meiseno]]: Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
@@ -171,6 +170,3 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   saltinio_vieta: hash=eead83f95fb1a36c357656f62b8efadca93ff0be4e930995afd87792fcc83e20; match=fallback; occurrences=0
   sprendimo_priezastis: auto
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Albertas iš Meiseno]] vede Albertas

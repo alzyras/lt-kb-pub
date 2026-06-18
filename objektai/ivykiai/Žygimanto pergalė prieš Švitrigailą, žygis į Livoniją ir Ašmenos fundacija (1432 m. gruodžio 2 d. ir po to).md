@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant negrabų junginį ir išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė; mentioned_place: Volynė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 782080-782656; hash=61ebe8f8206a5c373899d7bbe3ca4f156bd6e1384f68d63de8820ef509732e82; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą.
 
 <a id="claim-t-185549"></a>
 - t-002
@@ -62,19 +62,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata palaiko glaustą priežasties ir veiksmo sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Livonija; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Livonija; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Livonija; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 783465-784431; hash=0e1508262f02bd8e01edc42046e5d9b626233f1fbe3ff561965e19996a87f5a3; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas patraukė į Livoniją.
 
 ## Reikšmingi paminėjimai
 
@@ -137,21 +137,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 782080-782656; hash=61ebe8f8206a5c373899d7bbe3ca4f156bd6e1384f68d63de8820ef509732e82; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Boleslovas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 783465-784431; hash=0e1508262f02bd8e01edc42046e5d9b626233f1fbe3ff561965e19996a87f5a3; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas patraukė į Livoniją.

@@ -69,38 +69,38 @@ Nenurodyta
   global_id: t-86984
   teiginys: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie sunkiuosius ginklus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bisenė; mentioned_place: Romuva'
+  susije_objektai: 'llm_object: Bisenė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bisenė; mentioned_place: Romuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108315-109446; hash=f0b2037a20bb555b6be6b7f317d702e4d5e8fc9c473550408ce0570a65b80a91; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kęstučio laidotuves Vilniuje.
 
 <a id="claim-t-86985"></a>
 - t-003
   global_id: t-86985
   teiginys: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje aprašytas laidotuvių detales.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6d3b9416fe7ae70d53b3bcd6d17941d8e955f01a2f9efbfa182000d908a50800; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kryžiuočių kariaunos puolimą Bisenės link.
 
 <a id="claim-t-86986"></a>
 - t-004
@@ -113,13 +113,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519676-520351; hash=6bba86c2e49039f4339bc34017b430231426adf8150ea6400fcdc7bd1ae45831; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Patrankos: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Patrankos: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Patrankos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad miestiečiai privalėjo turėti ginklus miesto gynybai.
 
 <a id="claim-t-86987"></a>
 - t-005
@@ -164,7 +164,7 @@ Nenurodyta
   global_id: t-86989
   teiginys: 'Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį sakinį reikia išvalyti nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -266,13 +266,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 108315-109446; hash=f0b2037a20bb555b6be6b7f317d702e4d5e8fc9c473550408ce0570a65b80a91; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kęstučio laidotuves Vilniuje.
     - t-001
 
 - c-004
@@ -356,13 +356,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6d3b9416fe7ae70d53b3bcd6d17941d8e955f01a2f9efbfa182000d908a50800; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo kryžiuočių kariaunos puolimą Bisenės link.
     - t-004
 
 - c-006
@@ -388,13 +388,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519676-520351; hash=6bba86c2e49039f4339bc34017b430231426adf8150ea6400fcdc7bd1ae45831; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Patrankos: 0.85
+  ryšio_patikimumas: gyne -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Patrankos: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ginklai, skydai, šarvai ir šaudymo reikmenys" parinktas kaip owner_note_path. Targetas "Patrankos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad miestiečiai privalėjo turėti ginklus miesto gynybai.
     - t-007
 
 - c-007

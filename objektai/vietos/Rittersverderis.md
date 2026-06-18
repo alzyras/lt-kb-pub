@@ -90,6 +90,7 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara).md#claim-t-35895|Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]: 1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.).md#claim-t-34568|Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]: Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.
 - susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
+- susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -168,3 +169,6 @@ amziai:
   ryšio_subjekto_parinkimas: Rittersverderis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vokiečiai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rittersverderis" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]] keliavo_i Rittersverderis

@@ -95,6 +95,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 - susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
 - susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38708|bendrasis rezervas]]: Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
+- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -173,3 +174,6 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   ryšio_subjekto_parinkimas: Lionas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lionas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]] priklause Lionas

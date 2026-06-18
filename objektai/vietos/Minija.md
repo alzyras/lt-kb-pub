@@ -21,19 +21,23 @@ tags:
   global_id: t-32367
   teiginys: 'Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata apie Minijos aukštupius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Venta; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Venta; mentioned_place: Šušvė; llm_object: Lietuva'
+  semantiniai_rysiai: 'Minija priklausė Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minija" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Minija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Lietuvos apimtas plotas Žemaičiuose apėmė Minijos aukštupius.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
+- susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
+- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65566|Kuršiai]]: Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
@@ -76,10 +80,15 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.83
+  ryšio_patikimumas: priklause -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Minija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Minija" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Minija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Lietuvos apimtas plotas Žemaičiuose apėmė Minijos aukštupius.
+
+## Ryšiai
+- [[objektai/grupes/Skalviai]] gyveno Minija
+- [[objektai/grupes/Lamatiečiai]] gyveno Minija
+- Minija priklause [[objektai/vietos/Lietuva]]

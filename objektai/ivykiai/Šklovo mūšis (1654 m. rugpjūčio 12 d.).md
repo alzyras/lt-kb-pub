@@ -60,7 +60,8 @@ Nenurodyta
   global_id: t-41393
   teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Šklovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Šklovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]'
   temporaliniai_duomenys: 'įvykio data: 1654 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -107,3 +108,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)

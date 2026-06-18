@@ -48,28 +48,26 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - t-002
   global_id: t-47954
   teiginys: 'Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.'
-  susije_objektai: 'appointee: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Lengvenis|Lengvenis]] paskyrė [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e382abe815d95a489f36c16d82a3ed76bfcef4e89a8544fa97e808fb0ca72633; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Didžiojo Naugardo respublika: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: nearest_after_predicate, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-47955"></a>
 - t-003
   global_id: t-47955
   teiginys: 'Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, bet citata palaiko pilną sakinį.'
-  susije_objektai: 'appointee: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Lengvenis|Lengvenis]] paskyrė [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -148,6 +146,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.
 - susijęs iš Riazanė: Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.
 - susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
+- susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186577|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą.
+- susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186578|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -198,13 +198,13 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e382abe815d95a489f36c16d82a3ed76bfcef4e89a8544fa97e808fb0ca72633; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Didžiojo Naugardo respublika: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: nearest_after_predicate, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -256,14 +256,14 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e382abe815d95a489f36c16d82a3ed76bfcef4e89a8544fa97e808fb0ca72633; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Didžiojo Naugardo respublika: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=19
-  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: nearest_after_predicate, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Didžiojo Naugardo respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lengvenis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lengvenis" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Lengvenis paskyre [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]] buvo_sunus Lengvenis
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Lengvenis

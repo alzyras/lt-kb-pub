@@ -91,6 +91,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   ryšio_subjekto_parinkimas: Daugavgryva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: įgula: mention_match, thing, gap=58
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugavgryva" parinktas kaip owner_note_path. Targetas "įgula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Daugavgryvos pilis (pilis): Ordinui įsigijus Daugavgryvos pilį Dauguvos žiotyse, rygiečiai ją šturmavo 1328 m. liepą.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
@@ -102,6 +103,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 - susijęs iš Livonija: 1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas.
 - susijęs iš Piarnu: Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
+- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
+- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179439|Rygiečiai]]: Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -173,3 +176,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   ryšio_subjekto_parinkimas: Daugavgryva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ryga: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugavgryva" parinktas kaip owner_note_path. Targetas "Ryga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]] puole Daugavgryva
+- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]] uzeme Daugavgryva
+- [[objektai/grupes/Rygiečiai]] puole Daugavgryva

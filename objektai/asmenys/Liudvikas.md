@@ -45,10 +45,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   ryšio_subjekto_parinkimas: Liudvikas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Kantigirdas.md#claim-t-60154|Kantigirdas]]: Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175138|Sūduviai-jotvingiai]]: Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.
-- susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59460|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
-- susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59882|Liudvikas iš Libencelės]]: 1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
 - susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186063|Liudvikas (Torunės komtūras)]]: Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
@@ -166,6 +162,5 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Liudvikas iš Libencelės]] buvo_brolis Liudvikas
-- [[objektai/asmenys/Liudvikas iš Libencelės]] kariavo_pries Liudvikas
-- [[objektai/asmenys/Jadvyga Jogailienė]] paskyre Liudvikas
+- [[objektai/asmenys/Jadvyga Jogailienė]] buvo_dukte Liudvikas
+- Liudvikas buvo_palaidotas [[objektai/vietos/Kulmenzė]]

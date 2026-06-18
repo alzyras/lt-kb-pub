@@ -57,6 +57,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla.md#claim-t-20568|Vytauto karūnacijos byla]]: Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.
 - susijęs iš Praha: Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49271|husarai]]: Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.
+- susijęs iš [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis.md#claim-t-75350|Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]: 1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,3 +73,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]] priklause Niurnbergas

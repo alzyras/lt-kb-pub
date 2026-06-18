@@ -44,7 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-71779
   teiginys: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; llm_object: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
   pagrindžia:
     - c-001
 
@@ -86,20 +87,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1632fd15e04fd43c0ad0664aa728d06ec84c2d58946205daad1697dfbb4fd4e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Enkavėdistai tiesiogiai minimi kaip mūšio prieš partizanus pusė.
 
 <a id="claim-t-71783"></a>
 - t-005
   global_id: t-71783
   teiginys: 'Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.'
   sudarymo_pagrindimas: 'Perrašyta susiejant veiksmą su kautynių objektu ir sutrumpinant sakinį.'
-  susije_objektai: 'mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas'
+  susije_objektai: 'mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; llm_object: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -205,10 +207,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1632fd15e04fd43c0ad0664aa728d06ec84c2d58946205daad1697dfbb4fd4e4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: NKVD: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Enkavėdistai tiesiogiai minimi kaip mūšio prieš partizanus pusė.
+
+## Ryšiai
+- [[objektai/grupes/NKVD]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)

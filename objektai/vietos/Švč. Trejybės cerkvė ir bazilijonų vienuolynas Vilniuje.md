@@ -23,19 +23,20 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
   global_id: t-86133
   teiginys: 'Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
   sudarymo_pagrindimas: 'Teiginys yra taisyklingas, užbaigtas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]'
+  susije_objektai: 'llm_object: Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] pastatė Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 531930-532166; hash=970811443e22c311721aa9c0d4e9f3a231cd90e8b064541bd99a007093d01578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Konstantinas Ostrogiškis pastatė mūrinę Švč. Trejybės cerkvę.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +57,13 @@ Trejybės cerkvę ir prie jos įkur­ dino Šv.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 531930-532166; hash=970811443e22c311721aa9c0d4e9f3a231cd90e8b064541bd99a007093d01578; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas Ostrogiškis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Konstantinas Ostrogiškis: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje" parinktas kaip owner_note_path. Targetas "Konstantinas Ostrogiškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konstantinas Ostrogiškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Konstantinas Ostrogiškis pastatė mūrinę Švč. Trejybės cerkvę.
+
+## Ryšiai
+- [[objektai/asmenys/Konstantinas Ostrogiškis]] pastate Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje

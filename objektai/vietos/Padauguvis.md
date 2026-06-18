@@ -40,7 +40,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   global_id: t-73355
   teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
   sudarymo_pagrindimas: 'Sutvarkyta sakinio pradžia ir išlaikyta citatos paremta faktinė mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lybiai|Lybiai]]; llm_object: [[objektai/grupes/Aisčiai|Aisčiai]]; llm_object: Padauguvis; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]] keliavo į Padauguvis'
   pagrindžia:
     - c-001
 
@@ -55,6 +56,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
+- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52465|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175557|Kalavijuočių ordinas]]: 1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89358|Žiemgaliai]]: 1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.
@@ -100,3 +103,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Vokiečiai]] keliavo_i Padauguvis
+- [[objektai/grupes/Vokiečių pirkliai]] keliavo_i Padauguvis

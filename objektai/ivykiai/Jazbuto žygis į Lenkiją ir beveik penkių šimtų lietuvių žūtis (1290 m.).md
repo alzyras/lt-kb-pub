@@ -46,19 +46,19 @@ Nenurodyta
   global_id: t-66563
   teiginys: 'Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564272; hash=b4e8c918d5d3349eb520b951416e48728e35a34a0c32b9c0fffe932e53261b52; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jazbuto įsibrovimas su vyrais į Lenkiją yra tiesioginis karinio žygio į Lenkiją aprašymas.
 
 <a id="claim-t-66564"></a>
 - t-002
@@ -132,10 +132,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 563741-564272; hash=b4e8c918d5d3349eb520b951416e48728e35a34a0c32b9c0fffe932e53261b52; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jazbuto įsibrovimas su vyrais į Lenkiją yra tiesioginis karinio žygio į Lenkiją aprašymas.

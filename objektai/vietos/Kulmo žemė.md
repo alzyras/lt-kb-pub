@@ -38,7 +38,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   global_id: t-79492
   teiginys: 'Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Pilaitė'
+  susije_objektai: 'llm_object: Kulmo žemė; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Pilaitė'
+  semantiniai_rysiai: '[[objektai/asmenys/Linkas|Linkas]] puolė Kulmo žemė'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę.'
@@ -59,13 +60,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=379232e5d307a2e071f8991d17ef81898472e5f1e0af7ea58b7dd338e93f3967; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kulmo žemė tiesiogiai apibūdinta kaip dovanota vokiečiams.
 
 <a id="claim-t-79494"></a>
 - t-003
@@ -91,26 +92,28 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   global_id: t-79495
   teiginys: 'Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis.'
   sudarymo_pagrindimas: 'Citata leidžia išplėsti įvardį į Sventopelką ir suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
+  susije_objektai: 'llm_object: Kulmo žemė; mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kulmo žemė'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f18a12177cf382a7cd5d255132f906aa2b0fd8856c3790f8351a4350d40cfca5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino įsikūrimas Kulmo žemėje ir dovanojimo kontekstas remia priklausomybės ryšį.
 
 <a id="claim-t-79496"></a>
 - t-005
   global_id: t-79496
   teiginys: 'Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą interpretaciją apie Kulmo žemę.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Kulmo žemė priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -148,19 +151,20 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   global_id: t-79498
   teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą; pirminiame teiginyje perteklinė įžanga.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija; llm_object: Kulmo žemė'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] siuntė į Kulmo žemė'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai nurodyta kaip kovojusi prieš Ordiną.
 
 <a id="claim-t-79499"></a>
 - t-008
@@ -214,13 +218,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3a08926ea2ea7a3df15eec38d0b2d5e3de0e7c9eead7cd799bb73c91431ff24e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: siunte_i -> Kulmo žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Magistras Hermanas nurodytas kaip siuntęs brolius pasidairyti Kulmo žemėje.
 
 <a id="claim-t-79502"></a>
 - t-011
@@ -248,7 +252,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - t-012
   global_id: t-79503
   teiginys: 'Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: 'Kulmo žemė priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -273,39 +278,41 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0d5b2bbd845cfcc33de803848b2faaa080c358b79aa952c4b728cd4005c68d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Kulmo žemė buvo prūsų rankose.
 
 <a id="claim-t-79505"></a>
 - t-014
   global_id: t-79505
   teiginys: 'XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos teiginiu apie Kulmo žemę.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Prūsai'
+  semantiniai_rysiai: 'Kulmo žemė priklausė Prūsai'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas tiesiogiai nurodytas kaip įsibrovęs į Kulmo žemę.
 
 <a id="claim-t-79506"></a>
 - t-015
   global_id: t-79506
   teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos formuluote.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; llm_object: Kulmo žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] puolė Kulmo žemė'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos formuluote.'
@@ -327,7 +334,8 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   global_id: t-79507
   teiginys: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatą apie Skomanto žygį.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Eimsutis; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmo žemė; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Eimsutis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Kulmo žemė; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Kulmo žemė; [[objektai/grupes/Rusai|Rusai]] puolė Kulmo žemė'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -352,13 +360,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Linkas tiesiogiai nurodytas kaip su kariuomene įsibrovęs į Kulmo žemę.
 
 <a id="claim-t-79511"></a>
 - t-019
@@ -374,13 +382,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9ab0cedb845b2903c5779b0c387465af1c60f2cf7f54057c93f2b876d928428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas nurodytas kaip vadovavęs kariuomenei, kuri siaubė Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu.md#claim-t-66653|Kulmo žemės nusiaubimas prūsų antpuoliu]]: Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89389|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos.
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
@@ -398,6 +406,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89392|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.
 - susijęs iš Mazovija: Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
 - susijęs iš Mazovija: „Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89389|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89392|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59969|Henrikas iš Hohenlohės]]: Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -497,13 +509,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eeb11f7c8eae03c56217c7265acf6ff5a55d311d8328ef066ef865f9b965b568; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai nurodyta kaip kovojusi prieš Ordiną.
     - t-019
 
 - c-005
@@ -521,13 +533,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f9ab0cedb845b2903c5779b0c387465af1c60f2cf7f54057c93f2b876d928428; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas nurodytas kaip vadovavęs kariuomenei, kuri siaubė Kulmo žemę.
     - t-008
 
 - c-006
@@ -579,13 +591,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f0d5b2bbd845cfcc33de803848b2faaa080c358b79aa952c4b728cd4005c68d7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsai: 0.80
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Kulmo žemė buvo prūsų rankose.
     - t-017
 
 - c-008
@@ -604,13 +616,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Linkas tiesiogiai nurodytas kaip su kariuomene įsibrovęs į Kulmo žemę.
     - t-015
 
 - c-009
@@ -704,13 +716,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmo žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas tiesiogiai nurodytas kaip įsibrovęs į Kulmo žemę.
     - t-005
 
 - c-013
@@ -812,13 +824,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=379232e5d307a2e071f8991d17ef81898472e5f1e0af7ea58b7dd338e93f3967; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vokiečiai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Kulmo žemė tiesiogiai apibūdinta kaip dovanota vokiečiams.
     - t-010
 
 - c-017
@@ -842,13 +854,13 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3a08926ea2ea7a3df15eec38d0b2d5e3de0e7c9eead7cd799bb73c91431ff24e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: siunte_i -> Kulmo žemė: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Magistras Hermanas nurodytas kaip siuntęs brolius pasidairyti Kulmo žemėje.
     - t-001
 
 - c-018
@@ -887,10 +899,22 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f18a12177cf382a7cd5d255132f906aa2b0fd8856c3790f8351a4350d40cfca5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmo žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo žemė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kulmo žemė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Ordino įsikūrimas Kulmo žemėje ir dovanojimo kontekstas remia priklausomybės ryšį.
+
+## Ryšiai
+- [[objektai/asmenys/Linkas]] puole Kulmo žemė
+- [[objektai/asmenys/Sventopelkas]] puole Kulmo žemė
+- [[objektai/asmenys/Skomantas]] puole Kulmo žemė
+- [[objektai/grupes/Sūduviai]] puole Kulmo žemė
+- Kulmo žemė priklause [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Rusai]] puole Kulmo žemė
+- Kulmo žemė priklause [[objektai/vietos/Prūsai]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] siunte_i Kulmo žemė
+- [[objektai/grupes/Lietuvos kariuomenė]] puole Kulmo žemė
+- Kulmo žemė priklause [[objektai/grupes/Kryžiuočių ordinas]]

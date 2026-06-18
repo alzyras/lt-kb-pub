@@ -56,6 +56,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šnikenbergas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Hertvigas.md#claim-t-60328|Hertvigas]]: Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.
 - susijęs iš [[objektai/ivykiai/Šnikenbergo pilies pastatymas.md#claim-t-62541|Šnikenbergo pilies pastatymas (pilis)]]: Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus.
+- susijęs iš [[objektai/asmenys/Hertvigas.md#claim-t-60328|Hertvigas]]: Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais.
 - susijęs iš Štraisbergas: Štraisbergas buvo vadintas Straisbergku, vėliau Strasburgu, o dabar yra Brodnica.
 ## Reikšmingi paminėjimai
 
@@ -114,3 +115,6 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   ryšio_subjekto_parinkimas: Šnikenbergas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=91
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šnikenbergas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Hertvigas]] gyveno Šnikenbergas

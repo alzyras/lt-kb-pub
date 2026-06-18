@@ -80,7 +80,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   global_id: t-71958
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Praga; llm_object: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Praga'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -106,32 +107,33 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 481205-481638; hash=3f41cca0b9e70c8d49cec8355b41a8d46e75e25dbe36f94744b1869fe1adf17a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Praga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Vytautas pasiuntė asmenį į Pragą.
 
 <a id="claim-t-71960"></a>
 - t-005
   global_id: t-71960
   teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Praga; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Praga'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7015bec4f9e3ab2735f5ec42252c4fc297ac68338adf27c228c412646499226e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Praga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas siuntė į Pragą.
 
 <a id="claim-t-71962"></a>
 - t-006
@@ -150,7 +152,8 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir patikslintas objektas.'
-  susije_objektai: 'mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'llm_object: Varšuva; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  semantiniai_rysiai: 'Praga priklausė Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir patikslintas objektas.'
@@ -159,13 +162,16 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 534464-534863; hash=0205e714ab9a1cbf9a4f3e2d782bb70c5633dc8061421977c703a4e26eceaf63; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vysla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Varšuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Praga apibūdinta kaip Varšuvos priemiestis.
+- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92951|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą į Pragą savo vietininku.
+- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92953|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.
+- susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35569|Šv. Vaclovo karūna]]: Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34764|Vaclovas Pragiečius]]: Vaclovas Pragietis ginčą tarp Vytauto, Jogailos ir Ordino išsprendė Lietuvos nenaudai, atiduodamas Žemaitiją kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Vaidotas.md#claim-t-64202|Vaidotas]]: Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.
 - susijęs iš [[objektai/daiktai/Pragos miesto raktai.md#claim-t-35550|Pragos miesto raktai (miestas)]]: Pragos gyventojai iškilmingai sutiko Kaributą, įteikė jam miesto raktus ir pavedė karo vadovybę.
@@ -214,13 +220,13 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   irodymo_stiprumas: 0.00
   saltinio_vieta: 481205-481638; hash=3f41cca0b9e70c8d49cec8355b41a8d46e75e25dbe36f94744b1869fe1adf17a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaributas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaributas: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Kaributas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Praga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teigiama, kad Vytautas pasiuntė asmenį į Pragą.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=09fffe471f52b9e0c078e15ce72dcd3f82aa1c14658e9822754a329ef56af760; match=fallback; occurrences=0
@@ -325,21 +331,25 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7015bec4f9e3ab2735f5ec42252c4fc297ac68338adf27c228c412646499226e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Praga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas siuntė į Pragą.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 534464-534863; hash=0205e714ab9a1cbf9a4f3e2d782bb70c5633dc8061421977c703a4e26eceaf63; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vysla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Praga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Praga" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Varšuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Praga: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Praga apibūdinta kaip Varšuvos priemiestis.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Praga
+- Praga priklause [[objektai/vietos/Varšuva]]

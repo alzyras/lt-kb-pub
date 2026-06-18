@@ -22,19 +22,19 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 - t-001
   global_id: t-36837
   teiginys: 'Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Silezija; mentioned_place: Vengrija; mentioned_place: Žemaitija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Silezija; mentioned_place: Vengrija; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a81db081affb128d168ad0aff9cc0a4c72170ad8ddd753f582079406815bd2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: superarbitras: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "superarbitras" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +59,10 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=60a81db081affb128d168ad0aff9cc0a4c72170ad8ddd753f582079406815bd2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: superarbitras: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "superarbitras" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį.

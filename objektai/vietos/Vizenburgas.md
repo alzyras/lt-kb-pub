@@ -72,6 +72,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=76
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgas" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.).md#claim-t-66944|Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]: 1241 m. Varmės, Notangos ir Bartos prūsai pasidavė tikėjimui ir Ordino broliams, o broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.).md#claim-t-62951|Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]: 1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.
 - susijęs iš [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.).md#claim-t-62952|Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]: Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.
@@ -83,6 +84,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
+- susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
+- susijęs iš Bartenšteinas: Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -156,3 +159,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   ryšio_subjekto_parinkimas: Vizenburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=76
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgas" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Vizenburgas
+- [[objektai/grupes/Vokiečiai]] pastate Vizenburgas

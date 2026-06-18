@@ -56,6 +56,10 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   ryšio_subjekto_parinkimas: Kaimas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Deimena: mention_match, place, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaimas" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63906|Martynas iš Golino]]: Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63916|Martynas iš Golino]]: Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63917|Martynas iš Golino]]: Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63918|Martynas iš Golino]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę.
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40056|B. Kolyška]]: B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą.
 - susijęs iš [[objektai/asmenys/Grinevičius.md#claim-t-80715|Grinevičius]]: Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
@@ -185,6 +189,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86438|miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
 - susijęs iš [[objektai/zodynas/viršila.md#claim-t-42522|viršila]]: 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45929|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
@@ -389,6 +395,10 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/zodynas/sovietinis genocidas.md#claim-t-22302|sovietinis genocidas]]: Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58880|villa kaimas sodžius]]: Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-184111|Martynas iš Golino]]: Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo).md#claim-t-62272|Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]: 1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą.
+- susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, kaime gyveno 84 proc. Lietuvos gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.
+- susijęs iš [[objektai/grupes/Gardino pulkas.md#claim-t-78168|Gardino pulkas]]: Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -440,3 +450,12 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   ryšio_subjekto_parinkimas: Kaimas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Tepliava: mention_match, place, gap=9
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaimas" parinktas kaip owner_note_path. Targetas "Tepliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Martynas iš Golino]] puole Kaimas
+- [[objektai/asmenys/Martynas iš Golino]] uzeme Kaimas
+- [[objektai/grupes/Lietuviai]] gyveno Kaimas
+- [[objektai/grupes/Lietuviai]] puole Kaimas
+- [[objektai/grupes/Gardino pulkas]] gyveno Kaimas
+- Kaimas priklause [[objektai/vietos/Loza]]
+- [[objektai/grupes/Žydai]] gyveno Kaimas

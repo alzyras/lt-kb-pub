@@ -84,7 +84,7 @@ Nenurodyta
 - t-003
   global_id: t-41240
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_place: Subačius; mentioned_place: Troškūnai; mentioned_place: Biržai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Subačius; llm_object: Troškūnai; mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_place: Subačius; mentioned_place: Troškūnai; mentioned_place: Biržai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -114,13 +114,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741055-741389; hash=c644469176df3fcbeeec453431bf2cc9254fe30d3533c8c392caa40360d4f1cb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antrasis Panevėžio puolimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrasis Panevėžio puolimas" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Subačius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Panevėžio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Subačius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių.
 
 <a id="claim-t-41242"></a>
 - t-005
@@ -283,10 +283,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 741055-741389; hash=c644469176df3fcbeeec453431bf2cc9254fe30d3533c8c392caa40360d4f1cb; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Panevėžio rinktinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antrasis Panevėžio puolimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Panevėžio rinktinė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrasis Panevėžio puolimas" parinktas kaip owner_note_path. Targetas "Panevėžio rinktinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Subačius: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Panevėžio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Subačius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Panevėžio rinktinė užėmė Subačių.

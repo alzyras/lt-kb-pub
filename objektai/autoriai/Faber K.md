@@ -23,7 +23,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   global_id: t-60698
   teiginys: 'Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nukirstas; citata patvirtina tik bibliografinį ryšį su aptariama pastaba.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Prūsai; mentioned_place: Rinava; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Prūsai; mentioned_place: Rinava; mentioned_place: Semba; llm_object: Semba'
   temporaliniai_duomenys: 'įvykio data: 117 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir nukirstas; citata patvirtina tik bibliografinį ryšį su aptariama pastaba.'
@@ -32,13 +32,13 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 399566-400434; hash=5058b5a13171dde1a77848e22a9c49dec2ec1300e06e590953f96dce738f46f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumas: priklause -> Semba: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Faber K: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Faber K" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rinava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja Rinavą Sembos vakarinėje dalyje, todėl galima fiksuoti priklausymo teritorijai ryšį.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +65,10 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 399566-400434; hash=5058b5a13171dde1a77848e22a9c49dec2ec1300e06e590953f96dce738f46f6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumas: priklause -> Semba: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Faber K: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Faber K" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rinava: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja Rinavą Sembos vakarinėje dalyje, todėl galima fiksuoti priklausymo teritorijai ryšį.

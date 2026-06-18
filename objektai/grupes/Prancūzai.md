@@ -48,7 +48,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81591
   teiginys: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų prancūzų veiksmą ir jų vadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] puolė [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
   pagrindžia:
     - c-002
 
@@ -57,7 +58,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81592
   teiginys: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Praha'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Praha; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-004
 
@@ -66,20 +68,20 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81593
   teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata pagrindžia prancūzų savanorių atvykimą į žygį.'
-  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija'
-  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija; [[objektai/grupes/Prancūzai|Prancūzai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=23
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo prancūzų savanorių atvykimą į Prūsiją.
 
 <a id="claim-t-183891"></a>
 - t-005
@@ -89,7 +91,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį.'
-  susije_objektai: 'mentioned_place: Konstantinopolis; mentioned_place: Venecija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
+  susije_objektai: 'llm_object: Konstantinopolis; mentioned_place: Konstantinopolis; mentioned_place: Venecija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] užėmė Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1200 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį.'
@@ -105,6 +108,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Anglija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
+- susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59902|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: 1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
@@ -134,6 +139,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš Klaipėdos kraštas: Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono.
 - susijęs iš Konstantinopolis: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
+- susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62996|Flandrai]]: Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
@@ -232,6 +238,11 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101580|etnografinės ribos etnografinis principas]]: Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
+- susijęs iš [[objektai/autoriai/Giovanni Villani.md#claim-t-88057|Giovanni Villani]]: Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.
+- susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72653|Templininkų ordinas]]: Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.
+- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
+- susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
+- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -338,13 +349,13 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.90
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=23
-  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo prancūzų savanorių atvykimą į Prūsiją.
     - t-003
 
 - c-005
@@ -375,6 +386,21 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Prancūzai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- Prancūzai uzeme [[objektai/vietos/Konstantinopolis]]
+- Prancūzai uzeme [[objektai/vietos/Ruhro sritis]]
+- [[objektai/grupes/Flandrai]] kariavo_pries Prancūzai
+- Prancūzai kariavo_pries [[objektai/grupes/Flandrai]]
 - Prancūzai keliavo_i [[objektai/vietos/Prūsija]]
-- Prancūzai uzeme [[objektai/vietos/Venecija]]
+- [[objektai/vietos/Klaipėda]] priklause Prancūzai
+- [[objektai/grupes/Anglai]] puole Prancūzai
+- Prancūzai kariavo_pries [[objektai/grupes/Lenkai]]
+- Prancūzai kariavo_pries [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Templininkų ordinas]] priklause Prancūzai
+- Prancūzai siunte_i [[objektai/vietos/Ruro kraštas|Ruro kraštas (kraštas)]]
+- Prancūzai valde [[objektai/vietos/Klaipėdos kraštas]]
+- Prancūzai reme [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Flandrai]] puole Prancūzai
+- Prancūzai keliavo_i [[objektai/vietos/Praha]]
+- Prancūzai valde_miesta [[objektai/vietos/Klaipėda]]
+- Prancūzai dalyvavo_musyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]
+- Prancūzai puole [[objektai/grupes/Vilniaus prastuomenė]]

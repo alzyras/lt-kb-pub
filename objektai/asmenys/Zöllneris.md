@@ -69,3 +69,6 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
   ryšio_subjekto_parinkimas: Zöllneris: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zöllneris" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Zöllneris surenge_zygi_i [[objektai/vietos/Lietuva]]

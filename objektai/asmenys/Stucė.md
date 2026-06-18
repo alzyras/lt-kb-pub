@@ -21,19 +21,20 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   global_id: t-60440
   teiginys: 'Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo; citata palaiko trumpą faktą apie Stucės žygį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skumas|Skumas]]; mentioned_place: Baiga; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Baiga; mentioned_person: [[objektai/asmenys/Skumas|Skumas]]; mentioned_place: Baiga; mentioned_place: Prūsai; llm_object: [[objektai/asmenys/Skumas|Skumas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Stucė|Stucė]] keliavo į Baiga; [[objektai/asmenys/Stucė|Stucė]] buvo sąjungininkas su [[objektai/asmenys/Skumas|Skumas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a47355eec1f908b633856997d767e83c115ca4fb04ca8058e8f30acab0baf962; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stucė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stucė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stucė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Stucė su kariuomene patraukė prie Baigos.
 - susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
 - susijęs iš [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos.md#claim-t-62510|Trijų brolių ir 40 vyrų žūtis prie Balgos]]: Prie Balgos pasaloje pasirodę prūsai nukovė tris brolius ir 40 vyrų, kai broliai puolė atsitraukiančius prūsus.
 ## Reikšmingi paminėjimai
@@ -55,10 +56,15 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a47355eec1f908b633856997d767e83c115ca4fb04ca8058e8f30acab0baf962; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stucė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stucė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stucė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Stucė su kariuomene patraukė prie Baigos.
+
+## Ryšiai
+- Stucė surenge_zygi_i [[objektai/vietos/Baiga]]
+- Stucė keliavo_i [[objektai/vietos/Baiga]]
+- Stucė buvo_sajungininkas_su [[objektai/asmenys/Skumas]]

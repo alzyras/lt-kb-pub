@@ -22,19 +22,20 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie Bajorų pilaitę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Pilaitė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Bajorų pilaitė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Pilaitė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Šindekopfas|Šindekopfas]] užėmė Bajorų pilaitė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435364-435935; hash=7bf168d587a5ab30cbe28067f28342cdd0bd34b1ebe79d04b3541a9bfed9258a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajorų pilaitė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajorų pilaitė" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Bajorų pilaitė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šindekopfas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorų pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +67,13 @@ atnaujinta: ''
   irodymo_stiprumas: 0.00
   saltinio_vieta: 435364-435935; hash=7bf168d587a5ab30cbe28067f28342cdd0bd34b1ebe79d04b3541a9bfed9258a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bajorų pilaitė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajorų pilaitė" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Bajorų pilaitė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šindekopfas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorų pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę.
+
+## Ryšiai
+- [[objektai/asmenys/Šindekopfas]] uzeme Bajorų pilaitė

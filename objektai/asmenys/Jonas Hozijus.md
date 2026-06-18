@@ -108,6 +108,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   saltinio_vieta: hash=e5689e584e6cfbee9775fc74f64d28b62b0141af263a523e91f5ea0d0cd2e94e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86880|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86881|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86884|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.
@@ -120,6 +121,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - susijęs iš [[objektai/zodynas/prokuratorius ir provizorius.md#claim-t-86545|prokuratorius ir provizorius]]: Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.
 - susijęs iš [[objektai/zodynas/špitolė prieglauda.md#claim-t-86430|špitolė prieglauda]]: Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 - susijęs iš [[objektai/zodynas/špitolė prieglauda.md#claim-t-86432|špitolė prieglauda]]: Jonas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -274,3 +276,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Hozijus" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+
+## Ryšiai
+- [[objektai/asmenys/Žygimantas Senasis]] paskyre Jonas Hozijus

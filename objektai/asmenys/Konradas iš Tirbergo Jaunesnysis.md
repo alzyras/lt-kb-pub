@@ -217,3 +217,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   ryšio_subjekto_parinkimas: Konradas iš Tirbergo Jaunesnysis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas iš Tirbergo Jaunesnysis" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Konradas iš Tirbergo Jaunesnysis puole [[objektai/vietos/Sūduva]]
+- Konradas iš Tirbergo Jaunesnysis keliavo_i [[objektai/vietos/Nagutinas]]

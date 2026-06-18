@@ -55,19 +55,19 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   global_id: t-55045
   teiginys: 'Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mūro sienas ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; llm_object: Italija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Italija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 31142-31804; hash=b9608d251dcd59e9376b733f1bd6710ef5f6a02544a89170317c21ff4e658aa3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saracėnai: 0.85
+  ryšio_patikimumas: puole -> Italija: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Saracėnai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūro sienos ir miesto sienos" parinktas kaip owner_note_path. Targetas "Saracėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo saracėnų antpuolius, nuo kurių saugojosi Italijos miestai.
 
 <a id="claim-t-55046"></a>
 - t-002
@@ -160,20 +160,20 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471975-472544; hash=513bc221d29ec79f2c0eacb4cc80ed09b7f9107a22dc0abac9a4250c2fc7a75a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
+  ryšio_patikimumas: puole -> Minskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūro sienos ir miesto sienos" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste totoriai nusiaubė Minsko apylinkes, todėl pagrįstas puolimo ryšys su Minsku.
 
 <a id="claim-t-89431"></a>
 - t-007
   global_id: t-89431
   teiginys: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius; llm_object: Minskas; llm_object: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'
@@ -251,13 +251,13 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 31142-31804; hash=b9608d251dcd59e9376b733f1bd6710ef5f6a02544a89170317c21ff4e658aa3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saracėnai: 0.85
+  ryšio_patikimumas: puole -> Italija: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Saracėnai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūro sienos ir miesto sienos" parinktas kaip owner_note_path. Targetas "Saracėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo saracėnų antpuolius, nuo kurių saugojosi Italijos miestai.
     - t-003
 
 - c-003
@@ -348,13 +348,13 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471975-472544; hash=513bc221d29ec79f2c0eacb4cc80ed09b7f9107a22dc0abac9a4250c2fc7a75a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
+  ryšio_patikimumas: puole -> Minskas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūro sienos ir miesto sienos" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatos kontekste totoriai nusiaubė Minsko apylinkes, todėl pagrįstas puolimo ryšys su Minsku.
     - t-007
 
 - c-006
@@ -411,3 +411,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   ryšio_subjekto_parinkimas: Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=87
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūro sienos ir miesto sienos" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Mūro sienos ir miesto sienos priklause [[objektai/vietos/Lionas]]

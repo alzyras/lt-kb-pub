@@ -35,6 +35,7 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
   ryšio_subjekto_parinkimas: Vokiečių pirkliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių pirkliai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kaunas: Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves.
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96811|Lybiai]]: Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.
@@ -66,3 +67,13 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
   ryšio_subjekto_parinkimas: Vokiečių pirkliai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiečių pirkliai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Lybiai]]
+- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Aisčiai]]
+- Vokiečių pirkliai keliavo_i [[objektai/vietos/Krėva]]
+- Vokiečių pirkliai keliavo_i [[objektai/vietos/Vilnius]]
+- Vokiečių pirkliai keliavo_i [[objektai/vietos/Gardinas]]
+- [[objektai/daiktai/Malūnas]] priklause Vokiečių pirkliai
+- Vokiečių pirkliai keliavo_i [[objektai/vietos/Padauguvis]]
+- Vokiečių pirkliai prekiavo_su [[objektai/grupes/Rusai]]

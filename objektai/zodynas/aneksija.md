@@ -51,19 +51,19 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 - t-002
   global_id: t-70085
   teiginys: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; llm_object: SSRS'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43f987cd31500e67a6b695d969d79182e5f6feb2ecd2e8054877ebd6b72f1cd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: aneksija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "aneksija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nusako Lietuvos įtraukimą į SSRS sudėtį.
 
 <a id="claim-t-70086"></a>
 - t-003
@@ -171,13 +171,13 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=43f987cd31500e67a6b695d969d79182e5f6feb2ecd2e8054877ebd6b72f1cd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: aneksija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "aneksija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> SSRS: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nusako Lietuvos įtraukimą į SSRS sudėtį.
     - t-003
 
 - c-004

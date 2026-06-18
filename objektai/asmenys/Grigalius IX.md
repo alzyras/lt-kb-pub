@@ -49,7 +49,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lenkija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Grigalius IX|Grigalius IX]] sudarė sutartį su [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais.'
@@ -126,3 +127,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   ryšio_subjekto_parinkimas: Grigalius IX: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Dorpatas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigalius IX" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Grigalius IX sudare_sutarti_su [[objektai/grupes/Teutonai]]
+- Grigalius IX paskyre [[objektai/grupes/Teutonai]]
+- Grigalius IX reme [[objektai/grupes/Teutonai]]

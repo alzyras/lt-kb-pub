@@ -29,7 +29,8 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   global_id: t-87926
   teiginys: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui, kad palūkanos būtų mokamos Švč. Trejybės špitolei.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilnius; llm_object: [[objektai/asmenys/Parulis|Parulis]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Parulis|Parulis]] gyveno Vilnius; [[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Parulis|Parulis]]'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -38,13 +39,13 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389451-389682; hash=2794aa7e41d6afe22ff302233ee64ecb74d62ad0088458f94e42791a8bd459e3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Parulis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parulis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Parulis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Parulis tiesiogiai įvardytas kaip Vilniaus gyventojas.
 - susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87776|Mauricijus]]: 1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
@@ -66,10 +67,14 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389451-389682; hash=2794aa7e41d6afe22ff302233ee64ecb74d62ad0088458f94e42791a8bd459e3; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Parulis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parulis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Parulis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Parulis tiesiogiai įvardytas kaip Vilniaus gyventojas.
+
+## Ryšiai
+- Parulis gyveno [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Namas]] priklause Parulis

@@ -29,7 +29,8 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   global_id: t-80615
   teiginys: 'M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_place: Lenkija; mentioned_place: Vileika; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Ašmenos pavietas; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_place: Lenkija; mentioned_place: Vileika; mentioned_place: Voluinė'
+  semantiniai_rysiai: 'Vileika priklausė Ašmenos pavietas'
   temporaliniai_duomenys: 'įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'
@@ -38,13 +39,13 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b5658823dea3a1500ac81fc85091b5676430a556a3ceda796ec84ec26a7ff547; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ašmenos pavietas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ašmenos pavietas" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ašmenos pavietas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vileika: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ašmenos pavietas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vileikos apylinkės tiesiogiai lokalizuotos Ašmenos paviete.
 
 ## Reikšmingi paminėjimai
 
@@ -74,10 +75,13 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b5658823dea3a1500ac81fc85091b5676430a556a3ceda796ec84ec26a7ff547; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ašmenos pavietas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ašmenos pavietas" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Ašmenos pavietas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vileika: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Ašmenos pavietas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vileikos apylinkės tiesiogiai lokalizuotos Ašmenos paviete.
+
+## Ryšiai
+- [[objektai/vietos/Vileika]] priklause Ašmenos pavietas

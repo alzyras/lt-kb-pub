@@ -24,19 +24,20 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   global_id: t-87847
   teiginys: 'Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.'
   sudarymo_pagrindimas: 'Citata pagrindžia Rudolfo dalyvavimą pasitarime ir laiško siuntime.'
-  susije_objektai: 'mentioned_place: Elbliongas; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Estija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Elbliongas; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Estija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; llm_object: Elbliongas'
+  semantiniai_rysiai: '[[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)|Rudolfas (Pomezanijos vyskupas)]] keliavo į Elbliongas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbliongas: 0.85
+  ryšio_patikimumas: keliavo_i -> Elbliongas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudolfas (Pomezanijos vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudolfas (Pomezanijos vyskupas)" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbliongas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +73,13 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbliongas: 0.85
+  ryšio_patikimumas: keliavo_i -> Elbliongas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudolfas (Pomezanijos vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudolfas (Pomezanijos vyskupas)" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Elbliongas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge.
+
+## Ryšiai
+- Rudolfas (Pomezanijos vyskupas) keliavo_i [[objektai/vietos/Elbliongas]]

@@ -31,8 +31,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   global_id: t-89626
   teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] paskyrė [[objektai/asmenys/Kiška|Kiška]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] paskyrė [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]'
   temporaliniai_duomenys: 'įvykio data: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -41,13 +41,13 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Kiška: 0.92
+  ryšio_patikimumas: paskyre -> Stanislovas Kiška: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Kiška: nearest_after_predicate, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kiška" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Stanislovas Kiška: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras paskyrė kariuomenės vadus, tarp jų Stanislovą Kišką.
 
 <a id="claim-t-89627"></a>
 - t-002
@@ -132,7 +132,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=14
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187764|LDK Ponų Taryba (institucija, XV a.)]]: J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi dėl dinastinių interesų.
+- susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
@@ -262,6 +262,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86552|svečiai Svečių namai]]: Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86553|svečiai Svečių namai]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185335|žygūnas]]: Aleksandras pavedė Trakų vaivadai Zaberezinskiui atsakyti Ivano žygūnui dėl mėginimo numalšinti Ivano įsiūtį per pasiuntinius.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72613|Ponų taryba (institucija)]]: Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -390,13 +391,13 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Kiška: 0.92
+  ryšio_patikimumas: paskyre -> Stanislovas Kiška: 0.88
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=31
-  ryšio_targeto_parinkimas: Kiška: nearest_after_predicate, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kiška" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Stanislovas Kiška: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aleksandras paskyrė kariuomenės vadus, tarp jų Stanislovą Kišką.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact
@@ -410,5 +411,20 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Aleksandras keliavo_i [[objektai/vietos/Krokuva]]
 - Aleksandras paskyre [[objektai/asmenys/Kiška]]
-- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]] reme Aleksandras
+- Aleksandras keliavo_i [[objektai/vietos/Vilnius]]
+- Aleksandras paskyre [[objektai/asmenys/Jonas Černinas]]
+- [[objektai/asmenys/Mendli Girėjus]] buvo_priesas Aleksandras
+- Aleksandras paskyre [[objektai/asmenys/Stanislovas Kiška]]
+- Aleksandras siunte_i [[objektai/vietos/Smolenskas]]
+- Aleksandras vede [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- Aleksandras reme [[objektai/grupes/Dominikonų ordinas]]
+- Aleksandras gyveno [[objektai/vietos/Minskas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] paskyre Aleksandras
+- Aleksandras pastate [[objektai/vietos/Braclavas]]
+- Aleksandras keliavo_i [[objektai/vietos/Borisovas]]
+- Aleksandras keliavo_i [[objektai/vietos/Brasta]]
+- Aleksandras keliavo_i [[objektai/vietos/Minskas]]
+- Aleksandras paskyre [[objektai/asmenys/Zaberezinskis]]
+- Aleksandras keliavo_i [[objektai/vietos/Nemėžis]]

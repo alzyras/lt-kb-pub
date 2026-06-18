@@ -44,6 +44,7 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
   ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tripolis" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
+- susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
 - susijęs iš Tvankstė (pilis): Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr.
 ## Reikšmingi paminėjimai
 
@@ -72,3 +73,6 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
   ryšio_subjekto_parinkimas: Tripolis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tripolis" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Krikščionys]] gyveno Tripolis

@@ -32,7 +32,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   global_id: t-182770
   teiginys: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]'
+  susije_objektai: 'llm_object: Kėdainiai; mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/J. Variakojis|J. Variakojis]] keliavo į Kėdainiai'
   temporaliniai_duomenys: 'kelionės data: 1918 m.; kelionės data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'
@@ -50,6 +51,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+- susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
+- susijęs iš [[objektai/asmenys/J. Variakojis.md#claim-t-40167|J. Variakojis]]: 1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09855|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.
+- susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40247|K. Dragunevičius]]: K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.
+- susijęs iš [[objektai/grupes/Bolševikų 2-asis šaulių pulkas.md#claim-t-40869|Bolševikų 2-asis šaulių pulkas]]: Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
 - susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40247|K. Dragunevičius]]: K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.
 - susijęs iš [[objektai/grupes/Bolševikų 2-asis šaulių pulkas.md#claim-t-40869|Bolševikų 2-asis šaulių pulkas]]: Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.
@@ -133,6 +139,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš Žiežmariai: 1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.
 - susijęs iš [[objektai/zodynas/Savanoris.md#claim-t-42426|Savanoris]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.
 - susijęs iš [[objektai/zodynas/konjunktūrinis istorikas.md#claim-t-99984|konjunktūrinis istorikas]]: Neturėdamas pastovaus atlyginimo, Matusas buvo priverstas tapti konjunktūriniu istoriku ir istorijos žurnalistu.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
+- susijęs iš Šėta: Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
+- susijęs iš Betygala: 1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -173,3 +182,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/asmenys/J. Variakojis]] keliavo_i Kėdainiai
+- [[objektai/asmenys/J. Mikoliūnas]] gyne Kėdainiai
+- [[objektai/asmenys/K. Dragunevičius]] gyne Kėdainiai
+- [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]] keliavo_i Kėdainiai
+- [[objektai/grupes/Lietuviai]] gyne Kėdainiai
+- [[objektai/grupes/NKVD]] keliavo_i Kėdainiai

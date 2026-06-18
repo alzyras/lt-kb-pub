@@ -78,3 +78,6 @@ Radvilos pajėgos.
   ryšio_subjekto_parinkimas: J. Radvila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=3
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Radvila" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- J. Radvila surenge_zygi_i [[objektai/vietos/Lojevas]]

@@ -52,3 +52,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Aušrėnai gyveno [[objektai/vietos/Baltija]]

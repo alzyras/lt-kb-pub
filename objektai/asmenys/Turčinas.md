@@ -108,3 +108,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   ryšio_subjekto_parinkimas: Turčinas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Leipcigas: mention_match, place, gap=54
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turčinas" parinktas kaip owner_note_path. Targetas "Leipcigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Turčinas keliavo_i [[objektai/vietos/Leipcigas]]

@@ -37,6 +37,7 @@ tags:
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178932|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179104|Kryžiuočių ordinas]]: XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
 - susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
+- susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,3 +67,6 @@ tags:
   ryšio_subjekto_parinkimas: Zietela: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=78
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zietela" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyveno Zietela

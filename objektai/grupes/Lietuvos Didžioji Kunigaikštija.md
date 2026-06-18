@@ -64,7 +64,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - t-002
   global_id: t-169682
   teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -89,13 +89,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
 
 <a id="claim-t-169684"></a>
 - t-004
@@ -108,13 +108,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=126
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
 
 <a id="claim-t-169685"></a>
 - t-005
@@ -127,13 +127,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f65960433b20d2c2b2be96f1baba7b5f1b3ff0cf1d65ed9382463d66d5c10d8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Gedimino valdymą; kandidatuose nėra Algirdo.
 
 <a id="claim-t-169686"></a>
 - t-006
@@ -159,7 +159,8 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   global_id: t-169687
   teiginys: 'Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti note objektą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Rusia; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Rusia; mentioned_place: Vitebskas; llm_object: Lietuva; llm_object: Baltoji Rusia; llm_object: Vitebskas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]] valdė teritoriją Baltoji Rusia; [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]] valdė miestą Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m.; įvykio data: 1363 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti note objektą ir sutrumpinti sakinį.'
@@ -187,20 +188,20 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą.
 
 <a id="claim-t-169690"></a>
 - t-009
   global_id: t-169690
   teiginys: 'Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.'
   sudarymo_pagrindimas: 'Perrašyta glaustiau ir pašalintas perteklinis įvardis, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Gardinas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Gardinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1831 m.; įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaustiau ir pašalintas perteklinis įvardis, išlaikant citatos faktą.'
@@ -209,39 +210,39 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5e5750105bb7d6faf5556a0c0702770918b10a973445aed4db072c830bdeace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žydai gyveno istorinėje Lietuvoje.
 
 <a id="claim-t-169691"></a>
 - t-010
   global_id: t-169691
   teiginys: 'Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą.'
   sudarymo_pagrindimas: 'Teiginį reikia sutvarkyti į sklandesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; llm_object: Lietuva'
   pagrindžia:
     - c-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Žemaitiją kaip Lietuvos dalį.
 
 <a id="claim-t-169692"></a>
 - t-011
   global_id: t-169692
   teiginys: '1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinę interpretacinę pabaigą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi perteklinę interpretacinę pabaigą.'
@@ -250,13 +251,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 71975-72773; hash=6388e9e6a711a3164f7ad81755ce3e21b6b5246c6791d23dd276d6a9c493f1a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą.
 
 <a id="claim-t-169693"></a>
 - t-012
@@ -282,7 +283,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   global_id: t-169694
   teiginys: 'Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   sudarymo_pagrindimas: 'Reikia pavadinti note objektą, o ne abstrakčiai „Lietuvos valstybę“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Lietuva'
   pagrindžia:
     - c-001
 
@@ -313,7 +314,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   global_id: t-169697
   teiginys: 'Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; llm_object: Lietuva'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -359,6 +360,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą.
 - susijęs iš Lenkija: Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.
 - susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179079|Kryžiuočių ordinas]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -450,13 +452,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bf613fb867530f61bb7690d217935a0bcb3981a7f69aee2a7238c5a91ee5595; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą.
     - t-007
 
 - c-005
@@ -538,13 +540,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f65960433b20d2c2b2be96f1baba7b5f1b3ff0cf1d65ed9382463d66d5c10d8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumas: valde -> Lietuva: 0.79
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Gedimino valdymą; kandidatuose nėra Algirdo.
     - t-006
 
 - c-008
@@ -603,13 +605,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c5e5750105bb7d6faf5556a0c0702770918b10a973445aed4db072c830bdeace; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad žydai gyveno istorinėje Lietuvoje.
     - t-004
 
 - c-010
@@ -628,13 +630,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=126
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
     - t-003
 
 - c-011
@@ -660,13 +662,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1a3b31b115e361728eac22f2d98e743a0e01f3370764d874dd4ff019d8d7005b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kalavijuočių ordinas: mention_match, group, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Kalavijuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.
     - t-010
 
 - c-012
@@ -689,13 +691,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Žemaitiją kaip Lietuvos dalį.
     - t-011
 
 - c-013
@@ -713,13 +715,13 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   irodymo_stiprumas: 0.00
   saltinio_vieta: 71975-72773; hash=6388e9e6a711a3164f7ad81755ce3e21b6b5246c6791d23dd276d6a9c493f1a6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: siunte_i -> Lietuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad lenkų pareigūnai buvo siunčiami į Lietuvą.
     - t-016
 
 - c-014
@@ -787,3 +789,8 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   ryšio_subjekto_parinkimas: Lietuvos Didžioji Kunigaikštija: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=53
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Didžioji Kunigaikštija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos Didžioji Kunigaikštija valde_teritorija [[objektai/vietos/Baltoji Rusia]]
+- Lietuvos Didžioji Kunigaikštija valde_miesta [[objektai/vietos/Vitebskas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] buvo_priesas Lietuvos Didžioji Kunigaikštija

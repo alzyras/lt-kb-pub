@@ -68,19 +68,19 @@ Nenurodyta
   teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biržų (Medeikių) mūšis (1863 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Rusų pėstininkų ataka prieš lietuvių pozicijas tiesiogiai remia rusai -> puolė -> lietuviai.
 
 <a id="claim-t-10205"></a>
 - t-003
@@ -88,7 +88,7 @@ Nenurodyta
   teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai sujungia citatoje nurodytus įvykius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai sujungia citatoje nurodytus įvykius.'
@@ -97,13 +97,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biržų (Medeikių) mūšis (1863 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rusų pėstininkų ataką prieš lietuvių gynybines pozicijas.
 
 <a id="claim-t-10206"></a>
 - t-004
@@ -210,13 +210,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biržų (Medeikių) mūšis (1863 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Rusų pėstininkų ataka prieš lietuvių pozicijas tiesiogiai remia rusai -> puolė -> lietuviai.
     - t-003
 
 - c-003
@@ -243,13 +243,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biržų (Medeikių) mūšis (1863 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rusų pėstininkų ataką prieš lietuvių gynybines pozicijas.
     - t-004
 
 - c-004

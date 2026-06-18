@@ -34,7 +34,8 @@ Nenurodyta
   global_id: t-113191
   teiginys: '1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.'
   sudarymo_pagrindimas: 'Citata palaiko mongolų dalyvavimą puolime; pašalintas nesusijęs puslapio triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Haličo kunigaikščiai|Haličo kunigaikščiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Haličo kunigaikščiai|Haličo kunigaikščiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Mongolai|Mongolai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Haličo kunigaikščiai|Haličo kunigaikščiai]] buvo sąjungininkas su [[objektai/grupes/Mongolai|Mongolai]]; [[objektai/grupes/Mongolai|Mongolai]] puolė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1272 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko mongolų dalyvavimą puolime; pašalintas nesusijęs puslapio triukšmas.'
@@ -43,20 +44,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec955255e72fda6e118b2220b280c0f32e63c9155f5bb621cf3522d4a05c04a2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sutriuškinimas prie Mėlynųjų vandenų tiesiogiai rodo Lietuvos kariuomenės karinį veiksmą prieš mongolus.
 
 <a id="claim-t-113192"></a>
 - t-002
   global_id: t-113192
   teiginys: 'Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Mongolai|Mongolai]]'
   temporaliniai_duomenys: 'įvykio data: 1328 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir tiksliai perteikia citatos faktą.'
@@ -65,13 +67,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41399-41760; hash=d2dfc257b4d51bf0232831d288897cacfe0a9fda9f047d6d950f83e2fbe0b4d2; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Haličas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Haličo kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Haličo kunigaikščiai puolė Lietuvą.
 
 <a id="claim-t-183665"></a>
 - t-003
@@ -81,7 +83,8 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/grupes/Mongolai|Mongolai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] kariavo prieš [[objektai/grupes/Mongolai|Mongolai]]'
   temporaliniai_duomenys: 'įvykio data: 1328 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir paremtas pateikta citata.'
@@ -90,13 +93,17 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 52898-53284; hash=f78fc1473e3fb9a3d2d8d6ef3688f7eda6dae234f40207841358f9b709a27d4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad mongolai konkuravo su lietuviais ir buvo sutriuškinti Lietuvos kariuomenės; leidžiamas kandidatas leidžia užfiksuoti lietuvių ir mongolų priešpriešą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10070|Algirdas (Lietuvos valdovas)]]: Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183725|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182738|Lietuvos kariuomenė]]: Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10070|Algirdas (Lietuvos valdovas)]]: Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10071|Algirdas (Lietuvos valdovas)]]: 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
@@ -132,6 +139,10 @@ Nenurodyta
 - susijęs iš Tverė: Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai.
 - susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
 - susijęs iš [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai.md#claim-t-42497|pilėnai nuolatiniai karo tarnybininkai]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.
+- susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55065|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.
+- susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55066|Haličo kunigaikščiai]]: Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.
+- susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
+- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-183693|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -178,13 +189,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 41399-41760; hash=d2dfc257b4d51bf0232831d288897cacfe0a9fda9f047d6d950f83e2fbe0b4d2; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Haličas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Haličo kunigaikščiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Haličo kunigaikščiai puolė Lietuvą.
     - t-001
 
 - c-003
@@ -210,21 +221,29 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ec955255e72fda6e118b2220b280c0f32e63c9155f5bb621cf3522d4a05c04a2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Sutriuškinimas prie Mėlynųjų vandenų tiesiogiai rodo Lietuvos kariuomenės karinį veiksmą prieš mongolus.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 52898-53284; hash=f78fc1473e3fb9a3d2d8d6ef3688f7eda6dae234f40207841358f9b709a27d4d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mongolai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mongolai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata nurodo, kad mongolai konkuravo su lietuviais ir buvo sutriuškinti Lietuvos kariuomenės; leidžiamas kandidatas leidžia užfiksuoti lietuvių ir mongolų priešpriešą.
+
+## Ryšiai
+- Mongolai puole [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]] kariavo_pries Mongolai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Mongolai
+- [[objektai/grupes/Haličo kunigaikščiai]] buvo_sajungininkas_su Mongolai
+- Mongolai surenge_zygi_i [[objektai/vietos/Sirija]]
+- [[objektai/grupes/Lietuviai]] kariavo_pries Mongolai

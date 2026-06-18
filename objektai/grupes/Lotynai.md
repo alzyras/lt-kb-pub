@@ -29,19 +29,20 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   teiginys: 'Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir pagrįstas citata apie lotynus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  susije_objektai: 'llm_object: Konstantinopolis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  semantiniai_rysiai: '[[objektai/grupes/Lotynai|Lotynai]] valdė miestą Konstantinopolis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 692161-692591; hash=11c8f5d2039245f5d7608166d31cc3250371ccc06e56f0d1a507dbe4c3f82009; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lotynai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lotynai" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Konstantinopolį užėmė prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
 - susijęs iš [[objektai/asmenys/Julijona.md#claim-t-176503|Julijona]]: Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis.
 - susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87539|Laurynas Goslickis]]: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.
@@ -195,10 +196,14 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 692161-692591; hash=11c8f5d2039245f5d7608166d31cc3250371ccc06e56f0d1a507dbe4c3f82009; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lotynai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lotynai" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Konstantinopolis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Prancūzai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Konstantinopolis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Konstantinopolį užėmė prancūzai ir Venecijos kariai.
+
+## Ryšiai
+- Lotynai valde_miesta [[objektai/vietos/Konstantinopolis]]
+- Lotynai valde [[objektai/vietos/Konstantinopolis]]

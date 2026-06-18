@@ -56,7 +56,8 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   global_id: t-170920
   teiginys: 'Apie 100 000 lietuvių gyveno Vilniaus krašte.'
   sudarymo_pagrindimas: 'Pradinis teiginys per platus, o citata leidžia suformuluoti aiškų faktą apie Vilniaus kraštą.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: Vilniaus kraštas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Vilniaus kraštas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -103,13 +104,13 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302712-303100; hash=d83ce31e135983d9364b2e0374c930d70f5540fd00b7129b2415afe339bf11e6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.95
+  ryšio_patikimumas: gyveno -> Vilniaus kraštas: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=9
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilniaus kraštas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai gyveno Vilniaus krašte.
 
 <a id="claim-t-170924"></a>
 - t-006
@@ -271,13 +272,13 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   irodymo_stiprumas: 0.00
   saltinio_vieta: 302712-303100; hash=d83ce31e135983d9364b2e0374c930d70f5540fd00b7129b2415afe339bf11e6; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.95
+  ryšio_patikimumas: gyveno -> Vilniaus kraštas: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=9
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilniaus kraštas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai gyveno Vilniaus krašte.
     - t-002
 
 - c-006
@@ -352,3 +353,6 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
   ryšio_subjekto_parinkimas: Vilniaus kraštas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus kraštas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] gyveno Vilniaus kraštas

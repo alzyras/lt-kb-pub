@@ -188,3 +188,6 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   ryšio_subjekto_parinkimas: Vaclovas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=61
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaclovas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vaclovas reme [[objektai/grupes/Kryžiuočių ordinas]]

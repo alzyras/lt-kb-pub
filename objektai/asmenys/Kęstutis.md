@@ -148,8 +148,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   global_id: t-176516
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir pagrįstas citata apie Trakų pilies pritaikymą buveinei.'
-  susije_objektai: 'family: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] buvo sūnus [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-020
 
@@ -201,8 +200,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   global_id: t-176520
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie Trakų pilį.'
-  susije_objektai: 'family: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] buvo sūnus [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
@@ -227,13 +225,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176524"></a>
 - t-016
@@ -265,20 +263,19 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176528"></a>
 - t-018
   global_id: t-176528
   teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] buvo sūnus [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -329,8 +326,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   global_id: t-176532
   teiginys: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko glaustą genealoginį faktą.'
-  susije_objektai: 'family: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] buvo sūnus [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko glaustą genealoginį faktą.'
@@ -397,13 +393,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184765"></a>
 - t-028
@@ -419,13 +415,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184766"></a>
 - t-029
@@ -485,13 +481,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134698-135152; hash=cb90c8fea7f96f2cc359bfd959ae4cfecb3f849ff3265c55fabd6314a7c41d2a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184769"></a>
 - t-032
@@ -560,12 +556,23 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-034
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
+- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
+- susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-184816|Patrikas (kunigaikštis, XIV a.)]]: Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176672|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-184816|Patrikas (kunigaikštis, XIV a.)]]: Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176769|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35833|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184722|Jogaila (kunigaikštis, XIV–XV a.)]]: Prieš Kęstučio kariuomenę stojęs Jogaila numanė, kad kova pareikalaus didelių aukų, todėl pirmiau bandė veikti žodžiais.
+- susijęs iš [[objektai/asmenys/Verneris fon Vindekenas.md#claim-t-186265|Verneris fon Vindekenas]]: Verneris fon Vindekenas numetė Kęstutį nuo arklio, po to Kęstutis pėsčiomis grūmėsi su pėsčiu riteriu.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176160|Žemaičiai]]: 1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184278|Jogaila (kunigaikštis, XIV–XV a.)]]: Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.
+- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97459|Kaributas]]: Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176312|Algirdas (Lietuvos valdovas)]]: Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
@@ -621,6 +628,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.
 - susijęs iš Žemaičių žemė: Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.
 - susijęs iš [[objektai/zodynas/Paliaubos induciae.md#claim-t-86503|Paliaubos induciae]]: Jogailos pusė Rygoje sudarė paliaubas su Livonijos magistru, apeidama Kęstutį ir jo Žemaitijos kunigaikštystę.
+- susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173240|Vladislovas Jogaila]]: Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.
+- susijęs iš Kęstučio dvaras: Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus.
 - susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
 - susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05157|Algirdas (Lietuvos valdovas)]]: Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.
@@ -812,6 +822,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176148|Žemaičiai]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176160|Žemaičiai]]: 1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176167|Žemaičiai]]: Vytautas turėjo didelių simpatijų Žemaičiuose ir Lietuvoje, todėl buvo laikomas galinčiu įvesti krašte tvarką ir ramybę.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187754|Žemaičiai]]: Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187757|Žemaičiai]]: Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66423|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasarį Jogaila vienas sudarė paliaubas su Livonijos ordinu, iš jų išskirdamas Žemaičius ir kitas Kęstučio žemes.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66424|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasario paliaubos su Livonijos ordinu neapėmė Žemaičių ir kitų Kęstučio žemių, todėl Ordinas galėjo jas pulti.
@@ -1115,6 +1126,24 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-184250|tėviškė]]: Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176258|vietininkas]]: Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176261|vietininkas]]: Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį.
+- susijęs iš [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas.md#claim-t-176226|Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]: Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173242|Vladislovas Jogaila]]: Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.
+- susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
+- susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176664|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.
+- susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182804|Jogaila (kunigaikštis, XIV–XV a.)]]: Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio.
+- susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97013|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. pradžioje Prūsų kryžiuočiai teriojo Kęstučio valdas.
+- susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
+- susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
+- susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
+- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184380|Žygimantas]]: Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.
+- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66523|Dovydiškių sutarties sudarymas]]: Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1584,13 +1613,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-021
@@ -1638,13 +1667,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-023
@@ -1779,13 +1808,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-028
 
 - c-028
@@ -1811,13 +1840,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=23
-  ryšio_targeto_parinkimas: Gediminas: nearest_family_person, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-029
 
 - c-029
@@ -1919,13 +1948,13 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 134698-135152; hash=cb90c8fea7f96f2cc359bfd959ae4cfecb3f849ff3265c55fabd6314a7c41d2a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_family_local_relative
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=15
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_family_person, person, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-032
 
 - c-032
@@ -2032,16 +2061,75 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-035
 
 ## Ryšiai
-- [[objektai/grupes/Žemaičiai]] susije_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) uzeme [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Birutė]] vede Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Gediminas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Narimantas Gediminaitis]] buvo_brolis Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Patirgas]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
 - [[objektai/asmenys/Tautvila]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
 - [[objektai/asmenys/Tautvilas]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_miesta [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) uzeme [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sunus Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) uzeme [[objektai/vietos/Suražas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilniaus pilis]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Palenkė]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) vede [[objektai/asmenys/Birutė]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgule [[objektai/vietos/Jurbarkas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_palaidotas [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]]
+- [[objektai/asmenys/Birutė]] buvo_zmona Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mire [[objektai/vietos/Krėva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastate [[objektai/vietos/Naujasis Kaunas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Nadruva]]
+- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]] gyne Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Gardino žemė]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sunus [[objektai/asmenys/Gediminas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Palenkė]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krėva]]
+- [[objektai/asmenys/Verneris fon Vindekenas]] puole Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/grupes/Žemaičiai]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Kaributas]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Maskva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Mazovija]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Semba]]
+- [[objektai/asmenys/Danuta]] buvo_dukte Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_palaidotas [[objektai/daiktai/Laužas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyne [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Brasta]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Gardinas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Kęstučio dvaras]] priklause Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Vladislovas Jogaila]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Sandomiras]]
+- [[objektai/asmenys/Dimitras Kaributas]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) reme [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andrius Algirdaitis]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/grupes/Bajorai]] reme Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Jurbarkas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Žemaičių žemė]]
+- [[objektai/asmenys/Svirdeika]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Patirgas]] buvo_sajungininkas_su Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_priesas Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastate [[objektai/vietos/Kaunas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_sajungininkas_su [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyne [[objektai/vietos/Nevėžio žiotys]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Vėluva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) siunte_i [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Žygimantas]] buvo_brolis Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] paskyre Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puole [[objektai/vietos/Želva]]

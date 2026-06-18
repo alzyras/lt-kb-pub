@@ -30,7 +30,8 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   teiginys: 'Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas paaiškinimu.'
-  susije_objektai: 'mentioned_place: Dniestras; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Smotričė'
+  susije_objektai: 'llm_object: Podolė; mentioned_place: Dniestras; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Smotričė'
+  semantiniai_rysiai: 'Podolės Kamenecas priklausė Podolė'
   temporaliniai_duomenys: 'įvykio data: 1062 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas paaiškinimu.'
@@ -62,13 +63,13 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aa7cf4515b9dbe271a6f65490665b5951cfde36ee110ab21889d630eb876683; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Dniestras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolės Kamenecas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dniestras: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolės Kamenecas" parinktas kaip owner_note_path. Targetas "Dniestras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolės Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo, kad Podolės Kamenecas yra Podolės miestas.
 
 <a id="claim-t-187291"></a>
 - t-003
@@ -174,13 +175,13 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aa7cf4515b9dbe271a6f65490665b5951cfde36ee110ab21889d630eb876683; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Dniestras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Podolės Kamenecas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dniestras: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolės Kamenecas" parinktas kaip owner_note_path. Targetas "Dniestras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Podolė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Podolės Kamenecas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė nurodo, kad Podolės Kamenecas yra Podolės miestas.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9aa7cf4515b9dbe271a6f65490665b5951cfde36ee110ab21889d630eb876683; match=fallback; occurrences=0
@@ -192,3 +193,6 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
   ryšio_subjekto_parinkimas: Podolės Kamenecas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolės Kamenecas" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Podolės Kamenecas priklause [[objektai/vietos/Podolė]]

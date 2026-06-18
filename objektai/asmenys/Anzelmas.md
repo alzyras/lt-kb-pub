@@ -32,7 +32,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   global_id: t-60084
   teiginys: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Brunsbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Brunsbergas; mentioned_place: Brunsbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Prūsai; mentioned_place: Varmė'
+  semantiniai_rysiai: '[[objektai/asmenys/Anzelmas|Anzelmas]] pastatė Brunsbergas'
   pagrindžia:
     - c-001
 
@@ -56,3 +57,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Anzelmas (vyskupas, XIII a.) pastate [[objektai/vietos/Brunsbergas]]

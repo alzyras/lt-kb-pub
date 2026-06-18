@@ -74,3 +74,6 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   ryšio_subjekto_parinkimas: Martynas iš Opavos (arkivyskupas, XIII a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Opavos (arkivyskupas, XIII a.)" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Martynas iš Opavos (arkivyskupas, XIII a.) gyveno [[objektai/vietos/Čekija]]

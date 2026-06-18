@@ -77,3 +77,6 @@ Bogdanas Maskevičius su kitais sužeistais pulkų vadais prasiskynė kelią per
   ryšio_subjekto_parinkimas: Bogdanas Maskevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Kardas: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bogdanas Maskevičius" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Bogdanas Maskevičius dalyvavo_musyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

@@ -22,19 +22,20 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-02923
   teiginys: 'Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.'
   sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir pašalinti nuorodinį žodį „čia“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Mažoji Azija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Mažoji Azija; llm_object: Šiaurės jūra; llm_object: Baltija'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] valdė Šiaurės jūra'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumas: valde -> Šiaurės jūra: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės jūra: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės jūra" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės jūra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį.
 
 ## Reikšmingi paminėjimai
 
@@ -59,21 +60,24 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumas: valde -> Šiaurės jūra: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės jūra: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės jūra" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės jūra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumas: valde -> Šiaurės jūra: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės jūra: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės jūra" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Hanza: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Šiaurės jūra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį.
+
+## Ryšiai
+- [[objektai/grupes/Hanza]] valde Šiaurės jūra

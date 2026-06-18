@@ -51,7 +51,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   global_id: t-181338
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/de jure|de jure]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_object: [[objektai/zodynas/de jure|de jure]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -60,13 +61,13 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=518dc3a258b41c7cd31e0d3d8c20ff94d3d16e9f14b24b40efe858cc6abe5ad3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> de jure: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: de jure: mention_match, thing, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautų Sąjunga" parinktas kaip owner_note_path. Targetas "de jure" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Tautų Sąjunga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Tautų Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos priėmimą į Tautų Sąjungą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-183558|L. Želigovskis]]: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
@@ -114,13 +115,13 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=518dc3a258b41c7cd31e0d3d8c20ff94d3d16e9f14b24b40efe858cc6abe5ad3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> de jure: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: de jure: mention_match, thing, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautų Sąjunga" parinktas kaip owner_note_path. Targetas "de jure" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Tautų Sąjunga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Tautų Sąjunga: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos priėmimą į Tautų Sąjungą.
     - t-002
 
 - c-003
@@ -145,3 +146,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] priklause Tautų Sąjunga

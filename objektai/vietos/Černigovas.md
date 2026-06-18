@@ -39,7 +39,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-001
   global_id: t-122957
   teiginys: 'Švitrigaila paėmė į savo valdžią Černigovo sritį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Černigovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Černigovas'
   pagrindžia:
     - c-005
 
@@ -65,7 +66,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-122961
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Dniepras; mentioned_place: Brianskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Brianskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; llm_object: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] užėmė Černigovas'
   temporaliniai_duomenys: 'įvykio data: 1237-1263; įvykio data: 1255 m.; įvykio data: apie 1255 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -86,7 +88,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-122963
   teiginys: '1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet įvestyje yra OCR triukšmo ir perteklinių vietovardžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Černigovas; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Černigovas'
   temporaliniai_duomenys: 'kelionės data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį, bet įvestyje yra OCR triukšmo ir perteklinių vietovardžių.'
@@ -116,7 +119,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-122965
   teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie prekybą su Černigovu; pašalintas perteklinis kontekstas.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Černigovas'
+  semantiniai_rysiai: 'Vilnius prekiavo su Černigovas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -167,13 +171,13 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93d523c0a820e6b2271fcf71ce080bc12761288f5326aa677f32abcfe80266b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Černigovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie Vilniaus miestiečių prekybą su Černigovu; miestą naudojame kaip bendruomenės vietos objektą.
 
 <a id="claim-t-122969"></a>
 - t-012
@@ -198,7 +202,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-122971
   teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams muito laisvę prekiaujant su Černigovu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą apie prekybą su Černigovu.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Černigovas'
+  semantiniai_rysiai: 'Vilnius prekiavo su Černigovas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -220,19 +225,20 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Černigovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Černigovas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93d523c0a820e6b2271fcf71ce080bc12761288f5326aa677f32abcfe80266b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Černigovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie Vilniaus miestiečių prekybą su Černigovu; miestą naudojame kaip bendruomenės vietos objektą.
 
 <a id="claim-t-185215"></a>
 - t-016
@@ -242,7 +248,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalinant triukšmą ir aiškiai susiejant Černigovą su citatos faktu.'
-  susije_objektai: 'mentioned_place: Brianskas; mentioned_place: Naugardas; mentioned_place: Rylskas; mentioned_place: Severskas; mentioned_place: Seversko žemė; mentioned_place: Seversko žemės; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Seversko žemės; mentioned_place: Brianskas; mentioned_place: Naugardas; mentioned_place: Rylskas; mentioned_place: Severskas; mentioned_place: Seversko žemė; mentioned_place: Seversko žemės; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Černigovas priklausė Seversko žemės'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -270,13 +277,16 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Černigovas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Vytautas keliavo pro Černigovą.
+- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
+- susijęs iš Novosilė: Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.
+- susijęs iš Brianskas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 - susijęs iš [[objektai/grupes/Černigovo kunigaikštystė.md#claim-t-187777|Černigovo kunigaikštystė]]: Černigovas, Starodubas ir Karačevas buvo suskilusios Černigovo kunigaikštystės smulkesnių valdų sostinės.
 - susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
 - susijęs iš Novosilė: Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.
@@ -317,6 +327,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-182991|vietininkas]]: Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
+- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
+- susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -382,13 +395,13 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93d523c0a820e6b2271fcf71ce080bc12761288f5326aa677f32abcfe80266b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Černigovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie Vilniaus miestiečių prekybą su Černigovu; miestą naudojame kaip bendruomenės vietos objektą.
     - t-002
     - t-009
 
@@ -469,13 +482,13 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=93d523c0a820e6b2271fcf71ce080bc12761288f5326aa677f32abcfe80266b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: prekiavo_su -> Černigovas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys kalba apie Vilniaus miestiečių prekybą su Černigovu; miestą naudojame kaip bendruomenės vietos objektą.
     - t-013
 
 - c-007
@@ -602,10 +615,20 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 86445-86946; hash=98b2658864152d32c1615e5b7dff1e2f809caca0526117eb8856d8f5ac150144; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Černigovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Černigovas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Černigovas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Černigovas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Vytautas keliavo pro Černigovą.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Černigovas
+- Černigovas priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Černigovas
+- [[objektai/vietos/Novosilė]] priklause Černigovas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Černigovas
+- Černigovas priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- Černigovas priklause [[objektai/vietos/Seversko žemės]]
+- [[objektai/vietos/Vilnius]] prekiavo_su Černigovas

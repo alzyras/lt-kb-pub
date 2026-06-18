@@ -26,7 +26,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   global_id: t-91233
   teiginys: 'Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateiktu aiškinimu.'
-  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,13 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   ryšio_subjekto_parinkimas: Pamaris: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamaris" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97308|Aldona Gediminaitė]]: 1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
+- susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-55060|Bremeno pirkliai]]: Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš [[objektai/grupes/Bremeno pirkliai.md#claim-t-80802|Bremeno pirkliai]]: Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
+- susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-63387|Žalgirio mūšis (1410 m.)]]: Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
+- susijęs iš Pamarys: Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.
+- susijęs iš Gardino sritis: Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
@@ -142,3 +149,10 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   ryšio_subjekto_parinkimas: Pamaris: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pamaris" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Pamaris
+- [[objektai/grupes/Bremeno pirkliai]] prekiavo_su Pamaris
+- [[objektai/grupes/Slavai]] gyveno Pamaris
+- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Pamaris
+- [[objektai/grupes/Vokiečių ordinas]] valde_teritorija Pamaris

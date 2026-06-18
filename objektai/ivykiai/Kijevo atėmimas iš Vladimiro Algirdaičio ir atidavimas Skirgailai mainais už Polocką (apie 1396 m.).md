@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-100033
   teiginys: 'Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus veiksmus, vietas ir mainų rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kijevas; mentioned_place: Polockas; mentioned_place: Žitomiras; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kijevas; mentioned_place: Polockas; mentioned_place: Žitomiras; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; llm_object: Žitomiras'
   temporaliniai_duomenys: 'įvykio data: 1396 m.; įvykio data: apie 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus veiksmus, vietas ir mainų rezultatą.'
@@ -53,13 +53,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 852736-853048; hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas atėmė Kijevą.
 
 ## Reikšmingi paminėjimai
 
@@ -82,10 +82,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 852736-853048; hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas atėmė Kijevą.

@@ -36,7 +36,7 @@ amziai:
   global_id: t-67866
   teiginys: 'Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.'
   sudarymo_pagrindimas: 'Originalas gremėzdiškas; citata palaiko trumpesnį enciklopedinį sakinį.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1260 m.; mūšio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Vokiečiai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalas gremėzdiškas; citata palaiko trumpesnį enciklopedinį sakinį.'
@@ -45,20 +45,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf4e81b7746639b57b2bdd5a7066ab4f9f82566e562b63c22745fa13a35771a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai sutriuškino Vokiečių ordino kariuomenės dalį.
 
 <a id="claim-t-67867"></a>
 - t-002
   global_id: t-67867
   teiginys: '1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo įvykį prie Durbės, datą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia'
   temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo įvykį prie Durbės, datą ir rezultatą.'
@@ -67,20 +67,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bd0af7fb2960cd740a2c92e1a679828ca7126f099e86d668da41e754b25b594; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): first_person_target, person, gap=37
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip first_person_target. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-67868"></a>
 - t-003
   global_id: t-67868
   teiginys: 'Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir sieja pasirengimą su mūšiu prie Durbės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Georgenburgas; mentioned_place: Livonija; llm_object: Georgenburgas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir sieja pasirengimą su mūšiu prie Durbės.'
@@ -89,20 +89,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.83
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=125
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Blokavimas tiesiogiai rodo karinį Georgenburgo apsupimą ar blokadą lietuvių veiksmais.
 
 <a id="claim-t-67869"></a>
 - t-004
   global_id: t-67869
   teiginys: 'Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria šaltinio vartoseną Eiliuotai Livonijos kronikai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Livonija; llm_object: Kuršas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tinkamai priskiria šaltinio vartoseną Eiliuotai Livonijos kronikai.'
@@ -111,13 +111,15 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=13fd3baa0da2cef5fb967b6a96dde4020614c8743b0901db61a4a8863db2f8eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių niokojimą Kuršo žemėje, todėl tai laikytina puolimu.
+- susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
+- susijęs iš Kuršas: 1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
 - susijęs iš [[objektai/asmenys/Treniota Vykintaitis.md#claim-t-40480|Treniota Vykintaitis]]: Tikėtina, kad Treniota Vykintaitis vadovavo lietuvių kariuomenei Durbės mūšyje.
@@ -178,6 +180,8 @@ amziai:
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05588|apostazija]]: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05589|apostazija]]: Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05441|kryžiaus karas]]: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
+- susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
+- susijęs iš Livonija: Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -213,13 +217,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8bd0af7fb2960cd740a2c92e1a679828ca7126f099e86d668da41e754b25b594; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): first_person_target, person, gap=37
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip first_person_target. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -248,13 +252,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf4e81b7746639b57b2bdd5a7066ab4f9f82566e562b63c22745fa13a35771a6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai sutriuškino Vokiečių ordino kariuomenės dalį.
     - t-003
 
 - c-004
@@ -285,21 +289,26 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=838e0dc9aa35f357b76a730074794a35f9046853185d3e9c0734d0e7ea36d25b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Georgenburgas: 0.83
+  ryšio_patikimumas: apgule -> Georgenburgas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Georgenburgas: mention_match, place, gap=125
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Georgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Georgenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Blokavimas tiesiogiai rodo karinį Georgenburgo apsupimą ar blokadą lietuvių veiksmais.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=13fd3baa0da2cef5fb967b6a96dde4020614c8743b0901db61a4a8863db2f8eb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durbė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durbė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kuršas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių niokojimą Kuršo žemėje, todėl tai laikytina puolimu.
+
+## Ryšiai
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]] mire Durbė
+- [[objektai/grupes/Žemaičiai]] puole Durbė
+- [[objektai/asmenys/Henrikas Botelis]] mire Durbė

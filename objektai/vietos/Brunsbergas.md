@@ -106,6 +106,9 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 - susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
 - susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-60310|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
+- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
+- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
+- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-60310|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
 - susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62983|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.
 - susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62984|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.
 - susijęs iš [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.).md#claim-t-62761|Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.
@@ -220,3 +223,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   ryšio_subjekto_parinkimas: Brunsbergas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Pasarė: mention_match, place, gap=39
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunsbergas" parinktas kaip owner_note_path. Targetas "Pasarė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]] pastate Brunsbergas
+- [[objektai/asmenys/Henrikas (Varmės vyskupas)]] pastate Brunsbergas

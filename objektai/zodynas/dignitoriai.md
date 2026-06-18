@@ -30,7 +30,7 @@ amziai:
   global_id: t-77793
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva; llm_object: Lenkija; llm_object: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
@@ -39,13 +39,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=10db0f3b2225ec0834189fc7965289ce99f9558f3346f24592df33fb14854a0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: dignitoriai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=127
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "dignitoriai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai vadina Stanislovą Augustą Lenkijos ir Lietuvos Valstybės valdovu.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +69,10 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=10db0f3b2225ec0834189fc7965289ce99f9558f3346f24592df33fb14854a0d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: dignitoriai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=127
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "dignitoriai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai vadina Stanislovą Augustą Lenkijos ir Lietuvos Valstybės valdovu.

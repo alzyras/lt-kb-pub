@@ -56,19 +56,20 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia aiškesnį faktą apie Mingailos veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_place: Gorodecas; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_place: Gorodecas; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mingaila|Mingaila]] puolė [[objektai/grupes/Polockiečiai|Polockiečiai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135030-135594; hash=4751e6461a33b91f1b720fe866d2d4024ed85b0ac0b3d83f12dbcb4d37f2f4b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gorodecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mingaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gorodecas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingaila" parinktas kaip owner_note_path. Targetas "Gorodecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Polockiečiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mingaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Mingaila užpuolė polockiečių kariuomenę.
 
 <a id="claim-t-184791"></a>
 - t-003
@@ -94,6 +95,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
 - susijęs iš [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.).md#claim-t-185624|Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]: Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
 - susijęs iš Gorodecas: Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.
+- susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 ## Reikšmingi paminėjimai
@@ -170,13 +172,13 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135030-135594; hash=4751e6461a33b91f1b720fe866d2d4024ed85b0ac0b3d83f12dbcb4d37f2f4b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gorodecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mingaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gorodecas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingaila" parinktas kaip owner_note_path. Targetas "Gorodecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Polockiečiai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mingaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockiečiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Mingaila užpuolė polockiečių kariuomenę.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 135432-135950; hash=262d2fb736ed40f4d07b5d1ab9d728d107671e329fdb72d6bf81a985a95aa7d4; match=exact
@@ -188,3 +190,8 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   ryšio_subjekto_parinkimas: Mingaila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=46
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mingaila" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Mingaila puole [[objektai/grupes/Polockiečiai]]
+- [[objektai/asmenys/Ginvilas]] buvo_sunus Mingaila
+- Mingaila kariavo_pries [[objektai/grupes/Polockiečiai]]

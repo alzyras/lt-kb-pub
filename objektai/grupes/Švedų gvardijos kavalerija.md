@@ -23,19 +23,20 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   global_id: t-41215
   teiginys: 'Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant neaiškų veikėją ir OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Švedų gvardijos kavalerija|Švedų gvardijos kavalerija]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bfa3c0810f09ffde576d8f4d5eb5489ec567d9c814e4e876d74a9bc6f5fb050; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedų gvardijos kavalerija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedų gvardijos kavalerija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedų gvardijos kavalerija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Švedų gvardijos kavalerijos ataka nukreipta prieš lietuvių sparną.
 
 <a id="claim-t-41216"></a>
 - t-002
@@ -105,10 +106,13 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2bfa3c0810f09ffde576d8f4d5eb5489ec567d9c814e4e876d74a9bc6f5fb050; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedų gvardijos kavalerija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedų gvardijos kavalerija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedų gvardijos kavalerija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Švedų gvardijos kavalerijos ataka nukreipta prieš lietuvių sparną.
+
+## Ryšiai
+- Švedų gvardijos kavalerija puole [[objektai/grupes/Lietuviai]]

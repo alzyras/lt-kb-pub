@@ -43,7 +43,8 @@ Nenurodyta
   global_id: t-76260
   teiginys: 'Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje.'
   sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas, išlaikant citatoje pagrįstą teiginį apie centro vietą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Kaukazas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Kaukazas'
+  semantiniai_rysiai: 'Europos geografinis centras priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -69,7 +70,8 @@ Nenurodyta
 - t-004
   global_id: t-76263
   teiginys: 'Geografinis Europos centras nurodomas Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Kaukazas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Kaukazas; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Europos geografinis centras priklausė Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš Rytų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.
@@ -149,3 +151,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Europos geografinis centras priklause [[objektai/vietos/Lietuva]]

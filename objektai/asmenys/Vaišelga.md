@@ -67,8 +67,7 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'family: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaišelga|Vaišelga]] buvo sūnus [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1264 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
@@ -175,3 +174,5 @@ periodo_grupes:
 
 ## Ryšiai
 - Vaišelga (kunigaikštis) buvo_sunus [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Vaišelga (kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vaišelga (kunigaikštis) gyveno [[objektai/vietos/Naugardukas]]

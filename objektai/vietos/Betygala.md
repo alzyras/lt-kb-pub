@@ -41,7 +41,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   global_id: t-179758
   teiginys: 'Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukokalnis; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: Kaunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukokalnis; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   global_id: t-179759
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėjus, maršrutą ir vietą, kaip pateikta citatoje.'
-  susije_objektai: 'location: Dubysa; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: Kaunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; llm_object: Dubysa'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėjus, maršrutą ir vietą, kaip pateikta citatoje.'
@@ -62,26 +62,26 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   global_id: t-179760
   teiginys: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   sudarymo_pagrindimas: 'Sąrašo fragmentas perrašytas į pilną sakinį su faktiniu predikatu.'
-  susije_objektai: 'mentioned_place: Kelmė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kelmė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Lietuva; llm_object: Kelmė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Betygala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Betygala" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinyje „jie“ nurodo Vytautą ir Jogailą, kurie keliavo į Kauną.
 
 <a id="claim-t-179762"></a>
 - t-005
   global_id: t-179762
   teiginys: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   sudarymo_pagrindimas: 'Pašalintas netikslus miško pavadinimas ir palikta citatos paremta formuluotė.'
-  susije_objektai: 'mentioned_place: Šilainiai; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_place: Šilainiai; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai; llm_object: Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas netikslus miško pavadinimas ir palikta citatos paremta formuluotė.'
@@ -174,13 +174,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukokalnis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Betygala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukokalnis: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Betygala" parinktas kaip owner_note_path. Targetas "Aukokalnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kaunas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sakinyje „jie“ nurodo Vytautą ir Jogailą, kurie keliavo į Kauną.
     - t-002
     - t-003
 

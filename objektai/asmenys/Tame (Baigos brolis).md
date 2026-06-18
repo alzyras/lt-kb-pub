@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   global_id: t-60444
   teiginys: '1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus biografinis sakinys, paremtas citata.'
-  susije_objektai: 'location: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baiga; mentioned_object: [[objektai/daiktai/Duona|Duona]]'
+  susije_objektai: 'llm_object: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baiga; mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   semantiniai_rysiai: '[[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]] gyveno Baiga'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1321 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tame (Baigos brolis) gyveno Baiga“, o ne visam objekto laikotarpiui.'
@@ -40,13 +40,13 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   irodymo_stiprumas: 0.00
   saltinio_vieta: 665729-666249; hash=4b1c7a65eef8e5987b219c6a7bc883e91122787e731d915ea5e97004b0ee9172; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Baiga: 0.98
+  ryšio_patikimumas: gyveno -> Baiga: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Tame (Baigos brolis): owner_note_path, person, gap=43
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Tame (Baigos brolis)" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tame (Baigos brolis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai pasako, kad Tame gyveno Baigoje.
 
 ## Reikšmingi paminėjimai
 
@@ -70,13 +70,13 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   irodymo_stiprumas: 0.00
   saltinio_vieta: 665729-666249; hash=4b1c7a65eef8e5987b219c6a7bc883e91122787e731d915ea5e97004b0ee9172; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Baiga: 0.98
+  ryšio_patikimumas: gyveno -> Baiga: 0.97
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Tame (Baigos brolis): owner_note_path, person, gap=43
-  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Tame (Baigos brolis)" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tame (Baigos brolis): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai pasako, kad Tame gyveno Baigoje.
 
 ## Ryšiai
 - Tame (Baigos brolis) gyveno [[objektai/vietos/Baiga]]

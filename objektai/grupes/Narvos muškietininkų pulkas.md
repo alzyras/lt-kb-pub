@@ -27,7 +27,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   global_id: t-78388
   teiginys: 'Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant netikslų sutrumpinimą ir OCR konteksto triukšmą.'
-  susije_objektai: 'mentioned_place: Narva; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Narva; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant netikslų sutrumpinimą ir OCR konteksto triukšmą.'
@@ -36,13 +36,13 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa4d11c54955b38c2a742f3dd85ce102e619c6caf259422aa82208bfbda503b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Narva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narvos muškietininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Narva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narvos muškietininkų pulkas" parinktas kaip owner_note_path. Targetas "Narva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Rusai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių puolimą prieš Vilniuje buvusią rusų įgulą.
 
 <a id="claim-t-78389"></a>
 - t-002
@@ -143,21 +143,21 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa4d11c54955b38c2a742f3dd85ce102e619c6caf259422aa82208bfbda503b9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Narva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narvos muškietininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Narva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narvos muškietininkų pulkas" parinktas kaip owner_note_path. Targetas "Narva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Rusai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių puolimą prieš Vilniuje buvusią rusų įgulą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e6e0d37e1257d5ee4118f1a27b7d8bdd89d375873f8ca8e9751624f5bd5e3a73; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Narva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Narvos muškietininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Narva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Narvos muškietininkų pulkas" parinktas kaip owner_note_path. Targetas "Narva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Rusai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo lietuvių puolimą prieš Vilniuje buvusią rusų įgulą.

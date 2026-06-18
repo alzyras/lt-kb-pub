@@ -29,7 +29,8 @@ amziai:
   global_id: t-21512
   teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Kražiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa'
+  susije_objektai: 'llm_object: Kražių bažnyčia; mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Kražiai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa'
+  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] puolė Kražių bažnyčia'
   temporaliniai_duomenys: 'įvykio data: 1893 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -38,13 +39,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a9b8a3e57445ff7b2ea644bf548dff2f08b521340a1eb1785cbee25d179d137a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kražių bažnyčia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kražių bažnyčia" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kražių bažnyčia: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kražių bažnyčia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kazokai šturmavo Kražių bažnyčią.
 
 ## Reikšmingi paminėjimai
 
@@ -80,21 +81,24 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a9b8a3e57445ff7b2ea644bf548dff2f08b521340a1eb1785cbee25d179d137a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kražių bažnyčia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kražių bažnyčia" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kražių bažnyčia: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kražių bažnyčia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kazokai šturmavo Kražių bažnyčią.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 232629-232959; hash=e2c4b8462b12c859d34f828c5a6513e25ff1d98e81bef0937e19bec78e58efca; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kazokai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kražių bažnyčia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kražių bažnyčia" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kražių bažnyčia: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kražių bažnyčia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad kazokai šturmavo Kražių bažnyčią.
+
+## Ryšiai
+- [[objektai/grupes/Kazokai]] puole Kražių bažnyčia

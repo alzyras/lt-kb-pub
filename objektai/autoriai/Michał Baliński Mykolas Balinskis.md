@@ -149,7 +149,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   global_id: t-182793
   teiginys: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
   sudarymo_pagrindimas: 'Citata yra titulinis puslapis, patvirtinantis autorių, kūrinį ir antro tomo chronologines ribas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pabaiskas; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Trakai; mentioned_place: Voluinė'
+  susije_objektai: 'llm_object: Prūsija; llm_object: Silezija; llm_object: Trakai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pabaiskas; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Trakai; mentioned_place: Voluinė; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1430-1586; įvykio data: 1560 m.; įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra titulinis puslapis, patvirtinantis autorių, kūrinį ir antro tomo chronologines ribas.'
@@ -171,7 +171,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   global_id: t-182794
   teiginys: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
   sudarymo_pagrindimas: 'Citata leidžia formuluoti aiškų teiginį apie Balinskio pateiktą Vilniaus apibūdinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Stasys Šalkauskis|Stasys Šalkauskis]]; mentioned_author: [[objektai/autoriai/Vincas Vyčinas|Vincas Vyčinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Europa; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Stasys Šalkauskis|Stasys Šalkauskis]]; mentioned_author: [[objektai/autoriai/Vincas Vyčinas|Vincas Vyčinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Europa; mentioned_place: Prūsija; llm_object: Lietuva'
   pagrindžia:
     - c-008
 
@@ -189,13 +189,13 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   irodymo_stiprumas: 0.00
   saltinio_vieta: 421378-423261; hash=c48a5a51b851e1fce5cb05f2b5f32101fb8346b06f65c62e87f2b3da2e010276; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michał Baliński Mykolas Balinskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michał Baliński Mykolas Balinskis" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vilniaus prekybą su Prūsija.
 
 <a id="claim-t-182796"></a>
 - t-010
@@ -452,13 +452,13 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   irodymo_stiprumas: 0.00
   saltinio_vieta: 421378-423261; hash=c48a5a51b851e1fce5cb05f2b5f32101fb8346b06f65c62e87f2b3da2e010276; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michał Baliński Mykolas Balinskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michał Baliński Mykolas Balinskis" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Prūsija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Vilniaus prekybą su Prūsija.
     - t-007
 
 - c-007

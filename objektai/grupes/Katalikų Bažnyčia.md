@@ -49,7 +49,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   global_id: t-116727
   teiginys: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]] puolė Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -99,20 +100,21 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a57ea9b3b0da142f9a527ea9076ff1984ca122ed6feeaf75b8dc9483a63a3f9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.83
+  ryšio_patikimumas: buvo_priesas -> Katalikų Bažnyčia: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos didikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Katalikų Bažnyčia: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Didikų tikslas silpninti Bažnyčios įtaką rodo politinį priešiškumą Katalikų Bažnyčiai.
 
 <a id="claim-t-116730"></a>
 - t-005
   global_id: t-116730
   teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Protestantai|Protestantai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]] buvo priešas [[objektai/grupes/Protestantai|Protestantai]]'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -129,13 +131,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 145757-146061; hash=540c1feb76a468c465d059f52b7e343afed43fd045f9bb9642192732057d76e7; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_priesas -> Protestantai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Protestantai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata įvardija Valerijoną Protasevičių kaip vieną iš veikėjų, siekusių sutrukdyti protestantų ketinimui.
 
 <a id="claim-t-116732"></a>
 - t-007
@@ -183,7 +185,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   global_id: t-116734
   teiginys: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata leidžia jį sutrumpinti į aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos didikai|Lietuvos didikai]] buvo priešas [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]'
   temporaliniai_duomenys: 'įvykio data: 1563 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; citata leidžia jį sutrumpinti į aiškesnį enciklopedinį sakinį.'
@@ -328,13 +331,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f632af33043f0fbe2cdad7019748d2897c316b79aa90ce127e92c20ba387614; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ordinas veržėsi į Rytų Lietuvą.
 
 <a id="claim-t-116743"></a>
 - t-018
@@ -535,13 +538,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2a57ea9b3b0da142f9a527ea9076ff1984ca122ed6feeaf75b8dc9483a63a3f9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.83
+  ryšio_patikimumas: buvo_priesas -> Katalikų Bažnyčia: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos didikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Katalikų Bažnyčia: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Didikų tikslas silpninti Bažnyčios įtaką rodo politinį priešiškumą Katalikų Bažnyčiai.
     - t-002
 
 - c-005
@@ -789,13 +792,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f632af33043f0fbe2cdad7019748d2897c316b79aa90ce127e92c20ba387614; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ordinas veržėsi į Rytų Lietuvą.
     - t-014
 
 - c-014
@@ -956,13 +959,13 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 145757-146061; hash=540c1feb76a468c465d059f52b7e343afed43fd045f9bb9642192732057d76e7; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: buvo_priesas -> Protestantai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Protestantai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata įvardija Valerijoną Protasevičių kaip vieną iš veikėjų, siekusių sutrukdyti protestantų ketinimui.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: 523353-523650; hash=db145d2bdeabf18c0e27f8d34f0d3bccec43d79d7441946978018de79efc01a6; match=exact
@@ -974,3 +977,8 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   ryšio_subjekto_parinkimas: Katalikų Bažnyčia: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų Bažnyčia" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Katalikų Bažnyčia buvo_priesas [[objektai/grupes/Protestantai]]
+- Katalikų Bažnyčia puole [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos didikai]] buvo_priesas Katalikų Bažnyčia

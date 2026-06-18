@@ -42,7 +42,8 @@ periodo_grupes:
   global_id: t-79203
   teiginys: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Teodoras|Teodoras]] buvo brolis [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1330-1331; įvykio data: 1331 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
@@ -93,4 +94,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Teodoras buvo_valdovas [[objektai/vietos/Lietuva]]
+- Teodoras buvo_brolis [[objektai/asmenys/Gediminas]]

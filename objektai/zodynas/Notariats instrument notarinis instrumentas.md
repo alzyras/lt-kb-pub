@@ -30,19 +30,19 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
   global_id: t-86541
   teiginys: '1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.'
   sudarymo_pagrindimas: 'Citata pagrindžia notarinio instrumento datą, vietą ir antspaudo aprašymą, bet pradinis tekstas yra fragmentiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Liubekas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Liubekas; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 211999-212759; hash=1c46ff131196122485e495d26880ee156d3c31ffedb00c9b5362322d69134824; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumas: priklause -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notariats instrument notarinis instrumentas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notariats instrument notarinis instrumentas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedimino antspaudas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Savininko ryšys grindžiamas tiesioginiu įvardijimu „Gedimino vaško antspaudas“.
 
 <a id="claim-t-86542"></a>
 - t-002
@@ -126,13 +126,13 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 211999-212759; hash=1c46ff131196122485e495d26880ee156d3c31ffedb00c9b5362322d69134824; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumas: priklause -> Gediminas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Notariats instrument notarinis instrumentas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notariats instrument notarinis instrumentas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gedimino antspaudas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Savininko ryšys grindžiamas tiesioginiu įvardijimu „Gedimino vaško antspaudas“.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 221572-223193; hash=80c3023753ca9d95478bbcdeeb1077b3cd0f7e256579760affcfd6fc2feb7ae8; match=whitespace_regex

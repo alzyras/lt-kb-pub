@@ -350,6 +350,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - susijęs iš [[objektai/ivykiai/Vytauto karas su Pskovu (1426 m. rugpjūtis).md#claim-t-186736|Vytauto karas su Pskovu (1426 m. rugpjūtis)]]: Redakcinė pastaba Bychovco kronikos pasakojimą veikiausiai sieja su 1426 m. rugpjūčio Vytauto karu su Pskovu.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai.md#claim-t-77912|Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir šiam tikslui pakako pademonstruoti jėgą.
 - susijęs iš Maskva: 1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.
+- susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -787,3 +788,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   ryšio_subjekto_parinkimas: Didysis Naugardas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didysis Naugardas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzkariavo Didysis Naugardas

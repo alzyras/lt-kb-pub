@@ -102,7 +102,8 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-007
   global_id: t-107740
   teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]] priklausė Lietuva; [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]] priklausė Lenkija'
   pagrindžia:
     - c-001
 
@@ -184,13 +185,13 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ta pati formuluotė nurodo, kad komisija buvo bendra ir Lenkijai.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72601|Pijarų ordinas]]: Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66536|Edukacinės komisijos įkūrimas]]: 1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.
@@ -371,10 +372,14 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ta pati formuluotė nurodo, kad komisija buvo bendra ir Lenkijai.
+
+## Ryšiai
+- Edukacinė Komisija priklause [[objektai/vietos/Lenkija]]
+- Edukacinė Komisija priklause [[objektai/vietos/Lietuva]]

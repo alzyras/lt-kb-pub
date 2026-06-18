@@ -31,19 +31,19 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   global_id: t-106804
   teiginys: 'Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.'
   sudarymo_pagrindimas: 'Pašalinta fragmentiška pradžia ir išlaikyta citatos prasmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kalvarija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kalvarija; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1115062-1115442; hash=596757aeead12e8138c4f27eed790163c8576ea3a5c889795f8c3412093e7b16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: neutralitetas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "neutralitetas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Rusai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini rusų ir lenkų karą, todėl remia lenkų karinį konfliktą su rusais.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +66,10 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1115062-1115442; hash=596757aeead12e8138c4f27eed790163c8576ea3a5c889795f8c3412093e7b16; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: neutralitetas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "neutralitetas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Rusai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini rusų ir lenkų karą, todėl remia lenkų karinį konfliktą su rusais.

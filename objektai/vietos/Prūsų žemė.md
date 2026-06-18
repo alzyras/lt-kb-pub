@@ -47,12 +47,14 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   ryšio_subjekto_parinkimas: Prūsų žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=57
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų žemė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89161|Pagudėnai]]: Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.
 - susijęs iš [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis.md#claim-t-59730|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]: Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas.
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58796|prūsas Prūsa Prūsija]]: Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179218|Lietuviai]]: Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.
 - susijęs iš Prūsijos valdžios gromatos: Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89161|Pagudėnai]]: Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,3 +86,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   ryšio_subjekto_parinkimas: Prūsų žemė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=57
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų žemė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/vietos/Pagudė]] priklause Prūsų žemė
+- [[objektai/grupes/Pagudėnai]] gyveno Prūsų žemė

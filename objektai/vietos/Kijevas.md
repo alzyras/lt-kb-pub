@@ -50,13 +50,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai.
 
 <a id="claim-t-180001"></a>
 - t-002
@@ -81,19 +81,20 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180002
   teiginys: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir atiduoti jam Kremencą bei Stožką vietoj Trakų kunigaikštijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_place: Kremencas; mentioned_place: Stožkas; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kremencas; mentioned_place: Stožkas; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Kijevas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas atėmė Kijevą.
 
 <a id="claim-t-180003"></a>
 - t-004
@@ -133,19 +134,19 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c6be710119fa2ccd13af32e325d3779c2a8d2e7551e4af32f5ddd68ec48d6a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Vytautas atėmė Kijevą.
 
 <a id="claim-t-180006"></a>
 - t-007
   global_id: t-180006
   teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -189,13 +190,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=82a3c8da38284132c73134b84ea4f90d252f32ac3edf3ec3d295995899bd6fba; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremencas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kremencas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kremencas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Skirgaila: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pažadas padėti Skirgailai tiesiogiai patvirtina Vytauto paramą Skirgailai.
 
 <a id="claim-t-180011"></a>
 - t-011
@@ -214,7 +215,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180012
   teiginys: '1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Kijevas; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Kijevas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -261,7 +263,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180015
   teiginys: 'Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -302,7 +304,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180017
   teiginys: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
@@ -348,12 +351,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c2237065799ba7ce14aa66c2df9ecb909bf4a7b6840d4faa1ab7be6ef29603b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180021"></a>
 - t-020
@@ -368,7 +372,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180022
   teiginys: '1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai nusako citatoje minimą Kijevo nuniokojimą.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Livonija; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Kijevas; mentioned_place: Luckas; llm_object: Luckas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Livonija; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai nusako citatoje minimą Kijevo nuniokojimą.'
@@ -380,7 +385,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180023
   teiginys: 'Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata apie Kijevo kunigaikštystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota'
   pagrindžia:
     - c-004
 
@@ -389,7 +394,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180025
   teiginys: '1300 m. visos Rusios metropolitas perkėlė sostinę iš nuolatinių totorių puolimų grėsmėje buvusio Kijevo į šiaurinės Rusios Vladimirą.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktinį sakinį be perteklinės interpretacinės įžangos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Maskva; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į glaustesnį faktinį sakinį be perteklinės interpretacinės įžangos.'
@@ -398,13 +404,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai.
 
 <a id="claim-t-180026"></a>
 - t-024
@@ -436,20 +442,20 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: 843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Skirgaila: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė „paliktas Polockas“ tiesiogiai rodo Polocko priskyrimą Skirgailai.
 
 <a id="claim-t-180029"></a>
 - t-027
   global_id: t-180029
   teiginys: 'Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir beveik pažodžiui atkartoja citatą; glaustesnė forma geriau tinka KB.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bakota'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bakota'
   pagrindžia:
     - c-004
 
@@ -508,20 +514,21 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas paėmė Kijevą į savo valdžią.
 
 <a id="claim-t-180035"></a>
 - t-031
   global_id: t-180035
   teiginys: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Žitomiras'
+  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Žitomiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Kijevas; Kijevas priklausė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
@@ -533,7 +540,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180037
   teiginys: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -563,8 +570,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180040
   teiginys: 'Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citatos informacija apie prekybos ryšius per Kijevą.'
-  susije_objektai: 'owner: Vilnius; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras'
-  semantiniai_rysiai: 'Kijevas priklausė Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -583,7 +589,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180043
   teiginys: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Žitomiras; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Žitomiras; llm_object: Žitomiras; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Kijevas; Kijevas priklausė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
@@ -595,7 +602,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180044
   teiginys: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa'
+  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] užėmė Kijevas; [[objektai/asmenys/Gediminas|Gediminas]] surengė žygį į Kijevas; [[objektai/grupes/Totoriai|Totoriai]] valdė Kijevas; Kijevas priklausė [[objektai/grupes/Auksinė Orda|Auksinė Orda]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: apie 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją.'
@@ -613,13 +621,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=02b1e547ce69c82dd055392c5b5399651e9a933e9fcbd1137cd53527ec26c6f2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=32
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180047"></a>
 - t-040
@@ -666,7 +674,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180052
   teiginys: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.'
   sudarymo_pagrindimas: 'Pradinis teiginys apima perteklinius faktus apie Lucką ir Podolę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas; mentioned_place: Podolė; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys apima perteklinius faktus apie Lucką ir Podolę.'
@@ -718,7 +727,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180056
   teiginys: 'Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.'
   sudarymo_pagrindimas: 'Teiginys konkrečiai nusako Gedimino veiksmus Kijevo atžvilgiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vyšgorodas'
+  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/grupes/Rusai|Rusai]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vyšgorodas'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] užėmė Kijevas'
   temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys konkrečiai nusako Gedimino veiksmus Kijevo atžvilgiu.'
@@ -762,7 +772,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nutrūkęs sakinys perrašytas į pilną, citata paremtą teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Polockas; llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė Kijevas'
   pagrindžia:
     - c-029
   irodymo_stiprumas: 0.00
@@ -784,7 +795,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Kijevą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: Kijevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] valdė Kijevas'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
@@ -828,7 +840,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilnesnį faktinį sakinį su aiškesniu veiksmų rezultatu.'
-  susije_objektai: 'mentioned_place: Azovas; mentioned_place: Donas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Azovas; mentioned_place: Azovas; mentioned_place: Donas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-032
   irodymo_stiprumas: 0.00
@@ -916,19 +928,20 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Miloslavičiai'
+  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Miloslavičiai; llm_object: Miloslavičiai'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] mirė Kijevas'
   pagrindžia:
     - c-036
   irodymo_stiprumas: 0.00
   saltinio_vieta: 168877-169375; hash=b44b8447aeaabb039197247b5b96529806d8507e5ecf1f7872821bea54bb97d7; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Kijevas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirgaila mirė grįžęs į Kijevą.
 
 <a id="claim-t-187584"></a>
 - t-056
@@ -947,14 +960,36 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: 467904-468396; hash=007a69c6ded4038cf310bdaec6caef51d18485e9782fcde29830a606730c2a79; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Vytautas tiesiogiai įvardytas kaip Kijevo atėmėjas.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
+- susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
+- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+- susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
+- susijęs iš [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.).md#claim-t-34538|Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]: 1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+- susijęs iš Lukomlis: Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą.
+- susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
+- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
+- susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+- susijęs iš [[objektai/zodynas/kontribucija.md#claim-t-181977|kontribucija]]: Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
+- susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185932|Boleslovas Švitrigaila]]: Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.
+- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179657|Skirgaila]]: 1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.
+- susijęs iš Polockas: Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171437|Totoriai]]: Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
+- susijęs iš Bresto žemė (Palenkė): 1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82170|Aleksandras Jogailaitis]]: Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
@@ -1086,6 +1121,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/zodynas/metropolitas metropolija.md#claim-t-86539|metropolitas metropolija]]: Maskvos metropolitas Fotijas siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.
 - susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187536|viečė]]: Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.
+- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-184291|Vladimiras Algirdaitis]]: Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai.
+- susijęs iš [[objektai/ivykiai/Vorsklos katastrofa.md#claim-t-35904|Vorsklos katastrofa]]: Vorsklos katastrofoje žuvo Vytauto kariuomenė, o jo valstybę užplūdę totoriai pasiekė net Kijevą.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
@@ -1347,6 +1384,27 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169930|rusėnų kalba LDK raštų kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179669|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+- susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
+- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171445|Totoriai]]: Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185493|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187438|Aukso orda]]: Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.
+- susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
+- susijęs iš [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis).md#claim-t-53956|Jonas Algimantaitis (Alšėniškis)]]: Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.
+- susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
+- susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74873|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
+- susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74874|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185494|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-186371|Mėlynųjų Vandenų mūšis (1362 m.)]]: Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.
+- susijęs iš [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes.md#claim-t-87262|Bažnyčios pašventinimas per dideles iškilmes]]: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
+- susijęs iš Kremencas: Vytautas pasižadėjo padėti Skirgailai paimti Kijevą ir vietoj Trakų kunigaikštijos atiduoti jam Kremencą bei Stožką.
+- susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86726|Krymo orda]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+- susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1474,13 +1532,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: 843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Skirgaila: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Formuluotė „paliktas Polockas“ tiesiogiai rodo Polocko priskyrimą Skirgailai.
     - t-020
 
 - c-006
@@ -1500,13 +1558,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žitomiras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Žitomiras: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Žitomiras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas atėmė Kijevą.
     - t-003
 
 - c-007
@@ -1538,13 +1596,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ec8e56a7960d06d03213721b550e336e0f0b5479e477e5d85035dbea1b95e11; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas atėmė Kijevą.
     - t-047
   irodymo_stiprumas: 0.00
   saltinio_vieta: 123868-124282; hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=exact
@@ -1727,13 +1785,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c6be710119fa2ccd13af32e325d3779c2a8d2e7551e4af32f5ddd68ec48d6a0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai pasako, kad Vytautas atėmė Kijevą.
     - t-038
 
 - c-015
@@ -1851,24 +1909,24 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo kunigaikštystė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Įjungimas į Lietuvos valstybę tiesiogiai patvirtina Kijevo kunigaikštystės priklausymą Lietuvai.
     - t-013
 
 - c-020
@@ -1903,13 +1961,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40af1197bbe97829cbd3c3f339af8e6ec2e2a1029226bbf0ebc871ebf1b15509; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Gediminas paėmė Kijevą į savo valdžią.
     - t-016
 
 - c-021
@@ -1977,12 +2035,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7c2237065799ba7ce14aa66c2df9ecb909bf4a7b6840d4faa1ab7be6ef29603b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-023
@@ -2004,13 +2063,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=82a3c8da38284132c73134b84ea4f90d252f32ac3edf3ec3d295995899bd6fba; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremencas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kremencas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kremencas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Skirgaila: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Pažadas padėti Skirgailai tiesiogiai patvirtina Vytauto paramą Skirgailai.
     - t-005
 
 - c-024
@@ -2188,13 +2247,13 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=02b1e547ce69c82dd055392c5b5399651e9a933e9fcbd1137cd53527ec26c6f2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.99
-  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumas: susije_su -> Kijevo kunigaikštystė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=32
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kijevo kunigaikštystė: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Kijevo kunigaikštystė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-048
 
 - c-030
@@ -2443,26 +2502,61 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   irodymo_stiprumas: 0.00
   saltinio_vieta: 168877-169375; hash=b44b8447aeaabb039197247b5b96529806d8507e5ecf1f7872821bea54bb97d7; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Kijevas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skirgaila mirė grįžęs į Kijevą.
     - t-056
   irodymo_stiprumas: 0.00
   saltinio_vieta: 467904-468396; hash=007a69c6ded4038cf310bdaec6caef51d18485e9782fcde29830a606730c2a79; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kijevas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje Vytautas tiesiogiai įvardytas kaip Kijevo atėmėjas.
 
 ## Ryšiai
-- [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]] buvo_valdovas Kijevas
-- Kijevas priklause [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Gediminas]] uzeme Kijevas
+- [[objektai/asmenys/Gediminas]] uzkariavo Kijevas
+- Kijevas priklause [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Kijevas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzeme Kijevas
+- [[objektai/asmenys/Gediminas]] surenge_zygi_i Kijevas
+- [[objektai/asmenys/Skirgaila]] mire Kijevas
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Kijevas
+- [[objektai/grupes/Totoriai]] puole Kijevas
+- Kijevas priklause [[objektai/grupes/Aukso orda]]
 - Kijevas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]] keliavo_i Kijevas
+- [[objektai/grupes/Totoriai]] valde Kijevas
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Kijevas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kijevas
+- [[objektai/asmenys/Boleslovas Švitrigaila]] keliavo_i Kijevas
+- Kijevas priklause [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Skirgaila]] valde_miesta Kijevas
+- [[objektai/asmenys/Švitrigaila]] valde Kijevas
+- [[objektai/grupes/Auksinė Orda]] valde_miesta Kijevas
+- Kijevas priklause [[objektai/grupes/Auksinė Orda]]
+- Kijevas priklause [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Gediminas]] valde Kijevas
+- [[objektai/asmenys/Skirgaila]] valde_teritorija Kijevas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Kijevas
+- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Kijevas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] uzkariavo Kijevas
+- [[objektai/grupes/Lietuviai]] keliavo_i Kijevas
+- [[objektai/asmenys/Edyga]] puole Kijevas
+- [[objektai/grupes/Auksinė Orda]] valde Kijevas
+- [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]] valde_miesta Kijevas
+- [[objektai/asmenys/Skirgaila]] uzeme Kijevas
+- [[objektai/grupes/Mongolų imperija]] uzkariavo Kijevas
+- [[objektai/grupes/Tochtamišo totoriai]] gyveno Kijevas
+- [[objektai/asmenys/Mykolas]] gyveno Kijevas
+- [[objektai/grupes/Krymo orda]] puole Kijevas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde Kijevas
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]] keliavo_i Kijevas

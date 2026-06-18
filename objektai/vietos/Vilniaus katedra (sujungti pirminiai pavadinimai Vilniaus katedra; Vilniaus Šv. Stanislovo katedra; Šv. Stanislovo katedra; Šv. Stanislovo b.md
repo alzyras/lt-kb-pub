@@ -38,7 +38,8 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85798
   teiginys: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   sudarymo_pagrindimas: 'Citata nurodo altoriaus vietą katedros bažnyčioje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena; llm_object: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b'
+  semantiniai_rysiai: '[[objektai/daiktai/Altorius|Altorius]] priklausė Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -321,13 +322,13 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7b65dce825aed10bd8bead85779858d74450cdb45db48d7df2ef5777dd7a798; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumas: priklause -> Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Altorius: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo altorių Vilniaus katedros bažnyčioje; ryšys interpretuojamas kaip altoriaus priklausymas katedros erdvei.
 
 ## Reikšmingi paminėjimai
 
@@ -465,13 +466,13 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c7b65dce825aed10bd8bead85779858d74450cdb45db48d7df2ef5777dd7a798; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumas: priklause -> Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Altorius: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo altorių Vilniaus katedros bažnyčioje; ryšys interpretuojamas kaip altoriaus priklausymas katedros erdvei.
     - t-012
 
 - c-005
@@ -850,3 +851,6 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   ryšio_subjekto_parinkimas: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jonas Lasavičius: mention_match, person, gap=18
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b" parinktas kaip owner_note_path. Targetas "Jonas Lasavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Altorius]] priklause Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b

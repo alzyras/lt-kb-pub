@@ -32,7 +32,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   global_id: t-175238
   teiginys: 'Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Judą Makabėjų ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]] kariavo prieš [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -57,8 +58,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f3c35b545b8b668ef8bda54e88fcf1945d1772c0f0c4a8d2fd4c3163175e925a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
-- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
 - susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
 - susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
@@ -136,5 +135,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Antiochas Eupatoras]] kariavo_pries Judas Makabėjus
-- [[objektai/asmenys/Alchimas]] kariavo_pries Judas Makabėjus
+- Judas Makabėjus kariavo_pries [[objektai/asmenys/Antiochas Eupatoras]]
+- Judas Makabėjus kariavo_pries [[objektai/asmenys/Bachidas]]
+- Judas Makabėjus kariavo_pries [[objektai/asmenys/Alchimas]]

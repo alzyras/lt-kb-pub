@@ -44,19 +44,21 @@ Nenurodyta
   global_id: t-59675
   teiginys: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
   sudarymo_pagrindimas: 'Citata pagrindžia trumpą faktą apie pilių statybą Prūsijoje.'
-  susije_objektai: 'mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija; llm_object: Prūsija; llm_object: Kulmas; llm_object: Lubava'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilys|Pilys]] priklausė Prūsija; [[objektai/daiktai/Pilys|Pilys]] priklausė Kulmas; [[objektai/daiktai/Pilys|Pilys]] priklausė Lubava'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 99443-99912; hash=3b0be79db2d8284bb95381276013197b6a0499b9ba73cddc7a47fbd3e3ab780d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumas: priklause -> Prūsija: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilys" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija.
+- susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Laukstetas.md#claim-t-60374|Laukstetas]]: Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo.
@@ -188,10 +190,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 99443-99912; hash=3b0be79db2d8284bb95381276013197b6a0499b9ba73cddc7a47fbd3e3ab780d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumas: priklause -> Prūsija: 0.71
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilys" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pilys: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Pilys
+- Pilys priklause [[objektai/grupes/Bajorai]]
+- Pilys priklause [[objektai/vietos/Prūsija]]
+- Pilys priklause [[objektai/vietos/Voluinė]]
+- Pilys priklause [[objektai/vietos/Melnikas]]
+- Pilys priklause [[objektai/vietos/Kulmas]]
+- Pilys priklause [[objektai/vietos/Lubava]]
+- Pilys priklause [[objektai/vietos/Palenkė]]

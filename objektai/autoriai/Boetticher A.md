@@ -32,19 +32,19 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   global_id: t-64570
   teiginys: 'Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.'
   sudarymo_pagrindimas: 'Citata remia Boetticherio darbą kaip šio teiginio šaltinį, o pradinė formuluotė klaidingai priskiria jį Dusburgiečiui.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Baiga; llm_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boetticher A: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boetticher A" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baiga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai paėmė Baigos pilį ir joje įsitvirtino.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +69,10 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boetticher A: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boetticher A" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baiga: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai paėmė Baigos pilį ir joje įsitvirtino.

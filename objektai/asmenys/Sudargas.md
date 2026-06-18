@@ -33,7 +33,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   global_id: t-60210
   teiginys: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir pagrįstas citata apie Sudargo vaidmenį kronikoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pagraudė'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pagraudė'
+  semantiniai_rysiai: '[[objektai/asmenys/Sudargas|Sudargas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1308-1317; įvykio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir pagrįstas citata apie Sudargo vaidmenį kronikoje.'
@@ -42,32 +43,33 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d165c4f6ca6f0fd1bb18a3c9914d8ab0210b40fa6c0d9b4e9d0052f78e17f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Albrechtas iš Hageno užpuolė Sudargo kiemą; objektas per Sudargą identifikuojamas kaip jo valda.
 
 <a id="claim-t-60211"></a>
 - t-002
   global_id: t-60211
   teiginys: 'Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko konkretų faktą apie Sudargo kiemo užpuolimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė; llm_object: [[objektai/asmenys/Sudargas|Sudargas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] puolė [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 660976-661213; hash=400d7ed14e377b6a193b5eb6998cdc34ccf8cb4703c6452349c228400fc99262; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sudargas kovojo prieš Ordiną.
 
 <a id="claim-t-184834"></a>
 - t-003
@@ -93,6 +95,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Medininkai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
+- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56682|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56682|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
 - susijęs iš Kulikauskas P. Sudargo piliakalniai: P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.
@@ -142,13 +146,13 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=97d165c4f6ca6f0fd1bb18a3c9914d8ab0210b40fa6c0d9b4e9d0052f78e17f0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Sudargas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Albrechtas iš Hageno užpuolė Sudargo kiemą; objektas per Sudargą identifikuojamas kaip jo valda.
     - t-002
 
 - c-003
@@ -174,13 +178,13 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   irodymo_stiprumas: 0.00
   saltinio_vieta: 660976-661213; hash=400d7ed14e377b6a193b5eb6998cdc34ccf8cb4703c6452349c228400fc99262; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sudargas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sudargas kovojo prieš Ordiną.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334465-334932; hash=8f398547e573ebb3b246cf491a9d67223014368271b9201d20d2ca50dd08d36e; match=exact
@@ -192,3 +196,8 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   ryšio_subjekto_parinkimas: Sudargas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Medininkai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudargas" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Sudargas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Albrechtas iš Hageno]] puole Sudargas
+- Sudargas puole [[objektai/grupes/Kryžiuočių ordinas]]

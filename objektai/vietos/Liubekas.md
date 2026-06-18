@@ -214,8 +214,6 @@ amziai:
   ryšio_subjekto_parinkimas: Liubekas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubekas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
 - susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
 - susijęs iš [[objektai/asmenys/Jonas Rygietis.md#claim-t-87528|Jonas Rygietis]]: Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus.

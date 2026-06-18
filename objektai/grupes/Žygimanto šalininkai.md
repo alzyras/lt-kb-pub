@@ -24,19 +24,20 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
   global_id: t-86780
   teiginys: 'Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Žygimanto grupuotę, bet pradiniame sakinyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Žygimanto šalininkai|Žygimanto šalininkai]] buvo priešas [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=844ed12131af273380e035050b2d38522e30e1a4fba8f8c9ce849d1c316ed972; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: buvo_priesas -> Švitrigaila: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto šalininkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto šalininkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimanto šalininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata aiškiai nurodo Žygimanto ir Švitrigailos grupuočių tarpusavio priešiškumą.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,13 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=844ed12131af273380e035050b2d38522e30e1a4fba8f8c9ce849d1c316ed972; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: buvo_priesas -> Švitrigaila: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto šalininkai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto šalininkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimanto šalininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata aiškiai nurodo Žygimanto ir Švitrigailos grupuočių tarpusavio priešiškumą.
+
+## Ryšiai
+- Žygimanto šalininkai buvo_priesas [[objektai/asmenys/Švitrigaila]]

@@ -22,19 +22,19 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas neaiškus giminystės objektas ir išlaikyta citatos paremta informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; llm_object: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]; mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696768-697004; hash=dcac8d0b01703f30a79ee462436a39b5100f748ba387f5c01ea425f1f0b09d72; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jerim Berdis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jerim Berdis: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volga" parinktas kaip owner_note_path. Targetas "Jerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Jerim Berdis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kerim Berdis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jerim Berdis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Kerim Berdis užpuolė brolį Jerim Berdį.
 - susijęs iš [[objektai/asmenys/Kerim Berdis.md#claim-t-186054|Kerim Berdis]]: Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
 - susijęs iš [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas.md#claim-t-186783|Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]: Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.
@@ -101,10 +101,10 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 696768-697004; hash=dcac8d0b01703f30a79ee462436a39b5100f748ba387f5c01ea425f1f0b09d72; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jerim Berdis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Volga: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jerim Berdis: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volga" parinktas kaip owner_note_path. Targetas "Jerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Jerim Berdis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kerim Berdis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jerim Berdis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Kerim Berdis užpuolė brolį Jerim Berdį.

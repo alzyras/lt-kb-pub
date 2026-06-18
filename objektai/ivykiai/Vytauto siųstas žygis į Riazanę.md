@@ -48,19 +48,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys tinkamas, bet palikta atribucija dėl kronikos titulų ir pasakojimo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Lengvenis|Lengvenis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
+  ryšio_patikimumas: paskyre -> Lengvenis: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto siųstas žygis į Riazanę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto siųstas žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lengvenis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas paskyrė Lengvenį vykdyti žygį, nes jį pasiuntė su kariuomene.
 
 <a id="claim-t-186578"></a>
 - t-002
@@ -68,7 +68,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Riazanė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Lengvenis|Lengvenis]]'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikyta šaltinio atribucija.'
@@ -97,13 +97,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto siųstas žygis į Riazanę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto siųstas žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Riazanė: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Riazanė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Vytautas pasiuntė žygį prieš Riazanę.
 
 ## Reikšmingi paminėjimai
 
@@ -129,24 +129,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
+  ryšio_patikimumas: paskyre -> Lengvenis: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto siųstas žygis į Riazanę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto siųstas žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lengvenis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas paskyrė Lengvenį vykdyti žygį, nes jį pasiuntė su kariuomene.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lengvenis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto siųstas žygis į Riazanę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lengvenis: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto siųstas žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Lengvenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Riazanė: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Riazanė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai sako, kad Vytautas pasiuntė žygį prieš Riazanę.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=fallback; occurrences=0

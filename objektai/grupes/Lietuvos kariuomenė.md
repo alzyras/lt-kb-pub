@@ -37,7 +37,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   global_id: t-182738
   teiginys: 'Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi skyrybos triukšmo, todėl sutrumpintas iki aiškaus fakto apie kariuomenę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Mongolai|Mongolai]]'
   temporaliniai_duomenys: 'įvykio data: 1328 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir turi skyrybos triukšmo, todėl sutrumpintas iki aiškaus fakto apie kariuomenę.'
@@ -58,7 +59,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   global_id: t-182742
   teiginys: 'Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] priklausė [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]'
   pagrindžia:
     - c-001
 
@@ -82,7 +84,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -97,7 +100,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata palaiko pilną sakinį.'
@@ -163,7 +167,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas išnašos triukšmas ir sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_place: Marienburgas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_place: Marienburgas; llm_object: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   pagrindžia:
     - c-011
 
@@ -175,19 +180,20 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta ir pataisyta formuluotė, paliekant citatos paremtą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301023-301582; hash=95b8b87c3b87c070dd01de052b1682145356dddb293e0f34320161d3405e7914; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kariuomenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos kariuomenės smurtinį karinį veiksmą prieš totorius.
 
 <a id="claim-t-187725"></a>
 - t-013
@@ -197,7 +203,8 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Odojevas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Odojevas; mentioned_place: Odojevas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] užėmė Odojevas'
   temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
@@ -206,13 +213,14 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476461-477209; hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kariuomenė" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Odojevas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad LDK kariuomenė buvo užėmusi Odojevą.
+- susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
@@ -396,6 +404,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - susijęs iš [[objektai/zodynas/pašauktinė kariuomenė.md#claim-t-78907|pašauktinė kariuomenė]]: XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.
 - susijęs iš [[objektai/zodynas/rankovės garnizonai.md#claim-t-38731|rankovės garnizonai]]: Rankovės buvo šaulių padaliniai, išdėstomi pėstininkų rikiuotės kampuose.
 - susijęs iš [[objektai/zodynas/telefonograma.md#claim-t-80633|telefonograma]]: Lenkų pusė naktį gavo telefonogramą apie karo paliaubas.
+- susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
+- susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186731|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.
+- susijęs iš [[objektai/paprociai/Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių.md#claim-t-09579|Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių]]: Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -640,24 +651,70 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 301023-301582; hash=95b8b87c3b87c070dd01de052b1682145356dddb293e0f34320161d3405e7914; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kariuomenė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Lietuvos kariuomenės smurtinį karinį veiksmą prieš totorius.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476461-477209; hash=dca6652d36d947d21c72ae59118aeee789f8d0639ac8eaefea328bd524aa1261; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Odojevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Odojevas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kariuomenė" parinktas kaip owner_note_path. Targetas "Odojevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Odojevas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad LDK kariuomenė buvo užėmusi Odojevą.
 
 ## Ryšiai
-- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- Lietuvos kariuomenė uzeme [[objektai/vietos/Didžiųjų Lukų tvirtovė]]
+- Lietuvos kariuomenė gyne [[objektai/vietos/Mazovija]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Vilnius]]
+- Lietuvos kariuomenė puole [[objektai/vietos/Semba]]
+- Lietuvos kariuomenė buvo_sajungininkas_su [[objektai/grupes/Lenkai]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Švedai]]
+- Lietuvos kariuomenė uzeme [[objektai/vietos/Odojevas]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Piarnu]]
+- [[objektai/grupes/Bajorai]] priklause Lietuvos kariuomenė
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Chadžibėjus]] kariavo_pries Lietuvos kariuomenė
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Kalavijuočių ordinas]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Mongolai]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Mstislavlis]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Varšuva]]
+- Lietuvos kariuomenė priklause [[objektai/vietos/Lietuva]]
+- Lietuvos kariuomenė puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Lietuvos kariuomenė surenge_zygi_i [[objektai/vietos/Dobrynė]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Lenkai]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Kleckas]]
+- Lietuvos kariuomenė puole [[objektai/grupes/Totoriai]]
+- Lietuvos kariuomenė surenge_zygi_i [[objektai/vietos/Frankfurtas prie Oderio]]
+- Lietuvos kariuomenė surenge_zygi_i [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
+- Lietuvos kariuomenė puole [[objektai/vietos/Dorpatas]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
+- Lietuvos kariuomenė puole [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Dmitrijus (totorių vadas)]] kariavo_pries Lietuvos kariuomenė
+- Lietuvos kariuomenė gyne [[objektai/vietos/Kaunas]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Želigovskininkai]]
+- [[objektai/grupes/Maskvėnai]] kariavo_pries Lietuvos kariuomenė
+- Lietuvos kariuomenė gyne [[objektai/vietos/Brasta]]
+- Lietuvos kariuomenė puole [[objektai/vietos/Kulmo žemė]]
+- Lietuvos kariuomenė dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Bermontininkai]]
+- Lietuvos kariuomenė puole [[objektai/vietos/Kulmas]]
+- Lietuvos kariuomenė uzeme [[objektai/vietos/Raudonoji Rusia]]
+- [[objektai/daiktai/Ginklai]] priklause Lietuvos kariuomenė
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Kamenecas]]
+- Lietuvos kariuomenė kariavo_pries [[objektai/grupes/Korano giminė]]
+- Lietuvos kariuomenė keliavo_i [[objektai/vietos/Strėvos upė]]

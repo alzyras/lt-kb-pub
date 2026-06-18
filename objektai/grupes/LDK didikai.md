@@ -71,3 +71,7 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
   ryšio_subjekto_parinkimas: LDK didikai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK didikai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- LDK didikai reme [[objektai/grupes/Evangelikų reformatų bažnyčia]]
+- LDK didikai reme [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

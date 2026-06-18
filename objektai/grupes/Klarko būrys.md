@@ -20,19 +20,20 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - t-001
   global_id: t-40923
   teiginys: 'Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.'
-  susije_objektai: 'mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Daukšiai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Buktos (Žaliosios) miškas; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Daukšiai; mentioned_place: Lietuva; llm_object: Žuvintas'
+  semantiniai_rysiai: '[[objektai/grupes/Klarko būrys|Klarko būrys]] gyveno Buktos (Žaliosios) miškas; [[objektai/grupes/Klarko būrys|Klarko būrys]] gyveno Žuvintas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klarko būrys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klarko būrys" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Buktos (Žaliosios) miškas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klarko būrys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Klarko būrio veikimo vietą Buktos miške.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,14 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klarko būrys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klarko būrys" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Buktos (Žaliosios) miškas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klarko būrys: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Klarko būrio veikimo vietą Buktos miške.
+
+## Ryšiai
+- Klarko būrys gyveno [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- Klarko būrys gyveno [[objektai/vietos/Žuvintas]]

@@ -35,6 +35,9 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
   ryšio_subjekto_parinkimas: Giliginas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: įpėdinis: mention_match, thing, gap=30
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giliginas" parinktas kaip owner_note_path. Targetas "įpėdinis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
+- susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
+- susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
 - susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184845|Traidenis (valdovas, XIII a.)]]: Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę.
@@ -80,3 +83,5 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 
 ## Ryšiai
 - Giliginas buvo_sunus [[objektai/asmenys/Germantas]]
+- [[objektai/asmenys/Romuntas]] buvo_sunus Giliginas
+- [[objektai/asmenys/Trobius]] buvo_brolis Giliginas

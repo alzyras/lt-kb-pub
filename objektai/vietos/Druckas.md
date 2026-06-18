@@ -34,7 +34,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   global_id: t-67840
   teiginys: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra per ilgas ir stilistiškai fragmentiškas; citata palaiko glaustesnį faktą.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas; llm_object: Druckas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Druckas'
   temporaliniai_duomenys: 'įvykio data: 1505 m.; įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra per ilgas ir stilistiškai fragmentiškas; citata palaiko glaustesnį faktą.'
@@ -43,31 +44,32 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57168ef0a9981f78eb2364b1299dfa73ff2e353be4130aabbf753638baab428c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Orša: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Orša: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Orša" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Druckas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skirgaila nurodytas kaip kartu su Vytautu veikęs, o veiksmas tiesiogiai apima Drucko paėmimą.
 
 <a id="claim-t-67841"></a>
 - t-002
   global_id: t-67841
   teiginys: 'Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.'
-  susije_objektai: 'mentioned_place: Orša; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'mentioned_place: Orša; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Druckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] užėmė Druckas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumas: puole -> Druckas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis ir siaubimas tiesiogiai apima Drucko apylinkes.
 
 <a id="claim-t-67842"></a>
 - t-003
@@ -96,19 +98,20 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą Drucko atžvilgiu ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Druckas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Druckas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltarusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltarusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Druckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas patraukė į Drucką.
 
 <a id="claim-t-187574"></a>
 - t-005
@@ -118,20 +121,21 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Dėl kronikos interpretacinio pasakojimo pridėta būtina atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Vitebskas; llm_object: Druckas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Druckas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 166792-167055; hash=f7b28cb7460a0e83a6a29135852217981b5ff70bb9c511c58555938f4e038536; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=155
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas.md#claim-t-185666|Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]: Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams.
+  ryšio_patikimumas: surenge_zygi_i -> Vitebskas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas įvardytas kaip žygiuojantis į Vitebską.
+- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
@@ -144,6 +148,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - susijęs iš [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti.md#claim-t-185905|Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]: Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.
 - susijęs iš Luckas: Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.
 - susijęs iš Minskas: Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184871|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -191,13 +196,13 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57168ef0a9981f78eb2364b1299dfa73ff2e353be4130aabbf753638baab428c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Orša: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Orša: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Orša" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Druckas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skirgaila nurodytas kaip kartu su Vytautu veikęs, o veiksmas tiesiogiai apima Drucko paėmimą.
     - t-003
 
 - c-003
@@ -257,13 +262,13 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumas: puole -> Druckas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis ir siaubimas tiesiogiai apima Drucko apylinkes.
     - t-004
 
 - c-005
@@ -282,24 +287,28 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltarusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltarusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Druckas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Druckas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas patraukė į Drucką.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 166792-167055; hash=f7b28cb7460a0e83a6a29135852217981b5ff70bb9c511c58555938f4e038536; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Druckas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=155
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druckas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Vitebskas: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vytautas įvardytas kaip žygiuojantis į Vitebską.
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] uzeme Druckas
+- [[objektai/asmenys/Petras Šuiskis]] keliavo_i Druckas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Druckas
+- [[objektai/asmenys/Skirgaila]] uzeme Druckas
+- [[objektai/grupes/Totoriai]] puole Druckas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Druckas

@@ -23,19 +23,20 @@ tags:
   global_id: t-87644
   teiginys: 'Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pradiniame tekste yra OCR triukšmo ir fragmentiškumo.'
-  susije_objektai: 'mentioned_place: Maišiagala; mentioned_place: Rudamina; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maišiagala; mentioned_place: Rudamina; mentioned_place: Vilnius; llm_object: Rudamina'
+  semantiniai_rysiai: '[[objektai/asmenys/Charitonas Charotičius|Charitonas Charotičius]] valdė teritoriją Rudamina'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de6f745677eb55705b32ce396ea5640705bcb61ea26a39064e02a37663f16c28; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
+  ryšio_patikimumas: valde_teritorija -> Rudamina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Charitonas Charotičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Charitonas Charotičius" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Charitonas Charotičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudamina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Patvirtinimas apima ir Rudaminos pavietą, todėl rodo teises į šią teritoriją.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +59,13 @@ tags:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de6f745677eb55705b32ce396ea5640705bcb61ea26a39064e02a37663f16c28; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maišiagala: 0.85
+  ryšio_patikimumas: valde_teritorija -> Rudamina: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Charitonas Charotičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maišiagala: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Charitonas Charotičius" parinktas kaip owner_note_path. Targetas "Maišiagala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Charitonas Charotičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rudamina: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Patvirtinimas apima ir Rudaminos pavietą, todėl rodo teises į šią teritoriją.
+
+## Ryšiai
+- Charitonas Charotičius valde_teritorija [[objektai/vietos/Rudamina]]

@@ -52,7 +52,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   global_id: t-181560
   teiginys: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Alšėnai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Alšėnai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs.'
@@ -76,6 +77,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - susijęs iš Martyno Mažvydo Katekizmas: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio kultūrinės programos dalimi.
 - susijęs iš Karaliaučius: 1544 m. įkurtame Karaliaučiaus universitete Abraomas Kulvietis ir Stanislovas Rapolionis tapo pirmaisiais profesoriais.
 - susijęs iš Vilnius: Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.
+- susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
 - susijęs iš Karaliaučius: Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams.
@@ -144,3 +146,10 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Abraomas Kulvietis keliavo_i [[objektai/vietos/Vilnius]]
+- Abraomas Kulvietis keliavo_i [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Albrechtas]] reme Abraomas Kulvietis
+- Abraomas Kulvietis gyveno [[objektai/vietos/Vilnius]]
+- Abraomas Kulvietis pastate [[objektai/vietos/Vilnius]]

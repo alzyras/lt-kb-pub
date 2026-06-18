@@ -59,7 +59,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   global_id: t-71739
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Lietuva; llm_object: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -67,13 +67,13 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2480253360a37b494d9798de90f5923254bcd7d5415693d4c10755ee8a7969c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.85
+  ryšio_patikimumas: mire -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brunono misija į aisčių kraštą ir žūtis (1009 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunono misija į aisčių kraštą ir žūtis (1009 m.)" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodoma Brunono nužudymo vieta prie Lietuvos ir Rusijos sienos; kaip vietos objektas parenkama Lietuva.
 
 ## Reikšmingi paminėjimai
 
@@ -110,10 +110,10 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2480253360a37b494d9798de90f5923254bcd7d5415693d4c10755ee8a7969c3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brunonas: 0.85
+  ryšio_patikimumas: mire -> Lietuva: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brunono misija į aisčių kraštą ir žūtis (1009 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Brunonas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunono misija į aisčių kraštą ir žūtis (1009 m.)" parinktas kaip owner_note_path. Targetas "Brunonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodoma Brunono nužudymo vieta prie Lietuvos ir Rusijos sienos; kaip vietos objektas parenkama Lietuva.

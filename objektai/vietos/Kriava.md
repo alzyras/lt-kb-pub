@@ -32,20 +32,19 @@ amziai:
   global_id: t-180060
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai pagrįstas citata.'
-  susije_objektai: 'territory: Vitebskas; object: Pskovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; llm_object: Vitebskas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d81b1bf0503a49752b9f0664c7f30a83fca1db36581bc5251beb17316483b74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Vitebskas: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Livonija: candidate; Pskovas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor_after_title. Targetas "Vitebskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 68, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": 37, "match_index": 57, "path": "objektai/vietos/Pskovas.md", "selected": false, "strategy": "candidate", "title": "Pskovas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdas pavadintas Vitebsko kunigaikščiu, todėl tai valdymo ryšys su Vitebsku.
 
 <a id="claim-t-180061"></a>
 - t-002
@@ -110,11 +109,10 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d81b1bf0503a49752b9f0664c7f30a83fca1db36581bc5251beb17316483b74; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.99
+  ryšio_patikimumas: buvo_valdovas -> Vitebskas: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Vitebskas: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Livonija: candidate; Pskovas: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor_after_title. Targetas "Vitebskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 68, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}, {"distance_to_predicate": 37, "match_index": 57, "path": "objektai/vietos/Pskovas.md", "selected": false, "strategy": "candidate", "title": "Pskovas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Algirdas pavadintas Vitebsko kunigaikščiu, todėl tai valdymo ryšys su Vitebsku.

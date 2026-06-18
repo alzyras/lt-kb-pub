@@ -49,6 +49,7 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
 - susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš Italija: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
+- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,3 +91,6 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
   ryšio_subjekto_parinkimas: Papakoda: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Augustas: mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papakoda" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Bona]] buvo_priesas Papakoda

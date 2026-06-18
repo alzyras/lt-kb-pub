@@ -87,20 +87,20 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   global_id: t-78880
   teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų baskakų vaidmenį priimant duoklę Podolėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Kamenecas; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Kamenecas; mentioned_place: Podolė; llm_object: Kamenecas'
   pagrindžia:
     - c-001
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da4a250c8cb7dbd53e39c6d0ccbf1a19b2c9ee6637ad5b30f6989783c319a86a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: baskakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "baskakas" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karijotaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę.
 
 <a id="claim-t-187518"></a>
 - t-005
@@ -167,13 +167,13 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da4a250c8cb7dbd53e39c6d0ccbf1a19b2c9ee6637ad5b30f6989783c319a86a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: baskakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "baskakas" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karijotaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex
@@ -232,13 +232,13 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=da4a250c8cb7dbd53e39c6d0ccbf1a19b2c9ee6637ad5b30f6989783c319a86a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: baskakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "baskakas" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Podolė: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karijotaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex

@@ -195,7 +195,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Volynė'
+  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Volynė; llm_object: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas.'
@@ -204,13 +204,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   irodymo_stiprumas: 0.00
   saltinio_vieta: 520286-520584; hash=f29cdc0c44befa15702a5c498ada1da247913f7daa873fb5afdda84f2b20631f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: metropolitas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metropolitas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerasimas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „iš Maskvos kilęs“ tiesiogiai nurodo Gerasimo kilmės vietą.
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
 - susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71296|Jonas Paulius II]]: Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.
 - susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71298|Jonas Paulius II]]: Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.
@@ -490,10 +490,10 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   irodymo_stiprumas: 0.00
   saltinio_vieta: 520286-520584; hash=f29cdc0c44befa15702a5c498ada1da247913f7daa873fb5afdda84f2b20631f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: metropolitas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metropolitas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Maskva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gerasimas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė „iš Maskvos kilęs“ tiesiogiai nurodo Gerasimo kilmės vietą.

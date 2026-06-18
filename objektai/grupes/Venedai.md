@@ -36,20 +36,21 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   irodymo_stiprumas: 0.00
   saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venedai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venedai" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Venedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad venedų gentis buvo užėmusi Baltijos jūros pakrantę.
 
 <a id="claim-t-86774"></a>
 - t-002
   global_id: t-86774
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie venedus ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Baltija; mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Venedai|Venedai]] užėmė Baltija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -151,10 +152,14 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   irodymo_stiprumas: 0.00
   saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Venedai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venedai" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Baltija: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Venedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad venedų gentis buvo užėmusi Baltijos jūros pakrantę.
+
+## Ryšiai
+- Venedai uzeme [[objektai/vietos/Baltija]]
+- Venedai reme [[objektai/asmenys/Fridrichas II]]

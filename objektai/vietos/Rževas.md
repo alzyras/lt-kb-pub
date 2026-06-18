@@ -55,7 +55,7 @@ amziai:
   global_id: t-69217
   teiginys: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Algirdo veiksmus Rževe ir aplinkinėse žemėse.'
-  susije_objektai: 'mentioned_place: Brianskas; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Volga'
+  susije_objektai: 'llm_object: Brianskas; llm_object: Mstislavlis; mentioned_place: Brianskas; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Volga'
   temporaliniai_duomenys: 'įvykio data: 1356 m.; įvykio data: 1357-1358; įvykio data: 1358 m.; įvykio data: 1359 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Algirdo veiksmus Rževe ir aplinkinėse žemėse.'
@@ -64,13 +64,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4a00f8243d095029e9b5d9fc1f78c4eaadaf9faa71326fe549d0644ea8f0bb8a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brianskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rževas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brianskas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rževas" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Brianskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Algirdas atakavo Brianską.
 
 <a id="claim-t-184397"></a>
 - t-003
@@ -93,6 +93,8 @@ amziai:
   ryšio_subjekto_parinkimas: Rževas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=78
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rževas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78617|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.
@@ -111,6 +113,7 @@ amziai:
 - susijęs iš Urdomas: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
+- susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -171,13 +174,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4a00f8243d095029e9b5d9fc1f78c4eaadaf9faa71326fe549d0644ea8f0bb8a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brianskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rževas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brianskas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rževas" parinktas kaip owner_note_path. Targetas "Brianskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Brianskas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Brianskas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Algirdas atakavo Brianską.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 815342-815690; hash=eb8f33b7f932ff2906c728db49d9479cf6f400a0b3acb19042708c341af39216; match=whitespace_regex
@@ -189,3 +192,8 @@ amziai:
   ryšio_subjekto_parinkimas: Rževas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=78
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rževas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Pskoviečiai]] puole Rževas
+- [[objektai/asmenys/Kristupas Radvila]] keliavo_i Rževas
+- [[objektai/grupes/Radvilos]] puole Rževas

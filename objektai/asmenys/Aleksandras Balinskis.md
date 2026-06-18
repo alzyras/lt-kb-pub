@@ -88,19 +88,20 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - t-003
   global_id: t-54933
   teiginys: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Krokuva; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476546-476958; hash=bffa8312f32c1bed4384aa3fd3044783aef78ac01ef46d4d2fc89ec3fd646dfe; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Balinskis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Balinskis sugrįžo į Krokuvą.
 
 <a id="claim-t-54934"></a>
 - t-004
@@ -135,11 +136,10 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-173118
   teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie asmenį.'
-  susije_objektai: 'location: Krokuva; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Vilnius'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra).md#claim-t-87894|Zofija (Jurgio Sniadeckio dukra)]]: 1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82169|Aleksandras II]]: Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54940|Aleksandras Jogailaitis]]: Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
@@ -462,16 +462,20 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   irodymo_stiprumas: 0.00
   saltinio_vieta: 476546-476958; hash=bffa8312f32c1bed4384aa3fd3044783aef78ac01ef46d4d2fc89ec3fd646dfe; match=exact
   sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Balinskis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Krokuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Balinskis sugrįžo į Krokuvą.
 
 ## Ryšiai
 - Aleksandras Balinskis keliavo_i [[objektai/vietos/Krokuva]]
-- Aleksandras Balinskis mire [[objektai/vietos/Jašiūnai]]
+- Aleksandras Balinskis valde [[objektai/vietos/Jašiūnai]]
+- Aleksandras Balinskis keliavo_i [[objektai/vietos/Vilnius]]
+- Aleksandras Balinskis gyveno [[objektai/vietos/Vitebskas]]
+- Aleksandras Balinskis gyveno [[objektai/vietos/Jašiūnai]]
+- Aleksandras Balinskis keliavo_i [[objektai/vietos/Lietuva]]
 - Aleksandras Balinskis buvo_palaidotas [[objektai/vietos/Jašiūnai]]
-- [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra)]] vede Aleksandras Balinskis
+- Aleksandras Balinskis mire [[objektai/vietos/Vilnius]]

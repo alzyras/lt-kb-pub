@@ -21,20 +21,20 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   global_id: t-60232
   teiginys: 'Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Alchimo dalyvavimą, bet pradinis teiginys per ilgas.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Bachidas|Bachidas]]; counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Alchimas|Alchimas]] kariavo prieš [[objektai/asmenys/Bachidas|Bachidas]]; [[objektai/asmenys/Alchimas|Alchimas]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Alchimas|Alchimas]]; llm_object: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]] kariavo prieš [[objektai/asmenys/Alchimas|Alchimas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7ac35adafe18eea54ed3750e7db783ba4e67f59014990af5c083adda5667b47; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Bachidas: 0.90
+  ryšio_patikimumas: kariavo_pries -> Alchimas: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Alchimas: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Bachidas: counterparty_iteration, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Alchimas" parinktas kaip owner_note_path. Targetas "Bachidas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alchimas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Judas Makabėjus kovojo su Alchimu.
 - susijęs iš [[objektai/asmenys/Bachidas.md#claim-t-60243|Bachidas]]: Bachidas ir Alchimas kovojo su Judu Makabėjumi; po šių kautynių Judas žuvo, o Izraelio kariuomenė pabėgo.
 - susijęs iš [[objektai/asmenys/Bachidas.md#claim-t-60243|Bachidas]]: Bachidas ir Alchimas kovojo su Judu Makabėjumi; po šių kautynių Judas žuvo, o Izraelio kariuomenė pabėgo.
 ## Reikšmingi paminėjimai
@@ -61,15 +61,14 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7ac35adafe18eea54ed3750e7db783ba4e67f59014990af5c083adda5667b47; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Bachidas: 0.90
+  ryšio_patikimumas: kariavo_pries -> Alchimas: 0.94
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_combat_counterparty
-  ryšio_subjekto_parinkimas: Alchimas: owner_note_path, person, gap=21
-  ryšio_targeto_parinkimas: Bachidas: counterparty_iteration, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Alchimas" parinktas kaip owner_note_path. Targetas "Bachidas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Judas Makabėjus: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Alchimas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Judas Makabėjus kovojo su Alchimu.
 
 ## Ryšiai
-- [[objektai/asmenys/Bachidas]] kariavo_pries Alchimas
-- Alchimas kariavo_pries [[objektai/asmenys/Bachidas]]
-- Alchimas kariavo_pries [[objektai/asmenys/Judas Makabėjus]]
+- [[objektai/asmenys/Judas Makabėjus]] kariavo_pries Alchimas
+- [[objektai/asmenys/Bachidas]] buvo_sajungininkas_su Alchimas

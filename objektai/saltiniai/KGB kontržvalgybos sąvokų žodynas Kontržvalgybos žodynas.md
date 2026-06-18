@@ -32,7 +32,7 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 - t-001
   global_id: t-41536
   teiginys: 'KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_place: Baltija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_place: Baltija; mentioned_place: Ukraina; llm_object: Baltija; llm_object: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1940-1950; įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -40,13 +40,13 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4fe07003571f6c229c08ee8df4f4898ba7d49dccd1abd93c561bc76cbfc7636; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Agentai-smogikai: 0.83
+  ryšio_patikimumas: gyveno -> Baltija: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Agentai-smogikai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas" parinktas kaip owner_note_path. Targetas "Agentai-smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Agentai-smogikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo agentų-smogikų verbavimą Baltijos šalių teritorijoje, todėl fiksuojamas atsargus grupės ir vietos ryšys.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +72,10 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c4fe07003571f6c229c08ee8df4f4898ba7d49dccd1abd93c561bc76cbfc7636; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Agentai-smogikai: 0.83
+  ryšio_patikimumas: gyveno -> Baltija: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Agentai-smogikai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas" parinktas kaip owner_note_path. Targetas "Agentai-smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Agentai-smogikai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo agentų-smogikų verbavimą Baltijos šalių teritorijoje, todėl fiksuojamas atsargus grupės ir vietos ryšys.

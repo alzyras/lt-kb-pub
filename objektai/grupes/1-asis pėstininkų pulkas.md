@@ -21,7 +21,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   global_id: t-78158
   teiginys: '1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra kontekstinių fragmentų „Tos dienos“ ir „šią stotį“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Turmantas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Zarasai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Turmantas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Zarasai; llm_object: Turmantas'
+  semantiniai_rysiai: '[[objektai/grupes/1-asis pėstininkų pulkas|1-asis pėstininkų pulkas]] užėmė Turmantas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -57,13 +58,13 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85df32330cf3d77e7871fea497f5f3899caab7b4a12a2ed59cb6d19b9e9ca716; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Turmantas: 0.85
+  ryšio_patikimumas: uzeme -> Turmantas: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Turmantas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Turmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 1-asis pėstininkų pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Turmantas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užėmimas įvyko parėmus 1-ojo pėstininkų pulko batalionui; Turmantas yra leidžiamas vietos kandidatas.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
 - susijęs iš [[objektai/grupes/asis pėstininkų pulkas.md#claim-t-80634|asis pėstininkų pulkas]]: Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.
 ## Reikšmingi paminėjimai
@@ -140,10 +141,13 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=85df32330cf3d77e7871fea497f5f3899caab7b4a12a2ed59cb6d19b9e9ca716; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Turmantas: 0.85
+  ryšio_patikimumas: uzeme -> Turmantas: 0.56
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: 1-asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Turmantas: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Turmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: 1-asis pėstininkų pulkas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Turmantas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Užėmimas įvyko parėmus 1-ojo pėstininkų pulko batalionui; Turmantas yra leidžiamas vietos kandidatas.
+
+## Ryšiai
+- 1-asis pėstininkų pulkas uzeme [[objektai/vietos/Turmantas]]

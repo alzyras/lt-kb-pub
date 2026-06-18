@@ -40,19 +40,19 @@ Nenurodyta
   global_id: t-66499
   teiginys: 'Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.'
   sudarymo_pagrindimas: 'Reikia neutralesnės, enciklopedinės formuluotės vietoje vaizdingo posakio „pavertė pelenais“.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Bisenė; mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; llm_object: Lietuva'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e76f8ba36b1887ce259c7f3443d4e886a3946ade044c19705433ff96cb52a51; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenės pilies užkariavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies užkariavimas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas su kariuomene tiesiogiai nurodytas puolęs Bisenę.
 
 <a id="claim-t-66500"></a>
 - t-002
@@ -124,10 +124,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2e76f8ba36b1887ce259c7f3443d4e886a3946ade044c19705433ff96cb52a51; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bisenės pilies užkariavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies užkariavimas" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Bisenė: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Konradas su kariuomene tiesiogiai nurodytas puolęs Bisenę.

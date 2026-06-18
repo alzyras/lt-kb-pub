@@ -82,6 +82,7 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
 - susijęs iš Sviečė: Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių.
 - susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
 ## Reikšmingi paminėjimai
@@ -174,3 +175,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] puole Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)

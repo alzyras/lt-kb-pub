@@ -33,7 +33,8 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   global_id: t-121122
   teiginys: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Patriko giminystę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Katra; mentioned_place: Maskva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Katra; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Patrikas|Patrikas]] buvo sūnus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Patriko giminystę.'
@@ -70,19 +71,20 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Patriko veiksmą ir rezultatą, bet pradiniame teiginyje yra OCR antraščių ir nutrūkusių fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Patrikas|Patrikas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Patrikas|Patrikas]] gynė [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 829443-829826; hash=4705e55778076b81e24f145fb6172ac8da3513b4ab066b90058cc4d5a1857394; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Narimantas (Pinsko kunigaikštis): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Narimantas (Pinsko kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Patrikas buvo Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Henrikas Hochbergas.md#claim-t-186209|Henrikas Hochbergas]]: Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
@@ -178,10 +180,17 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   irodymo_stiprumas: 0.00
   saltinio_vieta: 829443-829826; hash=4705e55778076b81e24f145fb6172ac8da3513b4ab066b90058cc4d5a1857394; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Narimantas (Pinsko kunigaikštis): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Narimantas (Pinsko kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Patrikas buvo Narimanto sūnus.
+
+## Ryšiai
+- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Patrikas (kunigaikštis, XIV a.) buvo_sunus [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- Patrikas (kunigaikštis, XIV a.) gyne [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalvos žemė]]
+- Patrikas (kunigaikštis, XIV a.) puole [[objektai/vietos/Skalva]]

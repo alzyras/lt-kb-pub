@@ -30,7 +30,7 @@ amziai:
   teiginys: '1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Patikslintas Voronačo statusas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Velikije Lūki'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Velikije Lūki; llm_object: Polockas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Velikije Lūki'
   temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas Voronačo statusas pagal citatą.'
@@ -39,13 +39,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Voronačas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voronačas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas puolė Voronačą.
 
 <a id="claim-t-187392"></a>
 - t-002
@@ -53,7 +53,8 @@ amziai:
   teiginys: '1426 m. rugpjūčio 5 d. Vytautas puolė Voronačą, bet jo paimti negalėjo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas puolimo rezultatas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Voronačas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Voronačas'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas citatoje nurodytas puolimo rezultatas.'
@@ -62,13 +63,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Opočka: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Opočka: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Opočka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
 
 <a id="claim-t-187393"></a>
 - t-003
@@ -76,7 +77,7 @@ amziai:
   teiginys: '1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Neutrali nuoroda paversta pilnu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Velikije Lūki'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Velikije Lūki; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pskovas; llm_object: Polockas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Velikije Lūki'
   temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Neutrali nuoroda paversta pilnu faktiniu sakiniu.'
@@ -85,13 +86,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6757a0aec31ab801b2cd3f2e6cdbf50104c94d71a913fb9f7ab8c61fd7b2f738; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pskoviečiai puolė Lietuvos miestus.
 
 <a id="claim-t-187394"></a>
 - t-004
@@ -99,7 +100,8 @@ amziai:
   teiginys: '1426 m. rugpjūtį Vytautas puolė Pskovo miestus Opočką ir Voronačą, bet jų paimti negalėjo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalinta formuluotė „šiame gabale“ ir suformuluotas konkretus faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Opočka; mentioned_place: Pskovas'
+  susije_objektai: 'llm_object: Opočka; llm_object: Voronačas; llm_object: Pskovas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Opočka; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Voronačas'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta formuluotė „šiame gabale“ ir suformuluotas konkretus faktas.'
@@ -108,13 +110,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6757a0aec31ab801b2cd3f2e6cdbf50104c94d71a913fb9f7ab8c61fd7b2f738; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai aprašo pskoviečių puolimą prieš Lietuvos miestus.
 
 ## Reikšmingi paminėjimai
 
@@ -132,13 +134,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Opočka: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Opočka: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Opočka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Opočka: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Opočka: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas puolė Opočką.
     - t-004
 
 - c-002
@@ -158,32 +160,35 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6757a0aec31ab801b2cd3f2e6cdbf50104c94d71a913fb9f7ab8c61fd7b2f738; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai aprašo pskoviečių puolimą prieš Lietuvos miestus.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Pskovas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Voronačas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Voronačas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas puolė Voronačą.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6757a0aec31ab801b2cd3f2e6cdbf50104c94d71a913fb9f7ab8c61fd7b2f738; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Voronačas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voronačas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pskoviečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pskoviečiai puolė Lietuvos miestus.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] puole Voronačas

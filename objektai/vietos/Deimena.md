@@ -39,6 +39,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš Kaimas: Kaimas buvo to paties vardo valsčiaus centras rytų Semboje, į vakarus nuo Deimenos.
 - susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
 - susijęs iš Tepliava: Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį.
+- susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
 - susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56717|A. Becenbergeris]]: A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
@@ -73,3 +74,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   ryšio_subjekto_parinkimas: Deimena: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=12
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deimena" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Deimena

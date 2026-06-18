@@ -32,7 +32,8 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   global_id: t-87817
   teiginys: '1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Paulius Bochenas|Paulius Bochenas]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Paulius Bochenas|Paulius Bochenas]]'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1677 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą.'
@@ -41,13 +42,13 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20a7bcd1dd68a2293a71cdb307f096ad2074be566c8acca279ebc509f82adc36; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumas: priklause -> Paulius Bochenas: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulius Bochenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulius Bochenas" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Paulius Bochenas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bochenas pardavė mūrinį namą, tad tekstas palaiko, kad namas buvo jo disponuojamas turtas.
 - susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
 - susijęs iš Vyskupų gatvė: 1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.
 ## Reikšmingi paminėjimai
@@ -81,10 +82,13 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=20a7bcd1dd68a2293a71cdb307f096ad2074be566c8acca279ebc509f82adc36; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumas: priklause -> Paulius Bochenas: 0.65
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulius Bochenas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulius Bochenas" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Paulius Bochenas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Bochenas pardavė mūrinį namą, tad tekstas palaiko, kad namas buvo jo disponuojamas turtas.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Paulius Bochenas

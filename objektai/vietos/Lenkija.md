@@ -105,7 +105,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177344
   teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   sudarymo_pagrindimas: 'Pradžia „Tais pačiais metais“ yra kontekstinė ir neaiški be ankstesnio sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vengrija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija'
   pagrindžia:
     - c-052
 
@@ -113,7 +114,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-008
   global_id: t-177345
   teiginys: 'Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Lenkija'
   pagrindžia:
     - c-042
 
@@ -130,7 +132,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177348
   teiginys: 'Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.'
   sudarymo_pagrindimas: 'Pradžia „Vėliau“ buvo kontekstinė, todėl patikslintas laikas.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Lenkija'
   temporaliniai_duomenys: 'įvykio data: po 1183 m.; įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradžia „Vėliau“ buvo kontekstinė, todėl patikslintas laikas.'
@@ -205,13 +208,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių žygius į Lenkiją.
 
 <a id="claim-t-177355"></a>
 - t-016
@@ -235,13 +238,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=907780fdbb05c82e6d554d08a42bf0cac96a420ab2315d77335a2d57dc5b1314; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila tapo Lenkijos karaliumi.
 
 <a id="claim-t-177358"></a>
 - t-018
@@ -523,13 +526,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vilnius atiteko Lenkijai.
 
 <a id="claim-t-177382"></a>
 - t-036
@@ -589,7 +592,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177386
   teiginys: '1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti veikėją su Lenkija ir išplėsti inicialą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]]; mentioned_place: Suvalkai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liucijanas Želigovskis|Liucijanas Želigovskis]]; mentioned_place: Suvalkai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva'
+  semantiniai_rysiai: 'Vilnius priklausė Lenkija'
   temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti veikėją su Lenkija ir išplėsti inicialą.'
@@ -633,7 +637,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177389
   teiginys: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie totorių įsiveržimą ir Lenkijos nuniokojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vengrija; mentioned_place: Vroclavas'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Vengrija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vengrija; mentioned_place: Vroclavas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Lenkija'
   pagrindžia:
     - c-051
 
@@ -768,7 +773,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177401
   teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   sudarymo_pagrindimas: 'Sutvarkytos kabutės ir paliktas citatos pagrįstas faktas apie santykį su Lenkija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]'
   temporaliniai_duomenys: 'įvykio data: 1600 m.; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkytos kabutės ir paliktas citatos pagrįstas faktas apie santykį su Lenkija.'
@@ -777,13 +782,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordino kariauna užėmė Kernavę.
 
 <a id="claim-t-177402"></a>
 - t-053
@@ -795,13 +800,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos grįžimą į Lenkiją.
 
 <a id="claim-t-177403"></a>
 - t-054
@@ -864,7 +869,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177407
   teiginys: 'Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.'
   sudarymo_pagrindimas: 'Citatoje kalbama apie kaimynų nesutarimus, todėl verta tiksliau perteikti veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kernavė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -882,7 +887,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177409
   teiginys: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
   sudarymo_pagrindimas: 'Pradinis teiginys neminėjo note objekto, o citata pagrindžia faktą apie Lenkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius priklausė Lenkija'
   temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neminėjo note objekto, o citata pagrindžia faktą apie Lenkiją.'
@@ -974,7 +980,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177418
   teiginys: '1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis „Išeitis“ ir aiškiau suformuluotas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenkija'
   temporaliniai_duomenys: 'sutarties data: 1385 m.; sutarties data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis žodis „Išeitis“ ir aiškiau suformuluotas faktas.'
@@ -1095,18 +1102,95 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
-- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
-- susijęs iš Kulmas: Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
-- susijęs iš Pamaris: Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Jonas Ritvianskis.md#claim-t-186217|Jonas Ritvianskis]]: Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pasiuntinys ir karalystės maršalas.
-- susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
-- susijęs iš Liublinas: 1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
-- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
-- susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185635|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.
 - susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
+- susijęs iš Vengrija: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45349|Krėvos sutartis (1385 m.)]]: Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45350|Krėvos sutartis (1385 m.)]]: 1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
+- susijęs iš [[objektai/asmenys/Kolomanas.md#claim-t-60357|Kolomanas]]: Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113969|Steponas Batoras]]: 1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176650|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
+- susijęs iš Vidurinė Lietuva: 1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.
+- susijęs iš Vidurinė Lietuva: 1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176840|Vytenis]]: Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179237|Lietuviai]]: Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179284|Lietuviai]]: 1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
+- susijęs iš E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo: E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.
+- susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
+- susijęs iš Opatovas: Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos.
+- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101707|Stasys Raštikis]]: 1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
+- susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
+- susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
+- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
+- susijęs iš Niešavos kraštas (kraštas): Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+- susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-60148|Jazbutas]]: Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsigabeno grobį ir įspėjo brolius prieš savo žygį.
+- susijęs iš [[objektai/asmenys/Pukuveras (Lietuvos karalius).md#claim-t-39631|Pukuveras (Lietuvos karalius)]]: Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.
+- susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60195|Pukuveras (Lietuvos karalius, XIII a.)]]: 1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.).md#claim-t-66563|Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]: Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.
+- susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.
+- susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.
+- susijęs iš Sūduva: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+- susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11684|supremus dux ir magnus dux]]: Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.
+- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
+- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86889|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.
+- susijęs iš Ukraina: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
+- susijęs iš Vidurinė Lietuva: Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi.
+- susijęs iš Vilnius: 1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184890|Vytenis]]: Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179193|Lenkai]]: 1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.
+- susijęs iš [[objektai/grupes/Prancūzijos steigiamasis susirinkimas.md#claim-t-19967|Prancūzijos steigiamasis susirinkimas]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171407|Totoriai]]: Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-20467|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-59436|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.
+- susijęs iš [[objektai/ivykiai/Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.).md#claim-t-185658|Vytauto misija pas Zigmantą ir nesėkmingos derybos su Vaclovu (1410 m.)]]: Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais.
+- susijęs iš [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md#claim-t-185882|Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]: Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
+- susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija.
+- susijęs iš Rygos sutartis (1921 m.): 1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje.
+- susijęs iš Marijenburgas: Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.
+- susijęs iš Mažlenkiai: Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.
+- susijęs iš Mažlenkiai: Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
+- susijęs iš Podolė: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai.
+- susijęs iš Podolė: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.
+- susijęs iš Podolė: Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.
+- susijęs iš Ukraina: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
+- susijęs iš Vakarų Prūsija: Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos.
+- susijęs iš Varmijos vyskupystė: 1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.
+- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36840|supremus dux magnus dux]]: Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
+- susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
+- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173319|Žygimantas Senasis]]: Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.
+- susijęs iš [[objektai/grupes/Ambasadorių Konferencija.md#claim-t-152691|Ambasadorių Konferencija]]: 1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171439|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-183905|Totoriai]]: Totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186705|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Šio leidimo komentare nurodoma, kad aptariamo BK intarpo istorinis pagrindas gali būti žinios apie 1376 m. lietuvių įsiveržimą į pietų Lenkiją.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-183971|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.).md#claim-t-59435|Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]: 1241 m. totoriai nuniokojo Vengriją ir Lenkiją.
+- susijęs iš [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.).md#claim-t-31480|Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]: 1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89552|dykra]]: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
+- susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169928|rusėnų kalba LDK raštų kalba]]: Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.
+- susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22295|rusėnų kalba LDK slavų kanceliarinė kalba]]: Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183538|Jogaila (kunigaikštis, XIV–XV a.)]]: Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176825|Vytenis]]: Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.
+- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78205|Lenkijos kariuomenė]]: Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.
+- susijęs iš [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.).md#claim-t-183271|Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]: Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.
+- susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują Lietuvos bei Lenkijos demarkacijos liniją.
+- susijęs iš Ambasadorių konferencijos sprendimas dėl Vilniaus ir sienų (1923 m. kovo 15 d.): Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai.
+- susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
+- susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
+- susijęs iš Poznanė: Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.
+- susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
+- susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
+- susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
+- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36840|supremus dux magnus dux]]: Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18759|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
@@ -1805,6 +1889,12 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22335|tėvonija]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
 - susijęs iš [[objektai/zodynas/unija.md#claim-t-72005|unija]]: Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
+- susijęs iš [[objektai/asmenys/Davaina.md#claim-t-186104|Davaina]]: Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje.
+- susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
+- susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184748|Kazimieras Didysis]]: Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179220|Lietuviai]]: Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.
+- susijęs iš Braclavas: Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77968|A. Smetona]]: Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo.
@@ -3731,6 +3821,79 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86441|žiogriai statinių tvoros palisadai]]: Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos.
 - susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-184653|žygūnai]]: Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
+- susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
+- susijęs iš [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas.md#claim-t-59716|Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]: Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.
+- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107740|Edukacinė Komisija]]: Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179260|Lietuviai]]: Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.
+- susijęs iš [[objektai/ivykiai/Jazbuto pralaimėjimas tarp Alnos ir Narevo upių.md#claim-t-185800|Jazbuto pralaimėjimas tarp Alnos ir Narevo upių]]: Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.
+- susijęs iš Latgala: Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
+- susijęs iš Podolė: Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas.
+- susijęs iš Vilnius: Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.
+- susijęs iš [[objektai/zodynas/demarkacijos linija.md#claim-t-181355|demarkacijos linija]]: Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.
+- susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173127|Bona Sforca]]: Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia.
+- susijęs iš Lietuva: Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.
+- susijęs iš Šventasis Kryžius: Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
+- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
+- susijęs iš [[objektai/daiktai/Šakutė.md#claim-t-13464|Šakutė]]: Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.
+- susijęs iš [[objektai/grupes/Podolės bajorai.md#claim-t-86817|Podolės bajorai]]: Podolės bajorai, vadovaujami Gregoro Kierdėjaus, sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijai.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.).md#claim-t-62954|Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]: Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, ėmė belaisvius, degino ir grobė.
+- susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.
+- susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
+- susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111386|vasalas]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179239|Lietuviai]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.
+- susijęs iš [[objektai/zodynas/senatas.md#claim-t-185397|senatas]]: Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.
+- susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
+- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117384|Žydai]]: Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117391|Žydai]]: Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.
+- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183483|tėvonija tėvų palikimas]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70369|tėvonija tėvų palikimas]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183481|tėvonija]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-22335|tėvonija]]: Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+- susijęs iš [[objektai/zodynas/vasalas.md#claim-t-111382|vasalas]]: Vokiečių Prūsija tapo Lenkijos karūnos vasale.
+- susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71644|Kuršo kunigaikštystė]]: Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.
+- susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23483|Lenkijos karalystės kariuomenė]]: Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179260|Lietuviai]]: Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.
+- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
+- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
+- susijęs iš [[objektai/grupes/Poznanės raitininkų eskadronai.md#claim-t-38997|Poznanės raitininkų eskadronai]]: Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.
+- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-183827|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę.
+- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87183|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.
+- susijęs iš [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas.md#claim-t-87184|Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]: 1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą.
+- susijęs iš [[objektai/posakiai/„seimokratija“.md#claim-t-20941|„seimokratija“]]: 1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.
+- susijęs iš Liublino unijos aktas (1569 m.): 1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
+- susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.
+- susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
+- susijęs iš Moldavija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
+- susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.
+- susijęs iš [[objektai/asmenys/Jeronimas Plečkaitis.md#claim-t-26446|Jeronimas Plečkaitis]]: Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus.
+- susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100025|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.
+- susijęs iš Vidurinė Lietuva: Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi.
+- susijęs iš Šventasis Kryžius: Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
+- susijęs iš Šventasis Kryžius: Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113994|Steponas Batoras]]: Steponas Batoras globojo Vilniaus pirklius, kurie buvo išplėtoję prekybą kailiais iki Gniezno ir kitų Didžiosios Lenkijos miestų.
+- susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-183969|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Lenkijos kunigaikštis sumanė pasikviesti Teutonų ordiną ginti savo žemės, tikėjimo ir tikinčiųjų.
+- susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-62935|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Lenkijos kunigaikštis sumanė pasikviesti Teutonų ordiną ginti savo žemės, tikėjimo ir tikinčiųjų.
+- susijęs iš Liublino unijos aktas (1569 m.): 1569 m. sudaryta Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.
+- susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
+- susijęs iš Podolė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
+- susijęs iš [[objektai/zodynas/dominija.md#claim-t-173016|dominija]]: Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei.
+- susijęs iš [[objektai/grupes/Dalomoji Komisija.md#claim-t-182886|Dalomoji Komisija]]: Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos.
+- susijęs iš [[objektai/grupes/Dalomoji Komisija.md#claim-t-72054|Dalomoji Komisija]]: Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.
+- susijęs iš Vysla: Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.
+- susijęs iš Vysla: Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje.
+- susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22098|daugiakonfesiškumas daugiakultūriškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
+- susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22101|daugiakonfesiškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
+- susijęs iš [[objektai/zodynas/tranzitas.md#claim-t-70360|tranzitas]]: 1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos bei tranzito.
+- susijęs iš [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas.md#claim-t-71784|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]: Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei.
+- susijęs iš [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas.md#claim-t-71785|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]: Karūnos armija priklausė Lenkijos Karalystei, o Lietuvos kariuomenė – Lietuvos Didžiajai Kunigaikštystei, kuri nebuvo pavaldi provincija.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54992|Petras Goštautas]]: Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173211|Petras Goštautas]]: Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -3771,13 +3934,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5e7f820690a9e67a830d75481dbbc6ebbe5ab8af60abe5c1b0babc385d22c567; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lenkija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Vilnius atiteko Lenkijai.
     - t-062
     - t-015
 
@@ -3798,13 +3961,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai mini lietuvių žygius į Lenkiją.
     - t-068
 
 - c-004
@@ -3860,13 +4023,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=907780fdbb05c82e6d554d08a42bf0cac96a420ab2315d77335a2d57dc5b1314; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila tapo Lenkijos karaliumi.
     - t-054
 
 - c-006
@@ -4572,13 +4735,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos grįžimą į Lenkiją.
     - t-048
 
 - c-035
@@ -4987,13 +5150,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Kernavė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordino kariauna užėmė Kernavę.
     - t-042
 
 - c-052
@@ -5310,14 +5473,87 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkija" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Mieška]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Vladislovas Lokietka]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Jonas Ritvianskis]] keliavo_i Lenkija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Lenkija
-- Lenkija priklause [[objektai/grupes/7-asis pėstininkų pulkas]]
+- [[objektai/grupes/Totoriai]] puole Lenkija
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Lenkija
-- [[objektai/grupes/Lenkijos kariuomenė]] uzeme Lenkija
-- [[objektai/asmenys/Konradas]] keliavo_i Lenkija
-- [[objektai/grupes/Lietuviai]] keliavo_i Lenkija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Lenkija
+- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Lenkija
+- [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]] priklause Lenkija
+- [[objektai/vietos/Ukraina]] priklause Lenkija
+- [[objektai/vietos/Vidurinė Lietuva]] priklause Lenkija
+- [[objektai/vietos/Vilnius]] priklause Lenkija
+- [[objektai/asmenys/Jazbutas]] surenge_zygi_i Lenkija
+- [[objektai/grupes/Jogailaičių dinastija]] valde Lenkija
+- [[objektai/vietos/Opatovas]] priklause Lenkija
+- [[objektai/asmenys/Vytenis]] puole Lenkija
+- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Lenkija
+- [[objektai/vietos/Naugardas Sieverskas]] priklause Lenkija
+- [[objektai/asmenys/Stasys Raštikis]] keliavo_i Lenkija
+- [[objektai/vietos/Černigovas]] priklause Lenkija
+- [[objektai/asmenys/Žygimantas Senasis]] buvo_valdovas Lenkija
+- [[objektai/asmenys/Konradas]] valde Lenkija
+- [[objektai/vietos/Niešava]] priklause Lenkija
+- [[objektai/asmenys/Pukuveras (Lietuvos karalius)]] siunte_i Lenkija
+- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]] siunte_i Lenkija
+- [[objektai/grupes/Kryžiuočių ordinas]] siunte_i Lenkija
+- [[objektai/asmenys/Pilypas (Fermo vyskupas)]] keliavo_i Lenkija
+- [[objektai/vietos/Didlenkiai]] priklause Lenkija
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Lenkija
+- [[objektai/vietos/Lietuva]] prekiavo_su Lenkija
+- [[objektai/vietos/Marijenburgas]] priklause Lenkija
+- [[objektai/vietos/Mažlenkiai]] priklause Lenkija
+- [[objektai/vietos/Podolė]] priklause Lenkija
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Lenkija
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Lenkija
+- [[objektai/vietos/Vakarų Prūsija]] priklause Lenkija
+- [[objektai/vietos/Varmijos vyskupystė]] priklause Lenkija
+- [[objektai/vietos/Varmė]] priklause Lenkija
+- [[objektai/vietos/Volynė]] priklause Lenkija
+- [[objektai/grupes/Lietuviai]] puole Lenkija
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Lenkija
+- [[objektai/asmenys/Mieška]] buvo_valdovas Lenkija
+- [[objektai/grupes/Rusėnai]] gyveno Lenkija
+- [[objektai/asmenys/Skirgaila]] siunte_i Lenkija
+- [[objektai/vietos/Didžioji Lenkija]] priklause Lenkija
+- [[objektai/vietos/Horodlė]] priklause Lenkija
+- Lenkija priklause [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]] priklause Lenkija
+- [[objektai/asmenys/Ona Jogailaitė]] gyveno Lenkija
+- [[objektai/vietos/Voluinė]] priklause Lenkija
+- [[objektai/asmenys/Vytenis]] keliavo_i Lenkija
+- [[objektai/asmenys/Davaina]] keliavo_i Lenkija
+- [[objektai/asmenys/Hanulas]] keliavo_i Lenkija
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]] keliavo_i Lenkija
+- [[objektai/vietos/Kijevas]] priklause Lenkija
+- [[objektai/vietos/Palenkė]] priklause Lenkija
+- [[objektai/grupes/Edukacinė Komisija]] priklause Lenkija
+- [[objektai/asmenys/Jazbutas]] puole Lenkija
+- [[objektai/grupes/Kryžiuočių ordinas]] priklause Lenkija
+- [[objektai/vietos/Latgala]] priklause Lenkija
+- [[objektai/grupes/Sūduviai]] surenge_zygi_i Lenkija
+- [[objektai/grupes/Žydai]] gyveno Lenkija
+- [[objektai/asmenys/Bona Sforca]] keliavo_i Lenkija
+- [[objektai/vietos/Šventasis Kryžius]] priklause Lenkija
+- [[objektai/daiktai/Vėliavos]] priklause Lenkija
+- [[objektai/grupes/Lietuvos didikai]] keliavo_i Lenkija
+- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]] puole Lenkija
+- [[objektai/grupes/Livonijos kunigaikštystė]] priklause Lenkija
+- [[objektai/vietos/Prūsija]] priklause Lenkija
+- [[objektai/grupes/Kuršo kunigaikštystė]] priklause Lenkija
+- [[objektai/grupes/Lenkijos karalystės kariuomenė]] keliavo_i Lenkija
+- [[objektai/grupes/Abiejų Tautų Respublika]] priklause Lenkija
+- [[objektai/vietos/Braclavas]] priklause Lenkija
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]] priklause Lenkija
+- [[objektai/vietos/Kamenecas]] priklause Lenkija
+- [[objektai/asmenys/Pilsudskis]] valde Lenkija
+- [[objektai/grupes/Poznanės raitininkų eskadronai]] priklause Lenkija
+- [[objektai/asmenys/Ziemovitas]] buvo_valdovas Lenkija
+- [[objektai/asmenys/Švitrigaila]] puole Lenkija
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]] valde Lenkija
+- [[objektai/asmenys/Jeronimas Plečkaitis]] keliavo_i Lenkija
+- [[objektai/grupes/Teutonai]] gyne Lenkija
+- [[objektai/vietos/Vilnius]] prekiavo_su Lenkija
+- [[objektai/grupes/Dalomoji Komisija]] gyveno Lenkija
+- [[objektai/grupes/Stačiatikiai]] gyveno Lenkija
+- [[objektai/vietos/Vysla]] priklause Lenkija
+- [[objektai/daiktai/Karūna]] priklause Lenkija
+- [[objektai/asmenys/Petras Goštautas]] keliavo_i Lenkija

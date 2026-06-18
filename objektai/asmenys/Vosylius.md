@@ -54,20 +54,20 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 688998-689450; hash=d2695a11ccd8e6dbd05f0a2a95c3aa887ac49305df688fe49575bb198b614fea; match=ocr_normalized
   sprendimo_priezastis: final::darbas/prompts/06_deduplication/01_deduplicate_entities.md
-  ryšio_patikimumas: valde_teritorija -> Maskva: 1.00
+  ryšio_patikimumas: valde -> Maskva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vosylius: owner_note_path, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vosylius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytauto globojamas Vosylius viešpatavo Maskvos kunigaikštijoje.
 
 <a id="claim-t-51192"></a>
 - t-003
   global_id: t-51192
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.'
-  susije_objektai: 'territory: Maskva; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius|Vosylius]] valdė teritoriją Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius|Vosylius]] valdė Maskva'
   temporaliniai_duomenys: 'valdymo pradžia: po 1425 m.; valdymo pradžia: 1425 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius valdė teritoriją Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -108,13 +108,13 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   irodymo_stiprumas: 0.00
   saltinio_vieta: 688998-689450; hash=d2695a11ccd8e6dbd05f0a2a95c3aa887ac49305df688fe49575bb198b614fea; match=ocr_normalized
   sprendimo_priezastis: final::darbas/prompts/06_deduplication/01_deduplicate_entities.md
-  ryšio_patikimumas: valde_teritorija -> Maskva: 1.00
+  ryšio_patikimumas: valde -> Maskva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vosylius: owner_note_path, person, gap=9
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vosylius" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Vytauto globojamas Vosylius viešpatavo Maskvos kunigaikštijoje.
     - t-001
 
 - c-002
@@ -155,4 +155,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vosylius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Vosylius valde_teritorija [[objektai/vietos/Maskva]]
+- Vosylius sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Vosylius buvo_sunus [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
+- Vosylius valde [[objektai/vietos/Maskva]]

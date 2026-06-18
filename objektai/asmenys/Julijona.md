@@ -160,12 +160,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   ryšio_subjekto_parinkimas: Julijona: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Skirgaila: mention_match, person, gap=96
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113835|Julijona (Vytauto žmona)]]: Julijona buvo trečioji Vytauto žmona.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113844|Julijona (Vytauto žmona)]]: Julijona buvo trečioji Vytauto žmona.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113834|Julijona (Vytauto žmona)]]: Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97457|Kaributas]]: Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
+- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63794|Karigaila]]: Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176506|Julijona (Algirdo žmona)]]: Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176507|Julijona (Algirdo žmona)]]: Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.
 - susijęs iš [[objektai/asmenys/Julijona (Algirdo žmona).md#claim-t-176512|Julijona (Algirdo žmona)]]: Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.
@@ -191,6 +188,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176706|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179723|Švitrigaila]]: Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.
+- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87452|Paulius Rusdorfas]]: Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10667|Algirdas (Lietuvos valdovas)]]: Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176304|Algirdas (Lietuvos valdovas)]]: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Hanulis.md#claim-t-30259|Hanulis]]: Hanulis buvo Jogailai nusipelnęs svarbus patarėjas ir minėtas visose trijose Jogailos bei Skirgailos vardu sudarytose sutartyse.
@@ -211,6 +209,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - susijęs iš Rūdninkai: Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
 - susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179700|Švitrigaila]]: 1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -384,7 +383,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijona" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] vede Julijona
-- [[objektai/asmenys/Julijona (Vytauto žmona)]] vede Julijona
-- [[objektai/asmenys/Julijona (Vytauto žmona)]] buvo_dukte Julijona
-- [[objektai/asmenys/Julijona (Vytauto žmona)]] buvo_zmona Julijona
+- [[objektai/asmenys/Kaributas]] buvo_sunus Julijona
+- [[objektai/asmenys/Karigaila]] buvo_sunus Julijona
+- Julijona buvo_zmona [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Švitrigaila]] buvo_sunus Julijona
+- [[objektai/asmenys/Paulius Rusdorfas]] reme Julijona

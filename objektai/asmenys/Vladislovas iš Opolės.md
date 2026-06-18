@@ -24,7 +24,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   global_id: t-93547
   teiginys: 'Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Dobrynė; mentioned_place: Galicija; mentioned_place: Visla'
+  susije_objektai: 'llm_object: Galicija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Dobrynė; mentioned_place: Galicija; mentioned_place: Visla; llm_object: [[objektai/asmenys/Vladislovas iš Opolės|Vladislovas iš Opolės]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas iš Opolės|Vladislovas iš Opolės]] valdė Galicija; Galicija priklausė [[objektai/asmenys/Vladislovas iš Opolės|Vladislovas iš Opolės]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -66,13 +67,13 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 388902-389222; hash=2544a861a2a19789312a3830e1aee6c138537a64ad92c455fd5dd936a7331c15; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas iš Opolės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas iš Opolės" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Galicija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas iš Opolės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Galicija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vladislovas tiesiogiai nurodytas paskirtas valdyti Galiciją.
 
 ## Reikšmingi paminėjimai
 
@@ -107,13 +108,13 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 388902-389222; hash=2544a861a2a19789312a3830e1aee6c138537a64ad92c455fd5dd936a7331c15; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas iš Opolės: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas iš Opolės" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Galicija: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas iš Opolės: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Galicija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vladislovas tiesiogiai nurodytas paskirtas valdyti Galiciją.
     - t-001
 
 - c-003
@@ -148,3 +149,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   ryšio_subjekto_parinkimas: Vladislovas iš Opolės: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=86
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas iš Opolės" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vladislovas iš Opolės valde [[objektai/vietos/Galicija]]
+- [[objektai/vietos/Galicija]] priklause Vladislovas iš Opolės

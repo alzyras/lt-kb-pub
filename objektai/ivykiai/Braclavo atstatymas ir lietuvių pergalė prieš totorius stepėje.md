@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys jau atribuoja pasakojimą Lietuvos metraščiui ir aiškiai nurodo įvykį prie Braclavo. Priešo apibūdinimas paliktas kaip šaltinio pasakojimo dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Braclavas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Braclavas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -94,13 +94,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvius sumušus totorius, todėl tai karinis priešiškumas.
 
 ## Reikšmingi paminėjimai
 
@@ -122,13 +122,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Braclavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Braclavas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje" parinktas kaip owner_note_path. Targetas "Braclavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvius sumušus totorius, todėl tai karinis priešiškumas.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=fallback; occurrences=0

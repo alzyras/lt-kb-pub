@@ -56,7 +56,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie dinastijos atsiradimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Čekija; llm_object: Lenkija; llm_object: Vengrija; llm_object: Čekija'
+  semantiniai_rysiai: '[[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Lenkija; [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Čekija; [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie dinastijos atsiradimą.'
@@ -118,3 +119,9 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Jogailaičių dinastija valde [[objektai/vietos/Lenkija]]
+- Jogailaičių dinastija valde [[objektai/vietos/Lietuva]]
+- Jogailaičių dinastija valde [[objektai/vietos/Vengrija]]
+- Jogailaičių dinastija valde [[objektai/vietos/Čekija]]

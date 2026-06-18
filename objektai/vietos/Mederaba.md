@@ -30,7 +30,8 @@ amziai:
 - t-001
   global_id: t-32353
   teiginys: '1291 m. kryžiuočiai nepaėmė Junigėdos, bet netoliese sunaikino Mederabos pilį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aukaimis'
+  susije_objektai: 'llm_object: Mederaba; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aukaimis'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Mederaba'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,13 +39,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mederaba: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mederaba" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mederaba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mederaba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių veiksmai tiesiogiai siejami su Mederabos pilies sunaikinimu.
+- susijęs iš [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.).md#claim-t-31422|Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]: 1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį.
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.).md#claim-t-31422|Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]: 1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį.
 ## Reikšmingi paminėjimai
 
@@ -65,10 +67,14 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mederaba: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mederaba" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Mederaba: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Mederaba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kryžiuočių veiksmai tiesiogiai siejami su Mederabos pilies sunaikinimu.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Mederaba
+- [[objektai/grupes/Kryžiuočių ordinas]] uzeme Mederaba

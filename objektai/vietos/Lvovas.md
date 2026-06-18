@@ -63,7 +63,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121910
   teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pašalinti OCR triukšmą ir suformuluoti sakinį glaustai.'
-  susije_objektai: 'mentioned_place: Vilniaus vyskupija; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Gniezno; mentioned_place: Vilniaus vyskupija; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -72,7 +72,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121913
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Lvovas'
   pagrindžia:
     - c-004
 
@@ -140,7 +141,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
-  susije_objektai: 'location: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Podolė; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Podolė; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'kelionės data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
@@ -149,13 +150,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Podolė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=34
-  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187605"></a>
 - t-010
@@ -174,14 +175,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus vyskupija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus vyskupija: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Vilniaus vyskupija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
+  ryšio_patikimumas: priklause -> Gniezno: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus vyskupija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniaus vyskupijos priklausymą Gniezno metropolijai.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
@@ -235,6 +235,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/zodynas/Kašteliono valdžia.md#claim-t-86633|Kašteliono valdžia]]: Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
+- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
+- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -422,24 +424,26 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   irodymo_stiprumas: 0.00
   saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Podolė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=34
-  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
-    - t-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus vyskupija: 0.85
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilniaus vyskupija: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Vilniaus vyskupija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+    - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Gniezno: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus vyskupija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Gniezno: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniaus vyskupijos priklausymą Gniezno metropolijai.
 
 ## Ryšiai
-- [[objektai/asmenys/Liubartas]] valde_teritorija Lvovas
+- [[objektai/asmenys/Jadvyga]] keliavo_i Lvovas
+- [[objektai/asmenys/Steponas]] surenge_zygi_i Lvovas
+- [[objektai/asmenys/Vincentas iš Šamotulų]] siunte_i Lvovas

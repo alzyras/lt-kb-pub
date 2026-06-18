@@ -204,3 +204,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
   ryšio_targeto_parinkimas: Ginklai: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Šarvai priklause [[objektai/asmenys/Mikalojus Radvila Juodasis]]

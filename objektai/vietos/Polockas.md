@@ -46,7 +46,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180424
   teiginys: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   sudarymo_pagrindimas: 'Perrašyta į glaustą faktinį sakinį, pašalinant šnekamąją citatos formuluotę.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė Polockas'
   temporaliniai_duomenys: 'įvykio data: 1505 m.; įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į glaustą faktinį sakinį, pašalinant šnekamąją citatos formuluotę.'
@@ -74,13 +75,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 507296-507465; hash=6e6f5dbc8dd1ebdcd7addb8266862bc221312d5beb3e835d5f5e6911a7cf7326; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dniepras: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_actor, person, gap=38
-  ryšio_targeto_parinkimas: Dniepras: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_actor. Targetas "Dniepras" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Mindaugas atgavo valdžią Polocke.
 
 <a id="claim-t-180426"></a>
 - t-003
@@ -106,7 +107,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180427
   teiginys: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Polocko vaidmenį Dauguvos prekyboje.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Dauguva'
+  semantiniai_rysiai: 'Polockas prekiavo su Dauguva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -124,7 +126,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-005
   global_id: t-180428
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -132,13 +135,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01edc2ca8d2160e4b758524af802692b5f8881d89d41024b5c6c7bc9534ee4b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila apgulė Polocką.
 
 <a id="claim-t-180429"></a>
 - t-006
@@ -154,32 +157,33 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Dauguva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas nurodomas kaip kelias ar centras, per kurį sritys įtrauktos į Dauguvos prekybą.
 
 <a id="claim-t-180433"></a>
 - t-008
   global_id: t-180433
   teiginys: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą apie Skirgailą ir Polocką.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Kijevas; llm_object: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 59416-59776; hash=5132bf94f0356e2d7dbf5c1b2872e0d2cf683e65dae173900044d321bcb25316; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila apsiautė Polocką.
 
 <a id="claim-t-180434"></a>
 - t-009
@@ -225,7 +229,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180438
   teiginys: 'Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.'
   sudarymo_pagrindimas: 'Teiginys sutelktas į Polocką ir pašalina perteklinį sąrašą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Kijevas; mentioned_place: Ukraina; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Baltoji Rusia; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Kijevas; mentioned_place: Ukraina; mentioned_place: Vitebskas'
+  semantiniai_rysiai: 'Polockas priklausė Lietuva; Polockas priklausė Baltoji Rusia'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutelktas į Polocką ir pašalina perteklinį sąrašą.'
@@ -246,19 +251,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polocko žemės nurodomos kaip telkusios apie Lietuvą politinės sistemos centre.
 
 <a id="claim-t-180441"></a>
 - t-014
   global_id: t-180441
   teiginys: 'Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] surengė žygį į Polockas; [[objektai/grupes/Totoriai|Totoriai]] puolė Polockas'
   temporaliniai_duomenys: 'mūšio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -266,19 +272,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltoji Rusia: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltoji Rusia: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Baltoji Rusia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Polocką kaip prie Lietuvos prijungtą Baltosios Rusios dalį.
 
 <a id="claim-t-180442"></a>
 - t-015
   global_id: t-180442
   teiginys: 'Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Polockas priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1563 m.; įvykio data: 1563 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -327,20 +334,21 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2fcc5e6971d4a193ab269572057a960411a9849f0500217f57a0009bfae1469; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jekaterina II: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusijos kariuomenės įžengimas prie Polocko tiesiogiai apibūdina karinį žygį į tą kryptį.
 
 <a id="claim-t-180445"></a>
 - t-018
   global_id: t-180445
   teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
+  susije_objektai: 'llm_object: Polockas; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas; [[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas'
   temporaliniai_duomenys: 'mūšio data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau.'
@@ -380,7 +388,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180449
   teiginys: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
   sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai negrabiai perteikia veikėjus, todėl perrašytas aiškiau.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  susije_objektai: 'llm_object: Polockas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas'
   pagrindžia:
     - c-006
 
@@ -389,19 +398,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180450
   teiginys: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   sudarymo_pagrindimas: 'Citata aiškiai palaiko faktą apie Švitrigailos veikimą Polocke.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Tverė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Tverė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas'
   pagrindžia:
     - c-026
   irodymo_stiprumas: 0.00
   saltinio_vieta: 843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas buvo paliktas Skirgailai, todėl palaikomas jo valdymo ryšys.
 
 <a id="claim-t-180451"></a>
 - t-023
@@ -425,13 +435,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Polocką tarp anksčiau lietuvių užvaldytų žemių.
 
 <a id="claim-t-180453"></a>
 - t-025
@@ -457,7 +467,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180455
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, užbaigtas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Targovica; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]] surengė žygį į Polockas'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, užbaigtas ir paremtas citata.'
@@ -466,38 +477,40 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e9fa5e5c01e09036a3f98d49ef0e20ff6899dbb3d7c53836ee457430ce884c47; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Švitrigaila išvyko į Kijevą.
 
 <a id="claim-t-180456"></a>
 - t-027
   global_id: t-180456
   teiginys: 'Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.'
   sudarymo_pagrindimas: 'Patikslintas įvardis ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: Kaunas'
+  semantiniai_rysiai: 'Polockas prekiavo su Kaunas'
   pagrindžia:
     - c-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis siejamas su Polocko apylinkių niokojimu.
 
 <a id="claim-t-180459"></a>
 - t-029
   global_id: t-180459
   teiginys: '1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas'
   temporaliniai_duomenys: 'įvykio data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -553,26 +566,28 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180467
   teiginys: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Gedimino užkariavimus, todėl paliktas tik Polockui aktualus faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Vitebskas'
+  semantiniai_rysiai: 'Polockas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-027
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Polockas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę.
 
 <a id="claim-t-180468"></a>
 - t-036
   global_id: t-180468
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir paremtas citatos informacija apie Mindaugą Polocke.'
-  susije_objektai: 'territory: Dniepras; mentioned_place: Brianskas; mentioned_place: Dniepras; mentioned_place: Černigovas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: Polockas; mentioned_place: Brianskas; mentioned_place: Dniepras; mentioned_place: Černigovas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Brianskas; llm_object: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] valdė miestą Polockas'
   temporaliniai_duomenys: 'įvykio data: 1255 m.; įvykio data: apie 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir paremtas citatos informacija apie Mindaugą Polocke.'
@@ -581,20 +596,21 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila laikė apsupęs Polocką.
 
 <a id="claim-t-180470"></a>
 - t-037
   global_id: t-180470
   teiginys: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Polockas; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į aiškų faktinį sakinį.'
@@ -633,19 +649,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dokumente Skirgaila tiesiogiai įvardytas Polocko valdovu.
 
 <a id="claim-t-180474"></a>
 - t-040
   global_id: t-180474
   teiginys: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Polockas; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -653,38 +670,40 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0c28874c6f3637c52a1b5ec1201966cdc5bfbe28a5a390f5a6460da5e20327b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skirgailos išvykimą į Polocką.
 
 <a id="claim-t-180475"></a>
 - t-041
   global_id: t-180475
   teiginys: 'Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje.'
   sudarymo_pagrindimas: 'Pirminis teiginys per daug fragmentiškas dėl žodžių „tuo metu“.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  susije_objektai: 'llm_object: Polockas; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] keliavo į Polockas'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Laiškas rašytas iš Polocko, todėl pagrįsta fiksuoti Švitrigailos buvimą ar kelionę į Polocką.
 
 <a id="claim-t-180476"></a>
 - t-042
   global_id: t-180476
   teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Polockas'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
@@ -703,7 +722,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180479
   teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas ir pašalintas išnašos numeris.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Polockas'
   pagrindžia:
     - c-018
 
@@ -712,7 +732,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180481
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; llm_object: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir suformuluotas pilnas sakinys.'
@@ -734,26 +755,28 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180484
   teiginys: 'Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiau susietas su Polocku.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Voluinė; llm_object: Lietuva'
+  semantiniai_rysiai: 'Polockas priklausė Lietuva'
   pagrindžia:
     - c-025
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skirgailą laikius apsupus Polocką.
 
 <a id="claim-t-180485"></a>
 - t-051
   global_id: t-180485
   teiginys: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
   sudarymo_pagrindimas: 'Iš citatos išverstas ir sutvarkytas aiškus teiginys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas'
   temporaliniai_duomenys: 'įvykio data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš citatos išverstas ir sutvarkytas aiškus teiginys.'
@@ -775,7 +798,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180486
   teiginys: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardijimas ir sutvarkyta sakinio struktūra.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Upytė'
+  susije_objektai: 'llm_object: Kijevas; llm_object: Polockas; mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Upytė'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -806,19 +830,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs ilgas fragmentas ir paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Naugardas; mentioned_place: Černigovas; llm_object: Kijevas; llm_object: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Polockas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Polockas'
   pagrindžia:
     - c-037
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Laiško rašymas iš Polocko rodo Švitrigailos buvimą Polocke.
 
 <a id="claim-t-185095"></a>
 - t-056
@@ -828,19 +853,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
+  susije_objektai: 'llm_object: Polockas; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Polockas'
   pagrindžia:
     - c-038
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3502b0d4c7a42ba910c7a1341e3e4f9bfd81af637a320c764d363f2480c18454; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eugenijus IV: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Eugenijus IV: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Eugenijus IV" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nusigavo į Polocką.
 
 <a id="claim-t-185096"></a>
 - t-057
@@ -850,7 +876,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas įvardis pagal citatos antraštę ir pašalintas boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-039
 
@@ -905,13 +931,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas ir Kaunas kartu įvardyti kaip dideli prekybos centrai Lietuvoje.
 
 <a id="claim-t-187641"></a>
 - t-061
@@ -937,9 +963,42 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-184840|Tautvilas]]: Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.
-- susijęs iš [[objektai/asmenys/V. B. Seremetjevas.md#claim-t-40482|V. B. Seremetjevas]]: Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.
+- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87211|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179675|Skirgaila]]: Skirgaila išvyko į Polocką, ir tai sudarė progą įgyvendinti prieš tai sumanytą planą.
+- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186723|Andriaus Algirdaičio maištas prieš Jogailą]]: Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje.
+- susijęs iš [[objektai/ivykiai/Tautvilos nužudymas.md#claim-t-186565|Tautvilos nužudymas]]: Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu.
+- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179650|Skirgaila]]: Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179734|Švitrigaila]]: 1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.
+- susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
+- susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
+- susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41345|Polocko apsiaustis (1563 m. sausio 31 d.)]]: 1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį.
+- susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
+- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
+- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121173|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
+- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
+- susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
+- susijęs iš Vitebskas: Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis.
+- susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179642|Skirgaila]]: Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176768|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.
+- susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
+- susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185883|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko rusai valstybės valdymą perdavė tautai, nes per skitų karą buvo netekę teisėtų kunigaikščių.
+- susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
+- susijęs iš Smolenskas: Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis.
+- susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
+- susijęs iš [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.).md#claim-t-31466|Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]: Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.
+- susijęs iš [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.).md#claim-t-34554|Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]: 1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto.
+- susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
+- susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
+- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
+- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
+- susijęs iš Targovica: Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
+- susijęs iš Vitebskas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
@@ -1021,6 +1080,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš Targovica: Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
+- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.
+- susijęs iš Naugardas Sieverskas: Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.
+- susijęs iš Smolenskas: Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis.
+- susijęs iš Voronačas: 1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.
+- susijęs iš Voronačas: 1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113651|Magdeburgo teisės]]: Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-184661|Aleksandras Jogailaitis]]: Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -1235,6 +1301,20 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187534|viečė]]: Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187535|viečė]]: Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187536|viečė]]: Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.
+- susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
+- susijęs iš Koloža: 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.
+- susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
+- susijęs iš Rusija: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.
+- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186738|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
+- susijęs iš [[objektai/asmenys/Rostislavas Rogvoldovičius.md#claim-t-87572|Rostislavas Rogvoldovičius]]: 1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
+- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54970|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54971|Gabrielius Bekešas]]: Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82313|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.
+- susijęs iš Vitebskas: Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1266,13 +1346,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila laikė apsupęs Polocką.
     - t-017
 
 - c-003
@@ -1291,13 +1371,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d2fcc5e6971d4a193ab269572057a960411a9849f0500217f57a0009bfae1469; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jekaterina II: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusijos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Rusijos kariuomenės įžengimas prie Polocko tiesiogiai apibūdina karinį žygį į tą kryptį.
     - t-004
 
 - c-004
@@ -1364,13 +1444,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 59416-59776; hash=5132bf94f0356e2d7dbf5c1b2872e0d2cf683e65dae173900044d321bcb25316; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila apsiautė Polocką.
     - t-021
 
 - c-007
@@ -1437,13 +1517,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a0c28874c6f3637c52a1b5ec1201966cdc5bfbe28a5a390f5a6460da5e20327b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skirgailos išvykimą į Polocką.
     - t-006
 
 - c-010
@@ -1467,13 +1547,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Dauguva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas nurodomas kaip kelias ar centras, per kurį sritys įtrauktos į Dauguvos prekybą.
     - t-013
 
 - c-011
@@ -1493,13 +1573,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polocko žemės nurodomos kaip telkusios apie Lietuvą politinės sistemos centre.
     - t-010
     - t-046
 
@@ -1553,25 +1633,25 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumas: puole -> Polockas: 0.67
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polocko apylinkės įtrauktos į totorių siaubtas vietas.
     - t-028
     - t-053
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dokumente Skirgaila tiesiogiai vadinamas Polocko valdovu.
     - t-044
     - t-007
 
@@ -1622,13 +1702,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltoji Rusia: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltoji Rusia: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Baltoji Rusia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Polocką kaip prie Lietuvos prijungtą Baltosios Rusios dalį.
     - t-001
 
 - c-016
@@ -1682,13 +1762,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Dokumente Skirgaila tiesiogiai įvardytas Polocko valdovu.
     - t-031
 
 - c-018
@@ -1771,24 +1851,24 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Polockas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Totorių žygis siejamas su Polocko apylinkių niokojimu.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=01edc2ca8d2160e4b758524af802692b5f8881d89d41024b5c6c7bc9534ee4b2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Skirgaila apgulė Polocką.
     - t-047
 
 - c-021
@@ -1834,13 +1914,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Polocką tarp anksčiau lietuvių užvaldytų žemių.
     - t-020
 
 - c-023
@@ -1891,13 +1971,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Polockas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jogailos siuntimą į Polocko kunigaikštystę.
     - t-038
 
 - c-025
@@ -1960,13 +2040,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Polockas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skirgailą laikius apsupus Polocką.
     - t-022
 
 - c-027
@@ -1985,13 +2065,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas buvo paliktas Skirgailai, todėl palaikomas jo valdymo ryšys.
     - t-035
 
 - c-028
@@ -2014,13 +2094,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Polockas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę.
     - t-026
 
 - c-029
@@ -2038,13 +2118,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e9fa5e5c01e09036a3f98d49ef0e20ff6899dbb3d7c53836ee457430ce884c47; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Švitrigaila išvyko į Kijevą.
     - t-016
 
 - c-030
@@ -2245,13 +2325,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Laiškas rašytas iš Polocko, todėl pagrįsta fiksuoti Švitrigailos buvimą ar kelionę į Polocką.
     - t-054
     - t-002
 
@@ -2274,13 +2354,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 507296-507465; hash=6e6f5dbc8dd1ebdcd7addb8266862bc221312d5beb3e835d5f5e6911a7cf7326; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dniepras: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): nearest_actor, person, gap=38
-  ryšio_targeto_parinkimas: Dniepras: nearest_after_predicate, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip nearest_actor. Targetas "Dniepras" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: valde_miesta -> Polockas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Mindaugas atgavo valdžią Polocke.
     - t-055
 
 - c-038
@@ -2308,13 +2388,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Laiško rašymas iš Polocko rodo Švitrigailos buvimą Polocke.
     - t-056
 
 - c-039
@@ -2347,13 +2427,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3502b0d4c7a42ba910c7a1341e3e4f9bfd81af637a320c764d363f2480c18454; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eugenijus IV: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Eugenijus IV: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Eugenijus IV" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Polockas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Švitrigaila nusigavo į Polocką.
     - t-057
 
 - c-040
@@ -2469,13 +2549,13 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: prekiavo_su -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Polockas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Polockas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Polockas ir Kaunas kartu įvardyti kaip dideli prekybos centrai Lietuvoje.
     - t-061
   irodymo_stiprumas: 0.00
   saltinio_vieta: 641566-641757; hash=7f5980ce4bd1b984fe55a724ffecc5c298148ffd5bbae3eb97311e2da3dae668; match=whitespace_regex
@@ -2489,6 +2569,41 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Polockas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Tautvilas]] keliavo_i Polockas
-- [[objektai/asmenys/V. B. Seremetjevas]] uzeme Polockas
+- [[objektai/asmenys/Skirgaila]] uzeme Polockas
+- [[objektai/asmenys/Skirgaila]] keliavo_i Polockas
+- [[objektai/asmenys/Treniota]] siunte_i Polockas
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Polockas
+- [[objektai/grupes/Pskoviečiai]] puole Polockas
+- [[objektai/asmenys/Skirgaila]] apgule Polockas
+- [[objektai/asmenys/Skirgaila]] valde_miesta Polockas
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Polockas
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde_teritorija Polockas
+- [[objektai/asmenys/Ivanas Rūstusis]] apgule Polockas
+- Polockas priklause [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Skirgaila]] buvo_valdovas Polockas
+- [[objektai/asmenys/Tautvilas]] gyveno Polockas
+- [[objektai/asmenys/Augustas]] siunte_i Polockas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Polockas
+- [[objektai/asmenys/Mechmet Girėjus]] puole Polockas
+- [[objektai/grupes/Rusai]] gyveno Polockas
+- Polockas priklause [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Ginvilas]] valde_miesta Polockas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] valde_miesta Polockas
+- Polockas priklause [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/vietos/Ryga]] prekiavo_su Polockas
+- [[objektai/asmenys/Vytenis]] valde_miesta Polockas
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Polockas
+- Polockas priklause [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusijos kariuomenė]] surenge_zygi_i Polockas
+- [[objektai/asmenys/Švitrigaila]] valde Polockas
+- [[objektai/asmenys/Florijonas Zebžidovskis]] surenge_zygi_i Polockas
+- Polockas prekiavo_su [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Totoriai]] surenge_zygi_i Polockas
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Polockas
+- Polockas priklause [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Rostislavas Rogvoldovičius]] keliavo_i Polockas
+- [[objektai/asmenys/Andrius Algirdaitis]] valde_miesta Polockas
+- [[objektai/grupes/Totoriai]] puole Polockas
+- Polockas prekiavo_su [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Gabrielius Bekešas]] puole Polockas
+- [[objektai/grupes/Lietuviai]] valde_teritorija Polockas

@@ -42,7 +42,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   global_id: t-99304
   teiginys: '1316 m. kryžiuočiai brovėsi iki Varnių, o vasarą vėl kelis kartus teriojo Varnių sritį.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra fragmentiška ir turi OCR liekanų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Viena; llm_object: Varniai'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] surengė žygį į Varniai'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra fragmentiška ir turi OCR liekanų.'
@@ -68,6 +69,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varniai" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
 - susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179074|Kryžiuočių ordinas]]: Kryžiuočių ordinas niokojamaisiais žygiais siekė palaužti pagonių kraštą, užvaldyti jį ir ypač spaudė Žemaičius.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186612|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad vokiečiai priminė Vytautui turint grąžinti tris šimtus auksinų už užstatytą Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186615|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas surinko ir nusiuntė vokiečiams visą auksinų sumą, o šie po to Žemaitijos nebepuolė.
@@ -144,3 +146,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   ryšio_subjekto_parinkimas: Varniai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varniai" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Varniai
+- [[objektai/grupes/Kryžiuočių ordinas]] surenge_zygi_i Varniai

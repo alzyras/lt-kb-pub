@@ -39,7 +39,7 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   global_id: t-77018
   teiginys: 'Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą karo seką ir geografinę priežastį.'
-  susije_objektai: 'location: Nemunas; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -102,38 +102,41 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5bb1ed2202654202e4a62620ee4fb44b0e6e6563bc9a94117e56da007f57dd52; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Nemunas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77023"></a>
 - t-007
   global_id: t-77023
   teiginys: 'Nadruvoje buvusi Romuva ir jos krivis šaltinyje laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip aiškus faktas apie Nadruvą, išlaikant interpretacinį pobūdį.'
-  susije_objektai: 'mentioned_place: Romuva'
+  susije_objektai: 'mentioned_place: Romuva; llm_object: Nadruva'
+  semantiniai_rysiai: 'Romuva priklausė Nadruva'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cab32c81793fdb7f9d0123f87dc6db1c9a0e6a702c5b70d623f3ae54ab30f8be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Nadruvą kaip Lietuvos valdovo žemę; leidžiamas kandidatas yra Lietuva kaip vieta.
 
 <a id="claim-t-77024"></a>
 - t-008
   global_id: t-77024
   teiginys: 'Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą apie žygį į Nadruvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Retavos valsčius; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
+  susije_objektai: 'llm_object: Nadruva; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Retavos valsčius; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] siuntė į Nadruva; Retavos valsčius priklausė Nadruva'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą apie žygį į Nadruvą.'
@@ -142,13 +145,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Nadruvą apibūdina kaip Prūsijos žemės dalį; ryšys su Prūsija išvestas iš šios formuluotės.
 
 <a id="claim-t-77025"></a>
 - t-009
@@ -177,7 +180,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   global_id: t-77026
   teiginys: '1253–1259 m. Mindaugo dokumentai liudija, kad Nadruva tarptautinėje plotmėje buvo laikoma Lietuvos valdovo žeme.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie Nadruvos politinį priskyrimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dainava'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dainava; llm_object: Lietuva'
+  semantiniai_rysiai: 'Nadruva priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1253-1259; įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie Nadruvos politinį priskyrimą.'
@@ -186,13 +190,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cab32c81793fdb7f9d0123f87dc6db1c9a0e6a702c5b70d623f3ae54ab30f8be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Nadruvą kaip Lietuvos valdovo žemę; leidžiamas kandidatas yra Lietuva kaip vieta.
 
 <a id="claim-t-77027"></a>
 - t-011
@@ -217,7 +221,8 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - t-012
   global_id: t-77028
   teiginys: '1253-1259 m. komentare Nadruva tarptautinėje plotmėje laikoma Lietuvos valdovo žeme.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dainava'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dainava; llm_object: Lietuva'
+  semantiniai_rysiai: 'Nadruva priklausė Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1253-1259; įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -238,19 +243,32 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   global_id: t-77029
   teiginys: 'Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Čia teiginys apie kronikos skirstymą, todėl tinka šaltinio atribucija; pradinis tekstas yra nutrūkęs sąrašas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Varmė; llm_object: Prūsija'
+  semantiniai_rysiai: 'Nadruva priklausė Prūsija'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Nadruviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas pasiuntė Ditrichą su kariuomene į Nadruvą.
+- susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
+- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
+- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
+- susijęs iš Romuva: Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška.
+- susijęs iš Romuva: Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
+- susijęs iš Retavos valsčius: Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
+- susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
+- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
+- susijęs iš Retavos valsčius: Brolio Ditricho kariuomenė įsiveržė į Retavos valsčių ir jį nusiaubė plėšdama bei degindama.
+- susijęs iš Retavos valsčius: Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89914|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
@@ -270,6 +288,9 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77804|Romuva krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58816|krivis krivė krivaitis]]: A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.
+- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
+- susijęs iš Romovė Romuva: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/asmenys/Maudelis.md#claim-t-60386|Maudelis]]: Maudelis buvo Vėluvos pilininko Tirsko sūnus.
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
@@ -310,6 +331,10 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75583|Romuva ir krivis]]: Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.
 - susijęs iš [[objektai/zodynas/amfiktionija.md#claim-t-23432|amfiktionija]]: Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
+- susijęs iš Romintės giria: Nadruvos pietryčiuose, Pisos intako Romintės (dab.
+- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75586|Romuva ir krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
+- susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77804|Romuva krivis]]: Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.
+- susijęs iš Auktuolyčiai: Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -375,13 +400,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cab32c81793fdb7f9d0123f87dc6db1c9a0e6a702c5b70d623f3ae54ab30f8be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Nadruvą kaip Lietuvos valdovo žemę; leidžiamas kandidatas yra Lietuva kaip vieta.
     - t-006
 
 - c-004
@@ -403,12 +428,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5bb1ed2202654202e4a62620ee4fb44b0e6e6563bc9a94117e56da007f57dd52; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Nemunas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-005
@@ -438,13 +464,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruviai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Nadruviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Konradas pasiuntė Ditrichą su kariuomene į Nadruvą.
     - t-003
     - t-009
   irodymo_stiprumas: 0.00
@@ -528,13 +554,13 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cab32c81793fdb7f9d0123f87dc6db1c9a0e6a702c5b70d623f3ae54ab30f8be; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys nurodo Nadruvą kaip Lietuvos valdovo žemę; leidžiamas kandidatas yra Lietuva kaip vieta.
     - t-011
 
 - c-009
@@ -567,10 +593,26 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=98300e6f36c0a1943451939476f38aa38804f53f3bea51fbd971bea16d686b9a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumas: priklause -> Prūsija: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nadruva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nadruva" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Nadruva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys Nadruvą apibūdina kaip Prūsijos žemės dalį; ryšys su Prūsija išvestas iš šios formuluotės.
+
+## Ryšiai
+- [[objektai/vietos/Katavos valsčius]] priklause Nadruva
+- [[objektai/asmenys/Konradas]] siunte_i Nadruva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] surenge_zygi_i Nadruva
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] surenge_zygi_i Nadruva
+- Nadruva priklause [[objektai/vietos/Žemaitija]]
+- [[objektai/vietos/Romuva]] priklause Nadruva
+- [[objektai/vietos/Retavos valsčius]] priklause Nadruva
+- [[objektai/vietos/Katinavos apylinkės]] priklause Nadruva
+- Nadruva priklause [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Romovė Romuva]] priklause Nadruva
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] surenge_zygi_i Nadruva
+- [[objektai/vietos/Romintės giria]] priklause Nadruva
+- Nadruva priklause [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Auktuolyčiai]] priklause Nadruva

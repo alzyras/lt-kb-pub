@@ -33,20 +33,20 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   global_id: t-60141
   teiginys: 'Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'burial_place: Akonas; location: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Akonas; mentioned_place: Jeruzalė; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Liubekas; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] buvo palaidotas Akonas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas'
+  susije_objektai: 'llm_object: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Akonas; mentioned_place: Jeruzalė; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] buvo palaidotas Akonas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=123
-  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone.
 
 <a id="claim-t-60142"></a>
 - t-002
@@ -140,14 +140,14 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 0.96
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_burial_local_place
-  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=123
-  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Akonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone.
 
 ## Ryšiai
 - Henrikas Valpotas buvo_palaidotas [[objektai/vietos/Akonas]]
-- Henrikas Valpotas mire [[objektai/vietos/Akonas]]
+- Henrikas Valpotas pastate [[objektai/vietos/Akonas]]

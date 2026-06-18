@@ -34,7 +34,8 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   global_id: t-59824
   teiginys: '1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, nes citatoje Skomantas nurodomas kaip žygio vedlys, o ne magistrui lygiavertis vadas.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena; llm_object: Gardinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] keliavo į Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1284 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau, nes citatoje Skomantas nurodomas kaip žygio vedlys, o ne magistrui lygiavertis vadas.'
@@ -62,32 +63,33 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460607-461634; hash=1ba249a38c1e9c6e52ae83dab8e4e70cc0951baf86124ca311b36676e58a7cd4; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Būga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Būga: mention_match, author, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "K. Būga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomanto kariuomenės dalis patraukė prieš Kulmo miestą.
 
 <a id="claim-t-59826"></a>
 - t-003
   global_id: t-59826
   teiginys: 'Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Skomanto vadovaujamą siaubimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Eimsutis; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Eimsutis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Kulmas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo žemės siaubimas yra tiesioginis karinis veiksmas prieš Kulmą.
 
 <a id="claim-t-59827"></a>
 - t-004
@@ -100,20 +102,21 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skomanto įsiveržimą į Kulmo žemę.
 
 <a id="claim-t-59828"></a>
 - t-005
   global_id: t-59828
   teiginys: 'Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Skomanto įsiveržimą ir kariuomenės padalijimą; pašalintas išnašų triukšmas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Brodnica; mentioned_place: Drevanta; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Kulmas; llm_object: Torunė; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Brodnica; mentioned_place: Drevanta; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Torunė; [[objektai/asmenys/Skomantas|Skomantas]] puolė Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1263 m.; įvykio data: 1264 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Skomanto įsiveržimą ir kariuomenės padalijimą; pašalintas išnašų triukšmas.'
@@ -135,7 +138,8 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   global_id: t-59829
   teiginys: 'Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Kulmas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -175,13 +179,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41350c5b99937a2a0fdf9ec0489554965013668772950915992ca0e0c89be01c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: keliavo_i -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas kaip vadovas dalyvavo žygyje prieš Gardino pilį, todėl jo judėjimas Gardino link pagrįstas.
 
 <a id="claim-t-59832"></a>
 - t-009
@@ -209,19 +213,20 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Skomanto veiksmą ir rezultatą, remiasi citata.'
-  susije_objektai: 'mentioned_place: Kulmas'
+  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Kulmas'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212211-212870; hash=e2b299df16a4ead00dcbd1c8e74f6a5c18cc99484bb8fccd3839e4ea84d15986; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto užpuolimą Kulmo žemėje.
 
 <a id="claim-t-184828"></a>
 - t-012
@@ -253,19 +258,20 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia informatyvesnį sakinį apie žygio rezultatą.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Gardinas; mentioned_place: Gardinas; mentioned_place: Prūsai; llm_object: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Skomantas|Skomantas]] puolė Gardinas; [[objektai/asmenys/Skomantas|Skomantas]] užėmė Gardinas; [[objektai/asmenys/Skomantas|Skomantas]] keliavo į Prūsai'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
   saltinio_vieta: 267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Skomantas puolė Gardiną.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175130|Sūduviai-jotvingiai]]: Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66896|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.
@@ -326,13 +332,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=41350c5b99937a2a0fdf9ec0489554965013668772950915992ca0e0c89be01c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumas: keliavo_i -> Gardinas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomantas kaip vadovas dalyvavo žygyje prieš Gardino pilį, todėl jo judėjimas Gardino link pagrįstas.
     - t-009
 
 - c-003
@@ -383,13 +389,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo žemės siaubimas yra tiesioginis karinis veiksmas prieš Kulmą.
     - t-010
 
 - c-005
@@ -420,13 +426,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kulmo žemės siaubimas yra tiesioginis karinis veiksmas prieš Kulmą.
     - t-005
 
 - c-006
@@ -505,13 +511,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 460607-461634; hash=1ba249a38c1e9c6e52ae83dab8e4e70cc0951baf86124ca311b36676e58a7cd4; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Būga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: K. Būga: mention_match, author, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "K. Būga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomanto kariuomenės dalis patraukė prieš Kulmo miestą.
     - t-004
 
 - c-009
@@ -533,13 +539,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa8a230f07ebbbf0fe68e98d79af85d4656e427d38e349451dbc140e6d0d48e7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Skomanto įsiveržimą į Kulmo žemę.
     - t-001
 
 - c-010
@@ -608,13 +614,13 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 212211-212870; hash=e2b299df16a4ead00dcbd1c8e74f6a5c18cc99484bb8fccd3839e4ea84d15986; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Kulmas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skomanto užpuolimą Kulmo žemėje.
     - t-012
 
 - c-012
@@ -647,10 +653,23 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 267286-267637; hash=9e5a1d474a5a30ea10687499e7e0a5f866cec07554ae6c1bfa0fd224b82f3c7a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skomantas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Gardinas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skomantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Skomantas puolė Gardiną.
+
+## Ryšiai
+- Skomantas puole [[objektai/vietos/Gardinas]]
+- Skomantas uzeme [[objektai/vietos/Gardinas]]
+- Skomantas puole [[objektai/vietos/Kulmas]]
+- Skomantas surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Skomantas puole [[objektai/vietos/Kujavija]]
+- Skomantas puole [[objektai/vietos/Liubava]]
+- Skomantas puole [[objektai/vietos/Kulmo žemė]]
+- Skomantas puole [[objektai/vietos/Torunė]]
+- Skomantas gyveno [[objektai/vietos/Kresmena]]
+- Skomantas keliavo_i [[objektai/vietos/Gardinas]]
+- Skomantas keliavo_i [[objektai/vietos/Prūsai]]

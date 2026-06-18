@@ -31,7 +31,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   global_id: t-171837
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Moldavijos vaidmenį planuotame puolime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Lenkija'
   pagrindžia:
     - c-001
 
@@ -43,20 +43,21 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui ir valdovų titulams reikia inline atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Sučiava; llm_object: Moldavija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] valdė Moldavija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumas: gyne -> Sučiava: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Moldavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavija" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sučiava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Steponas sustiprino Sučiavos pilį ir paliko įgulas, todėl tekstas palaiko gynybinį ryšį.
+- susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186766|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad Steponui būnant Kolomyjoje Ali-pašos vadovaujama kariuomenė giliai įsiveržė į Moldaviją.
@@ -160,13 +161,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumas: gyne -> Sučiava: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Moldavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavija" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sučiava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Steponas sustiprino Sučiavos pilį ir paliko įgulas, todėl tekstas palaiko gynybinį ryšį.
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Moldavija
+- [[objektai/asmenys/Steponas]] buvo_valdovas Moldavija
+- [[objektai/asmenys/Steponas]] valde Moldavija

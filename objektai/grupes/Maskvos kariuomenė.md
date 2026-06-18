@@ -147,14 +147,16 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 326246-326609; hash=8e9fc40fd0a8864fecddbe5988f7069b8b0937992f52b891fcdd4a94d81f98a5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: priklause -> Maskvos kariuomenė: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Maskvos kariuomenė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvos kariuomenė" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Maskvos kariuomenė: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Totoriai minimi kaip Maskvos kariuomenės dalyviai.
 
 ## Ryšiai
-- Maskvos kariuomenė uzeme [[objektai/vietos/Livonija]]
 - Maskvos kariuomenė uzeme [[objektai/vietos/Narva]]
+- Maskvos kariuomenė uzeme [[objektai/vietos/Tartu]]
+- Maskvos kariuomenė uzeme [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Totoriai]] priklause Maskvos kariuomenė

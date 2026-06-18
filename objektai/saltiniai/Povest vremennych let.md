@@ -52,7 +52,7 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   global_id: t-29722
   teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   sudarymo_pagrindimas: 'Citata patvirtina šaltinio datavimą ir minimą 1040 m. žygį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Naugardukas'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Naugardukas; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1040 m.; įvykio data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina šaltinio datavimą ir minimą 1040 m. žygį.'
@@ -61,13 +61,13 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334875-335113; hash=dfde932b1df39ace3c218ac37901243dced59ad538bc1ef4651284223256e0b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povest vremennych let: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povest vremennych let" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jaroslavas 1040 m. darė žygį į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -109,10 +109,10 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   irodymo_stiprumas: 0.00
   saltinio_vieta: 334875-335113; hash=dfde932b1df39ace3c218ac37901243dced59ad538bc1ef4651284223256e0b8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povest vremennych let: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povest vremennych let" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jaroslavas 1040 m. darė žygį į Lietuvą.

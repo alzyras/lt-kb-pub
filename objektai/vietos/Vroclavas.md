@@ -32,7 +32,8 @@ amziai:
   global_id: t-85591
   teiginys: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Prūsija; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Prūsija; mentioned_place: Silezija; llm_object: Vilnius'
+  semantiniai_rysiai: 'Vroclavas prekiavo su Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -41,13 +42,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b6ccf4e3e2363aa7c27e9ce5081e88b1548f90e29d8372e7cb3c72b3e7bf557c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zbignievas Olesnickis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zbignievas Olesnickis: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Zbignievas Olesnickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vroclavas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje pasakyta, kad pusbroliai, tarp jų Jogaila, pasiuntė protestus į Vroclavą.
 
 <a id="claim-t-85592"></a>
 - t-002
@@ -72,19 +73,20 @@ amziai:
   global_id: t-85593
   teiginys: 'Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako protestų siuntimą į Vroclavą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės|Viskas yra viena, viena žemė ir tie patys žmonės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vroclavas; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės|Viskas yra viena, viena žemė ir tie patys žmonės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Vroclavas; [[objektai/asmenys/Vytautas|Vytautas]] siuntė į Vroclavas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
 
 <a id="claim-t-85595"></a>
 - t-005
@@ -97,13 +99,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
 
 <a id="claim-t-85596"></a>
 - t-006
@@ -123,7 +125,6 @@ amziai:
   ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kistrinas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Kistrinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
 - susijęs iš [[objektai/autoriai/Długopolski, Edm.md#claim-t-29461|Długopolski, Edm]]: Edm. Długopolski 1951 m. Vroclave išleido darbą „Władysław Łokietek na tle swoich czasów“.
 - susijęs iš [[objektai/autoriai/Edm. Długopolski.md#claim-t-29465|Edm. Długopolski]]: Edm. Długopolski 1951 m. Vroclave išleido veikalą „Władysław Łokietek na tle swoich czasów“.
@@ -176,6 +177,7 @@ amziai:
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
+- susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179457|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -244,13 +246,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b6ccf4e3e2363aa7c27e9ce5081e88b1548f90e29d8372e7cb3c72b3e7bf557c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zbignievas Olesnickis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Zbignievas Olesnickis: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Zbignievas Olesnickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Vroclavas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje pasakyta, kad pusbroliai, tarp jų Jogaila, pasiuntė protestus į Vroclavą.
     - t-003
 
 - c-004
@@ -288,24 +290,24 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
     - t-002
 
 - c-005
@@ -342,4 +344,6 @@ amziai:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Kistrinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] buvo_valdovas Vroclavas
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] siunte_i Vroclavas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] siunte_i Vroclavas
+- Vroclavas prekiavo_su [[objektai/vietos/Vilnius]]

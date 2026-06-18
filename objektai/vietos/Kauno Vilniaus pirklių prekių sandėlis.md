@@ -30,19 +30,20 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
   global_id: t-86195
   teiginys: 'Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija; llm_object: Vilnius; llm_object: Kaunas'
+  semantiniai_rysiai: 'Kauno Vilniaus pirklių prekių sandėlis priklausė Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno Vilniaus pirklių prekių sandėlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno Vilniaus pirklių prekių sandėlis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kauno Vilniaus pirklių prekių sandėlis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sandėlio pavadinimas ir citata nurodo Vilniaus pirklių sandėlį, bet pačių pirklių grupės kandidatuose nėra.
 
 ## Reikšmingi paminėjimai
 
@@ -121,10 +122,13 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kauno Vilniaus pirklių prekių sandėlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno Vilniaus pirklių prekių sandėlis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kauno Vilniaus pirklių prekių sandėlis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sandėlio pavadinimas ir citata nurodo Vilniaus pirklių sandėlį, bet pačių pirklių grupės kandidatuose nėra.
+
+## Ryšiai
+- Kauno Vilniaus pirklių prekių sandėlis priklause [[objektai/vietos/Vilnius]]

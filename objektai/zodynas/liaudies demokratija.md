@@ -28,7 +28,7 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
   global_id: t-22212
   teiginys: '1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: SSRS; llm_object: Latvija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -37,13 +37,13 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: liaudies demokratija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "liaudies demokratija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Latvija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sovietų Sąjungos okupaciją, įvardijant Latviją.
 
 ## Reikšmingi paminėjimai
 
@@ -73,10 +73,10 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: liaudies demokratija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "liaudies demokratija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Latvija: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sovietų Sąjungos okupaciją, įvardijant Latviją.

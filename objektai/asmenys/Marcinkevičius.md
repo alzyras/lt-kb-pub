@@ -34,6 +34,7 @@ Marcinkevičių ir dar vieną rusą karininką.
   ryšio_subjekto_parinkimas: Marcinkevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: NKGB: mention_match, group, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkevičius" parinktas kaip owner_note_path. Targetas "NKGB" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.
 - susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
 - susijęs iš [[objektai/asmenys/Vytautas Sirvydis.md#claim-t-78075|Vytautas Sirvydis]]: Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.
@@ -76,3 +77,6 @@ Marcinkevičių ir dar vieną rusą karininką.
   ryšio_subjekto_parinkimas: Marcinkevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: NKGB: mention_match, group, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkevičius" parinktas kaip owner_note_path. Targetas "NKGB" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Tigras]] puole Marcinkevičius

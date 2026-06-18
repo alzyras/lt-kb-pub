@@ -35,8 +35,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89155
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   sudarymo_pagrindimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
-  susije_objektai: 'location: Pagudė; mentioned_place: Elbingas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pagudė'
   temporaliniai_duomenys: 'kelionės data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pagudėnai keliavo į Pagudė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
@@ -58,20 +57,20 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89156
   teiginys: 'Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu junginiu.'
-  susije_objektai: 'territory: Heilsbergas; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Heilsbergas'
+  susije_objektai: 'llm_object: Heilsbergas; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] valdė Heilsbergas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 189840-190075; hash=a2bbe8f0ea98333ead6a8ef82c0d12afe7f4cf9781cbd18594d8bcb34e6f29a8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsai: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=10
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsų žemė: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apie pagudėnų gyvenamą žemę remiasi citata, kur Pagudė apibūdinta kaip Prūsų žemė į šiaurės rytus nuo Pamedės.
 
 <a id="claim-t-89157"></a>
 - t-003
@@ -87,20 +86,21 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pagudė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=34
-  ryšio_targeto_parinkimas: Pagudė: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89158"></a>
 - t-004
   global_id: t-89158
   teiginys: 'Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir įtraukia antraštę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Pilaitė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Pilaitė; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Pilaitė; mentioned_place: Viena; llm_object: [[objektai/grupes/Pamedėnai|Pamedėnai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Pilaitė; [[objektai/grupes/Pagudėnai|Pagudėnai]] puolė [[objektai/grupes/Pamedėnai|Pamedėnai]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -119,7 +119,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89159
   teiginys: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Viena; llm_object: Elbingas'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Elbingas'
   temporaliniai_duomenys: 'įvykio data: 1273 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir tiksliai paremtas citata.'
@@ -142,59 +143,60 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89160
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie tikinčiuosius pagudėnus.'
-  susije_objektai: 'location: Elbingas; mentioned_place: Elbingas; mentioned_place: Pagudė'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas'
+  susije_objektai: 'llm_object: Elbingas; mentioned_place: Elbingas; mentioned_place: Pagudė; llm_object: Pagudė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Pagudė'
   pagrindžia:
     - c-015
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auktumas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Auktumas: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Auktumas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Auktumas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auktumas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pagudėnai savo kariuomenės vadu išsirinko Auktumą; „paskyre“ artimai perteikia šį veiksmą.
 
 <a id="claim-t-89161"></a>
 - t-007
   global_id: t-89161
   teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   sudarymo_pagrindimas: 'Citata pagrindžia Pagudės geografinį apibūdinimą.'
-  susije_objektai: 'location: Prūsai; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsai'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; llm_object: Prūsų žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsų žemė'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be78f13f45c2d3b243f76bbee828ff3e50365181afba9dab270a7c144ddea2a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pilaitė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai užpuolė pilaitę.
 
 <a id="claim-t-89162"></a>
 - t-008
   global_id: t-89162
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo pagudėnų pasirinktą vadą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Auktumas|Auktumas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Auktumas|Auktumas]]; mentioned_person: [[objektai/asmenys/Auktumas|Auktumas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] paskyrė [[objektai/asmenys/Auktumas|Auktumas]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Linkas su kariuomene įsibrovė į Kulmo žemę.
 
 <a id="claim-t-89163"></a>
 - t-009
@@ -207,13 +209,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.99
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pagudės kilmingieji atvyko į Elbingą.
 
 <a id="claim-t-89164"></a>
 - t-010
@@ -226,13 +228,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e49500599f6bce82a790c027644595026d05915d9dcd808ad2134898dfc8b4ab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Elbingas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pagudėnai, tęsdami žygį, užpuolė Elbingo pilį.
 
 <a id="claim-t-89165"></a>
 - t-011
@@ -245,13 +247,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22378ce446082ca2d9b8e7bed166a3034a973c895f6182b7b6722f2c1571fda5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumas: puole -> Elbingas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudėnai surengė pasalą netoli Elbingo ir atkirto kelią miestiečiams; tai remia karinį veiksmą Elbingo aplinkoje, nors miestas nėra tiesioginis atakos objektas.
 
 <a id="claim-t-89166"></a>
 - t-012
@@ -277,19 +279,20 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89168
   teiginys: 'Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie pagudėnų puolimą.'
-  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas; llm_object: Elbingas; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Kristburgas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471030; hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Heilsbergas: 0.98
+  ryšio_patikimumas: valde -> Heilsbergas: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_conquest_territory
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=10
-  ryšio_targeto_parinkimas: Heilsbergas: territory_iteration, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_conquest_territory". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip territory_iteration aplink predikatą "uzkariavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heilsbergo pilis tuo metu buvo pagudėnų rankose.
 
 <a id="claim-t-89169"></a>
 - t-014
@@ -318,7 +321,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89170
   teiginys: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai perteikia citatos faktą apie pagudėnų žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Elbingas; mentioned_place: Pilaitė; mentioned_place: Veklicas; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Elbingas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Elbingas; mentioned_place: Pilaitė; mentioned_place: Veklicas; mentioned_place: Viena; llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]; llm_object: Pagudė; llm_object: Pamedė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] buvo sąjungininkas su [[objektai/grupes/Sūduviai|Sūduviai]]; [[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Pamedė'
   pagrindžia:
     - c-016
 
@@ -327,12 +331,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89171
   teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Kristburgas; mentioned_place: Pilaitė'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Kristburgas; mentioned_place: Pilaitė; llm_object: [[objektai/asmenys/Divanas|Divanas]]'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
   pagrindžia:
     - c-014
+- susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
+- susijęs iš Pagudė: Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59833|Ditrichas (Sembos fogtas)]]: 1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.
 - susijęs iš [[objektai/asmenys/Povyda.md#claim-t-60417|Povyda]]: Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.
 - susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-183880|Elbingo miestiečiai]]: Kai Elbingo miestiečiai per daug nutolo nuo miesto, pagudėnai iš pasalos atkirto jiems kelią atgal.
@@ -347,6 +353,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - susijęs iš [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs.md#claim-t-62674|Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]: 1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.
 - susijęs iš Pagudė: Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62964|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62965|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59836|Ditrichas (Sembos fogtas)]]: Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59914|Divanas]]: Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.
@@ -398,6 +406,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
+- susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62995|Elbingo miestiečiai]]: 1273 m. Elbingo miestiečiai vijosi prie miesto pasirodžiusius pagudėnų raitelius ir vieną kitą nukovė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -439,13 +448,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.99
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.86
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pagudės kilmingieji atvyko į Elbingą.
     - t-013
 
 - c-003
@@ -470,13 +479,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471030; hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Heilsbergas: 0.98
+  ryšio_patikimumas: valde -> Heilsbergas: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_conquest_territory
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=10
-  ryšio_targeto_parinkimas: Heilsbergas: territory_iteration, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_conquest_territory". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip territory_iteration aplink predikatą "uzkariavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heilsbergo pilis tuo metu buvo pagudėnų rankose.
     - t-008
 
 - c-004
@@ -501,13 +510,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Linkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Linkas su kariuomene įsibrovė į Kulmo žemę.
     - t-004
 
 - c-005
@@ -585,13 +594,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be78f13f45c2d3b243f76bbee828ff3e50365181afba9dab270a7c144ddea2a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pilaitė: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai užpuolė pilaitę.
     - t-011
 
 - c-008
@@ -616,13 +625,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22378ce446082ca2d9b8e7bed166a3034a973c895f6182b7b6722f2c1571fda5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumas: puole -> Elbingas: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudėnai surengė pasalą netoli Elbingo ir atkirto kelią miestiečiams; tai remia karinį veiksmą Elbingo aplinkoje, nors miestas nėra tiesioginis atakos objektas.
     - t-002
 
 - c-009
@@ -647,13 +656,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 189840-190075; hash=a2bbe8f0ea98333ead6a8ef82c0d12afe7f4cf9781cbd18594d8bcb34e6f29a8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsai: 1.00
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_residence_local_place
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=10
-  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsų žemė: 0.66
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys apie pagudėnų gyvenamą žemę remiasi citata, kur Pagudė apibūdinta kaip Prūsų žemė į šiaurės rytus nuo Pamedės.
     - t-014
 
 - c-010
@@ -700,13 +709,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Pagudė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=34
-  ryšio_targeto_parinkimas: Pagudė: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-012
@@ -756,13 +765,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e49500599f6bce82a790c027644595026d05915d9dcd808ad2134898dfc8b4ab; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Pagudė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Pagudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Elbingas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pagudėnai, tęsdami žygį, užpuolė Elbingo pilį.
     - t-005
 
 - c-014
@@ -835,13 +844,13 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auktumas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Auktumas: mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Auktumas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Auktumas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auktumas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad pagudėnai savo kariuomenės vadu išsirinko Auktumą; „paskyre“ artimai perteikia šį veiksmą.
     - t-015
 
 - c-017
@@ -875,7 +884,24 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudėnai" parinktas kaip owner_note_path. Targetas "Varmiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- Pagudėnai gyveno [[objektai/vietos/Prūsai]]
+- Pagudėnai puole [[objektai/vietos/Pilaitė]]
+- [[objektai/grupes/Žemaičiai]] gyne Pagudėnai
+- Pagudėnai apgule [[objektai/vietos/Traupeinas]]
+- Pagudėnai puole [[objektai/asmenys/Helvigas iš Goldbacho]]
+- Pagudėnai puole [[objektai/vietos/Elbingas]]
+- Pagudėnai valde [[objektai/vietos/Heilsbergas]]
+- [[objektai/vietos/Heilsbergas]] priklause Pagudėnai
+- Pagudėnai paskyre [[objektai/asmenys/Auktumas]]
+- Pagudėnai puole [[objektai/grupes/Elbingo miestiečiai]]
+- Pagudėnai puole [[objektai/vietos/Liefardo malūnas]]
 - Pagudėnai keliavo_i [[objektai/vietos/Elbingas]]
-- Pagudėnai uzkariavo [[objektai/vietos/Heilsbergas]]
-- Pagudėnai keliavo_i [[objektai/vietos/Pagudė]]
+- Pagudėnai buvo_sajungininkas_su [[objektai/grupes/Sūduviai]]
+- Pagudėnai sudare_sutarti_su [[objektai/grupes/Elbingo miestiečiai]]
+- Pagudėnai uzeme [[objektai/vietos/Pilaitė]]
+- [[objektai/grupes/Elbingo miestiečiai]] puole Pagudėnai
+- Pagudėnai puole [[objektai/vietos/Kristburgas]]
+- Pagudėnai gyveno [[objektai/vietos/Pagudė]]
+- Pagudėnai puole [[objektai/vietos/Pagudė]]
+- Pagudėnai puole [[objektai/vietos/Pamedė]]
+- Pagudėnai puole [[objektai/grupes/Pamedėnai]]
+- Pagudėnai gyveno [[objektai/vietos/Prūsų žemė]]

@@ -32,7 +32,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   global_id: t-90720
   teiginys: 'Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie reakciją į Kristburgo pilies pastatymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Prūsai; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kristburgas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -88,13 +89,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332313-332810; hash=fbb208345cd653578af9ec568554afd6cd0b63f355f3ac054dea82f8d93e97a3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristburgas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas nurodytas tarp susitarusiųjų apsupti Kristburgo pilį.
 
 <a id="claim-t-90724"></a>
 - t-005
@@ -107,20 +108,20 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be78f13f45c2d3b243f76bbee828ff3e50365181afba9dab270a7c144ddea2a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilaitė: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pilaitė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad pagudėnai užpuolė pilaitę.
 
 <a id="claim-t-90725"></a>
 - t-006
   global_id: t-90725
   teiginys: 'Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai remiasi citata apie Kristburgo brolių veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena; llm_object: Lubava'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -139,7 +140,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   global_id: t-90726
   teiginys: '1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie įvykį Kristburgo pilies apylinkėse.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gundramas|Gundramas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gundramas|Gundramas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie įvykį Kristburgo pilies apylinkėse.'
@@ -148,20 +149,21 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=891a8e8c18aca9d3f954e6645cb5c8c9150e51c2e8670dda74e3fd219ce69488; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumas: puole -> Lietuviai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gundramas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gundramas persekiojo lietuvių plėšikautojus ir užpuolė juos dykrose.
 
 <a id="claim-t-90727"></a>
 - t-008
   global_id: t-90727
   teiginys: 'Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie ketinimą apsupti Kristburgo pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsai; llm_object: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] apgulė Kristburgas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -186,13 +188,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių plėšikautojai įsibrovė į Lubavos žemę ir ją niokojo.
 
 <a id="claim-t-90729"></a>
 - t-010
@@ -218,7 +220,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   global_id: t-90730
   teiginys: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje aprašytą pilaitės prie Kristburgo užpuolimą.'
-  susije_objektai: 'mentioned_place: Pilaitė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Pilaitė; mentioned_place: Pilaitė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -232,7 +234,9 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   ryšio_targeto_parinkimas: Pamedėnai: mention_match, group, gap=32
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Pamedėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Engelkė.md#claim-t-60273|Engelkė]]: Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178857|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88529|Bartai]]: Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.
 - susijęs iš [[objektai/asmenys/Ditrichas (Kristburgo komtūras).md#claim-t-60102|Ditrichas (Kristburgo komtūras)]]: Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.
 - susijęs iš [[objektai/asmenys/Engelkė.md#claim-t-60273|Engelkė]]: Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.
 - susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-184075|Gundramas]]: 1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių.
@@ -346,6 +350,12 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58845|atsimetėliai naujakrikščiai atsimetėliai]]: Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89168|Pagudėnai]]: Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
+- susijęs iš Pagudė: Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.
+- susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-60433|Sirenas]]: Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs.
+- susijęs iš [[objektai/asmenys/Andrius (račius).md#claim-t-60236|Andrius (račius)]]: 1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -371,13 +381,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Lubava: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lubava: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių plėšikautojai įsibrovė į Lubavos žemę ir ją niokojo.
     - t-005
 
 - c-002
@@ -398,13 +408,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=be78f13f45c2d3b243f76bbee828ff3e50365181afba9dab270a7c144ddea2a8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilaitė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilaitė: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Pilaitė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad pagudėnai užpuolė pilaitę.
     - t-003
 
 - c-003
@@ -487,13 +497,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332313-332810; hash=fbb208345cd653578af9ec568554afd6cd0b63f355f3ac054dea82f8d93e97a3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
+  ryšio_patikimumas: puole -> Kristburgas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas nurodytas tarp tų, kurie nutarė sunaikinti Kristburgo pilį.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 322611-323546; hash=7fa9d963d60f36c78894c10ed560cf32c638a0389ae264199b6389dd7f55247f; match=ocr_normalized_gapped
@@ -569,13 +579,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=891a8e8c18aca9d3f954e6645cb5c8c9150e51c2e8670dda74e3fd219ce69488; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumas: puole -> Lietuviai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gundramas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gundramas persekiojo lietuvių plėšikautojus ir užpuolė juos dykrose.
     - t-004
 
 - c-008
@@ -597,13 +607,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   irodymo_stiprumas: 0.00
   saltinio_vieta: 332313-332810; hash=fbb208345cd653578af9ec568554afd6cd0b63f355f3ac054dea82f8d93e97a3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Kristburgas: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas nurodytas tarp susitarusiųjų apsupti Kristburgo pilį.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: 442779-443604; hash=5eb5e73ce9ed1bb14338a280138a6d774caee386ed962ce4b5d13837466df9e9; match=whitespace_regex
@@ -629,4 +639,13 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
 ## Ryšiai
 - [[objektai/asmenys/Engelkė]] gyveno Kristburgas
+- [[objektai/grupes/Kryžiuočių ordinas]] pastate Kristburgas
 - [[objektai/asmenys/Sirenas]] gyne Kristburgas
+- [[objektai/asmenys/Divanas]] puole Kristburgas
+- [[objektai/asmenys/Sventopelkas]] apgule Kristburgas
+- [[objektai/grupes/Pagudėnai]] puole Kristburgas
+- [[objektai/asmenys/Sventopelkas]] puole Kristburgas
+- [[objektai/grupes/Lietuviai]] puole Kristburgas
+- [[objektai/grupes/Sūduviai]] puole Kristburgas
+- [[objektai/asmenys/Sirenas]] gyveno Kristburgas
+- [[objektai/asmenys/Andrius (račius)]] keliavo_i Kristburgas

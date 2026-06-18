@@ -84,6 +84,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42460|karakolė]]: Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42461|karakolė]]: Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus.
 - susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116730|Katalikų Bažnyčia]]: Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -121,3 +122,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   irodymo_stiprumas: 0.00
   saltinio_vieta: 695213-695421; hash=6a52b7d41b5d6ae6b47894e70088a0663c1b82aa81248ee88b3b812f16c3d62b; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/grupes/Katalikų Bažnyčia]] buvo_priesas Protestantai
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]] buvo_priesas Protestantai

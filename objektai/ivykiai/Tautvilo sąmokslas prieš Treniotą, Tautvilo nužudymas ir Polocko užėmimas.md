@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentiškas; citata tvirčiau palaiko aiškų sąmokslo išdavimo faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Treniota|Treniota]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 185337-185948; hash=0e40ad46352ecdbab0062c7aeb8a880147121a8890ba3e924eb7601f034f96c4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Treniota: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sąmokslas prieš Treniotą tiesiogiai pagrindžia Tautvilo priešiškumą Treniotai.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +81,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 185337-185948; hash=0e40ad46352ecdbab0062c7aeb8a880147121a8890ba3e924eb7601f034f96c4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_priesas -> Treniota: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Treniota: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Sąmokslas prieš Treniotą tiesiogiai pagrindžia Tautvilo priešiškumą Treniotai.

@@ -33,8 +33,8 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   global_id: t-59871
   teiginys: '1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.'
   sudarymo_pagrindimas: 'Citata patvirtina datą, veikėją, pilį ir rezultatą.'
-  susije_objektai: 'territory: Mazovija; mentioned_place: Mazovija; mentioned_place: Vizna; mentioned_place: Lenkija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Meinhardas Saksas iš Kverfurto|Meinhardas Saksas iš Kverfurto]] užėmė Mazovija'
+  susije_objektai: 'llm_object: Vizna; mentioned_place: Mazovija; mentioned_place: Vizna; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Meinhardas Saksas iš Kverfurto|Meinhardas Saksas iš Kverfurto]] užėmė Vizna'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina datą, veikėją, pilį ir rezultatą.'
@@ -56,7 +56,8 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   global_id: t-59872
   teiginys: 'Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.'
   sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį be kronikos antraštės ir retorinių intarpų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: Junigeda; llm_object: Pieštvė; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Meinhardas Saksas iš Kverfurto|Meinhardas Saksas iš Kverfurto]] puolė Junigeda; [[objektai/asmenys/Meinhardas Saksas iš Kverfurto|Meinhardas Saksas iš Kverfurto]] puolė Pieštvė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -74,20 +75,21 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Skalva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Meinhardo žygį į Skalvą.
 
 <a id="claim-t-59874"></a>
 - t-004
   global_id: t-59874
   teiginys: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
   sudarymo_pagrindimas: 'Citata palaiko konkrečią datą, veikėją, žygį ir pilies pastatymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Skalva; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Meinhardas Saksas iš Kverfurto|Meinhardas Saksas iš Kverfurto]] surengė žygį į Skalva'
   temporaliniai_duomenys: 'pastatymo data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią datą, veikėją, žygį ir pilies pastatymą.'
@@ -96,13 +98,13 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e10b77a362d3d559ac9854b3e2e0087438c4ff348a1bad2fe0d374a11e57cedb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jokūbas (vėliau Urbonas IV): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jokūbas (vėliau Urbonas IV): mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Jokūbas (vėliau Urbonas IV)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Junigeda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Meinhardas užpuolė Junigedą.
 
 <a id="claim-t-59875"></a>
 - t-005
@@ -114,13 +116,13 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 581830-582584; hash=d385059bc32920737235fdba0eaff4a7eb768eae1f17e9ab1a0c2f7b6d54161f; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Mazovija: 0.93
+  ryšio_patikimumas: uzeme -> Vizna: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=50
-  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Meinhardas tiesiogiai įvardytas kaip užėmęs Viznos pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -184,13 +186,13 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: 581830-582584; hash=d385059bc32920737235fdba0eaff4a7eb768eae1f17e9ab1a0c2f7b6d54161f; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Mazovija: 0.93
+  ryšio_patikimumas: uzeme -> Vizna: 0.91
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_capture_local_target
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=50
-  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vizna: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Meinhardas tiesiogiai įvardytas kaip užėmęs Viznos pilį.
     - t-001
 
 - c-004
@@ -220,13 +222,13 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Skalva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Meinhardo žygį į Skalvą.
     - t-006
 
 - c-005
@@ -261,13 +263,16 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e10b77a362d3d559ac9854b3e2e0087438c4ff348a1bad2fe0d374a11e57cedb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jokūbas (vėliau Urbonas IV): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jokūbas (vėliau Urbonas IV): mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardas Saksas iš Kverfurto" parinktas kaip owner_note_path. Targetas "Jokūbas (vėliau Urbonas IV)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Junigeda: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Meinhardas Saksas iš Kverfurto: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Meinhardas užpuolė Junigedą.
 
 ## Ryšiai
-- Meinhardas Saksas iš Kverfurto uzeme [[objektai/vietos/Mazovija]]
+- Meinhardas Saksas iš Kverfurto uzeme [[objektai/vietos/Vizna]]
+- Meinhardas Saksas iš Kverfurto puole [[objektai/vietos/Junigeda]]
+- Meinhardas Saksas iš Kverfurto puole [[objektai/vietos/Pieštvė]]
+- Meinhardas Saksas iš Kverfurto surenge_zygi_i [[objektai/vietos/Skalva]]

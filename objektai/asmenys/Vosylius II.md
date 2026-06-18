@@ -31,8 +31,8 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 - t-001
   global_id: t-35334
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.'
-  susije_objektai: 'territory: Maskva; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius II|Vosylius II]] valdė Maskva'
   temporaliniai_duomenys: 'valdymo pradžia: po 1425 m.; valdymo pradžia: 1425 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius II valdė teritoriją Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -58,13 +58,13 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   irodymo_stiprumas: 0.00
   saltinio_vieta: 688998-689450; hash=d2695a11ccd8e6dbd05f0a2a95c3aa887ac49305df688fe49575bb198b614fea; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Maskva: 1.00
+  ryšio_patikimumas: valde -> Maskva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vosylius II: owner_note_path, person, gap=12
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vosylius II" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Vosylius viešpatavo Didžiojoje Maskvos kunigaikštijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -114,13 +114,13 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
   irodymo_stiprumas: 0.00
   saltinio_vieta: 688998-689450; hash=d2695a11ccd8e6dbd05f0a2a95c3aa887ac49305df688fe49575bb198b614fea; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Maskva: 1.00
+  ryšio_patikimumas: valde -> Maskva: 0.82
   ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vosylius II: owner_note_path, person, gap=12
-  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vosylius II" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vosylius II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas nurodo, kad Vosylius viešpatavo Didžiojoje Maskvos kunigaikštijoje.
 
 ## Ryšiai
-- Vosylius II valde_teritorija [[objektai/vietos/Maskva]]
+- Vosylius II valde [[objektai/vietos/Maskva]]

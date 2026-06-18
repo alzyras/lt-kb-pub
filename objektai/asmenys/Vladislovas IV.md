@@ -41,19 +41,20 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   global_id: t-87593
   teiginys: 'Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   sudarymo_pagrindimas: 'Faktas paremtas citata, pašalintas OCR triukšmas ir sutrumpinta.'
-  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius; llm_object: Rūdninkai'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas IV|Vladislovas IV]] keliavo į Rūdninkai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rūdninkai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas IV" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Vladislovas IV būdavo Rūdninkuose.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87468|Bona]]: Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176705|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.
@@ -108,13 +109,13 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rūdninkai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas IV: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas IV" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas IV: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rūdninkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas rodo, kad Vladislovas IV būdavo Rūdninkuose.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 224171-224626; hash=056a1a2f7ac3ddd29ae26f2555a7aace5c4839f0a79f236129557c5e26697ebb; match=whitespace_regex
@@ -126,3 +127,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   ryšio_subjekto_parinkimas: Vladislovas IV: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas IV" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vladislovas IV keliavo_i [[objektai/vietos/Rūdninkai]]

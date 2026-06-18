@@ -31,19 +31,20 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   global_id: t-87886
   teiginys: 'Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; llm_object: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Varnietis|Vladislovas Varnietis]] rėmė [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 448930-449428; hash=4e8c2b54eaaa424d853f9409cf51975d6847860215ed1b3013d520c22b256c5f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
+  ryšio_patikimumas: reme -> Žygimantas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Varnietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Varnietis" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Varnietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Nesipriešinimas teisių patvirtinimui reiškia pasyvią paramą Žygimanto teisių įtvirtinimui.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,13 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 448930-449428; hash=4e8c2b54eaaa424d853f9409cf51975d6847860215ed1b3013d520c22b256c5f; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
+  ryšio_patikimumas: reme -> Žygimantas: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Varnietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Varnietis" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vladislovas Varnietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Žygimantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Nesipriešinimas teisių patvirtinimui reiškia pasyvią paramą Žygimanto teisių įtvirtinimui.
+
+## Ryšiai
+- Vladislovas Varnietis reme [[objektai/asmenys/Žygimantas]]

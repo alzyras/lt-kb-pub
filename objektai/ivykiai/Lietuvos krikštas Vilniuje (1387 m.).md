@@ -89,19 +89,19 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   global_id: t-54448
   teiginys: 'Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.'
   sudarymo_pagrindimas: 'Teiginys tiksliai ir gramatiškai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 241300-241847; hash=bb2a8f5adf5b41ce4a7cb8086c2bc914843d528829d154c36eeb505f413ea9b8; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikštas Vilniuje (1387 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikštas Vilniuje (1387 m.)" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo, kad tai Vilniaus gyventojų grupė.
 
 <a id="claim-t-54449"></a>
 - t-004
@@ -204,13 +204,13 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 241300-241847; hash=bb2a8f5adf5b41ce4a7cb8086c2bc914843d528829d154c36eeb505f413ea9b8; match=whitespace_regex
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikštas Vilniuje (1387 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikštas Vilniuje (1387 m.)" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Vilnius: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilniaus gyventojai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo, kad tai Vilniaus gyventojų grupė.
     - t-002
 
 - c-003

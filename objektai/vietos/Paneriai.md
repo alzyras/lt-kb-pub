@@ -135,13 +135,13 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a4b4bf2e5e2c6f620ee32b32559e02ea69386da7fcc128f1264a5dfba40fba78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paneriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paneriai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Paneriai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paneriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas kartais gyvendavo Paneriuose.
 
 <a id="claim-t-84413"></a>
 - t-007
@@ -185,7 +185,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84415
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Žodis „šiandien“ yra kontekstinis, todėl reikia aiškiai nurodyti šaltinio aprašymo laiką.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
+  susije_objektai: 'llm_object: Paneriai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] gyveno Paneriai'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -547,13 +548,13 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a4b4bf2e5e2c6f620ee32b32559e02ea69386da7fcc128f1264a5dfba40fba78; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paneriai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paneriai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Paneriai: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Paneriai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas kartais gyvendavo Paneriuose.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=80d30a84b836908524947ce49af0a7990622873e86e8e4b8e5319fae71bdceba; match=fallback; occurrences=0
@@ -567,4 +568,5 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paneriai" parinktas kaip owner_note_path. Targetas "Valkininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Paneriai priklause [[objektai/grupes/7-asis pėstininkų pulkas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] gyveno Paneriai
+- Paneriai priklause [[objektai/grupes/Vilniaus kapitula]]

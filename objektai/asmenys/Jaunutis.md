@@ -36,7 +36,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   global_id: t-176435
   teiginys: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia sąmokslą prieš Jaunutį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Vilniaus pilis; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'sutarties data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia sąmokslą prieš Jaunutį.'
@@ -57,7 +57,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   global_id: t-176438
   teiginys: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Jaunučio padėtį ir vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] gynė Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -76,20 +77,20 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   global_id: t-176439
   teiginys: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti tėvą ir pašalinti perteklinę formuluotę.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Voluinė'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Vilnius'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Vilnius; [[objektai/asmenys/Jaunutis|Jaunutis]] buvo valdovas Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 78637-79136; hash=34f2b350c1f802cd39d0ff292eb41646328bfcd32a408bddae98a35ea5cf4886; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunutis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Veiksmažodis „sergėjo“ tiesiogiai reiškia saugojo, todėl fiksuojamas Jaunučio gynimo/saugojimo ryšys su Lietuvos valdžia.
 
 <a id="claim-t-184715"></a>
 - t-005
@@ -105,13 +106,13 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79336-79862; hash=a7466b1ae2d5bfcf87ce7f69e8f90cfbb0d561240ef72716dc0bd6927e85159b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunutis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kęstutis užpuolė Vilniaus pilis.
 
 <a id="claim-t-184717"></a>
 - t-006
@@ -121,7 +122,7 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą apie Jaunučio pabėgimą ir sugrąžinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas; llm_object: Vilnius'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -134,6 +135,10 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Krėva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunutis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
+- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
+- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
+- susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184663|Algirdas (Lietuvos valdovas)]]: Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.
 - susijęs iš [[objektai/asmenys/Simonas (Maskvos kunigaikštis).md#claim-t-87851|Simonas (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje legendine vadinama Platesniojo sąvado dalis iki Kęstučio ir Algirdo sąmokslo prieš Jaunutį 1345 m.
@@ -165,6 +170,9 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 - susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo Algirdui.
 - susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui.
 - susijęs iš Zaslavlis: Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
+- susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
+- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
+- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -215,13 +223,13 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 78637-79136; hash=34f2b350c1f802cd39d0ff292eb41646328bfcd32a408bddae98a35ea5cf4886; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=111
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunutis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Veiksmažodis „sergėjo“ tiesiogiai reiškia saugojo, todėl fiksuojamas Jaunučio gynimo/saugojimo ryšys su Lietuvos valdžia.
     - t-001
 
 - c-004
@@ -305,13 +313,13 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 79336-79862; hash=a7466b1ae2d5bfcf87ce7f69e8f90cfbb0d561240ef72716dc0bd6927e85159b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunutis (valdovas, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vilniaus pilis: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kęstutis užpuolė Vilniaus pilis.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 44052-44512; hash=817f216e21745ee2bc18e84467216fb8bb077d1b9c744053797c25722e2f8097; match=exact
@@ -326,3 +334,16 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 
 ## Ryšiai
 - Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Vilnius]]
+- Jaunutis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
+- Jaunutis (valdovas, XIV a.) valde_teritorija [[objektai/vietos/Breslauja]]
+- [[objektai/vietos/Ašmena]] priklause Jaunutis (valdovas, XIV a.)
+- Jaunutis (valdovas, XIV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Ukmergė]] priklause Jaunutis (valdovas, XIV a.)
+- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Ašmena]]
+- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Breslauja]]
+- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Ukmergė]]
+- Jaunutis (valdovas, XIV a.) valde [[objektai/vietos/Zaslavlis]]
+- [[objektai/vietos/Breslauja]] priklause Jaunutis (valdovas, XIV a.)
+- Jaunutis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Maskva]]
+- Jaunutis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Smolenskas]]
+- Jaunutis (valdovas, XIV a.) gyne [[objektai/vietos/Lietuva]]

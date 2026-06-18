@@ -107,7 +107,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš citatos konteksto galima aiškiai įvardyti karalių Jogailą.'
-  susije_objektai: 'location: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pomeranija; mentioned_place: Poznanė'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pomeranija; mentioned_place: Poznanė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Didžioji Lenkija'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -129,6 +130,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 - susijęs iš Poznanė: Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101586|federacija federacinė valstybė]]: Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
 - susijęs iš [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė.md#claim-t-22144|federacija konfederacinė valstybė unitarinė valstybė]]: LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.
+- susijęs iš Poznanė: Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -284,3 +286,8 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   ryšio_subjekto_parinkimas: Didžioji Lenkija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Lenkija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Didžioji Lenkija
+- Didžioji Lenkija priklause [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Poznanė]] priklause Didžioji Lenkija

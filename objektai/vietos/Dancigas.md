@@ -62,7 +62,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Papildytas citatoje esantis laiko kontekstas ir aiškiau įvardytas veikėjas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Dancigas; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Lietuva prekiavo su Dancigas'
   pagrindžia:
     - c-002
 
@@ -77,6 +78,9 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+- susijęs iš Karaliaučius: Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176162|Žemaičiai]]: Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176143|Žemaičiai]]: 1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179519|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.
 - susijęs iš [[objektai/autoriai/Thunert, E.md#claim-t-31016|Thunert, E]]: E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.
 - susijęs iš [[objektai/autoriai/W. Ziesemer.md#claim-t-31075|W. Ziesemer]]: W. Ziesemeris buvo Karaliaučiaus ir Dancigo archyvų žinovas, ypač atsidėjęs Vokiečių ordino istorijos šaltinių tyrimui.
@@ -120,6 +124,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-183442|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis jų siekė „laisvojo miesto“ statuso.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
+- susijęs iš Karaliaučius: Vytauto laikais atgijus prekybai Nemunu, užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.
+- susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -174,3 +180,8 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/vietos/Lietuva]] prekiavo_su Dancigas
+- [[objektai/grupes/Žemaičiai]] prekiavo_su Dancigas
+- [[objektai/vietos/Karaliaučius]] prekiavo_su Dancigas

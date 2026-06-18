@@ -78,3 +78,6 @@ periodo_grupes:
   ryšio_subjekto_parinkimas: Fridrichas de Libencelė: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas de Libencelė" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Fridrichas de Libencelė apgule [[objektai/vietos/Gedimino pilis Castrum Gedemini]]

@@ -57,6 +57,7 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   ryšio_subjekto_parinkimas: Pskoviečiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskoviečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186600|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05164|Daumantas (kunigaikštis, XV a.)]]: 1266 m. Daumantas su pskoviečiais puolė Nalšėnus.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173139|Dovydas (Gardino pilininkas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
@@ -190,3 +191,15 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   ryšio_subjekto_parinkimas: Pskoviečiai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=60
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pskoviečiai" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Pskoviečiai puole [[objektai/vietos/Velikije Lūki]]
+- Pskoviečiai puole [[objektai/vietos/Revelis]]
+- Pskoviečiai puole [[objektai/vietos/Polockas]]
+- Pskoviečiai puole [[objektai/vietos/Rževas]]
+- Pskoviečiai keliavo_i [[objektai/vietos/Vilnius]]
+- Pskoviečiai puole [[objektai/vietos/Lietuva]]
+- Pskoviečiai puole [[objektai/vietos/Nalšėnai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Pskoviečiai
+- Pskoviečiai reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Pskoviečiai keliavo_i [[objektai/vietos/Pskovas]]

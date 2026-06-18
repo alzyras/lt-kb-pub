@@ -33,7 +33,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   global_id: t-181355
   teiginys: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ryga; llm_object: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'

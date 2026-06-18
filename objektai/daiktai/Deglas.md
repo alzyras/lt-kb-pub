@@ -65,19 +65,19 @@ Nenurodyta
   global_id: t-81844
   teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą apie deglą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111649-112374; hash=880b60d55ad2e79cfcbd9ee6fb271359940a96d7b672b9801ecce88b9e0b0a16; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Deglas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deglas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini vokiečių kasmetinius žygius iki pat Vilniaus.
 - susijęs iš [[objektai/daiktai/Mediniai miesto namai.md#claim-t-87084|Mediniai miesto namai]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
 - susijęs iš Vilnius: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.
@@ -144,10 +144,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 111649-112374; hash=880b60d55ad2e79cfcbd9ee6fb271359940a96d7b672b9801ecce88b9e0b0a16; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: surenge_zygi_i -> Vilnius: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Deglas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deglas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata mini vokiečių kasmetinius žygius iki pat Vilniaus.

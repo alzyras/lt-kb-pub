@@ -147,7 +147,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   global_id: t-88109
   teiginys: 'Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata apie prieglaudos administracijos globą ir vadovavimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; llm_object: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -172,13 +172,13 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e902c04c98a90ff2325e4f613f2e047f26ece0cd8b57ad5fcea2bc0c6b82db9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: paskyre -> Jonas Hozijus: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Hozijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad karaliaus raštu Jonas Hozijus skiriamas tvarkyti tiltui ir prieglaudai priklausantį mokestį.
 
 ## Reikšmingi paminėjimai
 
@@ -532,10 +532,10 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e902c04c98a90ff2325e4f613f2e047f26ece0cd8b57ad5fcea2bc0c6b82db9d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumas: paskyre -> Jonas Hozijus: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Hozijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad karaliaus raštu Jonas Hozijus skiriamas tvarkyti tiltui ir prieglaudai priklausantį mokestį.

@@ -35,7 +35,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - t-002
   global_id: t-176314
   teiginys: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,8 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   global_id: t-176315
   teiginys: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą apie Birutę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vydimantas|Vydimantas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Vydimantas|Vydimantas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vydimantas|Vydimantas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Birutė|Birutė]] buvo duktė [[objektai/asmenys/Vydimantas|Vydimantas]]'
   pagrindžia:
     - c-003
 
@@ -71,26 +72,27 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - t-005
   global_id: t-176318
   teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_place: Birutės kalnas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_place: Birutės kalnas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga; mentioned_place: Vilnius; llm_object: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=973f9517fe020c952fadb36cb288f5d9fced367a14aa9b3ddb0f3d1111fbe9a1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vydimantas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Birutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vydimantas: mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Birutė" parinktas kaip owner_note_path. Targetas "Vydimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vydimantas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Birutė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vydimantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Birutę kaip Vydimanto dukterį.
 
 <a id="claim-t-176319"></a>
 - t-006
   global_id: t-176319
   teiginys: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
   sudarymo_pagrindimas: 'Citata pagrindžia metraščių pasakojimą apie Birutę.'
-  susije_objektai: 'mentioned_place: Palanga; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Palanga; mentioned_place: Lietuva; llm_object: Palanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Birutė|Birutė]] gyveno Palanga'
   pagrindžia:
     - c-005
 
@@ -105,13 +107,13 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=991a611250d1ccad8824460131210184a9f49dbaaa1c93639a24684add9dd675; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdo žygiai į Maskvą: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Birutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: mention_match, event, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Birutė" parinktas kaip owner_note_path. Targetas "Algirdo žygiai į Maskvą" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Algirdo žygiai į Maskvą: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyti Algirdo žygiai į Maskvą kaip su Algirdu susijęs įvykis.
 
 <a id="claim-t-184675"></a>
 - t-008
@@ -121,8 +123,8 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta taip, kad sakinio subjektas būtų note objektas.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Leopoldas|Leopoldas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Birutė|Birutė]] vedė [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Birutė|Birutė]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Leopoldas|Leopoldas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] vedė [[objektai/asmenys/Birutė|Birutė]]; [[objektai/asmenys/Birutė|Birutė]] buvo žmona [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -144,9 +146,11 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Birutės pasitraukimą su Vytautu; įvardytas kontekstas.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Prūsija; mentioned_place: Trakai'
+  susije_objektai: 'llm_object: Gardinas; llm_object: Trakai; mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Prūsija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Birutė|Birutė]] keliavo į Gardinas'
   pagrindžia:
     - c-008
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176692|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.
 - susijęs iš [[objektai/autoriai/Žulkus V.md#claim-t-60570|Žulkus V]]: Žulkus V. paskelbė darbą apie Birutės kalno ir gyvenvietės tyrinėjimus 1982 ir 1983 metais.
 - susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49111|Tauro apygarda]]: Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.
@@ -285,13 +289,13 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=973f9517fe020c952fadb36cb288f5d9fced367a14aa9b3ddb0f3d1111fbe9a1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vydimantas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Birutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vydimantas: mention_match, person, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Birutė" parinktas kaip owner_note_path. Targetas "Vydimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Vydimantas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Birutė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vydimantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Birutę kaip Vydimanto dukterį.
     - t-006
 
 - c-006
@@ -353,13 +357,13 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=991a611250d1ccad8824460131210184a9f49dbaaa1c93639a24684add9dd675; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdo žygiai į Maskvą: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Birutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: mention_match, event, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Birutė" parinktas kaip owner_note_path. Targetas "Algirdo žygiai į Maskvą" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Algirdo žygiai į Maskvą: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citatoje tiesiogiai įvardyti Algirdo žygiai į Maskvą kaip su Algirdu susijęs įvykis.
     - t-008
 
 - c-008
@@ -397,4 +401,9 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - t-009
 
 ## Ryšiai
-- Birutė vede [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] vede Birutė
+- Birutė buvo_dukte [[objektai/asmenys/Vydimantas]]
+- Birutė keliavo_i [[objektai/vietos/Gardinas]]
+- Birutė buvo_zmona [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sunus Birutė
+- Birutė gyveno [[objektai/vietos/Palanga]]

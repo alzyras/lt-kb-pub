@@ -47,7 +47,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-003
   global_id: t-131656
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_place: Lietuva; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per daug apkrautas sąrašu; citata palaiko tikslesnį sakinį apie diarchiją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.

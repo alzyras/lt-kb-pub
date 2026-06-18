@@ -22,20 +22,19 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   global_id: t-38934
   teiginys: 'Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra sąrašas be predikato, citata leidžia suformuluoti faktą apie pulką.'
-  susije_objektai: 'owner: [[objektai/grupes/7-asis pėstininkų pulkas|7-asis pėstininkų pulkas]]; mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
-  semantiniai_rysiai: 'Paneriai priklausė [[objektai/grupes/7-asis pėstininkų pulkas|7-asis pėstininkų pulkas]]; Lenkija priklausė [[objektai/grupes/7-asis pėstininkų pulkas|7-asis pėstininkų pulkas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> 7-asis pėstininkų pulkas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Lenkija: source_before_predicate, place, gap=28
-  ryšio_targeto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lenkija" parinktas kaip source_before_predicate. Targetas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -62,14 +61,10 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   irodymo_stiprumas: 0.00
   saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> 7-asis pėstininkų pulkas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
-  ryšio_subjekto_parinkimas: Lenkija: source_before_predicate, place, gap=28
-  ryšio_targeto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lenkija" parinktas kaip source_before_predicate. Targetas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/vietos/Lenkija]] priklause 7-asis pėstininkų pulkas
-- [[objektai/vietos/Paneriai]] priklause 7-asis pėstininkų pulkas
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

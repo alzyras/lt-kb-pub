@@ -33,7 +33,8 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   global_id: t-87428
   teiginys: 'Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_place: Anglija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_place: Anglija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Lankasteris|Henrikas Lankasteris]] keliavo į Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1390 m.; įvykio data: apie 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
@@ -64,13 +65,13 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=36b01390414c94b45632348f46cb8b46176725ce4e45ef06b37b9abb5a923ac5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Lankasteris: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Lankasteris" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Lankasteris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Henrikas Lankasteris nukeliavo į Prūsiją.
 
 <a id="claim-t-87430"></a>
 - t-003
@@ -198,13 +199,13 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=36b01390414c94b45632348f46cb8b46176725ce4e45ef06b37b9abb5a923ac5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Lankasteris: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Lankasteris" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Lankasteris: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Henrikas Lankasteris nukeliavo į Prūsiją.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=353795be755b6a1187896991fead01484d06bba29717c9d9036ce338ef1251f8; match=fallback; occurrences=0
@@ -216,3 +217,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   ryšio_subjekto_parinkimas: Henrikas Lankasteris: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Henrikas IV: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Lankasteris" parinktas kaip owner_note_path. Targetas "Henrikas IV" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Henrikas Lankasteris keliavo_i [[objektai/vietos/Prūsija]]
+- Henrikas Lankasteris buvo_priesas [[objektai/asmenys/Ričardas II]]

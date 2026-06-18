@@ -24,19 +24,20 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   global_id: t-60251
   teiginys: 'Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.'
   sudarymo_pagrindimas: 'Citata pagrindžia pareigas ir Dusburgiečio vertinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]] gyveno Kulmas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ca8b6672eb09b70c37760a3b4d9ea282c0cf3ba8b77ed26c166a814a7a55a53; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas iš Nordhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas iš Nordhauzeno" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Kulmas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas iš Nordhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bertoldas iš Nordhauzeno gyveno Kulmo žemėje.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 ## Reikšmingi paminėjimai
 
@@ -61,10 +62,13 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ca8b6672eb09b70c37760a3b4d9ea282c0cf3ba8b77ed26c166a814a7a55a53; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bertoldas iš Nordhauzeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bertoldas iš Nordhauzeno" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Kulmas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas iš Nordhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Bertoldas iš Nordhauzeno gyveno Kulmo žemėje.
+
+## Ryšiai
+- Bertoldas iš Nordhauzeno gyveno [[objektai/vietos/Kulmas]]

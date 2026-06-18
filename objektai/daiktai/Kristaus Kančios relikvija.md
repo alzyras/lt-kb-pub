@@ -87,19 +87,19 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Legendos ir religinio objekto pasakojimas turi būti atribuuotas, o sakinys sutrauktas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lenkija; mentioned_place: Sandomiras; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lenkija; mentioned_place: Sandomiras; mentioned_place: Volynė; llm_object: Sandomiras'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f36ee6883b276e8c5145d08656116dc220366b2efed9d7873e97b41d198b73f8; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumas: puole -> Sandomiras: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sandomiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis kartu su Algirdu tiesiogiai nurodomas nusiaubęs Sandomiro kraštą, todėl ryšys interpretuojamas kaip puolimas.
 
 ## Reikšmingi paminėjimai
 
@@ -141,13 +141,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f36ee6883b276e8c5145d08656116dc220366b2efed9d7873e97b41d198b73f8; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumas: puole -> Sandomiras: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sandomiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kęstutis kartu su Algirdu tiesiogiai nurodomas nusiaubęs Sandomiro kraštą, todėl ryšys interpretuojamas kaip puolimas.
     - t-002
 
 - c-003

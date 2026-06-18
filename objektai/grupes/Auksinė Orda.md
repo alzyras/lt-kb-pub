@@ -34,7 +34,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-001
   global_id: t-05238
   teiginys: 'Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Auksinė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Auksinė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Maskva; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Auksinė Orda|Auksinė Orda]] priklausė [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
 
@@ -42,19 +43,19 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-002
   global_id: t-05239
   teiginys: 'Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Perekopas; llm_object: [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24eac25a46ef73e0d1b4f51cc5e16e5e105d1cb51f54a1a55ea105c8bd527912; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumas: priklause -> Totoriai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Aukso Ordą kaip totorių valstybę.
 
 <a id="claim-t-05240"></a>
 - t-003
@@ -66,13 +67,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   irodymo_stiprumas: 0.00
   saltinio_vieta: 850494-850782; hash=cb9a7decd2af8a45ddc4e34e0fdd5cca00812862eb2749a23418e9ddbc5ab2e3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Tochtamišas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Vytauto pažadą pasodinti Tochtamišą valdžioje, tai reiškia paramą.
 
 <a id="claim-t-12353"></a>
 - t-004
@@ -161,20 +162,20 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   irodymo_stiprumas: 0.00
   saltinio_vieta: 170565-170951; hash=5cb23120bd79073a2bfc16f5b10a0d21272cff16f008dae2de81d81e8ff396c2; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Europa: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=14
-  ryšio_targeto_parinkimas: Europa: nearest_after_predicate, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Europa" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92027"></a>
 - t-009
   global_id: t-92027
   teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys būtų sklandesnis ir tiksliau perteiktų citatos formuluotę.'
-  susije_objektai: 'territory: Europa; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
@@ -234,6 +235,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group
   ryšio_targeto_parinkimas: chanas: mention_match, thing, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "chanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Volynė: 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę.
+- susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187443|Aukso orda]]: 1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą.md#claim-t-186780|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]: 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
@@ -343,6 +346,16 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59727|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
+- susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74872|Mongolų imperija]]: Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
+- susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74875|Mongolų imperija]]: Rusų kunigaikštijos buvo patekusios į Aukso ordos, suskilusios Mongolų imperijos dalies, valdžią ir mokėjo jai duoklę.
+- susijęs iš Mažoji Podolė: Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.
+- susijęs iš [[objektai/zodynas/chanas.md#claim-t-78883|chanas]]: Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
+- susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-183694|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.
+- susijęs iš [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas.md#claim-t-183694|Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]: Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo, prašydamas visus Ordos pinigus žymėti Vytauto ženklu.
+- susijęs iš [[objektai/zodynas/kondominiumas.md#claim-t-183436|kondominiumas]]: LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -393,13 +406,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=24eac25a46ef73e0d1b4f51cc5e16e5e105d1cb51f54a1a55ea105c8bd527912; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumas: priklause -> Totoriai: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Auksinė Orda: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija Aukso Ordą kaip totorių valstybę.
     - t-003
 
 - c-004
@@ -417,13 +430,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   irodymo_stiprumas: 0.00
   saltinio_vieta: 850494-850782; hash=cb9a7decd2af8a45ddc4e34e0fdd5cca00812862eb2749a23418e9ddbc5ab2e3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Tochtamišas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Vytauto pažadą pasodinti Tochtamišą valdžioje, tai reiškia paramą.
     - t-004
 
 - c-005
@@ -523,13 +536,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   irodymo_stiprumas: 0.00
   saltinio_vieta: 170565-170951; hash=5cb23120bd79073a2bfc16f5b10a0d21272cff16f008dae2de81d81e8ff396c2; match=ocr_normalized
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Europa: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=14
-  ryšio_targeto_parinkimas: Europa: nearest_after_predicate, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Europa" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-009
@@ -627,3 +640,20 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   ryšio_subjekto_parinkimas: Auksinė Orda: owner_note_path, group
   ryšio_targeto_parinkimas: chanas: mention_match, thing, gap=50
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė Orda" parinktas kaip owner_note_path. Targetas "chanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Auksinė Orda priklause [[objektai/grupes/Mongolų imperija]]
+- [[objektai/vietos/Volynė]] priklause Auksinė Orda
+- Auksinė Orda puole [[objektai/vietos/Lietuva]]
+- Auksinė Orda valde_miesta [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevas]] priklause Auksinė Orda
+- [[objektai/grupes/Bartai]] kariavo_pries Auksinė Orda
+- [[objektai/asmenys/Gediminas]] kariavo_pries Auksinė Orda
+- [[objektai/grupes/Sūduviai]] kariavo_pries Auksinė Orda
+- [[objektai/vietos/Mažoji Podolė]] priklause Auksinė Orda
+- [[objektai/grupes/Rusai]] priklause Auksinė Orda
+- [[objektai/grupes/Totorių pajėgos]] priklause Auksinė Orda
+- Auksinė Orda valde [[objektai/vietos/Kijevas]]
+- Auksinė Orda priklause [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Lietuva]] priklause Auksinė Orda
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_priesas Auksinė Orda

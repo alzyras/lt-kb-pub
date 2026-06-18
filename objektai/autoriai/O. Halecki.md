@@ -100,7 +100,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   global_id: t-179561
   teiginys: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos paremta esmė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Livonija; llm_object: Lietuva; llm_object: Palanga'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00

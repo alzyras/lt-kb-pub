@@ -56,19 +56,20 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   global_id: t-170051
   teiginys: 'Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jekateriną II ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_place: Rusija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jekaterina II|Jekaterina II]] rėmė [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 575939-576236; hash=0f78a41dd9a1856902d3503d55f00104e17a5a0aa4272d0289343beeefc159d4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Čartoriskiai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jekaterina II rėmė Čartoriskius.
 
 <a id="claim-t-170052"></a>
 - t-003
@@ -81,20 +82,21 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 576237-576615; hash=2bcf10a23f1c49ee22a22dc7ae8297937d20081d1af7e2429c8a57d8edffe300; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jekaterina II parėmė bajorų konfederaciją, kuri kandidatuose atstovaujama per Bajorus.
 
 <a id="claim-t-170053"></a>
 - t-004
   global_id: t-170053
   teiginys: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
   sudarymo_pagrindimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; llm_object: [[objektai/grupes/Bajorai|Bajorai]]; llm_object: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jekaterina II|Jekaterina II]] rėmė [[objektai/grupes/Bajorai|Bajorai]]; [[objektai/asmenys/Jekaterina II|Jekaterina II]] buvo priešas [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
   temporaliniai_duomenys: 'įvykio data: 1764 m.; įvykio data: 1767-1768; įvykio data: 1768 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
@@ -190,13 +192,13 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 575939-576236; hash=0f78a41dd9a1856902d3503d55f00104e17a5a0aa4272d0289343beeefc159d4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Čartoriskiai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jekaterina II rėmė Čartoriskius.
     - t-004
 
 - c-003
@@ -229,13 +231,13 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   irodymo_stiprumas: 0.00
   saltinio_vieta: 576237-576615; hash=2bcf10a23f1c49ee22a22dc7ae8297937d20081d1af7e2429c8a57d8edffe300; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jekaterina II parėmė bajorų konfederaciją, kuri kandidatuose atstovaujama per Bajorus.
     - t-005
 
 - c-004
@@ -275,3 +277,8 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Jekaterina II reme [[objektai/grupes/Čartoriskiai]]
+- Jekaterina II reme [[objektai/grupes/Bajorai]]
+- Jekaterina II buvo_priesas [[objektai/grupes/Čartoriskiai]]

@@ -61,7 +61,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 - t-002
   global_id: t-12412
   teiginys: 'Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Salyne'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Salyne; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -69,13 +69,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3bc5b458826280110fc105de3ed81140bb59adbb8e9e9b25a46282d256fb328b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas Jungingenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konradas Jungingenas: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Konradas Jungingenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Konradas Jungingenas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konradas Jungingenas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas ir Konradas Jungingenas tiesiogiai įvardyti kaip galutinai patvirtinę sutartį.
 
 <a id="claim-t-12413"></a>
 - t-003
@@ -87,13 +87,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=28c3866da67316e2b077cecd5e24cfd8385e0ed973013deba49186d0769c3e83; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Salyno akto kontekste Vytauto žemių užleidimas ordinui rodo sutartinį santykį su Ordinu.
 
 <a id="claim-t-66868"></a>
 - t-004
@@ -138,7 +138,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   global_id: t-66870
   teiginys: 'Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.'
   sudarymo_pagrindimas: 'Reikia tiksliau atskirti Vytauto veiksmą nuo akte pasyviai nužymėtų sienų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Apaščia; mentioned_place: Kaimas; mentioned_place: Nevėžis; mentioned_place: Pskovas; mentioned_place: Smardonė; mentioned_place: Vaišvilčiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Apaščia; mentioned_place: Kaimas; mentioned_place: Nevėžis; mentioned_place: Pskovas; mentioned_place: Smardonė; mentioned_place: Vaišvilčiai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -157,7 +157,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   global_id: t-66871
   teiginys: '1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje nurodytas sutarties datas, vietas ir patvirtinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Jungingenas|Konradas Jungingenas]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_place: Salyne; mentioned_place: Elbingas; mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Konradas Jungingenas|Konradas Jungingenas]]; mentioned_person: [[objektai/asmenys/Konradas Jungingenas|Konradas Jungingenas]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Salynas; mentioned_place: Salyne; mentioned_place: Elbingas; mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1396 m.; įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibendrina citatoje nurodytas sutarties datas, vietas ir patvirtinimą.'
@@ -166,13 +166,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6819e1887db084a5fb4640862095b3f846d9523dffc0916846fd1641fd61d927; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=130
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Salyne aprašytas Vytauto Žemaitijos atidavimas Ordinui sutarties kontekste.
 - susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
 - susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Grajevas: Melno sutartimi nustatyta siena senojoje jotvingių žemėje ėjo Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
@@ -246,13 +246,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3bc5b458826280110fc105de3ed81140bb59adbb8e9e9b25a46282d256fb328b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konradas Jungingenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Konradas Jungingenas: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Konradas Jungingenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Konradas Jungingenas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Konradas Jungingenas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Vytautas ir Konradas Jungingenas tiesiogiai įvardyti kaip galutinai patvirtinę sutartį.
     - t-003
 
 - c-004
@@ -272,13 +272,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=28c3866da67316e2b077cecd5e24cfd8385e0ed973013deba49186d0769c3e83; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Salyno akto kontekste Vytauto žemių užleidimas ordinui rodo sutartinį santykį su Ordinu.
     - t-007
 
 - c-005
@@ -299,13 +299,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6819e1887db084a5fb4640862095b3f846d9523dffc0916846fd1641fd61d927; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Salyno sutartis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=130
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salyno sutartis" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Salyne aprašytas Vytauto Žemaitijos atidavimas Ordinui sutarties kontekste.
     - t-004
 
 - c-006

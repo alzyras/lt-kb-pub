@@ -22,19 +22,20 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   global_id: t-60317
   teiginys: 'Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko aiškų veikėją, objektą ir rezultatą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas; llm_object: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]] puolė [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]] buvo sąjungininkas su [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Šenenbergo" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
@@ -64,10 +65,14 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helvigas iš Goldbacho: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Šenenbergo" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Herkus Mantas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas iš Šenenbergo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme.
+
+## Ryšiai
+- Henrikas iš Šenenbergo puole [[objektai/asmenys/Herkus Mantas]]
+- Henrikas iš Šenenbergo buvo_sajungininkas_su [[objektai/asmenys/Helvigas iš Goldbacho]]

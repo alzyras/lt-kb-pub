@@ -43,6 +43,9 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   ryšio_subjekto_parinkimas: Užpelkiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
+- susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
+- susijęs iš [[objektai/asmenys/Vytautas Šniuolis-Svajūnas.md#claim-t-39681|Vytautas Šniuolis-Svajūnas]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.
 - susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
@@ -96,3 +99,8 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   ryšio_subjekto_parinkimas: Užpelkiai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Petras Bartkus-Žadgaila]] mire Užpelkiai
+- [[objektai/asmenys/Bronius Liesis-Naktis]] mire Užpelkiai
+- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]] mire Užpelkiai

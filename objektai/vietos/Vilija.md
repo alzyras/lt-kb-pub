@@ -37,7 +37,7 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   global_id: t-174165
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-007
 
@@ -151,7 +151,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva; mentioned_place: Vilnelė'
   pagrindžia:
     - c-011
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
@@ -436,6 +435,9 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86496|vaidilos, žyniai ir pranašai]]: Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
+- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.
+- susijęs iš Paleckio stiklo liejykla prie Vilijos: 1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.
+- susijęs iš Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje: Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -761,4 +763,6 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Šventaragis]] keliavo_i Vilija
+- [[objektai/grupes/Lietuviai]] gyveno Vilija
+- [[objektai/vietos/Paleckio stiklo liejykla prie Vilijos]] priklause Vilija
+- [[objektai/vietos/Barboros rūmai Vilniuje]] priklause Vilija

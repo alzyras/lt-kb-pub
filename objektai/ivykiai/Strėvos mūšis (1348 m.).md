@@ -58,7 +58,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - t-002
   global_id: t-10297
   teiginys: '1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lietuva; mentioned_place: Strėva; mentioned_place: Žiežmariai; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lietuva; mentioned_place: Strėva; mentioned_place: Žiežmariai; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -68,7 +69,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - t-003
   global_id: t-10298
   teiginys: 'Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Strėva; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Strėva; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -94,13 +96,13 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos mūšis (1348 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos mūšis (1348 m.)" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Strėvos mūšis (1348 m.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Strėvos mūšis (1348 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata nurodo lietuvių veikimą pačiame mūšyje.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -188,10 +190,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos mūšis (1348 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos mūšis (1348 m.)" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Strėvos mūšis (1348 m.): 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Strėvos mūšis (1348 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata nurodo lietuvių veikimą pačiame mūšyje.
+
+## Ryšiai
+- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo) dalyvavo_musyje Strėvos mūšis (1348 m.)
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Strėvos mūšis (1348 m.)
+- [[objektai/grupes/Rusai]] dalyvavo_musyje Strėvos mūšis (1348 m.)

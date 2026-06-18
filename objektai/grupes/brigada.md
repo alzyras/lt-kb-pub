@@ -77,6 +77,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - susijęs iš Turmantas: 4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi.
 - susijęs iš Turmantas: Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.
 - susijęs iš [[objektai/zodynas/demobilizacija.md#claim-t-42443|demobilizacija]]: Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.
+- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,3 +97,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/grupes/Marijampolės batalionas]] priklause brigada
+- brigada keliavo_i [[objektai/vietos/Labanoras]]

@@ -33,7 +33,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   global_id: t-133639
   teiginys: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cėsiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Krokuva; llm_object: Sandomiras; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cėsiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Sandomiras'
   pagrindžia:
     - c-002
 
@@ -57,7 +58,8 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija; mentioned_place: Lukovas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: Sandomiras; llm_object: Lukovas; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija; mentioned_place: Lukovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] surengė žygį į Sandomiras'
   pagrindžia:
     - c-003
 
@@ -69,9 +71,13 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta, nes citata mini Sandomirą, o ne Sandomiro žemę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mazovija; llm_object: Sandomiras'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] priklausė Sandomiras'
   pagrindžia:
     - c-004
+- susijęs iš Krokuva: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
+- susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
+- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184528|Lenkai]]: Pasak Lietuvos istorikų, Kazimieras negavęs lenkų pritarimo slaptai iškeliavo iš Sandomiro į Brestą.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185588|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Pasak Lietuvos istorikų, Kazimieras be lenkų pritarimo slapta iškeliavo iš Sandomiro į Brestą.
 - susijęs iš [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu.md#claim-t-186622|Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]: Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos.
@@ -102,6 +108,9 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 - susijęs iš Lvovas: Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos.
 - susijęs iš Poznanė: Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54792|Municipalinė teisėtvarka]]: Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
+- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -193,3 +202,10 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Sandomiras
+- [[objektai/asmenys/Vytenis]] surenge_zygi_i Sandomiras
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Sandomiras
+- [[objektai/asmenys/Vytenis]] puole Sandomiras
+- [[objektai/grupes/Lenkai]] priklause Sandomiras

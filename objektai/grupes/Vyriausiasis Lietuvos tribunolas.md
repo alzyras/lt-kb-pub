@@ -120,3 +120,6 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Vyriausiasis Lietuvos tribunolas priklause [[objektai/vietos/Lietuva]]

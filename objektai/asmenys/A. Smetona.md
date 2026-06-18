@@ -55,7 +55,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77966
   teiginys: 'Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. Smetonos valdžios reprezentaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/A. Smetona|A. Smetona]] valdė Lietuva'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -83,13 +84,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad A. Smetona išvyko į Berlyną.
 
 <a id="claim-t-77968"></a>
 - t-004
@@ -180,13 +181,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: 318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=11
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim apibendrina keliones po Lietuvos miestelius, nors citatoje minimi miesteliai nėra atskiri kandidatai.
 
 <a id="claim-t-77973"></a>
 - t-009
@@ -221,13 +222,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Lietuvos valstybę kaip A. Smetonos valdomą.
 
 <a id="claim-t-77975"></a>
 - t-011
@@ -326,7 +327,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77980
   teiginys: '1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; llm_object: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/A. Smetona|A. Smetona]] keliavo į Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „A. Smetona keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
@@ -415,7 +416,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77985
   teiginys: '1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys su aiškiu veikėju, data ir rezultatu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Berlynas; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Berlynas; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Berlynas; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/A. Smetona|A. Smetona]] keliavo į Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys su aiškiu veikėju, data ir rezultatu.'
@@ -431,6 +433,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Anglija: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Ministerių kabinetas.md#claim-t-19943|Ministerių kabinetas]]: 1928 m. gegužės 15 d. A. Smetona, pritariamas viso Ministerių kabineto, nauja konstitucija įteisino savo viršenybę prieš Seimą.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
@@ -651,6 +654,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 - susijęs iš [[objektai/zodynas/liaudies priešai.md#claim-t-22213|liaudies priešai]]: Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.
 - susijęs iš [[objektai/zodynas/vienvaldystė.md#claim-t-77809|vienvaldystė]]: Augustinas Voldemaras, būdamas premjeru ir užsienio reikalų ministru, konfliktavo su ministrais ir ėmė pretenduoti į vienvaldystę.
+- susijęs iš [[objektai/asmenys/Jeronimas Plečkaitis.md#claim-t-26446|Jeronimas Plečkaitis]]: Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -692,13 +696,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Lietuvos valstybę kaip A. Smetonos valdomą.
     - t-005
 
 - c-003
@@ -931,13 +935,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Berlynas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Berlynas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Berlynas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad A. Smetona išvyko į Berlyną.
     - t-002
 
 - c-011
@@ -1173,13 +1177,13 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   irodymo_stiprumas: 0.00
   saltinio_vieta: 318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=11
-  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.70
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: A. Smetona: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim apibendrina keliones po Lietuvos miestelius, nors citatoje minimi miesteliai nėra atskiri kandidatai.
     - t-019
 
 - c-020
@@ -1225,4 +1229,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- A. Smetona keliavo_i [[objektai/vietos/Berlynas]]
+- A. Smetona mire [[objektai/vietos/Klivlandas]]
+- A. Smetona valde [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Ministerių kabinetas]] reme A. Smetona
+- [[objektai/asmenys/Jeronimas Plečkaitis]] buvo_priesas A. Smetona
 - A. Smetona keliavo_i [[objektai/vietos/Lietuva]]

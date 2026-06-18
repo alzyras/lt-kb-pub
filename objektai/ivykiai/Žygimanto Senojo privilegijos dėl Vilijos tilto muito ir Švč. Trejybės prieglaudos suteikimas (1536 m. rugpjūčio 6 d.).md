@@ -46,19 +46,19 @@ Nenurodyta
   global_id: t-86879
   teiginys: 'Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.'
   sudarymo_pagrindimas: 'Citata remia Jono Hozijaus paskyrimą ir veiklą, o pradinis sakinys buvo ilgas ir triukšmingas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 742590-743945; hash=10929943c40fe82d8eeed3f48fc99c844ebb2a2e02f3044012a1e2b6919a8ce5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Hozijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jonas Hozijus: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Jonas Hozijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jonas Hozijus: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Hozijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Senasis paskyrė Joną Hozijų.
 
 <a id="claim-t-86880"></a>
 - t-002
@@ -272,13 +272,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 742590-743945; hash=10929943c40fe82d8eeed3f48fc99c844ebb2a2e02f3044012a1e2b6919a8ce5; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Hozijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jonas Hozijus: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Jonas Hozijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Jonas Hozijus: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jonas Hozijus: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Senasis paskyrė Joną Hozijų.
     - t-005
 
 - c-004

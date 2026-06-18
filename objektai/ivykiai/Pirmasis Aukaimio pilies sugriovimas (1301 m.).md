@@ -45,26 +45,26 @@ Nenurodyta
   global_id: t-66824
   teiginys: 'Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau, nes citata atskiria nužudytuosius nuo į nelaisvę paimtų moterų ir vaikų.'
-  susije_objektai: 'mentioned_place: Aukaimis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
+  susije_objektai: 'mentioned_place: Aukaimis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; llm_object: Aukaimis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e84c13a74c1ce48a63d9f7431a0b110ed7df99d292ea9c2871ee4a66ee4d69f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumas: keliavo_i -> Ragainė: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis Aukaimio pilies sugriovimas (1301 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis Aukaimio pilies sugriovimas (1301 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pinas buvo pasiųstas pas Ragainės komtūrą, todėl kelionės tikslas siejamas su Ragaine.
 
 <a id="claim-t-66825"></a>
 - t-002
   global_id: t-66825
   teiginys: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė; llm_object: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1301 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, pilnas ir paremtas citata.'
@@ -73,13 +73,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607850-608593; hash=c87298c5a22cf67172ab8b122cc5161b4f5d5154b1863fae42370db81e32a7e8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis Aukaimio pilies sugriovimas (1301 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis Aukaimio pilies sugriovimas (1301 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Aukaimis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo brolių pasirengimą užpulti Aukaimio pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -125,21 +125,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e84c13a74c1ce48a63d9f7431a0b110ed7df99d292ea9c2871ee4a66ee4d69f5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumas: keliavo_i -> Ragainė: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis Aukaimio pilies sugriovimas (1301 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis Aukaimio pilies sugriovimas (1301 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pinas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pinas buvo pasiųstas pas Ragainės komtūrą, todėl kelionės tikslas siejamas su Ragaine.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 607850-608593; hash=c87298c5a22cf67172ab8b122cc5161b4f5d5154b1863fae42370db81e32a7e8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmasis Aukaimio pilies sugriovimas (1301 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis Aukaimio pilies sugriovimas (1301 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Aukaimis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo brolių pasirengimą užpulti Aukaimio pilį.

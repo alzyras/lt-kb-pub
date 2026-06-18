@@ -74,7 +74,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108282
   teiginys: 'Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai susijęs su pranciškonais ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -119,7 +119,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-009
   global_id: t-108287
   teiginys: 'Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.'
-  susije_objektai: 'mentioned_place: Saksonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Saksonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-018
   irodymo_stiprumas: 0.00
@@ -137,7 +137,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-010
   global_id: t-108288
   teiginys: 'Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
@@ -162,13 +162,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27d195840489d1e00e0898b549742770f291ff6bfa3c1513eeb9a76ccd68bc1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai vadinamas Lietuvos valdovu.
 
 <a id="claim-t-108290"></a>
 - t-012
@@ -212,7 +212,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108293
   teiginys: 'Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir OCR pažeistas, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-035
   irodymo_stiprumas: 0.00
@@ -340,7 +341,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108302
   teiginys: 'Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pataisytas pagal citatą.'
-  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-013
 
@@ -368,7 +369,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108305
   teiginys: 'Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.'
   sudarymo_pagrindimas: 'Bibliografinis fragmentas pakeistas citatos remiamu faktu apie pranciškoną.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Trakai; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas pakeistas citatos remiamu faktu apie pranciškoną.'
@@ -377,13 +379,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=257fa90f3e089ab77b50d6ca43be3f49269b96490bdb1e07db5467da6547abd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saksonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Saksonija: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Saksonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas citatoje vadinamas lietuvių karaliumi.
 
 <a id="claim-t-108306"></a>
 - t-027
@@ -396,13 +398,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas Vilnių vadina savo karališkuoju miestu.
 
 <a id="claim-t-108307"></a>
 - t-028
@@ -439,7 +441,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108309
   teiginys: 'Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.'
   sudarymo_pagrindimas: 'Pašalintas dokumento antraštės triukšmas ir paliktas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Saksonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-018
 
@@ -694,8 +696,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108326
   teiginys: 'Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo apie asmenį; paliktas aiškus citatos faktas, susijęs su pranciškonu.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1377 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pranciškonų ordinas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo apie asmenį; paliktas aiškus citatos faktas, susijęs su pranciškonu.'
@@ -741,13 +742,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 405292-405726; hash=c23743734ba705485be0dfec38fdbeee0f6216266135c6ac48bb999fd263409b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo pranciškonus įsikūrusius Vilniaus vienuolyne.
 
 <a id="claim-t-108329"></a>
 - t-048
@@ -775,19 +776,20 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] keliavo į Vilnius; [[objektai/asmenys/Goštautas|Goštautas]] rėmė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-036
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=257fa90f3e089ab77b50d6ca43be3f49269b96490bdb1e07db5467da6547abd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas citatoje vadinamas lietuvių karaliumi.
 
 <a id="claim-t-187741"></a>
 - t-050
@@ -797,7 +799,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vilniaus pranciškonų kilmę ir vienuolyno vietą. Legenda apie Petrą Goštautą neįtraukta, nes ji nėra šio teiginio pagrindas.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1387 m.; įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Vilniaus pranciškonų kilmę ir vienuolyno vietą. Legenda apie Petrą Goštautą neįtraukta, nes ji nėra šio teiginio pagrindas.'
@@ -806,13 +809,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 405292-405726; hash=c23743734ba705485be0dfec38fdbeee0f6216266135c6ac48bb999fd263409b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=110
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas Vilnių vadina savo karališkuoju miestu.
 
 <a id="claim-t-187742"></a>
 - t-051
@@ -822,19 +825,20 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pasakojimas paliktas su metraščio atribucija, nes šalia esantis komentaras jį sieja su legenda. Nepridėtas teiginys apie Romos tikėjimo atnešimą į Lietuvą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tverė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tverė; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] keliavo į Vilnius'
   pagrindžia:
     - c-038
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128225-128726; hash=a938a54848d75be0233a37c6bc6e6361cc3668c6b477a1f5b3b74873e511ec3d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje pasakojama, kad pranciškonai buvo pakviesti į Vilnių.
 
 <a id="claim-t-187743"></a>
 - t-052
@@ -844,19 +848,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinio konflikto ir priešiško vaizdavimo pasakojimą reikia priskirti šaltiniui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Maskva'
   pagrindžia:
     - c-039
   irodymo_stiprumas: 0.00
   saltinio_vieta: 132185-132784; hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mažesniųjų brolių atstovai stojo ginti Kryžiuočių ordino.
 
 <a id="claim-t-187744"></a>
 - t-053
@@ -879,7 +883,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=41
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86508|Romos tikėjimas graikų apeigų tikėjimas]]: Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.
+- susijęs iš [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas.md#claim-t-86572|Stabmeldystė pagoniškas tikėjimas]]: Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173207|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54987|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų.
+- susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55096|Vilniaus prastuomenė]]: Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.
+- susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55145|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
+- susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-81828|Vilniaus pranciškonų nužudymas apie 1345 m.]]: 1341 m. Vilniaus miestiečiai sukurstė totorius pulti pranciškonus ir kartu su jais naujame vienuolyne nukankino 36 vienuolius bei Goštautą.
+- susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187542|pagonys]]: Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183838|Algirdas (Lietuvos valdovas)]]: Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176359|Gediminas]]: Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176365|Gediminas]]: Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.
@@ -934,6 +945,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187542|pagonys]]: Lietuvos metraščio pasakojime Vilniaus miestiečiai pagonys, Algirdui žygiuojant prieš Maskvą, sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/zodynas/pagonys.md#claim-t-187543|pagonys]]: Lietuvos metraščio pasakojime Petras Goštautas prašė Algirdo nubausti pagonis, kurie esą žiauriai nužudė nekaltus pranciškonų vienuolius.
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
+- susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55146|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą.
+- susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35029|Andrius Vosylius Jastrzębiecas]]: Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
@@ -1046,6 +1059,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - susijęs iš [[objektai/zodynas/in partibus infidelium.md#claim-t-86589|in partibus infidelium]]: Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.
 - susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
 - susijęs iš [[objektai/zodynas/rusų tikėjimas.md#claim-t-187559|rusų tikėjimas]]: Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
+- susijęs iš Vilnius: Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
+- susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187477|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
+- susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55095|Vilniaus prastuomenė]]: Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183838|Algirdas (Lietuvos valdovas)]]: Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš [[objektai/paprociai/Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas.md#claim-t-87192|Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas]]: Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1655,13 +1676,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=27d195840489d1e00e0898b549742770f291ff6bfa3c1513eeb9a76ccd68bc1c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas tiesiogiai vadinamas Lietuvos valdovu.
     - t-046
 
 - c-023
@@ -1738,13 +1759,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 405292-405726; hash=c23743734ba705485be0dfec38fdbeee0f6216266135c6ac48bb999fd263409b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumas: gyveno -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo pranciškonus įsikūrusius Vilniaus vienuolyne.
     - t-040
 
 - c-025
@@ -1830,13 +1851,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas Vilnių vadina savo karališkuoju miestu.
     - t-036
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=44655a4a4a920f84d56227e2454a5b3f41e3d4398382fcf58e1cd51b9aa9d600; match=fallback; occurrences=0
@@ -2108,13 +2129,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=257fa90f3e089ab77b50d6ca43be3f49269b96490bdb1e07db5467da6547abd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saksonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Saksonija: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Saksonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas citatoje vadinamas lietuvių karaliumi.
     - t-015
 
 - c-036
@@ -2162,13 +2183,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=257fa90f3e089ab77b50d6ca43be3f49269b96490bdb1e07db5467da6547abd3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: buvo_valdovas -> Lietuviai: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Gediminas citatoje vadinamas lietuvių karaliumi.
     - t-050
 
 - c-038
@@ -2192,13 +2213,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 405292-405726; hash=c23743734ba705485be0dfec38fdbeee0f6216266135c6ac48bb999fd263409b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=110
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_miesta -> Vilnius: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Gediminas Vilnių vadina savo karališkuoju miestu.
     - t-051
 
 - c-039
@@ -2224,13 +2245,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128225-128726; hash=a938a54848d75be0233a37c6bc6e6361cc3668c6b477a1f5b3b74873e511ec3d; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje pasakojama, kad pranciškonai buvo pakviesti į Vilnių.
     - t-052
 
 - c-040
@@ -2250,13 +2271,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   irodymo_stiprumas: 0.00
   saltinio_vieta: 132185-132784; hash=3c33f68940296a541586ea95e0943508195a2a53a0a224a7ebe595c281780f03; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranciškonų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pranciškonų ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Mažesniųjų brolių atstovai stojo ginti Kryžiuočių ordino.
     - t-053
   irodymo_stiprumas: 0.00
   saltinio_vieta: 438271-438602; hash=8e655480490c2174b9d3691a631cfd1236e0b55ab25d97752d632b053b3099a0; match=whitespace_regex
@@ -2270,5 +2291,15 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškonų ordinas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Pranciškonų ordinas keliavo_i [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vilniaus prastuomenė]] puole Pranciškonų ordinas
+- [[objektai/asmenys/Petras Goštautas]] gyne Pranciškonų ordinas
+- Pranciškonų ordinas reme [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Totoriai]] puole Pranciškonų ordinas
+- [[objektai/grupes/Vilniaus miestiečių luomas]] puole Pranciškonų ordinas
+- [[objektai/asmenys/Gediminas]] reme Pranciškonų ordinas
 - Pranciškonų ordinas gyveno [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]] reme Pranciškonų ordinas
+- Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytenis]] paskyre Pranciškonų ordinas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] reme Pranciškonų ordinas

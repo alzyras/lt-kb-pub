@@ -123,3 +123,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 793332-793588; hash=09b557ebd8daac5e1671e83842368338611f7d7442c81cf4f3cd8a3f11b19018; match=exact
   sprendimo_priezastis: auto
+
+## Ryšiai
+- Antanas Šukys kariavo_pries [[objektai/grupes/Lenkai]]

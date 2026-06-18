@@ -28,7 +28,8 @@ periodo_grupes:
 - t-001
   global_id: t-40248
   teiginys: 'K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.'
-  susije_objektai: 'mentioned_place: Tauragnai; mentioned_place: Utena'
+  susije_objektai: 'llm_object: Utena; llm_object: Tauragnai; mentioned_place: Tauragnai; mentioned_place: Utena'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Ladyga|K. Ladyga]] keliavo į Utena; [[objektai/asmenys/K. Ladyga|K. Ladyga]] siuntė į Tauragnai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -36,13 +37,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 756079-756283; hash=9dfcb618c93e0e414fbd0cc25d9a9a19af805280ac948d1a9cb8a8432ded49e1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tauragnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Ladyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Tauragnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Ladyga" parinktas kaip owner_note_path. Targetas "Tauragnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Utena: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad K. Ladyga su likusiais vyko į Uteną.
 
 <a id="claim-t-40249"></a>
 - t-002
@@ -68,19 +69,20 @@ periodo_grupes:
   global_id: t-40250
   teiginys: 'I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Zarasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/brigada|brigada]]'
+  susije_objektai: 'mentioned_place: Zarasai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; llm_object: Zarasai; llm_object: [[objektai/grupes/Rusai|Rusai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Ladyga|K. Ladyga]] siuntė į Zarasai; [[objektai/asmenys/K. Ladyga|K. Ladyga]] puolė [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 770150-770438; hash=b0402c7a83f9ff9c7bae65bcccadfbd2dab1a6da937b0e1a8c70fc5d80e1e254; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zarasai: 0.85
+  ryšio_patikimumas: siunte_i -> Zarasai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Ladyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Zarasai: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Ladyga" parinktas kaip owner_note_path. Targetas "Zarasai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zarasai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: K. Ladygos įsakytas puolimas buvo nukreiptas Zarasų kryptimi.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49399|K. Škirpa]]: K. Škirpos vadovaujamai kairiajai kolonai buvo įsakyta pulti Mukulių dvaro, Medinių, Sniegiškių, Štadvilių, Jaunaikių ir Krasnos kryptimi.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
@@ -131,13 +133,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 756079-756283; hash=9dfcb618c93e0e414fbd0cc25d9a9a19af805280ac948d1a9cb8a8432ded49e1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tauragnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Ladyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Tauragnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Ladyga" parinktas kaip owner_note_path. Targetas "Tauragnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Utena: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Utena: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad K. Ladyga su likusiais vyko į Uteną.
     - t-002
 
 - c-003
@@ -168,10 +170,16 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 770150-770438; hash=b0402c7a83f9ff9c7bae65bcccadfbd2dab1a6da937b0e1a8c70fc5d80e1e254; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zarasai: 0.85
+  ryšio_patikimumas: siunte_i -> Zarasai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Ladyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Zarasai: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Ladyga" parinktas kaip owner_note_path. Targetas "Zarasai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: K. Ladyga: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Zarasai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: K. Ladygos įsakytas puolimas buvo nukreiptas Zarasų kryptimi.
+
+## Ryšiai
+- K. Ladyga keliavo_i [[objektai/vietos/Utena]]
+- K. Ladyga siunte_i [[objektai/vietos/Tauragnai]]
+- K. Ladyga siunte_i [[objektai/vietos/Zarasai]]
+- K. Ladyga puole [[objektai/grupes/Rusai]]

@@ -75,7 +75,8 @@ Nenurodyta
   global_id: t-71680
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškiai sieja NKVD su sovietizavimo teroru ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: SSRS; llm_object: SSRS'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] siuntė į SSRS'
   pagrindžia:
     - c-004
 
@@ -84,7 +85,8 @@ Nenurodyta
   global_id: t-71681
   teiginys: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie NKVD kariuomenę Lietuvoje ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie NKVD kariuomenę Lietuvoje ir tiksliai remiasi citata.'
@@ -176,6 +178,12 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101600|pyliavos]]: Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
 - susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101601|pyliavos]]: Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
 - susijęs iš [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai.md#claim-t-183466|stribai naikintojų batalionai liaudies gynėjai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
+- susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
+- susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74759|Lietuvos partizanai]]: 1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.
+- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101600|pyliavos]]: Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
+- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101601|pyliavos]]: Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
+- susijęs iš [[objektai/grupes/Naikintojų batalionai.md#claim-t-19956|Naikintojų batalionai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
+- susijęs iš [[objektai/grupes/NKGB.md#claim-t-65923|NKGB]]: NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -249,4 +257,19 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-- NKVD dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- NKVD puole [[objektai/vietos/Žuvinto palios]]
+- NKVD puole [[objektai/vietos/Trakiniai]]
+- [[objektai/grupes/Dzūkų būrys]] kariavo_pries NKVD
+- NKVD dalyvavo_musyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- NKVD dalyvavo_musyje [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/grupes/Lietuvos partizanai]] kariavo_pries NKVD
+- NKVD apgule [[objektai/vietos/Žuvinto palios]]
+- NKVD apgule [[objektai/vietos/Žuvinto ežeras]]
+- NKVD dalyvavo_musyje [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
+- NKVD puole [[objektai/grupes/Dainavos apygarda]]
+- NKVD siunte_i [[objektai/vietos/SSRS]]
+- NKVD puole [[objektai/vietos/Kalniškės miškas]]
+- NKVD kariavo_pries [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Naikintojų batalionai]] priklause NKVD
+- [[objektai/grupes/NKGB]] buvo_sajungininkas_su NKVD
+- NKVD keliavo_i [[objektai/vietos/Kėdainiai]]

@@ -35,13 +35,13 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: R. Jasas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "R. Jasas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių kovas su kalavijuočiais.
 
 <a id="claim-t-64831"></a>
 - t-002
@@ -59,7 +59,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   global_id: t-64832
   teiginys: 'R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie paskelbtą darbą ir jo teminį kontekstą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1260-1274; įvykio data: 1274 m.; įvykio data: 1959 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį apie paskelbtą darbą ir jo teminį kontekstą.'
@@ -128,13 +128,13 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: R. Jasas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "R. Jasas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kalavijuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kalavijuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo lietuvių kovas su kalavijuočiais.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 14005-14237; hash=48e9c9fb6299926c1eafa2239da868ea1a513d4ff243ca93fc708f53afbf281b; match=exact

@@ -36,20 +36,20 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 388279-389399; hash=3ae508129bbeaf3666665fd9772eb0ccb900f1923ef5828a165b348426ba63b8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Sembai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Skyriaus antraštė tiesiogiai nusako brolių karą su sembais.
 
 <a id="claim-t-89602"></a>
 - t-002
   global_id: t-89602
   teiginys: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, o OCR išnašos triukšmas pašalintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija; llm_object: Kvedenava'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -150,10 +150,10 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 388279-389399; hash=3ae508129bbeaf3666665fd9772eb0ccb900f1923ef5828a165b348426ba63b8; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Sembai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Skyriaus antraštė tiesiogiai nusako brolių karą su sembais.

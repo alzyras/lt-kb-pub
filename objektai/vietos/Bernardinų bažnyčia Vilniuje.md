@@ -60,7 +60,8 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
 - t-002
   global_id: t-55246
   teiginys: 'Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila II|Mikalojus Radvila II]]; mentioned_place: Borisovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila II|Mikalojus Radvila II]]; mentioned_place: Borisovas; mentioned_place: Vilnius; llm_object: Bernardinų bažnyčia Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila II|Mikalojus Radvila II]] pastatė Bernardinų bažnyčia Vilniuje'
   temporaliniai_duomenys: 'įvykio data: 1500 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -68,13 +69,13 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   irodymo_stiprumas: 0.00
   saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Bernardinų bažnyčia Vilniuje: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bernardinų bažnyčia Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja Mikalojų Radvilą II su bažnyčios nauju pamūrijimu.
 
 <a id="claim-t-55247"></a>
 - t-003
@@ -194,13 +195,13 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   irodymo_stiprumas: 0.00
   saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Bernardinų bažnyčia Vilniuje: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila II: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bernardinų bažnyčia Vilniuje: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai sieja Mikalojų Radvilą II su bažnyčios nauju pamūrijimu.
     - t-003
 
 - c-003
@@ -280,3 +281,6 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila II]] pastate Bernardinų bažnyčia Vilniuje

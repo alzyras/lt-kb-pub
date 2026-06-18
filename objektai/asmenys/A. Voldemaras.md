@@ -184,7 +184,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   global_id: t-78003
   teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie bandymus grąžinti Voldemarą į valdžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Zarasai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; llm_object: Paryžius; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Zarasai; llm_object: Zarasai'
+  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] rėmė [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; [[objektai/asmenys/A. Voldemaras|A. Voldemaras]] keliavo į Paryžius; [[objektai/asmenys/A. Voldemaras|A. Voldemaras]] keliavo į Zarasai'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie bandymus grąžinti Voldemarą į valdžią.'
@@ -193,13 +194,13 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Voldemarininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Voldemarininkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Voldemaras" parinktas kaip owner_note_path. Targetas "Voldemarininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> A. Voldemaras: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voldemarininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: A. Voldemaras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Voldemarininkų bandymas pučais grąžinti A. Voldemarą į valdžią tiesiogiai rodo paramą jam.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
@@ -356,13 +357,13 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   irodymo_stiprumas: 0.00
   saltinio_vieta: 330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Voldemarininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Voldemaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Voldemarininkai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Voldemaras" parinktas kaip owner_note_path. Targetas "Voldemarininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> A. Voldemaras: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Voldemarininkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: A. Voldemaras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Voldemarininkų bandymas pučais grąžinti A. Voldemarą į valdžią tiesiogiai rodo paramą jam.
     - t-001
 
 - c-006
@@ -475,3 +476,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   ryšio_subjekto_parinkimas: A. Voldemaras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=92
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Voldemaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- A. Voldemaras keliavo_i [[objektai/vietos/Paryžius]]
+- [[objektai/grupes/Voldemarininkai]] reme A. Voldemaras
+- A. Voldemaras keliavo_i [[objektai/vietos/Zarasai]]

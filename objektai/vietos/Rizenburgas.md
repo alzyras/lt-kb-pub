@@ -24,19 +24,21 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   global_id: t-58716
   teiginys: 'Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir nereikalinga atribucija.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  semantiniai_rysiai: 'Rizenburgas priklausė Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dc2706377c8525b8b0403398f56c34d378b0801853ba9d6a4abe582df6fe29c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rizenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rizenburgas" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rizenburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo, kad Rizenburgas buvo Prūsijos žemėje.
+- susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
@@ -67,10 +69,14 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dc2706377c8525b8b0403398f56c34d378b0801853ba9d6a4abe582df6fe29c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rizenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rizenburgas" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsija: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rizenburgas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė nurodo, kad Rizenburgas buvo Prūsijos žemėje.
+
+## Ryšiai
+- [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]] pastate Rizenburgas
+- Rizenburgas priklause [[objektai/vietos/Prūsija]]

@@ -47,7 +47,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   global_id: t-182804
   teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio.'
   sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir išlaikyti citatos pagrįstą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-014
 
@@ -92,7 +93,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   global_id: t-182812
   teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Jogailos valdžios perėmimą.'
-  susije_objektai: 'family: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-017
@@ -123,8 +124,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
-  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lietuva'
+  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenkija; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1385 m.; valdymo laikotarpis: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
@@ -154,7 +155,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra interpretacinis, todėl reikia aiškios šaltinio autorystės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -247,7 +248,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Jogailos išvykimą į Krokuvą 1386 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gardinas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Gniezno'
+  susije_objektai: 'llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gardinas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Gniezno'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Jogailos išvykimą į Krokuvą 1386 m.'
@@ -406,7 +408,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pataisyti kalbą ir OCR klaidas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
   pagrindžia:
     - c-032
 
@@ -445,7 +447,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, sakinys suformuluotas kaip savarankiškas faktas.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
   pagrindžia:
     - c-001
@@ -458,7 +460,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė netaisyklinga ir perteikia autoriaus vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krėva; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krėva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-035
 
@@ -494,7 +497,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir per ilga.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-038
 
@@ -506,7 +510,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Krėva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Krėva; [[objektai/asmenys/Jogaila|Jogaila]] siuntė į Vilnius'
   pagrindžia:
     - c-039
 
@@ -569,7 +574,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir turi OCR skaidymo klaidų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Lietuva'
   pagrindžia:
     - c-044
 
@@ -605,7 +611,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir pagrįstas citatos informacija.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Sanokas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Edigejus|Edigejus]]; mentioned_place: Austrija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Sanokas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Edigejus|Edigejus]]; mentioned_place: Austrija'
   semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Elžbieta|Elžbieta]]'
   pagrindžia:
     - c-047
@@ -669,12 +675,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-052
-- susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64242|Vilhelmas Habsburgas]]: Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.
-- susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179668|Skirgaila]]: Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.
-- susijęs iš [[objektai/asmenys/Elžbieta Granauskaitė.md#claim-t-35056|Elžbieta Granauskaitė]]: Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179646|Skirgaila]]: Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.
-- susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
+- susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179655|Skirgaila]]: Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179662|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179642|Skirgaila]]: Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179674|Skirgaila]]: Jogaila iki 1392 m. bandė valdyti Lietuvą per savo vietininką brolį Skirgailą.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179654|Skirgaila]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55082|Vilniaus miestiečių luomas]]: Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis.
+- susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186592|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.
+- susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. Vilniaus akte Lietuvos ir Rusios didikai prisiekė ištikimybę Jogailai ir pagalbą prieš bendrą karaliaus bei Lenkijos priešą.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.
@@ -1344,6 +1353,26 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - susijęs iš [[objektai/zodynas/įpėdinis.md#claim-t-187547|įpėdinis]]: Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dėl įpėdinių žinomas tik iš Bychovco kronikos.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86444|žiogriai statinių tvoros palisadai]]: Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais.
+- susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35879|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: Vytautas ir Jogaila sudarė su Brandenburgo elektoriumi Fridriku puolimo ir gynybos sutartį prieš kryžiuočius.
+- susijęs iš Brasta: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176662|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą.
+- susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179731|Švitrigaila]]: Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178940|Kryžiuočių ordinas]]: Trečiąja sutartimi Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaitijos dalį iki Dubysos.
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
+- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63795|Karigaila]]: Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
+- susijęs iš [[objektai/zodynas/tėviškė.md#claim-t-36844|tėviškė]]: 1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
+- susijęs iš Vitebskas: Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę.
+- susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
+- susijęs iš [[objektai/ivykiai/Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto.md#claim-t-186713|Krėvos susitarimas dėl Jogailos ir Jadvygos vedybų bei Lenkijos sosto]]: 1386 m. sausio 11 d. Volkovyske Lenkijos atstovai davė Jogailai raštą apie jo patvirtinimą Lenkijos karaliumi ir Jadvygos atidavimą jam į žmonas.
+- susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
+- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97461|Kaributas]]: Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179652|Skirgaila]]: Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu.
+- susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186575|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraštis pasakoja, kad Kęstutis po Algirdo mirties pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
+- susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186576|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraščio pasakojime Kęstutis po Algirdo mirties 1377 m. pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96722|Lietuvos bajorija]]: Švitrigaila be teismo užgrobdavo kai kurių bajorų turtus, todėl papiktino didžiąją Lietuvos krašto dalį.
+- susijęs iš [[objektai/grupes/Livonijos ponai.md#claim-t-187783|Livonijos ponai]]: Livonijos ponai buvo Jogailos kariuomenėje, kai Jogaila pasitiko Kęstutį su žemaičiais prie Trakų.
+- susijęs iš Luckas: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -2418,20 +2447,93 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-052
 
 ## Ryšiai
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]] vede Jogaila (kunigaikštis, XIV–XV a.)
-- [[objektai/grupes/Pamario kunigaikščių sąjunga]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) paskyre [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]] buvo_dukte Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Krokuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde_miesta [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Jadvyga Jogailienė]]
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Didžioji Lenkija]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Liublinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Ostrovas]]
+- Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Dobrino žemė]]
+- Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Brasta]]
+- Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Elžbieta]]
+- Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Jadvyga]]
+- Jogaila (kunigaikštis, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Suražas]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde [[objektai/vietos/Lietuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Elžbieta Granauskaitė]]
+- [[objektai/asmenys/Skirgaila]] buvo_brolis Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Aukokalnis]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Kaunas]]
+- Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Trakai]]
+- Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Trakai]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde [[objektai/vietos/Rusija]]
+- Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Lietuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Polockas]]
+- Jogaila (kunigaikštis, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lenkija]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) vede [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Skirgaila]] buvo_priesas Jogaila (kunigaikštis, XIV–XV a.)
-- [[objektai/asmenys/Elžbieta Granauskaitė]] vede Jogaila (kunigaikštis, XIV–XV a.)
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_sunus [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Merkinė]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Nemunas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Smolenskas]]
-- [[objektai/grupes/Švitrigailos šalininkai]] kariavo_pries Jogaila (kunigaikštis, XIV–XV a.)
-- Jogaila (kunigaikštis, XIV–XV a.) paskyre [[objektai/asmenys/Skirgaila]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Haličas]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Vroclavas]]
+- Jogaila (kunigaikštis, XIV–XV a.) sudare_sutarti_su [[objektai/grupes/Livonijos ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Ašmena]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
+- Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Mazovija]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde_teritorija [[objektai/vietos/Lietuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde_teritorija [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_sajungininkas_su Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) surenge_zygi_i [[objektai/vietos/Prūsija]]
+- Jogaila (kunigaikštis, XIV–XV a.) uzeme [[objektai/vietos/Gardinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubrovna]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
+- Jogaila (kunigaikštis, XIV–XV a.) reme [[objektai/asmenys/Skirgaila]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Prūsija]]
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_priesas [[objektai/grupes/Kryžiuočių ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) reme [[objektai/asmenys/Andrius Važila]]
+- Jogaila (kunigaikštis, XIV–XV a.) gyne [[objektai/vietos/Lietuva]]
+- Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/grupes/Švitrigailos šalininkai]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Kijevas]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Merkinė]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Krėva]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Volbožas]]
+- Jogaila (kunigaikštis, XIV–XV a.) valde [[objektai/vietos/Luckas]]
+- Jogaila (kunigaikštis, XIV–XV a.) siunte_i [[objektai/vietos/Lenčica]]
+- Jogaila (kunigaikštis, XIV–XV a.) gyne [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Skirgaila]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Hanulas]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Vitebskas]]
+- Jogaila (kunigaikštis, XIV–XV a.) sudare_sutarti_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]] reme Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] sudare_sutarti_su Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Švitrigaila]] buvo_priesas Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/grupes/Lenkai]] paskyre Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_priesas [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) kariavo_pries [[objektai/asmenys/Benediktas]]
+- [[objektai/asmenys/Karigaila]] buvo_sajungininkas_su Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/vietos/Vitebskas]] priklause Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) buvo_sajungininkas_su [[objektai/grupes/Kryžiuočių ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) reme [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Livonijos ponai]] buvo_sajungininkas_su Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] paskyre Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Kaributas]] gyne Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sajungininkas_su Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Skirgaila]] buvo_sajungininkas_su Jogaila (kunigaikštis, XIV–XV a.)
+- [[objektai/asmenys/Švitrigaila]] buvo_brolis Jogaila (kunigaikštis, XIV–XV a.)
+- Jogaila (kunigaikštis, XIV–XV a.) gyveno [[objektai/vietos/Liublinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) paskyre [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) reme [[objektai/grupes/Kryžiuočių ordinas]]

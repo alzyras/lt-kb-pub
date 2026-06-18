@@ -69,13 +69,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=042b28210469ccc1b918a4efcd9eeb8a2c93c545a879c8b6a024e694c5c650d2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Vilnius: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vilniaus magistratas: nearest_actor, group, gap=6
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vilniaus magistratas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dievo Kūno koplyčia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dievo Kūno koplyčia" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85887"></a>
 - t-003
@@ -104,7 +104,7 @@ amziai:
   global_id: t-85889
   teiginys: 'Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'valdymo pradžia: 1601 m.; valdymo pradžia: 1633 m.; valdymo pradžia: 1664 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kūnas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
@@ -202,13 +202,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=042b28210469ccc1b918a4efcd9eeb8a2c93c545a879c8b6a024e694c5c650d2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Vilnius: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_control_local_territory
-  ryšio_subjekto_parinkimas: Vilniaus magistratas: nearest_actor, group, gap=6
-  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Vilniaus magistratas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dievo Kūno koplyčia: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dievo Kūno koplyčia" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6f49583da11ba79beac0ffb5e3f3447686c73608337cedb0bf3422c69ce19839; match=fallback; occurrences=0

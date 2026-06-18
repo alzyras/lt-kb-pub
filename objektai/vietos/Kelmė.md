@@ -63,6 +63,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kelmė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
 - susijęs iš [[objektai/grupes/Žebenkšties rinktinė.md#claim-t-38912|Žebenkšties rinktinė]]: 1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.
+- susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -120,3 +121,6 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   ryšio_subjekto_parinkimas: Kelmė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Viena: mention_match, place, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kelmė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Kelmė

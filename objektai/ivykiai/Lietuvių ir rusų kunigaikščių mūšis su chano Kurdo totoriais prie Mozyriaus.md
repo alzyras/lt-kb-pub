@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata tiesiogiai remia Mozyriaus įtakos bei prijungimo chronologiją. Vertinamoji formuluotė neišplečiama.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Kijevas; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -78,13 +78,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c1795a1319b6e1656e31493264dd7abecb3b6caa0e3983486a5bed6d6997930b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Mozyrių su Lietuvos įtaka, nors tai silpnesnė formuluotė nei aiški politinė priklausomybė.
 
 <a id="claim-t-186689"></a>
 - t-003
@@ -192,10 +192,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c1795a1319b6e1656e31493264dd7abecb3b6caa0e3983486a5bed6d6997930b; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Lietuva: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mozyrius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sieja Mozyrių su Lietuvos įtaka, nors tai silpnesnė formuluotė nei aiški politinė priklausomybė.

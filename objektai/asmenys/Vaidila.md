@@ -83,6 +83,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   ryšio_subjekto_parinkimas: Vaidila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaidila" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182813|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179311|Lietuviai]]: Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172842|Vilniaus miestiečių luomas]]: Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.
@@ -217,3 +218,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   ryšio_subjekto_parinkimas: Vaidila: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaidila" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vaidila keliavo_i [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Dubrovno pavietas]] priklause Vaidila

@@ -40,19 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_place: Lietuva; mentioned_place: Skitija'
+  susije_objektai: 'llm_object: Skitija; mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_place: Lietuva; mentioned_place: Skitija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 695834-696565; hash=d7cef04374ce3c40f8ac985436f7be76ed4b6ef726b5c3a3d40227dc5d3d54ef; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jerim Berdis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jerim Berdis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)" parinktas kaip owner_note_path. Targetas "Jerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jerim Berdis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jerim Berdžio palydėjimą į Skitiją.
 
 <a id="claim-t-185573"></a>
 - t-002
@@ -84,19 +84,20 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkyta kalba ir aiškiai įvardytas Radvilos veiksmas bei rezultatas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Viena; llm_object: [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697005-697377; hash=df4674ea4ff9c7b5a5df2438a391f0807afe51a76895411180bccccc0f12fd14; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Mikalojus Radvila tiesiogiai veikia mūšyje, smogdamas priešams.
 
 ## Reikšmingi paminėjimai
 
@@ -141,13 +142,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 695834-696565; hash=d7cef04374ce3c40f8ac985436f7be76ed4b6ef726b5c3a3d40227dc5d3d54ef; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jerim Berdis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Jerim Berdis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)" parinktas kaip owner_note_path. Targetas "Jerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Skitija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jerim Berdis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skitija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Jerim Berdžio palydėjimą į Skitiją.
     - t-002
 
 - c-003
@@ -179,10 +180,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 697005-697377; hash=df4674ea4ff9c7b5a5df2438a391f0807afe51a76895411180bccccc0f12fd14; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): 0.85
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Mikalojus Radvila tiesiogiai veikia mūšyje, smogdamas priešams.
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila]] dalyvavo_musyje Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)

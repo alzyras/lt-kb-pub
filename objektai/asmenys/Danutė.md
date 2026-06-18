@@ -22,19 +22,20 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Danutės veiksmą, bet pradiniame teiginyje yra neaiškūs įvardžiai ir per daug detalių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; llm_object: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Danutė|Danutė]] gyveno Mazovija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 424664-425394; hash=b80eb5be4f3dcd664e8784eb93c5e79fda7b6a4f0dbf0de6ee03770e2b331a4a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Mazovija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Danutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Danutė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Danutė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Danutė įvardyta Mazovijos kunigaikščio žmona ir atpažįsta tėvą Mazovijoje, bet gyvenimas ten išvedamas netiesiogiai.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +66,13 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
   irodymo_stiprumas: 0.00
   saltinio_vieta: 424664-425394; hash=b80eb5be4f3dcd664e8784eb93c5e79fda7b6a4f0dbf0de6ee03770e2b331a4a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: gyveno -> Mazovija: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Danutė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Danutė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Danutė: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Danutė įvardyta Mazovijos kunigaikščio žmona ir atpažįsta tėvą Mazovijoje, bet gyvenimas ten išvedamas netiesiogiai.
+
+## Ryšiai
+- Danutė gyveno [[objektai/vietos/Mazovija]]

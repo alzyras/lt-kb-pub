@@ -87,3 +87,7 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   ryšio_subjekto_parinkimas: Ivanas Jermoliničius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Didžiojo Naugardo respublika: mention_match, group, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivanas Jermoliničius" parinktas kaip owner_note_path. Targetas "Didžiojo Naugardo respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Ivanas Jermoliničius sudare_sutarti_su [[objektai/asmenys/Švitrigaila]]
+- Ivanas Jermoliničius keliavo_i [[objektai/vietos/Vilnius]]

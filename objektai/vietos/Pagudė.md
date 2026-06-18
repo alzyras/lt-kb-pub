@@ -39,7 +39,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91224
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą įvykį.'
-  susije_objektai: 'location: Elbingas; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą įvykį.'
@@ -61,7 +61,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91225
   teiginys: 'Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata ir yra susijęs su Pagude.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; llm_object: Kristburgas'
   temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata ir yra susijęs su Pagude.'
@@ -70,50 +70,51 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22b1f40efa0e54b44e62a60596e6c9440f8b98476c368caf54d7f196ee59d6e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: puole -> Kristburgas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomanto vadovaujamoje kariuomenėje minimi sūduviai, o žygio riba nurodyta iki Kristburgo.
 
 <a id="claim-t-91226"></a>
 - t-004
   global_id: t-91226
   teiginys: 'Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.'
   sudarymo_pagrindimas: 'Per ilgas fragmentas sutrumpintas į aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 189973-190180; hash=c7e9cbb18bac34dd53fec5223d403ef7f369663336d01a4d5d8719cb61e8e6f1; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prūsų žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudė apibūdinta kaip Prūsų žemė.
 
 <a id="claim-t-91227"></a>
 - t-005
   global_id: t-91227
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Pagudės kilminguosius.'
-  susije_objektai: 'location: Elbingas; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_place: Elbingas'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91228"></a>
 - t-006
@@ -148,35 +149,37 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91230"></a>
 - t-008
   global_id: t-91230
   teiginys: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   sudarymo_pagrindimas: 'Citata palaiko Pagudės padėtį ir vakarinę siekio ribą.'
-  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Prūsų žemė; mentioned_place: Pasarė'
+  susije_objektai: 'llm_object: Prūsų žemė; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Prūsų žemė; mentioned_place: Pasarė; llm_object: Elbingas'
+  semantiniai_rysiai: 'Pagudė priklausė Prūsų žemė; Pagudė priklausė Elbingas'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471015; hash=645625a88d4e8646a0be1302736163a6e6b677c788265ea3b819d874663bee8e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heilsbergas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Heilsbergas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
-- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-183977|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
-- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-62962|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
-- susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
+  ryšio_patikimumas: priklause -> Pagudėnai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heilsbergo pilis buvo pagudėnų rankose.
+- susijęs iš Glotava: Glotava laikoma pietrytiniu Pagudės valsčiumi.
+- susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.
+- susijęs iš [[objektai/asmenys/Ditrichas (Kristburgo komtūras).md#claim-t-60102|Ditrichas (Kristburgo komtūras)]]: Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.
+- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60186|Numa]]: Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Kristburgo komtūras).md#claim-t-60102|Ditrichas (Kristburgo komtūras)]]: Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89912|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.
@@ -230,6 +233,9 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58796|prūsas Prūsa Prūsija]]: Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89160|Pagudėnai]]: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -268,23 +274,24 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 189973-190180; hash=c7e9cbb18bac34dd53fec5223d403ef7f369663336d01a4d5d8719cb61e8e6f1; match=exact
   sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> Prūsų žemė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prūsų žemė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pagudė apibūdinta kaip Prūsų žemė.
+    - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
   ryšio_patikimumas: susije_su -> Elbingas: 0.85
   ryšio_patikimumo_lygis: vidutinis
   ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
   ryšio_sprendimo_taisykle: rule_plain_mention
   ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=81
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=59
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-    - t-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08443d09dc597d48a8d9aaf894361f456219b80e927ecbbf1942e138caa19f60; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -332,13 +339,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=22b1f40efa0e54b44e62a60596e6c9440f8b98476c368caf54d7f196ee59d6e9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: puole -> Kristburgas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skomanto vadovaujamoje kariuomenėje minimi sūduviai, o žygio riba nurodyta iki Kristburgo.
     - t-006
 
 - c-005
@@ -388,13 +395,13 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 470565-471015; hash=645625a88d4e8646a0be1302736163a6e6b677c788265ea3b819d874663bee8e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Heilsbergas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Heilsbergas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Pagudėnai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heilsbergas: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Heilsbergo pilis buvo pagudėnų rankose.
     - t-005
 
 - c-007
@@ -417,13 +424,22 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagudė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] keliavo_i Pagudė
+- [[objektai/vietos/Glotava]] priklause Pagudė
+- Pagudė priklause [[objektai/vietos/Prūsų žemė]]
+- [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]] surenge_zygi_i Pagudė
+- [[objektai/asmenys/Derska]] gyveno Pagudė
+- [[objektai/asmenys/Numa]] gyveno Pagudė
+- [[objektai/grupes/Pagudėnai]] gyveno Pagudė
+- [[objektai/asmenys/Derska]] keliavo_i Pagudė
+- [[objektai/grupes/Pagudėnai]] puole Pagudė
+- Pagudė priklause [[objektai/vietos/Elbingas]]

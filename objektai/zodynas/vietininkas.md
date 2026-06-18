@@ -37,7 +37,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   global_id: t-176250
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Skirgailos paskyrimą ir titulą.'
-  susije_objektai: 'appointee: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Mazovija'
   pagrindžia:
     - c-004
 
@@ -63,7 +63,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   global_id: t-176255
   teiginys: 'Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo vietą, veikėją, paskyrimą ir titulavimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -226,19 +226,19 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'llm_object: Luckas; llm_object: Drohičinas; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Skirgaila: 0.86
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Skirgaila: nearest_after_predicate, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Skirgaila" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: paskyre -> Skirgaila: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila paskyrė Skirgailą savo vietininku.
 
 <a id="claim-t-184645"></a>
 - t-018
@@ -314,7 +314,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskirtas aiškus faktas apie vietininką, pašalinant perteklinę informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Stanislovas Strumila Petravičius|Stanislovas Strumila Petravičius]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Severskas; mentioned_place: Seversko žemė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Stanislovas Strumila Petravičius|Stanislovas Strumila Petravičius]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Severskas; mentioned_place: Seversko žemė; mentioned_place: Smolenskas; llm_object: Smolenskas'
   pagrindžia:
     - c-017
 
@@ -753,13 +753,13 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Skirgaila: 0.86
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
-  ryšio_targeto_parinkimas: Skirgaila: nearest_after_predicate, person, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Skirgaila" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumas: paskyre -> Skirgaila: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Jogaila paskyrė Skirgailą savo vietininku.
     - t-018
 
 - c-015

@@ -31,7 +31,8 @@ periodo_grupes:
   global_id: t-34819
   teiginys: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Mozūrija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; llm_object: Mozūrija; mentioned_place: Mozūrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]] vedė [[objektai/asmenys/Ringailė|Ringailė]]; [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -40,13 +41,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39488-39596; hash=c07a2e5d991d041e0581ec3b79567c05c380db664af685934a994ffc099ae2cd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ringailė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozūrų kunigaikštis Henrikas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ringailė: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozūrų kunigaikštis Henrikas" parinktas kaip owner_note_path. Targetas "Ringailė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Ringailė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mozūrų kunigaikštis Henrikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ringailė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 ## Reikšmingi paminėjimai
 
@@ -65,10 +66,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 39488-39596; hash=c07a2e5d991d041e0581ec3b79567c05c380db664af685934a994ffc099ae2cd; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ringailė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mozūrų kunigaikštis Henrikas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ringailė: mention_match, person, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mozūrų kunigaikštis Henrikas" parinktas kaip owner_note_path. Targetas "Ringailė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Ringailė: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mozūrų kunigaikštis Henrikas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Ringailė: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę.
+
+## Ryšiai
+- Mozūrų kunigaikštis Henrikas vede [[objektai/asmenys/Ringailė]]
+- Mozūrų kunigaikštis Henrikas buvo_valdovas [[objektai/vietos/Mozūrija]]

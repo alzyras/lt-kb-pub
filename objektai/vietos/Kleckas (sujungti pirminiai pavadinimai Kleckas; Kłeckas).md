@@ -31,19 +31,19 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
   global_id: t-173457
   teiginys: 'Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį terminą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kłeckas; mentioned_place: Naugardukas; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Naugardukas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kłeckas; mentioned_place: Naugardukas; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475350-475661; hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kłeckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): owner_note_path, place
-  ryšio_targeto_parinkimas: Kłeckas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas)" parinktas kaip owner_note_path. Targetas "Kłeckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Naugardukas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai pasiuntė būrį į Naugarduką.
 
 <a id="claim-t-173458"></a>
 - t-002
@@ -176,10 +176,10 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
   irodymo_stiprumas: 0.00
   saltinio_vieta: 475350-475661; hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kłeckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): owner_note_path, place
-  ryšio_targeto_parinkimas: Kłeckas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas)" parinktas kaip owner_note_path. Targetas "Kłeckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Naugardukas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai pasiuntė būrį į Naugarduką.

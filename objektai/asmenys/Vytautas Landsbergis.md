@@ -72,32 +72,33 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=047c67f812a8009116065bed6de0374a60d0dd391228e6bbe2087da9857fff82; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas Landsbergis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=120
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Landsbergio vadovaujama taryba priėmė nutarimą dėl Lietuvos Respublikos gynimo.
 
 <a id="claim-t-170248"></a>
 - t-004
   global_id: t-170248
   teiginys: 'Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   sudarymo_pagrindimas: 'Teiginį verta perrašyti taip, kad Vytautas Landsbergis būtų aiškus sakinio subjektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]] gynė Lietuva'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1129656-1129853; hash=d7ed66797d827869c25312b812b261df9627777af6085b9b6bea51a74ed1f36a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas Landsbergis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vytautas Landsbergis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: ATAS: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: ATAS pareigūnai tiesiogiai saugojo Vytautą Landsbergį.
 
 <a id="claim-t-170249"></a>
 - t-005
@@ -138,7 +139,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   global_id: t-170253
   teiginys: '1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/ATAS|ATAS]]'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/ATAS|ATAS]]; llm_object: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
+  semantiniai_rysiai: '[[objektai/grupes/ATAS|ATAS]] gynė [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -155,6 +157,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=47
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
 - susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13477|Lietuvos Persitvarkymo Sąjūdis]]: Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.
 - susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-183178|Rusijos Federacija]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas.md#claim-t-26398|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]: Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
@@ -167,6 +170,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - susijęs iš Baltarusija: 1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų.
 - susijęs iš Rusija: 1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
 - susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-183452|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13477|Lietuvos Persitvarkymo Sąjūdis]]: Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -258,13 +262,13 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1129656-1129853; hash=d7ed66797d827869c25312b812b261df9627777af6085b9b6bea51a74ed1f36a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas Landsbergis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyne -> Vytautas Landsbergis: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: ATAS: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: ATAS pareigūnai tiesiogiai saugojo Vytautą Landsbergį.
     - t-002
 
 - c-005
@@ -316,13 +320,13 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=047c67f812a8009116065bed6de0374a60d0dd391228e6bbe2087da9857fff82; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumas: gyne -> Lietuva: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas Landsbergis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=120
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Landsbergio vadovaujama taryba priėmė nutarimą dėl Lietuvos Respublikos gynimo.
     - t-006
 
 - c-007
@@ -351,3 +355,11 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   ryšio_targeto_parinkimas: Vilnius: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Landsbergis" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Borisas Jelcinas]] sudare_sutarti_su Vytautas Landsbergis
+- Vytautas Landsbergis sudare_sutarti_su [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/grupes/ATAS]] gyne Vytautas Landsbergis
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]] paskyre Vytautas Landsbergis
+- Vytautas Landsbergis keliavo_i [[objektai/vietos/Aušros vartai]]
+- Vytautas Landsbergis gyne [[objektai/vietos/Lietuva]]

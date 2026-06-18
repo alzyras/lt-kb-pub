@@ -45,7 +45,8 @@ amziai:
   global_id: t-99858
   teiginys: 'Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir nuorodos triukšmas, sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Vėluva'
   pagrindžia:
     - c-004
 
@@ -54,7 +55,8 @@ amziai:
   global_id: t-99859
   teiginys: '1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas; paliktas aiškus, citata paremtas faktas apie Vėluvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ragainė; llm_object: Vėluva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Vėluva; [[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo per ilgas; paliktas aiškus, citata paremtas faktas apie Vėluvą.'
@@ -75,7 +77,8 @@ amziai:
 - t-003
   global_id: t-99860
   teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena; llm_object: Vėluva'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Vėluva'
   pagrindžia:
     - c-004
 
@@ -84,26 +87,28 @@ amziai:
   global_id: t-99861
   teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su antraštės fragmentu; citata remia glaustesnį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Vėluva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] apgulė Vėluva; [[objektai/grupes/Sūduviai|Sūduviai]] apgulė Vėluva; [[objektai/grupes/Lietuviai|Lietuviai]] puolė Vėluva; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Vėluva'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 163457-164017; hash=3e8d76201cc699275c82db3f04c0805cf55f17548b3da3a735892493e18ebd99; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai nurodyti kaip pasiekę Vėluvos apylinkes.
 
 <a id="claim-t-99862"></a>
 - t-005
   global_id: t-99862
   teiginys: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia pilną faktą apie Vėluvos pilies apgulą.'
-  susije_objektai: 'object: Prieglius; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Vėluva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] apgulė Vėluva; [[objektai/grupes/Sūduviai|Sūduviai]] apgulė Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia pilną faktą apie Vėluvos pilies apgulą.'
@@ -112,32 +117,33 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Prieglius: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=20
-  ryšio_targeto_parinkimas: Prieglius: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Prieglius" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai yra įvardyti jungtinėje kariuomenėje, kuri apgulė Vėluvos pilį.
 
 <a id="claim-t-99864"></a>
 - t-006
   global_id: t-99864
   teiginys: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo; citata remia aiškų faktą apie pilies pastatymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva'
+  susije_objektai: 'llm_object: Vėluva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; llm_object: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Skalviai|Skalviai]] pastatė Vėluva; [[objektai/grupes/Sūduviai|Sūduviai]] pastatė Vėluva'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Lietuvos kariuomenė puolė Sembą.
 
 <a id="claim-t-99865"></a>
 - t-007
@@ -169,13 +175,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vėluva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skalviai įvardyti tarp genčių, pastačiusių Vėluvos pilį.
 
 <a id="claim-t-99867"></a>
 - t-009
@@ -200,20 +206,20 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 412844-413494; hash=a6e478a6c0456ffa9335acc22253055bd883b6c40fd867b1eec170f7d84280a8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įvardyti kariuomenėje, kuri aštuonias dienas laikė apsupusi Vėluvos pilį.
 
 <a id="claim-t-99869"></a>
 - t-011
   global_id: t-99869
   teiginys: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
   sudarymo_pagrindimas: 'Citata remia glaustą faktą apie Vėluvą, o pradinis teiginys apima ir kitus įvykius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia glaustą faktą apie Vėluvą, o pradinis teiginys apima ir kitus įvykius.'
@@ -222,13 +228,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai įėję sudegino miestą Vėluvos kontekste.
 
 <a id="claim-t-185213"></a>
 - t-013
@@ -251,9 +257,19 @@ amziai:
   ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Angerburgas: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Angerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175115|Sūduviai-jotvingiai]]: Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175125|Sūduviai-jotvingiai]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175115|Sūduviai-jotvingiai]]: Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175125|Sūduviai-jotvingiai]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.
+- susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62918|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62957|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis.
+- susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
+- susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
+- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Maudelis.md#claim-t-60386|Maudelis]]: Maudelis buvo Vėluvos pilininko Tirsko sūnus.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179257|Lietuviai]]: Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.
@@ -272,6 +288,8 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62956|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62957|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis.
 - susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113898|Mindaugas (valdovas, XIII a.)]]: 1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.
+- susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59959|Fridrichas Kvicas]]: 1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Quitzas.md#claim-t-87676|Fridrichas fon Quitzas]]: Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
@@ -315,6 +333,18 @@ amziai:
 - susijęs iš Tapiava: Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 - susijęs iš [[objektai/zodynas/bažnyčios visuotinybė.md#claim-t-58895|bažnyčios visuotinybė]]: 1274 m. pagudėnai, varmiai, notangai, bartai ir sembai grįžo į šventosios motinos bažnyčios visuotinybę.
+- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59959|Fridrichas Kvicas]]: 1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
+- susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62956|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.
+- susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
+- susijęs iš [[objektai/asmenys/Fridrichas fon Quitzas.md#claim-t-87676|Fridrichas fon Quitzas]]: Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš Semba: Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179322|Lietuviai]]: Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.
+- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60069|Tirskas]]: Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -388,13 +418,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lietuviai įėję sudegino miestą Vėluvos kontekste.
     - t-010
 
 - c-004
@@ -423,13 +453,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 412844-413494; hash=a6e478a6c0456ffa9335acc22253055bd883b6c40fd867b1eec170f7d84280a8; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai įvardyti kariuomenėje, kuri aštuonias dienas laikė apsupusi Vėluvos pilį.
     - t-001
     - t-003
 
@@ -500,13 +530,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Vėluva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skalviai įvardyti tarp genčių, pastačiusių Vėluvos pilį.
     - t-006
 
 - c-008
@@ -529,24 +559,24 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Lietuvos kariuomenė puolė Sembą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 163457-164017; hash=3e8d76201cc699275c82db3f04c0805cf55f17548b3da3a735892493e18ebd99; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vėluva: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai tiesiogiai nurodyti kaip pasiekę Vėluvos apylinkes.
     - t-012
 
 - c-009
@@ -567,13 +597,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 163457-164017; hash=3e8d76201cc699275c82db3f04c0805cf55f17548b3da3a735892493e18ebd99; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vėluva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėluva" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Vėluva: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad lietuviai pasiekė Vėluvos apylinkes.
     - t-005
 
 - c-010
@@ -594,13 +624,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Prieglius: 0.87
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
-  ryšio_sprendimo_taisykle: rule_siege_local_target
-  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=20
-  ryšio_targeto_parinkimas: Prieglius: nearest_after_predicate, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Prieglius" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
+  ryšio_patikimumas: apgule -> Vėluva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sūduviai yra įvardyti jungtinėje kariuomenėje, kuri apgulė Vėluvos pilį.
     - t-013
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=2f2a2a934a626fa70433ce1b3fb6026c45e62d035f08f91d5b192aad4dad22af; match=fallback; occurrences=0
@@ -616,4 +646,14 @@ amziai:
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] apgule Vėluva
 - [[objektai/grupes/Sūduviai]] apgule Vėluva
-- [[objektai/grupes/Sūduviai-jotvingiai]] apgule Vėluva
+- [[objektai/grupes/Lietuviai]] puole Vėluva
+- [[objektai/grupes/Nadruviai]] pastate Vėluva
+- [[objektai/grupes/Skalviai]] pastate Vėluva
+- [[objektai/grupes/Sūduviai]] pastate Vėluva
+- [[objektai/grupes/Sūduviai]] puole Vėluva
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Vėluva
+- [[objektai/grupes/Lietuviai]] keliavo_i Vėluva
+- [[objektai/asmenys/Henrikas Tupadelis]] gyne Vėluva
+- [[objektai/asmenys/Tirskas]] valde_miesta Vėluva
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Vėluva
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] puole Vėluva

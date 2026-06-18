@@ -42,7 +42,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   saltinio_vieta: 251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact
   sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 ## Reikšmingi paminėjimai
 
@@ -105,6 +104,3 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   irodymo_stiprumas: 0.00
   saltinio_vieta: 251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact
   sprendimo_priezastis: auto
-
-## Ryšiai
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] vede Lauras

@@ -22,7 +22,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   global_id: t-31222
   teiginys: 'Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
   sudarymo_pagrindimas: 'Kadangi teiginys yra vertinamojo pobūdžio, pridėta aiški šaltinio atribucija.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
+  susije_objektai: 'llm_object: Dauguva; llm_object: Dniepras; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
+  semantiniai_rysiai: '[[objektai/grupes/Krivičiai|Krivičiai]] gyveno Dniepras; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Dauguva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 988 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kadangi teiginys yra vertinamojo pobūdžio, pridėta aiški šaltinio atribucija.'
@@ -31,13 +32,13 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d77e43fa4dde08bf9bd86388ee591fb737cb94cd9d0a7059522f983f4ea5ff7d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krivičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krivičiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krivičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krivičių gyvenamoji erdvė tiesiogiai nurodyta Dauguvos aukštupiuose.
 - susijęs iš [[objektai/autoriai/Zinkevičius Z.md#claim-t-60829|Zinkevičius Z]]: Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
 - susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
 - susijęs iš Gardino žemė: Gardino žemė su artimiausiomis pilimis buvo pradinis Mindaugo laimikis užimant Lietuvai artimiausias krivičių sritis.
@@ -74,13 +75,15 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d77e43fa4dde08bf9bd86388ee591fb737cb94cd9d0a7059522f983f4ea5ff7d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krivičiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krivičiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Dauguva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Krivičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Krivičių gyvenamoji erdvė tiesiogiai nurodyta Dauguvos aukštupiuose.
 
 ## Ryšiai
-- Krivičiai uzeme [[objektai/vietos/Naugardukas]]
+- Krivičiai gyveno [[objektai/vietos/Naugardukas]]
+- Krivičiai gyveno [[objektai/vietos/Dauguva]]
+- Krivičiai gyveno [[objektai/vietos/Dniepras]]

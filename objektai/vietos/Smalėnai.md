@@ -41,6 +41,7 @@ tags:
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 - susijęs iš Varėna: Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.
 - susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
+- susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,3 +67,6 @@ tags:
   ryšio_subjekto_parinkimas: Smalėnai: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=70
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smalėnai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/3-ioji divizija]] gyne Smalėnai

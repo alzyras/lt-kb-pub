@@ -30,19 +30,19 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   global_id: t-86096
   teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytą Pauliaus iš Olivos veiksmą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pelplinas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pelplinas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jordanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jordanas: mention_match, author, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jordanas iš Pelplino stojo ginti kryžiuočių.
 
 <a id="claim-t-86097"></a>
 - t-002
@@ -167,13 +167,13 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   irodymo_stiprumas: 0.00
   saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jordanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jordanas: mention_match, author, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jordanas iš Pelplino: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jordanas iš Pelplino stojo ginti kryžiuočių.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=504643295c87b66b63406b2545b6c425966d54d8a1ef40d16e1375bd1affff9b; match=fallback; occurrences=0

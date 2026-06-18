@@ -52,7 +52,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   global_id: t-82569
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Mikalojų Kristupą Radvilą-Našlaitėlį ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Kardinalija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Kardinalija; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]'
   pagrindžia:
     - c-003
 
@@ -114,19 +115,20 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumas: priklause -> Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas nurodo, kad Mikalojus Kristupas tapo namų savininku; todėl namas priklausė jam.
 
 <a id="claim-t-82574"></a>
 - t-008
   global_id: t-82574
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Kardinalija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Kardinalija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -271,13 +273,13 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumas: priklause -> Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas nurodo, kad Mikalojus Kristupas tapo namų savininku; todėl namas priklausė jam.
     - t-004
 
 - c-006
@@ -309,3 +311,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   ryšio_subjekto_parinkimas: Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=56
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)

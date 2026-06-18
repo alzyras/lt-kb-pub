@@ -28,7 +28,8 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   global_id: t-32183
   teiginys: 'Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Simnas'
+  susije_objektai: 'llm_object: Prancūzija; mentioned_place: Prancūzija; mentioned_place: Simnas'
+  semantiniai_rysiai: 'Grenoblis priklausė Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1911 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -37,13 +38,13 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=323bd77cfe695159846b351a7322f159ad19e19d46134356c9d23c476dc7bfa1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Grenoblis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grenoblis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Grenoblis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vietovė tiesiogiai įvardyta kaip Prancūzijos Grenoblis.
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
 ## Reikšmingi paminėjimai
 
@@ -63,10 +64,13 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=323bd77cfe695159846b351a7322f159ad19e19d46134356c9d23c476dc7bfa1; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Grenoblis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grenoblis" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Prancūzija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Grenoblis: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Prancūzija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Vietovė tiesiogiai įvardyta kaip Prancūzijos Grenoblis.
+
+## Ryšiai
+- Grenoblis priklause [[objektai/vietos/Prancūzija]]

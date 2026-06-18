@@ -63,6 +63,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - susijęs iš Raseiniai: Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš Žiežmariai: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
+- susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -109,3 +110,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
   ryšio_subjekto_parinkimas: Vakarų Lietuvos (Jūros) sritis: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vakarų Lietuvos (Jūros) sritis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Pietų Lietuvos sritis]] buvo_sajungininkas_su Vakarų Lietuvos (Jūros) sritis
+- Vakarų Lietuvos (Jūros) sritis keliavo_i [[objektai/vietos/Minaičių kaimas]]

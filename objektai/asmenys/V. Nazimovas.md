@@ -67,3 +67,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   ryšio_subjekto_parinkimas: V. Nazimovas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Ukmergė: mention_match, place, gap=98
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Nazimovas" parinktas kaip owner_note_path. Targetas "Ukmergė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- V. Nazimovas siunte_i [[objektai/vietos/Ukmergė]]

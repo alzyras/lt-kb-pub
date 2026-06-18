@@ -29,7 +29,8 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   global_id: t-21781
   teiginys: '1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)|Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]; mentioned_place: Estija; mentioned_place: Gudija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Rytų kraštas (Ostlandas); mentioned_event: [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)|Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]; mentioned_place: Estija; mentioned_place: Gudija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  semantiniai_rysiai: 'Lietuva priklausė Rytų kraštas (Ostlandas); Estija priklausė Rytų kraštas (Ostlandas); Gudija priklausė Rytų kraštas (Ostlandas)'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -38,13 +39,13 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rytų kraštas (Ostlandas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): mention_match, event, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytų kraštas (Ostlandas)" parinktas kaip owner_note_path. Targetas "Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rytų kraštas (Ostlandas): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rytų kraštas (Ostlandas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuva įvardyta tarp teritorijų, iš kurių sudarytas Rytų kraštas.
 
 ## Reikšmingi paminėjimai
 
@@ -67,10 +68,15 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rytų kraštas (Ostlandas): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): mention_match, event, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytų kraštas (Ostlandas)" parinktas kaip owner_note_path. Targetas "Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Rytų kraštas (Ostlandas): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Rytų kraštas (Ostlandas): llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuva įvardyta tarp teritorijų, iš kurių sudarytas Rytų kraštas.
+
+## Ryšiai
+- [[objektai/vietos/Estija]] priklause Rytų kraštas (Ostlandas)
+- [[objektai/vietos/Gudija]] priklause Rytų kraštas (Ostlandas)
+- [[objektai/vietos/Lietuva]] priklause Rytų kraštas (Ostlandas)

@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-12313
   teiginys: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
   sudarymo_pagrindimas: 'Pradinis sakinys stilistiškai neaiškiai sieja armotas su laivais; citata palaiko glaustesnę formą.'
-  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Jurbarkas'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys stilistiškai neaiškiai sieja armotas su laivais; citata palaiko glaustesnę formą.'
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-12314
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
-  susije_objektai: 'location: Salos; mentioned_place: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
@@ -75,13 +75,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad lietuviai puldinėjo Sembą.
 
 <a id="claim-t-179482"></a>
 - t-003
@@ -94,13 +94,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad lietuviai puldinėjo Sembą.
 
 <a id="claim-t-179483"></a>
 - t-004
@@ -126,7 +126,7 @@ Nenurodyta
   global_id: t-179484
   teiginys: '1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.'
   sudarymo_pagrindimas: 'Pradinis teiginys neaiškiai nusako veiksmą ir nutyli Surminą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neaiškiai nusako veiksmą ir nutyli Surminą.'
@@ -135,20 +135,20 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224eb69f90868f890c2e98475344e8bc67b0d8f604432f8c6a4850d7168610d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
+  ryšio_patikimumas: keliavo_i -> Jurbarkas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste sakoma, kad Kęstutis plaukė Nemunu ir sustojo ties Jurbarku, todėl galima žymėti kelionės kryptį į Jurbarko vietą.
 
 <a id="claim-t-179485"></a>
 - t-006
   global_id: t-179485
   teiginys: '1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, veikėjus, objektą ir tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Semba; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, veikėjus, objektą ir tikslą.'
@@ -157,12 +157,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Salos: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Salos: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Salos" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179486"></a>
 - t-007
@@ -188,7 +189,7 @@ Nenurodyta
   global_id: t-179487
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
-  susije_objektai: 'location: Salos; mentioned_place: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
@@ -235,12 +236,15 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Salos: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Salos: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Salos" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
+- susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60107|Ditrichas iš Ezbeko]]: Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.
@@ -534,13 +538,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad lietuviai puldinėjo Sembą.
     - t-008
 
 - c-005
@@ -571,12 +575,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Salos: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Salos: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Salos" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006
@@ -598,13 +603,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=224eb69f90868f890c2e98475344e8bc67b0d8f604432f8c6a4850d7168610d8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
+  ryšio_patikimumas: keliavo_i -> Jurbarkas: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste sakoma, kad Kęstutis plaukė Nemunu ir sustojo ties Jurbarku, todėl galima žymėti kelionės kryptį į Jurbarko vietą.
     - t-010
 
 - c-007
@@ -622,12 +627,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c7c4c5fe63accdddf1ced4a246b7877dfb9dc92b56f42f0d5c5bf9a638c6a8b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Salos: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Salos: nearest_after_predicate, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Salos" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-008
@@ -697,10 +703,14 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c386b7c3f2560b9f85554ace76f5d5dd8d9d10fdaf7974a21d237bb1594901dc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laivai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laivai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Semba: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad lietuviai puldinėjo Sembą.
+
+## Ryšiai
+- [[objektai/asmenys/Verneris (Ragainės komtūras)]] pastate Laivai
+- Laivai priklause [[objektai/grupes/Kryžiuočių ordinas]]

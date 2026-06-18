@@ -28,7 +28,8 @@ periodo_grupes: []
   global_id: t-87777
   teiginys: '1632 m. sausio 2 d. Akademijos rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus nupirko mūrinį namą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Merkelį Geišą Eljaševičių ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Merkelis Geiša Eljaševičius|Merkelis Geiša Eljaševičius]]'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Merkelis Geiša Eljaševičius|Merkelis Geiša Eljaševičius]]'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Merkelį Geišą Eljaševičių ir atitinka citatą.'
@@ -37,13 +38,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: 397770-398432; hash=f6ce3f15879818086ced3de4afdc614385514ebfaec238510afc27ed4acc68ff; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkelis Geiša Eljaševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkelis Geiša Eljaševičius" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Merkelis Geiša Eljaševičius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Merkelis Geiša Eljaševičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Namas buvo nupirktas iš Merkelio Geišos Eljaševičiaus, tad prieš pardavimą jam priklausė.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +73,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: 397770-398432; hash=f6ce3f15879818086ced3de4afdc614385514ebfaec238510afc27ed4acc68ff; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkelis Geiša Eljaševičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkelis Geiša Eljaševičius" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Merkelis Geiša Eljaševičius: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Merkelis Geiša Eljaševičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Namas buvo nupirktas iš Merkelio Geišos Eljaševičiaus, tad prieš pardavimą jam priklausė.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Merkelis Geiša Eljaševičius

@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-39089
   teiginys: '1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.'
   sudarymo_pagrindimas: 'Pašalintas su graviūra nesusijęs triukšmas ir paliktas citata paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1656 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas su graviūra nesusijęs triukšmas ir paliktas citata paremtas faktas.'
@@ -55,13 +55,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519589-520153; hash=3d64821b370ef15afa50ee85554d6402fd8f2d349eafc85c19f07ec6ab0eeb7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švedai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių sukilimas (1656 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių sukilimas (1656 m.)" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.
 
 ## Reikšmingi paminėjimai
 
@@ -86,10 +86,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 519589-520153; hash=3d64821b370ef15afa50ee85554d6402fd8f2d349eafc85c19f07ec6ab0eeb7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švedai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių sukilimas (1656 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių sukilimas (1656 m.)" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bajorų konfederacija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad bajorų konfederacija kovojo prieš švedus.

@@ -22,19 +22,20 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Paco veiksmą ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės; llm_object: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]] puolė Maskva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1329454-1329965; hash=cb7225da43c5a67dafbeaa1f9f03da6a053afde9d4cb93bdf4ba7550775b2c63; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: puole -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Pacas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Pacas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Pacas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pacas vėliau sumušė Maskvos kunigaikščio pulką, todėl palaikomas puolimo prieš Maskvos politinę-karinę pusę ryšys.
 - susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185585|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 - susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 ## Reikšmingi paminėjimai
@@ -63,10 +64,13 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1329454-1329965; hash=cb7225da43c5a67dafbeaa1f9f03da6a053afde9d4cb93bdf4ba7550775b2c63; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumas: puole -> Maskva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Pacas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Pacas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Stanislovas Pacas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Pacas vėliau sumušė Maskvos kunigaikščio pulką, todėl palaikomas puolimo prieš Maskvos politinę-karinę pusę ryšys.
+
+## Ryšiai
+- Stanislovas Pacas puole [[objektai/vietos/Maskva]]

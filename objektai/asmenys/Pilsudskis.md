@@ -103,3 +103,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Pilsudskis valde [[objektai/vietos/Lenkija]]

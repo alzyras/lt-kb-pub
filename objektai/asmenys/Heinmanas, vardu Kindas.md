@@ -21,19 +21,20 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   global_id: t-60304
   teiginys: 'Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas aiškus, citata paremtas faktas apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Junigeda'
+  susije_objektai: 'llm_object: Junigeda; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Junigeda'
+  semantiniai_rysiai: '[[objektai/asmenys/Heinmanas, vardu Kindas|Heinmanas, vardu Kindas]] mirė Junigeda'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d27aa8adfba4aa4a736a91323ff0925f975961a478fa33fe2e9ef2c847c6565c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heinmanas, vardu Kindas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinmanas, vardu Kindas" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Junigeda: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heinmanas, vardu Kindas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Heinmanas buvo nukautas prie Junigedos pilies.
 
 ## Reikšmingi paminėjimai
 
@@ -53,10 +54,13 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d27aa8adfba4aa4a736a91323ff0925f975961a478fa33fe2e9ef2c847c6565c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Junigeda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heinmanas, vardu Kindas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinmanas, vardu Kindas" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Junigeda: 0.89
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Heinmanas, vardu Kindas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Heinmanas buvo nukautas prie Junigedos pilies.
+
+## Ryšiai
+- Heinmanas, vardu Kindas mire [[objektai/vietos/Junigeda]]

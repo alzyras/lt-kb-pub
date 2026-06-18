@@ -137,7 +137,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir perteklinė atribucija, išlaikyti citatos faktai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Partigala; llm_object: Varmė; mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -197,13 +197,13 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   irodymo_stiprumas: 0.00
   saltinio_vieta: 266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Partigala: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Gubučiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Partigala: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai nurodyta, kad Gubučiai pastatė Partigalos pilį.
     - t-006
 
 - c-003

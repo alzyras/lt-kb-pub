@@ -47,6 +47,7 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
   ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belzas" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
+- susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
 - susijęs iš Belzo kunigaikštystė: Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
@@ -87,3 +88,7 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
   ryšio_subjekto_parinkimas: Belzas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belzas" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] apgule Belzas
+- Belzas priklause [[objektai/asmenys/Jurgis Narimantaitis]]

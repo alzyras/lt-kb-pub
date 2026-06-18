@@ -30,7 +30,8 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   global_id: t-19193
   teiginys: 'Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.'
   sudarymo_pagrindimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Latvija; mentioned_place: Lietuva; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]] siuntė į Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1941-1942; įvykio data: 1942 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
@@ -39,13 +40,14 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4982107987c0c87cae567612382176372dc70106668ec8d3738e8f01eae91ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Kubiliūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Kubiliūnas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kaunas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Kubiliūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kubiliūnas vadovavo dalinių išvedimui į Kauno gatves.
+- susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
 - susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
 ## Reikšmingi paminėjimai
 
@@ -71,10 +73,14 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d4982107987c0c87cae567612382176372dc70106668ec8d3738e8f01eae91ee; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Kubiliūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Kubiliūnas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Kaunas: 0.78
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Kubiliūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kubiliūnas vadovavo dalinių išvedimui į Kauno gatves.
+
+## Ryšiai
+- Petras Kubiliūnas siunte_i [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Vokiečiai]] paskyre Petras Kubiliūnas

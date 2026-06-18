@@ -71,7 +71,8 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Klecko mūšyje Mykolas Glinskis su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Karinio priešo vaizdavimą reikia palikti aiškiai priskirtą metraščiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cepra; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Cepra; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -91,7 +92,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime prie Cepros upės bemaž visi nuo Klecko mūšio pabėgę totoriai prigėrė upėje ir pelkėje.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Priešo žūties vaizdavimas turi būti atribuuotas metraščiui, o sakinys sutvarkytas gramatiškai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Cepra; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Cepra; mentioned_place: Lietuva; llm_object: Cepra; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -140,13 +141,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Mykolas Glinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mykolas Glinskis: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Mykolas Glinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Totoriai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Mykolo smūgį totorių pulkams.
 
 <a id="claim-t-186543"></a>
 - t-006
@@ -154,19 +155,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia konkretesnio, citata paremto sakinio ir aiškaus objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Volynė; mentioned_place: Žitomiras; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Volynė; mentioned_place: Žitomiras; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumas: keliavo_i -> Cepra: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Cepra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo pabėgusių totorių judėjimą prie Cepros.
 
 <a id="claim-t-186545"></a>
 - t-007
@@ -180,13 +181,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8cd10fb97e91f0d7a62ed8ad02f804fa9ed9dd2a685e8fcc31483626852f7d33; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Totoriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad lietuviai gaudė pabėgusius totorius.
 
 <a id="claim-t-186547"></a>
 - t-008
@@ -230,8 +231,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=102
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171472|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171473|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171472|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171473|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -348,13 +347,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Mykolas Glinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Mykolas Glinskis: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Mykolas Glinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Totoriai: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Mykolas Glinskis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Mykolo smūgį totorių pulkams.
     - t-008
 
 - c-004
@@ -393,24 +392,24 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumas: keliavo_i -> Cepra: 0.73
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Cepra: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo pabėgusių totorių judėjimą prie Cepros.
     - t-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8cd10fb97e91f0d7a62ed8ad02f804fa9ed9dd2a685e8fcc31483626852f7d33; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klecko mūšis (mūšis, XVI a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Totoriai: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad lietuviai gaudė pabėgusius totorius.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fb58c69a95efa483b83f6bd7df11bfb2e86f5c824cf33d0cdb8d4018433aa96d; match=fallback; occurrences=0
@@ -424,5 +423,4 @@ Nenurodyta
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (mūšis, XVI a.)" parinktas kaip owner_note_path. Targetas "N. Ulaščikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)
+- [[objektai/asmenys/Mykolas Glinskis]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)

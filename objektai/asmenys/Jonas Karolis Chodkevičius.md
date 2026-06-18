@@ -30,7 +30,8 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   global_id: t-18977
   teiginys: '1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą.'
@@ -39,13 +40,13 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Karolis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos Didžiosios Kunigaikštijos kariuomenė nugalėjo švedus.
 - susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
 - susijęs iš Maskva: 1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko.
 - susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
@@ -83,13 +84,23 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Karolis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Švedai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Lietuvos Didžiosios Kunigaikštijos kariuomenė nugalėjo švedus.
 
 ## Ryšiai
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Chodkevičiai]]
+- Jonas Karolis Chodkevičius gyne [[objektai/vietos/Smolenskas]]
+- Jonas Karolis Chodkevičius keliavo_i [[objektai/vietos/Livonija]]
+- Jonas Karolis Chodkevičius puole [[objektai/vietos/Daugavgryva]]
+- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Švedai]]
+- Jonas Karolis Chodkevičius puole [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius keliavo_i [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Kazokai]]
+- Jonas Karolis Chodkevičius uzeme [[objektai/vietos/Kuoknesė]]
+- Jonas Karolis Chodkevičius uzeme [[objektai/vietos/Viljandis]]
+- Jonas Karolis Chodkevičius gyne [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius siunte_i [[objektai/vietos/Salacgryva]]

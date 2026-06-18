@@ -37,7 +37,6 @@ tags:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raudonė" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
-- susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
 - susijęs iš [[objektai/asmenys/Zubovas.md#claim-t-87895|Zubovas]]: Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų.
 - susijęs iš [[objektai/daiktai/XIII a. kalavijas, rastas Raudonėje.md#claim-t-39305|XIII a. kalavijas, rastas Raudonėje]]: XIII a. kalavijas, saugomas VDKM, buvo rastas Raudonėje.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
@@ -70,5 +69,4 @@ tags:
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raudonė" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/grupes/Kiršenšteinai]] valde_teritorija Raudonė
-- [[objektai/asmenys/Kiršenšteinas]] valde_teritorija Raudonė
+- [[objektai/grupes/Kiršenšteinai]] valde Raudonė

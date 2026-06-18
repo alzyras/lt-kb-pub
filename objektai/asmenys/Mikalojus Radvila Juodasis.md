@@ -44,20 +44,21 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
 
 <a id="claim-t-113879"></a>
 - t-002
   global_id: t-113879
   teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.'
   sudarymo_pagrindimas: 'Citata leidžia teiginį aiškiau susieti su asmens pareigomis ir šarvais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; llm_object: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/daiktai/Šarvai|Šarvai]] priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]'
   temporaliniai_duomenys: 'įvykio data: 1555 m.; įvykio data: apie 1555 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį aiškiau susieti su asmens pareigomis ir šarvais.'
@@ -96,13 +97,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje „jo šarvų“ nurodo į Mikalojų Radvilą Juodąjį, todėl šarvai priskiriami jam.
 
 <a id="claim-t-113883"></a>
 - t-006
@@ -139,7 +140,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-008
   global_id: t-113885
   teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
+  semantiniai_rysiai: '[[objektai/daiktai/Šarvai|Šarvai]] priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]'
   temporaliniai_duomenys: 'įvykio data: 1555 m.; įvykio data: apie 1555 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -188,13 +190,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
 
 <a id="claim-t-113889"></a>
 - t-012
@@ -424,13 +426,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginyje „jo šarvų“ nurodo į Mikalojų Radvilą Juodąjį, todėl šarvai priskiriami jam.
     - t-011
 
 - c-006
@@ -464,13 +466,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
     - t-004
     - t-001
 
@@ -503,13 +505,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
     - t-009
     - t-002
     - t-008
@@ -550,3 +552,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/daiktai/Šarvai]] priklause Mikalojus Radvila Juodasis
+- Mikalojus Radvila Juodasis reme [[objektai/asmenys/Cvinglis]]
+- Mikalojus Radvila Juodasis reme [[objektai/asmenys/Martynas Liuteris]]

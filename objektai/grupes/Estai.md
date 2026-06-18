@@ -142,6 +142,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - susijęs iš Maskva: Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje.
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-183422|etnografinės ribos etnografinis principas]]: Lietuvos delegacija sienų klausimu turėjo remtis etnografiniu principu ir būtiniausiomis ekonominėmis korektyvomis.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -236,3 +237,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
   ryšio_subjekto_parinkimas: Estai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Estai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Estai
+- Estai keliavo_i [[objektai/vietos/Baltija]]

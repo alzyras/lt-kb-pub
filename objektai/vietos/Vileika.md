@@ -82,3 +82,6 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   ryšio_subjekto_parinkimas: Vileika: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vileika" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Vileika priklause [[objektai/vietos/Ašmenos pavietas]]

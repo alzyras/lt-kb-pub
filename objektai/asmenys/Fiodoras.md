@@ -32,7 +32,7 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   global_id: t-40106
   teiginys: 'Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Smolenskas'
+  susije_objektai: 'llm_object: Rusija; mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai.'
@@ -41,13 +41,13 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0003f1b05213ad7df9258a6fefb12d479d874d09dd73f987aaf4d7023e8addd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Riurikaičių dinastija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Riurikaičių dinastija: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras" parinktas kaip owner_note_path. Targetas "Riurikaičių dinastija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Rusija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Riurikaičių dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Riurikaičių dinastiją kaip valdžiusią Rusiją.
 - susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
 - susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185501|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.
 - susijęs iš [[objektai/asmenys/Dmitrijus.md#claim-t-40086|Dmitrijus]]: Mažamečio Dmitrijaus mirtis prisidėjo prie Riurikaičių dinastijos nutrūkimo ir gilios Rusijos krizės XVII a. pradžioje.
@@ -78,10 +78,10 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0003f1b05213ad7df9258a6fefb12d479d874d09dd73f987aaf4d7023e8addd5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Riurikaičių dinastija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fiodoras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Riurikaičių dinastija: mention_match, group, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras" parinktas kaip owner_note_path. Targetas "Riurikaičių dinastija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Rusija: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Riurikaičių dinastija: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Riurikaičių dinastiją kaip valdžiusią Rusiją.

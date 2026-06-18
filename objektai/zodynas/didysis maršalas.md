@@ -29,7 +29,7 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
   global_id: t-58898
   teiginys: 'Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį faktą apie didįjį maršalą, o pradinis tekstas yra fragmentiškas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretesnį faktą apie didįjį maršalą, o pradinis tekstas yra fragmentiškas.'
@@ -38,13 +38,13 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 82081-82675; hash=9b75c0f7bfa0ce47da38a17f335c24f2e1d1ee729e2367211d1fc87475b541b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didysis maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didysis maršalas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Ordino pareigūno organizuotus žygius į Lietuvą; subjektu laikomas Ordinas, ne titulas.
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63827|Kazimieras Nestoras Sapiega]]: K. N. Sapiega, LLV Seimo lietuviškosios pusės maršalas, balsavo už tolesnį priešinimąsi karaliaus pozicijai.
 - susijęs iš [[objektai/asmenys/Ignotas Potockis.md#claim-t-18924|Ignotas Potockis]]: LDK didysis maršalas Ignotas Potockis buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170095|Stanislovas Augustas Poniatovskis (valdovas)]]: Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.
@@ -79,10 +79,10 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
   irodymo_stiprumas: 0.00
   saltinio_vieta: 82081-82675; hash=9b75c0f7bfa0ce47da38a17f335c24f2e1d1ee729e2367211d1fc87475b541b3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didysis maršalas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didysis maršalas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Ordino pareigūno organizuotus žygius į Lietuvą; subjektu laikomas Ordinas, ne titulas.

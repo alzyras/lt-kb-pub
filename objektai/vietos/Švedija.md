@@ -54,7 +54,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-122989
   teiginys: '1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų pasiuntinybės į Švediją faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Švedija; llm_object: Rusija; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] siuntė į Švedija'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų pasiuntinybės į Švediją faktą.'
@@ -85,7 +86,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-122991
   teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atitinka citatoje nurodytą Šiaurės karo rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Vyborgas; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Rusija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Vyborgas; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Rusija; mentioned_place: Ryga; llm_object: Palanga'
   temporaliniai_duomenys: 'įvykio data: 1655 m.; įvykio data: 1655-1660; įvykio data: 1660 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai atitinka citatoje nurodytą Šiaurės karo rezultatą.'
@@ -125,7 +126,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-006
   global_id: t-122994
   teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Maskva'
   pagrindžia:
     - c-008
 
@@ -143,19 +144,20 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8d2dc918a7932805df2c680bdb8a8a0e5808968f4ca07736af2ba66dc29f3b3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumas: puole -> Palanga: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad švedai sugriovė uostus Palangoje; tai palaiko karinį puolamąjį veiksmą prieš vietą.
 
 <a id="claim-t-122997"></a>
 - t-008
   global_id: t-122997
   teiginys: '1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Rusija; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius; llm_object: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] siuntė į Švedija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -199,13 +201,13 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68e7d6db43ee25453e27f00ca009befd2fc6c31e2a0b8b0b11271634eeffe5ca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Rusija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad jis išsiuntė pasiuntinybę į Rusiją; subjektas kontekste yra karalius Steponas Batoras.
 
 <a id="claim-t-123000"></a>
 - t-011
@@ -220,7 +222,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-123001
   teiginys: 'Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
   sudarymo_pagrindimas: 'Pataisyta kalba ir OCR triukšmas, faktas tiesiogiai remiamas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas; llm_object: Gotlandas'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pataisyta kalba ir OCR triukšmas, faktas tiesiogiai remiamas citata.'
@@ -258,9 +260,13 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79076|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79077|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.
-- susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
+- susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
+- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
+- susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+- susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78706|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
+- susijęs iš Latgala: Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
@@ -465,6 +471,9 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22197|konversija christianizacija europeizacija]]: Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86538|mansionieriai]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.
 - susijęs iš [[objektai/zodynas/provizija.md#claim-t-86611|provizija]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.
+- susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -536,13 +545,13 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d8d2dc918a7932805df2c680bdb8a8a0e5808968f4ca07736af2ba66dc29f3b3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumas: puole -> Palanga: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Palanga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad švedai sugriovė uostus Palangoje; tai palaiko karinį puolamąjį veiksmą prieš vietą.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6700323f80d405920f19b8006f0d13076071a0de6f92cfd4017122a1b05070b3; match=fallback; occurrences=0
@@ -673,13 +682,13 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68e7d6db43ee25453e27f00ca009befd2fc6c31e2a0b8b0b11271634eeffe5ca; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švedija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Rusija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad jis išsiuntė pasiuntinybę į Rusiją; subjektas kontekste yra karalius Steponas Batoras.
     - t-006
 
 - c-009
@@ -749,5 +758,8 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švedija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Zigmantas Vaza]] keliavo_i Švedija
 - [[objektai/asmenys/Karolis IX]] buvo_valdovas Švedija
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Švedija
+- [[objektai/grupes/Kuršiai]] surenge_zygi_i Švedija
+- [[objektai/vietos/Ryga]] priklause Švedija
+- [[objektai/asmenys/Steponas Batoras]] siunte_i Švedija

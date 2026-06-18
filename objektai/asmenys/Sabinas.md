@@ -22,19 +22,20 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
   global_id: t-60431
   teiginys: 'Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] paskyrė [[objektai/asmenys/Sabinas|Sabinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sabinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sabinas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Sabinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sabinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Notangai tiesiogiai išsirinko Sabiną kariuomenės vadu.
 - susijęs iš [[objektai/autoriai/Donner G. A.md#claim-t-60690|Donner G. A]]: Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.
 - susijęs iš Vizna: Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.
 ## Reikšmingi paminėjimai
@@ -63,10 +64,13 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sabinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sabinas" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Sabinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sabinas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Notangai tiesiogiai išsirinko Sabiną kariuomenės vadu.
+
+## Ryšiai
+- [[objektai/grupes/Notangai]] paskyre Sabinas

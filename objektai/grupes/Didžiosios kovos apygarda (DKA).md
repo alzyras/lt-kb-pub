@@ -27,19 +27,20 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 - t-001
   global_id: t-40874
   teiginys: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė; llm_object: Trakų apskritis'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiosios kovos apygarda (DKA)|Didžiosios kovos apygarda (DKA)]] gyveno Trakų apskritis'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=33b914b93e713ff1c18e18ea3a250e052fedbf6a230623f01e7e265cc6fd6430; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.83
+  ryšio_patikimumas: gyveno -> Trakų apskritis: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiosios kovos apygarda (DKA): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiosios kovos apygarda (DKA)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiosios kovos apygarda (DKA): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakų apskritis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apygardoje įkurta rinktinė „A“ siejama su Trakų apskritimi, todėl tai jos veikimo teritorijos ryšys.
 
 <a id="claim-t-40875"></a>
 - t-002
@@ -107,10 +108,13 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=33b914b93e713ff1c18e18ea3a250e052fedbf6a230623f01e7e265cc6fd6430; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.83
+  ryšio_patikimumas: gyveno -> Trakų apskritis: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiosios kovos apygarda (DKA): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiosios kovos apygarda (DKA)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Didžiosios kovos apygarda (DKA): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Trakų apskritis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Apygardoje įkurta rinktinė „A“ siejama su Trakų apskritimi, todėl tai jos veikimo teritorijos ryšys.
+
+## Ryšiai
+- Didžiosios kovos apygarda (DKA) gyveno [[objektai/vietos/Trakų apskritis]]

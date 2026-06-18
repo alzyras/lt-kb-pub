@@ -28,7 +28,8 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   global_id: t-77779
   teiginys: '1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas nuotraukos antrašte.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius; llm_object: Aušros vartai'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]] keliavo į Aušros vartai'
   temporaliniai_duomenys: 'įvykio data: 1992 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas nuotraukos antrašte.'
@@ -37,13 +38,13 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511972-512304; hash=05437d5deefa9e08a370934010f2123fc2eeac1790c793ddd4a6ea5a652ab624; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: keliavo_i -> Aušros vartai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aušros vartai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušros vartai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aušros vartai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Landsbergio lankymasis prie Aušros vartų atitinka kryptinį apsilankymo ryšį.
 
 ## Reikšmingi paminėjimai
 
@@ -66,10 +67,13 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   irodymo_stiprumas: 0.00
   saltinio_vieta: 511972-512304; hash=05437d5deefa9e08a370934010f2123fc2eeac1790c793ddd4a6ea5a652ab624; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumas: keliavo_i -> Aušros vartai: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aušros vartai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušros vartai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas Landsbergis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Aušros vartai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Landsbergio lankymasis prie Aušros vartų atitinka kryptinį apsilankymo ryšį.
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas Landsbergis]] keliavo_i Aušros vartai

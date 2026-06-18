@@ -29,7 +29,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-001
   global_id: t-68917
   teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
+  susije_objektai: 'llm_object: Petrapilis; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Čartoriskiai|Čartoriskiai]] siuntė į Petrapilis'
   pagrindžia:
     - c-002
 
@@ -58,13 +59,13 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrapilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilis" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Petrapilis: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Petrapilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Čartoriskiai pasiuntė asmenį į Petrapilį.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
 - susijęs iš [[objektai/grupes/Lietuvių Tautos Taryba.md#claim-t-01389|Lietuvių Tautos Taryba (institucija)]]: 1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.
 - susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
@@ -77,6 +78,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
 - susijęs iš [[objektai/zodynas/tribunolas.md#claim-t-82100|tribunolas]]: Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.
+- susijęs iš [[objektai/grupes/Slavofilai.md#claim-t-72626|Slavofilai]]: Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.
+- susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -124,10 +127,15 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petrapilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilis" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Petrapilis: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Petrapilis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Čartoriskiai pasiuntė asmenį į Petrapilį.
+
+## Ryšiai
+- [[objektai/grupes/Čartoriskiai]] siunte_i Petrapilis
+- [[objektai/grupes/Slavofilai]] gyveno Petrapilis
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]] gyveno Petrapilis

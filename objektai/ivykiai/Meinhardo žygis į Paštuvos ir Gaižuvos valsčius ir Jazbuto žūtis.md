@@ -34,19 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Gaižuva; mentioned_place: Gaižuvos valsčius; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Gaižuva; mentioned_place: Gaižuvos valsčius; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Prūsija; llm_object: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282007-282626; hash=01a467c8f2238b414f5cdd9bf09e6c2112425ab3d51a8062854080a5514da9e1; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo į Lietuvą įsiveržusią Meinhardo kariauną, kurioje buvo kryžiuočiai.
 
 ## Reikšmingi paminėjimai
 
@@ -78,10 +78,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 282007-282626; hash=01a467c8f2238b414f5cdd9bf09e6c2112425ab3d51a8062854080a5514da9e1; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
+  ryšio_patikimumas: puole -> Lietuva: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo į Lietuvą įsiveržusią Meinhardo kariauną, kurioje buvo kryžiuočiai.

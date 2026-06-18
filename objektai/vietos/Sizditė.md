@@ -63,6 +63,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Telšiai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Telšiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
+- susijęs iš [[objektai/asmenys/Mindotė.md#claim-t-60388|Mindotė]]: Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
 - susijęs iš [[objektai/asmenys/Kviramas iš Valdavos.md#claim-t-60373|Kviramas iš Valdavos]]: Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.
@@ -81,6 +83,7 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - susijęs iš Simsarna: Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-184016|pilėnas pilėnai]]: 1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
+- susijęs iš [[objektai/asmenys/Rebodas iš Izenburgo.md#claim-t-60423|Rebodas iš Izenburgo]]: Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,3 +140,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Telšiai: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Telšiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Henrikas iš Plockės]] puole Sizditė
+- [[objektai/asmenys/Mindotė]] mire Sizditė
+- [[objektai/asmenys/Rebodas iš Izenburgo]] mire Sizditė

@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-01875
   teiginys: 'Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.'
   sudarymo_pagrindimas: 'Sakinys turi aiškiai įvardyti veikėją ir veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Vitebskas'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Vitebskas; llm_object: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys turi aiškiai įvardyti veikėją ir veiksmą.'
@@ -71,13 +71,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244084-244623; hash=7a1d3dcbef1e29c9562853084823d8baab0f4f42465fbe1dea7b4527e4fee99e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Vytauto kariuomenės veiksmą prieš Švitrigailą.
 
 <a id="claim-t-01877"></a>
 - t-003
@@ -209,13 +209,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 244084-244623; hash=7a1d3dcbef1e29c9562853084823d8baab0f4f42465fbe1dea7b4527e4fee99e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Švitrigaila: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai rodo Vytauto kariuomenės veiksmą prieš Švitrigailą.
     - t-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=a9a7d8763f68d88cdd61d8cf3a592adbff3fca62d8671409e38ba5aa577597d1; match=fallback; occurrences=0

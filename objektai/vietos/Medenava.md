@@ -22,7 +22,8 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   global_id: t-58593
   teiginys: 'Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.'
   sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Medenavos vietą ir administracinį vaidmenį.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_place: Rudava'
+  susije_objektai: 'mentioned_place: Semba; mentioned_place: Rudava; llm_object: Semba'
+  semantiniai_rysiai: 'Medenava priklausė Semba'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
@@ -45,3 +46,6 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Medenava priklause [[objektai/vietos/Semba]]

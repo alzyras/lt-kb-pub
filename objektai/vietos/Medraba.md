@@ -28,20 +28,21 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medraba: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medraba" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medraba: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Bertoldą kaip Medrabos pilies užpuoliką.
 
 <a id="claim-t-58595"></a>
 - t-002
   global_id: t-58595
   teiginys: 'Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir turi OCR triukšmo, bet citata palaiko aiškų faktą apie Medrabą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Semba'
+  susije_objektai: 'llm_object: Medraba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas|Bertoldas]] puolė Medraba'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -54,6 +55,9 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
   ryšio_subjekto_parinkimas: Medraba: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=76
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medraba" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66575|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175083|Sembai]]: Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
@@ -65,6 +69,9 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
 - susijęs iš Junigeda: Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu.
 - susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Junigeda: Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175083|Sembai]]: Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175083|Sembai]]: Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -106,24 +113,24 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medraba: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medraba" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medraba: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Bertoldą kaip Medrabos pilies užpuoliką.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bertoldas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medraba: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bertoldas: mention_match, person, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medraba" parinktas kaip owner_note_path. Targetas "Bertoldas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Medraba: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Bertoldą kaip Medrabos pilies užpuoliką.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 569406-569853; hash=773d2a05398b6c748633e296cc78f3f77115255371b5f1801e1463856fa177e0; match=whitespace_regex
@@ -135,3 +142,9 @@ Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygia
   ryšio_subjekto_parinkimas: Medraba: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=76
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medraba" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Bertoldas]] puole Medraba
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] puole Medraba
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]] uzeme Medraba
+- [[objektai/asmenys/Bertoldas]] uzeme Medraba

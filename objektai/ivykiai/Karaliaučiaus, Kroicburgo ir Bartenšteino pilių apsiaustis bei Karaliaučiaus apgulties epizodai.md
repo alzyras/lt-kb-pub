@@ -69,7 +69,8 @@ Nenurodyta
   global_id: t-59178
   teiginys: 'Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai.'
   sudarymo_pagrindimas: 'Citata remia apgulties epizodą, o pradinė formuluotė nutrūkusi ir užteršta pastaba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -107,7 +108,8 @@ Nenurodyta
   global_id: t-59180
   teiginys: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   sudarymo_pagrindimas: 'Citata remia užbaigtą epizodo sakinį be nutrūkusio fragmento.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; llm_object: [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -132,20 +134,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ce4da7287d0d984f6a8930e2deeaaeff5fb5da7b384975e5dd724bd66465c419; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata mini Ordino brolį šiame mūšyje, todėl Kryžiuočių ordino dalyvavimas apgulties epizode yra pagrįstas.
 
 <a id="claim-t-59182"></a>
 - t-006
   global_id: t-59182
   teiginys: 'Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Prieglius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Prieglius; llm_object: [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]'
   temporaliniai_duomenys: 'įvykio data: 250 m; įvykio data: apie 250 m.; įvykio data: 1550 m.; įvykio data: 1613 m.; įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas faktinis sakinys.'
@@ -154,13 +157,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 393738-394232; hash=80d950e59302b226e7192bbef5ac7742228d4778b51e51cbfec6183110c5f7be; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumas: puole -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembų kariuomenės puolimas tiesiogiai siejamas su Karaliaučiaus apgulties epizodu, nors konkreti pilies vietos kandidatė šiame sąraše nepateikta.
 
 <a id="claim-t-59183"></a>
 - t-007
@@ -173,13 +176,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 394249-395245; hash=1457e544827c8ec564313e9b4ec890be1678dafc1f76e6322d776b2f05194e13; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prieglius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prieglius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai įvardyti kaip miesto užpuolikai apgulties epizode.
 
 <a id="claim-t-183927"></a>
 - t-008
@@ -189,18 +192,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys neatitinka pateiktos citatos svarbiausio faktinio turinio.'
-  susije_objektai: 'location: Elbingas; mentioned_place: Prūsai; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
   saltinio_vieta: 382744-383192; hash=85fb29e619511dd80e9025e2aa233a7f8ee1d4012235c9459c0d980e102b4a84; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -273,13 +277,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 394249-395245; hash=1457e544827c8ec564313e9b4ec890be1678dafc1f76e6322d776b2f05194e13; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prieglius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prieglius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai įvardyti kaip miesto užpuolikai apgulties epizode.
     - t-005
 
 - c-004
@@ -307,13 +311,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=ce4da7287d0d984f6a8930e2deeaaeff5fb5da7b384975e5dd724bd66465c419; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumas: dalyvavo_musyje -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.62
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Citata mini Ordino brolį šiame mūšyje, todėl Kryžiuočių ordino dalyvavimas apgulties epizode yra pagrįstas.
     - t-006
 
 - c-005
@@ -339,13 +343,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 393738-394232; hash=80d950e59302b226e7192bbef5ac7742228d4778b51e51cbfec6183110c5f7be; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumas: puole -> Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembų kariuomenės puolimas tiesiogiai siejamas su Karaliaučiaus apgulties epizodu, nors konkreti pilies vietos kandidatė šiame sąraše nepateikta.
     - t-002
 
 - c-006
@@ -426,12 +430,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 382744-383192; hash=85fb29e619511dd80e9025e2aa233a7f8ee1d4012235c9459c0d980e102b4a84; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 389856-390584; hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=exact
@@ -454,3 +459,7 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=29
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] puole Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai
+- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai

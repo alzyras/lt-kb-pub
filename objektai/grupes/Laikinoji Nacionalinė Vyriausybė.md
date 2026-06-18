@@ -28,7 +28,8 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
   global_id: t-40979
   teiginys: 'Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadinęs Laikinąja Nacionaline Vyriausybe, pakvietė sukilėlius pradėti karinius veiksmus visoje buvusioje Lenkijos karalystėje.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškiai sieja Nacionalinį Centro komitetą su Laikinąja Nacionaline Vyriausybe ir jos veiksmu.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; llm_object: Varšuva'
+  semantiniai_rysiai: '[[objektai/grupes/Laikinoji Nacionalinė Vyriausybė|Laikinoji Nacionalinė Vyriausybė]] keliavo į Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, aiškiai sieja Nacionalinį Centro komitetą su Laikinąja Nacionaline Vyriausybe ir jos veiksmu.'
@@ -37,13 +38,13 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9df3e44d4faefad21f03c5203a930f96123c7c17f92b29005d1942c5d0767ff6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Varšuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laikinoji Nacionalinė Vyriausybė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=140
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laikinoji Nacionalinė Vyriausybė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Laikinoji Nacionalinė Vyriausybė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Organizacija apibūdinta kaip įsikūrusi Varšuvoje; schema neturi tikslaus buveinės ryšio.
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +70,13 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9df3e44d4faefad21f03c5203a930f96123c7c17f92b29005d1942c5d0767ff6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumas: keliavo_i -> Varšuva: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laikinoji Nacionalinė Vyriausybė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=140
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laikinoji Nacionalinė Vyriausybė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Laikinoji Nacionalinė Vyriausybė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Organizacija apibūdinta kaip įsikūrusi Varšuvoje; schema neturi tikslaus buveinės ryšio.
+
+## Ryšiai
+- Laikinoji Nacionalinė Vyriausybė keliavo_i [[objektai/vietos/Varšuva]]

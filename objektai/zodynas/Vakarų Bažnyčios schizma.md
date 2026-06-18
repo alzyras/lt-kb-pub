@@ -28,7 +28,7 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
   global_id: t-70055
   teiginys: 'Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius.'
   sudarymo_pagrindimas: 'Pradinis sakinys kontekstinis, bet citata pagrindžia aiškų faktą apie schizmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

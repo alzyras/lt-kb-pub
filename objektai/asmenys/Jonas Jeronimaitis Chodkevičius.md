@@ -40,13 +40,13 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3dd87ee0125af18a222cbf0f538a65c16802f241ede57e618a106ec31656b0e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Jeronimaitis Chodkevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Jeronimaitis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Jeronimaitis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Jonas Jeronimaitis Chodkevičius buvo siunčiamas į Lenkiją.
 
 <a id="claim-t-101649"></a>
 - t-002
@@ -72,7 +72,8 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   global_id: t-101650
   teiginys: '1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Lenkija; mentioned_event: [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Lenkija; llm_object: Lenkija; mentioned_event: [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Jeronimaitis Chodkevičius|Jonas Jeronimaitis Chodkevičius]] keliavo į Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1562 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai remiasi citata.'
@@ -271,13 +272,13 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3dd87ee0125af18a222cbf0f538a65c16802f241ede57e618a106ec31656b0e8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas Jeronimaitis Chodkevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Jeronimaitis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas Jeronimaitis Chodkevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai sako, kad Jonas Jeronimaitis Chodkevičius buvo siunčiamas į Lenkiją.
     - t-006
   irodymo_stiprumas: 0.00
   saltinio_vieta: 124740-125234; hash=c7b7f8d08974cf1dccfd71288c000d3026e8e3a481b07264b66f93095069cc74; match=whitespace_regex
@@ -289,3 +290,6 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   ryšio_subjekto_parinkimas: Jonas Jeronimaitis Chodkevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=57
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Jeronimaitis Chodkevičius" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Jonas Jeronimaitis Chodkevičius keliavo_i [[objektai/vietos/Lenkija]]

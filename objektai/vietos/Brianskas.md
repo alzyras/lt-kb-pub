@@ -37,7 +37,8 @@ amziai:
   global_id: t-179764
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Mindaugo veiksmus su Briansko kunigaikštija.'
-  susije_objektai: 'territory: Dniepras; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Černigovas'
+  susije_objektai: 'llm_object: Brianskas; llm_object: Černigovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Černigovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] užėmė Brianskas'
   temporaliniai_duomenys: 'įvykio data: 1237-1263; įvykio data: 1255 m.; įvykio data: apie 1255 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Mindaugo veiksmus su Briansko kunigaikštija.'
@@ -67,7 +68,13 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Kijevas; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Romanas (Briansko kunigaikštis).md#claim-t-40404|Romanas (Briansko kunigaikštis)]]: Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.
+- susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
+- susijęs iš Rževas: Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.
+- susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
+- susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
+- susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
+- susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 - susijęs iš Dnepras: Mindaugas pasiuntė visą savo kariuomenę už Dnepro prieš Romaną, Briansko kunigaikštį.
@@ -116,6 +123,10 @@ amziai:
 - susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184649|vietininkas]]: Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.
+- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184795|Mykolas (Žygimanto sūnus)]]: Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
+- susijęs iš Polockas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
+- susijęs iš [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę.md#claim-t-185699|Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]: Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -168,4 +179,9 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]] buvo_valdovas Brianskas
+- [[objektai/asmenys/Gediminas]] uzeme Brianskas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] puole Brianskas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] uzeme Brianskas
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] valde_miesta Brianskas
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] siunte_i Brianskas
+- [[objektai/grupes/Rusai]] uzeme Brianskas

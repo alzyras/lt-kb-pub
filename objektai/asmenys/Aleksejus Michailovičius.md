@@ -104,3 +104,6 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
   ryšio_subjekto_parinkimas: Aleksejus Michailovičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=16
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksejus Michailovičius" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Aleksejus Michailovičius buvo_valdovas [[objektai/vietos/Rusija]]

@@ -83,6 +83,7 @@ amziai:
 - susijęs iš Valkaviskas: 1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -122,3 +123,6 @@ amziai:
   ryšio_subjekto_parinkimas: Bernas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Vilniaus konferencija (1917 m. rugsėjo 18–22 d.): mention_match, event, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernas" parinktas kaip owner_note_path. Targetas "Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Steponas Kairys]] keliavo_i Bernas

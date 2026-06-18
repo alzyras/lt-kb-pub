@@ -58,19 +58,20 @@ Nenurodyta
   teiginys: 'Sembai sausio 21 d. užpuolė Sembą nusiaubusį grafą iš Barbio, jį sunkiai sužeidė ir privertė jo kariuomenę trauktis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu kontekstu ir įvardžiais; citata remia pilną sakinį apie pralaimėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Semba; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Semba; mentioned_place: Prūsija; llm_object: [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas|Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas|Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=df4351ab6dbec3bc694da7b409ca95ee7dc84e8a11b99445c899569f4a45468f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumas: puole -> Grafo iš Barbio žygis į Sembą ir pralaimėjimas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Grafo iš Barbio žygis į Sembą ir pralaimėjimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grafo iš Barbio žygis į Sembą ir pralaimėjimas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Grafo iš Barbio žygis į Sembą ir pralaimėjimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai užpuolė grafą, tačiau grafo objekto nėra, todėl naudojamas įvykio objektas.
 
 ## Reikšmingi paminėjimai
 
@@ -102,10 +103,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=df4351ab6dbec3bc694da7b409ca95ee7dc84e8a11b99445c899569f4a45468f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumas: puole -> Grafo iš Barbio žygis į Sembą ir pralaimėjimas: 0.64
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Grafo iš Barbio žygis į Sembą ir pralaimėjimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grafo iš Barbio žygis į Sembą ir pralaimėjimas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Grafo iš Barbio žygis į Sembą ir pralaimėjimas: llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai užpuolė grafą, tačiau grafo objekto nėra, todėl naudojamas įvykio objektas.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] puole Grafo iš Barbio žygis į Sembą ir pralaimėjimas

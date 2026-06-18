@@ -30,26 +30,28 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   global_id: t-68568
   teiginys: 'Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Švitrigailos veiksmus Lukomlyje.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Kijevas; llm_object: Lukomlis; mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Lukomlis'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=291f2f316912208f25b658a044f8acfbee878919c383ef87c07f581beccd3a61; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Polockietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lukomlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Andrius Polockietis: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukomlis" parinktas kaip owner_note_path. Targetas "Andrius Polockietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Lukomlis: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Polockietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lukomlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Andrius Polockietis užėmė Lukomlį.
 
 <a id="claim-t-68569"></a>
 - t-002
   global_id: t-68569
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
   sudarymo_pagrindimas: 'Teiginys yra factualus pilnas sakinys ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Lukomlis; mentioned_person: [[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]] užėmė Lukomlis'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra factualus pilnas sakinys ir atitinka citatą.'
@@ -58,13 +60,13 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5647f72a0be0e13c2928385563db3af32c3fe0889f9d98dc04b77e3c7c283e6c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lukomlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukomlis" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos išvykimą į Kijevą.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113892|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186724|Andriaus Algirdaičio maištas prieš Jogailą]]: Per Andriaus Algirdaičio maištą Livonijos kryžiuočiai padėjo Andriui Algirdaičiui užimti Lukomlį.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186745|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.
@@ -109,21 +111,25 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=291f2f316912208f25b658a044f8acfbee878919c383ef87c07f581beccd3a61; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Polockietis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lukomlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Andrius Polockietis: mention_match, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukomlis" parinktas kaip owner_note_path. Targetas "Andrius Polockietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzeme -> Lukomlis: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Andrius Polockietis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lukomlis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Andrius Polockietis užėmė Lukomlį.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5647f72a0be0e13c2928385563db3af32c3fe0889f9d98dc04b77e3c7c283e6c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lukomlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukomlis" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Kijevas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos išvykimą į Kijevą.
+
+## Ryšiai
+- [[objektai/asmenys/Andrius Polockietis]] uzeme Lukomlis
+- [[objektai/asmenys/Švitrigaila]] keliavo_i Lukomlis

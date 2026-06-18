@@ -30,7 +30,8 @@ periodo_grupes:
   global_id: t-87831
   teiginys: '1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, veiksmą, vietą, datą ir leidinį; citata tai patvirtina.'
-  susije_objektai: 'mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]] gyveno Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, veiksmą, vietą, datą ir leidinį; citata tai patvirtina.'
@@ -39,13 +40,13 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lukas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lukas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Timofiejevas Mstislavliškis" parinktas kaip owner_note_path. Targetas "Lukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Spausdinimo veikla Vilniuje tiesiogiai sieja Petrą Timofiejevą su Vilniumi.
 - susijęs iš [[objektai/asmenys/Kuzma Mamoničius.md#claim-t-87763|Kuzma Mamoničius]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.
 - susijęs iš [[objektai/asmenys/Luka Mamoničius.md#claim-t-87766|Luka Mamoničius]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86745|Mamoničių giminė]]: 1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.
@@ -85,10 +86,14 @@ periodo_grupes:
   irodymo_stiprumas: 0.00
   saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lukas: 0.83
+  ryšio_patikimumas: gyveno -> Vilnius: 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lukas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Timofiejevas Mstislavliškis" parinktas kaip owner_note_path. Targetas "Lukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Petras Timofiejevas Mstislavliškis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Spausdinimo veikla Vilniuje tiesiogiai sieja Petrą Timofiejevą su Vilniumi.
+
+## Ryšiai
+- Petras Timofiejevas Mstislavliškis keliavo_i [[objektai/vietos/Vilnius]]
+- Petras Timofiejevas Mstislavliškis gyveno [[objektai/vietos/Vilnius]]

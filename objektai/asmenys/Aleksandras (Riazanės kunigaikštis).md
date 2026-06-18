@@ -32,21 +32,19 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
   global_id: t-87903
   teiginys: 'Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.'
   sudarymo_pagrindimas: 'Citata pagrindžia laidavimo faktą, o pradiniame teiginyje yra OCR ir fragmento triukšmo.'
-  susije_objektai: 'territory: Riazanė; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Riazanė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)|Aleksandras (Riazanės kunigaikštis)]] buvo valdovas Riazanė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Riazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dab2a35d0174d45ee9be91761b308985dcb573506af593dc31044cb1460d562; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Medininkai: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras (Riazanės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Medininkai.md", "selected": false, "strategy": "candidate", "title": "Medininkai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras (Riazanės kunigaikštis)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,14 +85,10 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=6dab2a35d0174d45ee9be91761b308985dcb573506af593dc31044cb1460d562; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_title_local_ruler
-  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis): owner_after_title, person, gap=13
-  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
-  ryšio_slopinti_kandidatai: Medininkai: candidate; Vilnius: candidate
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras (Riazanės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Medininkai.md", "selected": false, "strategy": "candidate", "title": "Medininkai", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vilnius.md", "selected": false, "strategy": "candidate", "title": "Vilnius", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
-
-## Ryšiai
-- Aleksandras (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Riazanė]]
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras (Riazanės kunigaikštis)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

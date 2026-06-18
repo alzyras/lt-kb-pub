@@ -31,7 +31,8 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - t-001
   global_id: t-74921
   teiginys: 'Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Kaunas'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,20 +40,21 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=09edb8737901d04751a42cbc53a4f380c025abe8c1482d8fef4021db432d4faa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Sovietų Sąjunga okupavo Lietuvą.
 
 <a id="claim-t-74922"></a>
 - t-002
   global_id: t-74922
   teiginys: '1944 m. vasarą sovietų kariuomenė išvadavo Lietuvą iš nacių Vokietijos ir tuo pat metu antrą kartą okupavo Lietuvą.'
   sudarymo_pagrindimas: 'Sakinys yra išsamus faktinis teiginys apie SSRS kariuomenės veiksmus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Estija; mentioned_place: Latvija'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra išsamus faktinis teiginys apie SSRS kariuomenės veiksmus.'
@@ -61,20 +63,21 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d1aa42045cf596bba4b2204d5fed11f4a51c8a17c74664f5da1ff748f698a2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Sibiras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sovietų Sąjungos vykdytos deportacijos į Sibirą tiesiogiai pagrindžia siuntimo į Sibirą ryšį.
 
 <a id="claim-t-74923"></a>
 - t-003
   global_id: t-74923
   teiginys: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną glaustesnį sakinį.'
-  susije_objektai: 'mentioned_place: Latvija; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'llm_object: Latvija; mentioned_place: Latvija; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; llm_object: SSRS'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Latvija; [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] priklausė SSRS'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną glaustesnį sakinį.'
@@ -83,13 +86,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=353166aa6d4c67472ce6aa184c641ef7d11a3a24a2ed11db8c3be6bda7cd3e9e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sovietų Sąjungos Lietuvos Respublikos okupaciją ir aneksiją.
 
 <a id="claim-t-74924"></a>
 - t-004
@@ -105,20 +108,21 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latvija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latvija: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Latvija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Latvija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Sovietų Sąjunga okupavo Latviją.
 
 <a id="claim-t-74925"></a>
 - t-005
   global_id: t-74925
   teiginys: '1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir išlaikyta citatos palaikoma faktinė mintis.'
-  susije_objektai: 'mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Estija; llm_object: Latvija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Lietuva; [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Latvija; [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Estija'
   temporaliniai_duomenys: 'įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir išlaikyta citatos palaikoma faktinė mintis.'
@@ -140,7 +144,8 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   global_id: t-74926
   teiginys: 'Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl palikta tik citatos paremta mintis apie Sovietų Sąjungą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Sibiras; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: SSRS'
+  susije_objektai: 'llm_object: Sibiras; mentioned_place: Lietuva; mentioned_place: Sibiras; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: SSRS; llm_object: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] siuntė į Sibiras; [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1940 m.; įvykio data: 1940 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, todėl palikta tik citatos paremta mintis apie Sovietų Sąjungą.'
@@ -149,20 +154,21 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 419566-420102; hash=ee517f9fc30a8fff00177cd1afe26627623f6ec5306ba12e079ccb117e7d92a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad sovietų kariuomenė antrą kartą okupavo Lietuvą.
 
 <a id="claim-t-74927"></a>
 - t-007
   global_id: t-74927
   teiginys: '1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taisyklinga data ir vientisu enciklopediniu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Vokietija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]] užkariavo Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas taisyklinga data ir vientisu enciklopediniu sakiniu.'
@@ -171,13 +177,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 419566-420102; hash=ee517f9fc30a8fff00177cd1afe26627623f6ec5306ba12e079ccb117e7d92a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Estija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Estija: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos antrą okupaciją.
 - susijęs iš [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika.md#claim-t-74783|Lietuvos Sovietų Socialistinė Respublika]]: 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-183276|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66905|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.
@@ -228,13 +234,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=09edb8737901d04751a42cbc53a4f380c025abe8c1482d8fef4021db432d4faa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Sovietų Sąjunga okupavo Lietuvą.
     - t-006
 
 - c-003
@@ -255,13 +261,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 419566-420102; hash=ee517f9fc30a8fff00177cd1afe26627623f6ec5306ba12e079ccb117e7d92a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad sovietų kariuomenė antrą kartą okupavo Lietuvą.
     - t-007
 
 - c-004
@@ -290,13 +296,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: 419566-420102; hash=ee517f9fc30a8fff00177cd1afe26627623f6ec5306ba12e079ccb117e7d92a1; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Estija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Estija: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos antrą okupaciją.
     - t-003
 
 - c-005
@@ -319,13 +325,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=353166aa6d4c67472ce6aa184c641ef7d11a3a24a2ed11db8c3be6bda7cd3e9e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Lietuva: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sovietų Sąjungos Lietuvos Respublikos okupaciją ir aneksiją.
     - t-004
 
 - c-006
@@ -349,13 +355,13 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latvija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latvija: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Latvija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Latvija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Latvija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Sovietų Sąjunga okupavo Latviją.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0963af0d4630ddf1e41f86d5de1ad0dac397a72574b6b19c3ca07b658a37b76b; match=fallback; occurrences=0
@@ -371,10 +377,19 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1d1aa42045cf596bba4b2204d5fed11f4a51c8a17c74664f5da1ff748f698a2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjunga: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Sibiras: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sovietų Sąjunga: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Sibiras: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sovietų Sąjungos vykdytos deportacijos į Sibirą tiesiogiai pagrindžia siuntimo į Sibirą ryšį.
+
+## Ryšiai
+- Sovietų Sąjunga uzkariavo [[objektai/vietos/Lietuva]]
+- Sovietų Sąjunga uzeme [[objektai/vietos/Lietuva]]
+- Sovietų Sąjunga uzkariavo [[objektai/vietos/Estija]]
+- Sovietų Sąjunga uzkariavo [[objektai/vietos/Latvija]]
+- Sovietų Sąjunga uzeme [[objektai/vietos/Latvija]]
+- Sovietų Sąjunga siunte_i [[objektai/vietos/Sibiras]]
+- Sovietų Sąjunga priklause [[objektai/vietos/SSRS]]

@@ -67,6 +67,10 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   ryšio_subjekto_parinkimas: Jaunieji tautininkai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunieji tautininkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
+- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45272|Voldemarininkai]]: Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
+- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-183203|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
+- susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-20098|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Lietuvos šaulių sąjunga.md#claim-t-74809|Lietuvos šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga, voldemarininkai ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis).md#claim-t-75134|Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]: Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.
@@ -129,3 +133,7 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   ryšio_subjekto_parinkimas: Jaunieji tautininkai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=35
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaunieji tautininkai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Voldemarininkai]] buvo_sajungininkas_su Jaunieji tautininkai
+- [[objektai/grupes/Šaulių sąjunga]] buvo_sajungininkas_su Jaunieji tautininkai

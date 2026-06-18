@@ -73,3 +73,6 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
   ryšio_subjekto_parinkimas: Elbingo pilis (pilis): owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=0
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Elbingo pilis (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Elbingo pilis (pilis) priklause [[objektai/vietos/Elbingas]]

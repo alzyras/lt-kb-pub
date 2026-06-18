@@ -53,6 +53,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   ryšio_subjekto_parinkimas: Portugalija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ispanija: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Portugalija" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš Ispanija: Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.
@@ -106,3 +107,6 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   ryšio_subjekto_parinkimas: Portugalija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ispanija: mention_match, place, gap=15
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Portugalija" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] keliavo_i Portugalija

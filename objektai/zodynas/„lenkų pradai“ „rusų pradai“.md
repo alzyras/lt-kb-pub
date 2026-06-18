@@ -31,7 +31,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   global_id: t-22359
   teiginys: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; llm_object: Rusija'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -56,13 +56,13 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216652-217311; hash=34746f3fc87fb9fed1078574487fe9731a62e80fe883391cd0409872374f5a34; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „lenkų pradai“ „rusų pradai“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„lenkų pradai“ „rusų pradai“" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad rusai mokytojai buvo atvykę iš Rusijos gilumos; ryšys fiksuoja kryptinį judėjimą su turima vietos kandidato forma.
 
 <a id="claim-t-183488"></a>
 - t-003
@@ -147,13 +147,13 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   irodymo_stiprumas: 0.00
   saltinio_vieta: 216652-217311; hash=34746f3fc87fb9fed1078574487fe9731a62e80fe883391cd0409872374f5a34; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumas: keliavo_i -> Rusija: 0.76
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „lenkų pradai“ „rusų pradai“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„lenkų pradai“ „rusų pradai“" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad rusai mokytojai buvo atvykę iš Rusijos gilumos; ryšys fiksuoja kryptinį judėjimą su turima vietos kandidato forma.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 214912-215943; hash=a3a68779fad2b012cfe936b51b39d504f26078cdafa362ab4d8da4114e646593; match=whitespace_regex

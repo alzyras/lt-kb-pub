@@ -67,3 +67,6 @@ tags:
   ryšio_subjekto_parinkimas: Šušvė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Dubysa: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šušvė" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Šušvė priklause [[objektai/vietos/Lietuva]]

@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikalinga atribucija dėl šaltinyje esančio „atrodo“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1431 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikalinga atribucija dėl šaltinyje esančio „atrodo“.'
@@ -58,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4dfb3ceddefca3f62ef1a4a8a6ea4d87ba23487625cca96c0aadac74427c4fc; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino Vilniaus apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino Vilniaus apgultis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Livonijos kariuomenė buvo apgulusi Vilnių; ordinas laikomas šios kariuomenės instituciniu subjektu.
 
 <a id="claim-t-186750"></a>
 - t-002
@@ -72,7 +72,7 @@ Nenurodyta
   teiginys: '1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Livonijos ordino kariuomenės žygio trukmę ir Rutenbergo grįžimą. Citata tiesiogiai remia datas, vietas ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Cėsiai; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Cėsiai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Livonijos ordino kariuomenės žygio trukmę ir Rutenbergo grįžimą. Citata tiesiogiai remia datas, vietas ir rezultatą.'
@@ -81,13 +81,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4dfb3ceddefca3f62ef1a4a8a6ea4d87ba23487625cca96c0aadac74427c4fc; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino Vilniaus apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino Vilniaus apgultis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Livonijos kariuomenės Vilniaus apgultį; ordinas yra šios kariuomenės subjektas.
 
 ## Reikšmingi paminėjimai
 
@@ -108,13 +108,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9cba4f00e2cf84948bc819a2f76fbe1a3d13102da04469a5a09937722766fe3f; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino Vilniaus apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino Vilniaus apgultis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Livonijos ordino kariuomenė išžygiavo niokoti Lietuvos.
     - t-001
 
 - c-002
@@ -131,21 +131,21 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4dfb3ceddefca3f62ef1a4a8a6ea4d87ba23487625cca96c0aadac74427c4fc; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino Vilniaus apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino Vilniaus apgultis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad Livonijos kariuomenė buvo apgulusi Vilnių; ordinas laikomas šios kariuomenės instituciniu subjektu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b4dfb3ceddefca3f62ef1a4a8a6ea4d87ba23487625cca96c0aadac74427c4fc; match=fallback; occurrences=0
   sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumas: apgule -> Vilnius: 0.82
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Livonijos ordino Vilniaus apgultis: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos ordino Vilniaus apgultis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonijos ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo Livonijos kariuomenės Vilniaus apgultį; ordinas yra šios kariuomenės subjektas.

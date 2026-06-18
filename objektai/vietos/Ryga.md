@@ -71,7 +71,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   global_id: t-95151
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.'
   sudarymo_pagrindimas: 'Pataisytas nenatūralus predikatas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Baltija; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Žiemgala'
+  susije_objektai: 'llm_object: Ryga; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Baltija; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Žiemgala'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] užkariavo Ryga'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1561 m.; įvykio data: 1582 m.; įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisytas nenatūralus predikatas.'
@@ -131,6 +132,13 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   irodymo_stiprumas: 0.00
   saltinio_vieta: 346536-346949; hash=6bf8240b7d87a16e509f40d837d81981b967f8be879ea3e51e9f61ded5233b48; match=exact
   sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Bertoldas.md#claim-t-87485|Bertoldas]]: Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste.
+- susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
+- susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Vytauto laikais išplitę Vilniaus prekybiniai ryšiai pasiekė Gdanską, Sileziją, Karaliaučių, Rygą ir rusų miestus.
+- susijęs iš Pskovas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
@@ -146,6 +154,8 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Vilnius: 1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš [[objektai/zodynas/tautiška politika.md#claim-t-72768|tautiška politika]]: Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112507|Domininkonų ordinas]]: Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.
+- susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
@@ -519,6 +529,24 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš [[objektai/zodynas/šv. Petro skatiko rinkliava.md#claim-t-86643|šv. Petro skatiko rinkliava]]: Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.
+- susijęs iš [[objektai/ivykiai/Livonijos žemės atvertimas į tikėjimą (1204 m.).md#claim-t-62381|Livonijos žemės atvertimas į tikėjimą (1204 m.)]]: 1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.
+- susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus.
+- susijęs iš Silezija: Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+- susijęs iš Vilnius: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/daiktai/Druska.md#claim-t-31104|Druska]]: Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.
+- susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
+- susijęs iš Švitrigailos sutartis su Didžiuoju Naugardu: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš Vilnius: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.
+- susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183839|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
+- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47822|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.
+- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47823|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė.md#claim-t-87189|Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš Maskva: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš Maskva: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86459|bojarinai]]: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -685,3 +713,21 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   saltinio_vieta: hash=c992f060b5099e4b5c34397759124e15908489f2ad141a283f117f0fdb3dc0fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Bertoldas]] mire Ryga
+- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]] keliavo_i Ryga
+- [[objektai/asmenys/Steponas Batoras]] uzkariavo Ryga
+- [[objektai/vietos/Vilnius]] prekiavo_su Ryga
+- Ryga prekiavo_su [[objektai/vietos/Polockas]]
+- Ryga priklause [[objektai/vietos/Švedija]]
+- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]] keliavo_i Ryga
+- [[objektai/asmenys/Jonas Karolis Katkevičius]] gyne Ryga
+- Ryga priklause [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Domininkonų ordinas]] gyveno Ryga
+- [[objektai/vietos/Livonija]] priklause Ryga
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Ryga
+- [[objektai/vietos/Lietuva]] prekiavo_su Ryga
+- [[objektai/vietos/Naugardas]] prekiavo_su Ryga
+- Ryga priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Ryga prekiavo_su [[objektai/vietos/Lietuva]]

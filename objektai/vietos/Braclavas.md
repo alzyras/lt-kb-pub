@@ -33,7 +33,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   global_id: t-46541
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti, kad prijungimas atliktas karaliaus aktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Podolė'
+  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Podolė'
+  semantiniai_rysiai: 'Braclavas priklausė Lenkija'
   pagrindžia:
     - c-001
 
@@ -51,13 +52,13 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
+  ryšio_patikimumas: priklause -> Lenkija: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavas" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Palenkė nurodyta tarp sričių, kurias Žygimantas Augustas prijungė prie Lenkijos.
 
 <a id="claim-t-184936"></a>
 - t-003
@@ -67,7 +68,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas; mentioned_place: Podolė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: 'Braclavas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1449 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas.'
@@ -82,19 +84,21 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Priešiško nusiaubimo vaizdavimui šiame šaltinio profilyje reikia atribucijos.'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Severskas; llm_object: Braclavas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] pastatė Braclavas'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
   saltinio_vieta: 260048-260557; hash=8fa643521542bf15e2b56117b3f7a4e5a6d3d427ab3e17c2388e5aa663db8209; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremenecas: 0.85
+  ryšio_patikimumas: pastate -> Braclavas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kremenecas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavas" parinktas kaip owner_note_path. Targetas "Kremenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Aleksandras įsakė atstatyti Braclavą; tai artimiausias leidžiamas statymo ryšys.
+- susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: 1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186662|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186663|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą.
@@ -117,6 +121,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 - susijęs iš Voluinė: Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.
 - susijęs iš [[objektai/zodynas/domenas.md#claim-t-02980|domenas]]: Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -192,13 +197,13 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
+  ryšio_patikimumas: priklause -> Lenkija: 0.84
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavas" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Palenkė: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Palenkė nurodyta tarp sričių, kurias Žygimantas Augustas prijungė prie Lenkijos.
     - t-003
 
 - c-004
@@ -223,10 +228,17 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 260048-260557; hash=8fa643521542bf15e2b56117b3f7a4e5a6d3d427ab3e17c2388e5aa663db8209; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremenecas: 0.85
+  ryšio_patikimumas: pastate -> Braclavas: 0.80
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Braclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kremenecas: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Braclavas" parinktas kaip owner_note_path. Targetas "Kremenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Aleksandras įsakė atstatyti Braclavą; tai artimiausias leidžiamas statymo ryšys.
+
+## Ryšiai
+- [[objektai/asmenys/Jurga (pasienio seniūnas)]] gyne Braclavas
+- [[objektai/asmenys/Aleksandras]] pastate Braclavas
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Braclavas
+- Braclavas priklause [[objektai/grupes/Lietuviai]]
+- Braclavas priklause [[objektai/vietos/Lenkija]]

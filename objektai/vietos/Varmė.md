@@ -39,7 +39,8 @@ amziai:
   global_id: t-91424
   teiginys: 'Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata pagrindžia autoriaus skirstymą, todėl tinkama su šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Vysla'
+  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Vysla'
+  semantiniai_rysiai: 'Varmė priklausė Prūsija'
   pagrindžia:
     - c-003
 
@@ -137,6 +138,12 @@ amziai:
   ryšio_subjekto_parinkimas: Varmė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Partigala: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį.
+- susijęs iš Skrando kalnas: Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.
+- susijęs iš Bartos žemė: Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.
+- susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
+- susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
+- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-184006|kuoras propugnaculum pilaitė]]: Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Fabianas (Varmės vyskupas).md#claim-t-87666|Fabianas (Varmės vyskupas)]]: Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu.
 - susijęs iš [[objektai/asmenys/Fabijonas (Varmės vyskupas).md#claim-t-87667|Fabijonas (Varmės vyskupas)]]: Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.
@@ -290,6 +297,7 @@ amziai:
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58821|šeimyna familia domus]]: Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.
+- susijęs iš Heilsbergas: Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -443,3 +451,10 @@ amziai:
   ryšio_subjekto_parinkimas: Varmė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbliongas: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmė" parinktas kaip owner_note_path. Targetas "Elbliongas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Gubučiai]] gyveno Varmė
+- [[objektai/asmenys/Vytenis]] puole Varmė
+- Varmė priklause [[objektai/vietos/Lenkija]]
+- Varmė priklause [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Heilsbergas]] priklause Varmė

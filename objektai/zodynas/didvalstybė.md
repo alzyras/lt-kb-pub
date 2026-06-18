@@ -47,7 +47,7 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   global_id: t-22119
   teiginys: 'Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Algirdo valdymą, Lietuvos statusą ir teritorinę plėtrą.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Čekija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Baltija; mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1345-1377; įvykio data: 1377 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Algirdo valdymą, Lietuvos statusą ir teritorinę plėtrą.'
@@ -56,13 +56,13 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e2bee3c54f9004a8e8c623e69be68861f5ffc2a2d279a066dd22ddbc69f8d3ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didvalstybė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didvalstybė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai rodo Algirdo Lietuvos valdymą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169683|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.
 - susijęs iš [[objektai/grupes/Mongolų imperija.md#claim-t-74873|Mongolų imperija]]: XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes.
@@ -119,10 +119,10 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e2bee3c54f9004a8e8c623e69be68861f5ffc2a2d279a066dd22ddbc69f8d3ce; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: didvalstybė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "didvalstybė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Lietuva: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Frazė tiesiogiai rodo Algirdo Lietuvos valdymą.

@@ -23,19 +23,20 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   global_id: t-60348
   teiginys: 'Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį glaustą faktą apie Jono iš Vienos dalyvavimą žygyje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai'
+  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]] keliavo į Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas iš Vienos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas iš Vienos" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas iš Vienos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Išplaukimas Lietuvos link tiesiogiai rodo kelionę Lietuvos kryptimi.
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
@@ -68,10 +69,14 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jonas iš Vienos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas iš Vienos" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jonas iš Vienos: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Išplaukimas Lietuvos link tiesiogiai rodo kelionę Lietuvos kryptimi.
+
+## Ryšiai
+- Jonas iš Vienos keliavo_i [[objektai/vietos/Lietuva]]
+- Jonas iš Vienos keliavo_i [[objektai/vietos/Kolainiai]]

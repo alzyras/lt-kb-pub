@@ -85,3 +85,6 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
   ryšio_subjekto_parinkimas: Silvestras Levontjevičius: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Bajorai: mention_match, group
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Silvestras Levontjevičius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Silvestras Levontjevičius keliavo_i [[objektai/vietos/Vilnius]]

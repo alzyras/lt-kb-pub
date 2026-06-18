@@ -33,7 +33,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   global_id: t-170310
   teiginys: 'LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos mintį apie LDK politinės tautos prielaidas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -61,13 +61,13 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chotynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotynas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Rusėnai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „petys į petį“ tiesiogiai rodo lietuvių ir rusėnų bendrą kovą.
 - susijęs iš Kleckas: LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74890|Radvilos]]: Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.
 - susijęs iš Radvilos laiškas dėl lenkų kalbos vartojimo (1615 m.): 1615 m. vienas Radvilų laiške teigė, kad Lietuvoje reikia vartoti lenkų kalbą.
@@ -121,10 +121,10 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Chotynas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotynas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Rusėnai: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Rusėnai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė „petys į petį“ tiesiogiai rodo lietuvių ir rusėnų bendrą kovą.

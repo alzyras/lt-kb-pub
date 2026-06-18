@@ -65,7 +65,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135436
   teiginys: '1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.'
   sudarymo_pagrindimas: 'Pašalintas netikslus autorystės priskyrimas ir suformuotas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė'
+  semantiniai_rysiai: 'Karaliaučius priklausė Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas netikslus autorystės priskyrimas ir suformuotas aiškus faktinis sakinys.'
@@ -77,7 +78,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135437
   teiginys: '1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citata apie Karaliaučiaus įkūrimą.'
-  susije_objektai: 'mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Prūsai; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Varmė'
   temporaliniai_duomenys: 'įvykio data: 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir pagrįstas citata apie Karaliaučiaus įkūrimą.'
@@ -108,13 +109,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=524bbfce96bab9b4d281472b939ddf3cb0c14fb1f06f38d93d4ac5ba3497e0e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: pastate -> Įsrutis: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Įsrutis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad kryžiuočiai statė naujas pilis, o toliau įvardyta Įsrutis.
 
 <a id="claim-t-135439"></a>
 - t-005
@@ -141,7 +142,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135441
   teiginys: '1370 m. vasario 17 d. lietuviai po Sambijos sričių nuniokojimo susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai nurodo citatoje minimą vietą bei datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; mentioned_place: Rudava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; mentioned_place: Rudava; llm_object: Prūsai; llm_object: Rudava'
   temporaliniai_duomenys: 'įvykio data: 1370 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai nurodo citatoje minimą vietą bei datą.'
@@ -163,7 +164,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135442
   teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai pagrįstas ta pačia citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
@@ -212,13 +213,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45a16392989ff183d55de3f7057674b5523d90bc82256fec4cdde158e376a51f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Ordino kovas prieš lietuvius.
 
 <a id="claim-t-135445"></a>
 - t-011
@@ -324,7 +325,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135453
   teiginys: 'Vytauto laikais Lietuva užmezgė gyvus prekybos ryšius su ordino centrais Karaliaučiumi ir Dancigu.'
   sudarymo_pagrindimas: 'Pridėtas aiškus laikotarpis ir veiksnys iš citatos.'
-  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Dancigas; llm_object: Karaliaučius; mentioned_place: Dancigas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: 'Lietuva prekiavo su Karaliaučius'
   pagrindžia:
     - c-028
   irodymo_stiprumas: 0.00
@@ -370,13 +372,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45a16392989ff183d55de3f7057674b5523d90bc82256fec4cdde158e376a51f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Ordino kovas prieš lietuvius.
 
 <a id="claim-t-135457"></a>
 - t-022
@@ -412,7 +414,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135460
   teiginys: 'Ignas Onacevičius nuvyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Ignas Onacevičius|Ignas Onacevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Karaliaučius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Ignas Onacevičius|Ignas Onacevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Ignas Onacevičius|Ignas Onacevičius]] keliavo į Karaliaučius'
   pagrindžia:
     - c-021
 
@@ -429,7 +432,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135462
   teiginys: 'Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, įvardis pakeistas vardu, o vietovardžio aiškinimui palikta atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Glapo kalva'
+  susije_objektai: 'llm_object: Glapo kalva; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Glapo kalva; llm_object: Karaliaučius'
+  semantiniai_rysiai: '[[objektai/asmenys/Glapas|Glapas]] mirė Karaliaučius'
   pagrindžia:
     - c-033
 
@@ -437,7 +441,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - t-028
   global_id: t-135463
   teiginys: 'Po 1466 m. Torno taikos Ordino sostinė buvo perkelta į Karaliaučių, ir jis liko sostine įsikūrus Prūsų kunigaikštijai.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Torno; mentioned_place: Įsrutis'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Torno; mentioned_place: Įsrutis; llm_object: Įsrutis'
   temporaliniai_duomenys: 'įvykio data: po 1466 m.; įvykio data: 1466 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -445,13 +449,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=cd9b714cfaedfb2c795e26cd5e1cbc0ea4ccc35021794d504380ecf83a9196fc; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Karaliaučius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ignas Onacevičius: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ignas Onacevičius nuvyko į Karaliaučių.
 
 <a id="claim-t-135464"></a>
 - t-029
@@ -464,13 +468,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Teutonų ordino prūsų pavergimą.
 
 <a id="claim-t-135466"></a>
 - t-030
@@ -505,7 +509,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - t-032
   global_id: t-135468
   teiginys: 'Vytauto laikais atgijus prekybai Nemunu, užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.'
-  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Nemunas; llm_object: Dancigas'
+  semantiniai_rysiai: 'Karaliaučius prekiavo su Dancigas'
   pagrindžia:
     - c-020
   irodymo_stiprumas: 0.00
@@ -549,13 +554,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai sudarė sutartį su Ordinu.
 
 <a id="claim-t-135472"></a>
 - t-036
@@ -580,7 +585,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135475
   teiginys: 'Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Prūsai; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė'
   pagrindžia:
     - c-012
   irodymo_stiprumas: 0.00
@@ -605,20 +610,21 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35060-35493; hash=790880af2d23c4372aa78c74b5e5e7eaaa4837672baa43d43241f863d6bf8c3e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo prūsų pavergimą Teutonų ordino kontekste.
 
 <a id="claim-t-135479"></a>
 - t-042
   global_id: t-135479
   teiginys: 'Priešams užplūdus Lietuvos miestus, daug vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: Karaliaučius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] keliavo į Karaliaučius'
   pagrindžia:
     - c-031
   irodymo_stiprumas: 0.00
@@ -637,7 +643,8 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135480
   teiginys: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje išvardytus Ordino administracinius centrus.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: 'Karaliaučius priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje išvardytus Ordino administracinius centrus.'
@@ -659,19 +666,20 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135481
   teiginys: 'Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas; perrašyta glaustai ir aiškiau susieta su Karaliaučiumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Karaliaučius; llm_object: Ryga; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vilnius prekiavo su Karaliaučius'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių sutartį su Ordinu.
 
 <a id="claim-t-135483"></a>
 - t-046
@@ -709,13 +717,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Karaliaučius kadaise priklausė Lietuvai.
 
 <a id="claim-t-135485"></a>
 - t-048
@@ -767,19 +775,20 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Karaliaučius tiesiogiai įvardytas kaip Ordino administracinis centras.
 
 <a id="claim-t-135489"></a>
 - t-051
   global_id: t-135489
   teiginys: 'Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Silezija; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Silezija; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius; llm_object: Karaliaučius; llm_object: Ryga; llm_object: Silezija'
+  semantiniai_rysiai: 'Vilnius prekiavo su Karaliaučius'
   pagrindžia:
     - c-014
   irodymo_stiprumas: 0.00
@@ -888,13 +897,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Glapo kalva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Glapas pakartas ant vėliau Glapo kalva vadintos kalvos.
 
 <a id="claim-t-184970"></a>
 - t-057
@@ -994,13 +1003,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Karaliaučius: 0.83
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vilniaus prekybinius ryšius, tarp jų su Karaliaučiumi.
     - t-007
 
 - c-003
@@ -1099,24 +1108,24 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=524bbfce96bab9b4d281472b939ddf3cb0c14fb1f06f38d93d4ac5ba3497e0e0; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumas: pastate -> Įsrutis: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Įsrutis: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje nurodyta, kad kryžiuočiai statė naujas pilis, o toliau įvardyta Įsrutis.
     - t-045
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Chariničius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Chariničius: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Chariničius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: prekiavo_su -> Karaliaučius: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad su Karaliaučiumi buvo prekiaujama nuo seno.
     - t-006
 
 - c-007
@@ -1296,13 +1305,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo žemaičių sutartį su Ordinu.
     - t-051
 
 - c-015
@@ -1394,24 +1403,24 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45a16392989ff183d55de3f7057674b5523d90bc82256fec4cdde158e376a51f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Ordino kovas prieš lietuvius.
     - t-021
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=45a16392989ff183d55de3f7057674b5523d90bc82256fec4cdde158e376a51f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Ordino kovas prieš lietuvius.
     - t-041
 
 - c-019
@@ -1431,13 +1440,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 35060-35493; hash=790880af2d23c4372aa78c74b5e5e7eaaa4837672baa43d43241f863d6bf8c3e; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo prūsų pavergimą Teutonų ordino kontekste.
     - t-033
 
 - c-020
@@ -1569,13 +1578,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad žemaičiai sudarė sutartį su Ordinu.
     - t-052
 
 - c-025
@@ -1653,13 +1662,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: uzkariavo -> Prūsai: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo Teutonų ordino prūsų pavergimą.
     - t-018
 
 - c-029
@@ -1722,13 +1731,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4f0d56f4acbca6f0757754f28daa524a48a8336c10de815db1b97757549417e6; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karaliaučius: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Karaliaučius kadaise priklausė Lietuvai.
     - t-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=def9a30d26d90d39006b4a4779a11f4650b333ddef4378b576e80b413a546524; match=fallback; occurrences=0
@@ -1758,13 +1767,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b948ce204a2faac4c44bd35f48ddabaf52f122f540198c3f49de9e6ffcfdf5e5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumas: puole -> Prūsai: 0.75
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuviai nurodyti nusiaubę Prūsų krašto Sambijos sritis.
     - t-042
 
 - c-032
@@ -2051,13 +2060,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   irodymo_stiprumas: 0.00
   saltinio_vieta: 429952-430349; hash=8054b6f296a90e2123f981b7dcf6531be72f5a9ae4ec1ce0909b671e10e12b59; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glapas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: mire -> Glapo kalva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Glapas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Glapo kalva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Glapas pakartas ant vėliau Glapo kalva vadintos kalvos.
     - t-057
 
 - c-042
@@ -2097,3 +2106,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   ryšio_subjekto_parinkimas: Karaliaučius: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Breslavas: mention_match, place, gap=26
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučius" parinktas kaip owner_note_path. Targetas "Breslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Ignas Onacevičius]] keliavo_i Karaliaučius
+- [[objektai/vietos/Lietuva]] prekiavo_su Karaliaučius
+- Karaliaučius priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]] keliavo_i Karaliaučius
+- [[objektai/vietos/Vilnius]] prekiavo_su Karaliaučius
+- Karaliaučius priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Glapas]] mire Karaliaučius
+- Karaliaučius prekiavo_su [[objektai/vietos/Dancigas]]

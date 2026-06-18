@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-103829
   teiginys: 'Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.'
   sudarymo_pagrindimas: 'Citata palaiko esmę, bet pradinis teiginys nutrūksta ir turi šaltinio triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Gardinas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko esmę, bet pradinis teiginys nutrūksta ir turi šaltinio triukšmo.'

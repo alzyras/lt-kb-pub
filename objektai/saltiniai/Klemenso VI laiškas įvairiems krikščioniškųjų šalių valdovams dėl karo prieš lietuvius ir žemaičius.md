@@ -22,19 +22,19 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalintas OCR triukšmas ir įvardis išplėstas pagal pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Klemensas VI|Klemensas VI]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Klemensas VI|Klemensas VI]]; mentioned_place: Jeruzalė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 402420-402831; hash=28e7ab9ffc0c4eaad43462ff6caa5876d91fd8d721b8c5c27f66d03f9bfd5531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klemensas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie kovą prieš lietuvius, kurią popiežius skatino pažadėtomis malonėmis.
 
 ## Reikšmingi paminėjimai
 
@@ -58,10 +58,10 @@ Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias mal
   irodymo_stiprumas: 0.00
   saltinio_vieta: 402420-402831; hash=28e7ab9ffc0c4eaad43462ff6caa5876d91fd8d721b8c5c27f66d03f9bfd5531; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=85
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Klemensas VI: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai kalba apie kovą prieš lietuvius, kurią popiežius skatino pažadėtomis malonėmis.

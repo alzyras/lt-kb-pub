@@ -24,19 +24,21 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   global_id: t-60242
   teiginys: 'Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nemini objekto, o citata tiesiogiai nurodo Auktumo išrinkimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Auktumas|Auktumas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] paskyrė [[objektai/asmenys/Auktumas|Auktumas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auktumas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktumas" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Auktumas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auktumas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai Auktumą išsirinko vadu ir vyresniuoju.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89162|Pagudėnai]]: Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89162|Pagudėnai]]: Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 ## Reikšmingi paminėjimai
 
@@ -58,10 +60,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auktumas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktumas" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Auktumas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Auktumas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai Auktumą išsirinko vadu ir vyresniuoju.
+
+## Ryšiai
+- [[objektai/grupes/Pagudėnai]] paskyre Auktumas

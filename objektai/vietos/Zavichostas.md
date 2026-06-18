@@ -23,19 +23,20 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų sakinį be šaltinio boilerplate ir OCR fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Vysla; llm_object: Zavichostas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Zavichostas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 482264-482971; hash=46561665ab86133af1e23faea97f6860d4ef2afac6a117cc5111f3a10362cc3a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumas: keliavo_i -> Zavichostas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zavichostas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zavichostas" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kariams buvo įsakyta traukti į stovyklą netoli Zavichosto, todėl kryptis siejama su Zavichostu.
 
 <a id="claim-t-187690"></a>
 - t-002
@@ -45,19 +46,20 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'llm_object: Zavichostas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Zavichostas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 149528-149839; hash=c0d7004b14d27f41590ccfbf5f40f3b97dfa6fa9068c473791eb711a6022f417; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zavichostas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zavichostas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Zavichostas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186706|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Šio leidimo komentare pažymima, kad BK pasakojimas apie Zavichosto užėmimą ir nusiaubimą kituose šaltiniuose nėra paliudytas.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
 - susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
@@ -114,21 +116,25 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   irodymo_stiprumas: 0.00
   saltinio_vieta: 482264-482971; hash=46561665ab86133af1e23faea97f6860d4ef2afac6a117cc5111f3a10362cc3a; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumas: keliavo_i -> Zavichostas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zavichostas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zavichostas" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Lietuvių kariams buvo įsakyta traukti į stovyklą netoli Zavichosto, todėl kryptis siejama su Zavichostu.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 149528-149839; hash=c0d7004b14d27f41590ccfbf5f40f3b97dfa6fa9068c473791eb711a6022f417; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zavichostas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zavichostas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: puole -> Zavichostas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Zavichostas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą.
+
+## Ryšiai
+- [[objektai/grupes/Lietuviai]] puole Zavichostas
+- [[objektai/grupes/Lietuviai]] keliavo_i Zavichostas

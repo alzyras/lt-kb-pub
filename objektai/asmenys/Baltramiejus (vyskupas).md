@@ -31,7 +31,7 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - t-001
   global_id: t-30210
   teiginys: 'Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.'
-  susije_objektai: 'location: Avinjonas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Avinjonas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Avinjonas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardas; llm_object: Avinjonas'
   semantiniai_rysiai: '[[objektai/asmenys/Baltramiejus (vyskupas)|Baltramiejus (vyskupas)]] keliavo į Avinjonas'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Baltramiejus (vyskupas) keliavo į Avinjonas“, o ne visam objekto laikotarpiui.'
@@ -40,13 +40,13 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7768b33ad985c4622de79cd1f3f17b5cdefa3582fe04564ac7bce73ffff6226; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Avinjonas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Baltramiejus (vyskupas): owner_note_path, person, gap=29
-  ryšio_targeto_parinkimas: Avinjonas: nearest_after_predicate, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Baltramiejus (vyskupas)" parinktas kaip owner_note_path. Targetas "Avinjonas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Avinjonas: 0.65
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltramiejus (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Avinjonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad legatai, tarp jų Baltramiejus, atvyko iš Avinjono; tai kelionės pradžios, ne tikslo vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -71,13 +71,13 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f7768b33ad985c4622de79cd1f3f17b5cdefa3582fe04564ac7bce73ffff6226; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Avinjonas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_travel_local_target
-  ryšio_subjekto_parinkimas: Baltramiejus (vyskupas): owner_note_path, person, gap=29
-  ryšio_targeto_parinkimas: Avinjonas: nearest_after_predicate, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Baltramiejus (vyskupas)" parinktas kaip owner_note_path. Targetas "Avinjonas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Avinjonas: 0.65
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Baltramiejus (vyskupas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Avinjonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata nurodo, kad legatai, tarp jų Baltramiejus, atvyko iš Avinjono; tai kelionės pradžios, ne tikslo vieta.
 
 ## Ryšiai
 - Baltramiejus (vyskupas) keliavo_i [[objektai/vietos/Avinjonas]]

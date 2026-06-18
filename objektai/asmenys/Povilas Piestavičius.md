@@ -22,19 +22,20 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   global_id: t-87838
   teiginys: 'Povilas Piestavičius buvo Vilniaus vyskupo valdinys ir pilietis, kurio namas minėtas apibrėžiant prieglaudos sklypo ribas.'
   sudarymo_pagrindimas: 'Citata palaiko asmens statusą ir namo paminėjimą ribų apraše, o pradinė formuluotė yra fragmentiška.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Povilas Piestavičius|Povilas Piestavičius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Povilas Piestavičius|Povilas Piestavičius]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 746435-747039; hash=cd4a1c3914fe806e83971f35441f47df14ec93b0cd154e00e780a6d15654392c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas Piestavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Piestavičius" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Povilas Piestavičius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Povilas Piestavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kilmininko forma tiesiogiai rodo, kad minimas namas buvo Povilo Piestavičiaus.
 
 ## Reikšmingi paminėjimai
 
@@ -60,10 +61,13 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 746435-747039; hash=cd4a1c3914fe806e83971f35441f47df14ec93b0cd154e00e780a6d15654392c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Namas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Povilas Piestavičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Piestavičius" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Povilas Piestavičius: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Povilas Piestavičius: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Kilmininko forma tiesiogiai rodo, kad minimas namas buvo Povilo Piestavičiaus.
+
+## Ryšiai
+- [[objektai/daiktai/Namas]] priklause Povilas Piestavičius

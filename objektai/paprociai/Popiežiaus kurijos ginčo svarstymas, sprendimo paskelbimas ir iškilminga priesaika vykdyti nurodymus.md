@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87180
   teiginys: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pauli|Pauli]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Avinjonas; mentioned_place: Dvina; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pauli|Pauli]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Avinjonas; mentioned_place: Dvina; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; llm_object: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
@@ -62,13 +62,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 184971-189308; hash=7d72cd84e2213d2742da61c41ce056a171886ff86d402168073e21a1f9706991; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Ryga: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skunde Ordinui priskiriamas Rygos miesto gyventojų turto plėšimas.
 
 ## Reikšmingi paminėjimai
 
@@ -187,10 +187,10 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 184971-189308; hash=7d72cd84e2213d2742da61c41ce056a171886ff86d402168073e21a1f9706991; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumas: puole -> Ryga: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Skunde Ordinui priskiriamas Rygos miesto gyventojų turto plėšimas.

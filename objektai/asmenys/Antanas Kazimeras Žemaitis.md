@@ -21,19 +21,20 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
   global_id: t-18813
   teiginys: 'Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų faktą apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
+  susije_objektai: 'llm_object: Londonas; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Kazimeras Žemaitis|Antanas Kazimeras Žemaitis]] gimė Londonas'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eric Clapton: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Eric Clapton: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Kazimeras Žemaitis" parinktas kaip owner_note_path. Targetas "Eric Clapton" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Londonas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Londonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Antanas Kazimeras Žemaitis gimė Londone.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +57,13 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Eric Clapton: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Eric Clapton: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Kazimeras Žemaitis" parinktas kaip owner_note_path. Targetas "Eric Clapton" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: gime -> Londonas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Londonas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Antanas Kazimeras Žemaitis gimė Londone.
+
+## Ryšiai
+- Antanas Kazimeras Žemaitis gime [[objektai/vietos/Londonas]]

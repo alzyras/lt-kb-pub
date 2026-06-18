@@ -22,19 +22,20 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
   global_id: t-60102
   teiginys: 'Ditrichas Rodė, Kristburgo komtūras, antrosios atskalūnybės metais nusiaubė Pagudę ir mūšyje privertė prūsus bėgti.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus enciklopedinio fakto apie asmenį.'
-  susije_objektai: 'mentioned_place: Kristburgas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'llm_object: Pagudė; mentioned_place: Kristburgas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Kristburgo komtūras)|Ditrichas (Kristburgo komtūras)]] surengė žygį į Pagudė'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5fc502d257032f0fa500d9874b04fd619d5ab821f2723695a895329f34ba965f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Kristburgo komtūras): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Kristburgo komtūras)" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pagudė: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Kristburgo komtūras): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas žygyje nusiaubė Pagudės žemę, todėl ryšys su kariniu žygiu į Pagudę tiesiogiai pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +60,13 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5fc502d257032f0fa500d9874b04fd619d5ab821f2723695a895329f34ba965f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Kristburgo komtūras): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Kristburgo komtūras)" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Pagudė: 0.87
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas (Kristburgo komtūras): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Pagudė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Ditrichas žygyje nusiaubė Pagudės žemę, todėl ryšys su kariniu žygiu į Pagudę tiesiogiai pagrįstas.
+
+## Ryšiai
+- Ditrichas (Kristburgo komtūras) surenge_zygi_i [[objektai/vietos/Pagudė]]

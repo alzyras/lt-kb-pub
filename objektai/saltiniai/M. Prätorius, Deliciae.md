@@ -34,7 +34,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   global_id: t-60953
   teiginys: 'M. Prätorius manė, kad baltų Romovė galėjusi būti prie Biserkiemio ant Sidabro kalnu vadintos kalvos.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva; llm_object: [[objektai/grupes/Baltai|Baltai]]'
   temporaliniai_duomenys: 'įvykio data: 1684 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
@@ -43,13 +43,13 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 211294-211746; hash=cbfb83ee1455ad1a82454d2ad3d64c9f9bffc37bea5ea53977f4b5fc7b8831c0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: priklause -> Baltai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė Romovę tiesiogiai sieja su baltais kaip jų centrine šventviete.
 
 <a id="claim-t-60954"></a>
 - t-002
@@ -130,13 +130,13 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   irodymo_stiprumas: 0.00
   saltinio_vieta: 211294-211746; hash=cbfb83ee1455ad1a82454d2ad3d64c9f9bffc37bea5ea53977f4b5fc7b8831c0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumas: priklause -> Baltai: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Formuluotė Romovę tiesiogiai sieja su baltais kaip jų centrine šventviete.
     - t-003
 
 - c-003

@@ -36,20 +36,21 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   irodymo_stiprumas: 0.00
   saltinio_vieta: 762207-762601; hash=42dfef300e193c98396060266428a6f1f1a0a553430f00137bdbaa78396e2cc5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> I brigada: 0.85
+  ryšio_patikimumas: priklause -> brigada: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: I brigada: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marijampolės batalionas" parinktas kaip owner_note_path. Targetas "I brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: brigada: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas nurodo, kad Marijampolės batalionas veikė brigadoje.
 
 <a id="claim-t-78387"></a>
 - t-002
   global_id: t-78387
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata apie bataliono veikimą brigadoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Marijampolė; mentioned_place: Zarasai; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Marijampolė; mentioned_place: Zarasai; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; llm_object: [[objektai/grupes/brigada|brigada]]'
+  semantiniai_rysiai: '[[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]] priklausė [[objektai/grupes/brigada|brigada]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -113,10 +114,14 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   irodymo_stiprumas: 0.00
   saltinio_vieta: 762207-762601; hash=42dfef300e193c98396060266428a6f1f1a0a553430f00137bdbaa78396e2cc5; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> I brigada: 0.85
+  ryšio_patikimumas: priklause -> brigada: 0.74
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: I brigada: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marijampolės batalionas" parinktas kaip owner_note_path. Targetas "I brigada" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: brigada: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekstas nurodo, kad Marijampolės batalionas veikė brigadoje.
+
+## Ryšiai
+- Marijampolės batalionas priklause [[objektai/grupes/11 brigada]]
+- Marijampolės batalionas priklause [[objektai/grupes/brigada]]

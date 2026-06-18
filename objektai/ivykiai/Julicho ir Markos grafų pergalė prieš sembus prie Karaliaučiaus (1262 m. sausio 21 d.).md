@@ -46,7 +46,8 @@ Nenurodyta
   global_id: t-66571
   teiginys: 'Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai.'
   sudarymo_pagrindimas: 'Fragmentas išplėstas į pilną sakinį su aiškiu įvykio kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena'
+  susije_objektai: 'llm_object: [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] dalyvavo mūšyje [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -96,13 +97,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai minimi kaip kovos prie Karaliaučiaus dalyviai ir žuvusieji.
 
 <a id="claim-t-66574"></a>
 - t-004
@@ -192,13 +193,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Sembai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: dalyvavo_musyje -> Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Sembai tiesiogiai minimi kaip kovos prie Karaliaučiaus dalyviai ir žuvusieji.
     - t-001
 
 - c-004
@@ -235,3 +236,6 @@ Nenurodyta
   ryšio_subjekto_parinkimas: Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0
   ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=52
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Sembai]] dalyvavo_musyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)

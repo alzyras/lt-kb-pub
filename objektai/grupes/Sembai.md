@@ -47,20 +47,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sembus mini kaip vieną iš vakarinių baltų genčių.
 
 <a id="claim-t-175077"></a>
 - t-002
   global_id: t-175077
   teiginys: 'Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir paliktas aiškus faktas apie sembus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas Stange|Henrikas Stange]]; mentioned_place: Kristburgas; mentioned_place: Semba; mentioned_place: Girmava; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas Stange|Henrikas Stange]]; mentioned_place: Kristburgas; mentioned_place: Semba; mentioned_place: Girmava; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
   irodymo_stiprumas: 0.00
@@ -97,7 +97,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175079
   teiginys: 'Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.'
   sudarymo_pagrindimas: 'Boilerplate ir teologinė formuluotė pakeista aiškiu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_place: Fišhauzenas; mentioned_place: Semba; mentioned_place: Rinava'
+  susije_objektai: 'llm_object: Fišhauzenas; llm_object: Rinava; mentioned_place: Fišhauzenas; mentioned_place: Semba; mentioned_place: Rinava'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė Fišhauzenas; [[objektai/grupes/Sembai|Sembai]] gyveno Rinava'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -134,13 +135,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b9245ad3171d7889d2a47f67d128cbadfece133d2bde5e7eb2da2830b0cbbbfe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie bendrus sembų ir lietuvių veiksmus apgultyje.
 
 <a id="claim-t-175082"></a>
 - t-007
@@ -159,7 +160,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175083
   teiginys: 'Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_place: Medraba; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]'
+  susije_objektai: 'mentioned_place: Medraba; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; llm_object: Medraba'
   pagrindžia:
     - c-017
   irodymo_stiprumas: 0.00
@@ -178,7 +179,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175084
   teiginys: '1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_place: Notanga; mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
+  susije_objektai: 'mentioned_place: Bisenė; mentioned_place: Notanga; mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; llm_object: Bisenė'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
@@ -206,19 +208,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 338853-339956; hash=3e3ef4e22c8485b8b882c6c26e7bc422061f43b82c2a129350e04a77fac01d70; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Stange: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Henrikas Stange: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Henrikas Stange" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Henriko Stange įsiveržimą į Sembą.
 
 <a id="claim-t-175086"></a>
 - t-011
   global_id: t-175086
   teiginys: 'Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Viena; mentioned_place: Šiauliai'
+  susije_objektai: 'llm_object: [[objektai/grupes/Baltai|Baltai]]; llm_object: Rytprūsiai; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Viena; mentioned_place: Šiauliai'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Baltai|Baltai]]; [[objektai/grupes/Sembai|Sembai]] gyveno Rytprūsiai'
   pagrindžia:
     - c-011
 
@@ -259,20 +262,21 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glanda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Glanda: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Glanda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Glanda: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glanda: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.
 
 <a id="claim-t-175090"></a>
 - t-014
   global_id: t-175090
   teiginys: '1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; llm_object: Medininkai'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] surengė žygį į Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -369,7 +373,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175095
   teiginys: '1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir fragmentiška pabaiga, paliktas aiškus įvykis.'
-  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Semba; mentioned_place: Vaikiai; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Semba; mentioned_place: Vaikiai; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; llm_object: Vaikiai'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] surengė žygį į Vaikiai'
   temporaliniai_duomenys: 'įvykio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštė ir fragmentiška pabaiga, paliktas aiškus įvykis.'
@@ -423,13 +428,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fišhauzenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Fišhauzenas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Fišhauzenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Fišhauzenas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Fišhauzenas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai teigia, kad sembai užpuolė Fišhauzeno pilį.
 
 <a id="claim-t-175099"></a>
 - t-023
@@ -466,7 +471,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175101
   teiginys: 'Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.'
   sudarymo_pagrindimas: 'Citata palaiko bendrų sembų ir lietuvių veiksmų teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] buvo sąjungininkas su [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1262 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko bendrų sembų ir lietuvių veiksmų teiginį.'
@@ -494,32 +500,33 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medraba: 0.85
+  ryšio_patikimumas: puole -> Medraba: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medraba: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Medraba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bertoldas su Sembos vyrais pasuko į Medrabos pilį ir po antpuolio ją sudegino, todėl puolimas tiesiogiai pagrįstas.
 
 <a id="claim-t-175104"></a>
 - t-028
   global_id: t-175104
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo sembų pasirinktą vadą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glanda|Glanda]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Glanda|Glanda]]; mentioned_person: [[objektai/asmenys/Glanda|Glanda]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] paskyrė [[objektai/asmenys/Glanda|Glanda]]'
   pagrindžia:
     - c-030
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=439a3f93ed59ae4a3bb274a47953bea42bde3890f3088ef759397dc78ce1e62e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumas: puole -> Bisenė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembos vyrai nurodyti kaip puolime dalyvavę kariai, todėl galima atsargiai sieti juos su Bisenės puolimu.
 
 <a id="claim-t-175105"></a>
 - t-029
@@ -532,13 +539,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Medininkai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembos vyrai minimi kaip žygio į Medininkų valsčių dalyviai.
+- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
 - susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
@@ -670,6 +678,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58810|fogtas]]: Magistras Konradas iš Tirbergo pasiuntė sembų žemės fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58812|fogtas]]: Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.
+- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
+- susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
+- susijęs iš Girmava: Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
+- susijęs iš Lietuva: Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89224|Skalviai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
+- susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59836|Ditrichas (Sembos fogtas)]]: Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -898,13 +914,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medraba: 0.85
+  ryšio_patikimumas: puole -> Medraba: 0.83
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medraba: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Medraba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Bertoldas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Bertoldas su Sembos vyrais pasuko į Medrabos pilį ir po antpuolio ją sudegino, todėl puolimas tiesiogiai pagrįstas.
     - t-009
 
 - c-009
@@ -1019,13 +1035,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=d1545523848d4e8f0a8309fe37792e5bff1b921183851081177db5e4f4a13caa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Medininkai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembos vyrai minimi kaip žygio į Medininkų valsčių dalyviai.
     - t-001
 
 - c-014
@@ -1040,13 +1056,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sembus mini kaip vieną iš vakarinių baltų genčių.
     - t-010
 
 - c-015
@@ -1067,13 +1083,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 338853-339956; hash=3e3ef4e22c8485b8b882c6c26e7bc422061f43b82c2a129350e04a77fac01d70; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Stange: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Henrikas Stange: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Henrikas Stange" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Henriko Stange įsiveržimą į Sembą.
     - t-013
 
 - c-016
@@ -1092,13 +1108,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=163b7d2001444dfd4d0bd75d5f9a360958a667441748506bc2f305c13c2c6ea2; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Glanda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Glanda: mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Glanda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Glanda: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Glanda: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.
     - t-024
 
 - c-017
@@ -1173,13 +1189,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 338853-339956; hash=3e3ef4e22c8485b8b882c6c26e7bc422061f43b82c2a129350e04a77fac01d70; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas Stange: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Henrikas Stange: mention_match, person, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Henrikas Stange" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Henriko Stange įsiveržimą į Sembą.
     - t-019
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=501519ca0a8010e55ca0302b41a0a1409f233d1102f480e9b690eb2abafcd25e; match=fallback; occurrences=0
@@ -1202,13 +1218,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fišhauzenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Fišhauzenas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Fišhauzenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Fišhauzenas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Fišhauzenas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai teigia, kad sembai užpuolė Fišhauzeno pilį.
     - t-001
 
 - c-021
@@ -1233,13 +1249,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=58af4b122bd3bfec63bb207fc4bf2e541bb651f003f2d871473e57b983073b60; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Baltai: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sembus mini kaip vieną iš vakarinių baltų genčių.
     - t-023
     - t-012
 
@@ -1349,13 +1365,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=b9245ad3171d7889d2a47f67d128cbadfece133d2bde5e7eb2da2830b0cbbbfe; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys tiesiogiai kalba apie bendrus sembų ir lietuvių veiksmus apgultyje.
     - t-014
 
 - c-026
@@ -1427,13 +1443,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fišhauzenas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Fišhauzenas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Fišhauzenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: puole -> Fišhauzenas: 0.97
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Fišhauzenas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim ir citata tiesiogiai teigia, kad sembai užpuolė Fišhauzeno pilį.
     - t-032
 
 - c-028
@@ -1472,13 +1488,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 657787-658636; hash=994c1103bda52c8f5faddf5713f4f2b1279835c21f4d1d8e1e60c4db2cfc0eb9; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notanga: 0.85
+  ryšio_patikimumas: surenge_zygi_i -> Vaikiai: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vaikiai: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembos kariai tiesiogiai nurodyti žygyje prieš Vaikių valsčių.
     - t-012
 
 - c-029
@@ -1552,13 +1568,13 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=439a3f93ed59ae4a3bb274a47953bea42bde3890f3088ef759397dc78ce1e62e; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumas: puole -> Bisenė: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sembai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sembos vyrai nurodyti kaip puolime dalyvavę kariai, todėl galima atsargiai sieti juos su Bisenės puolimu.
     - t-012
 
 - c-031
@@ -1597,4 +1613,34 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembai" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Sembai uzkariavo [[objektai/vietos/Vonsdorfas]]
+- Sembai puole [[objektai/vietos/Fišhauzenas]]
+- Sembai gyveno [[objektai/vietos/Rinava]]
+- Sembai paskyre [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
+- Sembai paskyre [[objektai/asmenys/Glanda]]
+- Sembai siunte_i [[objektai/vietos/Baiga]]
+- Sembai uzkariavo [[objektai/vietos/Kapsteta]]
+- Sembai priklause [[objektai/grupes/Baltai]]
+- Sembai uzeme [[objektai/vietos/Kapsteta]]
+- Sembai gyveno [[objektai/vietos/Rytprūsiai]]
+- Sembai puole [[objektai/vietos/Rinava]]
+- Sembai puole [[objektai/vietos/Paštuvos valsčius]]
+- [[objektai/grupes/Kryžiuočių ordinas]] kariavo_pries Sembai
+- Sembai dalyvavo_musyje [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
+- Sembai buvo_sajungininkas_su [[objektai/grupes/Lietuviai]]
+- Sembai keliavo_i [[objektai/vietos/Birka (Švedijos uostas)]]
+- Sembai puole [[objektai/vietos/Vonsdorfas]]
+- [[objektai/asmenys/Henrikas Stange]] kariavo_pries Sembai
+- [[objektai/asmenys/Henrikas Ulenbušas]] kariavo_pries Sembai
+- Sembai puole [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
+- [[objektai/vietos/Girmava]] priklause Sembai
+- [[objektai/grupes/Lietuviai]] puole Sembai
+- [[objektai/grupes/Nadruviai]] kariavo_pries Sembai
+- Sembai puole [[objektai/vietos/Bisenė]]
+- Sembai puole [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]
+- Sembai surenge_zygi_i [[objektai/vietos/Medininkai]]
+- Sembai surenge_zygi_i [[objektai/vietos/Vaikiai]]
+- [[objektai/grupes/Skalviai]] buvo_priesas Sembai
+- [[objektai/asmenys/Engelbertas I]] puole Sembai
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]] reme Sembai
+- Sembai puole [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]
+- Sembai puole [[objektai/grupes/Skalviai]]

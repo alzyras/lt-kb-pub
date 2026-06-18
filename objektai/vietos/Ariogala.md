@@ -87,20 +87,20 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 499139-499500; hash=0d8bfb1b364f5ab6dd3e2be76674efc4d89118fa23c377e20f32bf8f05e6b57c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ariogala: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad pusė Ariogalos žemės buvo užrašyta ordinui.
 
 <a id="claim-t-179752"></a>
 - t-006
   global_id: t-179752
   teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata patvirtina, kad palyda pasiekė Ariogalos apylinkes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Raseiniai; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Raseiniai; mentioned_place: Romuva; llm_object: Bisenė'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -119,7 +119,8 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   global_id: t-179754
   teiginys: 'Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  semantiniai_rysiai: 'Ariogala priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
@@ -156,12 +157,14 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Ariogalos žemių sunaikinimą.'
-  susije_objektai: 'mentioned_place: Pernarava; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Pernarava; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija; llm_object: Ariogala; llm_object: Pernarava'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Ariogala'
   temporaliniai_duomenys: 'įvykio data: 1363 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Ariogalos žemių sunaikinimą.'
   pagrindžia:
     - c-008
+- susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
 - susijęs iš [[objektai/autoriai/Petras Suchenwirt.md#claim-t-30926|Petras Suchenwirt]]: Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.
 - susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 - susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
@@ -198,6 +201,8 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
+- susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
+- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -293,13 +298,13 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   irodymo_stiprumas: 0.00
   saltinio_vieta: 499139-499500; hash=0d8bfb1b364f5ab6dd3e2be76674efc4d89118fa23c377e20f32bf8f05e6b57c; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ariogala: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad pusė Ariogalos žemės buvo užrašyta ordinui.
     - t-001
 
 - c-006
@@ -387,3 +392,8 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-009
+
+## Ryšiai
+- [[objektai/asmenys/Fridrichas iš Vildenbergo]] puole Ariogala
+- Ariogala priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]] puole Ariogala

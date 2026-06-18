@@ -67,7 +67,8 @@ Nenurodyta
 - t-002
   global_id: t-05326
   teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)|Vytauto karūnacijos byla (1429–1430 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] puolė [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)|Vytauto karūnacijos byla (1429–1430 m.)]]'
   pagrindžia:
     - c-001
     - c-005
@@ -122,13 +123,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1017371-1017821; hash=a128a7e7beef3a3d2349bebfa01764d0fe46abf0ad12b85e3b6cdd35a4c74455; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: puole -> Vytauto karūnacijos byla (1429–1430 m.): 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto karūnacijos byla (1429–1430 m.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytauto karūnacijos byla (1429–1430 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Delegacijos sulaikymas ir dokumentų atėmimas buvo tiesioginis veiksmas prieš karūnavimo procesą, bet objektas modeliuojamas įvykiu.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
 ## Reikšmingi paminėjimai
 
@@ -270,10 +271,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 1017371-1017821; hash=a128a7e7beef3a3d2349bebfa01764d0fe46abf0ad12b85e3b6cdd35a4c74455; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumas: puole -> Vytauto karūnacijos byla (1429–1430 m.): 0.58
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto karūnacijos byla (1429–1430 m.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Vytauto karūnacijos byla (1429–1430 m.): llm_allowed_candidate, event
+  ryšio_paaiskinimas: Delegacijos sulaikymas ir dokumentų atėmimas buvo tiesioginis veiksmas prieš karūnavimo procesą, bet objektas modeliuojamas įvykiu.
+
+## Ryšiai
+- [[objektai/grupes/Lenkai]] puole Vytauto karūnacijos byla (1429–1430 m.)

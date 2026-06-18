@@ -68,6 +68,7 @@ amziai:
   ryšio_subjekto_parinkimas: Tautos taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: generaliniai tarėjai: mention_match, thing, gap=17
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautos taryba (institucija)" parinktas kaip owner_note_path. Targetas "generaliniai tarėjai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
 - susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
@@ -116,3 +117,6 @@ amziai:
   ryšio_subjekto_parinkimas: Tautos taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=74
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautos taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]] buvo_sajungininkas_su Tautos taryba (institucija)

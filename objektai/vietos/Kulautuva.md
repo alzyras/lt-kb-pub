@@ -50,7 +50,7 @@ amziai:
   global_id: t-68323
   teiginys: 'Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Kulautuvos apylinkes su Salyno susitikimu ir jo nutarimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Kulautuvos apylinkes su Salyno susitikimu ir jo nutarimu.'
@@ -59,13 +59,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aac361af728a1569b685515364959538375f43c23909df465b8dc5d46ac2199a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulautuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=124
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulautuva" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Žemaitija buvo užleista kryžiuočiams.
 - susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
 - susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 - susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
@@ -112,13 +112,13 @@ amziai:
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=aac361af728a1569b685515364959538375f43c23909df465b8dc5d46ac2199a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nevėžis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulautuva: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nevėžis: mention_match, place, gap=124
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulautuva" parinktas kaip owner_note_path. Targetas "Nevėžis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Žemaitija buvo užleista kryžiuočiams.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=049b83528b0254421b75ae4ade903435648925fd805c9b2903598ef97c717961; match=fallback; occurrences=0

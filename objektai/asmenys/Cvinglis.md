@@ -62,6 +62,7 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
+- susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,3 +104,6 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
   ryšio_subjekto_parinkimas: Cvinglis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=73
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cvinglis" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]] reme Cvinglis

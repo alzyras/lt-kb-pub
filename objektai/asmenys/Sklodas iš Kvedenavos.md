@@ -24,19 +24,20 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   global_id: t-60205
   teiginys: 'Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.'
   sudarymo_pagrindimas: 'Citata pagrindžia Sklodo veiksmą ir kalbos tikslą; pašalintos nutrūkusios citatos dalys.'
-  susije_objektai: 'mentioned_place: Kvedenava; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Sklodas iš Kvedenavos|Sklodas iš Kvedenavos]]; mentioned_place: Kvedenava; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Noliubas|Noliubas]] buvo sūnus [[objektai/asmenys/Sklodas iš Kvedenavos|Sklodas iš Kvedenavos]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=922d4456fe1a87ebb5723a01458d5fa5ddf2649cdd907185509708b27ec25196; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kvedenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sklodas iš Kvedenavos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kvedenava: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sklodas iš Kvedenavos" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Sklodas iš Kvedenavos: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Noliubas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sklodas iš Kvedenavos: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Sklodas tiesiogiai įvardytas Noliubo tėvu, todėl Noliubas yra jo sūnus.
 
 <a id="claim-t-60206"></a>
 - t-002
@@ -112,10 +113,13 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=922d4456fe1a87ebb5723a01458d5fa5ddf2649cdd907185509708b27ec25196; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kvedenava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sklodas iš Kvedenavos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kvedenava: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sklodas iš Kvedenavos" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sunus -> Sklodas iš Kvedenavos: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Noliubas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Sklodas iš Kvedenavos: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Sklodas tiesiogiai įvardytas Noliubo tėvu, todėl Noliubas yra jo sūnus.
+
+## Ryšiai
+- [[objektai/asmenys/Noliubas]] buvo_sunus Sklodas iš Kvedenavos

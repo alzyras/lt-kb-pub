@@ -75,8 +75,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   ryšio_subjekto_parinkimas: Kretinga: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Raseiniai: mention_match, place, gap=24
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kretinga" parinktas kaip owner_note_path. Targetas "Raseiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
 - susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
 - susijęs iš Kretingos apskritis: P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.

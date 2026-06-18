@@ -66,7 +66,8 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   global_id: t-83618
   teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą žygį ir galimą Polocko nusiaubimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Kijevo Rusia; llm_object: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Kijevo Rusia'
   temporaliniai_duomenys: 'įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą žygį ir galimą Polocko nusiaubimą.'
@@ -78,7 +79,8 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   global_id: t-83619
   teiginys: 'Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia sutvarkyti OCR skaidymą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  semantiniai_rysiai: 'Kijevo Rusia priklausė Lietuva'
   pagrindžia:
     - c-007
 
@@ -106,7 +108,8 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   global_id: t-83622
   teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir paremtas citata apie lietuvių žygį į Rusios žemes.'
-  susije_objektai: 'mentioned_place: Pskovas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'llm_object: Kijevo Rusia; llm_object: Pskovas; mentioned_place: Pskovas; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] surengė žygį į Kijevo Rusia'
   temporaliniai_duomenys: 'įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir paremtas citata apie lietuvių žygį į Rusios žemes.'
@@ -134,13 +137,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=35831ff82166cc486031701f850ae1ceba6593348ce7de0a7ac2fbaf8a14116c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kijevo Rusia: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių žygį į Rusios žemes.
 
 <a id="claim-t-83624"></a>
 - t-009
@@ -181,7 +184,8 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   global_id: t-83627
   teiginys: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje aprašytą Lietuvos ir Rusios valdymo perėjimą Algirdui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius; llm_object: Kijevo Rusia; llm_object: Lietuva; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Kijevo Rusia'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
@@ -200,19 +204,20 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   global_id: t-83628
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinis teiginys turi OCR triukšmo ir perteklinių frazių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius; llm_object: Lietuva'
+  semantiniai_rysiai: 'Kijevo Rusia priklausė Lietuva'
   pagrindžia:
     - c-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ef17ae25625b57bee694eb4bd3e7690d431bceedbc4f4f257957d581885c8ec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai apibūdina Rusią kaip priklausančią Lietuvai.
 
 <a id="claim-t-185124"></a>
 - t-013
@@ -222,19 +227,20 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, bet patikslintas ir sutrumpintas pagal citatos formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Livonija; llm_object: Kijevo Rusia'
+  semantiniai_rysiai: '[[objektai/asmenys/Kukovaitis|Kukovaitis]] siuntė į Kijevo Rusia'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f260a9298da358dab129f6fd38529047eef5b739706a6f312e4ac663d5a4304f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kijevo Rusia: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Rusios valdymas perleistas Algirdui.
 
 <a id="claim-t-185125"></a>
 - t-014
@@ -244,7 +250,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata leidžia suformuoti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Volynė; llm_object: Lenkija'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
@@ -266,7 +272,8 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl palikta šaltinio atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'llm_object: Kijevo Rusia; mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Kijevo Rusia'
   pagrindžia:
     - c-010
   irodymo_stiprumas: 0.00
@@ -279,6 +286,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
 - susijęs iš [[objektai/grupes/Kijevo Rusia.md#claim-t-181458|Kijevo Rusia]]: XI a. Lietuva patyrė Kijevo Rusios agresiją.
@@ -312,6 +320,9 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22197|konversija christianizacija europeizacija]]: Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169930|rusėnų kalba LDK raštų kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -430,13 +441,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   irodymo_stiprumas: 0.00
   saltinio_vieta: 42841-43169; hash=8538999859306a5c726b5a021b6174f7c399a9526fa311ebf37420423a1a83be; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pskovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kijevo Rusia: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių surengtą žygį į Rusios žemes.
     - t-001
     - t-008
 
@@ -460,13 +471,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=35831ff82166cc486031701f850ae1ceba6593348ce7de0a7ac2fbaf8a14116c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kijevo Rusia: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lietuvių žygį į Rusios žemes.
     - t-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=857b2395abad24526d76e13d781b9d39d801144e0c84100ef27eda523c9beaf8; match=fallback; occurrences=0
@@ -498,13 +509,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=5ef17ae25625b57bee694eb4bd3e7690d431bceedbc4f4f257957d581885c8ec; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Lietuva: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Claim tiesiogiai apibūdina Rusią kaip priklausančią Lietuvai.
     - t-003
 
 - c-007
@@ -582,13 +593,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=f260a9298da358dab129f6fd38529047eef5b739706a6f312e4ac663d5a4304f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde -> Kijevo Rusia: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata sako, kad Rusios valdymas perleistas Algirdui.
     - t-014
 
 - c-010
@@ -631,3 +642,12 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   ryšio_subjekto_parinkimas: Kijevo Rusia: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=64
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Rusia" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Jaroslavas]] buvo_valdovas Kijevo Rusia
+- Kijevo Rusia priklause [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]] surenge_zygi_i Kijevo Rusia
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyne Kijevo Rusia
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde Kijevo Rusia
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Kijevo Rusia
+- [[objektai/asmenys/Kukovaitis]] siunte_i Kijevo Rusia

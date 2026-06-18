@@ -46,7 +46,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet sakinį galima laikyti aiškiu tik kaip faktą apie Žygimanto Augusto ugdymą ir statybą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Bona Sforca|Bona Sforca]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Bona Sforca|Bona Sforca]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; llm_object: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Vilnius'
   pagrindžia:
     - c-002
 
@@ -100,8 +101,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko giminystės faktą, bet pradinis sakinys labiau kalba apie kitą asmenį.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-006
 
@@ -113,7 +113,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir išplėstas vardas pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Barboros rūmai Vilniuje'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] gyveno Barboros rūmai Vilniuje'
   pagrindžia:
     - c-007
 
@@ -194,7 +195,8 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Knišinas; mentioned_place: Vilnius'
+  susije_objektai: 'llm_object: Knišinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Knišinas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] mirė Knišinas'
   pagrindžia:
     - c-013
 
@@ -244,10 +246,12 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia skyrybų vertinimą ir popiežiaus leidimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-017
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
+- susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
@@ -326,6 +330,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86537|mansionieriai]]: Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86425|muitas thelonea]]: Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
+- susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -681,5 +686,22 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-017
 
 ## Ryšiai
-- Žygimantas Augustas (arkivyskupas, XVI a.) vede [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Augustas]] vede Žygimantas Augustas (arkivyskupas, XVI a.)
+- Žygimantas Augustas (arkivyskupas, XVI a.) mire [[objektai/vietos/Knišinas]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) vede [[objektai/asmenys/Barbora Radvilaitė]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) keliavo_i [[objektai/vietos/Vilnius]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) vede [[objektai/asmenys/Kotryna]]
+- [[objektai/asmenys/Barbora Radvilaitė]] buvo_zmona Žygimantas Augustas (arkivyskupas, XVI a.)
+- Žygimantas Augustas (arkivyskupas, XVI a.) gyne [[objektai/vietos/Livonija]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Onos bažnyčia Vilniuje]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) gyne [[objektai/vietos/Lietuva]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) valde [[objektai/vietos/Lietuva]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) valde [[objektai/vietos/Lenkija]]
+- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]] priklause Žygimantas Augustas (arkivyskupas, XVI a.)
+- Žygimantas Augustas (arkivyskupas, XVI a.) gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) reme [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) buvo_vyras [[objektai/asmenys/Barbora Radvilaitė]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastate [[objektai/vietos/Vilnius]]

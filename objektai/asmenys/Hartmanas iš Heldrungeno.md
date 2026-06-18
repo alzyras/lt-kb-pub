@@ -40,13 +40,13 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65478-65794; hash=f13042433b202c8b7dc7f0e16a05974b57a44ef427fe3a9f2eab2a116e72eee3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hartmanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hartmanas iš Heldrungeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hartmanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hartmanas iš Heldrungeno" parinktas kaip owner_note_path. Targetas "Hartmanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Po susijungimo Livonija aiškiai aprašyta kaip atitekusi Vokiečių ordinui.
 
 <a id="claim-t-59967"></a>
 - t-002
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   global_id: t-59968
   teiginys: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.'
   sudarymo_pagrindimas: 'Citata yra apie Hartmano teksto turinį, todėl reikia aiškaus šaltinio turinio teiginio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Livonija'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -126,13 +126,13 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 65478-65794; hash=f13042433b202c8b7dc7f0e16a05974b57a44ef427fe3a9f2eab2a116e72eee3; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hartmanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hartmanas iš Heldrungeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hartmanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hartmanas iš Heldrungeno" parinktas kaip owner_note_path. Targetas "Hartmanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: priklause -> Kryžiuočių ordinas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Livonija: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Po susijungimo Livonija aiškiai aprašyta kaip atitekusi Vokiečių ordinui.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=287f71fafd91ea97b82c26bc54768f6f836f7977728e57a20725f4bb3c61cce3; match=fallback; occurrences=0

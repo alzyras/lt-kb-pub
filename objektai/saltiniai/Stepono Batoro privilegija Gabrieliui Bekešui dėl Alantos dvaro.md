@@ -58,20 +58,20 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589876-590122; hash=0f09f922a85bc5df70541a43b42cad95c64bf16eb3b4ca4614ff9c5cdf56b074; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alanta: 0.85
+  ryšio_patikimumas: priklause -> Astikas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Alanta: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro" parinktas kaip owner_note_path. Targetas "Alanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Alantą įvardija kaip Astiko dvarą, todėl pagrįsta sieti Alantos dvarą su Astiku kaip priklausiusį jam.
 
 <a id="claim-t-88168"></a>
 - t-003
   global_id: t-88168
   teiginys: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą į karalių ir pašalinti vertinamąjį epitetą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Astikas|Astikas]]'
   pagrindžia:
     - c-003
 
@@ -159,13 +159,13 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   irodymo_stiprumas: 0.00
   saltinio_vieta: 589876-590122; hash=0f09f922a85bc5df70541a43b42cad95c64bf16eb3b4ca4614ff9c5cdf56b074; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alanta: 0.85
+  ryšio_patikimumas: priklause -> Astikas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Alanta: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro" parinktas kaip owner_note_path. Targetas "Alanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata Alantą įvardija kaip Astiko dvarą, todėl pagrįsta sieti Alantos dvarą su Astiku kaip priklausiusį jam.
     - t-001
 
 - c-003

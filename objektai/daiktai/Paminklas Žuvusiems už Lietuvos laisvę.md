@@ -48,7 +48,8 @@ Nenurodyta
   global_id: t-19579
   teiginys: '1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaunas; llm_object: Kaunas'
+  semantiniai_rysiai: '[[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę|Paminklas Žuvusiems už Lietuvos laisvę]] priklausė Kaunas'
   temporaliniai_duomenys: 'mirties data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -57,13 +58,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paminklas Žuvusiems už Lietuvos laisvę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paminklas Žuvusiems už Lietuvos laisvę" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paminklas Žuvusiems už Lietuvos laisvę: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja paminklą Kaune, todėl daiktas siejamas su Kaunu priklausymo ar buvimo ryšiu.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +89,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumas: priklause -> Kaunas: 0.66
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paminklas Žuvusiems už Lietuvos laisvę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paminklas Žuvusiems už Lietuvos laisvę" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Paminklas Žuvusiems už Lietuvos laisvę: llm_allowed_candidate, thing
+  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata lokalizuoja paminklą Kaune, todėl daiktas siejamas su Kaunu priklausymo ar buvimo ryšiu.
+
+## Ryšiai
+- Paminklas Žuvusiems už Lietuvos laisvę priklause [[objektai/vietos/Kaunas]]

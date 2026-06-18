@@ -24,19 +24,20 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   global_id: t-58478
   teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Svečės pilies statybą, vietą ir paskirtį.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Vysla; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Santyras; mentioned_place: Torunė'
+  susije_objektai: 'llm_object: Svečė; mentioned_place: Kulmas; mentioned_place: Vysla; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Santyras; mentioned_place: Torunė'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] pastatė Svečė'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305421-306038; hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svečė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svečė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Svečė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Svečė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas tiesiogiai nurodomas kaip pradėjęs statyti Svečės pilį.
 
 <a id="claim-t-58479"></a>
 - t-002
@@ -75,6 +76,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   ryšio_subjekto_parinkimas: Svečė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svečė" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66925|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179119|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.
 - susijęs iš [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies.md#claim-t-62198|Antrosios laivų kautynės prie Svečės pilies (pilis)]]: Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.
@@ -91,6 +93,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - susijęs iš Sartovicų pilis (pilis): Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui.
 - susijęs iš Vda: Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 - susijęs iš Višogrudas: Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų.md#claim-t-62404|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]: Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -170,13 +173,13 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   irodymo_stiprumas: 0.00
   saltinio_vieta: 305421-306038; hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svečė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svečė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Svečė: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Svečė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Sventopelkas tiesiogiai nurodomas kaip pradėjęs statyti Svečės pilį.
     - t-005
   irodymo_stiprumas: 0.00
   saltinio_vieta: 313401-314185; hash=dd820ccb4ddc990007c77cfc32b6def909fc453390585c6b2ed86a51649ce990; match=ocr_normalized_gapped
@@ -199,3 +202,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   ryšio_subjekto_parinkimas: Svečė: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=43
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svečė" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Sventopelkas]] pastate Svečė
+- [[objektai/asmenys/Sventopelkas]] gyne Svečė

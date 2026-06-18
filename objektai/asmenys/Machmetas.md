@@ -83,6 +83,8 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko Machmeto tapimą chanu.'
   pagrindžia:
     - c-003
+- susijęs iš Krymas: 1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.
+- susijęs iš Pavolgis: 1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
 - susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
 - susijęs iš [[objektai/asmenys/Didysis Machmetas.md#claim-t-34784|Didysis Machmetas]]: Didysis Machmetas 1424 m. Vytauto padedamas užėmė Kipčako sostą ir valdžią išlaikė iki 1437 ar 1438 m.
 - susijęs iš [[objektai/grupes/Krimo totoriai.md#claim-t-92088|Krimo totoriai]]: 1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.
@@ -170,4 +172,4 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-- Machmetas uzeme [[objektai/vietos/Kipčakas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] reme Machmetas

@@ -38,20 +38,21 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=012c55d7d785621354d4037604dd0cf3ab01e976a87c089cc831bf9a1748385d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Herkus Mantas triuškino Ordiną.
 
 <a id="claim-t-175187"></a>
 - t-002
   global_id: t-175187
   teiginys: 'Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia Herkaus Manto išrinkimą notangų vadu.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] paskyrė [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-006
   irodymo_stiprumas: 0.00
@@ -69,7 +70,8 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - t-003
   global_id: t-175188
   teiginys: 'Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] surengė žygį į Kulmas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -94,19 +96,20 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414009-415254; hash=03d7b8f0f8ac43cfe3f240698938dcb7b07316cfe768b8c0907ec019b768e8f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Herkus Mantas su kariuomene įsiveržė į Kulmo žemę.
 
 <a id="claim-t-175190"></a>
 - t-005
   global_id: t-175190
   teiginys: 'Dusburgietis pasakoja, kad notangai savo kariuomenės vadu ir vyresniuoju pasirinko Herkų Mantą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
+  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] paskyrė [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-001
     - c-003
@@ -126,7 +129,8 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   global_id: t-175191
   teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškų „Manto“ į pilną asmens vardą.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva; llm_object: Kulmas; llm_object: Vėluva'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Herkus Mantas|Herkus Mantas]] puolė Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų „Manto“ į pilną asmens vardą.'
@@ -148,19 +152,20 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   global_id: t-175192
   teiginys: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas antraštės tekstu; citata leidžia suformuluoti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
+  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] surengė žygį į Kulmas'
   pagrindžia:
     - c-008
   irodymo_stiprumas: 0.00
   saltinio_vieta: 19933-20431; hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste nurodyta, kad Manto vadovaujami prūsai sutriuškino kryžiuočius.
 
 <a id="claim-t-175193"></a>
 - t-008
@@ -172,20 +177,21 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 379905-380563; hash=29f9098c3108597793a1a56129f572e9611bde6f1a0441a51033caf9b33dfb86; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notangai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notangai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Notangai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad notangai pasirinko Herkų Mantą savo vadu.
 
 <a id="claim-t-175194"></a>
 - t-009
   global_id: t-175194
   teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
   sudarymo_pagrindimas: 'Reikia išplėsti pavardę į aiškų asmens vardą ir patikslinti mūšio aplinkybę.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vėluva; llm_object: Kulmas; llm_object: Vėluva'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Herkus Mantas|Herkus Mantas]] puolė Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti pavardę į aiškų asmens vardą ir patikslinti mūšio aplinkybę.'
@@ -194,13 +200,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414009-415254; hash=03d7b8f0f8ac43cfe3f240698938dcb7b07316cfe768b8c0907ec019b768e8f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hirtshalsas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hirtshalsas: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Hirtshalsas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Herkaus Manto įsiveržimą į Kulmo žemę.
 
 <a id="claim-t-175195"></a>
 - t-010
@@ -231,13 +237,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84608a8debaba35dafaa659bedfc9c773e532a1f82cc6fa69b17e4c3a8472e56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sieja Herkaus Manto vadovaujamus prūsus su kryžiuočių sutriuškinimu.
 
 <a id="claim-t-175197"></a>
 - t-012
@@ -250,13 +256,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad notangai Herkų Mantą išsirinko vadu ir vyresniuoju.
 
 <a id="claim-t-175198"></a>
 - t-013
@@ -290,7 +296,8 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   global_id: t-175200
   teiginys: 'Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daug žmonių, prisigrobė turto ir sudegino pastatus už įtvirtinimų.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Herkaus Manto veiksmus ir remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lubava; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lubava; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] surengė žygį į Kulmas'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -314,20 +321,21 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4b5d78bd36a942154c50a533a4d184bc85676e50f830f675cc94c237a31d94fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helmerichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Helmerichas: mention_match, person, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Helmerichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Herkus Mantas su kariuomene įsibrovė į Kulmo žemę.
 
 <a id="claim-t-175202"></a>
 - t-017
   global_id: t-175202
   teiginys: 'Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandesnę enciklopedinę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Pamedė; mentioned_place: Vėluva'
+  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Pamedė; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Herkus Mantas|Herkus Mantas]] puolė Kulmas'
   pagrindžia:
     - c-007
   irodymo_stiprumas: 0.00
@@ -340,6 +348,11 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Helvigas iš Goldbacho: mention_match, person, gap=36
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Helvigas iš Goldbacho" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78409|Notangai]]: Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
+- susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66455|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: 1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
 - susijęs iš [[objektai/autoriai/Keyserlingk B.md#claim-t-91951|Keyserlingk B]]: B. Keyserlingkas parašė kūrinius „Monte der Rebell“ ir „Sukilėlis Montė“ apie Herkų Mantą.
@@ -349,6 +362,8 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78412|Notangai]]: Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies.
 - susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.
+- susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89688|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.
@@ -467,13 +482,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=012c55d7d785621354d4037604dd0cf3ab01e976a87c089cc831bf9a1748385d; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Herkus Mantas triuškino Ordiną.
     - t-005
 
 - c-004
@@ -504,24 +519,24 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 379905-380563; hash=29f9098c3108597793a1a56129f572e9611bde6f1a0441a51033caf9b33dfb86; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Notangai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Notangai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Notangai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad notangai pasirinko Herkų Mantą savo vadu.
     - t-016
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4b5d78bd36a942154c50a533a4d184bc85676e50f830f675cc94c237a31d94fa; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Helmerichas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Helmerichas: mention_match, person, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Helmerichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Herkus Mantas su kariuomene įsibrovė į Kulmo žemę.
     - t-004
 
 - c-005
@@ -542,13 +557,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414009-415254; hash=03d7b8f0f8ac43cfe3f240698938dcb7b07316cfe768b8c0907ec019b768e8f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekste aiškiai pasakyta, kad Herkus Mantas su kariuomene įsiveržė į Kulmo žemę.
     - t-009
 
 - c-006
@@ -568,13 +583,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 414009-415254; hash=03d7b8f0f8ac43cfe3f240698938dcb7b07316cfe768b8c0907ec019b768e8f0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hirtshalsas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hirtshalsas: mention_match, person, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Hirtshalsas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: surenge_zygi_i -> Kulmas: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai mini Herkaus Manto įsiveržimą į Kulmo žemę.
     - t-002
 
 - c-007
@@ -653,13 +668,13 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 19933-20431; hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Tekste nurodyta, kad Manto vadovaujami prūsai sutriuškino kryžiuočius.
     - t-006
 
 - c-010
@@ -749,21 +764,31 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   irodymo_stiprumas: 0.00
   saltinio_vieta: 374656-375104; hash=42be6f24112930926628752664efd060f0cd19cb5bd44aa813103f05952d828b; match=ocr_normalized_gapped
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Herkus Mantas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Notangai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata nurodo, kad notangai Herkų Mantą išsirinko vadu ir vyresniuoju.
     - t-011
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=84608a8debaba35dafaa659bedfc9c773e532a1f82cc6fa69b17e4c3a8472e56; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herkus Mantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herkus Mantas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys sieja Herkaus Manto vadovaujamus prūsus su kryžiuočių sutriuškinimu.
+
+## Ryšiai
+- [[objektai/grupes/Notangai]] paskyre Herkus Mantas
+- Herkus Mantas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Herkus Mantas puole [[objektai/asmenys/Henrikas Ulenbušas]]
+- Herkus Mantas puole [[objektai/vietos/Kulmas]]
+- [[objektai/asmenys/Helvigas iš Goldbacho]] puole Herkus Mantas
+- [[objektai/asmenys/Henrikas iš Šenenbergo]] puole Herkus Mantas
+- Herkus Mantas surenge_zygi_i [[objektai/vietos/Kulmas]]
+- Herkus Mantas dalyvavo_musyje [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

@@ -96,7 +96,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - t-006
   global_id: t-72613
   teiginys: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; llm_object: [[objektai/asmenys/Aleksandras|Aleksandras]]'
+  semantiniai_rysiai: '[[objektai/grupes/Ponų taryba|Ponų taryba]] paskyrė [[objektai/asmenys/Aleksandras|Aleksandras]]'
   temporaliniai_duomenys: 'įvykio data: 1492 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -143,13 +144,13 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217894-218403; hash=feb427e9cf7ba69af7cefcd286de078ab8e2b8a572c81a5a84566c276190262c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ponų taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponų taryba (institucija)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Aleksandras: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ponų taryba (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Taryba tiesiogiai įvardyta kaip išrinkusi Aleksandrą.
 
 <a id="claim-t-187736"></a>
 - t-011
@@ -159,19 +160,20 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Ponų tarybos veiksmą ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; llm_object: [[objektai/asmenys/Goštautas|Goštautas]]'
+  semantiniai_rysiai: '[[objektai/grupes/Ponų taryba|Ponų taryba]] paskyrė [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-009
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219930-220836; hash=379332ac2b255a07e2a061754a8edf8533c937a80a4138e65d93b54360f8fe79; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ponų taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponų taryba (institucija)" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Mazovija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jurgio Nosutos pabėgimas į Mazoviją tiesiogiai nurodo judėjimą į vietą.
 
 <a id="claim-t-187738"></a>
 - t-012
@@ -454,13 +456,13 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 217894-218403; hash=feb427e9cf7ba69af7cefcd286de078ab8e2b8a572c81a5a84566c276190262c; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ponų taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponų taryba (institucija)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: paskyre -> Aleksandras: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ponų taryba (institucija): llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Aleksandras: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Taryba tiesiogiai įvardyta kaip išrinkusi Aleksandrą.
     - t-011
 
 - c-010
@@ -480,13 +482,13 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   irodymo_stiprumas: 0.00
   saltinio_vieta: 219930-220836; hash=379332ac2b255a07e2a061754a8edf8533c937a80a4138e65d93b54360f8fe79; match=whitespace_regex
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ponų taryba (institucija): owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponų taryba (institucija)" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Mazovija: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jurgis Nosuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Jurgio Nosutos pabėgimas į Mazoviją tiesiogiai nurodo judėjimą į vietą.
     - t-012
 
 - c-011
@@ -551,3 +553,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   ryšio_subjekto_parinkimas: Ponų taryba (institucija): owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=31
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponų taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Ponų taryba (institucija) paskyre [[objektai/asmenys/Aleksandras]]
+- Ponų taryba (institucija) siunte_i [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- Ponų taryba (institucija) paskyre [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

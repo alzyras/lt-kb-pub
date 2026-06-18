@@ -30,20 +30,19 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   global_id: t-181244
   teiginys: 'Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.'
   sudarymo_pagrindimas: 'Reikia išplėsti įvardžius ir aiškiai įvardyti veikėjus.'
-  susije_objektai: 'spouse: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Habsburgai|Habsburgai]] susiję su [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471617-471912; hash=67f6f8a7d3b9357e7baea856107f066cdc40d61d89d07fa15d1c5a7989d24111; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.87
+  ryšio_patikimumas: susije_su -> Viena: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Habsburgai: owner_note_path, group, gap=5
-  ryšio_targeto_parinkimas: Augustas: nearest_person_after_predicate, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Habsburgai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Habsburgai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habsburgai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182891"></a>
 - t-002
@@ -118,13 +117,13 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   irodymo_stiprumas: 0.00
   saltinio_vieta: 471617-471912; hash=67f6f8a7d3b9357e7baea856107f066cdc40d61d89d07fa15d1c5a7989d24111; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.87
+  ryšio_patikimumas: susije_su -> Viena: 0.85
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: same_sentence_locality; multiple_competing_people
-  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
-  ryšio_subjekto_parinkimas: Habsburgai: owner_note_path, group, gap=5
-  ryšio_targeto_parinkimas: Augustas: nearest_person_after_predicate, person, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Habsburgai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: same_sentence_locality, multiple_competing_people.
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Habsburgai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habsburgai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
   irodymo_stiprumas: 0.00
   saltinio_vieta: 422148-422462; hash=38f6d36888ba86b376c23e9f8ce9b25ac6e43cd65209b8c6ce703142efd866eb; match=exact
@@ -138,4 +137,4 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Habsburgai" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Habsburgai susije_su [[objektai/asmenys/Augustas]]
+- Habsburgai buvo_priesas [[objektai/grupes/Jogailaičiai]]

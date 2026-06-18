@@ -45,6 +45,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   ryšio_subjekto_parinkimas: Brandenburgo pilis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=70
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brandenburgo pilis" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-184072|Glapas]]: Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.
+- susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62751|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-184072|Glapas]]: Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.
 - susijęs iš [[objektai/autoriai/Hennenberger C.md#claim-t-64604|Hennenberger C]]: C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
@@ -82,3 +84,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   ryšio_subjekto_parinkimas: Brandenburgo pilis: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=70
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brandenburgo pilis" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Glapas]] uzeme Brandenburgo pilis
+- [[objektai/grupes/Varmiai]] uzeme Brandenburgo pilis

@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_person: [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_person: [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -56,13 +56,13 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: pastate -> Karšuva: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Burchardas nurodė pastatyti pilį Karšuvoje, tačiau leidžiamuose objektuose nėra pačios pilies, todėl ryšys vedamas į vietą.
 
 <a id="claim-t-183955"></a>
 - t-002
@@ -99,11 +99,11 @@ Nenurodyta
   irodymo_stiprumas: 0.00
   saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumas: pastate -> Karšuva: 0.60
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Burchardas nurodė pastatyti pilį Karšuvoje, tačiau leidžiamuose objektuose nėra pačios pilies, todėl ryšys vedamas į vietą.
     - t-002

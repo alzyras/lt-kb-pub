@@ -80,3 +80,6 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
   ryšio_subjekto_parinkimas: Šventasis Kazimieras: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=28
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventasis Kazimieras" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Šventasis Kazimieras gyveno [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]

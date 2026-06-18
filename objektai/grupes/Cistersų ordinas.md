@@ -33,19 +33,19 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-88536
   teiginys: 'Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra antraščių triukšmas, bet citata palaiko trumpą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kristijonas gyveno kaip Prūsijos vyskupas.
 
 <a id="claim-t-88537"></a>
 - t-002
@@ -58,20 +58,20 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129397-130171; hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumas: gyveno -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kristijonas minimas kaip misijos Prūsijoje vadovas, todėl ryšys su Prūsija pagrįstas, nors tai labiau veiklos vieta nei gyvenimas.
 
 <a id="claim-t-88538"></a>
 - t-003
   global_id: t-88538
   teiginys: 'Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir antraščių triukšmas, paliktas citatos pagrįstas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-88539
   teiginys: '1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija apie Cistersų ordino vienuolį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Oliva; mentioned_place: Santyras'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Oliva; mentioned_place: Santyras; llm_object: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1210 m.; įvykio data: 1212 m.; įvykio data: apie 1212 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija apie Cistersų ordino vienuolį.'
@@ -99,13 +99,13 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kristijonas gyveno kaip Prūsijos vyskupas.
 - susijęs iš [[objektai/grupes/Kartūzų ordinas.md#claim-t-63007|Kartūzų ordinas]]: Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.
 ## Reikšmingi paminėjimai
 
@@ -145,13 +145,13 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 129397-130171; hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumas: gyveno -> Prūsija: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kristijonas minimas kaip misijos Prūsijoje vadovas, todėl ryšys su Prūsija pagrįstas, nors tai labiau veiklos vieta nei gyvenimas.
     - t-004
 
 - c-003
@@ -179,24 +179,24 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kristijonas gyveno kaip Prūsijos vyskupas.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: 128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Cistersų ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cistersų ordinas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: gyveno -> Prūsija: 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kristijonas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Kristijonas gyveno kaip Prūsijos vyskupas.
     - t-003
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=fa98150b1e701f52f3382778eb2729fef90fc50eb578b9256ca91086d81a4c5f; match=fallback; occurrences=0

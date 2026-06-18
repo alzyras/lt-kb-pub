@@ -39,13 +39,13 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=67c102f68b87e693ab1672ab5a37620a0bfd5ce0cb731bc90432f7d780c27cc8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Butautas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Survila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Butautas: mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Survila" parinktas kaip owner_note_path. Targetas "Butautas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Butautas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Survila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Butautas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Survila tiesiogiai vadinamas Butauto draugu ir kartu su juo pabėgo.
 
 <a id="claim-t-82731"></a>
 - t-002
@@ -71,7 +71,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 - t-003
   global_id: t-82732
   teiginys: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Butautas|Butautas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Survila|Survila]] buvo sąjungininkas su [[objektai/asmenys/Butautas|Butautas]]'
   temporaliniai_duomenys: 'įvykio data: 1365 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -96,6 +97,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 - susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-39507|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-183733|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-39509|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
+- susijęs iš [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas.md#claim-t-34537|Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]: Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -173,10 +175,15 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=67c102f68b87e693ab1672ab5a37620a0bfd5ce0cb731bc90432f7d780c27cc8; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Butautas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Survila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Butautas: mention_match, person, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Survila" parinktas kaip owner_note_path. Targetas "Butautas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_sajungininkas_su -> Butautas: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Survila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Butautas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Survila tiesiogiai vadinamas Butauto draugu ir kartu su juo pabėgo.
+
+## Ryšiai
+- Survila buvo_sajungininkas_su [[objektai/asmenys/Butautas]]
+- [[objektai/asmenys/Butautas]] buvo_sajungininkas_su Survila
+- Survila keliavo_i [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]

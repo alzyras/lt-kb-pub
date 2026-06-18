@@ -29,7 +29,7 @@ periodo_grupes: []
   global_id: t-176407
   teiginys: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir aiškiai įvardyti ginčo dalyviai.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   semantiniai_rysiai: '[[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
@@ -42,7 +42,8 @@ periodo_grupes: []
   global_id: t-176408
   teiginys: '1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   sudarymo_pagrindimas: 'Pašalinta neaiški įvardžio nuoroda ir suformuotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: D. Naugardas; mentioned_place: Naugardas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: D. Naugardas; mentioned_place: Naugardas; llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] rėmė [[objektai/asmenys/Jadvyga|Jadvyga]]'
   temporaliniai_duomenys: 'įvykio data: 1388-1389; įvykio data: 1389 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta neaiški įvardžio nuoroda ir suformuotas pilnas sakinys.'
@@ -51,20 +52,21 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=04a752731c4a25cb705db0f72ebf16a3228481a69940dd16e1dc29d46b75f640; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila turėjo vesti Jadvygą.
 
 <a id="claim-t-176410"></a>
 - t-003
   global_id: t-176410
   teiginys: 'Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūko aiškaus veiksnio, kas vainikavo; citata patikimai palaiko pasyvią formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: Krokuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Jadvyga|Jadvyga]]; [[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūko aiškaus veiksnio, kas vainikavo; citata patikimai palaiko pasyvią formą.'
@@ -73,13 +75,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=940aa22242f3b440b4f5f0eb604c5bcdcebe0c43e1a1b62a8079a256837934fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Jadvyga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Ištikimybės priesaika Jadvygai tiesiogiai rodo politinį rėmimo/paklusnumo ryšį.
 
 <a id="claim-t-176411"></a>
 - t-004
@@ -104,8 +106,10 @@ periodo_grupes: []
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51027|Jadvyga (Jogailos duktė)]]: Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176430|Jadvyga Jogailienė]]: Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
+- susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51027|Jadvyga (Jogailos duktė)]]: Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51028|Jadvyga (Jogailos duktė)]]: Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-12172|Jadvyga Jogailienė]]: Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.
@@ -172,6 +176,8 @@ periodo_grupes: []
 - susijęs iš Vokė: Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
 - susijęs iš Vokė: Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
+- susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -205,13 +211,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=04a752731c4a25cb705db0f72ebf16a3228481a69940dd16e1dc29d46b75f640; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: vede -> Jadvyga: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila turėjo vesti Jadvygą.
     - t-003
 
 - c-003
@@ -232,13 +238,13 @@ periodo_grupes: []
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=940aa22242f3b440b4f5f0eb604c5bcdcebe0c43e1a1b62a8079a256837934fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: reme -> Jadvyga: 0.82
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Ištikimybės priesaika Jadvygai tiesiogiai rodo politinį rėmimo/paklusnumo ryšį.
     - t-001
 
 - c-004
@@ -278,6 +284,10 @@ periodo_grupes: []
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]] buvo_dukte Jadvyga
 - Jadvyga keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Jadvyga Jogailienė]] paskyre Jadvyga
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] vede Jadvyga
+- Jadvyga keliavo_i [[objektai/vietos/Lvovas]]
+- [[objektai/asmenys/Švitrigaila]] reme Jadvyga
+- Jadvyga keliavo_i [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lietuva]] priklause Jadvyga
+- [[objektai/vietos/Rusija]] priklause Jadvyga

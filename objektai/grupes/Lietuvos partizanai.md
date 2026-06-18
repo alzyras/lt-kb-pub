@@ -35,7 +35,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   global_id: t-74759
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo laikotarpį ir partizanų būrių dydį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
+  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; llm_object: [[objektai/grupes/NKVD|NKVD]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]] valdė teritoriją Lietuva; [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]] kariavo prieš [[objektai/grupes/NKVD|NKVD]]'
   temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo laikotarpį ir partizanų būrių dydį.'
@@ -87,13 +88,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9873249d99d7de969d2d5b50d539e6d55356bc62ff371e71348786c66e270220; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos partizanai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos partizanai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai pasakyta, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.
 
 <a id="claim-t-74765"></a>
 - t-005
@@ -228,13 +229,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=9873249d99d7de969d2d5b50d539e6d55356bc62ff371e71348786c66e270220; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos partizanai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos partizanai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: valde_teritorija -> Lietuva: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Lietuvos partizanai: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje aiškiai pasakyta, kad partizanų būriai kontroliavo visą Lietuvą, išskyrus miestus.
     - t-005
 
 - c-005
@@ -323,3 +324,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   ryšio_subjekto_parinkimas: Lietuvos partizanai: owner_note_path, group, gap=0
   ryšio_targeto_parinkimas: Lietuva: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos partizanai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Lietuvos partizanai valde [[objektai/vietos/Lietuva]]
+- Lietuvos partizanai valde_teritorija [[objektai/vietos/Lietuva]]
+- Lietuvos partizanai kariavo_pries [[objektai/grupes/NKVD]]

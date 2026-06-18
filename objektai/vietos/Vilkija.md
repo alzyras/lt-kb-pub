@@ -88,3 +88,6 @@ amziai:
   ryšio_subjekto_parinkimas: Vilkija: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=13
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilkija" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Vilkija priklause [[objektai/vietos/Paštuvos valsčius]]

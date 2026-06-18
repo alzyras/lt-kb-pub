@@ -29,7 +29,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   global_id: t-41107
   teiginys: 'Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]'
+  semantiniai_rysiai: '[[objektai/grupes/P. Lukšio rinktinė|P. Lukšio rinktinė]] priklausė [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
@@ -38,13 +39,13 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40ab4c12f973ef387756f409c9773cc3f52012c440a6b1e63f29fd96d6b24b8c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstučio apygarda: 0.85
+  ryšio_patikimumas: priklause -> Prisikėlimo apygarda: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: P. Lukšio rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kęstučio apygarda: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Lukšio rinktinė" parinktas kaip owner_note_path. Targetas "Kęstučio apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: P. Lukšio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prisikėlimo apygarda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad P. Lukšio rinktinė buvo atkurta Prisikėlimo apygardoje, todėl priklausymo ryšys tikėtinas, bet ne visiškai tiesiogiai įvardytas.
 
 <a id="claim-t-41108"></a>
 - t-002
@@ -123,10 +124,13 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=40ab4c12f973ef387756f409c9773cc3f52012c440a6b1e63f29fd96d6b24b8c; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstučio apygarda: 0.85
+  ryšio_patikimumas: priklause -> Prisikėlimo apygarda: 0.70
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: P. Lukšio rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kęstučio apygarda: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Lukšio rinktinė" parinktas kaip owner_note_path. Targetas "Kęstučio apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: P. Lukšio rinktinė: llm_allowed_candidate, group
+  ryšio_targeto_parinkimas: Prisikėlimo apygarda: llm_allowed_candidate, group
+  ryšio_paaiskinimas: Teiginys rodo, kad P. Lukšio rinktinė buvo atkurta Prisikėlimo apygardoje, todėl priklausymo ryšys tikėtinas, bet ne visiškai tiesiogiai įvardytas.
+
+## Ryšiai
+- P. Lukšio rinktinė priklause [[objektai/grupes/Prisikėlimo apygarda]]

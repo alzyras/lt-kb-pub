@@ -46,6 +46,7 @@ Suchodolskio kavalerijos daliniu.
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suchodolskis" parinktas kaip owner_note_path. Targetas "1863-1864 m. sukilėlių vėliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Karolis Jastržembskis.md#claim-t-40271|Karolis Jastržembskis]]: Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.
 - susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
+- susijęs iš [[objektai/asmenys/Karolis Jastržembskis.md#claim-t-40271|Karolis Jastržembskis]]: Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,3 +77,6 @@ Suchodolskio kavalerijos daliniu.
   ryšio_subjekto_parinkimas: Suchodolskis: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: 1863-1864 m. sukilėlių vėliava: mention_match, thing, gap=5
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suchodolskis" parinktas kaip owner_note_path. Targetas "1863-1864 m. sukilėlių vėliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Karolis Jastržembskis]] kariavo_pries Suchodolskis

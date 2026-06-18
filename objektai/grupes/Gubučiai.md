@@ -25,7 +25,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalintas OCR triukšmas ir palikta citatos paremta informacija.'
-  susije_objektai: 'mentioned_place: Partigala; mentioned_place: Baiga; mentioned_place: Varmė'
+  susije_objektai: 'llm_object: Varmė; llm_object: Partigala; mentioned_place: Partigala; mentioned_place: Baiga; mentioned_place: Varmė; llm_object: Baiga'
+  semantiniai_rysiai: '[[objektai/grupes/Gubučiai|Gubučiai]] gyveno Varmė; [[objektai/grupes/Gubučiai|Gubučiai]] pastatė Partigala; [[objektai/grupes/Gubučiai|Gubučiai]] puolė Baiga'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
@@ -49,3 +50,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Gubučiai pastate [[objektai/vietos/Partigala]]
+- Gubučiai gyveno [[objektai/vietos/Varmė]]
+- Gubučiai puole [[objektai/vietos/Baiga]]

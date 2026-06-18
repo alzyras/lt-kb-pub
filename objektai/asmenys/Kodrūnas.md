@@ -31,19 +31,20 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
   global_id: t-60356
   teiginys: 'Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.'
   sudarymo_pagrindimas: 'Citata nurodo Kodrūno pareigas ir jo pagalbą užimant pilį.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; llm_object: Baiga'
+  semantiniai_rysiai: '[[objektai/asmenys/Kodrūnas|Kodrūnas]] užėmė Baiga'
   pagrindžia:
     - c-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0d9b4ab641128fb79bb13ea5e065c334eae809f6f401eed8bb08586187abdf4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: uzeme -> Baiga: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kodrūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kodrūnas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kodrūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kodrūnas talkino užimant Baigos pilį; jis nėra pagrindinis užėmėjas, bet dalyvavimas užėmime tiesiogiai palaikomas.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +72,13 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=c0d9b4ab641128fb79bb13ea5e065c334eae809f6f401eed8bb08586187abdf4; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumas: uzeme -> Baiga: 0.68
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kodrūnas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kodrūnas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Kodrūnas: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Baiga: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Kodrūnas talkino užimant Baigos pilį; jis nėra pagrindinis užėmėjas, bet dalyvavimas užėmime tiesiogiai palaikomas.
+
+## Ryšiai
+- Kodrūnas uzeme [[objektai/vietos/Baiga]]

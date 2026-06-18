@@ -32,7 +32,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 - t-001
   global_id: t-35045
   teiginys: 'Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Malburgas; mentioned_place: Ragainė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Malburgas; mentioned_place: Ragainė; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Danuta|Danuta]] buvo duktė [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -60,13 +61,14 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c8be8d9576e9c62d8766bd88b077fb42b58d34956e0e0a2859599c5174cf2fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Danuta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Danuta" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Danuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Danuta vadinama jo seserimi Vytautui, o Kęstutis įvardytas Vytauto tėvu; claimas sieja ją su Kęstučio šeima.
+- susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
 - susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
 ## Reikšmingi paminėjimai
 
@@ -103,13 +105,13 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=0c8be8d9576e9c62d8766bd88b077fb42b58d34956e0e0a2859599c5174cf2fd; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Danuta: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Danuta" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: buvo_dukte -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Danuta: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_paaiskinimas: Citatoje Danuta vadinama jo seserimi Vytautui, o Kęstutis įvardytas Vytauto tėvu; claimas sieja ją su Kęstučio šeima.
     - t-001
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=4d4dd76906617eae5566669197dc8c56474cfe3294d469b974d1ca2f1c3ef041; match=fallback; occurrences=0
@@ -121,3 +123,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   ryšio_subjekto_parinkimas: Danuta: owner_note_path, person, gap=0
   ryšio_targeto_parinkimas: Mozūrija: mention_match, place, gap=27
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Danuta" parinktas kaip owner_note_path. Targetas "Mozūrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]] vede Danuta
+- Danuta buvo_dukte [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -43,7 +43,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-001
   global_id: t-55248
   teiginys: 'Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Karališkasis malūnas Vilniuje priklausė Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,20 +62,21 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Karališkasis malūnas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karališkasis malūnas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Karališkasis malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje objektas įvardijamas kaip Vilniaus malūnas, todėl vieta siejama su Vilniumi.
 
 <a id="claim-t-83469"></a>
 - t-003
   global_id: t-83469
   teiginys: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   sudarymo_pagrindimas: 'Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius; llm_object: Vilnius'
+  semantiniai_rysiai: 'Karališkasis malūnas Vilniuje priklausė Vilnius'
   pagrindžia:
     - c-002
   irodymo_stiprumas: 0.00
@@ -150,10 +152,13 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   irodymo_stiprumas: 0.00
   saltinio_vieta: 535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex
   sprendimo_priezastis: gap::places
-  ryšio_patikimumas: susije_su -> Karališkasis malūnas: 0.85
+  ryšio_patikimumas: priklause -> Vilnius: 0.78
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Karališkasis malūnas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Karališkasis malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: llm_allowed_candidate, place
+  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citatoje objektas įvardijamas kaip Vilniaus malūnas, todėl vieta siejama su Vilniumi.
+
+## Ryšiai
+- Karališkasis malūnas Vilniuje priklause [[objektai/vietos/Vilnius]]

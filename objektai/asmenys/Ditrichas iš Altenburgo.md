@@ -33,7 +33,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   global_id: t-59949
   teiginys: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
   sudarymo_pagrindimas: 'Citata remia pilies statybą ir pareigybę; pradinis teiginys per ilgas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Lunenburgas; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas'
+  susije_objektai: 'llm_object: Lunenburgas; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Lunenburgas; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]] pastatė Lunenburgas'
   pagrindžia:
     - c-003
   irodymo_stiprumas: 0.00
@@ -52,7 +53,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   global_id: t-59950
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.'
   sudarymo_pagrindimas: 'Citata remia žygį prie Bisenės, bet pradinis teiginys yra negramatiškas ir perkrautas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Ragainė'
+  susije_objektai: 'llm_object: Bisenė; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Ragainė'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]] keliavo į Bisenė'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia žygį prie Bisenės, bet pradinis teiginys yra negramatiškas ir perkrautas.'
@@ -61,13 +63,13 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68d31121c351a5387582d984f40ec3e415c0ebe60a8502c0931e18db784947fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bisenė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo, kad Ditrichas iš Altenburgo patraukė link Bisenės pilies.
 
 <a id="claim-t-59951"></a>
 - t-003
@@ -83,20 +85,21 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eb2be142d622eafba612e68b878a0aba07fc4e4ab329522ceee4f5ae8ff4fef9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Gedimino pilies papilio užpuolimą, bet kandidatuose nėra pačios pilies ar papilio, todėl objektas siejamas su Gediminu atsargiai.
 
 <a id="claim-t-59952"></a>
 - t-004
   global_id: t-59952
   teiginys: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ragainė; mentioned_place: Notanga; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ragainė; mentioned_place: Notanga; mentioned_place: Semba; llm_object: [[objektai/asmenys/Gediminas|Gediminas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]] puolė [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis.'
@@ -105,13 +108,13 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57783dc6a65da714ddd6d14f04bf33fd0f1c33380da01ff2f9cebe3250f165cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Lunenburgas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lunenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ditrichas pastatė Lunenburgo pilį; kandidatas yra Lunenburgas.
 - susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -152,13 +155,13 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=eb2be142d622eafba612e68b878a0aba07fc4e4ab329522ceee4f5ae8ff4fef9; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumas: puole -> Gediminas: 0.72
   ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
+  ryšio_paaiskinimas: Tekstas tiesiogiai mini Gedimino pilies papilio užpuolimą, bet kandidatuose nėra pačios pilies ar papilio, todėl objektas siejamas su Gediminu atsargiai.
     - t-004
 
 - c-003
@@ -180,13 +183,13 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=57783dc6a65da714ddd6d14f04bf33fd0f1c33380da01ff2f9cebe3250f165cf; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: pastate -> Lunenburgas: 0.88
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Lunenburgas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Ditrichas pastatė Lunenburgo pilį; kandidatas yra Lunenburgas.
     - t-001
 
 - c-004
@@ -218,10 +221,18 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=68d31121c351a5387582d984f40ec3e415c0ebe60a8502c0931e18db784947fb; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bisenė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Altenburgo" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+  ryšio_patikimumas: keliavo_i -> Bisenė: 0.86
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Ditrichas iš Altenburgo: llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Bisenė: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Citata tiesiogiai rodo, kad Ditrichas iš Altenburgo patraukė link Bisenės pilies.
+
+## Ryšiai
+- Ditrichas iš Altenburgo pastate [[objektai/vietos/Lunenburgas]]
+- Ditrichas iš Altenburgo keliavo_i [[objektai/vietos/Bisenė]]
+- Ditrichas iš Altenburgo surenge_zygi_i [[objektai/vietos/Bisenė]]
+- Ditrichas iš Altenburgo uzeme [[objektai/vietos/Bisenė]]
+- Ditrichas iš Altenburgo puole [[objektai/asmenys/Gediminas]]
+- Ditrichas iš Altenburgo puole [[objektai/grupes/Lietuviai]]

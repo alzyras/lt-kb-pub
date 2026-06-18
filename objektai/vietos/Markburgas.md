@@ -57,9 +57,6 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=23
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
-- susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
-- susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
-- susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/daiktai/Altorius.md#claim-t-59677|Altorius]]: Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.
 - susijęs iš [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga.md#claim-t-175141|Teutonų namų ordino įvilktuvių apeiga]]: Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.
@@ -135,7 +132,3 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=71
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
-
-## Ryšiai
-- [[objektai/asmenys/Konradas (Tiuringijos landgrafas)]] buvo_palaidotas Markburgas
-- [[objektai/asmenys/Konradas (Tiuringijos landgrafas)]] mire Markburgas

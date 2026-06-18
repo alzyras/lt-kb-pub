@@ -73,6 +73,7 @@ Cepra teka maždaug už 8 km į rytus nuo Klecko. Cepra įteka į Lanę apie 10 
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186543|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186545|Klecko mūšis (mūšis, XVI a.)]]: Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.
 - susijęs iš [[objektai/posakiai/nei akių, nei rankos pakelti prieš lietuvių kariuomenę.md#claim-t-78925|nei akių, nei rankos pakelti prieš lietuvių kariuomenę]]: Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186540|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraščio pasakojime prie Cepros upės bemaž visi nuo Klecko mūšio pabėgę totoriai prigėrė upėje ir pelkėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -112,3 +113,6 @@ Cepra teka maždaug už 8 km į rytus nuo Klecko. Cepra įteka į Lanę apie 10 
   ryšio_subjekto_parinkimas: Cepra: owner_note_path, place, gap=0
   ryšio_targeto_parinkimas: Lanė: mention_match, place
   ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cepra" parinktas kaip owner_note_path. Targetas "Lanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/grupes/Totoriai]] keliavo_i Cepra

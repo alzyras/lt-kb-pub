@@ -29,7 +29,8 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   global_id: t-35034
   teiginys: '1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.'
   sudarymo_pagrindimas: 'Citata nurodo, kad Jogaila pasiuntė Vytautą su kariuomene, todėl reikia patikslinti veikėją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Haličas; mentioned_place: Vengrija'
+  susije_objektai: 'llm_object: Haličas; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Haličas; mentioned_place: Vengrija; llm_object: [[objektai/asmenys/Benediktas|Benediktas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] kariavo prieš [[objektai/asmenys/Benediktas|Benediktas]]'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo, kad Jogaila pasiuntė Vytautą su kariuomene, todėl reikia patikslinti veikėją.'
@@ -38,13 +39,13 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=53adbc06a294e0ebf0e77b71d4237e9381833eceb71c1ef919bc7761e4d47f2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Haličas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Benediktas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Benediktas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Haličas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Haličas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė Vytautą su kariuomene į misiją dėl Haličo.
 - susijęs iš [[objektai/grupes/Švento Benedikto ordinas.md#claim-t-59047|Švento Benedikto ordinas]]: Švento Benedikto ordinas pradėjo veikti 500 m. popiežiaus Felikso III laikais.
 - susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
@@ -69,10 +70,13 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   irodymo_stiprumas: 0.00
   saltinio_vieta: hash=53adbc06a294e0ebf0e77b71d4237e9381833eceb71c1ef919bc7761e4d47f2f; match=fallback; occurrences=0
   sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Haličas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Benediktas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Benediktas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+  ryšio_patikimumas: siunte_i -> Haličas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
+  ryšio_sprendimo_taisykle: llm_validated_relation
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
+  ryšio_targeto_parinkimas: Haličas: llm_allowed_candidate, place
+  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė Vytautą su kariuomene į misiją dėl Haličo.
+
+## Ryšiai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Benediktas
